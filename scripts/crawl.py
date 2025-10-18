@@ -230,8 +230,8 @@ class MeetingCrawler:
                         self.docs_cache[doc['id']] = doc
 
                     # テスト用：最初の5ファイルだけ
-                    if len(all_documents) >= 5:
-                        print("⚠️  Test mode: stopping at 5 files")
+                    if len(all_documents) >= 3:
+                        print("⚠️  Test mode: stopping at 3 files")
                         return all_documents
 
                     # レート制限対策
