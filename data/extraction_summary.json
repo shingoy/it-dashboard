@@ -1,19 +1,17 @@
 {
   "total_documents": 2,
-  "successful": 2,
-  "failed": 0,
+  "successful": 0,
+  "failed": 2,
   "results": [
     {
       "doc_id": "1a5cd08a2d2a7481ed338388aaa4f94d",
-      "success": true,
-      "chunks_count": 1,
-      "keywords_count": 10
+      "success": false,
+      "error": "PDF file not found"
     },
     {
       "doc_id": "43a40dc388d307d53ca5ffbcc5f865e8",
-      "success": true,
-      "chunks_count": 3,
-      "keywords_count": 10
+      "success": false,
+      "error": "PDF file not found"
     }
   ]
 }
