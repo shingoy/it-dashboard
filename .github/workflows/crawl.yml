@@ -57,7 +57,9 @@ jobs:
           find data -type f 2>/dev/null || echo "No data/ directory"
       
       - name: Commit and push changes
+        if: steps.check_files.outputs.files_exist == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'Auto-update search index [skip ci]'
-          file_pattern: 'public/* data/*'
+          file_pattern: 'public/ data/'
+          skip_dirty_check: true
