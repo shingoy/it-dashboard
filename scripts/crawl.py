@@ -228,6 +228,10 @@ class MeetingCrawler:
                         all_documents.append(doc)
                         # キャッシュに追加
                         self.docs_cache[doc['id']] = doc
+                    # テスト用：最初の2ファイルだけ
+                    if len(all_documents) >= 2:
+                        print("⚠️  Test mode: stopping at 2 files")
+                        return all_documents
                 
                 # レート制限対策
                 time.sleep(1)
