@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useState, useMemo } from 'react';
 import { Search, Calendar, Building2, FileText, TrendingUp, Loader2, Check, ExternalLink } from 'lucide-react';
 import { Alert, AlertDescription } from '@/components/ui/alert';
@@ -13,7 +15,7 @@ const AGENCIES = [
   { id: 'ppc', name: '個人情報保護委員会' },
 ];
 
-const MEETINGS = {
+const MEETINGS: Record<string, string[]> = {
   digital: [
     'デジタル社会推進会議',
     'データ戦略推進ワーキンググループ',
@@ -76,52 +78,31 @@ const DUMMY_RESULTS = [
   },
 ];
 
-const DUMMY_SUMMARY = {
-  summary: `検索結果から以下の主要なポイントが確認できます：
-
-**生成AIの活用推進**
-政府は生成AIを活用した行政サービスの効率化を積極的に推進しています。AI戦略会議では、各省庁における取り組み事例の共有が行われ、特に自治体レベルでの活用促進が重要課題として位置づけられています。
-
-**マイナンバーの利活用拡大**
-デジタル社会推進会議において、マイナンバーカードを活用した新たなサービス展開が検討されています。健康保険証との一体化の進捗が報告され、今後の普及促進策が協議されました。
-
-**データ連携基盤の整備**
-省庁間のデータ連携を円滑化するため、標準的なデータ形式とAPI仕様の策定が進められています。ベース・レジストリの整備と合わせて、全体的なデータ連携基盤の構築が進行中です。`,
-  sources: [
-    { doc_url: 'https://example.go.jp/ai-strategy/doc001.pdf', meeting: 'AI戦略会議', date: '2025-09-12', pages: '3-5' },
-    { doc_url: 'https://example.go.jp/digital/doc002.pdf', meeting: 'デジタル社会推進会議', date: '2025-08-25', pages: '1-2' },
-    { doc_url: 'https://example.go.jp/digital/doc003.pdf', meeting: 'データ戦略推進ワーキンググループ', date: '2025-07-18', pages: '7-9' },
-  ],
-  cache: { hit: false, key: 'query_abc123' },
-  cost_estimate: { prompt_tokens: 6500, completion_tokens: 450 }
-};
-
 export default function GovITDashboard() {
   const [query, setQuery] = useState('');
   const [dateFrom, setDateFrom] = useState('2025-01-01');
   const [dateTo, setDateTo] = useState('2025-12-31');
-  const [selectedAgencies, setSelectedAgencies] = useState(new Set());
-  const [selectedMeetings, setSelectedMeetings] = useState(new Set());
-  const [searchResults, setSearchResults] = useState([]);
-  const [selectedDocs, setSelectedDocs] = useState(new Set());
+  const [selectedAgencies, setSelectedAgencies] = useState<Set<string>>(new Set());
+  const [selectedMeetings, setSelectedMeetings] = useState<Set<string>>(new Set());
+  const [searchResults, setSearchResults] = useState<any[]>([]);
+  const [selectedDocs, setSelectedDocs] = useState<Set<string>>(new Set());
   const [loading, setLoading] = useState(false);
   const [summaryLoading, setSummaryLoading] = useState(false);
-  const [summary, setSummary] = useState(null);
-  const [summaryMode, setSummaryMode] = useState('auto'); // 'auto' or 'selected'
+  const [summary, setSummary] = useState<any>(null);
+  const [summaryMode, setSummaryMode] = useState('auto');
   const [showToast, setShowToast] = useState(false);
   const [toastMessage, setToastMessage] = useState('');
 
-  const toast = (message) => {
+  const toast = (message: string) => {
     setToastMessage(message);
     setShowToast(true);
     setTimeout(() => setShowToast(false), 3000);
   };
 
-  const toggleAgency = (agencyId) => {
+  const toggleAgency = (agencyId: string) => {
     const newSet = new Set(selectedAgencies);
     if (newSet.has(agencyId)) {
       newSet.delete(agencyId);
-      // Remove all meetings from this agency
       const agencyMeetings = MEETINGS[agencyId] || [];
       agencyMeetings.forEach(m => selectedMeetings.delete(m));
     } else {
@@ -130,7 +111,7 @@ export default function GovITDashboard() {
     setSelectedAgencies(newSet);
   };
 
-  const toggleMeeting = (meeting) => {
+  const toggleMeeting = (meeting: string) => {
     const newSet = new Set(selectedMeetings);
     if (newSet.has(meeting)) {
       newSet.delete(meeting);
@@ -148,7 +129,6 @@ export default function GovITDashboard() {
 
     setLoading(true);
     try {
-      // API検索
       const params = new URLSearchParams({
         q: query,
         from: dateFrom,
@@ -156,7 +136,6 @@ export default function GovITDashboard() {
         size: '50'
       });
       
-      // フィルタを追加
       if (selectedAgencies.size > 0) {
         const agencyNames = Array.from(selectedAgencies).map(id => {
           const agency = AGENCIES.find(a => a.id === id);
@@ -181,32 +160,27 @@ export default function GovITDashboard() {
       setSearchResults(data.hits || []);
       toast(`${data.count || 0}件の結果が見つかりました`);
       
-      // 空結果の場合
       if (data.hits.length === 0) {
         toast('結果が見つかりませんでした。期間を拡大してみてください');
       }
     } catch (error) {
       console.error('Search error:', error);
       toast('検索に失敗しました');
-      // デバッグ用にダミーデータを表示（開発時のみ）
       setSearchResults(DUMMY_RESULTS);
     } finally {
       setLoading(false);
     }
   };
 
-  const handleSummarize = async (mode) => {
+  const handleSummarize = async (mode: string) => {
     setSummaryLoading(true);
     setSummaryMode(mode);
     
     try {
-      // 要約対象のチャンクを取得
       let chunksToSummarize;
       if (mode === 'auto') {
-        // 上位3件を自動選択
         chunksToSummarize = filteredResults.slice(0, 3);
       } else {
-        // ユーザーが選択した文書のみ
         chunksToSummarize = filteredResults.filter(r => selectedDocs.has(r.doc_id));
       }
 
@@ -216,7 +190,6 @@ export default function GovITDashboard() {
         return;
       }
 
-      // Claude APIで要約生成
       const prompt = `以下は日本の政府IT関連会議の議事録・資料からの抜粋です。これらを統合して、主要なポイントを簡潔にまとめてください。
 
 検索クエリ: ${query}
@@ -259,7 +232,6 @@ ${chunksToSummarize.map((chunk, idx) => `
       const data = await response.json();
       const summaryText = data.content[0].text;
 
-      // 要約結果をセット
       setSummary({
         summary: summaryText,
         sources: chunksToSummarize.map(chunk => ({
@@ -284,7 +256,7 @@ ${chunksToSummarize.map((chunk, idx) => `
     }
   };
 
-  const toggleDocSelection = (docId) => {
+  const toggleDocSelection = (docId: string) => {
     const newSet = new Set(selectedDocs);
     if (newSet.has(docId)) {
       newSet.delete(docId);
@@ -312,12 +284,10 @@ ${chunksToSummarize.map((chunk, idx) => `
 
   return (
     <div className="min-h-screen bg-gray-50">
-      {/* Header */}
       <div className="bg-white border-b border-gray-200 sticky top-0 z-10">
         <div className="max-w-[1800px] mx-auto px-6 py-4">
           <h1 className="text-2xl font-bold text-gray-900 mb-4">政府IT会議ダッシュボード</h1>
           
-          {/* Search Bar */}
           <div className="flex gap-3 mb-3">
             <div className="flex-1 relative">
               <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 w-5 h-5" />
@@ -353,7 +323,6 @@ ${chunksToSummarize.map((chunk, idx) => `
             </button>
           </div>
 
-          {/* Active Filters */}
           {(selectedAgencies.size > 0 || selectedMeetings.size > 0) && (
             <div className="flex flex-wrap gap-2">
               {Array.from(selectedAgencies).map(agencyId => {
@@ -376,10 +345,8 @@ ${chunksToSummarize.map((chunk, idx) => `
         </div>
       </div>
 
-      {/* Main Content */}
       <div className="max-w-[1800px] mx-auto px-6 py-6">
         <div className="grid grid-cols-12 gap-6">
-          {/* Left Sidebar - Filters */}
           <div className="col-span-3">
             <div className="bg-white rounded-lg border border-gray-200 p-4 sticky top-24">
               <h3 className="font-semibold text-gray-900 mb-3 flex items-center gap-2">
@@ -419,7 +386,6 @@ ${chunksToSummarize.map((chunk, idx) => `
             </div>
           </div>
 
-          {/* Center - Results */}
           <div className="col-span-6">
             <div className="mb-4 flex items-center justify-between">
               <p className="text-sm text-gray-600">
@@ -487,7 +453,6 @@ ${chunksToSummarize.map((chunk, idx) => `
             </div>
           </div>
 
-          {/* Right Sidebar - Summary */}
           <div className="col-span-3">
             <div className="bg-white rounded-lg border border-gray-200 p-4 sticky top-24">
               <h3 className="font-semibold text-gray-900 mb-3 flex items-center gap-2">
@@ -495,7 +460,6 @@ ${chunksToSummarize.map((chunk, idx) => `
                 要約生成
               </h3>
 
-              {/* Summary Mode Tabs */}
               <div className="flex gap-2 mb-4">
                 <button
                   onClick={() => handleSummarize('auto')}
@@ -522,7 +486,6 @@ ${chunksToSummarize.map((chunk, idx) => `
 
               {summary && !summaryLoading && (
                 <div className="space-y-4">
-                  {/* Cost Badge */}
                   <div className="flex items-center gap-2 text-xs">
                     {summary.cache.hit ? (
                       <span className="px-2 py-1 bg-green-100 text-green-700 rounded flex items-center gap-1">
@@ -536,11 +499,9 @@ ${chunksToSummarize.map((chunk, idx) => `
                     )}
                   </div>
 
-                  {/* Summary Content */}
                   <div className="prose prose-sm max-w-none">
                     <div className="text-sm text-gray-700 whitespace-pre-wrap leading-relaxed">
-                      {summary.summary.split('\n').map((line, idx) => {
-                        // マークダウンの簡易パース
+                      {summary.summary.split('\n').map((line: string, idx: number) => {
                         if (line.startsWith('**') && line.endsWith('**')) {
                           return <h4 key={idx} className="font-bold text-gray-900 mt-3 mb-1">{line.slice(2, -2)}</h4>;
                         } else if (line.startsWith('# ')) {
@@ -548,7 +509,6 @@ ${chunksToSummarize.map((chunk, idx) => `
                         } else if (line.trim() === '') {
                           return <br key={idx} />;
                         } else {
-                          // **太字**を処理
                           const parts = line.split(/(\*\*.*?\*\*)/g);
                           return (
                             <p key={idx} className="mb-2">
@@ -565,11 +525,10 @@ ${chunksToSummarize.map((chunk, idx) => `
                     </div>
                   </div>
 
-                  {/* Sources */}
                   <div className="border-t border-gray-200 pt-3">
                     <p className="text-xs font-semibold text-gray-700 mb-2">出典</p>
                     <div className="space-y-2">
-                      {summary.sources.map((source, idx) => (
+                      {summary.sources.map((source: any, idx: number) => (
                         <div key={idx} className="text-xs">
                           <a
                             href={source.doc_url}
@@ -600,7 +559,6 @@ ${chunksToSummarize.map((chunk, idx) => `
         </div>
       </div>
 
-      {/* Toast Notification */}
       {showToast && (
         <div className="fixed bottom-6 right-6 z-50 animate-in slide-in-from-bottom-2">
           <Alert className="bg-white shadow-lg border border-gray-200">
