@@ -6,7 +6,7 @@ import json
 import re
 from pathlib import Path
 from typing import List, Dict
-import pymupdf  # PyMuPDF
+
 
 BASE_DIR = Path(__file__).parent.parent
 DATA_DIR = BASE_DIR / "data"
