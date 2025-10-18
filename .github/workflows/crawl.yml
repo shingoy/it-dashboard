@@ -32,22 +32,40 @@ jobs:
       - name: Build index
         run: python scripts/build_index.py
         continue-on-error: true
-      
-      - name: Commit changes
+     
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/ data/docs_cache.json || true
           
-          if ! git diff --quiet || ! git diff --staged --quiet; then
-            git commit -m "Auto-update search index [skip ci]"
+          # Add generated files
+          git add public/ data/ || true
+          
+          # Check if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          
+          # Commit changes
+          git commit -m "Auto-update search index [skip ci]" || exit 0
+          
+          # Try to push, retry on failure
+          for i in {1..5}; do
+            echo "Push attempt $i..."
             
-            # Pull with rebase to avoid conflicts
+            # Pull latest changes
             git pull --rebase origin main || true
             
-            # Push changes
-            git push origin main || echo "Push failed, will retry next time"
-          else
-            echo "No changes to commit"
-          fi
-        continue-on-error: true
+            # Try to push
+            if git push origin main; then
+              echo "✅ Successfully pushed changes"
+              exit 0
+            fi
+            
+            echo "Push failed, retrying in 5 seconds..."
+            sleep 5
+          done
+          
+          echo "⚠️ Failed to push after 5 attempts"
+          exit 1
