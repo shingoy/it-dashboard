@@ -1,0 +1,140 @@
+name: Government IT Meeting Crawler
+
+on:
+  schedule:
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+
+jobs:
+  crawl-and-build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install Python dependencies
+        run: |
+          pip install -r requirements.txt
+      
+      - name: Run crawler
+        id: crawl
+        run: |
+          python scripts/crawl.py
+          echo "status=success" >> $GITHUB_OUTPUT
+        continue-on-error: true
+      
+      - name: Run text extraction
+        id: extract
+        if: steps.crawl.outcome == 'success'
+        run: |
+          python scripts/extract.py
+          echo "status=success" >> $GITHUB_OUTPUT
+        continue-on-error: true
+      
+      - name: Build search index
+        id: build_index
+        if: steps.extract.outcome == 'success'
+        run: |
+          python scripts/build_index.py
+          echo "status=success" >> $GITHUB_OUTPUT
+        continue-on-error: true
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet public/; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add public/
+          git add data/docs_cache.json
+          git commit -m "Update search index - $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+      
+      - name: Upload failed URLs artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: failed-urls-${{ github.run_number }}
+          path: data/failed_urls.json
+          if-no-files-found: ignore
+          retention-days: 30
+      
+      - name: Upload extraction summary
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: extraction-summary-${{ github.run_number }}
+          path: data/extraction_summary.json
+          if-no-files-found: ignore
+          retention-days: 30
+      
+      - name: Create summary
+        if: always()
+        run: |
+          echo "## Crawl Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Crawl**: ${{ steps.crawl.outcome }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Extract**: ${{ steps.extract.outcome }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Build Index**: ${{ steps.build_index.outcome }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Has Changes**: ${{ steps.check_changes.outputs.has_changes }}" >> $GITHUB_STEP_SUMMARY
+```
+
+5. 下の **Commit changes** ボタンをクリック
+6. コミットメッセージを確認して **Commit changes** をクリック
+
+### 方法2: GitHub.devエディタを使う
+
+1. GitHubリポジトリページで **`.`** (ピリオド) キーを押す
+2. VS Code風のエディタが開く
+3. 左側の **Explorer** で右クリック → **New Folder** → `.github`
+4. `.github` を右クリック → **New Folder** → `workflows`
+5. `workflows` を右クリック → **New File** → `crawl.yml`
+6. 上記の内容をペースト
+7. 左側の **Source Control** アイコンをクリック
+8. 変更をコミット＆プッシュ
+
+## 📝 他のファイルも同様に作成
+
+同じ方法で以下のファイルも作成できます：
+
+### `scripts/crawl.py`
+1. **Add file** → **Create new file**
+2. ファイル名: `scripts/crawl.py`
+3. Artifact `crawl-script` の内容をコピー＆ペースト
+4. Commit
+
+### `scripts/extract.py`
+1. ファイル名: `scripts/extract.py`
+2. Artifact `extract-script` の内容をコピー＆ペースト
+3. Commit
+
+### `scripts/build_index.py`
+1. ファイル名: `scripts/build_index.py`
+2. Artifact `build-index-script` の内容をコピー＆ペースト
+3. Commit
+
+### `requirements.txt`
+1. ファイル名: `requirements.txt`
+2. 内容：
+```
+requests==2.31.0
+beautifulsoup4==4.12.3
+pymupdf==1.24.0
+lxml==5.1.0
