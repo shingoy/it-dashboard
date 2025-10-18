@@ -1,21 +1,28 @@
 name: Government IT Meeting Crawler
 
 on:
-  schedule:
-    - cron: '0 21 * * *'
   workflow_dispatch:
 
-concurrency:
-  group: crawler
-  cancel-in-progress: false
-  
 jobs:
   crawl-and-build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+      
+      - name: List all files after checkout
+        run: |
+          echo "Current directory:"
+          pwd
+          echo ""
+          echo "All files:"
+          find . -type f -name "*.py"
+          echo ""
+          echo "Scripts directory:"
+          ls -la scripts/ || echo "scripts/ directory not found!"
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,24 +33,31 @@ jobs:
         run: pip install -r requirements.txt
       
       - name: Run crawler
-        run: python scripts/crawl.py
+        run: |
+          echo "Running crawler..."
+          python scripts/crawl.py
         continue-on-error: true
       
       - name: Run extraction
-        run: python scripts/extract.py
+        run: |
+          echo "Running extraction..."
+          python scripts/extract.py
         continue-on-error: true
       
       - name: Build index
-        run: python scripts/build_index.py
+        run: |
+          echo "Building index..."
+          python scripts/build_index.py
         continue-on-error: true
-     
+      
+      - name: Show generated files
+        run: |
+          echo "Generated files:"
+          find public -type f 2>/dev/null || echo "No public/ directory"
+          find data -type f 2>/dev/null || echo "No data/ directory"
+      
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'Auto-update search index [skip ci]'
           file_pattern: 'public/* data/*'
-          commit_user_name: 'github-actions[bot]'
-          commit_user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
-          skip_fetch: false
-          skip_checkout: false
