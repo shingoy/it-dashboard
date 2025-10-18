@@ -34,38 +34,12 @@ jobs:
         continue-on-error: true
      
       - name: Commit and push changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Add generated files
-          git add public/ data/ || true
-          
-          # Check if there are changes
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-          
-          # Commit changes
-          git commit -m "Auto-update search index [skip ci]" || exit 0
-          
-          # Try to push, retry on failure
-          for i in {1..5}; do
-            echo "Push attempt $i..."
-            
-            # Pull latest changes
-            git pull --rebase origin main || true
-            
-            # Try to push
-            if git push origin main; then
-              echo "✅ Successfully pushed changes"
-              exit 0
-            fi
-            
-            echo "Push failed, retrying in 5 seconds..."
-            sleep 5
-          done
-          
-          echo "⚠️ Failed to push after 5 attempts"
-          exit 1
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Auto-update search index [skip ci]'
+          file_pattern: 'public/* data/*'
+          commit_user_name: 'github-actions[bot]'
+          commit_user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
+          skip_fetch: false
+          skip_checkout: false
