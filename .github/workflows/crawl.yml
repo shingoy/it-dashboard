@@ -13,17 +13,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       
-      - name: List all files after checkout
-        run: |
-          echo "Current directory:"
-          pwd
-          echo ""
-          echo "All files:"
-          find . -type f -name "*.py"
-          echo ""
-          echo "Scripts directory:"
-          ls -la scripts/ || echo "scripts/ directory not found!"
-      
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -33,33 +22,42 @@ jobs:
         run: pip install -r requirements.txt
       
       - name: Run crawler
-        run: |
-          echo "Running crawler..."
-          python scripts/crawl.py
+        run: python scripts/crawl.py
         continue-on-error: true
       
       - name: Run extraction
-        run: |
-          echo "Running extraction..."
-          python scripts/extract.py
+        run: python scripts/extract.py
         continue-on-error: true
       
       - name: Build index
-        run: |
-          echo "Building index..."
-          python scripts/build_index.py
+        run: python scripts/build_index.py
         continue-on-error: true
       
-      - name: Show generated files
+      - name: Check generated files
+        id: check_files
         run: |
-          echo "Generated files:"
-          find public -type f 2>/dev/null || echo "No public/ directory"
-          find data -type f 2>/dev/null || echo "No data/ directory"
+          if [ -d "public/index-shards" ] && [ "$(ls -A public/index-shards)" ]; then
+            echo "files_exist=true" >> $GITHUB_OUTPUT
+            echo "✅ Files generated successfully"
+            ls -la public/index-shards/
+          else
+            echo "files_exist=false" >> $GITHUB_OUTPUT
+            echo "⚠️ No files generated, skipping commit"
+          fi
       
       - name: Commit and push changes
         if: steps.check_files.outputs.files_exist == 'true'
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: 'Auto-update search index [skip ci]'
-          file_pattern: 'public/ data/'
-          skip_dirty_check: true
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add public/ data/ || true
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update search index [skip ci]"
+            git pull --rebase origin main || true
+            git push origin main
+            echo "✅ Changes pushed successfully"
+          fi
