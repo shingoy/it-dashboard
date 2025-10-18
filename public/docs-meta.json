@@ -1,0 +1,22 @@
+[
+  {
+    "doc_id": "43a40dc388d307d53ca5ffbcc5f865e8",
+    "meeting": "AI戦略会議",
+    "agency": "内閣府・内閣官房",
+    "title": "令和７年度予算（PDF形式：553KB）",
+    "date": "2025-10-18",
+    "url": "https://www8.cao.go.jp/cstp/ai/yosan_7nendo.pdf",
+    "pages": 1,
+    "chunks_count": 3
+  },
+  {
+    "doc_id": "1a5cd08a2d2a7481ed338388aaa4f94d",
+    "meeting": "AI戦略会議",
+    "agency": "内閣府・内閣官房",
+    "title": "AI関連予算の推移（PDF形式：267KB）",
+    "date": "2025-10-18",
+    "url": "https://www8.cao.go.jp/cstp/ai/yosan_suii.pdf",
+    "pages": 1,
+    "chunks_count": 1
+  }
+]
