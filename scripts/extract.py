@@ -8,12 +8,12 @@ from pathlib import Path
 from typing import List, Dict
 
 try:
-    import fitz  # PyMuPDF の実際のモジュール名
+    import fitz  # PyMuPDF
     PYMUPDF_AVAILABLE = True
 except ImportError:
-    print("⚠️  PyMuPDF not available, using fallback mode")
+    print("⚠️  PyMuPDF not available")
     PYMUPDF_AVAILABLE = False
-    
+
 BASE_DIR = Path(__file__).parent.parent
 DATA_DIR = BASE_DIR / "data"
 CACHE_DIR = DATA_DIR / "cache"
@@ -26,7 +26,7 @@ class TextExtractor:
         self.chunk_size = 1200
         self.chunk_overlap = 200
     
-     def extract_from_pdf(self, pdf_path: str) -> Dict:
+    def extract_from_pdf(self, pdf_path: str) -> Dict:
         """PDFからテキストを抽出"""
         if not PYMUPDF_AVAILABLE:
             return {
@@ -35,7 +35,7 @@ class TextExtractor:
             }
         
         try:
-            doc = fitz.open(pdf_path)  # pymupdf.open → fitz.open
+            doc = fitz.open(pdf_path)
             pages = []
             
             for page_num in range(len(doc)):
@@ -217,7 +217,7 @@ class TextExtractor:
         """全ドキュメントを処理"""
         docs_file = DATA_DIR / "collected_docs.json"
         if not docs_file.exists():
-            print("❌ No collected documents found. Run crawl.py first.")
+            print("❌ No collected documents found")
             return
         
         with open(docs_file, 'r', encoding='utf-8') as f:
