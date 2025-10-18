@@ -226,6 +226,10 @@ class MeetingCrawler:
                     if pdf_path:
                         doc['pdf_path'] = pdf_path
                         all_documents.append(doc)
+                     # テスト用：最初の2ファイルだけ
+                    if len(all_documents) >= 5:
+                        print("⚠️  Test mode: stopping at 5 files")
+                    return all_documents
                         # キャッシュに追加
                         self.docs_cache[doc['id']] = doc
                 # レート制限対策
