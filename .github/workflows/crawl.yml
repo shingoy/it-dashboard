@@ -37,7 +37,17 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update search index"
-          git push
+          git add public/ data/docs_cache.json || true
+          
+          if ! git diff --quiet || ! git diff --staged --quiet; then
+            git commit -m "Auto-update search index [skip ci]"
+            
+            # Pull with rebase to avoid conflicts
+            git pull --rebase origin main || true
+            
+            # Push changes
+            git push origin main || echo "Push failed, will retry next time"
+          else
+            echo "No changes to commit"
+          fi
         continue-on-error: true
