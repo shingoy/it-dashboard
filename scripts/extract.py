@@ -7,7 +7,6 @@ import re
 from pathlib import Path
 from typing import List, Dict
 
-
 BASE_DIR = Path(__file__).parent.parent
 DATA_DIR = BASE_DIR / "data"
 CACHE_DIR = DATA_DIR / "cache"
