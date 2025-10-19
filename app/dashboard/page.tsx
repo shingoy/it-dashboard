@@ -1,10 +1,8 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
-import { Search, Calendar, Building2, FileText, TrendingUp, Loader2, Check, ExternalLink } from 'lucide-react';
-import { Alert, AlertDescription } from '@/components/ui/alert';
+import React, { useState } from 'react';
+import { Search, Sparkles, Calendar, Building2, ChevronDown, ExternalLink, Loader2, AlertCircle } from 'lucide-react';
 
-// 省庁リスト
 const AGENCIES = [
   { id: 'digital', name: 'デジタル庁' },
   { id: 'cabinet', name: '内閣府・内閣官房' },
@@ -15,79 +13,57 @@ const AGENCIES = [
   { id: 'ppc', name: '個人情報保護委員会' },
 ];
 
-// 会議リスト
-const MEETINGS: Record<string, string[]> = {
-  digital: [
-    'デジタル社会推進会議',
-    'データ戦略推進ワーキンググループ',
-    'マイナンバー制度改善WG',
-    'デジタル臨時行政調査会',
-    'ベース・レジストリ',
-    'ガバメントクラウド',
-  ],
-  cabinet: [
-    'AI戦略会議',
-    'IT総合戦略本部',
-    'サイバーセキュリティ戦略本部',
-  ],
-  mic: ['クラウドサービス関連会議', 'デジタル・ガバメント推進'],
-  meti: ['DX推進関連審議会'],
-  mhlw: ['医療DX推進本部'],
-  mext: ['教育データ利活用（GIGAスクール）'],
-  ppc: ['個人情報保護委員会会議'],
-};
+interface SearchResult {
+  doc_id: string;
+  chunk_id: string;
+  meeting: string;
+  agency: string;
+  date: string;
+  title: string;
+  snippet: string;
+  score: number;
+  url: string;
+  page_from: number;
+  page_to: number;
+}
 
-export default function GovITDashboard() {
+interface Summary {
+  summary: string;
+  sources: Array<{
+    doc_url: string;
+    meeting: string;
+    date: string;
+    pages: string;
+  }>;
+  cost_estimate: {
+    prompt_tokens: number;
+    completion_tokens: number;
+  };
+}
+
+export default function ModernDashboard() {
   const [query, setQuery] = useState('');
+  const [searching, setSearching] = useState(false);
+  const [summarizing, setSummarizing] = useState(false);
+  const [hasSearched, setHasSearched] = useState(false);
+  const [showFilters, setShowFilters] = useState(false);
   const [dateFrom, setDateFrom] = useState('2025-01-01');
   const [dateTo, setDateTo] = useState('2025-12-31');
   const [selectedAgencies, setSelectedAgencies] = useState<Set<string>>(new Set());
-  const [selectedMeetings, setSelectedMeetings] = useState<Set<string>>(new Set());
-  const [searchResults, setSearchResults] = useState<any[]>([]);
-  const [selectedDocs, setSelectedDocs] = useState<Set<string>>(new Set());
-  const [loading, setLoading] = useState(false);
-  const [summaryLoading, setSummaryLoading] = useState(false);
-  const [summary, setSummary] = useState<any>(null);
-  const [summaryMode, setSummaryMode] = useState('auto');
-  const [showToast, setShowToast] = useState(false);
-  const [toastMessage, setToastMessage] = useState('');
-
-  const toast = (message: string) => {
-    setToastMessage(message);
-    setShowToast(true);
-    setTimeout(() => setShowToast(false), 3000);
-  };
-
-  const toggleAgency = (agencyId: string) => {
-    const newSet = new Set(selectedAgencies);
-    if (newSet.has(agencyId)) {
-      newSet.delete(agencyId);
-      const agencyMeetings = MEETINGS[agencyId] || [];
-      agencyMeetings.forEach(m => selectedMeetings.delete(m));
-    } else {
-      newSet.add(agencyId);
-    }
-    setSelectedAgencies(newSet);
-  };
-
-  const toggleMeeting = (meeting: string) => {
-    const newSet = new Set(selectedMeetings);
-    if (newSet.has(meeting)) {
-      newSet.delete(meeting);
-    } else {
-      newSet.add(meeting);
-    }
-    setSelectedMeetings(newSet);
-  };
+  const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
+  const [summary, setSummary] = useState<Summary | null>(null);
+  const [error, setError] = useState<string | null>(null);
 
   const handleSearch = async () => {
-    if (!query.trim()) {
-      toast('検索キーワードを入力してください');
-      return;
-    }
-
-    setLoading(true);
+    if (!query.trim()) return;
+    
+    setSearching(true);
+    setError(null);
+    setHasSearched(false);
+    setSummary(null);
+    
     try {
+      // 検索API呼び出し
       const params = new URLSearchParams({
         q: query,
         from: dateFrom,
@@ -105,53 +81,34 @@ export default function GovITDashboard() {
         }
       }
       
-      if (selectedMeetings.size > 0) {
-        params.append('meetings', Array.from(selectedMeetings).join(','));
-      }
-      
       const response = await fetch(`/api/search?${params}`);
       
       if (!response.ok) {
-        throw new Error('Search request failed');
+        throw new Error('検索に失敗しました');
       }
       
       const data = await response.json();
       setSearchResults(data.hits || []);
-      toast(`${data.count || 0}件の結果が見つかりました`);
+      setHasSearched(true);
       
-      if (data.hits.length === 0) {
-        toast('結果が見つかりませんでした。期間を拡大してみてください');
+      // 検索結果がある場合、自動的に要約を生成
+      if (data.hits && data.hits.length > 0) {
+        generateSummary(data.hits.slice(0, 3));
       }
+      
     } catch (error) {
       console.error('Search error:', error);
-      toast('検索に失敗しました');
+      setError('検索中にエラーが発生しました');
+      setHasSearched(true);
     } finally {
-      setLoading(false);
+      setSearching(false);
     }
   };
 
-  // 🔧 修正: バックエンドAPIを呼び出すように変更
-  const handleSummarize = async (mode: string) => {
-    setSummaryLoading(true);
-    setSummaryMode(mode);
+  const generateSummary = async (results: SearchResult[]) => {
+    setSummarizing(true);
     
     try {
-      let chunksToSummarize;
-      if (mode === 'auto') {
-        chunksToSummarize = filteredResults.slice(0, 3);
-      } else {
-        chunksToSummarize = filteredResults.filter(r => selectedDocs.has(r.doc_id));
-      }
-
-      if (chunksToSummarize.length === 0) {
-        toast('要約する文書がありません');
-        setSummaryLoading(false);
-        return;
-      }
-
-      console.log('📝 Requesting summary for', chunksToSummarize.length, 'chunks');
-
-      // ✅ バックエンドAPIを呼び出す
       const response = await fetch('/api/summarize', {
         method: 'POST',
         headers: {
@@ -159,351 +116,305 @@ export default function GovITDashboard() {
         },
         body: JSON.stringify({
           query: query,
-          chunks: chunksToSummarize.map(chunk => ({
-            meeting: chunk.meeting,
-            agency: chunk.agency,
-            date: chunk.date,
-            title: chunk.title,
-            snippet: chunk.snippet,
-            url: chunk.url,
-            page_from: chunk.page_from,
-            page_to: chunk.page_to
+          chunks: results.map(r => ({
+            meeting: r.meeting,
+            agency: r.agency,
+            date: r.date,
+            title: r.title,
+            snippet: r.snippet,
+            url: r.url,
+            page_from: r.page_from,
+            page_to: r.page_to
           }))
         })
       });
 
       if (!response.ok) {
-        const errorData = await response.json();
-        console.error('❌ Summary API error:', errorData);
-        throw new Error(errorData.error || 'Summary generation failed');
+        throw new Error('要約生成に失敗しました');
       }
 
       const data = await response.json();
-      
       setSummary(data);
-      toast('要約を生成しました');
       
     } catch (error) {
-      console.error('❌ Summary error:', error);
-      toast(`要約生成に失敗しました: ${(error as Error).message}`);
+      console.error('Summary error:', error);
+      setError('要約生成中にエラーが発生しました');
     } finally {
-      setSummaryLoading(false);
+      setSummarizing(false);
     }
   };
 
-  const toggleDocSelection = (docId: string) => {
-    const newSet = new Set(selectedDocs);
-    if (newSet.has(docId)) {
-      newSet.delete(docId);
+  const toggleAgency = (id: string) => {
+    const newSet = new Set(selectedAgencies);
+    if (newSet.has(id)) {
+      newSet.delete(id);
     } else {
-      newSet.add(docId);
+      newSet.add(id);
     }
-    setSelectedDocs(newSet);
+    setSelectedAgencies(newSet);
   };
 
-  const filteredResults = useMemo(() => {
-    return searchResults.filter(result => {
-      if (selectedAgencies.size > 0) {
-        const agencyMatch = Array.from(selectedAgencies).some(agencyId => {
-          const agency = AGENCIES.find(a => a.id === agencyId);
-          return agency && result.agency === agency.name;
-        });
-        if (!agencyMatch) return false;
+  const renderMarkdown = (text: string) => {
+    return text.split('\n').map((line, idx) => {
+      if (line.startsWith('## ')) {
+        return <h3 key={idx} className="text-lg font-bold text-gray-900 mt-6 mb-3">{line.slice(3)}</h3>;
+      } else if (line.startsWith('# ')) {
+        return <h2 key={idx} className="text-xl font-bold text-gray-900 mt-4 mb-3">{line.slice(2)}</h2>;
+      } else if (line.startsWith('**') && line.endsWith('**')) {
+        return <h2 key={idx} className="text-xl font-bold text-gray-900 mt-4 mb-3">{line.slice(2, -2)}</h2>;
+      } else if (line.startsWith('- ')) {
+        const parts = line.slice(2).split(/(\*\*.*?\*\*)/g);
+        return (
+          <li key={idx} className="ml-4 mb-2 text-gray-700">
+            {parts.map((part, i) => 
+              part.startsWith('**') && part.endsWith('**') 
+                ? <strong key={i} className="font-semibold text-gray-900">{part.slice(2, -2)}</strong>
+                : <span key={i}>{part}</span>
+            )}
+          </li>
+        );
+      } else if (line.trim() === '') {
+        return <br key={idx} />;
       }
-      if (selectedMeetings.size > 0 && !selectedMeetings.has(result.meeting)) {
-        return false;
-      }
-      return true;
+      return <p key={idx} className="mb-2 text-gray-700">{line}</p>;
     });
-  }, [searchResults, selectedAgencies, selectedMeetings]);
+  };
 
   return (
-    <div className="min-h-screen bg-gray-50">
-      <div className="bg-white border-b border-gray-200 sticky top-0 z-10">
-        <div className="max-w-[1800px] mx-auto px-6 py-4">
-          <h1 className="text-2xl font-bold text-gray-900 mb-4">政府IT会議ダッシュボード</h1>
-          
-          <div className="flex gap-3 mb-3">
-            <div className="flex-1 relative">
-              <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 w-5 h-5" />
+    <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
+      {/* ヘッダー */}
+      <header className="border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-10">
+        <div className="max-w-4xl mx-auto px-6 py-4 flex items-center justify-between">
+          <div className="flex items-center gap-2">
+            <div className="w-8 h-8 bg-gradient-to-br from-blue-500 to-purple-600 rounded-lg flex items-center justify-center">
+              <Sparkles className="w-5 h-5 text-white" />
+            </div>
+            <h1 className="text-xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+              政府IT検索
+            </h1>
+          </div>
+          <button
+            onClick={() => setShowFilters(!showFilters)}
+            className="px-4 py-2 text-sm text-gray-600 hover:text-gray-900 flex items-center gap-2 transition-colors"
+          >
+            フィルター
+            <ChevronDown className={`w-4 h-4 transition-transform ${showFilters ? 'rotate-180' : ''}`} />
+          </button>
+        </div>
+
+        {/* フィルターパネル（折りたたみ可能） */}
+        {showFilters && (
+          <div className="border-t border-gray-200 bg-gray-50">
+            <div className="max-w-4xl mx-auto px-6 py-4">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-2">期間</label>
+                  <div className="flex items-center gap-2">
+                    <input
+                      type="date"
+                      value={dateFrom}
+                      onChange={(e) => setDateFrom(e.target.value)}
+                      className="flex-1 px-3 py-2 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+                    />
+                    <span className="text-gray-500">〜</span>
+                    <input
+                      type="date"
+                      value={dateTo}
+                      onChange={(e) => setDateTo(e.target.value)}
+                      className="flex-1 px-3 py-2 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+                    />
+                  </div>
+                </div>
+                
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-2">省庁</label>
+                  <div className="flex flex-wrap gap-2">
+                    {AGENCIES.map(agency => (
+                      <button
+                        key={agency.id}
+                        onClick={() => toggleAgency(agency.id)}
+                        className={`px-3 py-1 rounded-full text-sm transition-colors ${
+                          selectedAgencies.has(agency.id)
+                            ? 'bg-blue-100 text-blue-700 border border-blue-300'
+                            : 'bg-white text-gray-600 border border-gray-300 hover:border-gray-400'
+                        }`}
+                      >
+                        {agency.name}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        )}
+      </header>
+
+      {/* メインコンテンツ */}
+      <main className="max-w-4xl mx-auto px-6">
+        {/* 検索ボックス（未検索時は中央、検索後は上部） */}
+        <div className={`transition-all duration-500 ${
+          hasSearched ? 'py-6' : 'py-20 md:py-32'
+        }`}>
+          <div className={`transition-all duration-500 ${
+            hasSearched ? '' : 'text-center'
+          }`}>
+            {!hasSearched && (
+              <div className="mb-8">
+                <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
+                  政府IT会議を検索
+                </h2>
+                <p className="text-lg text-gray-600">
+                  AI、マイナンバー、データ連携など、最新の政策情報を即座に検索
+                </p>
+              </div>
+            )}
+            
+            <div className="relative">
+              <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 w-5 h-5" />
               <input
                 type="text"
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 onKeyDown={(e) => e.key === 'Enter' && handleSearch()}
-                placeholder="キーワードを入力（例: 生成AI、マイナンバー、データ連携）"
-                className="w-full pl-10 pr-4 py-2.5 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+                placeholder="例: 生成AI予算、マイナンバーカード、データ連携基盤..."
+                className="w-full pl-12 pr-32 py-4 text-lg border border-gray-300 rounded-xl shadow-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                autoFocus
               />
+              <button
+                onClick={handleSearch}
+                disabled={!query.trim() || searching}
+                className="absolute right-2 top-1/2 -translate-y-1/2 px-6 py-2 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-lg hover:from-blue-700 hover:to-purple-700 disabled:opacity-50 disabled:cursor-not-allowed font-medium transition-all"
+              >
+                {searching ? <Loader2 className="w-5 h-5 animate-spin" /> : '検索'}
+              </button>
             </div>
-            <input
-              type="date"
-              value={dateFrom}
-              onChange={(e) => setDateFrom(e.target.value)}
-              className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
-            />
-            <span className="self-center text-gray-500">〜</span>
-            <input
-              type="date"
-              value={dateTo}
-              onChange={(e) => setDateTo(e.target.value)}
-              className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
-            />
-            <button
-              onClick={handleSearch}
-              disabled={loading}
-              className="px-6 py-2.5 bg-blue-600 text-white rounded-lg hover:bg-blue-700 disabled:bg-gray-400 flex items-center gap-2 font-medium"
-            >
-              {loading ? <Loader2 className="w-4 h-4 animate-spin" /> : <Search className="w-4 h-4" />}
-              検索
-            </button>
+
+            {!hasSearched && (
+              <div className="mt-6 flex flex-wrap justify-center gap-2">
+                {['生成AI予算', 'マイナンバーカード', 'データ連携', 'サイバーセキュリティ'].map(suggestion => (
+                  <button
+                    key={suggestion}
+                    onClick={() => {
+                      setQuery(suggestion);
+                      setTimeout(handleSearch, 100);
+                    }}
+                    className="px-4 py-2 bg-white border border-gray-300 rounded-full text-sm text-gray-700 hover:border-gray-400 hover:bg-gray-50 transition-colors"
+                  >
+                    {suggestion}
+                  </button>
+                ))}
+              </div>
+            )}
           </div>
-
-          {(selectedAgencies.size > 0 || selectedMeetings.size > 0) && (
-            <div className="flex flex-wrap gap-2">
-              {Array.from(selectedAgencies).map(agencyId => {
-                const agency = AGENCIES.find(a => a.id === agencyId);
-                return (
-                  <span key={agencyId} className="inline-flex items-center gap-1 px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm">
-                    {agency?.name}
-                    <button onClick={() => toggleAgency(agencyId)} className="hover:text-blue-900">×</button>
-                  </span>
-                );
-              })}
-              {Array.from(selectedMeetings).map(meeting => (
-                <span key={meeting} className="inline-flex items-center gap-1 px-3 py-1 bg-green-100 text-green-700 rounded-full text-sm">
-                  {meeting}
-                  <button onClick={() => toggleMeeting(meeting)} className="hover:text-green-900">×</button>
-                </span>
-              ))}
-            </div>
-          )}
         </div>
-      </div>
 
-      <div className="max-w-[1800px] mx-auto px-6 py-6">
-        <div className="grid grid-cols-12 gap-6">
-          <div className="col-span-3">
-            <div className="bg-white rounded-lg border border-gray-200 p-4 sticky top-24">
-              <h3 className="font-semibold text-gray-900 mb-3 flex items-center gap-2">
+        {/* ローディング状態 */}
+        {searching && (
+          <div className="py-12 text-center">
+            <div className="inline-flex items-center gap-3 px-6 py-3 bg-blue-50 rounded-full">
+              <Loader2 className="w-5 h-5 text-blue-600 animate-spin" />
+              <span className="text-blue-900 font-medium">検索中...</span>
+            </div>
+          </div>
+        )}
+
+        {/* エラー表示 */}
+        {error && (
+          <div className="mb-6 p-4 bg-red-50 border border-red-200 rounded-lg flex items-start gap-3">
+            <AlertCircle className="w-5 h-5 text-red-600 mt-0.5" />
+            <div>
+              <h3 className="font-semibold text-red-900">エラー</h3>
+              <p className="text-sm text-red-700">{error}</p>
+            </div>
+          </div>
+        )}
+
+        {/* 検索結果なし */}
+        {hasSearched && !searching && searchResults.length === 0 && !error && (
+          <div className="py-12 text-center">
+            <div className="inline-block p-4 bg-gray-100 rounded-full mb-4">
+              <Search className="w-8 h-8 text-gray-400" />
+            </div>
+            <h3 className="text-lg font-semibold text-gray-900 mb-2">結果が見つかりませんでした</h3>
+            <p className="text-gray-600">別のキーワードや期間で検索してみてください</p>
+          </div>
+        )}
+
+        {/* 検索結果（要約 + ソース） */}
+        {hasSearched && !searching && searchResults.length > 0 && (
+          <div className="pb-12 space-y-8">
+            {/* 要約セクション */}
+            {summarizing && (
+              <div className="bg-white rounded-xl border border-gray-200 shadow-sm p-6">
+                <div className="flex items-center gap-3">
+                  <Loader2 className="w-5 h-5 text-purple-600 animate-spin" />
+                  <span className="text-gray-700 font-medium">AI要約を生成中...</span>
+                </div>
+              </div>
+            )}
+
+            {summary && !summarizing && (
+              <div className="bg-white rounded-xl border border-gray-200 shadow-sm p-6">
+                <div className="flex items-center gap-2 mb-4">
+                  <Sparkles className="w-5 h-5 text-purple-600" />
+                  <h2 className="text-lg font-semibold text-gray-900">AI要約</h2>
+                  <span className="ml-auto text-xs text-gray-500">
+                    {Math.ceil((summary.cost_estimate.prompt_tokens + summary.cost_estimate.completion_tokens) / 1000 * 0.5)}円
+                  </span>
+                </div>
+                <div className="prose prose-sm max-w-none">
+                  {renderMarkdown(summary.summary)}
+                </div>
+              </div>
+            )}
+
+            {/* ソースセクション */}
+            <div>
+              <h3 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-4 flex items-center gap-2">
                 <Building2 className="w-4 h-4" />
-                省庁・会議フィルタ
+                参照元 ({searchResults.length}件)
               </h3>
-              <div className="space-y-3 max-h-[calc(100vh-200px)] overflow-y-auto">
-                {AGENCIES.map(agency => (
-                  <div key={agency.id}>
-                    <label className="flex items-center gap-2 cursor-pointer mb-2">
-                      <input
-                        type="checkbox"
-                        checked={selectedAgencies.has(agency.id)}
-                        onChange={() => toggleAgency(agency.id)}
-                        className="w-4 h-4 text-blue-600 rounded focus:ring-2 focus:ring-blue-500"
-                      />
-                      <span className="font-medium text-gray-700">{agency.name}</span>
-                    </label>
-                    {selectedAgencies.has(agency.id) && MEETINGS[agency.id] && (
-                      <div className="ml-6 space-y-1.5">
-                        {MEETINGS[agency.id].map(meeting => (
-                          <label key={meeting} className="flex items-center gap-2 cursor-pointer text-sm">
-                            <input
-                              type="checkbox"
-                              checked={selectedMeetings.has(meeting)}
-                              onChange={() => toggleMeeting(meeting)}
-                              className="w-3.5 h-3.5 text-green-600 rounded focus:ring-2 focus:ring-green-500"
-                            />
-                            <span className="text-gray-600">{meeting}</span>
-                          </label>
-                        ))}
-                      </div>
-                    )}
+              <div className="space-y-3">
+                {searchResults.map((result) => (
+                  <div
+                    key={result.chunk_id}
+                    className="bg-white rounded-lg border border-gray-200 p-4 hover:shadow-md transition-shadow"
+                  >
+                    <div className="flex items-start justify-between gap-3 mb-2">
+                      <h4 className="font-semibold text-gray-900 flex-1">{result.title}</h4>
+                      <a
+                        href={result.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-blue-600 hover:text-blue-700 flex items-center gap-1 text-sm"
+                      >
+                        <ExternalLink className="w-4 h-4" />
+                      </a>
+                    </div>
+                    <div className="flex items-center gap-2 mb-2 flex-wrap">
+                      <span className="px-2 py-0.5 bg-blue-50 text-blue-700 text-xs rounded font-medium">
+                        {result.agency}
+                      </span>
+                      <span className="px-2 py-0.5 bg-green-50 text-green-700 text-xs rounded">
+                        {result.meeting}
+                      </span>
+                      <span className="text-xs text-gray-500 flex items-center gap-1">
+                        <Calendar className="w-3 h-3" />
+                        {result.date}
+                      </span>
+                      <span className="text-xs text-gray-400">
+                        p.{result.page_from}–{result.page_to}
+                      </span>
+                    </div>
+                    <p className="text-sm text-gray-600">{result.snippet}</p>
                   </div>
                 ))}
               </div>
             </div>
           </div>
-
-          <div className="col-span-6">
-            <div className="mb-4 flex items-center justify-between">
-              <p className="text-sm text-gray-600">
-                {filteredResults.length > 0 && `${filteredResults.length}件の結果`}
-              </p>
-            </div>
-
-            {filteredResults.length === 0 && searchResults.length === 0 && !loading && (
-              <div className="bg-white rounded-lg border border-gray-200 p-12 text-center">
-                <FileText className="w-12 h-12 text-gray-400 mx-auto mb-3" />
-                <p className="text-gray-600 mb-2">検索キーワードを入力してください</p>
-                <p className="text-sm text-gray-500">例: 生成AI、マイナンバー、データ連携、ガバメントクラウド</p>
-              </div>
-            )}
-
-            {loading && (
-              <div className="bg-white rounded-lg border border-gray-200 p-12 text-center">
-                <Loader2 className="w-8 h-8 text-blue-600 mx-auto mb-3 animate-spin" />
-                <p className="text-gray-600">検索中...</p>
-              </div>
-            )}
-
-            <div className="space-y-4">
-              {filteredResults.map(result => (
-                <div key={result.doc_id} className="bg-white rounded-lg border border-gray-200 p-4 hover:shadow-md transition-shadow">
-                  <div className="flex items-start gap-3">
-                    <input
-                      type="checkbox"
-                      checked={selectedDocs.has(result.doc_id)}
-                      onChange={() => toggleDocSelection(result.doc_id)}
-                      className="mt-1 w-4 h-4 text-blue-600 rounded focus:ring-2 focus:ring-blue-500"
-                    />
-                    <div className="flex-1">
-                      <div className="flex items-center gap-2 mb-2">
-                        <span className="px-2 py-0.5 bg-blue-100 text-blue-700 text-xs rounded font-medium">
-                          {result.agency}
-                        </span>
-                        <span className="px-2 py-0.5 bg-green-100 text-green-700 text-xs rounded">
-                          {result.meeting}
-                        </span>
-                        <span className="text-xs text-gray-500 flex items-center gap-1">
-                          <Calendar className="w-3 h-3" />
-                          {result.date}
-                        </span>
-                      </div>
-                      <h3 className="font-semibold text-gray-900 mb-2">{result.title}</h3>
-                      <p className="text-sm text-gray-600 mb-3">{result.snippet}</p>
-                      <div className="flex items-center gap-4 text-sm">
-                        <a
-                          href={result.url}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="text-blue-600 hover:text-blue-700 flex items-center gap-1"
-                        >
-                          <ExternalLink className="w-3.5 h-3.5" />
-                          原文PDF
-                        </a>
-                        <span className="text-gray-500">p.{result.page_from}–{result.page_to}</span>
-                        <span className="text-gray-400">スコア: {result.score.toFixed(1)}</span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              ))}
-            </div>
-          </div>
-
-          <div className="col-span-3">
-            <div className="bg-white rounded-lg border border-gray-200 p-4 sticky top-24">
-              <h3 className="font-semibold text-gray-900 mb-3 flex items-center gap-2">
-                <TrendingUp className="w-4 h-4" />
-                要約生成
-              </h3>
-
-              <div className="flex gap-2 mb-4">
-                <button
-                  onClick={() => handleSummarize('auto')}
-                  disabled={filteredResults.length === 0 || summaryLoading}
-                  className="flex-1 px-3 py-2 text-sm border border-gray-300 rounded-lg hover:bg-gray-50 disabled:bg-gray-100 disabled:text-gray-400"
-                >
-                  上位要約
-                </button>
-                <button
-                  onClick={() => handleSummarize('selected')}
-                  disabled={selectedDocs.size === 0 || summaryLoading}
-                  className="flex-1 px-3 py-2 text-sm border border-gray-300 rounded-lg hover:bg-gray-50 disabled:bg-gray-100 disabled:text-gray-400"
-                >
-                  選択要約 ({selectedDocs.size})
-                </button>
-              </div>
-
-              {summaryLoading && (
-                <div className="text-center py-8">
-                  <Loader2 className="w-6 h-6 text-blue-600 mx-auto mb-2 animate-spin" />
-                  <p className="text-sm text-gray-600">要約生成中...</p>
-                </div>
-              )}
-
-              {summary && !summaryLoading && (
-                <div className="space-y-4">
-                  <div className="flex items-center gap-2 text-xs">
-                    {summary.cache.hit ? (
-                      <span className="px-2 py-1 bg-green-100 text-green-700 rounded flex items-center gap-1">
-                        <Check className="w-3 h-3" />
-                        キャッシュ使用
-                      </span>
-                    ) : (
-                      <span className="px-2 py-1 bg-orange-100 text-orange-700 rounded">
-                        コスト: 約{Math.ceil((summary.cost_estimate.prompt_tokens + summary.cost_estimate.completion_tokens) / 1000 * 0.5)}円
-                      </span>
-                    )}
-                  </div>
-
-                  <div className="prose prose-sm max-w-none">
-                    <div className="text-sm text-gray-700 whitespace-pre-wrap leading-relaxed">
-                      {summary.summary.split('\n').map((line: string, idx: number) => {
-                        if (line.startsWith('**') && line.endsWith('**')) {
-                          return <h4 key={idx} className="font-bold text-gray-900 mt-3 mb-1">{line.slice(2, -2)}</h4>;
-                        } else if (line.startsWith('# ')) {
-                          return <h3 key={idx} className="font-bold text-gray-900 mt-4 mb-2 text-base">{line.slice(2)}</h3>;
-                        } else if (line.trim() === '') {
-                          return <br key={idx} />;
-                        } else {
-                          const parts = line.split(/(\*\*.*?\*\*)/g);
-                          return (
-                            <p key={idx} className="mb-2">
-                              {parts.map((part, i) => {
-                                if (part.startsWith('**') && part.endsWith('**')) {
-                                  return <strong key={i} className="font-semibold text-gray-900">{part.slice(2, -2)}</strong>;
-                                }
-                                return <span key={i}>{part}</span>;
-                              })}
-                            </p>
-                          );
-                        }
-                      })}
-                    </div>
-                  </div>
-
-                  <div className="border-t border-gray-200 pt-3">
-                    <p className="text-xs font-semibold text-gray-700 mb-2">出典</p>
-                    <div className="space-y-2">
-                      {summary.sources.map((source: any, idx: number) => (
-                        <div key={idx} className="text-xs">
-                          <a
-                            href={source.doc_url}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="text-blue-600 hover:text-blue-700 flex items-center gap-1"
-                          >
-                            <ExternalLink className="w-3 h-3" />
-                            {source.meeting}
-                          </a>
-                          <p className="text-gray-500 ml-4">
-                            {source.date} (p.{source.pages})
-                          </p>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                </div>
-              )}
-
-              {!summary && !summaryLoading && (
-                <div className="text-center py-8 text-sm text-gray-500">
-                  検索結果から要約を生成できます
-                </div>
-              )}
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {showToast && (
-        <div className="fixed bottom-6 right-6 z-50 animate-in slide-in-from-bottom-2">
-          <Alert className="bg-white shadow-lg border border-gray-200">
-            <AlertDescription className="flex items-center gap-2">
-              <Check className="w-4 h-4 text-green-600" />
-              {toastMessage}
-            </AlertDescription>
-          </Alert>
-        </div>
-      )}
+        )}
+      </main>
     </div>
   );
 }
