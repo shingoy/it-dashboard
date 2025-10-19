@@ -62,6 +62,12 @@ ${chunks.map((chunk, idx) => `
     // 環境変数からAPIキーを取得
     const apiKey = process.env.ANTHROPIC_API_KEY;
     
+    console.log('🔑 API Key check:', {
+      exists: !!apiKey,
+      prefix: apiKey?.slice(0, 10) || 'NOT SET',
+      allEnvKeys: Object.keys(process.env).filter(k => k.includes('ANTHROPIC'))
+    });
+    
     if (!apiKey) {
       console.error('❌ ANTHROPIC_API_KEY is not set');
       return NextResponse.json(
@@ -75,7 +81,7 @@ ${chunks.map((chunk, idx) => `
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "anthropic-api-key": apiKey,
+        "x-api-key": apiKey,
         "anthropic-version": "2023-06-01"
       },
       body: JSON.stringify({
