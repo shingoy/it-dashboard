@@ -328,5 +328,104 @@
     "date": "2023-07-04",
     "collected_at": "2025-10-19T13:25:53.836052",
     "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/cdea8eae45a2bee60083653d21ccb84a.pdf"
+  },
+  {
+    "id": "9bed6e93c9a99e173079cfcd397172b5",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／599KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/9f746654/20230411_resources_standard_guidelines_guideline_07.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:32:16.520454",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/9bed6e93c9a99e173079cfcd397172b5.pdf"
+  },
+  {
+    "id": "7aeaed606bd41f966ed35f42fad45dcc",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "「政府機関等の対策基準策定のためのガイドライン（令和5年度版）（PDF）」",
+    "url": "https://www.nisc.go.jp/pdf/policy/general/guider5.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:32:16.520510",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/7aeaed606bd41f966ed35f42fad45dcc.pdf"
+  },
+  {
+    "id": "82852646d83bf4988ff6bfe641569236",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／800KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a612d406/20250619_resources_standard_guidelines_guideline_08.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:32:16.520691",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/82852646d83bf4988ff6bfe641569236.pdf"
+  },
+  {
+    "id": "fd5f7c4a4a9e8d973a68e5ced90ae4a5",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／284B）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/0bb1ca1b/20250930_resources_standard_guideline_trustidentityoverview_01.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:32:16.520889",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/fd5f7c4a4a9e8d973a68e5ced90ae4a5.pdf"
+  },
+  {
+    "id": "cdd3ada7be57e37ea4c8481f636513e0",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／1,752KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/12cb1a6c/20250930_resources_standard_guideline_identityverification_01.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:32:16.521071",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/cdd3ada7be57e37ea4c8481f636513e0.pdf"
+  },
+  {
+    "id": "e52b56d7b99e84e4df23bff294869508",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_改定に向けた中間とりまとめ（令和4年度（2022年度））（PDF／3,580KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/de38e250/20230629_resources_standard_guidelines_outline_01.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:32:16.521249",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/e52b56d7b99e84e4df23bff294869508.pdf"
+  },
+  {
+    "id": "76b54fb40b96e0db972f395e21859029",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_改定に向けた中間とりまとめ（令和5年度（2023年度））（PDF／2,123KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/4045b771/20240723_resources_standard_guidelines_outline_01.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:32:16.521428",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/76b54fb40b96e0db972f395e21859029.pdf"
+  },
+  {
+    "id": "e61f252d8a62fb0d09bbe1fde5fdbef2",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_改定に向けたとりまとめ（令和6年度（2024年度））（PDF／1,152KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/d4b9a4a6/20250401_resources_standard_guidelines_outline_01.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:32:16.521603",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/e61f252d8a62fb0d09bbe1fde5fdbef2.pdf"
+  },
+  {
+    "id": "b5e984c660445363cc5a2b7b0f983109",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／1,633KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/f1be078e/20220422_resources_standard_guidelines_guideline_07.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:32:16.521792",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/b5e984c660445363cc5a2b7b0f983109.pdf"
   }
 ]

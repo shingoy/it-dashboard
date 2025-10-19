@@ -1,12 +1,92 @@
 [
   {
-    "doc_id": "95426a4accae538d03d39a24f66ec0f1",
-    "meeting": "デジタル臨時行政調査会",
+    "doc_id": "7aeaed606bd41f966ed35f42fad45dcc",
+    "meeting": "デジタル社会推進標準ガイドライン",
     "agency": "デジタル庁",
-    "title": "（別紙）デジタル原則に照らした規制の一括見直しプラン（PDF／2,867KB）",
-    "date": "2025-10-19",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/5d7f0bd3/20230314_policies_digital-extraordinary-administrative-research-committee_outline_02.pdf",
-    "pages": 42,
+    "title": "「政府機関等の対策基準策定のためのガイドライン（令和5年度版）（PDF）」",
+    "date": "2023-07-04",
+    "url": "https://www.nisc.go.jp/pdf/policy/general/guider5.pdf",
+    "pages": 500,
+    "chunks_count": 507
+  },
+  {
+    "doc_id": "e61f252d8a62fb0d09bbe1fde5fdbef2",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_改定に向けたとりまとめ（令和6年度（2024年度））（PDF／1,152KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/d4b9a4a6/20250401_resources_standard_guidelines_outline_01.pdf",
+    "pages": 50,
+    "chunks_count": 25
+  },
+  {
+    "doc_id": "9bed6e93c9a99e173079cfcd397172b5",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／599KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/9f746654/20230411_resources_standard_guidelines_guideline_07.pdf",
+    "pages": 25,
     "chunks_count": 22
+  },
+  {
+    "doc_id": "cdd3ada7be57e37ea4c8481f636513e0",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／1,752KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/12cb1a6c/20250930_resources_standard_guideline_identityverification_01.pdf",
+    "pages": 56,
+    "chunks_count": 38
+  },
+  {
+    "doc_id": "fd5f7c4a4a9e8d973a68e5ced90ae4a5",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／284B）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/0bb1ca1b/20250930_resources_standard_guideline_trustidentityoverview_01.pdf",
+    "pages": 6,
+    "chunks_count": 4
+  },
+  {
+    "doc_id": "82852646d83bf4988ff6bfe641569236",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／800KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a612d406/20250619_resources_standard_guidelines_guideline_08.pdf",
+    "pages": 49,
+    "chunks_count": 42
+  },
+  {
+    "doc_id": "e52b56d7b99e84e4df23bff294869508",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_改定に向けた中間とりまとめ（令和4年度（2022年度））（PDF／3,580KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/de38e250/20230629_resources_standard_guidelines_outline_01.pdf",
+    "pages": 59,
+    "chunks_count": 41
+  },
+  {
+    "doc_id": "b5e984c660445363cc5a2b7b0f983109",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／1,633KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/f1be078e/20220422_resources_standard_guidelines_guideline_07.pdf",
+    "pages": 67,
+    "chunks_count": 53
+  },
+  {
+    "doc_id": "76b54fb40b96e0db972f395e21859029",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_改定に向けた中間とりまとめ（令和5年度（2023年度））（PDF／2,123KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/4045b771/20240723_resources_standard_guidelines_outline_01.pdf",
+    "pages": 61,
+    "chunks_count": 30
   }
 ]

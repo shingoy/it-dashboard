@@ -1,12 +1,12 @@
 {
-  "total_documents": 30,
+  "total_documents": 39,
   "already_processed": 0,
-  "batch_size": 3,
-  "successful": 0,
+  "batch_size": 39,
+  "successful": 9,
   "already_processed_in_batch": 0,
-  "failed": 3,
+  "failed": 30,
   "timeout": 0,
-  "remaining": 27,
+  "remaining": 0,
   "results": [
     {
       "doc_id": "0df9dcc6b12e854620b81eb1f4406e76",
@@ -22,6 +22,204 @@
       "doc_id": "1d0d940594d2f75bbb2acf479cfcd0db",
       "success": false,
       "error": "PDF file not found"
+    },
+    {
+      "doc_id": "80e217298f6ef3f1ef8c7ef4d0933b99",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "f331d7b5df3929b31716642573dba296",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "001585492bc8a696ddfa5b234d444203",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "17265ac8b338773c0d5816ce12145031",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "7d16c6492f3bf68423042ef6c9ea7869",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "ec8a538e673d953ffe193cf7997a6e13",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "7e4956c0c90f20ff136dc5afbc2d303a",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "f19d291a997ddaf5a6459072d2b0454a",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "369459933c3617e8f398049bed618c5c",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "3af0cf023dbe04081c43a9cd2102cb6a",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "9bb7a958c2412f9c32be222e7f3e30af",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "7c8f47c8f79ef2123b79ebf159b8d7c5",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "09e35e707fe16229bf3d18490cfaeb77",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "d599b9de73060426993769a25b497c36",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "5a02843ac422937db718a0771275dcab",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "942330b3e46ce4920c504ceb1e7fa0e2",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "ea4086bfa48f08e727082693a1ccd98e",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "b5d71d33f8d63bbff48825442e3d8d23",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "59fd4957d4756fe2870e7aa1be2c0060",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "8924e19b781c18e87de87f1d7774afd4",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "2752a2a3dd7de5acb3f6944041150833",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "a52e82dcb90a44ba579f41dbfae23481",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "e679e180701806981ac3216948024d89",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "5e487c969a831d5f9dca4f9826f3d228",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "1754bb7f7b1346e137ff0db7a8333d88",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "b6bb9799f42dc0ecc8ef9dfd6ed95c9c",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "cdea8eae45a2bee60083653d21ccb84a",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "9bed6e93c9a99e173079cfcd397172b5",
+      "success": true,
+      "chunks_count": 22,
+      "keywords_count": 10,
+      "processing_time": 0.13008451461791992
+    },
+    {
+      "doc_id": "7aeaed606bd41f966ed35f42fad45dcc",
+      "success": true,
+      "chunks_count": 507,
+      "keywords_count": 10,
+      "processing_time": 1.2328765392303467
+    },
+    {
+      "doc_id": "82852646d83bf4988ff6bfe641569236",
+      "success": true,
+      "chunks_count": 42,
+      "keywords_count": 10,
+      "processing_time": 0.07247638702392578
+    },
+    {
+      "doc_id": "fd5f7c4a4a9e8d973a68e5ced90ae4a5",
+      "success": true,
+      "chunks_count": 4,
+      "keywords_count": 10,
+      "processing_time": 0.022608041763305664
+    },
+    {
+      "doc_id": "cdd3ada7be57e37ea4c8481f636513e0",
+      "success": true,
+      "chunks_count": 38,
+      "keywords_count": 10,
+      "processing_time": 0.11112165451049805
+    },
+    {
+      "doc_id": "e52b56d7b99e84e4df23bff294869508",
+      "success": true,
+      "chunks_count": 41,
+      "keywords_count": 10,
+      "processing_time": 0.1537613868713379
+    },
+    {
+      "doc_id": "76b54fb40b96e0db972f395e21859029",
+      "success": true,
+      "chunks_count": 30,
+      "keywords_count": 10,
+      "processing_time": 0.08197236061096191
+    },
+    {
+      "doc_id": "e61f252d8a62fb0d09bbe1fde5fdbef2",
+      "success": true,
+      "chunks_count": 25,
+      "keywords_count": 10,
+      "processing_time": 0.06944775581359863
+    },
+    {
+      "doc_id": "b5e984c660445363cc5a2b7b0f983109",
+      "success": true,
+      "chunks_count": 53,
+      "keywords_count": 10,
+      "processing_time": 0.1665973663330078
     }
   ]
 }
