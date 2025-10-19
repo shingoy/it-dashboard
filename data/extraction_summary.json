@@ -1,19 +1,29 @@
 {
-  "total_documents": 1,
+  "total_documents": 20,
   "already_processed": 0,
-  "batch_size": 1,
+  "batch_size": 3,
   "successful": 1,
   "already_processed_in_batch": 0,
-  "failed": 0,
+  "failed": 2,
   "timeout": 0,
-  "remaining": 0,
+  "remaining": 17,
   "results": [
     {
       "doc_id": "0df9dcc6b12e854620b81eb1f4406e76",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "95426a4accae538d03d39a24f66ec0f1",
       "success": true,
-      "chunks_count": 20,
+      "chunks_count": 22,
       "keywords_count": 10,
-      "processing_time": 0.08437991142272949
+      "processing_time": 0.10239863395690918
+    },
+    {
+      "doc_id": "1d0d940594d2f75bbb2acf479cfcd0db",
+      "success": false,
+      "error": "PDF too large: 139 pages (max: 100)"
     }
   ]
 }

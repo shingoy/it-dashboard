@@ -3,74 +3,194 @@
   "keywords": [
     {
       "term": "デジタル",
-      "count": 33
+      "count": 24
     },
     {
-      "term": "令和",
+      "term": "常駐",
+      "count": 9
+    },
+    {
+      "term": "上記以外",
       "count": 8
     },
     {
-      "term": "アナログ",
+      "term": "各府省庁",
+      "count": 8
+    },
+    {
+      "term": "専任規制",
       "count": 6
     },
     {
-      "term": "原則",
+      "term": "する",
       "count": 5
+    },
+    {
+      "term": "申請",
+      "count": 5
+    },
+    {
+      "term": "原則",
+      "count": 4
     },
     {
       "term": "すること",
       "count": 4
     },
     {
-      "term": "オンライ",
+      "term": "交付",
       "count": 4
     },
     {
-      "term": "こうした",
+      "term": "届出",
       "count": 4
     },
     {
-      "term": "いる",
+      "term": "まえ",
       "count": 4
     },
     {
-      "term": "各府省庁",
+      "term": "れること",
       "count": 4
     },
     {
-      "term": "地方公共",
+      "term": "事務局",
+      "count": 4
+    },
+    {
+      "term": "書面",
+      "count": 4
+    },
+    {
+      "term": "行政",
       "count": 3
     },
     {
-      "term": "面の改革",
+      "term": "ること",
       "count": 3
     },
     {
-      "term": "タル原則",
+      "term": "のデジタ",
       "count": 3
     },
     {
-      "term": "上記以外",
+      "term": "点検",
       "count": 3
     },
     {
-      "term": "について",
+      "term": "規制",
       "count": 3
     },
     {
-      "term": "法令等の",
+      "term": "監視カメ",
       "count": 3
     },
     {
-      "term": "原則に照",
+      "term": "ドローン",
+      "count": 3
+    },
+    {
+      "term": "公的証明",
+      "count": 3
+    },
+    {
+      "term": "掲示",
+      "count": 3
+    },
+    {
+      "term": "とする",
+      "count": 3
+    },
+    {
+      "term": "もの",
+      "count": 3
+    },
+    {
+      "term": "の見直し",
+      "count": 3
+    },
+    {
+      "term": "システム",
+      "count": 3
+    },
+    {
+      "term": "を活用し",
+      "count": 3
+    },
+    {
+      "term": "規制の趣",
+      "count": 3
+    },
+    {
+      "term": "目的を踏",
+      "count": 3
+    },
+    {
+      "term": "そもそも",
+      "count": 3
+    },
+    {
+      "term": "の規制が",
+      "count": 3
+    },
+    {
+      "term": "過剰にな",
+      "count": 3
+    },
+    {
+      "term": "っていな",
+      "count": 3
+    },
+    {
+      "term": "いかの点",
+      "count": 3
+    },
+    {
+      "term": "検が必要",
+      "count": 3
+    },
+    {
+      "term": "検証等を",
+      "count": 3
+    },
+    {
+      "term": "規制の見",
+      "count": 3
+    },
+    {
+      "term": "改正",
+      "count": 3
+    },
+    {
+      "term": "等を要求",
+      "count": 3
+    },
+    {
+      "term": "プロセス",
+      "count": 3
+    },
+    {
+      "term": "構造改革",
       "count": 2
     },
     {
-      "term": "臨時行政",
+      "term": "のための",
       "count": 2
     },
     {
-      "term": "した",
+      "term": "新たな価",
+      "count": 2
+    },
+    {
+      "term": "ともに",
+      "count": 2
+    },
+    {
+      "term": "対面",
+      "count": 2
+    },
+    {
+      "term": "拠点設置",
       "count": 2
     },
     {
@@ -78,136 +198,16 @@
       "count": 2
     },
     {
-      "term": "アジャイ",
-      "count": 2
-    },
-    {
-      "term": "ルガバナ",
-      "count": 2
-    },
-    {
-      "term": "機動的で",
-      "count": 2
-    },
-    {
-      "term": "柔軟なガ",
-      "count": 2
-    },
-    {
-      "term": "バナンス",
-      "count": 2
-    },
-    {
-      "term": "一律かつ",
-      "count": 2
-    },
-    {
-      "term": "を可能と",
-      "count": 2
-    },
-    {
-      "term": "規制を見",
-      "count": 2
-    },
-    {
-      "term": "例えば",
-      "count": 2
-    },
-    {
-      "term": "兆円の経",
-      "count": 2
-    },
-    {
-      "term": "済効果が",
-      "count": 2
-    },
-    {
-      "term": "調査会が",
-      "count": 2
-    },
-    {
-      "term": "ログ規制",
-      "count": 2
-    },
-    {
-      "term": "なる",
-      "count": 2
-    },
-    {
-      "term": "見直しに",
-      "count": 2
-    },
-    {
-      "term": "な見直し",
-      "count": 2
-    },
-    {
-      "term": "また",
-      "count": 2
-    },
-    {
-      "term": "とで",
-      "count": 2
-    },
-    {
-      "term": "進してい",
-      "count": 2
-    },
-    {
-      "term": "見直しを",
-      "count": 2
-    },
-    {
-      "term": "点検",
-      "count": 2
-    },
-    {
-      "term": "を行う",
-      "count": 2
-    },
-    {
-      "term": "未来の改",
-      "count": 2
-    },
-    {
-      "term": "デジ",
-      "count": 2
-    },
-    {
-      "term": "への適合",
-      "count": 2
-    },
-    {
-      "term": "横断的に",
-      "count": 2
-    },
-    {
-      "term": "技術を活",
-      "count": 2
-    },
-    {
-      "term": "こと",
-      "count": 2
-    },
-    {
-      "term": "タル技術",
-      "count": 2
-    },
-    {
-      "term": "規制の見",
-      "count": 2
-    },
-    {
-      "term": "ることが",
+      "term": "を見直し",
       "count": 2
     }
   ],
   "meetings": [
     {
       "meeting": "デジタル臨時行政調査会",
-      "count": 20
+      "count": 22
     }
   ],
   "doc_count": 1,
-  "chunk_count": 20
+  "chunk_count": 22
 }
