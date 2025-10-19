@@ -4,7 +4,7 @@ import React, { useState, useMemo } from 'react';
 import { Search, Calendar, Building2, FileText, TrendingUp, Loader2, Check, ExternalLink } from 'lucide-react';
 import { Alert, AlertDescription } from '@/components/ui/alert';
 
-// ダミーデータ（実装時はAPIから取得）
+// 省庁リスト
 const AGENCIES = [
   { id: 'digital', name: 'デジタル庁' },
   { id: 'cabinet', name: '内閣府・内閣官房' },
@@ -15,6 +15,7 @@ const AGENCIES = [
   { id: 'ppc', name: '個人情報保護委員会' },
 ];
 
+// 会議リスト
 const MEETINGS: Record<string, string[]> = {
   digital: [
     'デジタル社会推進会議',
@@ -35,48 +36,6 @@ const MEETINGS: Record<string, string[]> = {
   mext: ['教育データ利活用（GIGAスクール）'],
   ppc: ['個人情報保護委員会会議'],
 };
-
-const DUMMY_RESULTS = [
-  {
-    doc_id: 'doc_001',
-    chunk_id: 'c_1',
-    meeting: 'AI戦略会議',
-    agency: '内閣府・内閣官房',
-    date: '2025-09-12',
-    title: '生成AIの政府活用に関する基本方針',
-    snippet: '...生成AIを活用した行政サービスの効率化について、各省庁における取り組み事例を共有し、今後の展開方針を議論した。特に自治体レベルでの活用促進が重要...',
-    score: 15.2,
-    url: 'https://example.go.jp/ai-strategy/doc001.pdf',
-    page_from: 3,
-    page_to: 5
-  },
-  {
-    doc_id: 'doc_002',
-    chunk_id: 'c_2',
-    meeting: 'デジタル社会推進会議',
-    agency: 'デジタル庁',
-    date: '2025-08-25',
-    title: 'マイナンバーカードの利活用拡大について',
-    snippet: '...マイナンバーカードを活用した新たなサービスの展開について検討。健康保険証との一体化の進捗状況を報告し、今後の普及促進策を協議...',
-    score: 12.8,
-    url: 'https://example.go.jp/digital/doc002.pdf',
-    page_from: 1,
-    page_to: 2
-  },
-  {
-    doc_id: 'doc_003',
-    chunk_id: 'c_3',
-    meeting: 'データ戦略推進ワーキンググループ',
-    agency: 'デジタル庁',
-    date: '2025-07-18',
-    title: 'データ連携基盤の標準化に向けた検討',
-    snippet: '...省庁間のデータ連携を円滑化するため、標準的なデータ形式とAPI仕様の策定を進める。ベース・レジストリの整備状況と合わせて全体像を整理...',
-    score: 11.5,
-    url: 'https://example.go.jp/digital/doc003.pdf',
-    page_from: 7,
-    page_to: 9
-  },
-];
 
 export default function GovITDashboard() {
   const [query, setQuery] = useState('');
@@ -166,12 +125,12 @@ export default function GovITDashboard() {
     } catch (error) {
       console.error('Search error:', error);
       toast('検索に失敗しました');
-      setSearchResults(DUMMY_RESULTS);
     } finally {
       setLoading(false);
     }
   };
 
+  // 🔧 修正: バックエンドAPIを呼び出すように変更
   const handleSummarize = async (mode: string) => {
     setSummaryLoading(true);
     setSummaryMode(mode);
@@ -190,67 +149,43 @@ export default function GovITDashboard() {
         return;
       }
 
-      const prompt = `以下は日本の政府IT関連会議の議事録・資料からの抜粋です。これらを統合して、主要なポイントを簡潔にまとめてください。
+      console.log('📝 Requesting summary for', chunksToSummarize.length, 'chunks');
 
-検索クエリ: ${query}
-
-文書:
-${chunksToSummarize.map((chunk, idx) => `
-【文書${idx + 1}】
-会議: ${chunk.meeting}
-省庁: ${chunk.agency}
-日付: ${chunk.date}
-タイトル: ${chunk.title}
-内容: ${chunk.snippet}
-`).join('\n')}
-
-要約の要件:
-- 検索クエリに関連する主要なポイントを3〜5つ程度にまとめる
-- 各ポイントには適切な見出しをつける
-- 具体的な取り組み内容や方針を含める
-- 簡潔かつ分かりやすい日本語で記述する
-- マークダウン形式で出力する（**太字**、見出しを使用）`;
-
-      const response = await fetch("https://api.anthropic.com/v1/messages", {
-        method: "POST",
+      // ✅ バックエンドAPIを呼び出す
+      const response = await fetch('/api/summarize', {
+        method: 'POST',
         headers: {
-          "Content-Type": "application/json",
+          'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          model: "claude-sonnet-4-20250514",
-          max_tokens: 2000,
-          messages: [
-            { role: "user", content: prompt }
-          ]
+          query: query,
+          chunks: chunksToSummarize.map(chunk => ({
+            meeting: chunk.meeting,
+            agency: chunk.agency,
+            date: chunk.date,
+            title: chunk.title,
+            snippet: chunk.snippet,
+            url: chunk.url,
+            page_from: chunk.page_from,
+            page_to: chunk.page_to
+          }))
         })
       });
 
       if (!response.ok) {
-        throw new Error('API request failed');
+        const errorData = await response.json();
+        console.error('❌ Summary API error:', errorData);
+        throw new Error(errorData.error || 'Summary generation failed');
       }
 
       const data = await response.json();
-      const summaryText = data.content[0].text;
-
-      setSummary({
-        summary: summaryText,
-        sources: chunksToSummarize.map(chunk => ({
-          doc_url: chunk.url,
-          meeting: chunk.meeting,
-          date: chunk.date,
-          pages: `${chunk.page_from}-${chunk.page_to}`
-        })),
-        cache: { hit: false, key: 'claude_' + Date.now() },
-        cost_estimate: {
-          prompt_tokens: data.usage?.input_tokens || 0,
-          completion_tokens: data.usage?.output_tokens || 0
-        }
-      });
       
+      setSummary(data);
       toast('要約を生成しました');
+      
     } catch (error) {
-      console.error('Summary error:', error);
-      toast('要約生成に失敗しました');
+      console.error('❌ Summary error:', error);
+      toast(`要約生成に失敗しました: ${(error as Error).message}`);
     } finally {
       setSummaryLoading(false);
     }
