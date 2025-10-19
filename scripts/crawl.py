@@ -210,32 +210,38 @@ class MeetingCrawler:
     def crawl_all(self):
         """全会議を巡回"""
         all_documents = []
+        max_files = 5  # テスト用の上限
         
         for agency_id, agency_config in PRESET_MEETINGS.items():
+            if len(all_documents) >= max_files:
+                break  # 上限に達したらループ終了
+            
             print(f"\n{'='*60}")
             print(f"🏛️  Agency: {agency_config['name']}")
             print(f"{'='*60}")
             
             for meeting in agency_config['meetings']:
+                if len(all_documents) >= max_files:
+                    break  # 上限に達したらループ終了
+                
                 meeting['agency'] = agency_config['name']
                 documents = self.parse_meeting_list(meeting)
                 
                 # PDFをダウンロード
                 for doc in documents:
+                    if len(all_documents) >= max_files:
+                        print(f"⚠️  Test mode: stopping at {max_files} files")
+                        return all_documents
+                    
                     pdf_path = self.download_pdf(doc)
                     if pdf_path:
                         doc['pdf_path'] = pdf_path
                         all_documents.append(doc)
-                        # キャッシュに追加
                         self.docs_cache[doc['id']] = doc
-
-                    # テスト用：最初の5ファイルだけ
-                    if len(all_documents) >= 3:
-                        print("⚠️  Test mode: stopping at 3 files")
-                        return all_documents
-
-                    # レート制限対策
-                    time.sleep(1)
+                        print(f"  📥 Downloaded {len(all_documents)}/{max_files}")
+                
+                # 会議間でレート制限対策
+                time.sleep(1)
         
         return all_documents
     
