@@ -1,10 +1,10 @@
 {
-  "total_documents": 39,
+  "total_documents": 48,
   "already_processed": 0,
-  "batch_size": 39,
+  "batch_size": 48,
   "successful": 9,
   "already_processed_in_batch": 0,
-  "failed": 30,
+  "failed": 39,
   "timeout": 0,
   "remaining": 0,
   "results": [
@@ -160,66 +160,111 @@
     },
     {
       "doc_id": "9bed6e93c9a99e173079cfcd397172b5",
-      "success": true,
-      "chunks_count": 22,
-      "keywords_count": 10,
-      "processing_time": 0.13008451461791992
+      "success": false,
+      "error": "PDF file not found"
     },
     {
       "doc_id": "7aeaed606bd41f966ed35f42fad45dcc",
-      "success": true,
-      "chunks_count": 507,
-      "keywords_count": 10,
-      "processing_time": 1.2328765392303467
+      "success": false,
+      "error": "PDF file not found"
     },
     {
       "doc_id": "82852646d83bf4988ff6bfe641569236",
-      "success": true,
-      "chunks_count": 42,
-      "keywords_count": 10,
-      "processing_time": 0.07247638702392578
+      "success": false,
+      "error": "PDF file not found"
     },
     {
       "doc_id": "fd5f7c4a4a9e8d973a68e5ced90ae4a5",
-      "success": true,
-      "chunks_count": 4,
-      "keywords_count": 10,
-      "processing_time": 0.022608041763305664
+      "success": false,
+      "error": "PDF file not found"
     },
     {
       "doc_id": "cdd3ada7be57e37ea4c8481f636513e0",
-      "success": true,
-      "chunks_count": 38,
-      "keywords_count": 10,
-      "processing_time": 0.11112165451049805
+      "success": false,
+      "error": "PDF file not found"
     },
     {
       "doc_id": "e52b56d7b99e84e4df23bff294869508",
-      "success": true,
-      "chunks_count": 41,
-      "keywords_count": 10,
-      "processing_time": 0.1537613868713379
+      "success": false,
+      "error": "PDF file not found"
     },
     {
       "doc_id": "76b54fb40b96e0db972f395e21859029",
-      "success": true,
-      "chunks_count": 30,
-      "keywords_count": 10,
-      "processing_time": 0.08197236061096191
+      "success": false,
+      "error": "PDF file not found"
     },
     {
       "doc_id": "e61f252d8a62fb0d09bbe1fde5fdbef2",
-      "success": true,
-      "chunks_count": 25,
-      "keywords_count": 10,
-      "processing_time": 0.06944775581359863
+      "success": false,
+      "error": "PDF file not found"
     },
     {
       "doc_id": "b5e984c660445363cc5a2b7b0f983109",
+      "success": false,
+      "error": "PDF file not found"
+    },
+    {
+      "doc_id": "728233dcc7d6c7cc106666220a5d9c5a",
       "success": true,
-      "chunks_count": 53,
+      "chunks_count": 1,
       "keywords_count": 10,
-      "processing_time": 0.1665973663330078
+      "processing_time": 0.1288774013519287
+    },
+    {
+      "doc_id": "eacc143d62b7449b4d8de50acb3bcdd4",
+      "success": true,
+      "chunks_count": 26,
+      "keywords_count": 10,
+      "processing_time": 0.07564401626586914
+    },
+    {
+      "doc_id": "06f34e0d6bf83d8dd9c2818aee4b2bd8",
+      "success": true,
+      "chunks_count": 4,
+      "keywords_count": 10,
+      "processing_time": 0.01067805290222168
+    },
+    {
+      "doc_id": "cfc2ba4cdf280ae19755b6135d09c253",
+      "success": true,
+      "chunks_count": 2,
+      "keywords_count": 10,
+      "processing_time": 0.007310152053833008
+    },
+    {
+      "doc_id": "0b0a15df7cd89c957a1b90d55dc100b2",
+      "success": true,
+      "chunks_count": 6,
+      "keywords_count": 10,
+      "processing_time": 0.06055760383605957
+    },
+    {
+      "doc_id": "62019305b0fb8902b42946e072ce9288",
+      "success": true,
+      "chunks_count": 20,
+      "keywords_count": 10,
+      "processing_time": 0.06188702583312988
+    },
+    {
+      "doc_id": "85d49d8312776e72b4b77c63d51606fc",
+      "success": true,
+      "chunks_count": 111,
+      "keywords_count": 10,
+      "processing_time": 0.3070259094238281
+    },
+    {
+      "doc_id": "e5b875f9c0cb09f29bafde4acd5ab33d",
+      "success": true,
+      "chunks_count": 39,
+      "keywords_count": 10,
+      "processing_time": 0.09408903121948242
+    },
+    {
+      "doc_id": "d2b584ee4cd7bae99c75861f51a2b4f4",
+      "success": true,
+      "chunks_count": 6,
+      "keywords_count": 10,
+      "processing_time": 0.02646350860595703
     }
   ]
 }

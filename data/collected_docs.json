@@ -427,5 +427,104 @@
     "date": "2023-07-04",
     "collected_at": "2025-10-19T13:32:16.521792",
     "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/b5e984c660445363cc5a2b7b0f983109.pdf"
+  },
+  {
+    "id": "728233dcc7d6c7cc106666220a5d9c5a",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_「行政手続におけるオンラインによる本人確認の手法に関するガイドライン」Q&A（PDF／387KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/c5eb2fcc/20240617_resources_standard_guidelines_glossary_01.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:40:40.788500",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/728233dcc7d6c7cc106666220a5d9c5a.pdf"
+  },
+  {
+    "id": "eacc143d62b7449b4d8de50acb3bcdd4",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／310KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/d92a1cf2/20230411_resources_standard_guidelines_guideline_09.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:40:40.788703",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/eacc143d62b7449b4d8de50acb3bcdd4.pdf"
+  },
+  {
+    "id": "06f34e0d6bf83d8dd9c2818aee4b2bd8",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_「処分通知等のデジタル化に係る基本的な考え方」Q&A（PDF／169KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ae914e95/20230411_resources_standard_guidelines_glossary_03.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:40:40.788887",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/06f34e0d6bf83d8dd9c2818aee4b2bd8.pdf"
+  },
+  {
+    "id": "cfc2ba4cdf280ae19755b6135d09c253",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "PDF（189KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/256f01e5/20230411_resources_standard_guidelines_glossary_04.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:40:40.789068",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/cfc2ba4cdf280ae19755b6135d09c253.pdf"
+  },
+  {
+    "id": "0b0a15df7cd89c957a1b90d55dc100b2",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "サービスデザイン関連ガイドラインの読み進め方・資料の探し方（PDF／8,738KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/37043d44/20251016_how_to_use_and_find_service_design_resources.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:40:40.789245",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/0b0a15df7cd89c957a1b90d55dc100b2.pdf"
+  },
+  {
+    "id": "62019305b0fb8902b42946e072ce9288",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "DS-670.1 ユーザビリティガイドライン（PDF／8,726KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ae97c671/20250930_usability_guidelines.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:40:40.789430",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/62019305b0fb8902b42946e072ce9288.pdf"
+  },
+  {
+    "id": "85d49d8312776e72b4b77c63d51606fc",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "DS-671.1 ユーザビリティ導入ガイドブック（PDF／10,594KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/91365885/20251016_introduction_to_usability.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:40:40.789620",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/85d49d8312776e72b4b77c63d51606fc.pdf"
+  },
+  {
+    "id": "e5b875f9c0cb09f29bafde4acd5ab33d",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "DS-672.1 ウェブアクセシビリティ広報向けガイドブック（PDF／9,316KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/6fdabcfb/20251016_web_accessibility_guide_for_public_relations.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:40:40.789799",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/e5b875f9c0cb09f29bafde4acd5ab33d.pdf"
+  },
+  {
+    "id": "d2b584ee4cd7bae99c75861f51a2b4f4",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料（アクセシビリティ） 広報向けコンテンツチェックリスト（PDF／8,600KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ad6c9451/20251016_content_checklist_for_public_relations.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:40:40.789970",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/d2b584ee4cd7bae99c75861f51a2b4f4.pdf"
   }
 ]
