@@ -32,15 +32,11 @@ jobs:
         run: python scripts/check_pdfs.py
         continue-on-error: true
       
-      - name: Debug extraction status
-        run: python scripts/debug_extract.py
-        continue-on-error: true
-      
       - name: Run extraction (incremental batch processing)
         timeout-minutes: 50
         env:
           EXTRACT_MAX_WORKERS: 1     # 完全にシーケンシャル
-          BATCH_SIZE: 3              # さらに減らす
+          BATCH_SIZE: 3              # 3件処理
           PDF_TIMEOUT: 600           # 1PDFあたり10分
         run: python scripts/extract.py
         continue-on-error: true
