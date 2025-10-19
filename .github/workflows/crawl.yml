@@ -2,13 +2,13 @@ name: Government IT Meeting Crawler
 
 on:
   schedule:
-    - cron: '0 9 * * *'  # 毎日 JST 18:00
-  workflow_dispatch:
+    - cron: '0 9 * * *'  # 毎日 UTC 09:00 = JST 18:00
+  workflow_dispatch:     # 手動実行も可能
 
 jobs:
   crawl-and-build:
     runs-on: ubuntu-latest
-    timeout-minutes: 60  # 全体を60分に延長
+    timeout-minutes: 60  # 全体のタイムアウト
     permissions:
       contents: write
     
@@ -28,10 +28,10 @@ jobs:
         run: python scripts/crawl.py
         continue-on-error: true
       
-        - name: Run extraction
+      - name: Run extraction (parallel)
         timeout-minutes: 20
         env:
-          EXTRACT_MAX_WORKERS: 4  # 並列数（増やすと速いが負荷も高い）
+          EXTRACT_MAX_WORKERS: 4  # 並列処理数
           MAX_DOCUMENTS: 0         # 0 = 全て処理、50 = 最初の50件のみ
         run: python scripts/extract.py
         continue-on-error: true
