@@ -1,12 +1,12 @@
 {
-  "total_documents": 20,
+  "total_documents": 30,
   "already_processed": 0,
   "batch_size": 3,
-  "successful": 1,
+  "successful": 0,
   "already_processed_in_batch": 0,
-  "failed": 2,
+  "failed": 3,
   "timeout": 0,
-  "remaining": 17,
+  "remaining": 27,
   "results": [
     {
       "doc_id": "0df9dcc6b12e854620b81eb1f4406e76",
@@ -15,15 +15,13 @@
     },
     {
       "doc_id": "95426a4accae538d03d39a24f66ec0f1",
-      "success": true,
-      "chunks_count": 22,
-      "keywords_count": 10,
-      "processing_time": 0.10239863395690918
+      "success": false,
+      "error": "PDF file not found"
     },
     {
       "doc_id": "1d0d940594d2f75bbb2acf479cfcd0db",
       "success": false,
-      "error": "PDF too large: 139 pages (max: 100)"
+      "error": "PDF file not found"
     }
   ]
 }

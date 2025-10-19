@@ -339,5 +339,115 @@
     "date": "2023-07-04",
     "collected_at": "2025-10-19T13:20:24.109676",
     "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/ea4086bfa48f08e727082693a1ccd98e.pdf"
+  },
+  "b5d71d33f8d63bbff48825442e3d8d23": {
+    "id": "b5d71d33f8d63bbff48825442e3d8d23",
+    "meeting": "デジタル臨時行政調査会",
+    "agency": "デジタル庁",
+    "title": "概要（PDF／273KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/ac4b2432/20230714_policies_digital-extraordinary-administrative-research-committee_outline_01.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-14",
+    "collected_at": "2025-10-19T13:25:52.478869",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/b5d71d33f8d63bbff48825442e3d8d23.pdf"
+  },
+  "59fd4957d4756fe2870e7aa1be2c0060": {
+    "id": "59fd4957d4756fe2870e7aa1be2c0060",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "別添. CI/CDパイプラインによるInfrastructure as Code実装例（PDF／4,825KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/2aa40167/20250630_resources_standard_guidelines_technical_report_02.pdf",
+    "file_type": "pdf",
+    "date": "2025-06-30",
+    "collected_at": "2025-10-19T13:25:53.834538",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/59fd4957d4756fe2870e7aa1be2c0060.pdf"
+  },
+  "8924e19b781c18e87de87f1d7774afd4": {
+    "id": "8924e19b781c18e87de87f1d7774afd4",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／548KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a547f9a6/20250630_resources_standard_guidelines_technical_report_01.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:25:53.834721",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/8924e19b781c18e87de87f1d7774afd4.pdf"
+  },
+  "2752a2a3dd7de5acb3f6944041150833": {
+    "id": "2752a2a3dd7de5acb3f6944041150833",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／774KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/5efa5c3b/20220630_resources_standard_guidelines_guidelines_04.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:25:53.834949",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/2752a2a3dd7de5acb3f6944041150833.pdf"
+  },
+  "a52e82dcb90a44ba579f41dbfae23481": {
+    "id": "a52e82dcb90a44ba579f41dbfae23481",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／751KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ef841b43/20240131_resources_standard_guidelines_guidelines_03.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:25:53.835141",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/a52e82dcb90a44ba579f41dbfae23481.pdf"
+  },
+  "e679e180701806981ac3216948024d89": {
+    "id": "e679e180701806981ac3216948024d89",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／799KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/e5b49450/20230411_resources_standard_guidelines_guideline_03.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:25:53.835342",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/e679e180701806981ac3216948024d89.pdf"
+  },
+  "5e487c969a831d5f9dca4f9826f3d228": {
+    "id": "5e487c969a831d5f9dca4f9826f3d228",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_ ABACの実装例-Amazon Web Services編（PDF／537KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/6cc40812/20230411_resources_standard_guidelines_glossary_01.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:25:53.835530",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/5e487c969a831d5f9dca4f9826f3d228.pdf"
+  },
+  "1754bb7f7b1346e137ff0db7a8333d88": {
+    "id": "1754bb7f7b1346e137ff0db7a8333d88",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_ ABACの実装例-Microsoft Azure Active Directory編（PDF／973KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a67d3e47/20230411_resources_standard_guidelines_glossary_02.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:25:53.835705",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/1754bb7f7b1346e137ff0db7a8333d88.pdf"
+  },
+  "b6bb9799f42dc0ecc8ef9dfd6ed95c9c": {
+    "id": "b6bb9799f42dc0ecc8ef9dfd6ed95c9c",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／1,016KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a84dbb17/20230411_resources_standard_guidelines_guideline_05.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:25:53.835879",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/b6bb9799f42dc0ecc8ef9dfd6ed95c9c.pdf"
+  },
+  "cdea8eae45a2bee60083653d21ccb84a": {
+    "id": "cdea8eae45a2bee60083653d21ccb84a",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／1,148KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/7fefc9ee/20240206_resources_standard_guidelines_guidelines_01.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2025-10-19T13:25:53.836052",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/cdea8eae45a2bee60083653d21ccb84a.pdf"
   }
 }
