@@ -3,219 +3,211 @@
   "keywords": [
     {
       "term": "億円",
-      "count": 8
+      "count": 7
+    },
+    {
+      "term": "における",
+      "count": 2
+    },
+    {
+      "term": "主に生成",
+      "count": 2
+    },
+    {
+      "term": "生成",
+      "count": 2
+    },
+    {
+      "term": "こども",
+      "count": 2
+    },
+    {
+      "term": "次世代",
+      "count": 2
+    },
+    {
+      "term": "人材育成",
+      "count": 2
+    },
+    {
+      "term": "プログラ",
+      "count": 2
+    },
+    {
+      "term": "関連予算",
+      "count": 2
+    },
+    {
+      "term": "経済対策",
+      "count": 1
+    },
+    {
+      "term": "施策につ",
+      "count": 1
+    },
+    {
+      "term": "いて",
+      "count": 1
     },
     {
       "term": "令和",
-      "count": 5
-    },
-    {
-      "term": "デジタル",
-      "count": 4
-    },
-    {
-      "term": "個人情報",
-      "count": 4
+      "count": 1
     },
     {
       "term": "年度補正",
-      "count": 3
-    },
-    {
-      "term": "保護委員",
-      "count": 3
-    },
-    {
-      "term": "特定個人",
-      "count": 3
-    },
-    {
-      "term": "富岳",
-      "count": 2
-    },
-    {
-      "term": "の研究開",
-      "count": 2
-    },
-    {
-      "term": "ベーショ",
-      "count": 2
-    },
-    {
-      "term": "を踏まえ",
-      "count": 2
-    },
-    {
-      "term": "国際的な",
-      "count": 2
-    },
-    {
-      "term": "推進",
-      "count": 2
-    },
-    {
-      "term": "システム",
-      "count": 2
-    },
-    {
-      "term": "新規",
-      "count": 2
-    },
-    {
-      "term": "予算額約",
-      "count": 2
-    },
-    {
-      "term": "臨時行政",
-      "count": 2
-    },
-    {
-      "term": "調査会",
-      "count": 2
-    },
-    {
-      "term": "という",
-      "count": 2
-    },
-    {
-      "term": "行政機関",
-      "count": 2
-    },
-    {
-      "term": "また",
-      "count": 2
-    },
-    {
-      "term": "研究開発",
       "count": 1
     },
     {
-      "term": "力の強化",
+      "term": "予算",
       "count": 1
     },
     {
-      "term": "データ整",
+      "term": "の利用促",
       "count": 1
     },
     {
-      "term": "備含む",
+      "term": "開発力の",
       "count": 1
     },
     {
-      "term": "我が国に",
+      "term": "強化",
       "count": 1
     },
     {
-      "term": "おける大",
+      "term": "中小企業",
       "count": 1
     },
     {
-      "term": "規模言語",
+      "term": "医療分野",
       "count": 1
     },
     {
-      "term": "モデル",
+      "term": "行政事務",
       "count": 1
     },
     {
-      "term": "の開発力",
+      "term": "等におけ",
       "count": 1
     },
     {
-      "term": "強化に向",
+      "term": "導入",
       "count": 1
     },
     {
-      "term": "けたデー",
+      "term": "内閣官房",
       "count": 1
     },
     {
-      "term": "タの整備",
+      "term": "国家公務",
       "count": 1
     },
     {
-      "term": "拡充",
+      "term": "員の働き",
       "count": 1
     },
     {
-      "term": "安全なデ",
+      "term": "方改革促",
       "count": 1
     },
     {
-      "term": "ータ連携",
+      "term": "進のため",
       "count": 1
     },
     {
-      "term": "による最",
+      "term": "の生成",
       "count": 1
     },
     {
-      "term": "適化",
+      "term": "等の利活",
       "count": 1
     },
     {
-      "term": "技術の研",
+      "term": "用に係る",
       "count": 1
     },
     {
-      "term": "究開発",
+      "term": "調査研究",
       "count": 1
     },
     {
-      "term": "の次世代",
+      "term": "事業",
       "count": 1
     },
     {
-      "term": "となる新",
+      "term": "学習",
       "count": 1
     },
     {
-      "term": "たなフラ",
+      "term": "導入支援",
       "count": 1
     },
     {
-      "term": "ッグシッ",
+      "term": "子育て分",
       "count": 1
     },
     {
-      "term": "プシステ",
+      "term": "野におけ",
       "count": 1
     },
     {
-      "term": "ムの開発",
+      "term": "る生成",
       "count": 1
     },
     {
-      "term": "整備",
+      "term": "利用に係",
       "count": 1
     },
     {
-      "term": "の運用継",
+      "term": "る調査研",
       "count": 1
     },
     {
-      "term": "続に向け",
+      "term": "億円の内",
       "count": 1
     },
     {
-      "term": "た対策",
+      "term": "デジ",
+      "count": 1
+    },
+    {
+      "term": "マイナポ",
+      "count": 1
+    },
+    {
+      "term": "ータル",
+      "count": 1
+    },
+    {
+      "term": "コンシェ",
+      "count": 1
+    },
+    {
+      "term": "ルジュ手",
+      "count": 1
+    },
+    {
+      "term": "続概念実",
+      "count": 1
+    },
+    {
+      "term": "デジタル",
+      "count": 1
+    },
+    {
+      "term": "庁一括計",
+      "count": 1
+    },
+    {
+      "term": "科学研究",
       "count": 1
     }
   ],
   "meetings": [
     {
       "meeting": "AI戦略会議",
-      "count": 3
-    },
-    {
-      "meeting": "個人情報保護委員会",
       "count": 2
-    },
-    {
-      "meeting": "デジタル臨時行政調査会",
-      "count": 1
     }
   ],
-  "doc_count": 3,
-  "chunk_count": 6
+  "doc_count": 1,
+  "chunk_count": 2
 }

@@ -1,31 +1,26 @@
 {
-  "total_documents": 4,
-  "successful": 4,
+  "total_documents": 2,
+  "already_processed": 0,
+  "batch_size": 2,
+  "successful": 2,
+  "already_processed_in_batch": 0,
   "failed": 0,
+  "timeout": 0,
+  "remaining": 0,
   "results": [
     {
-      "doc_id": "0219a0fe8504a9318e94d78f1a44380f",
+      "doc_id": "398f2dd6712c03e49eb07751c3a671df",
       "success": true,
       "chunks_count": 1,
-      "keywords_count": 10
+      "keywords_count": 10,
+      "processing_time": 0.03827714920043945
     },
     {
-      "doc_id": "4aa7688ee9485a5281cb563e4c4e27d1",
-      "success": true,
-      "chunks_count": 1,
-      "keywords_count": 10
-    },
-    {
-      "doc_id": "4272844bda143304ed913271a9c2d16a",
-      "success": true,
-      "chunks_count": 3,
-      "keywords_count": 10
-    },
-    {
-      "doc_id": "75881e249e483553563e04a59dbaca84",
+      "doc_id": "4b785ba3c1d1918b2b77c15ada960f28",
       "success": true,
       "chunks_count": 2,
-      "keywords_count": 10
+      "keywords_count": 10,
+      "processing_time": 0.07428479194641113
     }
   ]
 }

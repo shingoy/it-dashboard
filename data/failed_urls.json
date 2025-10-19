@@ -2,26 +2,26 @@
   {
     "url": "https://www.digital.go.jp/councils/my-number-improvement",
     "error": "404 Client Error: Not Found for url: https://www.digital.go.jp/councils/my-number-improvement",
-    "timestamp": "2025-10-19T12:23:43.253714"
+    "timestamp": "2025-10-19T12:28:19.245716"
   },
   {
     "url": "https://www.digital.go.jp/policies/gov-cloud",
     "error": "404 Client Error: Not Found for url: https://www.digital.go.jp/policies/gov-cloud",
-    "timestamp": "2025-10-19T12:23:45.853464"
+    "timestamp": "2025-10-19T12:28:25.046389"
   },
   {
     "url": "https://www.kantei.go.jp/jp/singi/it2/",
     "error": "404 Client Error: Not Found for url: https://www.kantei.go.jp/jp/singi/it2/index.html",
-    "timestamp": "2025-10-19T12:23:51.315277"
+    "timestamp": "2025-10-19T12:28:32.023441"
   },
   {
     "url": "https://www.meti.go.jp/shingikai/mono_info_service/digital_sangyo/index.html",
     "error": "HTTPSConnectionPool(host='www.meti.go.jp', port=443): Read timed out. (read timeout=10)",
-    "timestamp": "2025-10-19T12:24:17.090419"
+    "timestamp": "2025-10-19T12:28:58.244063"
   },
   {
     "url": "https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_00002.html",
     "error": "404 Client Error: Not Found for url: https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_00002.html",
-    "timestamp": "2025-10-19T12:24:20.669320"
+    "timestamp": "2025-10-19T12:29:03.181150"
   }
 ]

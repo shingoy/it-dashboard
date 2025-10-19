@@ -1,35 +1,24 @@
 [
   {
-    "id": "9994007d1ca79a679319ae4d73d0a51b",
+    "id": "398f2dd6712c03e49eb07751c3a671df",
     "meeting": "デジタル臨時行政調査会",
     "agency": "デジタル庁",
-    "title": "デジタル臨時行政調査会構成員（PDF／64KB）",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/9abb8161-865e-4a57-96ca-1877c44e092d/6f65199c/20221027_meeting_administrative_research_member_01.pdf",
+    "title": "構造改革のためのデジタル原則（PDF／214KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/b7c8fc0c/20230911_meeting_administrative-research_outline_01.pdf",
     "file_type": "pdf",
-    "date": "2025-10-19",
-    "collected_at": "2025-10-19T12:23:43.780146",
-    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/9994007d1ca79a679319ae4d73d0a51b.pdf"
+    "date": "2023-09-11",
+    "collected_at": "2025-10-19T12:28:19.781574",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/398f2dd6712c03e49eb07751c3a671df.pdf"
   },
   {
-    "id": "da634e0962d673bcf700ec3ecbd4f8b4",
-    "meeting": "ベース・レジストリ",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／1,320KB）",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/816ebeda-f081-4b18-b593-20fd12eb19a9/6e8cdb91/20250613_plan_for_development_and_improvement_of_public_basic_information_database_outline_03.pdf",
-    "file_type": "pdf",
-    "date": "2025-10-19",
-    "collected_at": "2025-10-19T12:23:44.316214",
-    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/da634e0962d673bcf700ec3ecbd4f8b4.pdf"
-  },
-  {
-    "id": "08b236cba9fb9e8ec9c1740ef50d513d",
+    "id": "4b785ba3c1d1918b2b77c15ada960f28",
     "meeting": "AI戦略会議",
     "agency": "内閣府・内閣官房",
-    "title": "令和６年度予算（PDF形式：546KB）",
-    "url": "https://www8.cao.go.jp/cstp/ai/yosan_6nendo.pdf",
+    "title": "令和５年度補正予算（PDF形式：523KB）",
+    "url": "https://www8.cao.go.jp/cstp/ai/yosan_5nendo_hosei.pdf",
     "file_type": "pdf",
     "date": "2025-10-19",
-    "collected_at": "2025-10-19T12:23:46.991755",
-    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/08b236cba9fb9e8ec9c1740ef50d513d.pdf"
+    "collected_at": "2025-10-19T12:28:26.760228",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/4b785ba3c1d1918b2b77c15ada960f28.pdf"
   }
 ]
