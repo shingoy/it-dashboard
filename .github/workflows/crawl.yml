@@ -39,9 +39,10 @@ jobs:
         timeout-minutes: 30  # 50分 → 30分に短縮
         env:
           EXTRACT_MAX_WORKERS: 1
-          BATCH_SIZE: 3        # 5 → 3に削減
+          BATCH_SIZE: 100       # 100に変更
           PDF_TIMEOUT: 300
           MAX_PAGES_PER_PDF: 30
+          MAX_PAGES:  500
         run: python scripts/extract.py
         continue-on-error: true
       
