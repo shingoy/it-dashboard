@@ -403,6 +403,14 @@ class MeetingCrawler:
         # 既存のドキュメントと新規を統合
         all_documents = list(self.existing_docs.values()) + new_documents
         
+        # 全ドキュメントのpdf_pathをキャッシュディレクトリに正規化
+        for doc in all_documents:
+            if 'pdf_path' not in doc or not doc['pdf_path']:
+                # pdf_pathがない場合、キャッシュから設定
+                cache_path = CACHE_DIR / f"{doc['id']}.pdf"
+                if cache_path.exists():
+                    doc['pdf_path'] = str(cache_path)
+        
         output_file = DATA_DIR / "collected_docs.json"
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(all_documents, f, ensure_ascii=False, indent=2)
