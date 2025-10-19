@@ -9,6 +9,7 @@ from typing import List, Dict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import os
 import time
+import gc  # ガベージコレクション追加
 
 try:
     import fitz  # PyMuPDF
@@ -37,17 +38,19 @@ class TextExtractor:
         self.chunk_overlap = 200
     
     def extract_from_pdf(self, pdf_path: str) -> Dict:
-        """PDFからテキストを抽出"""
+        """PDFからテキストを抽出（メモリ効率化版）"""
         if not PYMUPDF_AVAILABLE:
             return {
                 "success": False,
                 "error": "PyMuPDF not installed"
             }
         
+        doc = None
         try:
             doc = fitz.open(pdf_path)
             pages = []
             
+            # ページごとに処理してメモリを節約
             for page_num in range(len(doc)):
                 page = doc[page_num]
                 text = page.get_text()
@@ -59,21 +62,29 @@ class TextExtractor:
                         "text": text,
                         "char_count": len(text)
                     })
+                
+                # ページ処理後は明示的に削除
+                del page
             
-            doc.close()
-            
-            return {
+            result = {
                 "success": True,
                 "pages": pages,
                 "total_pages": len(pages),
                 "total_chars": sum(p['char_count'] for p in pages)
             }
             
+            return result
+            
         except Exception as e:
             return {
                 "success": False,
                 "error": str(e)
             }
+        finally:
+            # 必ずドキュメントを閉じる
+            if doc is not None:
+                doc.close()
+                del doc
     
     def clean_text(self, text: str) -> str:
         """テキストをクリーニング"""
@@ -294,18 +305,31 @@ class TextExtractor:
             return
         
         results = []
+        timeouts = 0
         
-        # 並列処理
+        # 並列処理（タイムアウト付き）
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            future_to_doc = {
-                executor.submit(self.process_document_with_timeout, doc, i+1, total): doc 
-                for i, doc in enumerate(documents)
-            }
+            future_to_doc = {}
             
-            for future in as_completed(future_to_doc):
+            for i, doc in enumerate(documents):
+                future = executor.submit(self.process_document_with_timeout, doc, i+1, total)
+                future_to_doc[future] = doc
+            
+            # タイムアウト付きで結果を取得
+            for future in as_completed(future_to_doc, timeout=PDF_TIMEOUT + 10):
                 try:
-                    result = future.result()
+                    result = future.result(timeout=PDF_TIMEOUT)
                     results.append(result)
+                except TimeoutError:
+                    doc = future_to_doc[future]
+                    print(f"  ⏱️  TIMEOUT: {doc['title'][:50]}")
+                    timeouts += 1
+                    results.append({
+                        "doc_id": doc['id'],
+                        "success": False,
+                        "error": "Processing timeout",
+                        "timeout": True
+                    })
                 except Exception as e:
                     doc = future_to_doc[future]
                     print(f"  ❌ Exception processing {doc['id']}: {e}")
