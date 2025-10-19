@@ -110,14 +110,20 @@ class TextExtractor:
         return text.strip()
     
     def create_chunks(self, pages: List[Dict], doc_id: str, metadata: Dict) -> List[Dict]:
-        """ページをチャンクに分割"""
+        """ページをチャンクに分割（高速化版）"""
         print(f"    🔪 Creating chunks for {doc_id}...", flush=True)
         
         chunks = []
         chunk_index = 0
         
+        # テキスト結合
+        print(f"      Joining {len(pages)} pages...", flush=True)
         full_text = "\n\n".join([p['text'] for p in pages])
+        text_len = len(full_text)
+        print(f"      Total text length: {text_len:,} chars", flush=True)
         
+        # ページ境界の計算
+        print(f"      Calculating page boundaries...", flush=True)
         page_boundaries = []
         current_pos = 0
         for page in pages:
@@ -129,14 +135,28 @@ class TextExtractor:
             })
             current_pos += len(page_text) + 2
         
+        # チャンク作成
+        print(f"      Creating chunks (size={self.chunk_size}, overlap={self.chunk_overlap})...", flush=True)
         start = 0
-        while start < len(full_text):
+        progress_interval = max(1, text_len // (self.chunk_size * 10))  # 10回表示
+        
+        while start < text_len:
+            # 進捗表示（10チャンクごと）
+            if chunk_index > 0 and chunk_index % 10 == 0:
+                progress = (start / text_len) * 100
+                print(f"      Progress: {progress:.0f}% ({chunk_index} chunks)", flush=True)
+            
             end = start + self.chunk_size
             
-            if end < len(full_text):
-                period_pos = full_text.rfind('。', start, end + 100)
-                if period_pos > start:
-                    end = period_pos + 1
+            # 文の切れ目を探す（範囲を制限して高速化）
+            if end < text_len:
+                search_start = max(start, end - 100)
+                search_end = min(text_len, end + 100)
+                search_text = full_text[search_start:search_end]
+                
+                period_pos = search_text.rfind('。')
+                if period_pos > 0:
+                    end = search_start + period_pos + 1
             
             chunk_text = full_text[start:end].strip()
             
@@ -158,9 +178,10 @@ class TextExtractor:
                 chunk_index += 1
             
             start = end - self.chunk_overlap
-            if start >= len(full_text):
+            if start >= text_len:
                 break
         
+        print(f"      ✓ Created {len(chunks)} chunks", flush=True)
         return chunks
     
     def get_page_range(self, start: int, end: int, page_boundaries: List[Dict]) -> tuple:
