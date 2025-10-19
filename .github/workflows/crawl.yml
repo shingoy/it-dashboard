@@ -35,9 +35,9 @@ jobs:
       - name: Run extraction (incremental batch processing)
         timeout-minutes: 50
         env:
-          EXTRACT_MAX_WORKERS: 1     # 完全にシーケンシャル
-          BATCH_SIZE: 3              # 3件処理
-          PDF_TIMEOUT: 600           # 1PDFあたり10分
+          EXTRACT_MAX_WORKERS: 3     # 1 → 3に増やして試す
+          BATCH_SIZE: 15             # 3 → 15に増やす
+          PDF_TIMEOUT: 600
         run: python scripts/extract.py
         continue-on-error: true
       
