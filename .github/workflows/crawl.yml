@@ -26,20 +26,22 @@ jobs:
         run: pip install -r requirements.txt
       
       - name: Run crawler
+        timeout-minutes: 10  # タイムアウト追加
         run: python scripts/crawl.py
         continue-on-error: true
       
       - name: Check PDFs status
+        timeout-minutes: 5   # タイムアウト追加
         run: python scripts/check_pdfs.py
         continue-on-error: true
       
       - name: Run extraction (incremental batch processing)
-        timeout-minutes: 50
+        timeout-minutes: 30  # 50分 → 30分に短縮
         env:
-          EXTRACT_MAX_WORKERS: 1     # 1並列（安全）
-          MAX_PAGES_PER_PDF: 30      # 30ページ超のPDFはスキップ
-          BATCH_SIZE: 5              # 5件（現実的）
-          PDF_TIMEOUT: 400           # 1PDFあたり6.6分
+          EXTRACT_MAX_WORKERS: 1
+          BATCH_SIZE: 3        # 5 → 3に削減
+          PDF_TIMEOUT: 300
+          MAX_PAGES_PER_PDF: 30
         run: python scripts/extract.py
         continue-on-error: true
       
