@@ -59,12 +59,24 @@ ${chunks.map((chunk, idx) => `
 
     console.log('🤖 Calling Claude API...');
 
+    // 環境変数からAPIキーを取得
+    const apiKey = process.env.ANTHROPIC_API_KEY;
+    
+    if (!apiKey) {
+      console.error('❌ ANTHROPIC_API_KEY is not set');
+      return NextResponse.json(
+        { error: 'API key not configured' },
+        { status: 500 }
+      );
+    }
+
     // Claude API呼び出し
     const response = await fetch("https://api.anthropic.com/v1/messages", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        // APIキーは不要（claude.aiの環境では自動的に処理される）
+        "anthropic-api-key": apiKey,
+        "anthropic-version": "2023-06-01"
       },
       body: JSON.stringify({
         model: "claude-sonnet-4-20250514",
