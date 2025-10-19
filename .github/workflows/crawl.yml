@@ -37,7 +37,8 @@ jobs:
         timeout-minutes: 50
         env:
           EXTRACT_MAX_WORKERS: 1     # 1並列（安全）
-          BATCH_SIZE: 8              # 8件（現実的）
+          MAX_PAGES_PER_PDF: 30      # 30ページ超のPDFはスキップ
+          BATCH_SIZE: 5              # 5件（現実的）
           PDF_TIMEOUT: 400           # 1PDFあたり6.6分
         run: python scripts/extract.py
         continue-on-error: true

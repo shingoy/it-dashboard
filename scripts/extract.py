@@ -37,8 +37,8 @@ class TextExtractor:
         self.chunk_size = 1200
         self.chunk_overlap = 200
     
-    def extract_from_pdf(self, pdf_path: str) -> Dict:
-        """PDFからテキストを抽出（メモリ効率化版）"""
+    def extract_from_pdf(self, pdf_path: str, max_pages: int = 100) -> Dict:
+        """PDFからテキストを抽出（メモリ効率化版・ページ制限付き）"""
         if not PYMUPDF_AVAILABLE:
             return {
                 "success": False,
@@ -48,10 +48,20 @@ class TextExtractor:
         doc = None
         try:
             doc = fitz.open(pdf_path)
+            total_pages = len(doc)
+            
+            # ページ数が多すぎる場合はスキップ
+            if total_pages > max_pages:
+                return {
+                    "success": False,
+                    "error": f"PDF too large: {total_pages} pages (max: {max_pages})",
+                    "skipped": True
+                }
+            
             pages = []
             
             # ページごとに処理してメモリを節約
-            for page_num in range(len(doc)):
+            for page_num in range(total_pages):
                 page = doc[page_num]
                 text = page.get_text()
                 text = self.clean_text(text)
@@ -305,39 +315,45 @@ class TextExtractor:
             return
         
         results = []
-        timeouts = 0
         
-        # 並列処理（タイムアウト付き）
-        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            future_to_doc = {}
-            
+        if MAX_WORKERS == 1:
+            # シーケンシャル処理
+            print("📌 Running in sequential mode")
             for i, doc in enumerate(documents):
-                future = executor.submit(self.process_document_with_timeout, doc, i+1, total)
-                future_to_doc[future] = doc
-            
-            # タイムアウト付きで結果を取得
-            for future in as_completed(future_to_doc, timeout=PDF_TIMEOUT + 10):
-                try:
-                    result = future.result(timeout=PDF_TIMEOUT)
-                    results.append(result)
-                except TimeoutError:
-                    doc = future_to_doc[future]
-                    print(f"  ⏱️  TIMEOUT: {doc['title'][:50]}")
-                    timeouts += 1
-                    results.append({
-                        "doc_id": doc['id'],
-                        "success": False,
-                        "error": "Processing timeout",
-                        "timeout": True
-                    })
-                except Exception as e:
-                    doc = future_to_doc[future]
-                    print(f"  ❌ Exception processing {doc['id']}: {e}")
-                    results.append({
-                        "doc_id": doc['id'],
-                        "success": False,
-                        "error": str(e)
-                    })
+                result = self.process_document_with_timeout(doc, i+1, total)
+                results.append(result)
+        else:
+            # 並列処理
+            print(f"📌 Running in parallel mode ({MAX_WORKERS} workers)")
+            with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+                future_to_doc = {}
+                
+                for i, doc in enumerate(documents):
+                    future = executor.submit(self.process_document_with_timeout, doc, i+1, total)
+                    future_to_doc[future] = doc
+                
+                # タイムアウトなしで結果を取得
+                for future in as_completed(future_to_doc):
+                    try:
+                        result = future.result(timeout=PDF_TIMEOUT)
+                        results.append(result)
+                    except TimeoutError:
+                        doc = future_to_doc[future]
+                        print(f"  ⏱️  TIMEOUT: {doc['title'][:50]}")
+                        results.append({
+                            "doc_id": doc['id'],
+                            "success": False,
+                            "error": "Processing timeout",
+                            "timeout": True
+                        })
+                    except Exception as e:
+                        doc = future_to_doc[future]
+                        print(f"  ❌ Exception processing {doc['id']}: {e}")
+                        results.append({
+                            "doc_id": doc['id'],
+                            "success": False,
+                            "error": str(e)
+                        })
         
         summary = {
             "total_documents": total_all,
