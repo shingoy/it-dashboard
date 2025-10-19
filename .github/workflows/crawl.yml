@@ -2,8 +2,9 @@ name: Government IT Meeting Crawler
 
 on:
   schedule:
-    - cron: '0 9 * * *'  # 毎日 UTC 09:00 = JST 18:00
-  workflow_dispatch:     # 手動実行も可能
+    - cron: '0 9 * * *'   # 毎日 UTC 09:00 = JST 18:00
+    - cron: '0 21 * * *'  # 毎日 UTC 21:00 = JST 06:00（追加）
+  workflow_dispatch:      # 手動実行も可能
 
 jobs:
   crawl-and-build:
@@ -35,9 +36,9 @@ jobs:
       - name: Run extraction (incremental batch processing)
         timeout-minutes: 50
         env:
-          EXTRACT_MAX_WORKERS: 3     # 1 → 3に増やして試す
-          BATCH_SIZE: 15             # 3 → 15に増やす
-          PDF_TIMEOUT: 600
+          EXTRACT_MAX_WORKERS: 2     # 2並列（安全）
+          BATCH_SIZE: 8              # 8件（現実的）
+          PDF_TIMEOUT: 400           # 1PDFあたり6.6分
         run: python scripts/extract.py
         continue-on-error: true
       
