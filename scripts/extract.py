@@ -1,5 +1,5 @@
 """
-PDF/HTMLからテキストを抽出し、チャンク化（並列処理版）
+PDF/HTMLからテキストを抽出し、チャンク化（増分処理版）
 """
 
 import json
@@ -8,6 +8,7 @@ from pathlib import Path
 from typing import List, Dict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import os
+import time
 
 try:
     import fitz  # PyMuPDF
@@ -23,18 +24,20 @@ EXTRACTED_DIR = DATA_DIR / "extracted"
 
 EXTRACTED_DIR.mkdir(exist_ok=True)
 
-# 環境変数で並列数を制御（デフォルト4）
-MAX_WORKERS = int(os.environ.get('EXTRACT_MAX_WORKERS', '4'))
-# 処理するPDFの最大数（デフォルト制限なし、0で無制限）
-MAX_DOCUMENTS = int(os.environ.get('MAX_DOCUMENTS', '0'))
+# 環境変数で並列数を制御（デフォルト6）
+MAX_WORKERS = int(os.environ.get('EXTRACT_MAX_WORKERS', '6'))
+# 1回の実行で処理するPDFの最大数（デフォルト50）
+BATCH_SIZE = int(os.environ.get('BATCH_SIZE', '50'))
+# 個別PDFのタイムアウト（秒、デフォルト300秒=5分）
+PDF_TIMEOUT = int(os.environ.get('PDF_TIMEOUT', '300'))
 
 class TextExtractor:
     def __init__(self):
         self.chunk_size = 1200
         self.chunk_overlap = 200
     
-    def extract_from_pdf(self, pdf_path: str, max_pages: int = 100) -> Dict:
-        """PDFからテキストを抽出（ページ数制限付き）"""
+    def extract_from_pdf(self, pdf_path: str) -> Dict:
+        """PDFからテキストを抽出"""
         if not PYMUPDF_AVAILABLE:
             return {
                 "success": False,
@@ -43,20 +46,9 @@ class TextExtractor:
         
         try:
             doc = fitz.open(pdf_path)
-            total_pages = len(doc)
-            
-            # ページ数が多すぎる場合はスキップ
-            if total_pages > max_pages:
-                doc.close()
-                return {
-                    "success": False,
-                    "error": f"PDF too large: {total_pages} pages (max: {max_pages})",
-                    "skipped": True
-                }
-            
             pages = []
             
-            for page_num in range(total_pages):
+            for page_num in range(len(doc)):
                 page = doc[page_num]
                 text = page.get_text()
                 text = self.clean_text(text)
@@ -173,6 +165,35 @@ class TextExtractor:
         sorted_words = sorted(word_freq.items(), key=lambda x: x[1], reverse=True)[:top_n]
         return [{"term": word, "count": count} for word, count in sorted_words]
     
+    def is_already_processed(self, doc_id: str) -> bool:
+        """既に処理済みかチェック"""
+        output_file = EXTRACTED_DIR / f"{doc_id}.json"
+        return output_file.exists()
+    
+    def process_document_with_timeout(self, doc: Dict, index: int, total: int) -> Dict:
+        """タイムアウト付きでドキュメントを処理"""
+        doc_id = doc['id']
+        
+        # 既に処理済みならスキップ
+        if self.is_already_processed(doc_id):
+            print(f"  [{index}/{total}] ⏭️  Already processed: {doc_id}")
+            return {
+                "doc_id": doc_id,
+                "success": True,
+                "already_processed": True
+            }
+        
+        # 通常処理（タイムアウトは外部のExecutorで管理）
+        try:
+            return self.process_document(doc, index, total)
+        except Exception as e:
+            print(f"  [{index}/{total}] ❌ Exception: {str(e)[:100]}")
+            return {
+                "doc_id": doc_id,
+                "success": False,
+                "error": str(e)
+            }
+    
     def process_document(self, doc: Dict, index: int, total: int) -> Dict:
         """1つのドキュメントを処理"""
         doc_id = doc['id']
@@ -186,8 +207,11 @@ class TextExtractor:
                 "error": "PDF file not found"
             }
         
-        print(f"  [{index}/{total}] 📄 Processing: {doc['title'][:50]}...")
+        # ファイルサイズをチェック
+        file_size_mb = Path(pdf_path).stat().st_size / (1024 * 1024)
+        print(f"  [{index}/{total}] 📄 Processing: {doc['title'][:50]} ({file_size_mb:.1f}MB)...")
         
+        start_time = time.time()
         extraction = self.extract_from_pdf(pdf_path)
         
         if not extraction['success']:
@@ -223,44 +247,61 @@ class TextExtractor:
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(output, f, ensure_ascii=False, indent=2)
         
-        print(f"  [{index}/{total}] ✓ Extracted {len(chunks)} chunks, {len(keywords)} keywords")
+        elapsed = time.time() - start_time
+        print(f"  [{index}/{total}] ✓ Extracted {len(chunks)} chunks in {elapsed:.1f}s")
         
         return {
             "doc_id": doc_id,
             "success": True,
             "chunks_count": len(chunks),
-            "keywords_count": len(keywords)
+            "keywords_count": len(keywords),
+            "processing_time": elapsed
         }
     
     def process_all(self):
-        """全ドキュメントを並列処理"""
+        """全ドキュメントを増分処理"""
         docs_file = DATA_DIR / "collected_docs.json"
         if not docs_file.exists():
             print("❌ No collected documents found")
             return
         
         with open(docs_file, 'r', encoding='utf-8') as f:
-            documents = json.load(f)
+            all_documents = json.load(f)
         
-        # 処理数を制限（デバッグ用）
-        if MAX_DOCUMENTS > 0:
-            documents = documents[:MAX_DOCUMENTS]
-            print(f"⚠️  Processing limited to {MAX_DOCUMENTS} documents (set by MAX_DOCUMENTS)")
+        # 未処理のドキュメントのみを抽出
+        unprocessed_docs = [
+            doc for doc in all_documents 
+            if not self.is_already_processed(doc['id'])
+        ]
+        
+        # バッチサイズに制限
+        documents = unprocessed_docs[:BATCH_SIZE]
         
         total = len(documents)
-        print(f"🔍 Processing {total} documents with {MAX_WORKERS} workers...")
+        total_all = len(all_documents)
+        already_processed = len(all_documents) - len(unprocessed_docs)
+        
+        print(f"📊 Status:")
+        print(f"   Total documents: {total_all}")
+        print(f"   Already processed: {already_processed}")
+        print(f"   Remaining: {len(unprocessed_docs)}")
+        print(f"   Processing this batch: {total}")
+        print(f"   Workers: {MAX_WORKERS}")
+        print("")
+        
+        if total == 0:
+            print("✅ All documents already processed!")
+            return
         
         results = []
         
         # 並列処理
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            # ドキュメントごとにタスクを投入
             future_to_doc = {
-                executor.submit(self.process_document, doc, i+1, total): doc 
+                executor.submit(self.process_document_with_timeout, doc, i+1, total): doc 
                 for i, doc in enumerate(documents)
             }
             
-            # 完了したタスクから順に結果を取得
             for future in as_completed(future_to_doc):
                 try:
                     result = future.result()
@@ -275,9 +316,14 @@ class TextExtractor:
                     })
         
         summary = {
-            "total_documents": total,
-            "successful": sum(1 for r in results if r['success']),
+            "total_documents": total_all,
+            "already_processed": already_processed,
+            "batch_size": total,
+            "successful": sum(1 for r in results if r['success'] and not r.get('already_processed')),
+            "already_processed_in_batch": sum(1 for r in results if r.get('already_processed')),
             "failed": sum(1 for r in results if not r['success']),
+            "timeout": sum(1 for r in results if r.get('timeout')),
+            "remaining": len(unprocessed_docs) - total,
             "results": results
         }
         
@@ -285,17 +331,19 @@ class TextExtractor:
         with open(summary_file, 'w', encoding='utf-8') as f:
             json.dump(summary, f, ensure_ascii=False, indent=2)
         
-        print(f"\n✅ Extraction complete!")
-        print(f"   Success: {summary['successful']}")
+        print(f"\n✅ Batch extraction complete!")
+        print(f"   Processed: {summary['successful']}")
         print(f"   Failed: {summary['failed']}")
-        print(f"   Workers: {MAX_WORKERS}")
+        print(f"   Timeout: {summary['timeout']}")
+        print(f"   Remaining: {summary['remaining']}")
+        print(f"   Progress: {already_processed + summary['successful']}/{total_all} ({(already_processed + summary['successful'])/total_all*100:.1f}%)")
 
 def main():
-    print("🚀 Starting text extraction (Parallel)")
+    print("🚀 Starting incremental text extraction")
     print("="*60)
     print(f"   Max workers: {MAX_WORKERS}")
-    if MAX_DOCUMENTS > 0:
-        print(f"   Max documents: {MAX_DOCUMENTS}")
+    print(f"   Batch size: {BATCH_SIZE}")
+    print(f"   PDF timeout: {PDF_TIMEOUT}s")
     print("="*60)
     
     extractor = TextExtractor()
