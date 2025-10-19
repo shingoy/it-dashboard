@@ -1,5 +1,5 @@
 """
-政府IT会議データ収集スクリプト（タイムアウト対策版）
+政府IT会議データ収集スクリプト（積極収集版）
 """
 
 import json
@@ -24,12 +24,22 @@ DATA_DIR.mkdir(exist_ok=True)
 CACHE_DIR.mkdir(exist_ok=True)
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-# プリセット会議設定（全会議）
-# プリセット会議設定（検証済みURL）
+# 積極的な収集設定
+MAX_DOCUMENTS_PER_RUN = int(os.getenv('MAX_DOCUMENTS', '100'))  # 10 → 100に増量
+MAX_DOCUMENTS_PER_MEETING = int(os.getenv('MAX_PER_MEETING', '10'))  # 1 → 10に増量
+DOWNLOAD_TIMEOUT = 30
+REQUEST_TIMEOUT = 10
+
+# プリセット会議設定（検証済み + 新規追加）
 PRESET_MEETINGS = {
     "digital_agency": {
         "name": "デジタル庁",
         "meetings": [
+            {
+                "name": "デジタル臨時行政調査会",
+                "url": "https://www.digital.go.jp/councils/administrative-research",
+                "type": "html_list"
+            },
             {
                 "name": "デジタル社会推進会議",
                 "url": "https://www.digital.go.jp/councils/social-promotion",
@@ -41,23 +51,14 @@ PRESET_MEETINGS = {
                 "type": "html_list"
             },
             {
-                "name": "マイナンバー制度及び国と地方のデジタル基盤抜本改善ワーキンググループ",
-                "url": "https://www.digital.go.jp/councils/my-number-improvement",
-                "type": "html_list"
-            },
-            {
-                "name": "デジタル臨時行政調査会",
-                "url": "https://www.digital.go.jp/councils/administrative-research",
-                "type": "html_list"
-            },
-            {
                 "name": "ベース・レジストリ",
                 "url": "https://www.digital.go.jp/policies/base_registry",
                 "type": "html_list"
             },
+            # 新規追加: デジタル庁の主要ページ
             {
-                "name": "ガバメントクラウド",
-                "url": "https://www.digital.go.jp/policies/gov-cloud",
+                "name": "デジタル社会推進標準ガイドライン",
+                "url": "https://www.digital.go.jp/resources/standard_guidelines/",
                 "type": "html_list"
             },
         ]
@@ -71,13 +72,14 @@ PRESET_MEETINGS = {
                 "type": "html_list"
             },
             {
-                "name": "高度情報通信ネットワーク社会推進戦略本部",
-                "url": "https://www.kantei.go.jp/jp/singi/it2/",
-                "type": "html_list"
-            },
-            {
                 "name": "サイバーセキュリティ戦略本部",
                 "url": "https://www.nisc.go.jp/council/",
+                "type": "html_list"
+            },
+            # 新規追加: 統合イノベーション戦略推進会議
+            {
+                "name": "統合イノベーション戦略",
+                "url": "https://www8.cao.go.jp/cstp/togo/index.html",
                 "type": "html_list"
             },
         ]
@@ -90,6 +92,12 @@ PRESET_MEETINGS = {
                 "url": "https://www.soumu.go.jp/menu_seisaku/ictseisaku/ictriyou/",
                 "type": "html_list"
             },
+            # 新規追加: ICT政策関連
+            {
+                "name": "情報通信審議会",
+                "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/index.html",
+                "type": "html_list"
+            },
         ]
     },
     "meti": {
@@ -98,6 +106,12 @@ PRESET_MEETINGS = {
             {
                 "name": "デジタル産業の創出に向けた研究会",
                 "url": "https://www.meti.go.jp/shingikai/mono_info_service/digital_sangyo/index.html",
+                "type": "html_list"
+            },
+            # 新規追加: DX関連
+            {
+                "name": "デジタルトランスフォーメーション",
+                "url": "https://www.meti.go.jp/policy/it_policy/dx/index.html",
                 "type": "html_list"
             },
         ]
@@ -144,12 +158,6 @@ PRESET_MEETINGS = {
     },
 }
 
-# 制限設定
-MAX_DOCUMENTS_PER_RUN = int(os.getenv('MAX_DOCUMENTS', '10'))  # 1回の実行で10件（全会議カバー）
-MAX_DOCUMENTS_PER_MEETING = 1  # 各会議から1件ずつ（より公平に）
-DOWNLOAD_TIMEOUT = 30
-REQUEST_TIMEOUT = 10
-
 class MeetingCrawler:
     def __init__(self):
         self.session = requests.Session()
@@ -158,6 +166,7 @@ class MeetingCrawler:
         })
         self.failed_urls = []
         self.docs_cache = self.load_docs_cache()
+        self.existing_docs = self.load_existing_docs()
         
     def load_docs_cache(self):
         """既存のドキュメントキャッシュを読み込み"""
@@ -165,6 +174,15 @@ class MeetingCrawler:
         if cache_file.exists():
             with open(cache_file, 'r', encoding='utf-8') as f:
                 return json.load(f)
+        return {}
+    
+    def load_existing_docs(self):
+        """既存の収集済みドキュメントを読み込み"""
+        output_file = DATA_DIR / "collected_docs.json"
+        if output_file.exists():
+            with open(output_file, 'r', encoding='utf-8') as f:
+                docs = json.load(f)
+                return {doc['id']: doc for doc in docs}
         return {}
     
     def save_docs_cache(self):
@@ -181,8 +199,9 @@ class MeetingCrawler:
                 response.raise_for_status()
                 return response
             except Exception as e:
-                print(f"  ⚠️  Attempt {attempt + 1} failed: {str(e)[:50]}")
                 if attempt == retries - 1:
+                    # 最後の試行でのみログ
+                    print(f"  ⚠️  Failed: {str(e)[:60]}")
                     self.failed_urls.append({
                         "url": url,
                         "error": str(e),
@@ -195,8 +214,7 @@ class MeetingCrawler:
     def parse_meeting_list(self, meeting_config, max_docs=None):
         """会議ページから議事録・資料のリストを抽出"""
         url = meeting_config['url']
-        print(f"\n📋 Crawling: {meeting_config['name']}")
-        print(f"   URL: {url}")
+        print(f"\n📋 {meeting_config['name']}")
         
         response = self.fetch_url(url)
         if not response:
@@ -208,18 +226,26 @@ class MeetingCrawler:
         # PDFリンクを探す
         pdf_links = soup.find_all('a', href=lambda x: x and x.endswith('.pdf'))
         
-        print(f"   Found {len(pdf_links)} PDF links")
+        if len(pdf_links) == 0:
+            print(f"   No PDFs found")
+            return []
         
-        # 最大数を制限（指定がなければ全て）
-        limit = max_docs if max_docs else len(pdf_links)
+        print(f"   Found {len(pdf_links)} PDFs")
         
-        for link in pdf_links[:limit]:
+        # 最大数を制限
+        limit = max_docs if max_docs else MAX_DOCUMENTS_PER_MEETING
+        new_count = 0
+        
+        for link in pdf_links:
+            if new_count >= limit:
+                break
+                
             pdf_url = urljoin(url, link.get('href'))
             
-            # 既にキャッシュにある場合はスキップ
+            # 既に収集済みの場合はスキップ
             url_hash = hashlib.md5(pdf_url.encode()).hexdigest()
-            if url_hash in self.docs_cache:
-                continue  # キャッシュ済みはカウントしない
+            if url_hash in self.existing_docs or url_hash in self.docs_cache:
+                continue
             
             # タイトルを取得
             title = link.get_text(strip=True)
@@ -243,11 +269,10 @@ class MeetingCrawler:
             }
             
             documents.append(doc)
-            print(f"  ✓ New: {title[:60]}...")
-            
-            # 見つかったら早めに終了（各会議から少しずつ）
-            if len(documents) >= MAX_DOCUMENTS_PER_MEETING:
-                break
+            new_count += 1
+        
+        if new_count > 0:
+            print(f"   ✓ {new_count} new documents")
         
         return documents
     
@@ -285,29 +310,26 @@ class MeetingCrawler:
         
         # 既にダウンロード済みならスキップ
         if pdf_path.exists():
-            print(f"  ⏭️  Already exists: {pdf_path.name}")
             return str(pdf_path)
         
         try:
-            print(f"  ⬇️  Downloading: {doc['title'][:40]}...")
             response = self.session.get(doc['url'], timeout=DOWNLOAD_TIMEOUT, stream=True)
             response.raise_for_status()
             
-            # ファイルサイズチェック（10MB以上はスキップ）
+            # ファイルサイズチェック（20MB以上はスキップ）
             content_length = response.headers.get('content-length')
-            if content_length and int(content_length) > 10 * 1024 * 1024:
-                print(f"  ⚠️  File too large (>10MB), skipping")
+            if content_length and int(content_length) > 20 * 1024 * 1024:
+                print(f"  ⚠️  Too large (>20MB): {doc['title'][:40]}")
                 return None
             
             with open(pdf_path, 'wb') as f:
                 for chunk in response.iter_content(chunk_size=8192):
                     f.write(chunk)
             
-            print(f"  💾 Downloaded: {pdf_path.name}")
             return str(pdf_path)
             
         except Exception as e:
-            print(f"  ❌ Failed to download: {str(e)[:50]}")
+            print(f"  ❌ Download failed: {doc['title'][:30]}")
             self.failed_urls.append({
                 "url": doc['url'],
                 "error": str(e),
@@ -316,25 +338,27 @@ class MeetingCrawler:
             return None
     
     def crawl_all(self):
-        """全会議を巡回（各会議から少しずつ収集）"""
-        all_documents = []
+        """全会議を巡回（積極収集）"""
+        all_new_documents = []
         download_count = 0
         
         start_time = time.time()
         max_runtime = 4 * 60  # 4分で強制終了
         
-        print(f"\n📊 Strategy: Collect up to {MAX_DOCUMENTS_PER_MEETING} docs from each meeting")
-        print(f"   Total limit: {MAX_DOCUMENTS_PER_RUN} documents per run")
+        print(f"\n{'='*60}")
+        print(f"🚀 Aggressive Crawling Strategy")
+        print(f"   Max per meeting: {MAX_DOCUMENTS_PER_MEETING}")
+        print(f"   Total limit: {MAX_DOCUMENTS_PER_RUN}")
+        print(f"   Already collected: {len(self.existing_docs)}")
+        print(f"{'='*60}")
         
         for agency_id, agency_config in PRESET_MEETINGS.items():
             # タイムアウトチェック
             if time.time() - start_time > max_runtime:
-                print(f"\n⏱️  Runtime limit reached ({max_runtime}s), stopping")
+                print(f"\n⏱️  Runtime limit reached, stopping")
                 break
             
-            print(f"\n{'='*60}")
-            print(f"🏛️  Agency: {agency_config['name']}")
-            print(f"{'='*60}")
+            print(f"\n🏛️  {agency_config['name']}")
             
             for meeting in agency_config['meetings']:
                 # タイムアウトチェック
@@ -343,65 +367,67 @@ class MeetingCrawler:
                 
                 # 全体の最大ダウンロード数チェック
                 if download_count >= MAX_DOCUMENTS_PER_RUN:
-                    print(f"\n⚠️  Reached run limit ({MAX_DOCUMENTS_PER_RUN}), stopping")
-                    return all_documents
+                    print(f"\n⚠️  Reached run limit ({MAX_DOCUMENTS_PER_RUN})")
+                    break
                 
                 meeting['agency'] = agency_config['name']
                 documents = self.parse_meeting_list(meeting)
                 
-                # PDFをダウンロード（各会議から少しずつ）
-                downloaded_from_meeting = 0
+                # PDFをダウンロード
                 for doc in documents:
                     if download_count >= MAX_DOCUMENTS_PER_RUN:
-                        break
-                    if downloaded_from_meeting >= MAX_DOCUMENTS_PER_MEETING:
                         break
                     
                     pdf_path = self.download_pdf(doc)
                     if pdf_path:
                         doc['pdf_path'] = pdf_path
-                        all_documents.append(doc)
+                        all_new_documents.append(doc)
                         self.docs_cache[doc['id']] = doc
                         download_count += 1
-                        downloaded_from_meeting += 1
-                        print(f"  📊 Total progress: {download_count}/{MAX_DOCUMENTS_PER_RUN}")
+                        
+                        if download_count % 10 == 0:
+                            print(f"\n📊 Progress: {download_count}/{MAX_DOCUMENTS_PER_RUN}")
                 
-                time.sleep(0.5)  # レート制限対策
+                time.sleep(0.3)  # レート制限対策
         
         elapsed = time.time() - start_time
-        print(f"\n⏱️  Total time: {elapsed:.1f}s")
-        print(f"📚 Collected from {len(set(d['meeting'] for d in all_documents))} different meetings")
+        print(f"\n{'='*60}")
+        print(f"⏱️  Time: {elapsed:.1f}s")
+        print(f"📚 New documents: {len(all_new_documents)}")
+        print(f"📚 Total documents: {len(self.existing_docs) + len(all_new_documents)}")
         
-        return all_documents
+        return all_new_documents
     
-    def save_results(self, documents):
-        """収集結果を保存"""
+    def save_results(self, new_documents):
+        """収集結果を保存（既存データに追加）"""
+        # 既存のドキュメントと新規を統合
+        all_documents = list(self.existing_docs.values()) + new_documents
+        
         output_file = DATA_DIR / "collected_docs.json"
         with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(documents, f, ensure_ascii=False, indent=2)
+            json.dump(all_documents, f, ensure_ascii=False, indent=2)
         
-        print(f"\n✅ Saved {len(documents)} documents to {output_file}")
+        print(f"\n✅ Saved {len(all_documents)} total documents")
+        print(f"   ({len(new_documents)} new + {len(self.existing_docs)} existing)")
         
         if self.failed_urls:
             with open(FAILED_LOG, 'w', encoding='utf-8') as f:
                 json.dump(self.failed_urls, f, ensure_ascii=False, indent=2)
-            print(f"⚠️  {len(self.failed_urls)} failed URLs logged")
+            print(f"⚠️  {len(self.failed_urls)} failed URLs")
         
         self.save_docs_cache()
 
 def main():
-    print("🚀 Starting Government IT Meeting Crawler")
-    print(f"   Max documents per run: {MAX_DOCUMENTS_PER_RUN}")
+    print("🚀 Government IT Document Crawler (Aggressive Mode)")
+    print(f"   Max per run: {MAX_DOCUMENTS_PER_RUN}")
     print(f"   Max per meeting: {MAX_DOCUMENTS_PER_MEETING}")
-    print(f"   Download timeout: {DOWNLOAD_TIMEOUT}s")
-    print("="*60)
     
     crawler = MeetingCrawler()
-    documents = crawler.crawl_all()
-    crawler.save_results(documents)
+    new_documents = crawler.crawl_all()
+    crawler.save_results(new_documents)
     
     print("\n" + "="*60)
-    print(f"✨ Crawling complete! Collected {len(documents)} documents")
+    print(f"✨ Crawling complete!")
     print("="*60)
 
 if __name__ == "__main__":
