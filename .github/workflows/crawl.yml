@@ -28,15 +28,20 @@ jobs:
         run: python scripts/crawl.py
         continue-on-error: true
       
-      - name: Run extraction (parallel)
-        timeout-minutes: 20
+      - name: Check PDFs status
+        run: python scripts/check_pdfs.py
+        continue-on-error: true
+      
+      - name: Run extraction (parallel - batch processing)
+        timeout-minutes: 40  # 20分 → 40分に延長
         env:
-          EXTRACT_MAX_WORKERS: 4  # 並列処理数
-          MAX_DOCUMENTS: 0         # 0 = 全て処理、50 = 最初の50件のみ
+          EXTRACT_MAX_WORKERS: 6    # 4 → 6並列に増加
+          MAX_DOCUMENTS: 50          # 一度に50件まで処理
         run: python scripts/extract.py
         continue-on-error: true
       
       - name: Build index
+        timeout-minutes: 10
         run: python scripts/build_index.py
         continue-on-error: true
       
@@ -46,7 +51,9 @@ jobs:
           if [ -d "public/index-shards" ] && [ "$(ls -A public/index-shards)" ]; then
             echo "files_exist=true" >> $GITHUB_OUTPUT
             echo "✅ Files generated successfully"
-            ls -la public/index-shards/
+            echo "📊 Generated files:"
+            ls -lh public/index-shards/ | head -20
+            echo "Total files: $(ls -1 public/index-shards/ | wc -l)"
           else
             echo "files_exist=false" >> $GITHUB_OUTPUT
             echo "⚠️ No files generated, skipping commit"
@@ -61,7 +68,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Auto-update search index [skip ci]"
+            git commit -m "Auto-update search index (batch: 50 docs) [skip ci]"
             git pull --rebase origin main || true
             git push origin main
             echo "✅ Changes pushed successfully"
