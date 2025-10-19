@@ -1,22 +1,12 @@
 [
   {
-    "doc_id": "398f2dd6712c03e49eb07751c3a671df",
+    "doc_id": "0df9dcc6b12e854620b81eb1f4406e76",
     "meeting": "デジタル臨時行政調査会",
     "agency": "デジタル庁",
-    "title": "構造改革のためのデジタル原則（PDF／214KB）",
-    "date": "2023-09-11",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/b7c8fc0c/20230911_meeting_administrative-research_outline_01.pdf",
-    "pages": 1,
-    "chunks_count": 1
-  },
-  {
-    "doc_id": "4b785ba3c1d1918b2b77c15ada960f28",
-    "meeting": "AI戦略会議",
-    "agency": "内閣府・内閣官房",
-    "title": "令和５年度補正予算（PDF形式：523KB）",
+    "title": "デジタル原則に照らした規制の一括見直しプラン（PDF／1,881KB）",
     "date": "2025-10-19",
-    "url": "https://www8.cao.go.jp/cstp/ai/yosan_5nendo_hosei.pdf",
-    "pages": 1,
-    "chunks_count": 2
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/7f6adee4/20230314_policies_digital-extraordinary-administrative-research-committee_outline_01.pdf",
+    "pages": 23,
+    "chunks_count": 20
   }
 ]

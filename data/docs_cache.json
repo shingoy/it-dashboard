@@ -119,5 +119,16 @@
     "date": "2025-10-19",
     "collected_at": "2025-10-19T12:28:26.760228",
     "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/4b785ba3c1d1918b2b77c15ada960f28.pdf"
+  },
+  "0df9dcc6b12e854620b81eb1f4406e76": {
+    "id": "0df9dcc6b12e854620b81eb1f4406e76",
+    "meeting": "デジタル臨時行政調査会",
+    "agency": "デジタル庁",
+    "title": "デジタル原則に照らした規制の一括見直しプラン（PDF／1,881KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/7f6adee4/20230314_policies_digital-extraordinary-administrative-research-committee_outline_01.pdf",
+    "file_type": "pdf",
+    "date": "2025-10-19",
+    "collected_at": "2025-10-19T13:14:00.087948",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/0df9dcc6b12e854620b81eb1f4406e76.pdf"
   }
 }

@@ -1,24 +1,13 @@
 [
   {
-    "id": "398f2dd6712c03e49eb07751c3a671df",
+    "id": "0df9dcc6b12e854620b81eb1f4406e76",
     "meeting": "デジタル臨時行政調査会",
     "agency": "デジタル庁",
-    "title": "構造改革のためのデジタル原則（PDF／214KB）",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/b7c8fc0c/20230911_meeting_administrative-research_outline_01.pdf",
-    "file_type": "pdf",
-    "date": "2023-09-11",
-    "collected_at": "2025-10-19T12:28:19.781574",
-    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/398f2dd6712c03e49eb07751c3a671df.pdf"
-  },
-  {
-    "id": "4b785ba3c1d1918b2b77c15ada960f28",
-    "meeting": "AI戦略会議",
-    "agency": "内閣府・内閣官房",
-    "title": "令和５年度補正予算（PDF形式：523KB）",
-    "url": "https://www8.cao.go.jp/cstp/ai/yosan_5nendo_hosei.pdf",
+    "title": "デジタル原則に照らした規制の一括見直しプラン（PDF／1,881KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/7f6adee4/20230314_policies_digital-extraordinary-administrative-research-committee_outline_01.pdf",
     "file_type": "pdf",
     "date": "2025-10-19",
-    "collected_at": "2025-10-19T12:28:26.760228",
-    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/4b785ba3c1d1918b2b77c15ada960f28.pdf"
+    "collected_at": "2025-10-19T13:14:00.087948",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/0df9dcc6b12e854620b81eb1f4406e76.pdf"
   }
 ]
