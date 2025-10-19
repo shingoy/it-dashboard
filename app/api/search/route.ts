@@ -1,9 +1,11 @@
 /**
  * 検索API - BM25を使用した全文検索
- * 修正版: トークナイザーを改善し、英数字の短い単語にも対応
+ * 修正版: fs.readFileでローカルファイルを読み込み
  */
 
 import { NextRequest, NextResponse } from 'next/server';
+import fs from 'fs/promises';
+import path from 'path';
 
 interface Chunk {
   chunk_id: string;
@@ -163,34 +165,38 @@ export async function GET(request: NextRequest) {
       return NextResponse.json({ hits: [], count: 0 });
     }
     
-    // シャードインデックス読み込み
-    const baseUrl = request.url.split('/api/')[0];
-    const indexUrl = `${baseUrl}/index-shards/_index.json`;
-    console.log('📂 Fetching index from:', indexUrl);
+    // public/index-shards/ のパス
+    const indexShardsDir = path.join(process.cwd(), 'public', 'index-shards');
+    const indexPath = path.join(indexShardsDir, '_index.json');
     
-    const indexResponse = await fetch(indexUrl);
+    console.log('📂 Reading index from:', indexPath);
     
-    if (!indexResponse.ok) {
-      console.error('❌ Index fetch failed:', indexResponse.status);
+    // シャードインデックス読み込み（ファイルシステムから）
+    let shardIndex: ShardIndex[];
+    try {
+      const indexContent = await fs.readFile(indexPath, 'utf-8');
+      shardIndex = JSON.parse(indexContent);
+      console.log('✅ Loaded shard index:', shardIndex.length, 'shards');
+    } catch (error) {
+      console.error('❌ Index file not found:', error);
       return NextResponse.json({ 
         error: 'Index not found',
+        message: 'インデックスファイルが見つかりません。GitHub Actionsが実行されているか確認してください。',
         hits: [], 
         count: 0 
-      });
+      }, { status: 404 });
     }
-    
-    const shardIndex: ShardIndex[] = await indexResponse.json();
-    console.log('✅ Loaded shard index:', shardIndex.length, 'shards');
     
     // 関連するシャードを読み込み（全シャード）
     const shardPromises = shardIndex.map(async (shard) => {
-      const url = `${baseUrl}/index-shards/${shard.filename}`;
-      const response = await fetch(url);
-      if (!response.ok) {
-        console.error('❌ Shard fetch failed:', shard.filename, response.status);
+      const shardPath = path.join(indexShardsDir, shard.filename);
+      try {
+        const shardContent = await fs.readFile(shardPath, 'utf-8');
+        return JSON.parse(shardContent) as Shard;
+      } catch (error) {
+        console.error('❌ Shard file not found:', shard.filename, error);
         return null;
       }
-      return response.json() as Promise<Shard>;
     });
     
     const shardResults = await Promise.all(shardPromises);
@@ -201,9 +207,10 @@ export async function GET(request: NextRequest) {
     if (shards.length === 0) {
       return NextResponse.json({ 
         error: 'No shards loaded',
+        message: 'シャードファイルが見つかりません。',
         hits: [], 
         count: 0 
-      });
+      }, { status: 404 });
     }
     
     // デバッグ: 最初のシャードのIDFキーをサンプル表示
