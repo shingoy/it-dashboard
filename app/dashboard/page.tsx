@@ -63,7 +63,6 @@ export default function ModernDashboard() {
     setSummary(null);
     
     try {
-      // 検索API呼び出し
       const params = new URLSearchParams({
         q: query,
         from: dateFrom,
@@ -91,7 +90,6 @@ export default function ModernDashboard() {
       setSearchResults(data.hits || []);
       setHasSearched(true);
       
-      // 検索結果がある場合、自動的に要約を生成
       if (data.hits && data.hits.length > 0) {
         generateSummary(data.hits.slice(0, 3));
       }
@@ -138,7 +136,6 @@ export default function ModernDashboard() {
       
     } catch (error) {
       console.error('Summary error:', error);
-      setError('要約生成中にエラーが発生しました');
     } finally {
       setSummarizing(false);
     }
@@ -157,18 +154,18 @@ export default function ModernDashboard() {
   const renderMarkdown = (text: string) => {
     return text.split('\n').map((line, idx) => {
       if (line.startsWith('## ')) {
-        return <h3 key={idx} className="text-lg font-bold text-gray-900 mt-6 mb-3">{line.slice(3)}</h3>;
+        return <h3 key={idx} style={{ fontSize: '1.125rem', fontWeight: 'bold', marginTop: '1.5rem', marginBottom: '0.75rem' }}>{line.slice(3)}</h3>;
       } else if (line.startsWith('# ')) {
-        return <h2 key={idx} className="text-xl font-bold text-gray-900 mt-4 mb-3">{line.slice(2)}</h2>;
+        return <h2 key={idx} style={{ fontSize: '1.25rem', fontWeight: 'bold', marginTop: '1rem', marginBottom: '0.75rem' }}>{line.slice(2)}</h2>;
       } else if (line.startsWith('**') && line.endsWith('**')) {
-        return <h2 key={idx} className="text-xl font-bold text-gray-900 mt-4 mb-3">{line.slice(2, -2)}</h2>;
+        return <h2 key={idx} style={{ fontSize: '1.25rem', fontWeight: 'bold', marginTop: '1rem', marginBottom: '0.75rem' }}>{line.slice(2, -2)}</h2>;
       } else if (line.startsWith('- ')) {
         const parts = line.slice(2).split(/(\*\*.*?\*\*)/g);
         return (
-          <li key={idx} className="ml-4 mb-2 text-gray-700">
+          <li key={idx} style={{ marginLeft: '1rem', marginBottom: '0.5rem' }}>
             {parts.map((part, i) => 
               part.startsWith('**') && part.endsWith('**') 
-                ? <strong key={i} className="font-semibold text-gray-900">{part.slice(2, -2)}</strong>
+                ? <strong key={i}>{part.slice(2, -2)}</strong>
                 : <span key={i}>{part}</span>
             )}
           </li>
@@ -176,68 +173,109 @@ export default function ModernDashboard() {
       } else if (line.trim() === '') {
         return <br key={idx} />;
       }
-      return <p key={idx} className="mb-2 text-gray-700">{line}</p>;
+      return <p key={idx} style={{ marginBottom: '0.5rem' }}>{line}</p>;
     });
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
+    <div style={{ minHeight: '100vh', background: 'linear-gradient(to bottom, #f9fafb, white)' }}>
       {/* ヘッダー */}
-      <header className="border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-10">
-        <div className="max-w-4xl mx-auto px-6 py-4 flex items-center justify-between">
-          <div className="flex items-center gap-2">
-            <div className="w-8 h-8 bg-gradient-to-br from-blue-500 to-purple-600 rounded-lg flex items-center justify-center">
-              <Sparkles className="w-5 h-5 text-white" />
+      <header style={{ 
+        borderBottom: '1px solid #e5e7eb', 
+        backgroundColor: 'rgba(255, 255, 255, 0.8)',
+        backdropFilter: 'blur(8px)',
+        position: 'sticky',
+        top: 0,
+        zIndex: 10
+      }}>
+        <div style={{ maxWidth: '56rem', margin: '0 auto', padding: '1rem 1.5rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+            <div style={{ 
+              width: '2rem', 
+              height: '2rem', 
+              background: 'linear-gradient(to bottom right, #3b82f6, #9333ea)',
+              borderRadius: '0.5rem',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center'
+            }}>
+              <Sparkles style={{ width: '1.25rem', height: '1.25rem', color: 'white' }} />
             </div>
-            <h1 className="text-xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+            <h1 style={{ 
+              fontSize: '1.25rem', 
+              fontWeight: 'bold',
+              background: 'linear-gradient(to right, #2563eb, #9333ea)',
+              WebkitBackgroundClip: 'text',
+              WebkitTextFillColor: 'transparent',
+              backgroundClip: 'text'
+            }}>
               政府IT検索
             </h1>
           </div>
           <button
             onClick={() => setShowFilters(!showFilters)}
-            className="px-4 py-2 text-sm text-gray-600 hover:text-gray-900 flex items-center gap-2 transition-colors"
+            style={{ 
+              padding: '0.5rem 1rem', 
+              fontSize: '0.875rem', 
+              color: '#4b5563',
+              display: 'flex',
+              alignItems: 'center',
+              gap: '0.5rem',
+              border: 'none',
+              background: 'none',
+              cursor: 'pointer'
+            }}
           >
             フィルター
-            <ChevronDown className={`w-4 h-4 transition-transform ${showFilters ? 'rotate-180' : ''}`} />
+            <ChevronDown style={{ 
+              width: '1rem', 
+              height: '1rem',
+              transform: showFilters ? 'rotate(180deg)' : 'rotate(0deg)',
+              transition: 'transform 0.2s'
+            }} />
           </button>
         </div>
 
-        {/* フィルターパネル（折りたたみ可能） */}
         {showFilters && (
-          <div className="border-t border-gray-200 bg-gray-50">
-            <div className="max-w-4xl mx-auto px-6 py-4">
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div style={{ borderTop: '1px solid #e5e7eb', backgroundColor: '#f9fafb' }}>
+            <div style={{ maxWidth: '56rem', margin: '0 auto', padding: '1rem 1.5rem' }}>
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '1rem' }}>
                 <div>
-                  <label className="block text-sm font-medium text-gray-700 mb-2">期間</label>
-                  <div className="flex items-center gap-2">
+                  <label style={{ display: 'block', fontSize: '0.875rem', fontWeight: '500', marginBottom: '0.5rem' }}>期間</label>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
                     <input
                       type="date"
                       value={dateFrom}
                       onChange={(e) => setDateFrom(e.target.value)}
-                      className="flex-1 px-3 py-2 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      style={{ flex: 1, padding: '0.5rem 0.75rem', border: '1px solid #d1d5db', borderRadius: '0.5rem', fontSize: '0.875rem' }}
                     />
-                    <span className="text-gray-500">〜</span>
+                    <span>〜</span>
                     <input
                       type="date"
                       value={dateTo}
                       onChange={(e) => setDateTo(e.target.value)}
-                      className="flex-1 px-3 py-2 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      style={{ flex: 1, padding: '0.5rem 0.75rem', border: '1px solid #d1d5db', borderRadius: '0.5rem', fontSize: '0.875rem' }}
                     />
                   </div>
                 </div>
                 
                 <div>
-                  <label className="block text-sm font-medium text-gray-700 mb-2">省庁</label>
-                  <div className="flex flex-wrap gap-2">
+                  <label style={{ display: 'block', fontSize: '0.875rem', fontWeight: '500', marginBottom: '0.5rem' }}>省庁</label>
+                  <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.5rem' }}>
                     {AGENCIES.map(agency => (
                       <button
                         key={agency.id}
                         onClick={() => toggleAgency(agency.id)}
-                        className={`px-3 py-1 rounded-full text-sm transition-colors ${
-                          selectedAgencies.has(agency.id)
-                            ? 'bg-blue-100 text-blue-700 border border-blue-300'
-                            : 'bg-white text-gray-600 border border-gray-300 hover:border-gray-400'
-                        }`}
+                        style={{
+                          padding: '0.25rem 0.75rem',
+                          borderRadius: '9999px',
+                          fontSize: '0.875rem',
+                          border: '1px solid',
+                          borderColor: selectedAgencies.has(agency.id) ? '#93c5fd' : '#d1d5db',
+                          backgroundColor: selectedAgencies.has(agency.id) ? '#dbeafe' : 'white',
+                          color: selectedAgencies.has(agency.id) ? '#1e40af' : '#4b5563',
+                          cursor: 'pointer'
+                        }}
                       >
                         {agency.name}
                       </button>
@@ -251,47 +289,69 @@ export default function ModernDashboard() {
       </header>
 
       {/* メインコンテンツ */}
-      <main className="max-w-4xl mx-auto px-6">
-        {/* 検索ボックス（未検索時は中央、検索後は上部） */}
-        <div className={`transition-all duration-500 ${
-          hasSearched ? 'py-6' : 'py-20 md:py-32'
-        }`}>
-          <div className={`transition-all duration-500 ${
-            hasSearched ? '' : 'text-center'
-          }`}>
+      <main style={{ maxWidth: '56rem', margin: '0 auto', padding: '0 1.5rem' }}>
+        <div style={{ 
+          padding: hasSearched ? '1.5rem 0' : '5rem 0',
+          transition: 'padding 0.5s'
+        }}>
+          <div style={{ textAlign: hasSearched ? 'left' : 'center' }}>
             {!hasSearched && (
-              <div className="mb-8">
-                <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
+              <div style={{ marginBottom: '2rem' }}>
+                <h2 style={{ fontSize: 'clamp(2rem, 5vw, 3rem)', fontWeight: 'bold', marginBottom: '1rem' }}>
                   政府IT会議を検索
                 </h2>
-                <p className="text-lg text-gray-600">
+                <p style={{ fontSize: '1.125rem', color: '#6b7280' }}>
                   AI、マイナンバー、データ連携など、最新の政策情報を即座に検索
                 </p>
               </div>
             )}
             
-            <div className="relative">
-              <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 w-5 h-5" />
+            <div style={{ position: 'relative' }}>
+              <Search style={{ position: 'absolute', left: '1rem', top: '50%', transform: 'translateY(-50%)', color: '#9ca3af', width: '1.25rem', height: '1.25rem' }} />
               <input
                 type="text"
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 onKeyDown={(e) => e.key === 'Enter' && handleSearch()}
                 placeholder="例: 生成AI予算、マイナンバーカード、データ連携基盤..."
-                className="w-full pl-12 pr-32 py-4 text-lg border border-gray-300 rounded-xl shadow-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                style={{
+                  width: '100%',
+                  paddingLeft: '3rem',
+                  paddingRight: '8rem',
+                  paddingTop: '1rem',
+                  paddingBottom: '1rem',
+                  fontSize: '1.125rem',
+                  border: '1px solid #d1d5db',
+                  borderRadius: '0.75rem',
+                  boxShadow: '0 10px 15px -3px rgba(0, 0, 0, 0.1)',
+                  outline: 'none'
+                }}
                 autoFocus
               />
               <button
                 onClick={handleSearch}
                 disabled={!query.trim() || searching}
-                className="absolute right-2 top-1/2 -translate-y-1/2 px-6 py-2 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-lg hover:from-blue-700 hover:to-purple-700 disabled:opacity-50 disabled:cursor-not-allowed font-medium transition-all"
+                style={{
+                  position: 'absolute',
+                  right: '0.5rem',
+                  top: '50%',
+                  transform: 'translateY(-50%)',
+                  padding: '0.5rem 1.5rem',
+                  background: 'linear-gradient(to right, #2563eb, #9333ea)',
+                  color: 'white',
+                  borderRadius: '0.5rem',
+                  border: 'none',
+                  fontWeight: '500',
+                  cursor: !query.trim() || searching ? 'not-allowed' : 'pointer',
+                  opacity: !query.trim() || searching ? 0.5 : 1
+                }}
               >
-                {searching ? <Loader2 className="w-5 h-5 animate-spin" /> : '検索'}
+                {searching ? <Loader2 style={{ width: '1.25rem', height: '1.25rem', animation: 'spin 1s linear infinite' }} /> : '検索'}
               </button>
             </div>
 
             {!hasSearched && (
-              <div className="mt-6 flex flex-wrap justify-center gap-2">
+              <div style={{ marginTop: '1.5rem', display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '0.5rem' }}>
                 {['生成AI予算', 'マイナンバーカード', 'データ連携', 'サイバーセキュリティ'].map(suggestion => (
                   <button
                     key={suggestion}
@@ -299,7 +359,14 @@ export default function ModernDashboard() {
                       setQuery(suggestion);
                       setTimeout(handleSearch, 100);
                     }}
-                    className="px-4 py-2 bg-white border border-gray-300 rounded-full text-sm text-gray-700 hover:border-gray-400 hover:bg-gray-50 transition-colors"
+                    style={{
+                      padding: '0.5rem 1rem',
+                      backgroundColor: 'white',
+                      border: '1px solid #d1d5db',
+                      borderRadius: '9999px',
+                      fontSize: '0.875rem',
+                      cursor: 'pointer'
+                    }}
                   >
                     {suggestion}
                   </button>
@@ -309,105 +376,99 @@ export default function ModernDashboard() {
           </div>
         </div>
 
-        {/* ローディング状態 */}
         {searching && (
-          <div className="py-12 text-center">
-            <div className="inline-flex items-center gap-3 px-6 py-3 bg-blue-50 rounded-full">
-              <Loader2 className="w-5 h-5 text-blue-600 animate-spin" />
-              <span className="text-blue-900 font-medium">検索中...</span>
+          <div style={{ padding: '3rem 0', textAlign: 'center' }}>
+            <div style={{ display: 'inline-flex', alignItems: 'center', gap: '0.75rem', padding: '0.75rem 1.5rem', backgroundColor: '#eff6ff', borderRadius: '9999px' }}>
+              <Loader2 style={{ width: '1.25rem', height: '1.25rem', color: '#2563eb', animation: 'spin 1s linear infinite' }} />
+              <span style={{ color: '#1e3a8a', fontWeight: '500' }}>検索中...</span>
             </div>
           </div>
         )}
 
-        {/* エラー表示 */}
         {error && (
-          <div className="mb-6 p-4 bg-red-50 border border-red-200 rounded-lg flex items-start gap-3">
-            <AlertCircle className="w-5 h-5 text-red-600 mt-0.5" />
+          <div style={{ marginBottom: '1.5rem', padding: '1rem', backgroundColor: '#fef2f2', border: '1px solid #fecaca', borderRadius: '0.5rem', display: 'flex', alignItems: 'start', gap: '0.75rem' }}>
+            <AlertCircle style={{ width: '1.25rem', height: '1.25rem', color: '#dc2626', marginTop: '0.125rem' }} />
             <div>
-              <h3 className="font-semibold text-red-900">エラー</h3>
-              <p className="text-sm text-red-700">{error}</p>
+              <h3 style={{ fontWeight: '600', color: '#7f1d1d' }}>エラー</h3>
+              <p style={{ fontSize: '0.875rem', color: '#991b1b' }}>{error}</p>
             </div>
           </div>
         )}
 
-        {/* 検索結果なし */}
         {hasSearched && !searching && searchResults.length === 0 && !error && (
-          <div className="py-12 text-center">
-            <div className="inline-block p-4 bg-gray-100 rounded-full mb-4">
-              <Search className="w-8 h-8 text-gray-400" />
+          <div style={{ padding: '3rem 0', textAlign: 'center' }}>
+            <div style={{ display: 'inline-block', padding: '1rem', backgroundColor: '#f3f4f6', borderRadius: '9999px', marginBottom: '1rem' }}>
+              <Search style={{ width: '2rem', height: '2rem', color: '#9ca3af' }} />
             </div>
-            <h3 className="text-lg font-semibold text-gray-900 mb-2">結果が見つかりませんでした</h3>
-            <p className="text-gray-600">別のキーワードや期間で検索してみてください</p>
+            <h3 style={{ fontSize: '1.125rem', fontWeight: '600', marginBottom: '0.5rem' }}>結果が見つかりませんでした</h3>
+            <p style={{ color: '#6b7280' }}>別のキーワードや期間で検索してみてください</p>
           </div>
         )}
 
-        {/* 検索結果（要約 + ソース） */}
         {hasSearched && !searching && searchResults.length > 0 && (
-          <div className="pb-12 space-y-8">
-            {/* 要約セクション */}
+          <div style={{ paddingBottom: '3rem', display: 'flex', flexDirection: 'column', gap: '2rem' }}>
             {summarizing && (
-              <div className="bg-white rounded-xl border border-gray-200 shadow-sm p-6">
-                <div className="flex items-center gap-3">
-                  <Loader2 className="w-5 h-5 text-purple-600 animate-spin" />
-                  <span className="text-gray-700 font-medium">AI要約を生成中...</span>
+              <div style={{ backgroundColor: 'white', borderRadius: '0.75rem', border: '1px solid #e5e7eb', boxShadow: '0 1px 2px 0 rgba(0, 0, 0, 0.05)', padding: '1.5rem' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+                  <Loader2 style={{ width: '1.25rem', height: '1.25rem', color: '#9333ea', animation: 'spin 1s linear infinite' }} />
+                  <span style={{ fontWeight: '500' }}>AI要約を生成中...</span>
                 </div>
               </div>
             )}
 
             {summary && !summarizing && (
-              <div className="bg-white rounded-xl border border-gray-200 shadow-sm p-6">
-                <div className="flex items-center gap-2 mb-4">
-                  <Sparkles className="w-5 h-5 text-purple-600" />
-                  <h2 className="text-lg font-semibold text-gray-900">AI要約</h2>
-                  <span className="ml-auto text-xs text-gray-500">
+              <div style={{ backgroundColor: 'white', borderRadius: '0.75rem', border: '1px solid #e5e7eb', boxShadow: '0 1px 2px 0 rgba(0, 0, 0, 0.05)', padding: '1.5rem' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '1rem' }}>
+                  <Sparkles style={{ width: '1.25rem', height: '1.25rem', color: '#9333ea' }} />
+                  <h2 style={{ fontSize: '1.125rem', fontWeight: '600' }}>AI要約</h2>
+                  <span style={{ marginLeft: 'auto', fontSize: '0.75rem', color: '#6b7280' }}>
                     {Math.ceil((summary.cost_estimate.prompt_tokens + summary.cost_estimate.completion_tokens) / 1000 * 0.5)}円
                   </span>
                 </div>
-                <div className="prose prose-sm max-w-none">
-                  {renderMarkdown(summary.summary)}
-                </div>
+                <div>{renderMarkdown(summary.summary)}</div>
               </div>
             )}
 
-            {/* ソースセクション */}
             <div>
-              <h3 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-4 flex items-center gap-2">
-                <Building2 className="w-4 h-4" />
+              <h3 style={{ fontSize: '0.875rem', fontWeight: '600', color: '#6b7280', textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: '1rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                <Building2 style={{ width: '1rem', height: '1rem' }} />
                 参照元 ({searchResults.length}件)
               </h3>
-              <div className="space-y-3">
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
                 {searchResults.map((result) => (
                   <div
                     key={result.chunk_id}
-                    className="bg-white rounded-lg border border-gray-200 p-4 hover:shadow-md transition-shadow"
+                    style={{ backgroundColor: 'white', borderRadius: '0.5rem', border: '1px solid #e5e7eb', padding: '1rem', transition: 'box-shadow 0.2s' }}
+                    onMouseEnter={(e) => e.currentTarget.style.boxShadow = '0 4px 6px -1px rgba(0, 0, 0, 0.1)'}
+                    onMouseLeave={(e) => e.currentTarget.style.boxShadow = 'none'}
                   >
-                    <div className="flex items-start justify-between gap-3 mb-2">
-                      <h4 className="font-semibold text-gray-900 flex-1">{result.title}</h4>
+                    <div style={{ display: 'flex', alignItems: 'start', justifyContent: 'space-between', gap: '0.75rem', marginBottom: '0.5rem' }}>
+                      <h4 style={{ fontWeight: '600', flex: 1 }}>{result.title}</h4>
                       <a
                         href={result.url}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="text-blue-600 hover:text-blue-700 flex items-center gap-1 text-sm"
+                        style={{ color: '#2563eb', display: 'flex', alignItems: 'center', gap: '0.25rem', fontSize: '0.875rem', textDecoration: 'none' }}
                       >
-                        <ExternalLink className="w-4 h-4" />
+                        <ExternalLink style={{ width: '1rem', height: '1rem' }} />
                       </a>
                     </div>
-                    <div className="flex items-center gap-2 mb-2 flex-wrap">
-                      <span className="px-2 py-0.5 bg-blue-50 text-blue-700 text-xs rounded font-medium">
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.5rem', flexWrap: 'wrap' }}>
+                      <span style={{ padding: '0.125rem 0.5rem', backgroundColor: '#eff6ff', color: '#1e40af', fontSize: '0.75rem', borderRadius: '0.25rem', fontWeight: '500' }}>
                         {result.agency}
                       </span>
-                      <span className="px-2 py-0.5 bg-green-50 text-green-700 text-xs rounded">
+                      <span style={{ padding: '0.125rem 0.5rem', backgroundColor: '#f0fdf4', color: '#15803d', fontSize: '0.75rem', borderRadius: '0.25rem' }}>
                         {result.meeting}
                       </span>
-                      <span className="text-xs text-gray-500 flex items-center gap-1">
-                        <Calendar className="w-3 h-3" />
+                      <span style={{ fontSize: '0.75rem', color: '#6b7280', display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
+                        <Calendar style={{ width: '0.75rem', height: '0.75rem' }} />
                         {result.date}
                       </span>
-                      <span className="text-xs text-gray-400">
+                      <span style={{ fontSize: '0.75rem', color: '#9ca3af' }}>
                         p.{result.page_from}–{result.page_to}
                       </span>
                     </div>
-                    <p className="text-sm text-gray-600">{result.snippet}</p>
+                    <p style={{ fontSize: '0.875rem', color: '#4b5563' }}>{result.snippet}</p>
                   </div>
                 ))}
               </div>
@@ -415,6 +476,13 @@ export default function ModernDashboard() {
           </div>
         )}
       </main>
+
+      <style>{`
+        @keyframes spin {
+          from { transform: rotate(0deg); }
+          to { transform: rotate(360deg); }
+        }
+      `}</style>
     </div>
   );
 }
