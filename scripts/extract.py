@@ -29,19 +29,21 @@ EXTRACTED_DIR = DATA_DIR / "extracted"
 
 EXTRACTED_DIR.mkdir(exist_ok=True)
 
-# 環境変数で並列数を制御（デフォルト4に削減）
+# 環境変数で並列数を制御（デフォルト4）
 MAX_WORKERS = int(os.environ.get('EXTRACT_MAX_WORKERS', '4'))
-# 1回の実行で処理するPDFの最大数（デフォルト20に削減）
-BATCH_SIZE = int(os.environ.get('BATCH_SIZE', '20'))
-# 個別PDFのタイムアウト（秒、デフォルト180秒=3分に短縮）
+# 1回の実行で処理するPDFの最大数（デフォルト100に増加）
+BATCH_SIZE = int(os.environ.get('BATCH_SIZE', '100'))
+# 個別PDFのタイムアウト（秒、デフォルト180秒=3分）
 PDF_TIMEOUT = int(os.environ.get('PDF_TIMEOUT', '180'))
+# 最大ページ数（デフォルト300ページに増加）
+MAX_PAGES = int(os.environ.get('MAX_PAGES', '300'))
 
 class TextExtractor:
     def __init__(self):
         self.chunk_size = 1200
         self.chunk_overlap = 200
     
-    def extract_from_pdf(self, pdf_path: str, doc_id: str, max_pages: int = 100) -> Dict:
+    def extract_from_pdf(self, pdf_path: str, doc_id: str, max_pages: int = None) -> Dict:
         """PDFからテキストを抽出（進捗表示付き）"""
         if not PYMUPDF_AVAILABLE:
             return {
@@ -49,18 +51,19 @@ class TextExtractor:
                 "error": "PyMuPDF not installed"
             }
         
+        # max_pagesが指定されていなければグローバル設定を使用
+        if max_pages is None:
+            max_pages = MAX_PAGES
+        
         doc = None
         try:
             doc = fitz.open(pdf_path)
             total_pages = len(doc)
             
-            # ページ数が多すぎる場合はスキップ
+            # ページ数が多すぎる場合は警告して続行
             if total_pages > max_pages:
-                return {
-                    "success": False,
-                    "error": f"PDF too large: {total_pages} pages (max: {max_pages})",
-                    "skipped": True
-                }
+                print(f"    ⚠️  Large PDF: {total_pages} pages (limit: {max_pages}), processing first {max_pages} pages", flush=True)
+                total_pages = max_pages
             
             pages = []
             
@@ -250,13 +253,20 @@ class TextExtractor:
         doc_id = doc['id']
         pdf_path = doc.get('pdf_path')
         
+        # パスが存在しない場合は、キャッシュディレクトリから探す
         if not pdf_path or not Path(pdf_path).exists():
-            print(f"  [{index}/{total}] ❌ {doc_id}: PDF file not found", flush=True)
-            return {
-                "doc_id": doc_id,
-                "success": False,
-                "error": "PDF file not found"
-            }
+            # data/cache/{doc_id}.pdf を試す
+            cache_path = CACHE_DIR / f"{doc_id}.pdf"
+            if cache_path.exists():
+                pdf_path = str(cache_path)
+                print(f"  [{index}/{total}] 📂 Found in cache: {doc_id}", flush=True)
+            else:
+                print(f"  [{index}/{total}] ❌ {doc_id}: PDF file not found", flush=True)
+                return {
+                    "doc_id": doc_id,
+                    "success": False,
+                    "error": "PDF file not found"
+                }
         
         file_size_mb = Path(pdf_path).stat().st_size / (1024 * 1024)
         print(f"\n  [{index}/{total}] 📄 Processing: {doc['title'][:50]}...", flush=True)
@@ -431,6 +441,7 @@ def main():
     print(f"   Max workers: {MAX_WORKERS}", flush=True)
     print(f"   Batch size: {BATCH_SIZE}", flush=True)
     print(f"   PDF timeout: {PDF_TIMEOUT}s", flush=True)
+    print(f"   Max pages: {MAX_PAGES}", flush=True)
     print("="*60, flush=True)
     
     extractor = TextExtractor()
