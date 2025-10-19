@@ -1,12 +1,14 @@
 name: Government IT Meeting Crawler
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '0 18 * * *'  # 毎日 UTC 18:00 (JST 03:00) に実行
+  workflow_dispatch:       # 手動実行も可能
 
 jobs:
   crawl-and-build:
     runs-on: ubuntu-latest
-    timeout-minutes: 30 
+    timeout-minutes: 30
     permissions:
       contents: write
     
@@ -27,7 +29,7 @@ jobs:
         continue-on-error: true
       
       - name: Run extraction
-        timeout-minutes: 10  # ← 10分でタイムアウト
+        timeout-minutes: 10
         run: python scripts/extract.py
         continue-on-error: true
       
@@ -52,9 +54,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
           git add public/ data/ || true
-          
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
