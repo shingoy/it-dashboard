@@ -28,8 +28,11 @@ jobs:
         run: python scripts/crawl.py
         continue-on-error: true
       
-      - name: Run extraction
-        timeout-minutes: 30  # 10分 → 30分に延長
+        - name: Run extraction
+        timeout-minutes: 20
+        env:
+          EXTRACT_MAX_WORKERS: 4  # 並列数（増やすと速いが負荷も高い）
+          MAX_DOCUMENTS: 0         # 0 = 全て処理、50 = 最初の50件のみ
         run: python scripts/extract.py
         continue-on-error: true
       
