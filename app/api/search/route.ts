@@ -1,5 +1,6 @@
 /**
  * 検索API - BM25を使用した全文検索
+ * 修正版: トークナイザーを改善し、英数字の短い単語にも対応
  */
 
 import { NextRequest, NextResponse } from 'next/server';
@@ -35,13 +36,32 @@ interface ShardIndex {
   chunk_count: number;
 }
 
-// 簡易トークナイザー
+// 改善版トークナイザー - シャード生成側と統一
 function tokenize(text: string): string[] {
-  // 日本語2-4文字
-  const japaneseTokens = text.match(/[ぁ-んァ-ヶー一-龯]{2,4}/g) || [];
-  // 英数字
-  const alphanumeric = text.match(/[A-Za-z0-9]+/g) || [];
-  return [...japaneseTokens, ...alphanumeric].map(t => t.toLowerCase());
+  // まず小文字化
+  const lowerText = text.toLowerCase();
+  const tokens: string[] = [];
+  
+  // 1. 日本語トークン (2-4文字)
+  const japaneseTokens = lowerText.match(/[ぁ-んァ-ヶー一-龯]{2,4}/g) || [];
+  tokens.push(...japaneseTokens);
+  
+  // 2. 英数字トークン (1文字以上)
+  // 「ai」「dx」などの短い単語にも対応
+  const alphanumeric = lowerText.match(/[a-z0-9]+/g) || [];
+  tokens.push(...alphanumeric);
+  
+  // 3. 記号を除去した単語分割も試す
+  const words = lowerText
+    .replace(/[^\w\sぁ-んァ-ヶー一-龯]/g, ' ')
+    .split(/\s+/)
+    .filter(w => w.length > 0);
+  tokens.push(...words);
+  
+  // 重複を除去
+  const uniqueTokens = [...new Set(tokens)];
+  
+  return uniqueTokens;
 }
 
 // BM25スコア計算
@@ -129,7 +149,7 @@ export async function GET(request: NextRequest) {
     const meetings = searchParams.get('meetings')?.split(',').filter(Boolean) || [];
     const size = parseInt(searchParams.get('size') || '50');
     
-    console.log('Search query:', query);
+    console.log('🔍 Search query:', query);
     
     if (!query.trim()) {
       return NextResponse.json({ hits: [], count: 0 });
@@ -137,21 +157,21 @@ export async function GET(request: NextRequest) {
     
     // クエリトークン化
     const queryTokens = tokenize(query);
-    console.log('Query tokens:', queryTokens);
+    console.log('📝 Query tokens:', queryTokens);
     
     if (queryTokens.length === 0) {
       return NextResponse.json({ hits: [], count: 0 });
     }
     
-    // シャードインデックス読み込み（修正：絶対URLを使用）
+    // シャードインデックス読み込み
     const baseUrl = request.url.split('/api/')[0];
     const indexUrl = `${baseUrl}/index-shards/_index.json`;
-    console.log('Fetching index from:', indexUrl);
+    console.log('📂 Fetching index from:', indexUrl);
     
     const indexResponse = await fetch(indexUrl);
     
     if (!indexResponse.ok) {
-      console.error('Index fetch failed:', indexResponse.status);
+      console.error('❌ Index fetch failed:', indexResponse.status);
       return NextResponse.json({ 
         error: 'Index not found',
         hits: [], 
@@ -160,15 +180,14 @@ export async function GET(request: NextRequest) {
     }
     
     const shardIndex: ShardIndex[] = await indexResponse.json();
-    console.log('Loaded shards:', shardIndex.length);
+    console.log('✅ Loaded shard index:', shardIndex.length, 'shards');
     
     // 関連するシャードを読み込み（全シャード）
     const shardPromises = shardIndex.map(async (shard) => {
       const url = `${baseUrl}/index-shards/${shard.filename}`;
-      console.log('Fetching shard:', url);
       const response = await fetch(url);
       if (!response.ok) {
-        console.error('Shard fetch failed:', shard.filename, response.status);
+        console.error('❌ Shard fetch failed:', shard.filename, response.status);
         return null;
       }
       return response.json() as Promise<Shard>;
@@ -177,7 +196,7 @@ export async function GET(request: NextRequest) {
     const shardResults = await Promise.all(shardPromises);
     const shards = shardResults.filter((s): s is Shard => s !== null);
     
-    console.log('Loaded shards:', shards.length);
+    console.log('✅ Loaded shards:', shards.length);
     
     if (shards.length === 0) {
       return NextResponse.json({ 
@@ -185,6 +204,18 @@ export async function GET(request: NextRequest) {
         hits: [], 
         count: 0 
       });
+    }
+    
+    // デバッグ: 最初のシャードのIDFキーをサンプル表示
+    if (shards.length > 0) {
+      const sampleIdfKeys = Object.keys(shards[0].idf).slice(0, 30);
+      console.log('🔑 Sample IDF keys from first shard:', sampleIdfKeys);
+      
+      // クエリトークンがIDFに存在するかチェック
+      for (const token of queryTokens) {
+        const exists = shards.some(shard => shard.idf[token] !== undefined);
+        console.log(`🎯 Token "${token}" exists in IDF:`, exists);
+      }
     }
     
     // 全チャンクを検索
@@ -221,7 +252,7 @@ export async function GET(request: NextRequest) {
       }
     }
     
-    console.log('Total results:', results.length);
+    console.log('📊 Total results:', results.length);
     
     // スコア順にソート
     results.sort((a, b) => b.score - a.score);
@@ -249,7 +280,7 @@ export async function GET(request: NextRequest) {
     });
     
   } catch (error) {
-    console.error('Search error:', error);
+    console.error('❌ Search error:', error);
     return NextResponse.json(
       { 
         error: 'Search failed', 
