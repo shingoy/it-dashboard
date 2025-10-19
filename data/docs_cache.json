@@ -20,5 +20,49 @@
     "date": "2025-10-18",
     "collected_at": "2025-10-18T13:53:06.125388",
     "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/43a40dc388d307d53ca5ffbcc5f865e8.pdf"
+  },
+  "0219a0fe8504a9318e94d78f1a44380f": {
+    "id": "0219a0fe8504a9318e94d78f1a44380f",
+    "meeting": "デジタル臨時行政調査会",
+    "agency": "デジタル庁",
+    "title": "デジタル臨時行政調査会の開催について（PDF／75KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/658916e5-76ce-4d02-9377-1273577ffc88/20211109_meeting_extraordinary_administrative_research_committee_01.pdf",
+    "file_type": "pdf",
+    "date": "2025-10-19",
+    "collected_at": "2025-10-19T07:15:24.644771",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/0219a0fe8504a9318e94d78f1a44380f.pdf"
+  },
+  "4aa7688ee9485a5281cb563e4c4e27d1": {
+    "id": "4aa7688ee9485a5281cb563e4c4e27d1",
+    "meeting": "ベース・レジストリ",
+    "agency": "デジタル庁",
+    "title": "概要（PDF／417KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/816ebeda-f081-4b18-b593-20fd12eb19a9/bb7798d4/20250702_plan_for_development_and_improvement_of_public_basic_information_database_outline_01.pdf",
+    "file_type": "pdf",
+    "date": "2025-07-02",
+    "collected_at": "2025-10-19T07:15:25.191263",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/4aa7688ee9485a5281cb563e4c4e27d1.pdf"
+  },
+  "4272844bda143304ed913271a9c2d16a": {
+    "id": "4272844bda143304ed913271a9c2d16a",
+    "meeting": "AI戦略会議",
+    "agency": "内閣府・内閣官房",
+    "title": "令和６年度補正予算（PDF形式：547KB）",
+    "url": "https://www8.cao.go.jp/cstp/ai/yosan_6nendo_hosei.pdf",
+    "file_type": "pdf",
+    "date": "2025-10-19",
+    "collected_at": "2025-10-19T07:15:30.712862",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/4272844bda143304ed913271a9c2d16a.pdf"
+  },
+  "75881e249e483553563e04a59dbaca84": {
+    "id": "75881e249e483553563e04a59dbaca84",
+    "meeting": "個人情報保護委員会",
+    "agency": "個人情報保護委員会",
+    "title": "個人情報保護委員会の組織理念(PDF : 316KB)",
+    "url": "https://www.ppc.go.jp/files/pdf/soshikirinen_4.pdf",
+    "file_type": "pdf",
+    "date": "2025-10-19",
+    "collected_at": "2025-10-19T07:16:08.127148",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/75881e249e483553563e04a59dbaca84.pdf"
   }
 }

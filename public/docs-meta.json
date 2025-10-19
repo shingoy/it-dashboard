@@ -1,22 +1,42 @@
 [
   {
-    "doc_id": "43a40dc388d307d53ca5ffbcc5f865e8",
+    "doc_id": "4aa7688ee9485a5281cb563e4c4e27d1",
+    "meeting": "ベース・レジストリ",
+    "agency": "デジタル庁",
+    "title": "概要（PDF／417KB）",
+    "date": "2025-07-02",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/816ebeda-f081-4b18-b593-20fd12eb19a9/bb7798d4/20250702_plan_for_development_and_improvement_of_public_basic_information_database_outline_01.pdf",
+    "pages": 1,
+    "chunks_count": 1
+  },
+  {
+    "doc_id": "4272844bda143304ed913271a9c2d16a",
     "meeting": "AI戦略会議",
     "agency": "内閣府・内閣官房",
-    "title": "令和７年度予算（PDF形式：553KB）",
-    "date": "2025-10-18",
-    "url": "https://www8.cao.go.jp/cstp/ai/yosan_7nendo.pdf",
+    "title": "令和６年度補正予算（PDF形式：547KB）",
+    "date": "2025-10-19",
+    "url": "https://www8.cao.go.jp/cstp/ai/yosan_6nendo_hosei.pdf",
     "pages": 1,
     "chunks_count": 3
   },
   {
-    "doc_id": "1a5cd08a2d2a7481ed338388aaa4f94d",
-    "meeting": "AI戦略会議",
-    "agency": "内閣府・内閣官房",
-    "title": "AI関連予算の推移（PDF形式：267KB）",
-    "date": "2025-10-18",
-    "url": "https://www8.cao.go.jp/cstp/ai/yosan_suii.pdf",
+    "doc_id": "0219a0fe8504a9318e94d78f1a44380f",
+    "meeting": "デジタル臨時行政調査会",
+    "agency": "デジタル庁",
+    "title": "デジタル臨時行政調査会の開催について（PDF／75KB）",
+    "date": "2025-10-19",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/658916e5-76ce-4d02-9377-1273577ffc88/20211109_meeting_extraordinary_administrative_research_committee_01.pdf",
     "pages": 1,
     "chunks_count": 1
+  },
+  {
+    "doc_id": "75881e249e483553563e04a59dbaca84",
+    "meeting": "個人情報保護委員会",
+    "agency": "個人情報保護委員会",
+    "title": "個人情報保護委員会の組織理念(PDF : 316KB)",
+    "date": "2025-10-19",
+    "url": "https://www.ppc.go.jp/files/pdf/soshikirinen_4.pdf",
+    "pages": 2,
+    "chunks_count": 2
   }
 ]

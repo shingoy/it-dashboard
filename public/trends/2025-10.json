@@ -2,47 +2,35 @@
   "month": "2025-10",
   "keywords": [
     {
-      "term": "令和",
-      "count": 9
-    },
-    {
       "term": "億円",
       "count": 8
     },
     {
-      "term": "年度",
-      "count": 8
-    },
-    {
-      "term": "関連予算",
+      "term": "令和",
       "count": 5
     },
     {
-      "term": "研究開発",
-      "count": 2
+      "term": "デジタル",
+      "count": 4
     },
     {
-      "term": "億円の内",
-      "count": 2
+      "term": "個人情報",
+      "count": 4
     },
     {
-      "term": "ータ",
-      "count": 2
+      "term": "年度補正",
+      "count": 3
     },
     {
-      "term": "確保に向",
-      "count": 2
+      "term": "保護委員",
+      "count": 3
     },
     {
-      "term": "コンピュ",
-      "count": 2
+      "term": "特定個人",
+      "count": 3
     },
     {
       "term": "富岳",
-      "count": 2
-    },
-    {
-      "term": "に関する",
       "count": 2
     },
     {
@@ -50,28 +38,56 @@
       "count": 2
     },
     {
-      "term": "の安全性",
+      "term": "ベーショ",
       "count": 2
     },
     {
-      "term": "平成",
+      "term": "を踏まえ",
       "count": 2
     },
     {
-      "term": "年度補正",
+      "term": "国際的な",
       "count": 2
     },
     {
-      "term": "予算にお",
+      "term": "推進",
       "count": 2
     },
     {
-      "term": "ける",
+      "term": "システム",
       "count": 2
     },
     {
-      "term": "の合計額",
+      "term": "新規",
       "count": 2
+    },
+    {
+      "term": "予算額約",
+      "count": 2
+    },
+    {
+      "term": "臨時行政",
+      "count": 2
+    },
+    {
+      "term": "調査会",
+      "count": 2
+    },
+    {
+      "term": "という",
+      "count": 2
+    },
+    {
+      "term": "行政機関",
+      "count": 2
+    },
+    {
+      "term": "また",
+      "count": 2
+    },
+    {
+      "term": "研究開発",
+      "count": 1
     },
     {
       "term": "力の強化",
@@ -86,128 +102,120 @@
       "count": 1
     },
     {
-      "term": "戦略的イ",
+      "term": "我が国に",
       "count": 1
     },
     {
-      "term": "ノベーシ",
+      "term": "おける大",
       "count": 1
     },
     {
-      "term": "ョン創造",
+      "term": "規模言語",
       "count": 1
     },
     {
-      "term": "プログラ",
+      "term": "モデル",
       "count": 1
     },
     {
-      "term": "との橋渡",
+      "term": "の開発力",
       "count": 1
     },
     {
-      "term": "しプログ",
+      "term": "強化に向",
       "count": 1
     },
     {
-      "term": "ラム",
+      "term": "けたデー",
       "count": 1
     },
     {
-      "term": "人工知能",
+      "term": "タの整備",
       "count": 1
     },
     {
-      "term": "ビッグデ",
+      "term": "拡充",
       "count": 1
     },
     {
-      "term": "サイバー",
+      "term": "安全なデ",
       "count": 1
     },
     {
-      "term": "セキュリ",
+      "term": "ータ連携",
       "count": 1
     },
     {
-      "term": "ティ統合",
+      "term": "による最",
       "count": 1
     },
     {
-      "term": "プロジェ",
+      "term": "適化",
       "count": 1
     },
     {
-      "term": "クト",
+      "term": "技術の研",
       "count": 1
     },
     {
-      "term": "生成",
+      "term": "究開発",
       "count": 1
     },
     {
-      "term": "モデルの",
+      "term": "の次世代",
       "count": 1
     },
     {
-      "term": "透明性",
+      "term": "となる新",
       "count": 1
     },
     {
-      "term": "信頼性の",
+      "term": "たなフラ",
       "count": 1
     },
     {
-      "term": "けた研究",
+      "term": "ッグシッ",
       "count": 1
     },
     {
-      "term": "開発拠点",
+      "term": "プシステ",
       "count": 1
     },
     {
-      "term": "形成",
+      "term": "ムの開発",
       "count": 1
     },
     {
-      "term": "スーパー",
+      "term": "整備",
       "count": 1
     },
     {
-      "term": "及び革新",
+      "term": "の運用継",
       "count": 1
     },
     {
-      "term": "的ハイパ",
+      "term": "続に向け",
       "count": 1
     },
     {
-      "term": "フォーマ",
-      "count": 1
-    },
-    {
-      "term": "ンス",
-      "count": 1
-    },
-    {
-      "term": "ーティン",
-      "count": 1
-    },
-    {
-      "term": "インフラ",
-      "count": 1
-    },
-    {
-      "term": "の運営",
+      "term": "た対策",
       "count": 1
     }
   ],
   "meetings": [
     {
       "meeting": "AI戦略会議",
-      "count": 4
+      "count": 3
+    },
+    {
+      "meeting": "個人情報保護委員会",
+      "count": 2
+    },
+    {
+      "meeting": "デジタル臨時行政調査会",
+      "count": 1
     }
   ],
-  "doc_count": 2,
-  "chunk_count": 4
+  "doc_count": 3,
+  "chunk_count": 6
 }

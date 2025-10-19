@@ -1,17 +1,31 @@
 {
-  "total_documents": 2,
-  "successful": 0,
-  "failed": 2,
+  "total_documents": 4,
+  "successful": 4,
+  "failed": 0,
   "results": [
     {
-      "doc_id": "1a5cd08a2d2a7481ed338388aaa4f94d",
-      "success": false,
-      "error": "PDF file not found"
+      "doc_id": "0219a0fe8504a9318e94d78f1a44380f",
+      "success": true,
+      "chunks_count": 1,
+      "keywords_count": 10
     },
     {
-      "doc_id": "43a40dc388d307d53ca5ffbcc5f865e8",
-      "success": false,
-      "error": "PDF file not found"
+      "doc_id": "4aa7688ee9485a5281cb563e4c4e27d1",
+      "success": true,
+      "chunks_count": 1,
+      "keywords_count": 10
+    },
+    {
+      "doc_id": "4272844bda143304ed913271a9c2d16a",
+      "success": true,
+      "chunks_count": 3,
+      "keywords_count": 10
+    },
+    {
+      "doc_id": "75881e249e483553563e04a59dbaca84",
+      "success": true,
+      "chunks_count": 2,
+      "keywords_count": 10
     }
   ]
 }
