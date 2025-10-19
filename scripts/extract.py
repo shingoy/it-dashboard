@@ -33,8 +33,8 @@ class TextExtractor:
         self.chunk_size = 1200
         self.chunk_overlap = 200
     
-    def extract_from_pdf(self, pdf_path: str) -> Dict:
-        """PDFからテキストを抽出"""
+    def extract_from_pdf(self, pdf_path: str, max_pages: int = 100) -> Dict:
+        """PDFからテキストを抽出（ページ数制限付き）"""
         if not PYMUPDF_AVAILABLE:
             return {
                 "success": False,
@@ -43,9 +43,20 @@ class TextExtractor:
         
         try:
             doc = fitz.open(pdf_path)
+            total_pages = len(doc)
+            
+            # ページ数が多すぎる場合はスキップ
+            if total_pages > max_pages:
+                doc.close()
+                return {
+                    "success": False,
+                    "error": f"PDF too large: {total_pages} pages (max: {max_pages})",
+                    "skipped": True
+                }
+            
             pages = []
             
-            for page_num in range(len(doc)):
+            for page_num in range(total_pages):
                 page = doc[page_num]
                 text = page.get_text()
                 text = self.clean_text(text)

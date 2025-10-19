@@ -35,8 +35,9 @@ jobs:
       - name: Run extraction (parallel - batch processing)
         timeout-minutes: 40  # 20分 → 40分に延長
         env:
-          EXTRACT_MAX_WORKERS: 6    # 4 → 6並列に増加
-          MAX_DOCUMENTS: 50          # 一度に50件まで処理
+          EXTRACT_MAX_WORKERS: 6     # 4 → 6並列に増加
+          MAX_DOCUMENTS: 50           # 一度に50件まで処理
+          MAX_PAGES_PER_PDF: 50       # 50ページ超のPDFはスキップ
         run: python scripts/extract.py
         continue-on-error: true
       
