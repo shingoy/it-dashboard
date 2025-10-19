@@ -1,11 +1,13 @@
 """
-PDF/HTMLからテキストを抽出し、チャンク化
+PDF/HTMLからテキストを抽出し、チャンク化（並列処理版）
 """
 
 import json
 import re
 from pathlib import Path
 from typing import List, Dict
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import os
 
 try:
     import fitz  # PyMuPDF
@@ -20,6 +22,11 @@ CACHE_DIR = DATA_DIR / "cache"
 EXTRACTED_DIR = DATA_DIR / "extracted"
 
 EXTRACTED_DIR.mkdir(exist_ok=True)
+
+# 環境変数で並列数を制御（デフォルト4）
+MAX_WORKERS = int(os.environ.get('EXTRACT_MAX_WORKERS', '4'))
+# 処理するPDFの最大数（デフォルト制限なし、0で無制限）
+MAX_DOCUMENTS = int(os.environ.get('MAX_DOCUMENTS', '0'))
 
 class TextExtractor:
     def __init__(self):
@@ -155,24 +162,25 @@ class TextExtractor:
         sorted_words = sorted(word_freq.items(), key=lambda x: x[1], reverse=True)[:top_n]
         return [{"term": word, "count": count} for word, count in sorted_words]
     
-    def process_document(self, doc: Dict) -> Dict:
+    def process_document(self, doc: Dict, index: int, total: int) -> Dict:
         """1つのドキュメントを処理"""
         doc_id = doc['id']
         pdf_path = doc.get('pdf_path')
         
         if not pdf_path or not Path(pdf_path).exists():
+            print(f"  [{index}/{total}] ❌ {doc_id}: PDF file not found")
             return {
                 "doc_id": doc_id,
                 "success": False,
                 "error": "PDF file not found"
             }
         
-        print(f"📄 Processing: {doc['title'][:50]}...")
+        print(f"  [{index}/{total}] 📄 Processing: {doc['title'][:50]}...")
         
         extraction = self.extract_from_pdf(pdf_path)
         
         if not extraction['success']:
-            print(f"  ❌ Extraction failed: {extraction.get('error', 'Unknown error')}")
+            print(f"  [{index}/{total}] ❌ Extraction failed: {extraction.get('error', 'Unknown error')}")
             return {
                 "doc_id": doc_id,
                 "success": False,
@@ -204,7 +212,7 @@ class TextExtractor:
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(output, f, ensure_ascii=False, indent=2)
         
-        print(f"  ✓ Extracted {len(chunks)} chunks, {len(keywords)} keywords")
+        print(f"  [{index}/{total}] ✓ Extracted {len(chunks)} chunks, {len(keywords)} keywords")
         
         return {
             "doc_id": doc_id,
@@ -214,7 +222,7 @@ class TextExtractor:
         }
     
     def process_all(self):
-        """全ドキュメントを処理"""
+        """全ドキュメントを並列処理"""
         docs_file = DATA_DIR / "collected_docs.json"
         if not docs_file.exists():
             print("❌ No collected documents found")
@@ -223,15 +231,40 @@ class TextExtractor:
         with open(docs_file, 'r', encoding='utf-8') as f:
             documents = json.load(f)
         
-        print(f"🔍 Processing {len(documents)} documents...")
+        # 処理数を制限（デバッグ用）
+        if MAX_DOCUMENTS > 0:
+            documents = documents[:MAX_DOCUMENTS]
+            print(f"⚠️  Processing limited to {MAX_DOCUMENTS} documents (set by MAX_DOCUMENTS)")
+        
+        total = len(documents)
+        print(f"🔍 Processing {total} documents with {MAX_WORKERS} workers...")
         
         results = []
-        for doc in documents:
-            result = self.process_document(doc)
-            results.append(result)
+        
+        # 並列処理
+        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+            # ドキュメントごとにタスクを投入
+            future_to_doc = {
+                executor.submit(self.process_document, doc, i+1, total): doc 
+                for i, doc in enumerate(documents)
+            }
+            
+            # 完了したタスクから順に結果を取得
+            for future in as_completed(future_to_doc):
+                try:
+                    result = future.result()
+                    results.append(result)
+                except Exception as e:
+                    doc = future_to_doc[future]
+                    print(f"  ❌ Exception processing {doc['id']}: {e}")
+                    results.append({
+                        "doc_id": doc['id'],
+                        "success": False,
+                        "error": str(e)
+                    })
         
         summary = {
-            "total_documents": len(documents),
+            "total_documents": total,
             "successful": sum(1 for r in results if r['success']),
             "failed": sum(1 for r in results if not r['success']),
             "results": results
@@ -244,9 +277,14 @@ class TextExtractor:
         print(f"\n✅ Extraction complete!")
         print(f"   Success: {summary['successful']}")
         print(f"   Failed: {summary['failed']}")
+        print(f"   Workers: {MAX_WORKERS}")
 
 def main():
-    print("🚀 Starting text extraction")
+    print("🚀 Starting text extraction (Parallel)")
+    print("="*60)
+    print(f"   Max workers: {MAX_WORKERS}")
+    if MAX_DOCUMENTS > 0:
+        print(f"   Max documents: {MAX_DOCUMENTS}")
     print("="*60)
     
     extractor = TextExtractor()
