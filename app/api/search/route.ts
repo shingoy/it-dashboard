@@ -1,12 +1,15 @@
 /**
  * 検索API - BM25を使用した全文検索
- * Edge Runtime版（サイズ制限を回避）
+ * Node.js Runtime版（静的ファイル読み込みのため）
  */
 
 import { NextRequest, NextResponse } from 'next/server';
+import fs from 'fs/promises';
+import path from 'path';
 
-// Edge Runtimeを使用（サイズ制限が緩い）
-export const runtime = 'edge';
+// Node.js Runtimeを使用（静的ファイル読み込みのため）
+export const runtime = 'nodejs';
+export const dynamic = 'force-dynamic';
 
 interface Chunk {
   chunk_id: string;
@@ -167,23 +170,17 @@ export async function GET(request: NextRequest) {
       return NextResponse.json({ hits: [], count: 0 });
     }
     
-    // public/index-shards/ のURL（Edge Runtimeではfsが使えない）
-    // リクエストのoriginを使用
-    const origin = request.url ? new URL(request.url).origin : 'http://localhost:3000';
-    const indexUrl = `${origin}/index-shards/_index.json`;
-    const indexPath = '/index-shards/_index.json';  // ログ用
+    // public/index-shards/ のパス
+    const indexShardsDir = path.join(process.cwd(), 'public', 'index-shards');
+    const indexPath = path.join(indexShardsDir, '_index.json');
     
     console.log('📂 Reading index from:', indexPath);
-    console.log('🌐 Full URL:', indexUrl);
     
-    // シャードインデックス読み込み（fetch APIを使用）
+    // シャードインデックス読み込み
     let shardIndex: ShardIndex[];
     try {
-      const indexResponse = await fetch(indexUrl);
-      if (!indexResponse.ok) {
-        throw new Error('Index file not found');
-      }
-      shardIndex = await indexResponse.json();
+      const indexContent = await fs.readFile(indexPath, 'utf-8');
+      shardIndex = JSON.parse(indexContent);
       console.log('✅ Loaded shard index:', shardIndex.length, 'shards');
     } catch (error) {
       console.error('❌ Index file not found:', error);
@@ -196,13 +193,12 @@ export async function GET(request: NextRequest) {
     }
     
     // 関連するシャードを読み込み（最初の10個のみ）
-    const shardsToLoad = shardIndex.slice(0, 10);  // メモリ制限対策
+    const shardsToLoad = shardIndex.slice(0, 10);
     const shardPromises = shardsToLoad.map(async (shard) => {
-      const shardUrl = `${origin}/index-shards/${shard.filename}`;
+      const shardPath = path.join(indexShardsDir, shard.filename);
       try {
-        const response = await fetch(shardUrl);
-        if (!response.ok) throw new Error('Not found');
-        return await response.json() as Shard;
+        const shardContent = await fs.readFile(shardPath, 'utf-8');
+        return JSON.parse(shardContent) as Shard;
       } catch (error) {
         console.error('⚠️ Shard file not found:', shard.filename);
         return null;
@@ -224,14 +220,12 @@ export async function GET(request: NextRequest) {
     }
     
     // IDF辞書を別途読み込み
-    const idfUrl = `${origin}/index-shards/_idf.json`;
+    const idfPath = path.join(indexShardsDir, '_idf.json');
     let idfCache: Record<string, number> = {};
     try {
-      const idfResponse = await fetch(idfUrl);
-      if (idfResponse.ok) {
-        idfCache = await idfResponse.json();
-        console.log('✅ Loaded IDF cache:', Object.keys(idfCache).length, 'tokens');
-      }
+      const idfContent = await fs.readFile(idfPath, 'utf-8');
+      idfCache = JSON.parse(idfContent);
+      console.log('✅ Loaded IDF cache:', Object.keys(idfCache).length, 'tokens');
     } catch (error) {
       console.error('⚠️ IDF cache not found, using empty cache');
     }
