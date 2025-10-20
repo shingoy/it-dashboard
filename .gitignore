@@ -47,7 +47,7 @@ dist/
 
 # Data (keep collected data but ignore cache)
 data/cache/*.pdf
-data/extracted/
+# data/extracted/ #修正
 *.log
 
 # Keep these structure files
