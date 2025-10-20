@@ -223,9 +223,22 @@ export async function GET(request: NextRequest) {
       }, { status: 404 });
     }
     
-    // デバッグ: 最初のシャードの情報
-    if (shards.length > 0 && shards[0].idf) {
-      const sampleIdfKeys = Object.keys(shards[0].idf).slice(0, 20);
+    // IDF辞書を別途読み込み
+    const idfUrl = `${baseUrl}/index-shards/_idf.json`;
+    let idfCache: Record<string, number> = {};
+    try {
+      const idfResponse = await fetch(idfUrl);
+      if (idfResponse.ok) {
+        idfCache = await idfResponse.json();
+        console.log('✅ Loaded IDF cache:', Object.keys(idfCache).length, 'tokens');
+      }
+    } catch (error) {
+      console.error('⚠️ IDF cache not found, using empty cache');
+    }
+    
+    // デバッグ: IDF辞書とシャードの情報
+    if (shards.length > 0) {
+      const sampleIdfKeys = Object.keys(idfCache).slice(0, 20);
       console.log('🔑 Sample IDF keys:', sampleIdfKeys);
       
       // 最初のチャンクの情報を表示
@@ -240,7 +253,7 @@ export async function GET(request: NextRequest) {
       
       // クエリトークンがIDFに存在するかチェック
       for (const token of queryTokens) {
-        const idfValue = shards[0].idf[token];
+        const idfValue = idfCache[token];
         if (idfValue) {
           console.log(`✅ Token "${token}" IDF:`, idfValue);
         } else {
@@ -286,11 +299,11 @@ export async function GET(request: NextRequest) {
           continue;
         }
         
-        // BM25スコア計算（シャードの共通パラメータを使用）
+        // BM25スコア計算（共有IDF辞書を使用）
         const bm25Score = calculateBM25(
           queryTokens, 
           chunk, 
-          shard.idf,
+          idfCache,
           shard.avg_length,
           shard.k1,
           shard.b
@@ -339,7 +352,7 @@ export async function GET(request: NextRequest) {
         const bm25 = calculateBM25(
           queryTokens, 
           chunk, 
-          shards[0].idf,
+          idfCache,
           shards[0].avg_length,
           shards[0].k1,
           shards[0].b
