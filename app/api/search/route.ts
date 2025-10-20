@@ -7,6 +7,10 @@ import { NextRequest, NextResponse } from 'next/server';
 import fs from 'fs/promises';
 import path from 'path';
 
+// このルートを動的にする（Vercelビルドエラー対策）
+export const dynamic = 'force-dynamic';
+export const runtime = 'nodejs';
+
 interface Chunk {
   chunk_id: string;
   doc_id: string;
@@ -217,6 +221,8 @@ export async function GET(request: NextRequest) {
         console.log('  - tokens count:', firstChunk.tokens?.length || 0);
         console.log('  - sample tokens:', firstChunk.tokens?.slice(0, 10));
         console.log('  - text preview:', firstChunk.text?.substring(0, 100));
+        console.log('  - date:', firstChunk.date);
+        console.log('  - date type:', typeof firstChunk.date);
       }
       
       // クエリトークンがIDFに存在するかチェック
@@ -229,6 +235,8 @@ export async function GET(request: NextRequest) {
         }
       }
     }
+    
+    console.log('📅 Date filter:', { from, to });
     
     // 全チャンクを検索
     const results: Array<Chunk & { score: number; snippet: string }> = [];
@@ -243,10 +251,14 @@ export async function GET(request: NextRequest) {
       for (const chunk of shard.chunks) {
         totalChunks++;
         
-        // 日付フィルタ
-        if (chunk.date < from || chunk.date > to) {
-          filteredByDate++;
-          continue;
+        // 日付フィルタ（日付がない場合はスキップしない）
+        if (chunk.date) {
+          if (chunk.date < from || chunk.date > to) {
+            filteredByDate++;
+            continue;
+          }
+        } else {
+          console.log('⚠️ Chunk has no date:', chunk.chunk_id);
         }
         
         // 省庁フィルタ
