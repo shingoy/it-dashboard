@@ -209,6 +209,16 @@ export async function GET(request: NextRequest) {
       const sampleIdfKeys = Object.keys(shards[0].idf).slice(0, 20);
       console.log('🔑 Sample IDF keys:', sampleIdfKeys);
       
+      // 最初のチャンクの情報を表示
+      if (shards[0].chunks.length > 0) {
+        const firstChunk = shards[0].chunks[0];
+        console.log('📄 First chunk info:');
+        console.log('  - has tokens:', !!firstChunk.tokens);
+        console.log('  - tokens count:', firstChunk.tokens?.length || 0);
+        console.log('  - sample tokens:', firstChunk.tokens?.slice(0, 10));
+        console.log('  - text preview:', firstChunk.text?.substring(0, 100));
+      }
+      
       // クエリトークンがIDFに存在するかチェック
       for (const token of queryTokens) {
         const idfValue = shards[0].idf[token];
@@ -223,16 +233,33 @@ export async function GET(request: NextRequest) {
     // 全チャンクを検索
     const results: Array<Chunk & { score: number; snippet: string }> = [];
     
+    let totalChunks = 0;
+    let filteredByDate = 0;
+    let filteredByAgency = 0;
+    let filteredByMeeting = 0;
+    let scoreZero = 0;
+    
     for (const shard of shards) {
       for (const chunk of shard.chunks) {
+        totalChunks++;
+        
         // 日付フィルタ
-        if (chunk.date < from || chunk.date > to) continue;
+        if (chunk.date < from || chunk.date > to) {
+          filteredByDate++;
+          continue;
+        }
         
         // 省庁フィルタ
-        if (agencies.length > 0 && !agencies.includes(chunk.agency)) continue;
+        if (agencies.length > 0 && !agencies.includes(chunk.agency)) {
+          filteredByAgency++;
+          continue;
+        }
         
         // 会議フィルタ
-        if (meetings.length > 0 && !meetings.includes(chunk.meeting)) continue;
+        if (meetings.length > 0 && !meetings.includes(chunk.meeting)) {
+          filteredByMeeting++;
+          continue;
+        }
         
         // BM25スコア計算
         const bm25Score = calculateBM25(queryTokens, chunk, shard.idf);
@@ -248,11 +275,19 @@ export async function GET(request: NextRequest) {
             score: totalScore,
             snippet: generateSnippet(chunk.text, queryTokens)
           });
+        } else {
+          scoreZero++;
         }
       }
     }
     
-    console.log('📊 Total results:', results.length);
+    console.log('📊 Search statistics:');
+    console.log('  Total chunks scanned:', totalChunks);
+    console.log('  Filtered by date:', filteredByDate);
+    console.log('  Filtered by agency:', filteredByAgency);
+    console.log('  Filtered by meeting:', filteredByMeeting);
+    console.log('  Score = 0:', scoreZero);
+    console.log('  Results with score > 0:', results.length);
     
     // スコア順にソート
     results.sort((a, b) => b.score - a.score);
