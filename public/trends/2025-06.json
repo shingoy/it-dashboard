@@ -2,119 +2,119 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ード",
-      "count": 21
+      "term": "した",
+      "count": 24
     },
     {
-      "term": "るこ",
-      "count": 21
-    },
-    {
-      "term": "パイプラ",
+      "term": "トリ",
       "count": 20
     },
     {
-      "term": "では",
-      "count": 19
-    },
-    {
-      "term": "保護",
-      "count": 18
-    },
-    {
-      "term": "ファ",
+      "term": "物の",
       "count": 17
     },
     {
-      "term": "actions",
+      "term": "これ",
       "count": 17
     },
     {
-      "term": "への",
+      "term": "フォ",
       "count": 15
     },
     {
-      "term": "内容",
+      "term": "実行",
+      "count": 15
+    },
+    {
+      "term": "ポジ",
       "count": 14
     },
     {
-      "term": "よび",
+      "term": "ルを",
       "count": 14
     },
     {
-      "term": "ソー",
-      "count": 14
-    },
-    {
-      "term": "体的",
+      "term": "よる",
       "count": 13
     },
     {
-      "term": "トフ",
+      "term": "場合",
       "count": 13
     },
     {
-      "term": "ロー",
+      "term": "サービス",
       "count": 12
-    },
-    {
-      "term": "つい",
-      "count": 11
     },
     {
       "term": "ステ",
       "count": 11
     },
     {
-      "term": "生成",
-      "count": 11
-    },
-    {
-      "term": "はな",
-      "count": 11
-    },
-    {
       "term": "取得",
+      "count": 11
+    },
+    {
+      "term": "ツー",
+      "count": 11
+    },
+    {
+      "term": "要が",
+      "count": 11
+    },
+    {
+      "term": "図 ",
       "count": 10
     },
     {
-      "term": "sbom",
+      "term": "の信",
       "count": 10
     },
     {
-      "term": "クを",
+      "term": "検証",
       "count": 10
     },
     {
-      "term": "権限",
+      "term": "る具",
+      "count": 10
+    },
+    {
+      "term": "れら",
+      "count": 10
+    },
+    {
+      "term": "確保",
       "count": 9
     },
     {
-      "term": "run",
+      "term": "ソースコ",
       "count": 9
     },
     {
-      "term": "runs",
+      "term": "的な",
       "count": 9
     },
     {
-      "term": "ョン",
+      "term": "にも",
+      "count": 9
+    },
+    {
+      "term": "いっ",
+      "count": 9
+    },
+    {
+      "term": "可能",
+      "count": 9
+    },
+    {
+      "term": "の管",
       "count": 8
     },
     {
-      "term": "ーカ",
+      "term": "yml",
       "count": 8
     },
     {
-      "term": "性が",
-      "count": 8
-    },
-    {
-      "term": "漏洩",
-      "count": 7
-    },
-    {
-      "term": "キー",
+      "term": "定内",
       "count": 7
     },
     {
@@ -122,43 +122,23 @@
       "count": 7
     },
     {
-      "term": "ジを",
+      "term": "スク",
       "count": 7
     },
     {
-      "term": "事項",
+      "term": "version",
       "count": 7
     },
     {
-      "term": "と同",
+      "term": "スの",
       "count": 7
     },
     {
-      "term": "type",
+      "term": "json",
       "count": 7
     },
     {
-      "term": "に加",
-      "count": 7
-    },
-    {
-      "term": "す ",
-      "count": 7
-    },
-    {
-      "term": "具体的な",
-      "count": 6
-    },
-    {
-      "term": "及び",
-      "count": 6
-    },
-    {
-      "term": "ブラ",
-      "count": 6
-    },
-    {
-      "term": "ーク",
+      "term": "ュリ",
       "count": 6
     },
     {
@@ -166,11 +146,11 @@
       "count": 6
     },
     {
-      "term": "フ ",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "スを",
+      "term": "ソフトウ",
       "count": 6
     },
     {
@@ -178,28 +158,48 @@
       "count": 6
     },
     {
-      "term": "ダー",
+      "term": "る\n",
       "count": 6
     },
     {
-      "term": "物と",
+      "term": "ズで",
       "count": 6
     },
     {
-      "term": "どの",
+      "term": "のレ",
       "count": 6
     },
     {
-      "term": "的に",
+      "term": "クを",
       "count": 6
     },
     {
-      "term": "ref",
+      "term": "and",
       "count": 6
     },
     {
-      "term": "リポジト",
+      "term": "た場",
       "count": 6
+    },
+    {
+      "term": "理を含む",
+      "count": 5
+    },
+    {
+      "term": "シナ",
+      "count": 5
+    },
+    {
+      "term": "る成",
+      "count": 5
+    },
+    {
+      "term": "配布",
+      "count": 5
+    },
+    {
+      "term": "判断",
+      "count": 5
     }
   ],
   "meetings": [
