@@ -45,20 +45,30 @@ interface ShardIndex {
   chunk_count: number;
 }
 
-// トークナイザー - Python側と完全に一致
+// トークナイザー - Python側と完全に一致（N-gram対応）
 function tokenize(text: string): string[] {
   const tokens: string[] = [];
   
-  // 1. 日本語トークン (2-4文字)
-  const japaneseTokens = text.match(/[ぁ-んァ-ヶー一-龯]{2,4}/g) || [];
-  tokens.push(...japaneseTokens);
+  // 1. 通常の2-4文字トークン
+  const wordTokens = text.match(/[ぁ-んァ-ヶー一-龯]{2,4}/g) || [];
+  tokens.push(...wordTokens);
   
-  // 2. 英数字トークン
+  // 2. バイグラム（2文字）- より細かく分割
+  const textClean = text.replace(/[^\w\sぁ-んァ-ヶー一-龯]/g, '');
+  for (let i = 0; i < textClean.length - 1; i++) {
+    const bigram = textClean.substring(i, i + 2);
+    if (/[ぁ-んァ-ヶー一-龯]/.test(bigram)) {
+      tokens.push(bigram);
+    }
+  }
+  
+  // 3. 英数字トークン
   const alphanumeric = text.match(/[A-Za-z0-9]+/g) || [];
   tokens.push(...alphanumeric);
   
-  // 小文字化
-  return tokens.map(t => t.toLowerCase());
+  // 小文字化して重複を削除
+  const uniqueTokens = [...new Set(tokens.map(t => t.toLowerCase()))];
+  return uniqueTokens.filter(t => t.length >= 2);
 }
 
 // BM25スコア計算

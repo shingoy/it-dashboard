@@ -28,12 +28,25 @@ class IndexBuilder:
         self.idf_cache = {}
         
     def tokenize(self, text: str) -> List[str]:
-        """日本語テキストをトークン化（簡易版）"""
-        # 2-4文字の日本語単語を抽出
-        tokens = re.findall(r'[ぁ-んァ-ヶー一-龯]{2,4}', text)
-        # 英数字も抽出
-        tokens.extend(re.findall(r'[A-Za-z0-9]+', text))
-        return [t.lower() for t in tokens]
+        """日本語テキストをトークン化（N-gram + 単語抽出）"""
+        tokens = []
+        
+        # 1. 通常の2-4文字トークン
+        word_tokens = re.findall(r'[ぁ-んァ-ヶー一-龯]{2,4}', text)
+        tokens.extend(word_tokens)
+        
+        # 2. バイグラム（2文字）- より細かく分割
+        text_clean = re.sub(r'[^\w\sぁ-んァ-ヶー一-龯]', '', text)
+        for i in range(len(text_clean) - 1):
+            if re.match(r'[ぁ-んァ-ヶー一-龯]', text_clean[i:i+2]):
+                tokens.append(text_clean[i:i+2])
+        
+        # 3. 英数字
+        alphanumeric = re.findall(r'[A-Za-z0-9]+', text)
+        tokens.extend(alphanumeric)
+        
+        # 小文字化して重複を削除
+        return list(set([t.lower() for t in tokens if len(t) >= 2]))
     
     def calculate_bm25_scores(self, chunks: List[Dict]) -> List[Dict]:
         """BM25スコア計算のための統計情報を追加"""
