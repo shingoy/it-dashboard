@@ -2,296 +2,410 @@
   "total_documents": 57,
   "already_processed": 0,
   "batch_size": 57,
-  "successful": 0,
+  "successful": 57,
   "already_processed_in_batch": 0,
-  "failed": 57,
+  "failed": 0,
   "timeout": 0,
   "remaining": 0,
   "results": [
     {
       "doc_id": "0df9dcc6b12e854620b81eb1f4406e76",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 20,
+      "keywords_count": 10,
+      "processing_time": 0.07466530799865723
     },
     {
       "doc_id": "95426a4accae538d03d39a24f66ec0f1",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 22,
+      "keywords_count": 10,
+      "processing_time": 0.08771109580993652
     },
     {
       "doc_id": "1d0d940594d2f75bbb2acf479cfcd0db",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 272,
+      "keywords_count": 10,
+      "processing_time": 0.2822563648223877
     },
     {
       "doc_id": "80e217298f6ef3f1ef8c7ef4d0933b99",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 107,
+      "keywords_count": 10,
+      "processing_time": 0.10931992530822754
     },
     {
       "doc_id": "f331d7b5df3929b31716642573dba296",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 1023,
+      "keywords_count": 10,
+      "processing_time": 1.141815423965454
     },
     {
       "doc_id": "001585492bc8a696ddfa5b234d444203",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 269,
+      "keywords_count": 10,
+      "processing_time": 0.2551300525665283
     },
     {
       "doc_id": "17265ac8b338773c0d5816ce12145031",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 364,
+      "keywords_count": 10,
+      "processing_time": 0.3436861038208008
     },
     {
       "doc_id": "7d16c6492f3bf68423042ef6c9ea7869",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 3,
+      "keywords_count": 10,
+      "processing_time": 0.020946264266967773
     },
     {
       "doc_id": "ec8a538e673d953ffe193cf7997a6e13",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 89,
+      "keywords_count": 10,
+      "processing_time": 0.09911298751831055
     },
     {
       "doc_id": "7e4956c0c90f20ff136dc5afbc2d303a",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 9,
+      "keywords_count": 10,
+      "processing_time": 0.038092613220214844
     },
     {
       "doc_id": "f19d291a997ddaf5a6459072d2b0454a",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 3,
+      "keywords_count": 10,
+      "processing_time": 0.009135961532592773
     },
     {
       "doc_id": "369459933c3617e8f398049bed618c5c",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 101,
+      "keywords_count": 10,
+      "processing_time": 0.24615836143493652
     },
     {
       "doc_id": "3af0cf023dbe04081c43a9cd2102cb6a",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 282,
+      "keywords_count": 10,
+      "processing_time": 0.6909995079040527
     },
     {
       "doc_id": "9bb7a958c2412f9c32be222e7f3e30af",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 31,
+      "keywords_count": 10,
+      "processing_time": 0.09758210182189941
     },
     {
       "doc_id": "7c8f47c8f79ef2123b79ebf159b8d7c5",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 14,
+      "keywords_count": 10,
+      "processing_time": 0.04574131965637207
     },
     {
       "doc_id": "09e35e707fe16229bf3d18490cfaeb77",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 38,
+      "keywords_count": 10,
+      "processing_time": 0.18935465812683105
     },
     {
       "doc_id": "d599b9de73060426993769a25b497c36",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 36,
+      "keywords_count": 10,
+      "processing_time": 0.12582755088806152
     },
     {
       "doc_id": "5a02843ac422937db718a0771275dcab",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 12,
+      "keywords_count": 10,
+      "processing_time": 0.018729209899902344
     },
     {
       "doc_id": "942330b3e46ce4920c504ceb1e7fa0e2",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 30,
+      "keywords_count": 10,
+      "processing_time": 0.13037443161010742
     },
     {
       "doc_id": "ea4086bfa48f08e727082693a1ccd98e",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 20,
+      "keywords_count": 10,
+      "processing_time": 0.06931018829345703
     },
     {
       "doc_id": "b5d71d33f8d63bbff48825442e3d8d23",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 3,
+      "keywords_count": 10,
+      "processing_time": 0.008703947067260742
     },
     {
       "doc_id": "59fd4957d4756fe2870e7aa1be2c0060",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 32,
+      "keywords_count": 10,
+      "processing_time": 0.06416440010070801
     },
     {
       "doc_id": "8924e19b781c18e87de87f1d7774afd4",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 36,
+      "keywords_count": 10,
+      "processing_time": 0.06217336654663086
     },
     {
       "doc_id": "2752a2a3dd7de5acb3f6944041150833",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 17,
+      "keywords_count": 10,
+      "processing_time": 0.06723785400390625
     },
     {
       "doc_id": "a52e82dcb90a44ba579f41dbfae23481",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 15,
+      "keywords_count": 10,
+      "processing_time": 0.0542454719543457
     },
     {
       "doc_id": "e679e180701806981ac3216948024d89",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 12,
+      "keywords_count": 10,
+      "processing_time": 0.05310249328613281
     },
     {
       "doc_id": "5e487c969a831d5f9dca4f9826f3d228",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 6,
+      "keywords_count": 10,
+      "processing_time": 0.02808356285095215
     },
     {
       "doc_id": "1754bb7f7b1346e137ff0db7a8333d88",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 6,
+      "keywords_count": 10,
+      "processing_time": 0.03255343437194824
     },
     {
       "doc_id": "b6bb9799f42dc0ecc8ef9dfd6ed95c9c",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 19,
+      "keywords_count": 10,
+      "processing_time": 0.06983542442321777
     },
     {
       "doc_id": "cdea8eae45a2bee60083653d21ccb84a",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 27,
+      "keywords_count": 10,
+      "processing_time": 0.1121516227722168
     },
     {
       "doc_id": "9bed6e93c9a99e173079cfcd397172b5",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 22,
+      "keywords_count": 10,
+      "processing_time": 0.08112740516662598
     },
     {
       "doc_id": "7aeaed606bd41f966ed35f42fad45dcc",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 507,
+      "keywords_count": 10,
+      "processing_time": 1.1984190940856934
     },
     {
       "doc_id": "82852646d83bf4988ff6bfe641569236",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 42,
+      "keywords_count": 10,
+      "processing_time": 0.07201790809631348
     },
     {
       "doc_id": "fd5f7c4a4a9e8d973a68e5ced90ae4a5",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 4,
+      "keywords_count": 10,
+      "processing_time": 0.022333860397338867
     },
     {
       "doc_id": "cdd3ada7be57e37ea4c8481f636513e0",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 38,
+      "keywords_count": 10,
+      "processing_time": 0.11072802543640137
     },
     {
       "doc_id": "e52b56d7b99e84e4df23bff294869508",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 41,
+      "keywords_count": 10,
+      "processing_time": 0.1520082950592041
     },
     {
       "doc_id": "76b54fb40b96e0db972f395e21859029",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 30,
+      "keywords_count": 10,
+      "processing_time": 0.08203339576721191
     },
     {
       "doc_id": "e61f252d8a62fb0d09bbe1fde5fdbef2",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 25,
+      "keywords_count": 10,
+      "processing_time": 0.06969904899597168
     },
     {
       "doc_id": "b5e984c660445363cc5a2b7b0f983109",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 53,
+      "keywords_count": 10,
+      "processing_time": 0.16550064086914062
     },
     {
       "doc_id": "728233dcc7d6c7cc106666220a5d9c5a",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 1,
+      "keywords_count": 10,
+      "processing_time": 0.014886617660522461
     },
     {
       "doc_id": "eacc143d62b7449b4d8de50acb3bcdd4",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 26,
+      "keywords_count": 10,
+      "processing_time": 0.07504415512084961
     },
     {
       "doc_id": "06f34e0d6bf83d8dd9c2818aee4b2bd8",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 4,
+      "keywords_count": 10,
+      "processing_time": 0.011100053787231445
     },
     {
       "doc_id": "cfc2ba4cdf280ae19755b6135d09c253",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 2,
+      "keywords_count": 10,
+      "processing_time": 0.00755620002746582
     },
     {
       "doc_id": "0b0a15df7cd89c957a1b90d55dc100b2",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 6,
+      "keywords_count": 10,
+      "processing_time": 0.05930972099304199
     },
     {
       "doc_id": "62019305b0fb8902b42946e072ce9288",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 20,
+      "keywords_count": 10,
+      "processing_time": 0.061818838119506836
     },
     {
       "doc_id": "85d49d8312776e72b4b77c63d51606fc",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 111,
+      "keywords_count": 10,
+      "processing_time": 0.2920999526977539
     },
     {
       "doc_id": "e5b875f9c0cb09f29bafde4acd5ab33d",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 39,
+      "keywords_count": 10,
+      "processing_time": 0.09435296058654785
     },
     {
       "doc_id": "d2b584ee4cd7bae99c75861f51a2b4f4",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 6,
+      "keywords_count": 10,
+      "processing_time": 0.026705265045166016
     },
     {
       "doc_id": "52f10031fdb559599254e23323e534a3",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 24,
+      "keywords_count": 10,
+      "processing_time": 0.08885669708251953
     },
     {
       "doc_id": "d1f95f139a828538c65b3330f8867692",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 42,
+      "keywords_count": 10,
+      "processing_time": 0.1393115520477295
     },
     {
       "doc_id": "0bf02b4975091c9e538e86944ae53d18",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 4,
+      "keywords_count": 10,
+      "processing_time": 0.0140380859375
     },
     {
       "doc_id": "b16f0f7b5374ea7ebb65d8bd17a2087e",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 9,
+      "keywords_count": 10,
+      "processing_time": 0.04190421104431152
     },
     {
       "doc_id": "b8a69bd01b9c84cee90f95cb1097892e",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 4,
+      "keywords_count": 10,
+      "processing_time": 0.021636247634887695
     },
     {
       "doc_id": "c9cf25c6695222ec0afb689e136b4f9b",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 68,
+      "keywords_count": 10,
+      "processing_time": 0.15926551818847656
     },
     {
       "doc_id": "fedcd0d035642e93757e2689dacf2e33",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 4,
+      "keywords_count": 10,
+      "processing_time": 0.037698984146118164
     },
     {
       "doc_id": "b6d8f863d037d8d65f0207d9c27ef3ab",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 191,
+      "keywords_count": 0,
+      "processing_time": 0.2162184715270996
     },
     {
       "doc_id": "0e205dc0fc7d3135f06802ce986dbbbc",
-      "success": false,
-      "error": "PDF file not found"
+      "success": true,
+      "chunks_count": 9,
+      "keywords_count": 0,
+      "processing_time": 0.029671669006347656
     }
   ]
 }

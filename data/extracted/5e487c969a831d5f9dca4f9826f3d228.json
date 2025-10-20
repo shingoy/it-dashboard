@@ -1,0 +1,145 @@
+{
+  "doc_id": "5e487c969a831d5f9dca4f9826f3d228",
+  "metadata": {
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_ ABACの実装例-Amazon Web Services編（PDF／537KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/6cc40812/20230411_resources_standard_guidelines_glossary_01.pdf"
+  },
+  "pages": 15,
+  "chunks": [
+    {
+      "chunk_id": "5e487c969a831d5f9dca4f9826f3d228_c0",
+      "doc_id": "5e487c969a831d5f9dca4f9826f3d228",
+      "chunk_index": 0,
+      "text": "1 参考. ABAC の実装例-Amazon Web Services 編 1.ユーザーからサービスへのABAC（サブジェクト側での制御） ............ 1 2.ユーザーからユーザーへのABAC（サブジェクト側での制御） ............ 4 3.処理内の環境情報を使ったABAC（オブジェクト側での制御） ............ 6 4. 外部IdP 上ユーザーからAWS サービスへのABAC（SAML の活用） ........ 8 5. 外部サービスからAWS サービスへのABAC（OIDC の活用） ............. 11 6. 参考資料 ........................................................ 15 1Amazon Web Services（以下、「AWS」という。）は代表的なInfrastructure as a Service（IaaS）であり、アクセス制御機能をその一部として実装している。本文書で は、AWS に対して適用できる属性を用いたABAC 実装例を紹介する。なお、本ドキュ メントは２０２３年３月段階の仕様である。 1.ユーザーからサービスへのABAC（サブジェクト側での制御） この例（図1）では、サーバー管理を担当する従業員のアカウント名がそれぞれRed とBlue とし、それぞれが管理するサーバーに対してのみ、サーバーの起動および停 止といった処理を行えるよう制御をする。また、本例ではその制御をサブジェクトで実 施する。表1 に一般的なアクセス制御のコンポーネントとAWS の機能をマッピングす る。 11 デフォルトでタグは任意に作成・変更できるため、適切な権限管理を設定す る必要がある\n\n2 図 1 表 1 アクセス制御の コンポーネント 例で該当する機能 ユースケース サーバーの起動および停止を、 サーバー管理者のみに限定する サブジェクト AWS IAM User（ユーザー） オブジェクト AWS EC2 Instance（サーバー） 属性 AWS IAM User につけられたユ ーザー名、AWS EC2 Instances に付加的に設定されたタグ PDP AWS IAM Policy PEP AWS IAM User 具体的には、各Red とBlue というAWS IAM User にAWS IAM Policy というアクセス 制御におけるポリシーを定義する（図2）。本ポリシーを付与されたAWS IAM User は、自身のユーザー名が「Owner」属性の値として設定されたサーバーにのみ、起動 および停止する処理を実施できる。 AWS では各リソースに対してタグとよばれる情報 を定義できる。タグは、キーとオプションという形で構成されており、これを属性と属性\n\n3 値として扱うことでABAC を実装できる。そのため、図１に示す通り、AWS EC2 Instance に適切なタグを設定する必要がある。",
+      "page_from": 1,
+      "page_to": 3,
+      "char_count": 1284,
+      "position": 0,
+      "meeting": "デジタル社会推進標準ガイドライン",
+      "agency": "デジタル庁",
+      "title": "参考資料_ ABACの実装例-Amazon Web Services編（PDF／537KB）",
+      "date": "2023-07-04",
+      "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/6cc40812/20230411_resources_standard_guidelines_glossary_01.pdf"
+    },
+    {
+      "chunk_id": "5e487c969a831d5f9dca4f9826f3d228_c1",
+      "doc_id": "5e487c969a831d5f9dca4f9826f3d228",
+      "chunk_index": 1,
+      "text": "User は、自身のユーザー名が「Owner」属性の値として設定されたサーバーにのみ、起動 および停止する処理を実施できる。 AWS では各リソースに対してタグとよばれる情報 を定義できる。タグは、キーとオプションという形で構成されており、これを属性と属性\n\n3 値として扱うことでABAC を実装できる。そのため、図１に示す通り、AWS EC2 Instance に適切なタグを設定する必要がある。 図 2\n\n4 2.ユーザーからユーザーへのABAC（サブジェクト側での制御） 図3 の例では、特定プロジェクトに関わるアカウントのみが同プロジェクトに所属する 別アカウントに対する操作を制御する例である。 図 3 表 2 アクセス制御の コンポーネント 例で該当する機能 ユースケース 同一プロジェクトに所属するユーザー同士 のみが互いのアカウント情報を参照可能と する サブジェクト AWS IAM User（ユーザー） オブジェクト AWS IAM User（ユーザー） 属性 AWS IAM User に付加的に設定された配属 先プロジェクト属性 PDP AWS IAM Policy PEP AWS IAM User\n\n5 AWS IAM User であるユーザー同士がサブジェクトおよびオブジェクトになる例であ る。これらAWS IAM User には配属されたプロジェクトを示すタグ「Project」が付加さ れている。図4 では同一プロジェクトである場合にのみ、AWS IAM User の所属グル ープを取得することを許可する設定を構成している。 図 4\n\n6 3.処理内の環境情報を使ったABAC（オブジェクト側での制御） 図5 の例では、特定の環境条件を満たすファイルの保管処理を許可する。具体的に はアップロードされたファイルが指定された暗号鍵を用いて暗号化されているかを確 認する。これはABAC における環境情報を使う例である。また、その際のアクセス制 御はリソース側にて実施される。 図 5 表 3 アクセス制御の コンポーネント 例で該当する機能 ユースケース ファイルストレージへのファイル保管時に、 指定した暗号鍵による暗号化を強制したい サブジェクト AWS IAM User（ユーザー） オブジェクト AWS S3 Bucket（ファイルストレージ） 属性 ファイル保管処理に関する環境情報。特に 暗号化に利用するために指定される暗号 鍵の識別子 PDP AWS S3 Bucket Policy PEP AWS S3 Bucket\n\n7 AWS のファイルストレージサービスであるＳ３ Bucket では、Bucket Policy を設定す ることでS3 Bucket に対するアクセスを制御することが可能である。図6 では、S3 Bucket に対するアップロードを制御するポリシーである。多くのコンプライアンス要件 で見られるファイル保管時の暗号化を、図6 のポリシーで強制的に準拠できる。",
+      "page_from": 2,
+      "page_to": 7,
+      "char_count": 1269,
+      "position": 1084,
+      "meeting": "デジタル社会推進標準ガイドライン",
+      "agency": "デジタル庁",
+      "title": "参考資料_ ABACの実装例-Amazon Web Services編（PDF／537KB）",
+      "date": "2023-07-04",
+      "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/6cc40812/20230411_resources_standard_guidelines_glossary_01.pdf"
+    },
+    {
+      "chunk_id": "5e487c969a831d5f9dca4f9826f3d228_c2",
+      "doc_id": "5e487c969a831d5f9dca4f9826f3d228",
+      "chunk_index": 2,
+      "text": "PEP AWS S3 Bucket\n\n7 AWS のファイルストレージサービスであるＳ３ Bucket では、Bucket Policy を設定す ることでS3 Bucket に対するアクセスを制御することが可能である。図6 では、S3 Bucket に対するアップロードを制御するポリシーである。多くのコンプライアンス要件 で見られるファイル保管時の暗号化を、図6 のポリシーで強制的に準拠できる。具体 的には、アップロード時に特定の暗号鍵（AWS KMS）を指定していない限り、保管処 理に失敗する。これは実際の処理におけるサブジェクトとオブジェクトそのものの属性 には着目しておらず、その処理をとりまく環境情報である暗号化状況を使った制御で ある。 図 6\n\n8 4. 外部IdP 上ユーザーからAWS サービスへのABAC（SAML の活用） クラウド・バイ・デフォルト原則を前提にする業務環境では、より強固なアクセス制御を 実現するうえで、ID フェデレーションとアサーションが重要になる。そのような要件を 効率的に実現するために、外部のID プロバイダー（IｄP）から連携された属性情報を 別システムでアクセス制御に活用する例が図7 となる。 この構成では、属性情報や認証情報等の機械判読可能な情報が、異なる管理領域 にあるシステム間で授受される。そのため、予め両システム間で信頼関係を構築しつ つ、属性スキーマが標準化されていなければならない。 図 7 表 4 アクセス制御の コンポーネント 例で該当する機能 ユースケース 強固なID フェデレーション及びアサーショ ンによる、効率的なアクセス制御をする サブジェクト ①外部ＩdP のアカウント ②,③ AWS Identity Center (AWS 側の IdP アカウント) ④AWS IAM Role オブジェクト ①AWS Identity Center (AWS 側のIdP ア カウント) ②,③AWS IAM Role ④AWS の各種リソース 属性 外部IdP の属性、AWS の各種リソースに 設定されたタグ\n\n9 PDP ①AWS Identity Center のTrust Relationship 設定及びPermission ②,③AWS Identity Center の割り当て設 定およびAWS IAM Role のTrust Relationship 設定 ④AWS IAM Policy または各種AWS リソ ースのPolicy、あるいはその組み合わせ PEP ① AWS Identity Center ②,③AWS Identity Center およびAWS IAM Role ④AWS IAM Role あるいはAWS リソー ス、あるいはその組み合わせ まず①にて、外部IdP のアカウントからAWS の認証統合機能であるIAM Identity Center にSAML Single-Sign On をする。この際、図6 のSAML アサーションがAWS に連携される。",
+      "page_from": 6,
+      "page_to": 9,
+      "char_count": 1297,
+      "position": 2153,
+      "meeting": "デジタル社会推進標準ガイドライン",
+      "agency": "デジタル庁",
+      "title": "参考資料_ ABACの実装例-Amazon Web Services編（PDF／537KB）",
+      "date": "2023-07-04",
+      "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/6cc40812/20230411_resources_standard_guidelines_glossary_01.pdf"
+    },
+    {
+      "chunk_id": "5e487c969a831d5f9dca4f9826f3d228_c3",
+      "doc_id": "5e487c969a831d5f9dca4f9826f3d228",
+      "chunk_index": 3,
+      "text": "ity Center ②,③AWS Identity Center およびAWS IAM Role ④AWS IAM Role あるいはAWS リソー ス、あるいはその組み合わせ まず①にて、外部IdP のアカウントからAWS の認証統合機能であるIAM Identity Center にSAML Single-Sign On をする。この際、図6 のSAML アサーションがAWS に連携される。具体的には、属性名 「https://aws.amazon.com/SAML/Attributes/PrincipalTag:Project」および 「https://aws.amazon.com/SAML/Attributes/PrincipalTag:CostCenter」の値として 「Marketing」と「12345」が設定さている。これらがAWS Identity Center を介して（②）、 AWS アカウント内のセッションにおけるタグ情報として連携される。このタグはAWS IAM Role のタグとして引き継がれ（③）、そのRole に紐づけられた図7 のAWS IAM Policy と照合される。このAWS IAM Policy は、外部IdP のけるアカウントが属してい たコストセンターに管理されているAWS EC2 へのアクションのみが許可されることを 示している。 図 8\n\n10 図 9\n\n11 5. 外部サービスからAWS サービスへのABAC（OIDC の活用） アクセス制御はユーザーアカウントが実行する処理に限定されない。本例はサービス 間での処理におけるABAC 適用事例となる。具体的には、GitHub Action という Continuous Integration（CI） / Continuous Delivery（CD）サービスとAWS サービス間 のアクセス制御となる。AWS を含むWeb API による管理機能が基本となる IaaS/PaaS ではTerraform やCloudFormation といったツール（Infrastructure as Code）を管理手法として採用することで、多くの構成・変更業務の自動化が可能とな る。これらのツールで記述されたファイルはソースコードとしてGitHub などのバージョ ン管理ツールに格納される。ファイルへの変更は適切な承認を経てビルドされ、イン フラ環境にデリバリされる(CI/CD)。この例ではGitHub Action がそれらの機能を担っ たサブジェクトとして、オブジェクトであるAWS のAPI およびリソースに処理を試み る。その際のアクセス制御は、GitHub 上のOpenID Connect（OIDC） Provider によっ て発行された属性情報によって行われる。",
+      "page_from": 9,
+      "page_to": 11,
+      "char_count": 1201,
+      "position": 3250,
+      "meeting": "デジタル社会推進標準ガイドライン",
+      "agency": "デジタル庁",
+      "title": "参考資料_ ABACの実装例-Amazon Web Services編（PDF／537KB）",
+      "date": "2023-07-04",
+      "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/6cc40812/20230411_resources_standard_guidelines_glossary_01.pdf"
+    },
+    {
+      "chunk_id": "5e487c969a831d5f9dca4f9826f3d228_c4",
+      "doc_id": "5e487c969a831d5f9dca4f9826f3d228",
+      "chunk_index": 4,
+      "text": "納される。ファイルへの変更は適切な承認を経てビルドされ、イン フラ環境にデリバリされる(CI/CD)。この例ではGitHub Action がそれらの機能を担っ たサブジェクトとして、オブジェクトであるAWS のAPI およびリソースに処理を試み る。その際のアクセス制御は、GitHub 上のOpenID Connect（OIDC） Provider によっ て発行された属性情報によって行われる。なお、本例は「4. 外部IdP 上ユーザーから AWS サービスへのABAC（SAML の活用）」と同じく、異なる管理領域にあるシステム 間の処理になるため、事前に信頼関係を結び、ＯＩＤＣによる連携が可能でなければ ならない。 図 10 表 5 アクセス制御の コンポーネント 例で該当する機能 ユースケース CICD サービスからAWS リソースの管理作 業を自動で実施する サブジェクト 外部サービス（GitHub Action）\n\n12 オブジェクト AWS IAM Role（②）、各種AWS リソース （⑤, ⑥） 属性 サービスが管理するIdP によって発行され たID Token のクレーム PDP AWS IAM 及び AWS IAM Policy PEP AWS IAM GitHub Action の挙動はworkflow ファイル（図11）内で定義される。このworkflow が 実行時にGitHub のOpenID Connect に準拠したIdP にID トークンの発行を依頼す る（図11-①）。GitHub Action のworkflow は発行されたID トークン（図12）をAWS に送付し、特定のAWS IAM Role として処理するための一次トークンの発行を依頼す る（図11-②）。AWS はID トークンのsub 属性とその値を読取り、AWS IAM Role 側の 信頼関係設定のポリシー（図13）と照合する。照合結果に問題がなければ、AWS リソ ースを操作するAPI リクエストに必要な一時的なクレデンシャルが発行される。 GitHub Action はそれを用いて、AWS IAM Role に許可された範囲の権限で、AWS の 各種リソースに対して処理を実行する（図11-④、図11-⑤）。\n\n13 図 11 図 12\n\n14 図 13\n\n15 6. 参考資料 タグを使用した AWS リソースへのアクセスの制御: https://docs.aws.amazon.com/ja_jp/IAM/latest/UserGuide/access_tags.html Using server-side encryption with Amazon S3-managed encryption keys (SSE-S3) : https://doc",
+      "page_from": 11,
+      "page_to": 15,
+      "char_count": 1200,
+      "position": 4251,
+      "meeting": "デジタル社会推進標準ガイドライン",
+      "agency": "デジタル庁",
+      "title": "参考資料_ ABACの実装例-Amazon Web Services編（PDF／537KB）",
+      "date": "2023-07-04",
+      "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/6cc40812/20230411_resources_standard_guidelines_glossary_01.pdf"
+    },
+    {
+      "chunk_id": "5e487c969a831d5f9dca4f9826f3d228_c5",
+      "doc_id": "5e487c969a831d5f9dca4f9826f3d228",
+      "chunk_index": 5,
+      "text": "15 6. 参考資料 タグを使用した AWS リソースへのアクセスの制御: https://docs.aws.amazon.com/ja_jp/IAM/latest/UserGuide/access_tags.html Using server-side encryption with Amazon S3-managed encryption keys (SSE-S3) : https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingServerSideEncrypt ion.html 認証レスポンスの SAML アサーションを設定する: https://docs.aws.amazon.com/ja_jp/IAM/latest/UserGuide/id_roles_providers_create _saml_assertions.html Using environments for deployment： https://docs.github.com/en/actions/deployment/targeting-different- environments/using-environments-for-deployment",
+      "page_from": 15,
+      "page_to": 15,
+      "char_count": 553,
+      "position": 5251,
+      "meeting": "デジタル社会推進標準ガイドライン",
+      "agency": "デジタル庁",
+      "title": "参考資料_ ABACの実装例-Amazon Web Services編（PDF／537KB）",
+      "date": "2023-07-04",
+      "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/6cc40812/20230411_resources_standard_guidelines_glossary_01.pdf"
+    }
+  ],
+  "keywords": [
+    {
+      "term": "アクセス",
+      "count": 11
+    },
+    {
+      "term": "サブジェ",
+      "count": 10
+    },
+    {
+      "term": "クト",
+      "count": 10
+    },
+    {
+      "term": "サービス",
+      "count": 9
+    },
+    {
+      "term": "ユーザー",
+      "count": 8
+    },
+    {
+      "term": "オブジェ",
+      "count": 8
+    },
+    {
+      "term": "外部",
+      "count": 7
+    },
+    {
+      "term": "クト側で",
+      "count": 6
+    },
+    {
+      "term": "の制御",
+      "count": 6
+    },
+    {
+      "term": "サーバー",
+      "count": 6
+    }
+  ]
+}

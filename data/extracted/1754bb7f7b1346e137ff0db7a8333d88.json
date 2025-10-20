@@ -1,0 +1,145 @@
+{
+  "doc_id": "1754bb7f7b1346e137ff0db7a8333d88",
+  "metadata": {
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_ ABACの実装例-Microsoft Azure Active Directory編（PDF／973KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a67d3e47/20230411_resources_standard_guidelines_glossary_02.pdf"
+  },
+  "pages": 12,
+  "chunks": [
+    {
+      "chunk_id": "1754bb7f7b1346e137ff0db7a8333d88_c0",
+      "doc_id": "1754bb7f7b1346e137ff0db7a8333d88",
+      "chunk_index": 0,
+      "text": "1 参考. ABAC の実装例-Microsoft Azure Active Directory 編 1. グループにユーザーを追加するABAC（サブジェクト側での制御） ....... 1 2.クラウドサービスへのデバイス属性によるアクセス制御（サブジェクト側で の制御） ............................................................ 5 3. クラウドサービスに付与した独自定義の属性によるアクセス制御（サブジェ クト側での制御） .................................................... 8 4.参考文献 ......................................................... 12 Microsoft Azure Active Directory（以下、「AAD」という。）はIdentity as a Service （IDaaS）やIdentity Governance Administration（IGA）等のデジタル・アイデンティティ 管理におけるMicrosoft 社製のサービスであり、アクセス制御機能もその一部として 実装している。本文書では、AAD で管理可能なリソースに対して適用できる属性を用 いたＡＢＡＣ実装例を紹介する。なお、本ドキュメントは２０２３年３月段階の仕様であ る。 1. グループにユーザーを追加するABAC（サブジェクト側での制御） この例（図1）では、ユーザーグループにおけるメンバーの管理におけるＡＢＡＣを例 にしている。AAD のグループはAAD に登録された特定のサービスに対するアクセス を制御するために一般的に利用されている。従来グループにおけるメンバーシップ管 理は管理者による静的な作業であった。つまり、グループ管理に対するアクセス制御 が適用されており、管理者であれば許可される図式であった（図1 左）。しかし、AAD では動的なグループ管理が実装可能である。これは、ユーザーの属性を入力値とし てメンバーシップ対象とするか判定するルールによって実現される（図1 右）。つまり リソースの属性に着目して、グループに対する処理を制御できる。 図 1\n\n2 表 1 アクセス制御の コンポーネント 例で該当する機能 ユースケース グループオブジェクトのメンバー シップの管理 サブジェクト AAD グループ オブジェクト AAD グループメンバーシップ 属性 AAD ユーザーにつけられた属性 及びその値 PDP AAD グループのルール PEP AAD グループ 具体的には、AAD グループを動的グループとして作成し、その中にある「動的メンバ ーシップルール」を定義する（図2）。このルールに利用可能な属性（表２）を使い、特 定の属性条件に合致するユーザーを抽出し、自動的にメンバーとして追加および削 除する。",
+      "page_from": 1,
+      "page_to": 2,
+      "char_count": 1264,
+      "position": 0,
+      "meeting": "デジタル社会推進標準ガイドライン",
+      "agency": "デジタル庁",
+      "title": "参考資料_ ABACの実装例-Microsoft Azure Active Directory編（PDF／973KB）",
+      "date": "2023-07-04",
+      "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a67d3e47/20230411_resources_standard_guidelines_glossary_02.pdf"
+    },
+    {
+      "chunk_id": "1754bb7f7b1346e137ff0db7a8333d88_c1",
+      "doc_id": "1754bb7f7b1346e137ff0db7a8333d88",
+      "chunk_index": 1,
+      "text": "ェクト AAD グループメンバーシップ 属性 AAD ユーザーにつけられた属性 及びその値 PDP AAD グループのルール PEP AAD グループ 具体的には、AAD グループを動的グループとして作成し、その中にある「動的メンバ ーシップルール」を定義する（図2）。このルールに利用可能な属性（表２）を使い、特 定の属性条件に合致するユーザーを抽出し、自動的にメンバーとして追加および削 除する。このようにグループのメンバーシップ管理（処理）を管理者による作業から ABAC を基にして自動化できる。更に、このグループをSaaS アプリケーションに割り 当てることで、SaaS アプリケーションへのアクセスもABAC にできる。\n\n3 図 2 表 2: AAD で設定できる属性一覧（一部） 属性名 説明 型 accountEnabled 検出ソースでのアカウントの 状態 Boolean dirSyncEnabled オンプレミスの Active Directory 同期 Boolean country 国/リージョン 文字列 companyName 会社 文字列 department 部署 文字列 employeeId 社員ID 文字列 givenName 名 文字列 jobTitle 役職 文字列 mail E メールアドレス 文字列 mailNickName E メールユーザー名(@以下除 く) 文字列 memberOf 動的グループ 文字列 objectId オブジェクトID 文字列 passwordPolicies パスワードポリシー 文字列 physicalDeliveryOfficeName 勤務先オフィス 文字列 preferredLanguage 言語(ISO 639-1 コード) 文字列 surname 姓 文字列 usageLocation 国または地域コード ２文字の国また は地域コード userPrincipalName ユーザー名 文字列\n\n4 userType ユーザータイプ 文字列 otherMails その他E メールアドレス 文字列コレクシ ョン proxyAddresses E メールアドレス(プライマ リ、セカンダリ等) 文字列コレクシ ョン\n\n5 2.クラウドサービスへのデバイス属性によるアクセス制御（サブジェクト側で の制御） オンプレミス環境又はクラウド環境にかかわらず、管理外の端末の業務利用は、 様々なリスクがある。ネットワークによるアクセス制限が困難なクラウド環境では、そ のリスクをコントロールするために個々の端末を認証する重要性が高くなる。本 ABAC 例では、AAD によるデバイス属性をベースにしたSaaS アプリケーションへの アクセス制御を条件付きアクセスによって実装する。具体的には、最新パッチの適用 をしていない等、特定の構成ルールに準拠していないデバイスからの処理が拒否さ れる。なお、SaaS アプリケーションがAAD と信頼関係を結び、認証連携を強制され ている前提となる。",
+      "page_from": 2,
+      "page_to": 5,
+      "char_count": 1288,
+      "position": 1064,
+      "meeting": "デジタル社会推進標準ガイドライン",
+      "agency": "デジタル庁",
+      "title": "参考資料_ ABACの実装例-Microsoft Azure Active Directory編（PDF／973KB）",
+      "date": "2023-07-04",
+      "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a67d3e47/20230411_resources_standard_guidelines_glossary_02.pdf"
+    },
+    {
+      "chunk_id": "1754bb7f7b1346e137ff0db7a8333d88_c2",
+      "doc_id": "1754bb7f7b1346e137ff0db7a8333d88",
+      "chunk_index": 2,
+      "text": "するために個々の端末を認証する重要性が高くなる。本 ABAC 例では、AAD によるデバイス属性をベースにしたSaaS アプリケーションへの アクセス制御を条件付きアクセスによって実装する。具体的には、最新パッチの適用 をしていない等、特定の構成ルールに準拠していないデバイスからの処理が拒否さ れる。なお、SaaS アプリケーションがAAD と信頼関係を結び、認証連携を強制され ている前提となる。パスワード等で、SaaS アプリケーションへのログインがAAD を迂 回できるのであればバイパス可能である。 図 3 表 3 アクセス制御の コンポーネント 例で該当する機能 ユースケース SaaS アプリケーションへのアクセス元が構 成ルールに準拠していない場合、ブロック する サブジェクト AAD に登録されたデバイスオブジェクトお よびその利用者 オブジェクト AAD と認証連携したSaaS アプリケーショ ン 属性 デバイスオブジェクトの構成ルールへの準 拠状態 を示す属性\n\n6 PDP AAD - 条件付きアクセス PEP AAD - 条件付きアクセス Microsoft Intune（以降、Intune）というデバイス管理サービスに、登録されたデバイス オブジェクトが特定の構成ルールに準拠しているか自動で判定し、IsCompliant として マークする機能がある1。Intune と連携するとAAD は、マークされたデバイスオブジェ クトを識別可能となる。 図4 はIntune から連携されたデバイスオブジェクトのIsCompliant で値がTrue では ない、つまり準拠状態にない端末からのアクセスを拒否するような設定である。これ により構成ルールに準拠していない端末だけでなく、AAD に登録されていない端末か らSaaS アプリケーションへのアクセスをブロックすることが可能となる。今回は、 IsCompliant に着目したが、他の属性も当該機能に利用できる。その一部を表４に記 載する。 図 4 表 4 属性名 説明 型 deviceId デバイスID GUID である有効 な deviceId displayName 名前 文字列 deviceOwnership デバイス所有者 \"Personal\" (個人 所有デバイス) と \"Company\" (企業 所有ｄｅｖｉｃ ｅの場合) 1 これ自体も構成情報を属性と見立てたABAC とも言える\n\n7 manufacturer 製造メーカー 文字列 operatingSystem OS 有 効 な OS （ Windows 、 iOS 、Android な ど） operatingSystemVersion OS バージョン OS ごとの有効な バージョン trustType 結合の種類 デバイスの有効な 登録済み状態。",
+      "page_from": 5,
+      "page_to": 7,
+      "char_count": 1210,
+      "position": 2152,
+      "meeting": "デジタル社会推進標準ガイドライン",
+      "agency": "デジタル庁",
+      "title": "参考資料_ ABACの実装例-Microsoft Azure Active Directory編（PDF／973KB）",
+      "date": "2023-07-04",
+      "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a67d3e47/20230411_resources_standard_guidelines_glossary_02.pdf"
+    },
+    {
+      "chunk_id": "1754bb7f7b1346e137ff0db7a8333d88_c3",
+      "doc_id": "1754bb7f7b1346e137ff0db7a8333d88",
+      "chunk_index": 3,
+      "text": "の場合) 1 これ自体も構成情報を属性と見立てたABAC とも言える\n\n7 manufacturer 製造メーカー 文字列 operatingSystem OS 有 効 な OS （ Windows 、 iOS 、Android な ど） operatingSystemVersion OS バージョン OS ごとの有効な バージョン trustType 結合の種類 デバイスの有効な 登録済み状態。 サ ポートされている 値は、AD (AAD 参加 デバイスに使用)、 ServerAD (Hybrid AAD 参加済みデバ イスに使用) 、 Workplace (AAD 登 録済みデバイスに 使用) department 部署 文字列\n\n8 3. クラウドサービスに付与した独自定義の属性によるアクセス制御（サブジェ クト側での制御） 図5 は、特定のクラウドサービスへのアクセスに、特定の追加条件を要求するABAC の例である2i。具体的には、重要な業務を処理するSaaS アプリケーションに対するア クセスにのみ、より厳格なポリシーを適用する。これにより必要に応じた柔軟なセキュ リティを実現できる。まず、AAD 管理者が、事前に定義したカスタムセキュリティ属性 を、AAD に登録されたSaaS アプリケーションに付与する。更に、AAD 管理者が、そ の属性を持つSaaS アプリケーションに対するアクセスポリシーを条件付きアクセスと して構成する。 図 5 表 5 アクセス制御の コンポーネント 例で該当する機能 ユースケース 重要業務を処理するSaaS アプリケーショ ンに通常より厳格なポリシーを適用する サブジェクト AAD に登録されたデバイスオブジェクトお よびその利用者 オブジェクト AAD と認証連携したSaaS アプリケーショ ンオブジェクト 属性 SaaS アプリケーションオブジェクトに設定し たカスタムセキュリティ属性と、デバイスオ 2 基本的に全てのユーザーは多要素認証を設定すべきである\n\n9 ブジェクトの構成ルールへの準拠状態を示 す属性 PDP AAD - 条件付きアクセス PEP AAD - 条件付きアクセス カスタムセキュリティ属性の定義には、AAD の管理画面から[Custom Security Attributes(Preview)]を開き、[+属性セットを追加する]をクリックする。“属性セット名” を指定し、任意で説明や属性の最大数を決定する（図6）。 図 6 新しい属性セットを作成後に、作成した属性セットを選択すると以下の画面が表示さ れるので、[属性の追加]を選択すると、属性を定義できる（図7）。なお、条件付きアク セスで使用可能なデータ型はString(文字列)のみである。 図 7 定義したカスタムセキュリティ属性と値を、[エンタープライズアプリケーション]として登 録されたSaaS アプリケーションに割り当てる。",
+      "page_from": 6,
+      "page_to": 9,
+      "char_count": 1246,
+      "position": 3162,
+      "meeting": "デジタル社会推進標準ガイドライン",
+      "agency": "デジタル庁",
+      "title": "参考資料_ ABACの実装例-Microsoft Azure Active Directory編（PDF／973KB）",
+      "date": "2023-07-04",
+      "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a67d3e47/20230411_resources_standard_guidelines_glossary_02.pdf"
+    },
+    {
+      "chunk_id": "1754bb7f7b1346e137ff0db7a8333d88_c4",
+      "doc_id": "1754bb7f7b1346e137ff0db7a8333d88",
+      "chunk_index": 4,
+      "text": "大数を決定する（図6）。 図 6 新しい属性セットを作成後に、作成した属性セットを選択すると以下の画面が表示さ れるので、[属性の追加]を選択すると、属性を定義できる（図7）。なお、条件付きアク セスで使用可能なデータ型はString(文字列)のみである。 図 7 定義したカスタムセキュリティ属性と値を、[エンタープライズアプリケーション]として登 録されたSaaS アプリケーションに割り当てる。図8 では業務上の影響度を表す 「BusinessImpact」という属性を生成し、その値をCritical, High, Medium, Low に限定す るよう定義した。\n\n10 図 8 次に定義された属性がSaaS アプリケーションに付与される。図9 では、侵害された 際の影響が非常に大きいIaaS であるAWS に、「BusinessImpact」属性名とその値を 「Critical」とした属性を設定している。3 図 9 次にPDP・PEP となる条件付きアクセスを構成する。条件付きアクセスは対象の SaaS アプリケーションを選択する際に、カスタムセキュリティ属性を基にすることがで 3 資産管理の観点では、全ての資産を重要度に応じて分類すべきである。\n\n11 きる。具体的には、[Azure AD 条件付きアクセス]を選択し、[+新しいポリシー]から作 成したポリシーの[クラウドアプリまたは操作]をクリックし、[アプリを選択]-[フィルター 編集(プレビュー)]から設定が可能だ。図10 では、先に設定した「BusinessImpact」属 性の値が「Critical」または「High」を指定することで、重要な業務を処理するSaaS ア プリケーション全体を対象にしたポリシーが構成されている。 図 10 特定の条件に合わせポリシーの強度を変えるニーズは多くあるが、その対象を静的 なリストで管理するのではなく、属性に応じた条件・ルールにするABAC 例を示した。\n\n12 4.参考文献 Azure Active Directory の動的グループ メンバーシップ ルール: https://learn.microsoft.com/ja-jp/azure/active-directory/enterprise- users/groups-dynamic-membership 条件付きアクセス: デバイスのフィルター: https://learn.microsoft.com/ja-jp/azure/active-directory/conditional- access/concept-condition-filters-for-devices Azure AD のカスタム セキュリティ属性とは (プレビュー): https://learn.microsoft.com/",
+      "page_from": 9,
+      "page_to": 12,
+      "char_count": 1200,
+      "position": 4208,
+      "meeting": "デジタル社会推進標準ガイドライン",
+      "agency": "デジタル庁",
+      "title": "参考資料_ ABACの実装例-Microsoft Azure Active Directory編（PDF／973KB）",
+      "date": "2023-07-04",
+      "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a67d3e47/20230411_resources_standard_guidelines_glossary_02.pdf"
+    },
+    {
+      "chunk_id": "1754bb7f7b1346e137ff0db7a8333d88_c5",
+      "doc_id": "1754bb7f7b1346e137ff0db7a8333d88",
+      "chunk_index": 5,
+      "text": "条件付きアクセス: デバイスのフィルター: https://learn.microsoft.com/ja-jp/azure/active-directory/conditional- access/concept-condition-filters-for-devices Azure AD のカスタム セキュリティ属性とは (プレビュー): https://learn.microsoft.com/ja-jp/azure/active- directory/fundamentals/custom-security-attributes-overview",
+      "page_from": 12,
+      "page_to": 12,
+      "char_count": 278,
+      "position": 5208,
+      "meeting": "デジタル社会推進標準ガイドライン",
+      "agency": "デジタル庁",
+      "title": "参考資料_ ABACの実装例-Microsoft Azure Active Directory編（PDF／973KB）",
+      "date": "2023-07-04",
+      "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a67d3e47/20230411_resources_standard_guidelines_glossary_02.pdf"
+    }
+  ],
+  "keywords": [
+    {
+      "term": "文字列",
+      "count": 20
+    },
+    {
+      "term": "アプリケ",
+      "count": 18
+    },
+    {
+      "term": "ーション",
+      "count": 15
+    },
+    {
+      "term": "アクセス",
+      "count": 13
+    },
+    {
+      "term": "グループ",
+      "count": 11
+    },
+    {
+      "term": "する",
+      "count": 10
+    },
+    {
+      "term": "サブジェ",
+      "count": 9
+    },
+    {
+      "term": "オブジェ",
+      "count": 8
+    },
+    {
+      "term": "デバイス",
+      "count": 8
+    },
+    {
+      "term": "条件付き",
+      "count": 8
+    }
+  ]
+}

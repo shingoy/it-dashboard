@@ -1,0 +1,213 @@
+{
+  "month": "2025-06",
+  "keywords": [
+    {
+      "term": "トリ",
+      "count": 20
+    },
+    {
+      "term": "でき",
+      "count": 20
+    },
+    {
+      "term": "aws",
+      "count": 18
+    },
+    {
+      "term": "によ",
+      "count": 16
+    },
+    {
+      "term": "ライ",
+      "count": 16
+    },
+    {
+      "term": "ムチ",
+      "count": 15
+    },
+    {
+      "term": "のた",
+      "count": 15
+    },
+    {
+      "term": "ない",
+      "count": 15
+    },
+    {
+      "term": "ドフ",
+      "count": 14
+    },
+    {
+      "term": "ビス",
+      "count": 14
+    },
+    {
+      "term": "ーズ",
+      "count": 13
+    },
+    {
+      "term": "の安",
+      "count": 13
+    },
+    {
+      "term": "られ",
+      "count": 13
+    },
+    {
+      "term": "とが",
+      "count": 13
+    },
+    {
+      "term": "steps",
+      "count": 12
+    },
+    {
+      "term": "ズの",
+      "count": 11
+    },
+    {
+      "term": "チームの",
+      "count": 11
+    },
+    {
+      "term": "つい",
+      "count": 11
+    },
+    {
+      "term": "ポジ",
+      "count": 11
+    },
+    {
+      "term": "terraform",
+      "count": 11
+    },
+    {
+      "term": "取得",
+      "count": 11
+    },
+    {
+      "term": "範囲",
+      "count": 10
+    },
+    {
+      "term": "code",
+      "count": 9
+    },
+    {
+      "term": "ンの",
+      "count": 9
+    },
+    {
+      "term": "チェ",
+      "count": 9
+    },
+    {
+      "term": "ード",
+      "count": 8
+    },
+    {
+      "term": "ド上",
+      "count": 8
+    },
+    {
+      "term": "トウ",
+      "count": 8
+    },
+    {
+      "term": "ェア",
+      "count": 8
+    },
+    {
+      "term": "ムが",
+      "count": 8
+    },
+    {
+      "term": "テナ",
+      "count": 8
+    },
+    {
+      "term": "能で",
+      "count": 8
+    },
+    {
+      "term": "資産",
+      "count": 7
+    },
+    {
+      "term": "イナ",
+      "count": 7
+    },
+    {
+      "term": "スの",
+      "count": 7
+    },
+    {
+      "term": "ンb",
+      "count": 7
+    },
+    {
+      "term": "いこ",
+      "count": 7
+    },
+    {
+      "term": "には",
+      "count": 7
+    },
+    {
+      "term": "login",
+      "count": 7
+    },
+    {
+      "term": "ド管",
+      "count": 6
+    },
+    {
+      "term": "ート",
+      "count": 6
+    },
+    {
+      "term": "ージ",
+      "count": 6
+    },
+    {
+      "term": "たコ",
+      "count": 6
+    },
+    {
+      "term": "複数",
+      "count": 6
+    },
+    {
+      "term": "イメージ",
+      "count": 6
+    },
+    {
+      "term": "影響",
+      "count": 6
+    },
+    {
+      "term": "どの",
+      "count": 6
+    },
+    {
+      "term": "があ",
+      "count": 6
+    },
+    {
+      "term": "設定",
+      "count": 6
+    },
+    {
+      "term": "合は",
+      "count": 6
+    }
+  ],
+  "meetings": [
+    {
+      "meeting": "デジタル社会推進標準ガイドライン",
+      "count": 32
+    }
+  ],
+  "doc_count": 1,
+  "chunk_count": 32
+}
