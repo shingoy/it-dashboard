@@ -2,14 +2,14 @@ name: Government IT Meeting Crawler
 
 on:
   schedule:
-    - cron: '0 9 * * *'   # 毎日 UTC 09:00 = JST 18:00
-    - cron: '0 21 * * *'  # 毎日 UTC 21:00 = JST 06:00（追加）
-  workflow_dispatch:      # 手動実行も可能
+    - cron: '0 9 * * *'  # 毎日 UTC 09:00 = JST 18:00
+    - cron: '0 21 * * *' # 毎日 UTC 21:00 = JST 06:00（追加）
+  workflow_dispatch: # 手動実行も可能
 
 jobs:
   crawl-and-build:
     runs-on: ubuntu-latest
-    timeout-minutes: 60  # 全体のタイムアウト
+    timeout-minutes: 60 # 全体のタイムアウト
     permissions:
       contents: write
     
@@ -25,24 +25,29 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
       
+      # 🆕 PDF パスを修復（既存データの整合性確保）
+      - name: Fix PDF paths
+        timeout-minutes: 2
+        run: python scripts/fix_pdf_paths.py
+        continue-on-error: true
+      
       - name: Run crawler
-        timeout-minutes: 10  # タイムアウト追加
+        timeout-minutes: 10
         run: python scripts/crawl.py
         continue-on-error: true
       
       - name: Check PDFs status
-        timeout-minutes: 5   # タイムアウト追加
+        timeout-minutes: 5
         run: python scripts/check_pdfs.py
         continue-on-error: true
       
       - name: Run extraction (incremental batch processing)
-        timeout-minutes: 30  # 50分 → 30分に短縮
+        timeout-minutes: 30
         env:
           EXTRACT_MAX_WORKERS: 1
-          BATCH_SIZE: 100       # 100に変更
+          BATCH_SIZE: 100
           PDF_TIMEOUT: 300
-          MAX_PAGES_PER_PDF: 30
-          MAX_PAGES:  500
+          MAX_PAGES: 500
         run: python scripts/extract.py
         continue-on-error: true
       
@@ -54,15 +59,26 @@ jobs:
       - name: Check generated files
         id: check_files
         run: |
-          if [ -d "public/index-shards" ] && [ "$(ls -A public/index-shards)" ]; then
-            echo "files_exist=true" >> $GITHUB_OUTPUT
-            echo "✅ Files generated successfully"
-            echo "📊 Generated files:"
-            ls -lh public/index-shards/ | head -20
-            echo "Total files: $(ls -1 public/index-shards/ | wc -l)"
+          echo "📊 Checking generated files..."
+          
+          # extracted files check
+          if [ -d "data/extracted" ]; then
+            extracted_count=$(ls -1 data/extracted/*.json 2>/dev/null | wc -l)
+            echo "✅ Extracted files: $extracted_count"
           else
+            extracted_count=0
+            echo "⚠️ No extracted directory"
+          fi
+          
+          # index shards check
+          if [ -d "public/index-shards" ] && [ "$(ls -A public/index-shards)" ]; then
+            shard_count=$(ls -1 public/index-shards/*.json 2>/dev/null | wc -l)
+            echo "✅ Index shards: $shard_count"
+            echo "files_exist=true" >> $GITHUB_OUTPUT
+            ls -lh public/index-shards/ | head -20
+          else
+            echo "⚠️ No index shards generated"
             echo "files_exist=false" >> $GITHUB_OUTPUT
-            echo "⚠️ No files generated, skipping commit"
           fi
       
       - name: Commit and push changes
@@ -71,10 +87,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public/ data/ || true
+          
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Auto-update search index (batch: 50 docs) [skip ci]"
+            git commit -m "🤖 Auto-update: data & index [skip ci]"
             git pull --rebase origin main || true
             git push origin main
             echo "✅ Changes pushed successfully"
