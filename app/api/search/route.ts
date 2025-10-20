@@ -168,13 +168,13 @@ export async function GET(request: NextRequest) {
     }
     
     // public/index-shards/ のURL（Edge Runtimeではfsが使えない）
-    const baseUrl = process.env.VERCEL_URL 
-      ? `https://${process.env.VERCEL_URL}` 
-      : 'http://localhost:3000';
-    const indexUrl = `${baseUrl}/index-shards/_index.json`;
+    // リクエストのoriginを使用
+    const origin = request.url ? new URL(request.url).origin : 'http://localhost:3000';
+    const indexUrl = `${origin}/index-shards/_index.json`;
     const indexPath = '/index-shards/_index.json';  // ログ用
     
     console.log('📂 Reading index from:', indexPath);
+    console.log('🌐 Full URL:', indexUrl);
     
     // シャードインデックス読み込み（fetch APIを使用）
     let shardIndex: ShardIndex[];
@@ -198,7 +198,7 @@ export async function GET(request: NextRequest) {
     // 関連するシャードを読み込み（最初の10個のみ）
     const shardsToLoad = shardIndex.slice(0, 10);  // メモリ制限対策
     const shardPromises = shardsToLoad.map(async (shard) => {
-      const shardUrl = `${baseUrl}/index-shards/${shard.filename}`;
+      const shardUrl = `${origin}/index-shards/${shard.filename}`;
       try {
         const response = await fetch(shardUrl);
         if (!response.ok) throw new Error('Not found');
@@ -224,7 +224,7 @@ export async function GET(request: NextRequest) {
     }
     
     // IDF辞書を別途読み込み
-    const idfUrl = `${baseUrl}/index-shards/_idf.json`;
+    const idfUrl = `${origin}/index-shards/_idf.json`;
     let idfCache: Record<string, number> = {};
     try {
       const idfResponse = await fetch(idfUrl);
