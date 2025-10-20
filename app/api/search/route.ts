@@ -15,8 +15,6 @@ interface Chunk {
   chunk_id: string;
   doc_id: string;
   text: string;
-  tokens: string[];
-  token_count: number;
   meeting: string;
   agency: string;
   title: string;
@@ -71,7 +69,7 @@ function tokenize(text: string): string[] {
   return uniqueTokens.filter(t => t.length >= 2);
 }
 
-// BM25スコア計算
+// BM25スコア計算（トークンを動的生成）
 function calculateBM25(
   queryTokens: string[],
   chunk: Chunk,
@@ -81,7 +79,9 @@ function calculateBM25(
   const avgLength = chunk.avg_length;
   const k1 = chunk.k1;
   const b = chunk.b;
-  const docTokens = chunk.tokens;
+  
+  // チャンクのテキストからトークンを動的生成
+  const docTokens = tokenize(chunk.text);
   
   // トークン頻度カウント
   const termFreq: Record<string, number> = {};
@@ -227,9 +227,7 @@ export async function GET(request: NextRequest) {
       if (shards[0].chunks.length > 0) {
         const firstChunk = shards[0].chunks[0];
         console.log('📄 First chunk info:');
-        console.log('  - has tokens:', !!firstChunk.tokens);
-        console.log('  - tokens count:', firstChunk.tokens?.length || 0);
-        console.log('  - sample tokens:', firstChunk.tokens?.slice(0, 10));
+        console.log('  - text length:', firstChunk.text?.length || 0);
         console.log('  - text preview:', firstChunk.text?.substring(0, 100));
         console.log('  - date:', firstChunk.date);
         console.log('  - date type:', typeof firstChunk.date);
@@ -316,11 +314,13 @@ export async function GET(request: NextRequest) {
       console.log('\n🔍 Debug: Checking first 3 chunks for token matches...');
       for (let i = 0; i < Math.min(3, shards[0].chunks.length); i++) {
         const chunk = shards[0].chunks[i];
+        const chunkTokens = tokenize(chunk.text);
+        
         console.log(`\nChunk ${i}:`);
         console.log('  Title:', chunk.title?.substring(0, 50));
         console.log('  Has query tokens:', queryTokens.map(t => ({
           token: t,
-          inChunk: chunk.tokens?.includes(t)
+          inChunk: chunkTokens.includes(t)
         })));
         
         // BM25計算をデバッグ
