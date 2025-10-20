@@ -109,14 +109,14 @@ class IndexBuilder:
             for i in range(0, len(group_chunks), shard_size):
                 shard_chunks = group_chunks[i:i+shard_size]
                 
-                # 検索用の軽量化チャンク（トークンを除外）
+                # 検索用の軽量化チャンク（テキストを短縮）
                 lightweight_chunks = []
                 for chunk in shard_chunks:
-                    # 検索に必要な情報のみ（トークンは除外）
+                    # 検索に必要な情報のみ（テキストは最初の500文字のみ）
                     lightweight_chunks.append({
                         'chunk_id': chunk['chunk_id'],
                         'doc_id': chunk['doc_id'],
-                        'text': chunk['text'],  # 全文を保持（検索用）
+                        'text': chunk['text'][:500],  # スニペット用に500文字のみ
                         'meeting': chunk['meeting'],
                         'agency': chunk['agency'],
                         'title': chunk['title'],
@@ -124,18 +124,20 @@ class IndexBuilder:
                         'url': chunk['url'],
                         'page_from': chunk['page_from'],
                         'page_to': chunk['page_to'],
-                        'char_count': chunk['char_count'],
-                        'avg_length': chunk['avg_length'],
-                        'k1': chunk['k1'],
-                        'b': chunk['b']
+                        'char_count': chunk['char_count']
                     })
                 
+                # BM25パラメータは共通なのでシャードレベルに保存
                 shard = {
                     'shard_id': f"{group_key}_{i//shard_size}",
                     'group': group_key,
                     'chunk_count': len(shard_chunks),
                     'chunks': lightweight_chunks,
-                    'idf': self.idf_cache  # IDF情報を含める
+                    'idf': self.idf_cache,
+                    # 共通パラメータ
+                    'avg_length': shard_chunks[0]['avg_length'],
+                    'k1': shard_chunks[0]['k1'],
+                    'b': shard_chunks[0]['b']
                 }
                 
                 shards.append(shard)
