@@ -109,16 +109,14 @@ class IndexBuilder:
             for i in range(0, len(group_chunks), shard_size):
                 shard_chunks = group_chunks[i:i+shard_size]
                 
-                # 検索用の軽量化チャンク
+                # 検索用の軽量化チャンク（トークンを除外）
                 lightweight_chunks = []
                 for chunk in shard_chunks:
-                    # 検索に必要な情報のみ
+                    # 検索に必要な情報のみ（トークンは除外）
                     lightweight_chunks.append({
                         'chunk_id': chunk['chunk_id'],
                         'doc_id': chunk['doc_id'],
                         'text': chunk['text'],  # 全文を保持（検索用）
-                        'tokens': chunk['tokens'],  # 全トークンを保持
-                        'token_count': chunk['token_count'],
                         'meeting': chunk['meeting'],
                         'agency': chunk['agency'],
                         'title': chunk['title'],
