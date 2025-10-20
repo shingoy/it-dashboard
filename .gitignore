@@ -46,7 +46,7 @@ ENV/
 dist/
 
 # Data (keep collected data but ignore cache)
-data/cache/*.pdf
+# data/cache/*.pdf
 # data/extracted/ #修正
 *.log
 
