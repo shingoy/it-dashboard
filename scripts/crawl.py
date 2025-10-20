@@ -305,12 +305,11 @@ class MeetingCrawler:
         return datetime.now().strftime('%Y-%m-%d')
     
     def download_pdf(self, doc):
-        """PDFをダウンロード（タイムアウト付き）"""
+        """PDFをダウンロード（タイムアウト付き・強制ダウンロード）"""
         pdf_path = CACHE_DIR / f"{doc['id']}.pdf"
         
-        # 既にダウンロード済みならスキップ
-        if pdf_path.exists():
-            return str(pdf_path)
+        # GitHub Actions環境では毎回ダウンロード
+        # （キャッシュが保持されないため）
         
         try:
             response = self.session.get(doc['url'], timeout=DOWNLOAD_TIMEOUT, stream=True)
@@ -338,7 +337,7 @@ class MeetingCrawler:
             return None
     
     def crawl_all(self):
-        """全会議を巡回（積極収集）"""
+        """全会議を巡回（既存文書も含めてダウンロード）"""
         all_new_documents = []
         download_count = 0
         
@@ -346,53 +345,67 @@ class MeetingCrawler:
         max_runtime = 4 * 60  # 4分で強制終了
         
         print(f"\n{'='*60}")
-        print(f"🚀 Aggressive Crawling Strategy")
+        print(f"🚀 Re-download Strategy (for GitHub Actions)")
         print(f"   Max per meeting: {MAX_DOCUMENTS_PER_MEETING}")
         print(f"   Total limit: {MAX_DOCUMENTS_PER_RUN}")
-        print(f"   Already collected: {len(self.existing_docs)}")
+        print(f"   Existing docs: {len(self.existing_docs)}")
         print(f"{'='*60}")
         
-        for agency_id, agency_config in PRESET_MEETINGS.items():
-            # タイムアウトチェック
-            if time.time() - start_time > max_runtime:
-                print(f"\n⏱️  Runtime limit reached, stopping")
+        # 既存文書から優先的にダウンロード
+        existing_to_download = list(self.existing_docs.values())[:MAX_DOCUMENTS_PER_RUN]
+        
+        print(f"\n📥 Re-downloading {len(existing_to_download)} existing documents...")
+        for doc in existing_to_download:
+            if download_count >= MAX_DOCUMENTS_PER_RUN:
                 break
             
-            print(f"\n🏛️  {agency_config['name']}")
+            pdf_path = self.download_pdf(doc)
+            if pdf_path:
+                doc['pdf_path'] = pdf_path
+                download_count += 1
+                
+                if download_count % 10 == 0:
+                    print(f"  Progress: {download_count}/{MAX_DOCUMENTS_PER_RUN}")
+        
+        # 残り枠で新規文書を探す
+        remaining_slots = MAX_DOCUMENTS_PER_RUN - download_count
+        
+        if remaining_slots > 0:
+            print(f"\n🔍 Looking for new documents (slots: {remaining_slots})...")
             
-            for meeting in agency_config['meetings']:
-                # タイムアウトチェック
+            for agency_id, agency_config in PRESET_MEETINGS.items():
                 if time.time() - start_time > max_runtime:
+                    print(f"\n⏱️  Runtime limit reached")
                     break
                 
-                # 全体の最大ダウンロード数チェック
-                if download_count >= MAX_DOCUMENTS_PER_RUN:
-                    print(f"\n⚠️  Reached run limit ({MAX_DOCUMENTS_PER_RUN})")
-                    break
+                print(f"\n🏛️  {agency_config['name']}")
                 
-                meeting['agency'] = agency_config['name']
-                documents = self.parse_meeting_list(meeting)
-                
-                # PDFをダウンロード
-                for doc in documents:
+                for meeting in agency_config['meetings']:
+                    if time.time() - start_time > max_runtime:
+                        break
                     if download_count >= MAX_DOCUMENTS_PER_RUN:
                         break
                     
-                    pdf_path = self.download_pdf(doc)
-                    if pdf_path:
-                        doc['pdf_path'] = pdf_path
-                        all_new_documents.append(doc)
-                        self.docs_cache[doc['id']] = doc
-                        download_count += 1
+                    meeting['agency'] = agency_config['name']
+                    documents = self.parse_meeting_list(meeting)
+                    
+                    for doc in documents:
+                        if download_count >= MAX_DOCUMENTS_PER_RUN:
+                            break
                         
-                        if download_count % 10 == 0:
-                            print(f"\n📊 Progress: {download_count}/{MAX_DOCUMENTS_PER_RUN}")
-                
-                time.sleep(0.3)  # レート制限対策
+                        pdf_path = self.download_pdf(doc)
+                        if pdf_path:
+                            doc['pdf_path'] = pdf_path
+                            all_new_documents.append(doc)
+                            self.docs_cache[doc['id']] = doc
+                            download_count += 1
+                    
+                    time.sleep(0.3)
         
         elapsed = time.time() - start_time
         print(f"\n{'='*60}")
         print(f"⏱️  Time: {elapsed:.1f}s")
+        print(f"📥 Re-downloaded: {download_count - len(all_new_documents)}")
         print(f"📚 New documents: {len(all_new_documents)}")
         print(f"📚 Total documents: {len(self.existing_docs) + len(all_new_documents)}")
         
