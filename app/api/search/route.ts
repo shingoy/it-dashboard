@@ -1,6 +1,6 @@
 /**
  * 検索API - BM25を使用した全文検索
- * 修正版: fs.readFileでローカルファイルを読み込み
+ * 修正版: トークン化ロジックを統一
  */
 
 import { NextRequest, NextResponse } from 'next/server';
@@ -11,8 +11,8 @@ interface Chunk {
   chunk_id: string;
   doc_id: string;
   text: string;
-  full_text: string;
   tokens: string[];
+  token_count: number;
   meeting: string;
   agency: string;
   title: string;
@@ -21,6 +21,9 @@ interface Chunk {
   page_from: number;
   page_to: number;
   char_count: number;
+  avg_length: number;
+  k1: number;
+  b: number;
 }
 
 interface Shard {
@@ -38,44 +41,32 @@ interface ShardIndex {
   chunk_count: number;
 }
 
-// 改善版トークナイザー - シャード生成側と統一
+// トークナイザー - Python側と完全に一致
 function tokenize(text: string): string[] {
-  // まず小文字化
-  const lowerText = text.toLowerCase();
   const tokens: string[] = [];
   
   // 1. 日本語トークン (2-4文字)
-  const japaneseTokens = lowerText.match(/[ぁ-んァ-ヶー一-龯]{2,4}/g) || [];
+  const japaneseTokens = text.match(/[ぁ-んァ-ヶー一-龯]{2,4}/g) || [];
   tokens.push(...japaneseTokens);
   
-  // 2. 英数字トークン (1文字以上)
-  // 「ai」「dx」などの短い単語にも対応
-  const alphanumeric = lowerText.match(/[a-z0-9]+/g) || [];
+  // 2. 英数字トークン
+  const alphanumeric = text.match(/[A-Za-z0-9]+/g) || [];
   tokens.push(...alphanumeric);
   
-  // 3. 記号を除去した単語分割も試す
-  const words = lowerText
-    .replace(/[^\w\sぁ-んァ-ヶー一-龯]/g, ' ')
-    .split(/\s+/)
-    .filter(w => w.length > 0);
-  tokens.push(...words);
-  
-  // 重複を除去
-  const uniqueTokens = [...new Set(tokens)];
-  
-  return uniqueTokens;
+  // 小文字化
+  return tokens.map(t => t.toLowerCase());
 }
 
 // BM25スコア計算
 function calculateBM25(
   queryTokens: string[],
   chunk: Chunk,
-  idf: Record<string, number>,
-  avgLength: number,
-  k1: number = 1.5,
-  b: number = 0.75
+  idf: Record<string, number>
 ): number {
   const docLength = chunk.char_count;
+  const avgLength = chunk.avg_length;
+  const k1 = chunk.k1;
+  const b = chunk.b;
   const docTokens = chunk.tokens;
   
   // トークン頻度カウント
@@ -89,7 +80,7 @@ function calculateBM25(
     const tf = termFreq[token] || 0;
     const idfValue = idf[token] || 0;
     
-    if (tf > 0) {
+    if (tf > 0 && idfValue > 0) {
       const numerator = tf * (k1 + 1);
       const denominator = tf + k1 * (1 - b + b * (docLength / avgLength));
       score += idfValue * (numerator / denominator);
@@ -171,7 +162,7 @@ export async function GET(request: NextRequest) {
     
     console.log('📂 Reading index from:', indexPath);
     
-    // シャードインデックス読み込み（ファイルシステムから）
+    // シャードインデックス読み込み
     let shardIndex: ShardIndex[];
     try {
       const indexContent = await fs.readFile(indexPath, 'utf-8');
@@ -187,14 +178,14 @@ export async function GET(request: NextRequest) {
       }, { status: 404 });
     }
     
-    // 関連するシャードを読み込み（全シャード）
+    // 関連するシャードを読み込み
     const shardPromises = shardIndex.map(async (shard) => {
       const shardPath = path.join(indexShardsDir, shard.filename);
       try {
         const shardContent = await fs.readFile(shardPath, 'utf-8');
         return JSON.parse(shardContent) as Shard;
       } catch (error) {
-        console.error('❌ Shard file not found:', shard.filename, error);
+        console.error('⚠️ Shard file not found:', shard.filename);
         return null;
       }
     });
@@ -213,15 +204,19 @@ export async function GET(request: NextRequest) {
       }, { status: 404 });
     }
     
-    // デバッグ: 最初のシャードのIDFキーをサンプル表示
-    if (shards.length > 0) {
-      const sampleIdfKeys = Object.keys(shards[0].idf).slice(0, 30);
-      console.log('🔑 Sample IDF keys from first shard:', sampleIdfKeys);
+    // デバッグ: 最初のシャードの情報
+    if (shards.length > 0 && shards[0].idf) {
+      const sampleIdfKeys = Object.keys(shards[0].idf).slice(0, 20);
+      console.log('🔑 Sample IDF keys:', sampleIdfKeys);
       
       // クエリトークンがIDFに存在するかチェック
       for (const token of queryTokens) {
-        const exists = shards.some(shard => shard.idf[token] !== undefined);
-        console.log(`🎯 Token "${token}" exists in IDF:`, exists);
+        const idfValue = shards[0].idf[token];
+        if (idfValue) {
+          console.log(`✅ Token "${token}" IDF:`, idfValue);
+        } else {
+          console.log(`⚠️ Token "${token}" not in IDF`);
+        }
       }
     }
     
@@ -229,8 +224,6 @@ export async function GET(request: NextRequest) {
     const results: Array<Chunk & { score: number; snippet: string }> = [];
     
     for (const shard of shards) {
-      const avgLength = shard.chunks.reduce((sum, c) => sum + c.char_count, 0) / shard.chunks.length;
-      
       for (const chunk of shard.chunks) {
         // 日付フィルタ
         if (chunk.date < from || chunk.date > to) continue;
@@ -242,7 +235,7 @@ export async function GET(request: NextRequest) {
         if (meetings.length > 0 && !meetings.includes(chunk.meeting)) continue;
         
         // BM25スコア計算
-        const bm25Score = calculateBM25(queryTokens, chunk, shard.idf, avgLength);
+        const bm25Score = calculateBM25(queryTokens, chunk, shard.idf);
         
         // タイトルブースト
         const titleScore = titleBoost(queryTokens, chunk.title);
@@ -253,7 +246,7 @@ export async function GET(request: NextRequest) {
           results.push({
             ...chunk,
             score: totalScore,
-            snippet: generateSnippet(chunk.full_text || chunk.text, queryTokens)
+            snippet: generateSnippet(chunk.text, queryTokens)
           });
         }
       }

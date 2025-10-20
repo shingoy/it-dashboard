@@ -1,5 +1,5 @@
 """
-検索インデックス生成スクリプト
+検索インデックス生成スクリプト（修正版）
 BM25用のインデックスとトレンド集計JSONを生成
 """
 
@@ -45,11 +45,15 @@ class IndexBuilder:
         avg_length = sum(c['char_count'] for c in chunks) / len(chunks) if chunks else 1
         
         # 各チャンクにトークンを追加
-        for chunk in chunks:
+        print("  Tokenizing chunks...")
+        for i, chunk in enumerate(chunks):
+            if i % 100 == 0 and i > 0:
+                print(f"    Progress: {i}/{len(chunks)}")
             chunk['tokens'] = self.tokenize(chunk['text'])
             chunk['token_count'] = len(chunk['tokens'])
         
         # IDF計算
+        print("  Calculating IDF...")
         total_docs = len(chunks)
         doc_freq = defaultdict(int)
         
@@ -63,6 +67,8 @@ class IndexBuilder:
             idf = math.log((total_docs - df + 0.5) / (df + 0.5) + 1)
             self.idf_cache[token] = idf
         
+        print(f"  ✓ Calculated IDF for {len(self.idf_cache)} unique tokens")
+        
         # 各チャンクのBM25用統計情報を追加
         for chunk in chunks:
             chunk['avg_length'] = avg_length
@@ -71,8 +77,8 @@ class IndexBuilder:
         
         return chunks
     
-    def create_shards(self, chunks: List[Dict], shard_size: int = 100):
-        """チャンクをシャードに分割"""
+    def create_shards(self, chunks: List[Dict], shard_size: int = 50):
+        """チャンクをシャードに分割（検索最適化版）"""
         # 会議×月でグループ化
         groups = defaultdict(list)
         
@@ -90,15 +96,16 @@ class IndexBuilder:
             for i in range(0, len(group_chunks), shard_size):
                 shard_chunks = group_chunks[i:i+shard_size]
                 
-                # 軽量化: 検索に不要なフィールドを除外
+                # 検索用の軽量化チャンク
                 lightweight_chunks = []
                 for chunk in shard_chunks:
+                    # 検索に必要な情報のみ
                     lightweight_chunks.append({
                         'chunk_id': chunk['chunk_id'],
                         'doc_id': chunk['doc_id'],
-                        'text': chunk['text'][:500],  # スニペット用に短縮
-                        'full_text': chunk['text'],  # 検索用
-                        'tokens': chunk['tokens'][:100],  # トークン数制限
+                        'text': chunk['text'],  # 全文を保持（検索用）
+                        'tokens': chunk['tokens'],  # 全トークンを保持
+                        'token_count': chunk['token_count'],
                         'meeting': chunk['meeting'],
                         'agency': chunk['agency'],
                         'title': chunk['title'],
@@ -106,7 +113,10 @@ class IndexBuilder:
                         'url': chunk['url'],
                         'page_from': chunk['page_from'],
                         'page_to': chunk['page_to'],
-                        'char_count': chunk['char_count']
+                        'char_count': chunk['char_count'],
+                        'avg_length': chunk['avg_length'],
+                        'k1': chunk['k1'],
+                        'b': chunk['b']
                     })
                 
                 shard = {
@@ -148,7 +158,13 @@ class IndexBuilder:
         with open(index_file, 'w', encoding='utf-8') as f:
             json.dump(shard_index, f, ensure_ascii=False, indent=2)
         
+        # IDF情報を別ファイルに保存
+        idf_file = INDEX_DIR / "_idf.json"
+        with open(idf_file, 'w', encoding='utf-8') as f:
+            json.dump(self.idf_cache, f, ensure_ascii=False, separators=(',', ':'))
+        
         print(f"\n✅ Saved {len(shards)} shards to {INDEX_DIR}")
+        print(f"✅ Saved IDF cache with {len(self.idf_cache)} tokens")
     
     def create_docs_meta(self):
         """ドキュメント一覧メタデータを生成"""
