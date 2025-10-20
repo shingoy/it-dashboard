@@ -2,9 +2,9 @@
   "total_documents": 57,
   "already_processed": 0,
   "batch_size": 57,
-  "successful": 9,
+  "successful": 0,
   "already_processed_in_batch": 0,
-  "failed": 48,
+  "failed": 57,
   "timeout": 0,
   "remaining": 0,
   "results": [
@@ -250,66 +250,48 @@
     },
     {
       "doc_id": "52f10031fdb559599254e23323e534a3",
-      "success": true,
-      "chunks_count": 24,
-      "keywords_count": 10,
-      "processing_time": 0.12073683738708496
+      "success": false,
+      "error": "PDF file not found"
     },
     {
       "doc_id": "d1f95f139a828538c65b3330f8867692",
-      "success": true,
-      "chunks_count": 42,
-      "keywords_count": 10,
-      "processing_time": 0.14283370971679688
+      "success": false,
+      "error": "PDF file not found"
     },
     {
       "doc_id": "0bf02b4975091c9e538e86944ae53d18",
-      "success": true,
-      "chunks_count": 4,
-      "keywords_count": 10,
-      "processing_time": 0.014308929443359375
+      "success": false,
+      "error": "PDF file not found"
     },
     {
       "doc_id": "b16f0f7b5374ea7ebb65d8bd17a2087e",
-      "success": true,
-      "chunks_count": 9,
-      "keywords_count": 10,
-      "processing_time": 0.04769277572631836
+      "success": false,
+      "error": "PDF file not found"
     },
     {
       "doc_id": "b8a69bd01b9c84cee90f95cb1097892e",
-      "success": true,
-      "chunks_count": 4,
-      "keywords_count": 10,
-      "processing_time": 0.022052764892578125
+      "success": false,
+      "error": "PDF file not found"
     },
     {
       "doc_id": "c9cf25c6695222ec0afb689e136b4f9b",
-      "success": true,
-      "chunks_count": 68,
-      "keywords_count": 10,
-      "processing_time": 0.16451811790466309
+      "success": false,
+      "error": "PDF file not found"
     },
     {
       "doc_id": "fedcd0d035642e93757e2689dacf2e33",
-      "success": true,
-      "chunks_count": 4,
-      "keywords_count": 10,
-      "processing_time": 0.03873109817504883
+      "success": false,
+      "error": "PDF file not found"
     },
     {
       "doc_id": "b6d8f863d037d8d65f0207d9c27ef3ab",
-      "success": true,
-      "chunks_count": 191,
-      "keywords_count": 0,
-      "processing_time": 0.21455597877502441
+      "success": false,
+      "error": "PDF file not found"
     },
     {
       "doc_id": "0e205dc0fc7d3135f06802ce986dbbbc",
-      "success": true,
-      "chunks_count": 9,
-      "keywords_count": 0,
-      "processing_time": 0.03661656379699707
+      "success": false,
+      "error": "PDF file not found"
     }
   ]
 }
