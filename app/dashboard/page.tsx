@@ -47,8 +47,8 @@ export default function ModernDashboard() {
   const [summarizing, setSummarizing] = useState(false);
   const [hasSearched, setHasSearched] = useState(false);
   const [showFilters, setShowFilters] = useState(false);
-  const [dateFrom, setDateFrom] = useState('2025-01-01');
-  const [dateTo, setDateTo] = useState('2025-12-31');
+  const [dateFrom, setDateFrom] = useState('2020-01-01');  // 2020年から
+  const [dateTo, setDateTo] = useState('2030-12-31');      // 2030年まで
   const [selectedAgencies, setSelectedAgencies] = useState<Set<string>>(new Set());
   const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
   const [summary, setSummary] = useState<Summary | null>(null);
@@ -90,9 +90,7 @@ export default function ModernDashboard() {
       setSearchResults(data.hits || []);
       setHasSearched(true);
       
-      if (data.hits && data.hits.length > 0) {
-        generateSummary(data.hits.slice(0, 3));
-      }
+      // 自動要約を削除（ユーザーがボタンを押したときのみ実行）
       
     } catch (error) {
       console.error('Search error:', error);
@@ -407,6 +405,40 @@ export default function ModernDashboard() {
 
         {hasSearched && !searching && searchResults.length > 0 && (
           <div style={{ paddingBottom: '3rem', display: 'flex', flexDirection: 'column', gap: '2rem' }}>
+            {/* AI要約ボタン（まだ要約していない場合） */}
+            {!summary && !summarizing && (
+              <div style={{ display: 'flex', justifyContent: 'center' }}>
+                <button
+                  onClick={() => generateSummary(searchResults.slice(0, 3))}
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '0.5rem',
+                    padding: '0.75rem 1.5rem',
+                    background: 'linear-gradient(to right, #9333ea, #c026d3)',
+                    color: 'white',
+                    borderRadius: '0.5rem',
+                    border: 'none',
+                    fontWeight: '600',
+                    cursor: 'pointer',
+                    boxShadow: '0 4px 6px -1px rgba(147, 51, 234, 0.3)',
+                    transition: 'all 0.2s'
+                  }}
+                  onMouseEnter={(e) => {
+                    e.currentTarget.style.transform = 'translateY(-2px)';
+                    e.currentTarget.style.boxShadow = '0 8px 12px -2px rgba(147, 51, 234, 0.4)';
+                  }}
+                  onMouseLeave={(e) => {
+                    e.currentTarget.style.transform = 'translateY(0)';
+                    e.currentTarget.style.boxShadow = '0 4px 6px -1px rgba(147, 51, 234, 0.3)';
+                  }}
+                >
+                  <Sparkles style={{ width: '1.25rem', height: '1.25rem' }} />
+                  AI要約を生成
+                </button>
+              </div>
+            )}
+            
             {summarizing && (
               <div style={{ backgroundColor: 'white', borderRadius: '0.75rem', border: '1px solid #e5e7eb', boxShadow: '0 1px 2px 0 rgba(0, 0, 0, 0.05)', padding: '1.5rem' }}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
