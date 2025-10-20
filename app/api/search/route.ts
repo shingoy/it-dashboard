@@ -301,6 +301,24 @@ export async function GET(request: NextRequest) {
     console.log('  Score = 0:', scoreZero);
     console.log('  Results with score > 0:', results.length);
     
+    // デバッグ: 最初のいくつかのチャンクでBM25スコアを計算
+    if (scoreZero > 0 && shards.length > 0) {
+      console.log('\n🔍 Debug: Checking first 3 chunks for token matches...');
+      for (let i = 0; i < Math.min(3, shards[0].chunks.length); i++) {
+        const chunk = shards[0].chunks[i];
+        console.log(`\nChunk ${i}:`);
+        console.log('  Title:', chunk.title?.substring(0, 50));
+        console.log('  Has query tokens:', queryTokens.map(t => ({
+          token: t,
+          inChunk: chunk.tokens?.includes(t)
+        })));
+        
+        // BM25計算をデバッグ
+        const bm25 = calculateBM25(queryTokens, chunk, shards[0].idf);
+        console.log('  BM25 score:', bm25);
+      }
+    }
+    
     // スコア順にソート
     results.sort((a, b) => b.score - a.score);
     
