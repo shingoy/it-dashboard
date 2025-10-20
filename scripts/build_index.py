@@ -133,7 +133,7 @@ class IndexBuilder:
                     'group': group_key,
                     'chunk_count': len(shard_chunks),
                     'chunks': lightweight_chunks,
-                    'idf': self.idf_cache,
+                    # IDF辞書は含めない（別ファイルに保存）
                     # 共通パラメータ
                     'avg_length': shard_chunks[0]['avg_length'],
                     'k1': shard_chunks[0]['k1'],

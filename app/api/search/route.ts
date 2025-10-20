@@ -1,20 +1,17 @@
 /**
  * 検索API - BM25を使用した全文検索
- * 修正版: トークン化ロジックを統一
+ * Edge Runtime版（サイズ制限を回避）
  */
 
 import { NextRequest, NextResponse } from 'next/server';
-import fs from 'fs/promises';
-import path from 'path';
 
-// このルートを動的にする（Vercelビルドエラー対策）
-export const dynamic = 'force-dynamic';
-export const runtime = 'nodejs';
+// Edge Runtimeを使用（サイズ制限が緩い）
+export const runtime = 'edge';
 
 interface Chunk {
   chunk_id: string;
   doc_id: string;
-  text: string;
+  text: string;  // 500文字のみ（スニペット用）
   meeting: string;
   agency: string;
   title: string;
@@ -22,10 +19,7 @@ interface Chunk {
   url: string;
   page_from: number;
   page_to: number;
-  char_count: number;
-  avg_length: number;
-  k1: number;
-  b: number;
+  char_count: number;  // 元の文字数
 }
 
 interface Shard {
@@ -33,7 +27,10 @@ interface Shard {
   group: string;
   chunk_count: number;
   chunks: Chunk[];
-  idf: Record<string, number>;
+  // idf は含まない（別ファイルから読み込み）
+  avg_length: number;
+  k1: number;
+  b: number;
 }
 
 interface ShardIndex {
@@ -69,16 +66,16 @@ function tokenize(text: string): string[] {
   return uniqueTokens.filter(t => t.length >= 2);
 }
 
-// BM25スコア計算（トークンを動的生成）
+// BM25スコア計算（トークンを動的生成、パラメータはシャードから取得）
 function calculateBM25(
   queryTokens: string[],
   chunk: Chunk,
-  idf: Record<string, number>
+  idf: Record<string, number>,
+  avgLength: number,
+  k1: number,
+  b: number
 ): number {
   const docLength = chunk.char_count;
-  const avgLength = chunk.avg_length;
-  const k1 = chunk.k1;
-  const b = chunk.b;
   
   // チャンクのテキストからトークンを動的生成
   const docTokens = tokenize(chunk.text);
@@ -170,17 +167,23 @@ export async function GET(request: NextRequest) {
       return NextResponse.json({ hits: [], count: 0 });
     }
     
-    // public/index-shards/ のパス
-    const indexShardsDir = path.join(process.cwd(), 'public', 'index-shards');
-    const indexPath = path.join(indexShardsDir, '_index.json');
+    // public/index-shards/ のURL（Edge Runtimeではfsが使えない）
+    const baseUrl = process.env.VERCEL_URL 
+      ? `https://${process.env.VERCEL_URL}` 
+      : 'http://localhost:3000';
+    const indexUrl = `${baseUrl}/index-shards/_index.json`;
+    const indexPath = '/index-shards/_index.json';  // ログ用
     
     console.log('📂 Reading index from:', indexPath);
     
-    // シャードインデックス読み込み
+    // シャードインデックス読み込み（fetch APIを使用）
     let shardIndex: ShardIndex[];
     try {
-      const indexContent = await fs.readFile(indexPath, 'utf-8');
-      shardIndex = JSON.parse(indexContent);
+      const indexResponse = await fetch(indexUrl);
+      if (!indexResponse.ok) {
+        throw new Error('Index file not found');
+      }
+      shardIndex = await indexResponse.json();
       console.log('✅ Loaded shard index:', shardIndex.length, 'shards');
     } catch (error) {
       console.error('❌ Index file not found:', error);
@@ -192,12 +195,14 @@ export async function GET(request: NextRequest) {
       }, { status: 404 });
     }
     
-    // 関連するシャードを読み込み
-    const shardPromises = shardIndex.map(async (shard) => {
-      const shardPath = path.join(indexShardsDir, shard.filename);
+    // 関連するシャードを読み込み（最初の10個のみ）
+    const shardsToLoad = shardIndex.slice(0, 10);  // メモリ制限対策
+    const shardPromises = shardsToLoad.map(async (shard) => {
+      const shardUrl = `${baseUrl}/index-shards/${shard.filename}`;
       try {
-        const shardContent = await fs.readFile(shardPath, 'utf-8');
-        return JSON.parse(shardContent) as Shard;
+        const response = await fetch(shardUrl);
+        if (!response.ok) throw new Error('Not found');
+        return await response.json() as Shard;
       } catch (error) {
         console.error('⚠️ Shard file not found:', shard.filename);
         return null;
@@ -281,8 +286,15 @@ export async function GET(request: NextRequest) {
           continue;
         }
         
-        // BM25スコア計算
-        const bm25Score = calculateBM25(queryTokens, chunk, shard.idf);
+        // BM25スコア計算（シャードの共通パラメータを使用）
+        const bm25Score = calculateBM25(
+          queryTokens, 
+          chunk, 
+          shard.idf,
+          shard.avg_length,
+          shard.k1,
+          shard.b
+        );
         
         // タイトルブースト
         const titleScore = titleBoost(queryTokens, chunk.title);
@@ -324,7 +336,14 @@ export async function GET(request: NextRequest) {
         })));
         
         // BM25計算をデバッグ
-        const bm25 = calculateBM25(queryTokens, chunk, shards[0].idf);
+        const bm25 = calculateBM25(
+          queryTokens, 
+          chunk, 
+          shards[0].idf,
+          shards[0].avg_length,
+          shards[0].k1,
+          shards[0].b
+        );
         console.log('  BM25 score:', bm25);
       }
     }
