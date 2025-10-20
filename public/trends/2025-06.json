@@ -2,203 +2,203 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "れる",
-      "count": 23
+      "term": "てい",
+      "count": 21
     },
     {
-      "term": "ロー",
-      "count": 19
-    },
-    {
-      "term": "ビル",
-      "count": 19
-    },
-    {
-      "term": "ない",
-      "count": 17
-    },
-    {
-      "term": "の保",
-      "count": 16
-    },
-    {
-      "term": "ォー",
-      "count": 16
-    },
-    {
-      "term": "ムの",
-      "count": 15
-    },
-    {
-      "term": "ムチ",
-      "count": 15
-    },
-    {
-      "term": "チー",
-      "count": 15
-    },
-    {
-      "term": "によ",
-      "count": 14
-    },
-    {
-      "term": "プロ",
-      "count": 14
-    },
-    {
-      "term": "頼性",
-      "count": 13
-    },
-    {
-      "term": "ci",
-      "count": 13
-    },
-    {
-      "term": "ラン",
-      "count": 12
-    },
-    {
-      "term": "イル",
-      "count": 12
+      "term": "利用",
+      "count": 20
     },
     {
       "term": "github",
-      "count": 12
+      "count": 17
     },
     {
-      "term": "プラット",
-      "count": 11
+      "term": "ーム",
+      "count": 16
     },
     {
-      "term": "取得",
-      "count": 11
-    },
-    {
-      "term": "用す",
-      "count": 11
-    },
-    {
-      "term": "aws",
-      "count": 11
-    },
-    {
-      "term": "具体",
-      "count": 10
-    },
-    {
-      "term": "とが",
-      "count": 10
-    },
-    {
-      "term": "のリ",
-      "count": 9
-    },
-    {
-      "term": "フェーズ",
-      "count": 8
-    },
-    {
-      "term": "リス",
-      "count": 8
-    },
-    {
-      "term": "バイ",
-      "count": 8
-    },
-    {
-      "term": "下の",
-      "count": 8
-    },
-    {
-      "term": "docker",
-      "count": 8
-    },
-    {
-      "term": "を実",
-      "count": 8
+      "term": "構成",
+      "count": 16
     },
     {
       "term": "ラッ",
+      "count": 15
+    },
+    {
+      "term": "的な",
+      "count": 15
+    },
+    {
+      "term": "脆弱",
+      "count": 15
+    },
+    {
+      "term": "ンテ",
+      "count": 15
+    },
+    {
+      "term": "いて",
+      "count": 14
+    },
+    {
+      "term": "対策",
+      "count": 12
+    },
+    {
+      "term": "ティ",
+      "count": 11
+    },
+    {
+      "term": "とす",
+      "count": 11
+    },
+    {
+      "term": "https",
+      "count": 11
+    },
+    {
+      "term": "フォ",
+      "count": 10
+    },
+    {
+      "term": "は ",
+      "count": 10
+    },
+    {
+      "term": "策 ",
+      "count": 9
+    },
+    {
+      "term": "の担",
+      "count": 9
+    },
+    {
+      "term": "る\n",
+      "count": 9
+    },
+    {
+      "term": "し ",
+      "count": 9
+    },
+    {
+      "term": "のメ",
+      "count": 9
+    },
+    {
+      "term": "and",
+      "count": 9
+    },
+    {
+      "term": "情報",
+      "count": 8
+    },
+    {
+      "term": "用い",
+      "count": 8
+    },
+    {
+      "term": "ング",
+      "count": 8
+    },
+    {
+      "term": "用し",
+      "count": 8
+    },
+    {
+      "term": "commit",
+      "count": 8
+    },
+    {
+      "term": "組織",
       "count": 7
     },
     {
-      "term": "での実行",
+      "term": "フェ",
       "count": 7
     },
     {
-      "term": "サービス",
+      "term": "内の",
       "count": 7
     },
     {
-      "term": "れば",
+      "term": "の仕",
       "count": 7
     },
     {
-      "term": "name",
+      "term": "定義",
       "count": 7
     },
     {
-      "term": "ード管理",
+      "term": "バー",
+      "count": 7
+    },
+    {
+      "term": "スキ",
+      "count": 7
+    },
+    {
+      "term": "のア",
+      "count": 7
+    },
+    {
+      "term": "ショ",
       "count": 6
     },
     {
-      "term": "ットの保",
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "含む",
+      "term": "キュ",
       "count": 6
     },
     {
-      "term": "性の",
+      "term": "理シ",
       "count": 6
     },
     {
-      "term": "フ ",
+      "term": "イン",
       "count": 6
     },
     {
-      "term": "における",
+      "term": "物と",
       "count": 6
     },
     {
-      "term": "行範",
+      "term": "ジと",
       "count": 6
     },
     {
-      "term": "方法",
+      "term": "保で",
       "count": 6
     },
     {
-      "term": "の事",
+      "term": "registry",
       "count": 6
     },
     {
-      "term": "を必",
+      "term": "ビュ",
       "count": 6
     },
     {
-      "term": "用可",
+      "term": "クを",
       "count": 6
     },
     {
-      "term": "のよ",
+      "term": "い ",
       "count": 6
     },
     {
-      "term": "tf",
-      "count": 6
+      "term": "ェー",
+      "count": 5
     },
     {
-      "term": "critical",
-      "count": 6
+      "term": "を ",
+      "count": 5
     },
     {
-      "term": "key",
-      "count": 6
-    },
-    {
-      "term": "理を含む",
+      "term": "バリ",
       "count": 5
     }
   ],
