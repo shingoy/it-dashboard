@@ -2,27 +2,31 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 27
+      "term": "ジト",
+      "count": 20
     },
     {
-      "term": "では",
+      "term": "パイプラ",
+      "count": 20
+    },
+    {
+      "term": "ロー",
       "count": 19
     },
     {
-      "term": "ci",
+      "term": "これ",
       "count": 17
     },
     {
-      "term": "サー",
+      "term": "name",
       "count": 17
     },
     {
-      "term": "れた",
-      "count": 16
+      "term": "から",
+      "count": 15
     },
     {
-      "term": "メー",
+      "term": "イメ",
       "count": 15
     },
     {
@@ -30,175 +34,171 @@
       "count": 14
     },
     {
-      "term": "イル",
+      "term": "フェ",
       "count": 14
     },
     {
-      "term": "る ",
-      "count": 14
-    },
-    {
-      "term": "ソースコ",
+      "term": "ード",
       "count": 13
     },
     {
-      "term": "とで",
-      "count": 13
-    },
-    {
-      "term": "trivy",
-      "count": 13
-    },
-    {
-      "term": "クレ",
+      "term": "トリ",
       "count": 12
     },
     {
-      "term": "えら",
+      "term": "確認",
+      "count": 12
+    },
+    {
+      "term": "可能",
+      "count": 12
+    },
+    {
+      "term": "レッ",
       "count": 11
     },
     {
-      "term": "ビルドフ",
+      "term": "メン",
       "count": 10
     },
     {
-      "term": "には",
+      "term": "の信",
       "count": 10
     },
     {
-      "term": "構成",
+      "term": "バー",
+      "count": 10
+    },
+    {
+      "term": "策 ",
       "count": 9
     },
     {
-      "term": "制限",
+      "term": "につ",
       "count": 9
     },
     {
-      "term": "に対",
+      "term": "フト",
       "count": 9
     },
     {
-      "term": "tf",
+      "term": "物の",
       "count": 9
     },
     {
-      "term": "ubuntu",
+      "term": "id",
       "count": 9
     },
     {
-      "term": "定内",
+      "term": "にお",
       "count": 8
     },
     {
-      "term": "リソ",
+      "term": "での実行",
       "count": 8
     },
     {
-      "term": "用い",
+      "term": "性が",
       "count": 8
-    },
-    {
-      "term": "らの",
-      "count": 8
-    },
-    {
-      "term": "共通",
-      "count": 7
-    },
-    {
-      "term": "リテ",
-      "count": 7
-    },
-    {
-      "term": "ェーズの",
-      "count": 7
-    },
-    {
-      "term": "つい",
-      "count": 7
-    },
-    {
-      "term": "すべ",
-      "count": 7
     },
     {
       "term": "の構",
-      "count": 7
-    },
-    {
-      "term": "連携",
-      "count": 7
+      "count": 8
     },
     {
       "term": "aws",
+      "count": 8
+    },
+    {
+      "term": "ーに",
+      "count": 8
+    },
+    {
+      "term": "のよ",
+      "count": 8
+    },
+    {
+      "term": "運用",
       "count": 7
     },
     {
-      "term": "理シ",
+      "term": "plan",
+      "count": 7
+    },
+    {
+      "term": "記述",
+      "count": 7
+    },
+    {
+      "term": "必要",
+      "count": 7
+    },
+    {
+      "term": "registry",
+      "count": 7
+    },
+    {
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "ンに",
+      "term": "ブラ",
       "count": 6
     },
     {
-      "term": "成 ",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "ス ",
+      "term": "イダ",
       "count": 6
     },
     {
-      "term": "複数",
+      "term": "定 ",
       "count": 6
     },
     {
-      "term": "の署",
+      "term": "はa",
       "count": 6
     },
     {
-      "term": "ング",
+      "term": "主体",
       "count": 6
     },
     {
-      "term": "amazon",
+      "term": "codebuild",
       "count": 6
     },
     {
-      "term": "など",
+      "term": "るよ",
       "count": 6
     },
     {
-      "term": "image",
+      "term": "リの",
       "count": 6
     },
     {
-      "term": "トを",
+      "term": "どの",
       "count": 6
     },
     {
-      "term": "checkout",
+      "term": "ても",
+      "count": 6
+    },
+    {
+      "term": "11",
+      "count": 6
+    },
+    {
+      "term": "and",
+      "count": 6
+    },
+    {
+      "term": "るs",
       "count": 6
     },
     {
       "term": "理脆",
-      "count": 5
-    },
-    {
-      "term": "ーカ",
-      "count": 5
-    },
-    {
-      "term": "理す",
-      "count": 5
-    },
-    {
-      "term": "れに",
-      "count": 5
-    },
-    {
-      "term": "プ ",
       "count": 5
     }
   ],
