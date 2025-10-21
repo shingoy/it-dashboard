@@ -2,75 +2,115 @@
   "month": "2025-10",
   "keywords": [
     {
-      "term": "条第",
-      "count": 712
-    },
-    {
       "term": "いて",
-      "count": 678
+      "count": 635
     },
     {
-      "term": "関す",
-      "count": 429
+      "term": "第5",
+      "count": 512
     },
     {
-      "term": "第6",
-      "count": 419
+      "term": "型 ",
+      "count": 374
     },
     {
-      "term": "第8",
-      "count": 329
+      "term": "デジ",
+      "count": 363
     },
     {
-      "term": "年３",
-      "count": 326
-    },
-    {
-      "term": "てい",
-      "count": 320
-    },
-    {
-      "term": "和５",
-      "count": 293
-    },
-    {
-      "term": "容概",
-      "count": 259
-    },
-    {
-      "term": "表１",
-      "count": 257
-    },
-    {
-      "term": "示通",
-      "count": 241
-    },
-    {
-      "term": "第4",
-      "count": 241
-    },
-    {
-      "term": "規則",
-      "count": 215
-    },
-    {
-      "term": "働省",
-      "count": 214
+      "term": "つい",
+      "count": 348
     },
     {
       "term": "要 ",
-      "count": 205
+      "count": 341
     },
     {
-      "term": "い ",
+      "term": "事務",
+      "count": 339
+    },
+    {
+      "term": "月1",
+      "count": 325
+    },
+    {
+      "term": "基準",
+      "count": 313
+    },
+    {
+      "term": "月2",
+      "count": 279
+    },
+    {
+      "term": "る ",
+      "count": 276
+    },
+    {
+      "term": "共通",
+      "count": 273
+    },
+    {
+      "term": "了済",
+      "count": 268
+    },
+    {
+      "term": "18",
+      "count": 258
+    },
+    {
+      "term": "について",
+      "count": 250
+    },
+    {
+      "term": "法令名",
+      "count": 249
+    },
+    {
+      "term": "関す",
+      "count": 235
+    },
+    {
+      "term": "30",
+      "count": 227
+    },
+    {
+      "term": "に対",
+      "count": 226
+    },
+    {
+      "term": "別表",
+      "count": 224
+    },
+    {
+      "term": "通省",
+      "count": 211
+    },
+    {
+      "term": "年3",
+      "count": 211
+    },
+    {
+      "term": "月ま",
+      "count": 208
+    },
+    {
+      "term": "則 ",
+      "count": 203
+    },
+    {
+      "term": "第1",
       "count": 199
     },
     {
-      "term": "員の",
-      "count": 199
+      "term": "第4",
+      "count": 195
     },
     {
-      "term": "業の",
+      "term": "和５",
+      "count": 192
+    },
+    {
+      "term": "る旨",
       "count": 189
     },
     {
@@ -78,128 +118,88 @@
       "count": 188
     },
     {
-      "term": "方法",
-      "count": 187
+      "term": "中 ",
+      "count": 182
     },
     {
-      "term": "を明",
+      "term": "産業",
       "count": 180
     },
     {
-      "term": "関する法",
-      "count": 177
-    },
-    {
-      "term": "的な",
-      "count": 173
-    },
-    {
-      "term": "届出",
-      "count": 163
-    },
-    {
-      "term": "の適",
-      "count": 159
-    },
-    {
-      "term": "書面",
-      "count": 156
-    },
-    {
-      "term": "又は",
-      "count": 156
-    },
-    {
-      "term": "福祉",
-      "count": 152
-    },
-    {
-      "term": "法第",
-      "count": 152
-    },
-    {
-      "term": "定期",
-      "count": 151
-    },
-    {
-      "term": "基準",
-      "count": 151
-    },
-    {
-      "term": "保険",
-      "count": 147
-    },
-    {
-      "term": "まえ",
-      "count": 146
-    },
-    {
-      "term": "法に",
-      "count": 144
-    },
-    {
-      "term": "の閲",
-      "count": 144
-    },
-    {
-      "term": "利用",
-      "count": 144
-    },
-    {
-      "term": "もの",
-      "count": 143
-    },
-    {
-      "term": "処理",
-      "count": 143
-    },
-    {
-      "term": "https",
-      "count": 139
-    },
-    {
-      "term": "情報",
-      "count": 139
-    },
-    {
-      "term": "イン",
-      "count": 139
+      "term": "法令",
+      "count": 179
     },
     {
       "term": "の2",
-      "count": 135
-    },
-    {
-      "term": "等の",
-      "count": 135
+      "count": 177
     },
     {
       "term": "検 ",
-      "count": 134
+      "count": 175
     },
     {
-      "term": "法人",
-      "count": 134
+      "term": "制の",
+      "count": 174
     },
     {
-      "term": "工程表に",
-      "count": 134
+      "term": "14",
+      "count": 174
     },
     {
-      "term": "実地",
-      "count": 133
+      "term": "13",
+      "count": 173
     },
     {
-      "term": "行令",
-      "count": 133
+      "term": "定リ",
+      "count": 168
     },
     {
-      "term": "業法",
-      "count": 132
+      "term": "等に",
+      "count": 163
     },
     {
-      "term": "一覧",
-      "count": 131
+      "term": "表に",
+      "count": 162
+    },
+    {
+      "term": "15",
+      "count": 162
+    },
+    {
+      "term": "法 ",
+      "count": 160
+    },
+    {
+      "term": "とと",
+      "count": 159
+    },
+    {
+      "term": "検討",
+      "count": 158
+    },
+    {
+      "term": "指定",
+      "count": 158
+    },
+    {
+      "term": "原則",
+      "count": 155
+    },
+    {
+      "term": "査 ",
+      "count": 151
+    },
+    {
+      "term": "達 ",
+      "count": 151
+    },
+    {
+      "term": "まえ",
+      "count": 150
+    },
+    {
+      "term": "責任",
+      "count": 150
     }
   ],
   "meetings": [

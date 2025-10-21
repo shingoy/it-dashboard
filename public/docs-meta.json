@@ -1,5 +1,255 @@
 [
   {
+    "doc_id": "b6bb9799f42dc0ecc8ef9dfd6ed95c9c",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／1,016KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a84dbb17/20230411_resources_standard_guidelines_guideline_05.pdf",
+    "pages": 29,
+    "chunks_count": 19
+  },
+  {
+    "doc_id": "b6d8f863d037d8d65f0207d9c27ef3ab",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_ガイドラインの英語版（仮訳） Provisional Translation of “The Guideline for Japanese Governments’ Procurements and Utilizations of Generative AI for the sake of Evolution and Innovation of Public Administration”（PDF／5,978KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/50a1f37c/20250613_resources_standard_guidelines_guideline_01.pdf",
+    "pages": 71,
+    "chunks_count": 191
+  },
+  {
+    "doc_id": "62019305b0fb8902b42946e072ce9288",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "DS-670.1 ユーザビリティガイドライン（PDF／8,726KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ae97c671/20250930_usability_guidelines.pdf",
+    "pages": 22,
+    "chunks_count": 20
+  },
+  {
+    "doc_id": "369459933c3617e8f398049bed618c5c",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／2,194KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/d4e68a9b/20250619_resources_standard_guidelines_guideline_01.pdf",
+    "pages": 116,
+    "chunks_count": 101
+  },
+  {
+    "doc_id": "06f34e0d6bf83d8dd9c2818aee4b2bd8",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_「処分通知等のデジタル化に係る基本的な考え方」Q&A（PDF／169KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ae914e95/20230411_resources_standard_guidelines_glossary_03.pdf",
+    "pages": 4,
+    "chunks_count": 4
+  },
+  {
+    "doc_id": "fd5f7c4a4a9e8d973a68e5ced90ae4a5",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／284B）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/0bb1ca1b/20250930_resources_standard_guideline_trustidentityoverview_01.pdf",
+    "pages": 6,
+    "chunks_count": 4
+  },
+  {
+    "doc_id": "728233dcc7d6c7cc106666220a5d9c5a",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_「行政手続におけるオンラインによる本人確認の手法に関するガイドライン」Q&A（PDF／387KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/c5eb2fcc/20240617_resources_standard_guidelines_glossary_01.pdf",
+    "pages": 1,
+    "chunks_count": 1
+  },
+  {
+    "doc_id": "7d16c6492f3bf68423042ef6c9ea7869",
+    "meeting": "デジタル臨時行政調査会",
+    "agency": "デジタル庁",
+    "title": "行政手続のデジタル完結に向けた工程表の策定に関する対応について（PDF／541KB）",
+    "date": "2025-10-19",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/24217e04-5169-44de-90fe-135b314e6d45/f733bb70/20230613_meeting_administrative_research_outline_17.pdf",
+    "pages": 4,
+    "chunks_count": 3
+  },
+  {
+    "doc_id": "0b0a15df7cd89c957a1b90d55dc100b2",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "サービスデザイン関連ガイドラインの読み進め方・資料の探し方（PDF／8,738KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/37043d44/20251016_how_to_use_and_find_service_design_resources.pdf",
+    "pages": 7,
+    "chunks_count": 6
+  },
+  {
+    "doc_id": "0e205dc0fc7d3135f06802ce986dbbbc",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_ガイドラインの英語版の概要（仮訳）Provisional Translation of the abstract of the Guideline（PDF／1,364KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/56fe9fb8/20250527_resources_standard_guidelines_guideline_06.pdf",
+    "pages": 4,
+    "chunks_count": 9
+  },
+  {
+    "doc_id": "59fd4957d4756fe2870e7aa1be2c0060",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "別添. CI/CDパイプラインによるInfrastructure as Code実装例（PDF／4,825KB）",
+    "date": "2025-06-30",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/2aa40167/20250630_resources_standard_guidelines_technical_report_02.pdf",
+    "pages": 41,
+    "chunks_count": 32
+  },
+  {
+    "doc_id": "a52e82dcb90a44ba579f41dbfae23481",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／751KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ef841b43/20240131_resources_standard_guidelines_guidelines_03.pdf",
+    "pages": 23,
+    "chunks_count": 15
+  },
+  {
+    "doc_id": "ea4086bfa48f08e727082693a1ccd98e",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／980KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/33f31336/20240329_resources_standard_guidelines_guideline_01.pdf",
+    "pages": 25,
+    "chunks_count": 20
+  },
+  {
+    "doc_id": "d2b584ee4cd7bae99c75861f51a2b4f4",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料（アクセシビリティ） 広報向けコンテンツチェックリスト（PDF／8,600KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ad6c9451/20251016_content_checklist_for_public_relations.pdf",
+    "pages": 7,
+    "chunks_count": 6
+  },
+  {
+    "doc_id": "9bb7a958c2412f9c32be222e7f3e30af",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／985KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/150a60b4/20220422_resources_standard_guidelines_guidebook_01.pdf",
+    "pages": 37,
+    "chunks_count": 31
+  },
+  {
+    "doc_id": "cfc2ba4cdf280ae19755b6135d09c253",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "PDF（189KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/256f01e5/20230411_resources_standard_guidelines_glossary_04.pdf",
+    "pages": 1,
+    "chunks_count": 2
+  },
+  {
+    "doc_id": "942330b3e46ce4920c504ceb1e7fa0e2",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／2,200KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/1b65a1dc/20230411_resources_standard_guidelines_guideline_01.pdf",
+    "pages": 44,
+    "chunks_count": 30
+  },
+  {
+    "doc_id": "82852646d83bf4988ff6bfe641569236",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／800KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a612d406/20250619_resources_standard_guidelines_guideline_08.pdf",
+    "pages": 49,
+    "chunks_count": 42
+  },
+  {
+    "doc_id": "ec8a538e673d953ffe193cf7997a6e13",
+    "meeting": "デジタル臨時行政調査会",
+    "agency": "デジタル庁",
+    "title": "（別表）行政手続のデジタル完結に向けた方針等（PDF／661KB）",
+    "date": "2025-10-19",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/4328c7fd/20230613_meeting_administrative_research_outline_15.pdf",
+    "pages": 60,
+    "chunks_count": 89
+  },
+  {
+    "doc_id": "3af0cf023dbe04081c43a9cd2102cb6a",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／8,444KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/573c839f/20250619_resources_standard_guidelines_guideline_03.pdf",
+    "pages": 323,
+    "chunks_count": 282
+  },
+  {
+    "doc_id": "b16f0f7b5374ea7ebb65d8bd17a2087e",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／904KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/addca50c/20250619_resources_standard_guidelines_guideline_09.pdf",
+    "pages": 14,
+    "chunks_count": 9
+  },
+  {
+    "doc_id": "b5e984c660445363cc5a2b7b0f983109",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／1,633KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/f1be078e/20220422_resources_standard_guidelines_guideline_07.pdf",
+    "pages": 67,
+    "chunks_count": 53
+  },
+  {
+    "doc_id": "5e487c969a831d5f9dca4f9826f3d228",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_ ABACの実装例-Amazon Web Services編（PDF／537KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/6cc40812/20230411_resources_standard_guidelines_glossary_01.pdf",
+    "pages": 15,
+    "chunks_count": 6
+  },
+  {
+    "doc_id": "e5b875f9c0cb09f29bafde4acd5ab33d",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "DS-672.1 ウェブアクセシビリティ広報向けガイドブック（PDF／9,316KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/6fdabcfb/20251016_web_accessibility_guide_for_public_relations.pdf",
+    "pages": 37,
+    "chunks_count": 39
+  },
+  {
+    "doc_id": "09e35e707fe16229bf3d18490cfaeb77",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "（参考）標準ガイドライン研修資料（PDF／11,657KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/67d846da/20220509_resources_standard_guidelines_guideline_07.pdf",
+    "pages": 123,
+    "chunks_count": 38
+  },
+  {
     "doc_id": "f331d7b5df3929b31716642573dba296",
     "meeting": "デジタル臨時行政調査会",
     "agency": "デジタル庁",
@@ -8,6 +258,156 @@
     "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/1c54acda/20230621_policies_digital-extraordinary-administrative-research-committee_itinerary_01.pdf",
     "pages": 338,
     "chunks_count": 1023
+  },
+  {
+    "doc_id": "8924e19b781c18e87de87f1d7774afd4",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／548KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a547f9a6/20250630_resources_standard_guidelines_technical_report_01.pdf",
+    "pages": 43,
+    "chunks_count": 36
+  },
+  {
+    "doc_id": "c9cf25c6695222ec0afb689e136b4f9b",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／6,532KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/80419aea/20250527_resources_standard_guidelines_guideline_01.pdf",
+    "pages": 61,
+    "chunks_count": 68
+  },
+  {
+    "doc_id": "9bed6e93c9a99e173079cfcd397172b5",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／599KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/9f746654/20230411_resources_standard_guidelines_guideline_07.pdf",
+    "pages": 25,
+    "chunks_count": 22
+  },
+  {
+    "doc_id": "2752a2a3dd7de5acb3f6944041150833",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／774KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/5efa5c3b/20220630_resources_standard_guidelines_guidelines_04.pdf",
+    "pages": 22,
+    "chunks_count": 17
+  },
+  {
+    "doc_id": "5a02843ac422937db718a0771275dcab",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_クラウドサービスISMAP管理策基準（PDF／235KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/669b13b5/20220630_resources_standard_guidelines_outline_03.pdf",
+    "pages": 3,
+    "chunks_count": 12
+  },
+  {
+    "doc_id": "fedcd0d035642e93757e2689dacf2e33",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_行政の進化と革新のための AI政府調達・利活用ガイドラインの概要（PDF／1,757KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/93b24a4c/20250527_resources_standard_guidelines_guideline_03.pdf",
+    "pages": 4,
+    "chunks_count": 4
+  },
+  {
+    "doc_id": "80e217298f6ef3f1ef8c7ef4d0933b99",
+    "meeting": "デジタル臨時行政調査会",
+    "agency": "デジタル庁",
+    "title": "（別表2）デジタル原則に照らした規制の一括見直しプラン（PDF／716KB）",
+    "date": "2025-10-19",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/0c5f6d94/20230314_policies_digital-extraordinary-administrative-research-committee_list_05.pdf",
+    "pages": 51,
+    "chunks_count": 107
+  },
+  {
+    "doc_id": "001585492bc8a696ddfa5b234d444203",
+    "meeting": "デジタル臨時行政調査会",
+    "agency": "デジタル庁",
+    "title": "デジタル原則を踏まえたアナログ規制の見直しに係る工程表のフォローアップ（令和4年度3月見直し期限)（PDF／1,445KB）",
+    "date": "2025-10-19",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/24217e04-5169-44de-90fe-135b314e6d45/b7466797/20230613_meeting_administrative_research_outline_13.pdf",
+    "pages": 36,
+    "chunks_count": 269
+  },
+  {
+    "doc_id": "0bf02b4975091c9e538e86944ae53d18",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料（ウェブコンテンツ） メタデータ定義サンプル（PDF／8,434KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a4771c74/20251016_metadata_definition_samples.pdf",
+    "pages": 5,
+    "chunks_count": 4
+  },
+  {
+    "doc_id": "d599b9de73060426993769a25b497c36",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／1,376KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/7e3e30b9/20240131_resources_standard_guidelines_guidelines_01.pdf",
+    "pages": 51,
+    "chunks_count": 36
+  },
+  {
+    "doc_id": "52f10031fdb559599254e23323e534a3",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "DS-680.1 ウェブサイトガイドライン（PDF／8,848KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/cbd5b6f6/20250930_website_guidelines.pdf",
+    "pages": 27,
+    "chunks_count": 24
+  },
+  {
+    "doc_id": "0df9dcc6b12e854620b81eb1f4406e76",
+    "meeting": "デジタル臨時行政調査会",
+    "agency": "デジタル庁",
+    "title": "デジタル原則に照らした規制の一括見直しプラン（PDF／1,881KB）",
+    "date": "2025-10-19",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/7f6adee4/20230314_policies_digital-extraordinary-administrative-research-committee_outline_01.pdf",
+    "pages": 23,
+    "chunks_count": 20
+  },
+  {
+    "doc_id": "76b54fb40b96e0db972f395e21859029",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_改定に向けた中間とりまとめ（令和5年度（2023年度））（PDF／2,123KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/4045b771/20240723_resources_standard_guidelines_outline_01.pdf",
+    "pages": 61,
+    "chunks_count": 30
+  },
+  {
+    "doc_id": "1d0d940594d2f75bbb2acf479cfcd0db",
+    "meeting": "デジタル臨時行政調査会",
+    "agency": "デジタル庁",
+    "title": "（別表1）デジタル原則に照らした規制の一括見直しプラン（PDF／1,167KB）",
+    "date": "2025-10-19",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/64e5c919/20230314_policies_digital-extraordinary-administrative-research-committee_list_03.pdf",
+    "pages": 139,
+    "chunks_count": 272
+  },
+  {
+    "doc_id": "eacc143d62b7449b4d8de50acb3bcdd4",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／310KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/d92a1cf2/20230411_resources_standard_guidelines_guideline_09.pdf",
+    "pages": 34,
+    "chunks_count": 26
   },
   {
     "doc_id": "7aeaed606bd41f966ed35f42fad45dcc",
@@ -30,214 +430,14 @@
     "chunks_count": 25
   },
   {
-    "doc_id": "9bb7a958c2412f9c32be222e7f3e30af",
+    "doc_id": "e52b56d7b99e84e4df23bff294869508",
     "meeting": "デジタル社会推進標準ガイドライン",
     "agency": "デジタル庁",
-    "title": "本文（PDF／985KB）",
+    "title": "参考資料_改定に向けた中間とりまとめ（令和4年度（2022年度））（PDF／3,580KB）",
     "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/150a60b4/20220422_resources_standard_guidelines_guidebook_01.pdf",
-    "pages": 37,
-    "chunks_count": 31
-  },
-  {
-    "doc_id": "2752a2a3dd7de5acb3f6944041150833",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／774KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/5efa5c3b/20220630_resources_standard_guidelines_guidelines_04.pdf",
-    "pages": 22,
-    "chunks_count": 17
-  },
-  {
-    "doc_id": "001585492bc8a696ddfa5b234d444203",
-    "meeting": "デジタル臨時行政調査会",
-    "agency": "デジタル庁",
-    "title": "デジタル原則を踏まえたアナログ規制の見直しに係る工程表のフォローアップ（令和4年度3月見直し期限)（PDF／1,445KB）",
-    "date": "2025-10-19",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/24217e04-5169-44de-90fe-135b314e6d45/b7466797/20230613_meeting_administrative_research_outline_13.pdf",
-    "pages": 36,
-    "chunks_count": 269
-  },
-  {
-    "doc_id": "62019305b0fb8902b42946e072ce9288",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "DS-670.1 ユーザビリティガイドライン（PDF／8,726KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ae97c671/20250930_usability_guidelines.pdf",
-    "pages": 22,
-    "chunks_count": 20
-  },
-  {
-    "doc_id": "b5d71d33f8d63bbff48825442e3d8d23",
-    "meeting": "デジタル臨時行政調査会",
-    "agency": "デジタル庁",
-    "title": "概要（PDF／273KB）",
-    "date": "2023-07-14",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/ac4b2432/20230714_policies_digital-extraordinary-administrative-research-committee_outline_01.pdf",
-    "pages": 2,
-    "chunks_count": 3
-  },
-  {
-    "doc_id": "52f10031fdb559599254e23323e534a3",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "DS-680.1 ウェブサイトガイドライン（PDF／8,848KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/cbd5b6f6/20250930_website_guidelines.pdf",
-    "pages": 27,
-    "chunks_count": 24
-  },
-  {
-    "doc_id": "d2b584ee4cd7bae99c75861f51a2b4f4",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "参考資料（アクセシビリティ） 広報向けコンテンツチェックリスト（PDF／8,600KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ad6c9451/20251016_content_checklist_for_public_relations.pdf",
-    "pages": 7,
-    "chunks_count": 6
-  },
-  {
-    "doc_id": "9bed6e93c9a99e173079cfcd397172b5",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／599KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/9f746654/20230411_resources_standard_guidelines_guideline_07.pdf",
-    "pages": 25,
-    "chunks_count": 22
-  },
-  {
-    "doc_id": "17265ac8b338773c0d5816ce12145031",
-    "meeting": "デジタル臨時行政調査会",
-    "agency": "デジタル庁",
-    "title": "デジタル原則を踏まえたアナログ規制（通知・通達等）の見直し方針（PDF／1,272KB）",
-    "date": "2025-10-19",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/9d9aab96/20230613_policies_digital-extraordinary-administrative-research-committee_list_14.pdf",
-    "pages": 75,
-    "chunks_count": 364
-  },
-  {
-    "doc_id": "fedcd0d035642e93757e2689dacf2e33",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "参考資料_行政の進化と革新のための AI政府調達・利活用ガイドラインの概要（PDF／1,757KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/93b24a4c/20250527_resources_standard_guidelines_guideline_03.pdf",
-    "pages": 4,
-    "chunks_count": 4
-  },
-  {
-    "doc_id": "cdd3ada7be57e37ea4c8481f636513e0",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／1,752KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/12cb1a6c/20250930_resources_standard_guideline_identityverification_01.pdf",
-    "pages": 56,
-    "chunks_count": 38
-  },
-  {
-    "doc_id": "369459933c3617e8f398049bed618c5c",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／2,194KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/d4e68a9b/20250619_resources_standard_guidelines_guideline_01.pdf",
-    "pages": 116,
-    "chunks_count": 101
-  },
-  {
-    "doc_id": "942330b3e46ce4920c504ceb1e7fa0e2",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／2,200KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/1b65a1dc/20230411_resources_standard_guidelines_guideline_01.pdf",
-    "pages": 44,
-    "chunks_count": 30
-  },
-  {
-    "doc_id": "0df9dcc6b12e854620b81eb1f4406e76",
-    "meeting": "デジタル臨時行政調査会",
-    "agency": "デジタル庁",
-    "title": "デジタル原則に照らした規制の一括見直しプラン（PDF／1,881KB）",
-    "date": "2025-10-19",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/7f6adee4/20230314_policies_digital-extraordinary-administrative-research-committee_outline_01.pdf",
-    "pages": 23,
-    "chunks_count": 20
-  },
-  {
-    "doc_id": "b8a69bd01b9c84cee90f95cb1097892e",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／286KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/4d3bf58a/20230719_resources_standard_guidelines_guideline_01.pdf",
-    "pages": 6,
-    "chunks_count": 4
-  },
-  {
-    "doc_id": "85d49d8312776e72b4b77c63d51606fc",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "DS-671.1 ユーザビリティ導入ガイドブック（PDF／10,594KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/91365885/20251016_introduction_to_usability.pdf",
-    "pages": 103,
-    "chunks_count": 111
-  },
-  {
-    "doc_id": "fd5f7c4a4a9e8d973a68e5ced90ae4a5",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／284B）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/0bb1ca1b/20250930_resources_standard_guideline_trustidentityoverview_01.pdf",
-    "pages": 6,
-    "chunks_count": 4
-  },
-  {
-    "doc_id": "8924e19b781c18e87de87f1d7774afd4",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／548KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a547f9a6/20250630_resources_standard_guidelines_technical_report_01.pdf",
-    "pages": 43,
-    "chunks_count": 36
-  },
-  {
-    "doc_id": "06f34e0d6bf83d8dd9c2818aee4b2bd8",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "参考資料_「処分通知等のデジタル化に係る基本的な考え方」Q&A（PDF／169KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ae914e95/20230411_resources_standard_guidelines_glossary_03.pdf",
-    "pages": 4,
-    "chunks_count": 4
-  },
-  {
-    "doc_id": "0e205dc0fc7d3135f06802ce986dbbbc",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "参考資料_ガイドラインの英語版の概要（仮訳）Provisional Translation of the abstract of the Guideline（PDF／1,364KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/56fe9fb8/20250527_resources_standard_guidelines_guideline_06.pdf",
-    "pages": 4,
-    "chunks_count": 9
-  },
-  {
-    "doc_id": "b16f0f7b5374ea7ebb65d8bd17a2087e",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／904KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/addca50c/20250619_resources_standard_guidelines_guideline_09.pdf",
-    "pages": 14,
-    "chunks_count": 9
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/de38e250/20230629_resources_standard_guidelines_outline_01.pdf",
+    "pages": 59,
+    "chunks_count": 41
   },
   {
     "doc_id": "f19d291a997ddaf5a6459072d2b0454a",
@@ -250,254 +450,14 @@
     "chunks_count": 3
   },
   {
-    "doc_id": "0bf02b4975091c9e538e86944ae53d18",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "参考資料（ウェブコンテンツ） メタデータ定義サンプル（PDF／8,434KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a4771c74/20251016_metadata_definition_samples.pdf",
-    "pages": 5,
-    "chunks_count": 4
-  },
-  {
-    "doc_id": "3af0cf023dbe04081c43a9cd2102cb6a",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／8,444KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/573c839f/20250619_resources_standard_guidelines_guideline_03.pdf",
-    "pages": 323,
-    "chunks_count": 282
-  },
-  {
-    "doc_id": "cdea8eae45a2bee60083653d21ccb84a",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／1,148KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/7fefc9ee/20240206_resources_standard_guidelines_guidelines_01.pdf",
-    "pages": 32,
-    "chunks_count": 27
-  },
-  {
-    "doc_id": "cfc2ba4cdf280ae19755b6135d09c253",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "PDF（189KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/256f01e5/20230411_resources_standard_guidelines_glossary_04.pdf",
-    "pages": 1,
-    "chunks_count": 2
-  },
-  {
-    "doc_id": "eacc143d62b7449b4d8de50acb3bcdd4",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／310KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/d92a1cf2/20230411_resources_standard_guidelines_guideline_09.pdf",
-    "pages": 34,
-    "chunks_count": 26
-  },
-  {
-    "doc_id": "5e487c969a831d5f9dca4f9826f3d228",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "参考資料_ ABACの実装例-Amazon Web Services編（PDF／537KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/6cc40812/20230411_resources_standard_guidelines_glossary_01.pdf",
-    "pages": 15,
-    "chunks_count": 6
-  },
-  {
-    "doc_id": "1d0d940594d2f75bbb2acf479cfcd0db",
+    "doc_id": "17265ac8b338773c0d5816ce12145031",
     "meeting": "デジタル臨時行政調査会",
     "agency": "デジタル庁",
-    "title": "（別表1）デジタル原則に照らした規制の一括見直しプラン（PDF／1,167KB）",
+    "title": "デジタル原則を踏まえたアナログ規制（通知・通達等）の見直し方針（PDF／1,272KB）",
     "date": "2025-10-19",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/64e5c919/20230314_policies_digital-extraordinary-administrative-research-committee_list_03.pdf",
-    "pages": 139,
-    "chunks_count": 272
-  },
-  {
-    "doc_id": "ea4086bfa48f08e727082693a1ccd98e",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／980KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/33f31336/20240329_resources_standard_guidelines_guideline_01.pdf",
-    "pages": 25,
-    "chunks_count": 20
-  },
-  {
-    "doc_id": "7d16c6492f3bf68423042ef6c9ea7869",
-    "meeting": "デジタル臨時行政調査会",
-    "agency": "デジタル庁",
-    "title": "行政手続のデジタル完結に向けた工程表の策定に関する対応について（PDF／541KB）",
-    "date": "2025-10-19",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/24217e04-5169-44de-90fe-135b314e6d45/f733bb70/20230613_meeting_administrative_research_outline_17.pdf",
-    "pages": 4,
-    "chunks_count": 3
-  },
-  {
-    "doc_id": "e679e180701806981ac3216948024d89",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／799KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/e5b49450/20230411_resources_standard_guidelines_guideline_03.pdf",
-    "pages": 16,
-    "chunks_count": 12
-  },
-  {
-    "doc_id": "82852646d83bf4988ff6bfe641569236",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／800KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a612d406/20250619_resources_standard_guidelines_guideline_08.pdf",
-    "pages": 49,
-    "chunks_count": 42
-  },
-  {
-    "doc_id": "7c8f47c8f79ef2123b79ebf159b8d7c5",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／404KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/2c39df54/20250619_resources_standard_guidelines_glossary_01.pdf",
-    "pages": 19,
-    "chunks_count": 14
-  },
-  {
-    "doc_id": "e52b56d7b99e84e4df23bff294869508",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "参考資料_改定に向けた中間とりまとめ（令和4年度（2022年度））（PDF／3,580KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/de38e250/20230629_resources_standard_guidelines_outline_01.pdf",
-    "pages": 59,
-    "chunks_count": 41
-  },
-  {
-    "doc_id": "95426a4accae538d03d39a24f66ec0f1",
-    "meeting": "デジタル臨時行政調査会",
-    "agency": "デジタル庁",
-    "title": "（別紙）デジタル原則に照らした規制の一括見直しプラン（PDF／2,867KB）",
-    "date": "2025-10-19",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/5d7f0bd3/20230314_policies_digital-extraordinary-administrative-research-committee_outline_02.pdf",
-    "pages": 42,
-    "chunks_count": 22
-  },
-  {
-    "doc_id": "80e217298f6ef3f1ef8c7ef4d0933b99",
-    "meeting": "デジタル臨時行政調査会",
-    "agency": "デジタル庁",
-    "title": "（別表2）デジタル原則に照らした規制の一括見直しプラン（PDF／716KB）",
-    "date": "2025-10-19",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/0c5f6d94/20230314_policies_digital-extraordinary-administrative-research-committee_list_05.pdf",
-    "pages": 51,
-    "chunks_count": 107
-  },
-  {
-    "doc_id": "d1f95f139a828538c65b3330f8867692",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "DS-680.2 ウェブコンテンツガイドライン（PDF／9,200KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a02f877e/20250930_web_content_guidelines.pdf",
-    "pages": 52,
-    "chunks_count": 42
-  },
-  {
-    "doc_id": "c9cf25c6695222ec0afb689e136b4f9b",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／6,532KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/80419aea/20250527_resources_standard_guidelines_guideline_01.pdf",
-    "pages": 61,
-    "chunks_count": 68
-  },
-  {
-    "doc_id": "09e35e707fe16229bf3d18490cfaeb77",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "（参考）標準ガイドライン研修資料（PDF／11,657KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/67d846da/20220509_resources_standard_guidelines_guideline_07.pdf",
-    "pages": 123,
-    "chunks_count": 38
-  },
-  {
-    "doc_id": "b5e984c660445363cc5a2b7b0f983109",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／1,633KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/f1be078e/20220422_resources_standard_guidelines_guideline_07.pdf",
-    "pages": 67,
-    "chunks_count": 53
-  },
-  {
-    "doc_id": "e5b875f9c0cb09f29bafde4acd5ab33d",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "DS-672.1 ウェブアクセシビリティ広報向けガイドブック（PDF／9,316KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/6fdabcfb/20251016_web_accessibility_guide_for_public_relations.pdf",
-    "pages": 37,
-    "chunks_count": 39
-  },
-  {
-    "doc_id": "b6bb9799f42dc0ecc8ef9dfd6ed95c9c",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "本文（PDF／1,016KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a84dbb17/20230411_resources_standard_guidelines_guideline_05.pdf",
-    "pages": 29,
-    "chunks_count": 19
-  },
-  {
-    "doc_id": "0b0a15df7cd89c957a1b90d55dc100b2",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "サービスデザイン関連ガイドラインの読み進め方・資料の探し方（PDF／8,738KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/37043d44/20251016_how_to_use_and_find_service_design_resources.pdf",
-    "pages": 7,
-    "chunks_count": 6
-  },
-  {
-    "doc_id": "ec8a538e673d953ffe193cf7997a6e13",
-    "meeting": "デジタル臨時行政調査会",
-    "agency": "デジタル庁",
-    "title": "（別表）行政手続のデジタル完結に向けた方針等（PDF／661KB）",
-    "date": "2025-10-19",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/4328c7fd/20230613_meeting_administrative_research_outline_15.pdf",
-    "pages": 60,
-    "chunks_count": 89
-  },
-  {
-    "doc_id": "5a02843ac422937db718a0771275dcab",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "参考資料_クラウドサービスISMAP管理策基準（PDF／235KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/669b13b5/20220630_resources_standard_guidelines_outline_03.pdf",
-    "pages": 3,
-    "chunks_count": 12
-  },
-  {
-    "doc_id": "1754bb7f7b1346e137ff0db7a8333d88",
-    "meeting": "デジタル社会推進標準ガイドライン",
-    "agency": "デジタル庁",
-    "title": "参考資料_ ABACの実装例-Microsoft Azure Active Directory編（PDF／973KB）",
-    "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a67d3e47/20230411_resources_standard_guidelines_glossary_02.pdf",
-    "pages": 12,
-    "chunks_count": 6
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/9d9aab96/20230613_policies_digital-extraordinary-administrative-research-committee_list_14.pdf",
+    "pages": 75,
+    "chunks_count": 364
   },
   {
     "doc_id": "7e4956c0c90f20ff136dc5afbc2d303a",
@@ -510,63 +470,103 @@
     "chunks_count": 9
   },
   {
-    "doc_id": "728233dcc7d6c7cc106666220a5d9c5a",
+    "doc_id": "7c8f47c8f79ef2123b79ebf159b8d7c5",
     "meeting": "デジタル社会推進標準ガイドライン",
     "agency": "デジタル庁",
-    "title": "参考資料_「行政手続におけるオンラインによる本人確認の手法に関するガイドライン」Q&A（PDF／387KB）",
+    "title": "本文（PDF／404KB）",
     "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/c5eb2fcc/20240617_resources_standard_guidelines_glossary_01.pdf",
-    "pages": 1,
-    "chunks_count": 1
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/2c39df54/20250619_resources_standard_guidelines_glossary_01.pdf",
+    "pages": 19,
+    "chunks_count": 14
   },
   {
-    "doc_id": "76b54fb40b96e0db972f395e21859029",
+    "doc_id": "1754bb7f7b1346e137ff0db7a8333d88",
     "meeting": "デジタル社会推進標準ガイドライン",
     "agency": "デジタル庁",
-    "title": "参考資料_改定に向けた中間とりまとめ（令和5年度（2023年度））（PDF／2,123KB）",
+    "title": "参考資料_ ABACの実装例-Microsoft Azure Active Directory編（PDF／973KB）",
     "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/4045b771/20240723_resources_standard_guidelines_outline_01.pdf",
-    "pages": 61,
-    "chunks_count": 30
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a67d3e47/20230411_resources_standard_guidelines_glossary_02.pdf",
+    "pages": 12,
+    "chunks_count": 6
   },
   {
-    "doc_id": "a52e82dcb90a44ba579f41dbfae23481",
+    "doc_id": "d1f95f139a828538c65b3330f8867692",
     "meeting": "デジタル社会推進標準ガイドライン",
     "agency": "デジタル庁",
-    "title": "本文（PDF／751KB）",
+    "title": "DS-680.2 ウェブコンテンツガイドライン（PDF／9,200KB）",
     "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ef841b43/20240131_resources_standard_guidelines_guidelines_03.pdf",
-    "pages": 23,
-    "chunks_count": 15
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a02f877e/20250930_web_content_guidelines.pdf",
+    "pages": 52,
+    "chunks_count": 42
   },
   {
-    "doc_id": "59fd4957d4756fe2870e7aa1be2c0060",
+    "doc_id": "85d49d8312776e72b4b77c63d51606fc",
     "meeting": "デジタル社会推進標準ガイドライン",
     "agency": "デジタル庁",
-    "title": "別添. CI/CDパイプラインによるInfrastructure as Code実装例（PDF／4,825KB）",
-    "date": "2025-06-30",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/2aa40167/20250630_resources_standard_guidelines_technical_report_02.pdf",
-    "pages": 41,
-    "chunks_count": 32
+    "title": "DS-671.1 ユーザビリティ導入ガイドブック（PDF／10,594KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/91365885/20251016_introduction_to_usability.pdf",
+    "pages": 103,
+    "chunks_count": 111
   },
   {
-    "doc_id": "b6d8f863d037d8d65f0207d9c27ef3ab",
+    "doc_id": "cdd3ada7be57e37ea4c8481f636513e0",
     "meeting": "デジタル社会推進標準ガイドライン",
     "agency": "デジタル庁",
-    "title": "参考資料_ガイドラインの英語版（仮訳） Provisional Translation of “The Guideline for Japanese Governments’ Procurements and Utilizations of Generative AI for the sake of Evolution and Innovation of Public Administration”（PDF／5,978KB）",
+    "title": "本文（PDF／1,752KB）",
     "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/50a1f37c/20250613_resources_standard_guidelines_guideline_01.pdf",
-    "pages": 71,
-    "chunks_count": 191
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/12cb1a6c/20250930_resources_standard_guideline_identityverification_01.pdf",
+    "pages": 56,
+    "chunks_count": 38
   },
   {
-    "doc_id": "d599b9de73060426993769a25b497c36",
+    "doc_id": "b5d71d33f8d63bbff48825442e3d8d23",
+    "meeting": "デジタル臨時行政調査会",
+    "agency": "デジタル庁",
+    "title": "概要（PDF／273KB）",
+    "date": "2023-07-14",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/ac4b2432/20230714_policies_digital-extraordinary-administrative-research-committee_outline_01.pdf",
+    "pages": 2,
+    "chunks_count": 3
+  },
+  {
+    "doc_id": "cdea8eae45a2bee60083653d21ccb84a",
     "meeting": "デジタル社会推進標準ガイドライン",
     "agency": "デジタル庁",
-    "title": "本文（PDF／1,376KB）",
+    "title": "本文（PDF／1,148KB）",
     "date": "2023-07-04",
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/7e3e30b9/20240131_resources_standard_guidelines_guidelines_01.pdf",
-    "pages": 51,
-    "chunks_count": 36
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/7fefc9ee/20240206_resources_standard_guidelines_guidelines_01.pdf",
+    "pages": 32,
+    "chunks_count": 27
+  },
+  {
+    "doc_id": "e679e180701806981ac3216948024d89",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／799KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/e5b49450/20230411_resources_standard_guidelines_guideline_03.pdf",
+    "pages": 16,
+    "chunks_count": 12
+  },
+  {
+    "doc_id": "b8a69bd01b9c84cee90f95cb1097892e",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／286KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/4d3bf58a/20230719_resources_standard_guidelines_guideline_01.pdf",
+    "pages": 6,
+    "chunks_count": 4
+  },
+  {
+    "doc_id": "95426a4accae538d03d39a24f66ec0f1",
+    "meeting": "デジタル臨時行政調査会",
+    "agency": "デジタル庁",
+    "title": "（別紙）デジタル原則に照らした規制の一括見直しプラン（PDF／2,867KB）",
+    "date": "2025-10-19",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/5d7f0bd3/20230314_policies_digital-extraordinary-administrative-research-committee_outline_02.pdf",
+    "pages": 42,
+    "chunks_count": 22
   }
 ]
