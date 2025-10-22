@@ -2,87 +2,95 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ジト",
+      "term": "ある",
+      "count": 25
+    },
+    {
+      "term": "その",
+      "count": 21
+    },
+    {
+      "term": "ため",
+      "count": 21
+    },
+    {
+      "term": "図 ",
       "count": 20
     },
     {
-      "term": "パイプラ",
-      "count": 20
-    },
-    {
-      "term": "ロー",
+      "term": "イル",
       "count": 19
     },
     {
-      "term": "これ",
-      "count": 17
+      "term": "ーム",
+      "count": 18
     },
     {
-      "term": "name",
-      "count": 17
-    },
-    {
-      "term": "から",
+      "term": "トフ",
       "count": 15
     },
     {
-      "term": "イメ",
-      "count": 15
-    },
-    {
-      "term": "いて",
+      "term": "ーズ",
       "count": 14
     },
     {
-      "term": "フェ",
+      "term": "とな",
       "count": 14
     },
     {
-      "term": "ード",
+      "term": "中略",
+      "count": 14
+    },
+    {
+      "term": "とで",
       "count": 13
     },
     {
-      "term": "トリ",
+      "term": "シークレ",
       "count": 12
     },
     {
-      "term": "確認",
+      "term": "およ",
       "count": 12
     },
     {
-      "term": "可能",
+      "term": "れら",
       "count": 12
     },
     {
-      "term": "レッ",
+      "term": "チームの",
       "count": 11
     },
     {
-      "term": "メン",
-      "count": 10
+      "term": "存物",
+      "count": 11
     },
     {
-      "term": "の信",
-      "count": 10
+      "term": "上で",
+      "count": 11
+    },
+    {
+      "term": "の実",
+      "count": 11
     },
     {
       "term": "バー",
+      "count": 11
+    },
+    {
+      "term": "定し",
       "count": 10
     },
     {
-      "term": "策 ",
-      "count": 9
+      "term": "スキ",
+      "count": 10
     },
     {
-      "term": "につ",
-      "count": 9
+      "term": "でき",
+      "count": 10
     },
     {
-      "term": "フト",
-      "count": 9
-    },
-    {
-      "term": "物の",
+      "term": "のリ",
       "count": 9
     },
     {
@@ -90,116 +98,108 @@
       "count": 9
     },
     {
-      "term": "にお",
+      "term": "及び",
       "count": 8
     },
     {
-      "term": "での実行",
+      "term": "ョン",
       "count": 8
     },
     {
-      "term": "性が",
+      "term": "有の",
       "count": 8
     },
     {
-      "term": "の構",
+      "term": "リス",
       "count": 8
     },
     {
-      "term": "aws",
+      "term": "スク",
       "count": 8
     },
     {
-      "term": "ーに",
+      "term": "可能",
       "count": 8
     },
     {
-      "term": "のよ",
-      "count": 8
-    },
-    {
-      "term": "運用",
+      "term": "の漏",
       "count": 7
     },
     {
-      "term": "plan",
+      "term": "すべ",
       "count": 7
+    },
+    {
+      "term": "考えられ",
+      "count": 7
+    },
+    {
+      "term": "ると",
+      "count": 7
+    },
+    {
+      "term": "および",
+      "count": 7
+    },
+    {
+      "term": "name",
+      "count": 7
+    },
+    {
+      "term": "コー",
+      "count": 6
+    },
+    {
+      "term": "code",
+      "count": 6
+    },
+    {
+      "term": "ロバ",
+      "count": 6
+    },
+    {
+      "term": "ス ",
+      "count": 6
+    },
+    {
+      "term": "囲の",
+      "count": 6
+    },
+    {
+      "term": "ジと",
+      "count": 6
+    },
+    {
+      "term": "対す",
+      "count": 6
     },
     {
       "term": "記述",
-      "count": 7
-    },
-    {
-      "term": "必要",
-      "count": 7
-    },
-    {
-      "term": "registry",
-      "count": 7
-    },
-    {
-      "term": "セキ",
       "count": 6
     },
     {
-      "term": "ブラ",
+      "term": "ンテ",
       "count": 6
     },
     {
-      "term": "した",
+      "term": "のg",
       "count": 6
     },
     {
-      "term": "イダ",
+      "term": "影響",
       "count": 6
     },
     {
-      "term": "定 ",
+      "term": "用可",
       "count": 6
     },
     {
-      "term": "はa",
-      "count": 6
-    },
-    {
-      "term": "主体",
-      "count": 6
-    },
-    {
-      "term": "codebuild",
-      "count": 6
-    },
-    {
-      "term": "るよ",
-      "count": 6
-    },
-    {
-      "term": "リの",
-      "count": 6
-    },
-    {
-      "term": "どの",
-      "count": 6
-    },
-    {
-      "term": "ても",
-      "count": 6
-    },
-    {
-      "term": "11",
-      "count": 6
-    },
-    {
-      "term": "and",
+      "term": "る ",
       "count": 6
     },
     {
       "term": "るs",
       "count": 6
-    },
-    {
-      "term": "理脆",
-      "count": 5
     }
   ],
   "meetings": [
