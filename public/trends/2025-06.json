@@ -2,204 +2,204 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "デー",
-      "count": 17
+      "term": "して",
+      "count": 27
     },
     {
-      "term": "れた",
+      "term": "ため",
+      "count": 22
+    },
+    {
+      "term": "ード",
+      "count": 21
+    },
+    {
+      "term": "され",
+      "count": 21
+    },
+    {
+      "term": "ソー",
       "count": 16
     },
     {
-      "term": "ーク",
+      "term": "実行",
+      "count": 16
+    },
+    {
+      "term": "脆弱",
       "count": 15
     },
     {
-      "term": "なる",
-      "count": 15
-    },
-    {
-      "term": "があ",
+      "term": "いて",
       "count": 14
     },
     {
-      "term": "頼性",
-      "count": 13
-    },
-    {
-      "term": "ムの",
-      "count": 13
-    },
-    {
-      "term": "確認",
-      "count": 13
-    },
-    {
-      "term": "リポジト",
-      "count": 12
-    },
-    {
-      "term": "こで",
-      "count": 12
-    },
-    {
       "term": "スコ",
+      "count": 14
+    },
+    {
+      "term": "プロ",
+      "count": 14
+    },
+    {
+      "term": "きる",
+      "count": 14
+    },
+    {
+      "term": "った",
+      "count": 14
+    },
+    {
+      "term": "これ",
+      "count": 13
+    },
+    {
+      "term": "ント",
+      "count": 12
+    },
+    {
+      "term": "範囲",
       "count": 11
     },
     {
-      "term": "ci",
+      "term": "えら",
       "count": 11
     },
     {
-      "term": "依存物の",
-      "count": 11
-    },
-    {
-      "term": "環境",
-      "count": 11
-    },
-    {
-      "term": "状態",
-      "count": 11
-    },
-    {
-      "term": "com",
-      "count": 11
-    },
-    {
-      "term": "ビルドフ",
+      "term": "性の",
       "count": 10
     },
     {
-      "term": "管理",
+      "term": "の信",
       "count": 10
     },
     {
-      "term": "定し",
+      "term": "ルの",
       "count": 10
     },
     {
-      "term": "を用",
+      "term": "イメージ",
       "count": 10
     },
     {
-      "term": "ービ",
+      "term": "内で",
       "count": 10
     },
     {
-      "term": "コンテナ",
-      "count": 10
-    },
-    {
-      "term": "git",
-      "count": 10
-    },
-    {
-      "term": "code",
+      "term": "の確",
       "count": 9
     },
     {
-      "term": "ウェ",
+      "term": "本書",
       "count": 9
     },
     {
-      "term": "弱性",
-      "count": 8
+      "term": "より",
+      "count": 9
     },
     {
-      "term": "スト",
-      "count": 8
+      "term": "and",
+      "count": 9
     },
     {
-      "term": "囲の",
+      "term": "定内",
       "count": 8
-    },
-    {
-      "term": "デリ",
-      "count": 8
-    },
-    {
-      "term": "書で",
-      "count": 8
-    },
-    {
-      "term": "ャン",
-      "count": 8
-    },
-    {
-      "term": "とい",
-      "count": 8
-    },
-    {
-      "term": "ァイ",
-      "count": 8
-    },
-    {
-      "term": "示す",
-      "count": 7
     },
     {
       "term": "ョン",
+      "count": 8
+    },
+    {
+      "term": "通し",
+      "count": 8
+    },
+    {
+      "term": "スク",
+      "count": 8
+    },
+    {
+      "term": "を実",
+      "count": 8
+    },
+    {
+      "term": "洩対",
       "count": 7
     },
     {
-      "term": "よる",
+      "term": "の漏",
       "count": 7
     },
     {
-      "term": "フェーズ",
+      "term": "組織",
       "count": 7
     },
     {
-      "term": "ンバ",
+      "term": "チー",
       "count": 7
     },
     {
-      "term": "仕組",
+      "term": "る主",
       "count": 7
     },
     {
-      "term": "が考",
+      "term": "における",
       "count": 7
     },
     {
-      "term": "ド管",
+      "term": "生成",
+      "count": 7
+    },
+    {
+      "term": "のリ",
       "count": 6
     },
     {
-      "term": "具体的な",
+      "term": "等の",
       "count": 6
     },
     {
-      "term": "ード管理",
+      "term": "得し",
       "count": 6
     },
     {
-      "term": "ュリ",
-      "count": 6
-    },
-    {
-      "term": "ンに",
-      "count": 6
-    },
-    {
-      "term": "リテ",
-      "count": 6
-    },
-    {
-      "term": "関連",
-      "count": 6
-    },
-    {
-      "term": "どの",
-      "count": 6
-    },
-    {
-      "term": "される",
+      "term": "ムは",
       "count": 6
     },
     {
       "term": "対し",
       "count": 6
+    },
+    {
+      "term": "secrets",
+      "count": 6
+    },
+    {
+      "term": "tf",
+      "count": 6
+    },
+    {
+      "term": "name",
+      "count": 6
+    },
+    {
+      "term": "合は",
+      "count": 6
+    },
+    {
+      "term": "ケー",
+      "count": 5
+    },
+    {
+      "term": "理を含む",
+      "count": 5
+    },
+    {
+      "term": "運用保守",
+      "count": 5
+    },
+    {
+      "term": "ソースコ",
+      "count": 5
     }
   ],
   "meetings": [
