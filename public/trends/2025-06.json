@@ -2,204 +2,204 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "こと",
-      "count": 25
-    },
-    {
-      "term": "した",
-      "count": 24
-    },
-    {
-      "term": "パイ",
-      "count": 21
-    },
-    {
-      "term": "ファ",
-      "count": 20
-    },
-    {
-      "term": "ァイ",
-      "count": 19
-    },
-    {
-      "term": "ci",
+      "term": "デー",
       "count": 17
     },
     {
+      "term": "れた",
+      "count": 16
+    },
+    {
+      "term": "ーク",
+      "count": 15
+    },
+    {
+      "term": "なる",
+      "count": 15
+    },
+    {
+      "term": "があ",
+      "count": 14
+    },
+    {
+      "term": "頼性",
+      "count": 13
+    },
+    {
+      "term": "ムの",
+      "count": 13
+    },
+    {
+      "term": "確認",
+      "count": 13
+    },
+    {
+      "term": "リポジト",
+      "count": 12
+    },
+    {
+      "term": "こで",
+      "count": 12
+    },
+    {
       "term": "スコ",
-      "count": 14
-    },
-    {
-      "term": "ソー",
-      "count": 14
-    },
-    {
-      "term": "イル",
-      "count": 13
-    },
-    {
-      "term": "の安",
-      "count": 13
-    },
-    {
-      "term": "護 ",
-      "count": 12
-    },
-    {
-      "term": "サービス",
-      "count": 12
-    },
-    {
-      "term": "ズの",
       "count": 11
     },
     {
-      "term": "とす",
+      "term": "ci",
       "count": 11
     },
     {
-      "term": "存物",
+      "term": "依存物の",
       "count": 11
     },
     {
-      "term": "とで",
+      "term": "環境",
       "count": 11
     },
     {
-      "term": "考え",
+      "term": "状態",
       "count": 11
     },
     {
-      "term": "加え",
+      "term": "com",
       "count": 11
+    },
+    {
+      "term": "ビルドフ",
+      "count": 10
+    },
+    {
+      "term": "管理",
+      "count": 10
+    },
+    {
+      "term": "定し",
+      "count": 10
+    },
+    {
+      "term": "を用",
+      "count": 10
+    },
+    {
+      "term": "ービ",
+      "count": 10
+    },
+    {
+      "term": "コンテナ",
+      "count": 10
+    },
+    {
+      "term": "git",
+      "count": 10
     },
     {
       "term": "code",
-      "count": 10
-    },
-    {
-      "term": "チー",
-      "count": 10
-    },
-    {
-      "term": "にも",
       "count": 9
     },
     {
-      "term": "され",
+      "term": "ウェ",
       "count": 9
     },
     {
-      "term": "action",
-      "count": 9
+      "term": "弱性",
+      "count": 8
     },
     {
       "term": "スト",
       "count": 8
     },
     {
-      "term": "定し",
+      "term": "囲の",
       "count": 8
     },
     {
-      "term": "デー",
+      "term": "デリ",
       "count": 8
     },
     {
-      "term": "メタデー",
+      "term": "書で",
       "count": 8
     },
     {
-      "term": "いう",
+      "term": "ャン",
       "count": 8
+    },
+    {
+      "term": "とい",
+      "count": 8
+    },
+    {
+      "term": "ァイ",
+      "count": 8
+    },
+    {
+      "term": "示す",
+      "count": 7
+    },
+    {
+      "term": "ョン",
+      "count": 7
+    },
+    {
+      "term": "よる",
+      "count": 7
+    },
+    {
+      "term": "フェーズ",
+      "count": 7
+    },
+    {
+      "term": "ンバ",
+      "count": 7
+    },
+    {
+      "term": "仕組",
+      "count": 7
     },
     {
       "term": "が考",
-      "count": 8
-    },
-    {
-      "term": "関す",
       "count": 7
     },
     {
-      "term": "るま",
-      "count": 7
-    },
-    {
-      "term": "ジを",
-      "count": 7
-    },
-    {
-      "term": "にす",
-      "count": 7
-    },
-    {
-      "term": "のよ",
-      "count": 7
-    },
-    {
-      "term": "とは",
-      "count": 7
-    },
-    {
-      "term": "と同",
-      "count": 7
-    },
-    {
-      "term": "ート",
+      "term": "ド管",
       "count": 6
     },
     {
-      "term": "のリ",
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "の保護",
+      "term": "ード管理",
       "count": 6
     },
     {
-      "term": "信頼性の",
+      "term": "ュリ",
       "count": 6
     },
     {
-      "term": "イダ",
+      "term": "ンに",
       "count": 6
     },
     {
-      "term": "の署",
+      "term": "リテ",
       "count": 6
     },
     {
-      "term": "完全",
+      "term": "関連",
       "count": 6
     },
     {
-      "term": "のs",
+      "term": "どの",
       "count": 6
     },
     {
-      "term": "rulesets",
+      "term": "される",
       "count": 6
     },
     {
-      "term": "る ",
+      "term": "対し",
       "count": 6
-    },
-    {
-      "term": "を指",
-      "count": 6
-    },
-    {
-      "term": "scanners",
-      "count": 6
-    },
-    {
-      "term": "ラン",
-      "count": 5
-    },
-    {
-      "term": "26",
-      "count": 5
     }
   ],
   "meetings": [
