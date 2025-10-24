@@ -2,167 +2,163 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "きる",
-      "count": 21
+      "term": "aws",
+      "count": 19
     },
     {
-      "term": "とし",
-      "count": 18
-    },
-    {
-      "term": "には",
+      "term": "ci",
       "count": 17
     },
     {
-      "term": "弱性",
+      "term": "って",
+      "count": 16
+    },
+    {
+      "term": "また",
       "count": 15
     },
     {
-      "term": "から",
-      "count": 15
-    },
-    {
-      "term": "テナ",
-      "count": 15
-    },
-    {
-      "term": "スコ",
+      "term": "内容",
       "count": 14
     },
     {
-      "term": "によ",
+      "term": "いて",
+      "count": 14
+    },
+    {
+      "term": "フォ",
+      "count": 14
+    },
+    {
+      "term": "プロ",
+      "count": 14
+    },
+    {
+      "term": "頼性",
+      "count": 13
+    },
+    {
+      "term": "のた",
+      "count": 13
+    },
+    {
+      "term": "ンテ",
+      "count": 13
+    },
+    {
+      "term": "レッ",
       "count": 12
     },
     {
-      "term": "つい",
-      "count": 11
-    },
-    {
-      "term": "安全性の",
-      "count": 11
-    },
-    {
-      "term": "の安",
-      "count": 11
-    },
-    {
-      "term": "保 ",
-      "count": 10
-    },
-    {
-      "term": "ー ",
-      "count": 10
-    },
-    {
       "term": "のメ",
-      "count": 10
-    },
-    {
-      "term": "メン",
-      "count": 9
+      "count": 12
     },
     {
       "term": "ンチ",
+      "count": 10
+    },
+    {
+      "term": "提供",
+      "count": 10
+    },
+    {
+      "term": "チームの",
       "count": 9
     },
     {
-      "term": "プラット",
+      "term": "ェア",
       "count": 9
+    },
+    {
+      "term": "ンa",
+      "count": 9
+    },
+    {
+      "term": "成さ",
+      "count": 9
+    },
+    {
+      "term": "アク",
+      "count": 9
+    },
+    {
+      "term": "指定",
+      "count": 9
+    },
+    {
+      "term": "action",
+      "count": 9
+    },
+    {
+      "term": "定内",
+      "count": 8
+    },
+    {
+      "term": "テム",
+      "count": 8
+    },
+    {
+      "term": "ョン",
+      "count": 8
+    },
+    {
+      "term": "いう",
+      "count": 8
+    },
+    {
+      "term": "漏洩",
+      "count": 7
+    },
+    {
+      "term": "洩対",
+      "count": 7
+    },
+    {
+      "term": "情報",
+      "count": 7
     },
     {
       "term": "れて",
-      "count": 9
-    },
-    {
-      "term": "通し",
-      "count": 8
-    },
-    {
-      "term": "策 ",
-      "count": 8
-    },
-    {
-      "term": "存物",
-      "count": 8
-    },
-    {
-      "term": "定の",
-      "count": 8
-    },
-    {
-      "term": "対象",
-      "count": 8
-    },
-    {
-      "term": "が考",
-      "count": 8
-    },
-    {
-      "term": "の対",
-      "count": 8
-    },
-    {
-      "term": "組み",
-      "count": 8
-    },
-    {
-      "term": "共通",
       "count": 7
     },
     {
-      "term": "資産",
-      "count": 7
-    },
-    {
-      "term": "よう",
-      "count": 7
-    },
-    {
-      "term": "図 ",
-      "count": 7
-    },
-    {
-      "term": "チの",
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "ージ",
+      "term": "ド成",
       "count": 6
     },
     {
-      "term": "した",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "リ時",
+      "term": "プロバイ",
       "count": 6
     },
     {
-      "term": "ルと",
+      "term": "イダ",
       "count": 6
     },
     {
-      "term": "はa",
+      "term": "複数",
       "count": 6
     },
     {
-      "term": "物と",
+      "term": "タデータ",
       "count": 6
     },
     {
-      "term": "ジと",
+      "term": "要がある",
       "count": 6
     },
     {
-      "term": "取り",
+      "term": "にて",
       "count": 6
     },
     {
-      "term": "策に",
-      "count": 6
-    },
-    {
-      "term": "の変",
+      "term": "次に",
       "count": 6
     },
     {
@@ -170,35 +166,39 @@
       "count": 6
     },
     {
-      "term": "運用",
+      "term": "ビス",
+      "count": 6
+    },
+    {
+      "term": "実装",
       "count": 5
     },
     {
-      "term": "での",
+      "term": "性管",
       "count": 5
     },
     {
-      "term": "変更",
+      "term": "護 ",
       "count": 5
     },
     {
-      "term": "のソ",
+      "term": "cd",
       "count": 5
     },
     {
-      "term": "理す",
+      "term": "ード",
       "count": 5
     },
     {
-      "term": "特有",
+      "term": "リフ",
       "count": 5
     },
     {
-      "term": "配布",
+      "term": "証跡",
       "count": 5
     },
     {
-      "term": "るサ",
+      "term": "の保護",
       "count": 5
     }
   ],
