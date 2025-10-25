@@ -2,63 +2,51 @@
   "month": "2023-06",
   "keywords": [
     {
-      "term": "月３",
-      "count": 618
+      "term": "月 ",
+      "count": 776
     },
     {
-      "term": "別表",
-      "count": 593
+      "term": "又は",
+      "count": 701
     },
     {
-      "term": "条第",
-      "count": 581
+      "term": "項 ",
+      "count": 553
     },
     {
-      "term": "共通",
-      "count": 502
+      "term": "行規",
+      "count": 538
     },
     {
-      "term": "等に",
-      "count": 438
+      "term": "正 ",
+      "count": 488
     },
     {
-      "term": "否 ",
-      "count": 438
+      "term": "第4",
+      "count": 457
     },
     {
       "term": "項の",
-      "count": 437
+      "count": 439
     },
     {
-      "term": "省 ",
-      "count": 417
+      "term": "号 ",
+      "count": 429
     },
     {
-      "term": "内容",
-      "count": 389
+      "term": "月３",
+      "count": 382
     },
     {
-      "term": "制等",
-      "count": 386
+      "term": "別表",
+      "count": 378
     },
     {
-      "term": "要否",
-      "count": 365
+      "term": "条 ",
+      "count": 342
     },
     {
-      "term": "規制",
-      "count": 362
-    },
-    {
-      "term": "通 ",
-      "count": 356
-    },
-    {
-      "term": "項第",
-      "count": 320
-    },
-    {
-      "term": "指定",
+      "term": "の ",
       "count": 316
     },
     {
@@ -66,63 +54,75 @@
       "count": 315
     },
     {
-      "term": "は改正",
+      "term": "項目のア",
       "count": 314
     },
     {
-      "term": "施行",
-      "count": 309
+      "term": "知通",
+      "count": 314
     },
     {
-      "term": "則適",
-      "count": 306
+      "term": "性が",
+      "count": 308
     },
     {
-      "term": "きて",
-      "count": 301
+      "term": "法律",
+      "count": 304
     },
     {
-      "term": "直後",
-      "count": 297
+      "term": "見 ",
+      "count": 300
     },
     {
-      "term": "つ現",
-      "count": 293
+      "term": "が確保で",
+      "count": 296
     },
     {
-      "term": "和４",
-      "count": 281
+      "term": "直しを要",
+      "count": 292
     },
     {
-      "term": "制 ",
-      "count": 281
+      "term": "及び",
+      "count": 288
     },
     {
-      "term": "法 ",
-      "count": 263
+      "term": "達等",
+      "count": 283
     },
     {
-      "term": "の発",
+      "term": "令改",
       "count": 260
     },
     {
-      "term": "第 ",
+      "term": "が確",
       "count": 253
     },
     {
-      "term": "の1",
-      "count": 245
-    },
-    {
-      "term": "ずと",
+      "term": "法 ",
       "count": 244
     },
     {
-      "term": "経済",
-      "count": 231
+      "term": "概要",
+      "count": 240
     },
     {
-      "term": "業者",
+      "term": "は改",
+      "count": 238
+    },
+    {
+      "term": "等に",
+      "count": 236
+    },
+    {
+      "term": "一覧",
+      "count": 234
+    },
+    {
+      "term": "月６",
+      "count": 229
+    },
+    {
+      "term": "第 ",
       "count": 214
     },
     {
@@ -130,76 +130,76 @@
       "count": 212
     },
     {
-      "term": "アナ",
-      "count": 212
+      "term": "18",
+      "count": 205
     },
     {
-      "term": "要さ",
-      "count": 210
+      "term": "グ規",
+      "count": 202
     },
     {
-      "term": "規 ",
-      "count": 210
+      "term": "働省",
+      "count": 197
     },
     {
-      "term": "度 ",
-      "count": 208
+      "term": "経済",
+      "count": 195
     },
     {
-      "term": "管理",
-      "count": 200
+      "term": "務省",
+      "count": 192
     },
     {
-      "term": "業省",
-      "count": 196
-    },
-    {
-      "term": "項 ",
-      "count": 194
-    },
-    {
-      "term": "目の",
-      "count": 187
-    },
-    {
-      "term": "媒体",
-      "count": 186
-    },
-    {
-      "term": "直しを要",
-      "count": 184
-    },
-    {
-      "term": "19",
-      "count": 184
+      "term": "和６",
+      "count": 188
     },
     {
       "term": "ー ",
       "count": 182
     },
     {
-      "term": "目視ー共",
-      "count": 181
-    },
-    {
-      "term": "条項",
-      "count": 181
-    },
-    {
-      "term": "知通",
+      "term": "確保",
       "count": 176
     },
     {
-      "term": "及び",
-      "count": 176
-    },
-    {
-      "term": "設備",
-      "count": 174
-    },
-    {
-      "term": "見直",
+      "term": "しを",
       "count": 173
+    },
+    {
+      "term": "業省",
+      "count": 169
+    },
+    {
+      "term": "縦覧",
+      "count": 168
+    },
+    {
+      "term": "てい",
+      "count": 165
+    },
+    {
+      "term": "よる",
+      "count": 164
+    },
+    {
+      "term": "点検対象",
+      "count": 162
+    },
+    {
+      "term": "共通",
+      "count": 161
+    },
+    {
+      "term": "名 ",
+      "count": 161
+    },
+    {
+      "term": "閲覧縦覧",
+      "count": 161
+    },
+    {
+      "term": "訪閲",
+      "count": 161
     }
   ],
   "meetings": [
