@@ -2,103 +2,131 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "する",
-      "count": 25
+      "term": "プラ",
+      "count": 22
     },
     {
-      "term": "ーム",
+      "term": "構成",
+      "count": 21
+    },
+    {
+      "term": "果物",
+      "count": 20
+    },
+    {
+      "term": "ルド",
       "count": 17
     },
     {
-      "term": "脆弱",
+      "term": "これ",
+      "count": 17
+    },
+    {
+      "term": "トフ",
       "count": 15
     },
     {
-      "term": "メー",
+      "term": "ーク",
       "count": 15
     },
     {
-      "term": "全性",
-      "count": 14
+      "term": "ーズ",
+      "count": 15
     },
     {
-      "term": "ては",
-      "count": 14
+      "term": "フェ",
+      "count": 15
     },
     {
-      "term": "ント",
+      "term": "パイ",
+      "count": 15
+    },
+    {
+      "term": "ール",
+      "count": 15
+    },
+    {
+      "term": "ソースコ",
+      "count": 13
+    },
+    {
+      "term": "情報",
       "count": 12
     },
     {
-      "term": "った",
+      "term": "護 ",
       "count": 12
     },
     {
-      "term": "可能",
+      "term": "ドフ",
       "count": 12
     },
     {
-      "term": "につ",
+      "term": "ース",
+      "count": 12
+    },
+    {
+      "term": "ティ",
       "count": 11
     },
     {
-      "term": "依存物の",
+      "term": "制限",
       "count": 11
-    },
-    {
-      "term": "10",
-      "count": 11
-    },
-    {
-      "term": "com",
-      "count": 11
-    },
-    {
-      "term": "ナリ",
-      "count": 10
-    },
-    {
-      "term": "る\n",
-      "count": 10
-    },
-    {
-      "term": "ルの",
-      "count": 10
-    },
-    {
-      "term": "セス",
-      "count": 10
-    },
-    {
-      "term": "ここ",
-      "count": 10
-    },
-    {
-      "term": "の制",
-      "count": 9
-    },
-    {
-      "term": "デリ",
-      "count": 9
     },
     {
       "term": "範囲",
+      "count": 11
+    },
+    {
+      "term": "チェ",
+      "count": 11
+    },
+    {
+      "term": "の設",
+      "count": 11
+    },
+    {
+      "term": "具体",
+      "count": 10
+    },
+    {
+      "term": "ブラ",
+      "count": 10
+    },
+    {
+      "term": "ー ",
+      "count": 10
+    },
+    {
+      "term": "ンテ",
+      "count": 10
+    },
+    {
+      "term": "は ",
+      "count": 10
+    },
+    {
+      "term": "含む",
       "count": 9
     },
     {
-      "term": "ーを",
+      "term": "策 ",
       "count": 9
     },
     {
-      "term": "with",
+      "term": "の確",
       "count": 9
     },
     {
-      "term": "カル",
-      "count": 8
+      "term": "以外",
+      "count": 9
     },
     {
-      "term": "によ",
+      "term": "outputs",
+      "count": 9
+    },
+    {
+      "term": "ーカ",
       "count": 8
     },
     {
@@ -106,51 +134,31 @@
       "count": 8
     },
     {
-      "term": "トウ",
+      "term": "commit",
       "count": 8
     },
     {
-      "term": "とで",
-      "count": 8
-    },
-    {
-      "term": "ャン",
-      "count": 8
-    },
-    {
-      "term": "ェーズの",
+      "term": "の成",
       "count": 7
     },
     {
-      "term": "トに",
+      "term": "を実",
       "count": 7
     },
     {
-      "term": "パイプラ",
-      "count": 7
-    },
-    {
-      "term": "なお",
-      "count": 7
-    },
-    {
-      "term": "アッ",
-      "count": 7
-    },
-    {
-      "term": "name",
-      "count": 7
-    },
-    {
-      "term": "ため",
-      "count": 7
+      "term": "ット情報",
+      "count": 6
     },
     {
       "term": "具体的な",
       "count": 6
     },
     {
-      "term": "キー",
+      "term": "信頼性の",
+      "count": 6
+    },
+    {
+      "term": "ソフトウ",
       "count": 6
     },
     {
@@ -158,11 +166,11 @@
       "count": 6
     },
     {
-      "term": "等の",
+      "term": "ス ",
       "count": 6
     },
     {
-      "term": "れて",
+      "term": "ムは",
       "count": 6
     },
     {
@@ -170,35 +178,27 @@
       "count": 6
     },
     {
-      "term": "対す",
+      "term": "複数",
       "count": 6
     },
     {
-      "term": "rule",
+      "term": "ンテナイ",
       "count": 6
     },
     {
-      "term": "される",
+      "term": "省略する",
       "count": 6
     },
     {
-      "term": "はな",
+      "term": "とも",
       "count": 6
     },
     {
-      "term": "容を",
+      "term": "らの",
       "count": 6
     },
     {
-      "term": "image",
-      "count": 6
-    },
-    {
-      "term": "同様",
-      "count": 6
-    },
-    {
-      "term": "ータ",
+      "term": "ref",
       "count": 6
     }
   ],

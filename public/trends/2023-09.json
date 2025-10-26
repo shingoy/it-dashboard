@@ -2,71 +2,43 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "省庁",
+      "term": "術保",
       "count": 3
     },
     {
-      "term": "制対",
+      "term": "情報",
       "count": 3
     },
     {
-      "term": "メー",
+      "term": "タロ",
       "count": 3
     },
     {
-      "term": "検討",
+      "term": "術開",
       "count": 3
     },
     {
-      "term": "技術",
+      "term": "携 ",
       "count": 3
     },
     {
-      "term": "等の",
+      "term": "対象",
       "count": 3
     },
     {
-      "term": "ーマ",
+      "term": "カタ",
       "count": 3
     },
     {
-      "term": "者か",
+      "term": "らの",
+      "count": 3
+    },
+    {
+      "term": "ティ",
       "count": 2
     },
     {
-      "term": "につ",
-      "count": 2
-    },
-    {
-      "term": "10",
-      "count": 2
-    },
-    {
-      "term": "自らへの",
-      "count": 2
-    },
-    {
-      "term": "て ",
-      "count": 2
-    },
-    {
-      "term": "技術保有",
-      "count": 2
-    },
-    {
-      "term": "報か",
-      "count": 2
-    },
-    {
-      "term": "の提",
-      "count": 2
-    },
-    {
-      "term": "を目",
-      "count": 2
-    },
-    {
-      "term": "の今",
+      "term": "regtech",
       "count": 2
     },
     {
@@ -74,67 +46,39 @@
       "count": 2
     },
     {
-      "term": "技術カタ",
+      "term": "日 ",
       "count": 2
     },
     {
-      "term": "プや",
+      "term": "の場",
       "count": 2
     },
     {
-      "term": "する",
+      "term": "の参",
       "count": 2
     },
     {
-      "term": "け ",
+      "term": "加呼",
       "count": 2
     },
     {
-      "term": "ロ ",
+      "term": "目指",
       "count": 2
     },
     {
-      "term": "の活",
+      "term": "後の",
       "count": 2
     },
     {
-      "term": "りま",
+      "term": "具体",
       "count": 2
     },
     {
-      "term": "報を",
+      "term": "直 ",
       "count": 2
     },
     {
-      "term": "証成",
-      "count": 2
-    },
-    {
-      "term": "体化",
-      "count": 2
-    },
-    {
-      "term": "ジウ",
-      "count": 2
-    },
-    {
-      "term": "バイ",
-      "count": 2
-    },
-    {
-      "term": "一体",
-      "count": 2
-    },
-    {
-      "term": "を通じた",
-      "count": 2
-    },
-    {
-      "term": "証結",
-      "count": 2
-    },
-    {
-      "term": "た規",
+      "term": "体感",
       "count": 2
     },
     {
@@ -142,51 +86,83 @@
       "count": 2
     },
     {
-      "term": "術開",
+      "term": "バイ",
       "count": 2
     },
     {
-      "term": "開発",
+      "term": "の具",
       "count": 2
     },
     {
-      "term": "ーキ",
+      "term": "の速",
+      "count": 2
+    },
+    {
+      "term": "開催",
+      "count": 2
+    },
+    {
+      "term": "イス",
+      "count": 2
+    },
+    {
+      "term": "証状",
+      "count": 2
+    },
+    {
+      "term": "制見直",
+      "count": 2
+    },
+    {
+      "term": "まえ保有",
+      "count": 2
+    },
+    {
+      "term": "を広",
+      "count": 2
+    },
+    {
+      "term": "イメ",
+      "count": 2
+    },
+    {
+      "term": "直し",
+      "count": 2
+    },
+    {
+      "term": "況を把握",
+      "count": 2
+    },
+    {
+      "term": "を有する",
       "count": 1
     },
     {
-      "term": "期待する",
+      "term": "ーク",
       "count": 1
     },
     {
-      "term": "資金獲得",
+      "term": "サポ",
       "count": 1
     },
     {
-      "term": "らか",
+      "term": "含む",
       "count": 1
     },
     {
-      "term": "日本",
+      "term": "法人日本",
       "count": 1
     },
     {
-      "term": "可能",
+      "term": "や技術カ",
       "count": 1
     },
     {
-      "term": "地方自治",
+      "term": "クフ",
       "count": 1
     },
     {
-      "term": "アッ",
-      "count": 1
-    },
-    {
-      "term": "見や",
-      "count": 1
-    },
-    {
-      "term": "ポー",
+      "term": "施策",
       "count": 1
     },
     {
@@ -194,11 +170,35 @@
       "count": 1
     },
     {
-      "term": "発力の更",
+      "term": "ス ",
       "count": 1
     },
     {
-      "term": "力の",
+      "term": "ナジ",
+      "count": 1
+    },
+    {
+      "term": "の提案",
+      "count": 1
+    },
+    {
+      "term": "しの進捗",
+      "count": 1
+    },
+    {
+      "term": "ーク化す",
+      "count": 1
+    },
+    {
+      "term": "的に共有",
+      "count": 1
+    },
+    {
+      "term": "シアムを",
+      "count": 1
+    },
+    {
+      "term": "業省",
       "count": 1
     }
   ],
