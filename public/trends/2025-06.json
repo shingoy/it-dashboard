@@ -2,67 +2,47 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "プラ",
+      "term": "ある",
       "count": 22
     },
     {
-      "term": "構成",
+      "term": "され",
       "count": 21
     },
     {
-      "term": "果物",
+      "term": "ファ",
       "count": 20
     },
     {
-      "term": "ルド",
+      "term": "には",
       "count": 17
     },
     {
-      "term": "これ",
-      "count": 17
-    },
-    {
-      "term": "トフ",
+      "term": "的な",
       "count": 15
     },
     {
-      "term": "ーク",
-      "count": 15
+      "term": "構成",
+      "count": 14
     },
     {
-      "term": "ーズ",
-      "count": 15
+      "term": "全性",
+      "count": 14
     },
     {
-      "term": "フェ",
-      "count": 15
+      "term": "があ",
+      "count": 14
     },
     {
-      "term": "パイ",
-      "count": 15
-    },
-    {
-      "term": "ール",
-      "count": 15
-    },
-    {
-      "term": "ソースコ",
+      "term": "場合",
       "count": 13
-    },
-    {
-      "term": "情報",
-      "count": 12
     },
     {
       "term": "護 ",
       "count": 12
     },
     {
-      "term": "ドフ",
-      "count": 12
-    },
-    {
-      "term": "ース",
+      "term": "スチ",
       "count": 12
     },
     {
@@ -70,11 +50,7 @@
       "count": 11
     },
     {
-      "term": "制限",
-      "count": 11
-    },
-    {
-      "term": "範囲",
+      "term": "存物",
       "count": 11
     },
     {
@@ -82,103 +58,135 @@
       "count": 11
     },
     {
-      "term": "の設",
-      "count": 11
-    },
-    {
-      "term": "具体",
+      "term": "提供",
       "count": 10
     },
     {
-      "term": "ブラ",
+      "term": "ecr",
       "count": 10
     },
     {
-      "term": "ー ",
+      "term": "build",
       "count": 10
     },
     {
-      "term": "ンテ",
-      "count": 10
-    },
-    {
-      "term": "は ",
-      "count": 10
-    },
-    {
-      "term": "含む",
+      "term": "ソースコ",
       "count": 9
     },
     {
-      "term": "策 ",
+      "term": "ェア",
       "count": 9
     },
     {
-      "term": "の確",
+      "term": "本書",
       "count": 9
     },
     {
-      "term": "以外",
+      "term": "ーを",
       "count": 9
     },
     {
-      "term": "outputs",
+      "term": "のメ",
       "count": 9
+    },
+    {
+      "term": "通し",
+      "count": 8
     },
     {
       "term": "ーカ",
       "count": 8
     },
     {
-      "term": "バイ",
+      "term": "メン",
       "count": 8
     },
     {
-      "term": "commit",
+      "term": "ド上",
       "count": 8
     },
     {
-      "term": "の成",
+      "term": "フェーズ",
+      "count": 8
+    },
+    {
+      "term": "書で",
+      "count": 8
+    },
+    {
+      "term": "ージ",
+      "count": 8
+    },
+    {
+      "term": "図 ",
+      "count": 8
+    },
+    {
+      "term": "組み",
+      "count": 8
+    },
+    {
+      "term": "の漏",
       "count": 7
     },
     {
-      "term": "を実",
+      "term": "漏洩",
       "count": 7
     },
     {
-      "term": "ット情報",
-      "count": 6
+      "term": "ポジ",
+      "count": 7
+    },
+    {
+      "term": "ダー",
+      "count": 7
+    },
+    {
+      "term": "すべ",
+      "count": 7
+    },
+    {
+      "term": "もの",
+      "count": 7
+    },
+    {
+      "term": "メタデー",
+      "count": 7
+    },
+    {
+      "term": "以外",
+      "count": 7
+    },
+    {
+      "term": "必要",
+      "count": 7
+    },
+    {
+      "term": "name",
+      "count": 7
     },
     {
       "term": "具体的な",
       "count": 6
     },
     {
-      "term": "信頼性の",
+      "term": "成 ",
       "count": 6
     },
     {
-      "term": "ソフトウ",
+      "term": "具体",
       "count": 6
     },
     {
-      "term": "ルと",
+      "term": "フォ",
       "count": 6
     },
     {
-      "term": "ス ",
+      "term": "主体",
       "count": 6
     },
     {
-      "term": "ムは",
-      "count": 6
-    },
-    {
-      "term": "の署",
-      "count": 6
-    },
-    {
-      "term": "複数",
+      "term": "トウ",
       "count": 6
     },
     {
@@ -186,19 +194,11 @@
       "count": 6
     },
     {
-      "term": "省略する",
+      "term": "を取",
       "count": 6
     },
     {
-      "term": "とも",
-      "count": 6
-    },
-    {
-      "term": "らの",
-      "count": 6
-    },
-    {
-      "term": "ref",
+      "term": "影響",
       "count": 6
     }
   ],

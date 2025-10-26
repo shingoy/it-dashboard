@@ -2,204 +2,204 @@
   "month": "2023-07",
   "keywords": [
     {
-      "term": "情報",
-      "count": 1571
+      "term": "場合",
+      "count": 1265
+    },
+    {
+      "term": "ある",
+      "count": 1243
+    },
+    {
+      "term": "があ",
+      "count": 1165
     },
     {
       "term": "ティ",
-      "count": 1158
+      "count": 1157
     },
     {
-      "term": "は ",
-      "count": 1013
+      "term": "的な",
+      "count": 1076
     },
     {
-      "term": "要な",
-      "count": 804
+      "term": "には",
+      "count": 1024
+    },
+    {
+      "term": "もの",
+      "count": 963
+    },
+    {
+      "term": "める",
+      "count": 853
     },
     {
       "term": "機能",
-      "count": 765
+      "count": 766
     },
     {
-      "term": "に基",
-      "count": 632
+      "term": "提供",
+      "count": 679
     },
     {
-      "term": "合は",
+      "term": "又は",
+      "count": 627
+    },
+    {
+      "term": "すること",
       "count": 618
     },
     {
       "term": "イド",
-      "count": 613
+      "count": 612
     },
     {
-      "term": "とも",
-      "count": 600
+      "term": "責任",
+      "count": 587
     },
     {
-      "term": "ー ",
-      "count": 591
+      "term": "が必",
+      "count": 544
     },
     {
-      "term": "ス ",
-      "count": 589
+      "term": "を検",
+      "count": 539
     },
     {
-      "term": "記載",
-      "count": 552
+      "term": "すべ",
+      "count": 502
     },
     {
-      "term": "これ",
-      "count": 548
+      "term": "施す",
+      "count": 474
     },
     {
-      "term": "等が",
-      "count": 534
+      "term": "影響",
+      "count": 448
     },
     {
-      "term": "において",
-      "count": 509
+      "term": "ェク",
+      "count": 447
     },
     {
-      "term": "の確",
-      "count": 505
-    },
-    {
-      "term": "ール",
-      "count": 460
-    },
-    {
-      "term": "ーク",
-      "count": 445
-    },
-    {
-      "term": "構成",
-      "count": 445
-    },
-    {
-      "term": "具体",
-      "count": 435
-    },
-    {
-      "term": "参考",
+      "term": "ェア",
       "count": 433
     },
     {
-      "term": "範囲",
-      "count": 420
+      "term": "され",
+      "count": 429
     },
     {
-      "term": "含む",
-      "count": 409
+      "term": "整備",
+      "count": 421
     },
     {
-      "term": "合 ",
-      "count": 400
+      "term": "を参",
+      "count": 416
     },
     {
-      "term": "討す",
-      "count": 394
+      "term": "際に",
+      "count": 398
     },
     {
-      "term": "本対",
-      "count": 390
+      "term": "手続",
+      "count": 384
     },
     {
-      "term": "に必",
-      "count": 380
+      "term": "認証",
+      "count": 371
     },
     {
-      "term": "ース",
-      "count": 354
+      "term": "なっ",
+      "count": 360
     },
     {
-      "term": "要求",
-      "count": 343
+      "term": "組み",
+      "count": 352
     },
     {
-      "term": "策 ",
-      "count": 331
+      "term": "ンタ",
+      "count": 311
     },
     {
-      "term": "推進",
-      "count": 330
+      "term": "ドサ",
+      "count": 309
     },
     {
-      "term": "の設",
-      "count": 325
+      "term": "定さ",
+      "count": 307
     },
     {
-      "term": "デン",
-      "count": 316
+      "term": "うに",
+      "count": 305
     },
     {
-      "term": "ア ",
-      "count": 315
-    },
-    {
-      "term": "以外",
-      "count": 299
-    },
-    {
-      "term": "の場",
-      "count": 298
-    },
-    {
-      "term": "脅威",
-      "count": 296
-    },
-    {
-      "term": "複数",
+      "term": "ファ",
       "count": 295
     },
     {
-      "term": "にあ",
+      "term": "者と",
+      "count": 290
+    },
+    {
+      "term": "すこ",
+      "count": 289
+    },
+    {
+      "term": "にし",
+      "count": 286
+    },
+    {
+      "term": "能性",
+      "count": 286
+    },
+    {
+      "term": "改善",
       "count": 285
     },
     {
-      "term": "要に",
-      "count": 270
+      "term": "デン",
+      "count": 277
     },
     {
-      "term": "バイ",
-      "count": 264
+      "term": "シデ",
+      "count": 271
     },
     {
-      "term": "書の",
-      "count": 260
+      "term": "用さ",
+      "count": 265
     },
     {
-      "term": "き ",
-      "count": 259
+      "term": "れている",
+      "count": 247
     },
     {
-      "term": "ソフトウ",
-      "count": 250
+      "term": "契約",
+      "count": 245
     },
     {
-      "term": "問題",
-      "count": 249
+      "term": "理的",
+      "count": 242
     },
     {
-      "term": "of",
-      "count": 248
+      "term": "成 ",
+      "count": 240
     },
     {
-      "term": "タル",
-      "count": 246
+      "term": "ィ責",
+      "count": 238
     },
     {
-      "term": "対象",
-      "count": 241
+      "term": "ルに",
+      "count": 237
     },
     {
-      "term": "に定",
-      "count": 224
+      "term": "法 ",
+      "count": 234
     },
     {
-      "term": "行 ",
-      "count": 222
+      "term": "ル庁",
+      "count": 231
     }
   ],
   "meetings": [
