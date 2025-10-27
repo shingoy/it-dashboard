@@ -2,131 +2,119 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "して",
-      "count": 27
-    },
-    {
-      "term": "るこ",
+      "term": "こと",
       "count": 21
     },
     {
-      "term": "ァイ",
-      "count": 19
+      "term": "リポ",
+      "count": 20
     },
     {
-      "term": "およ",
+      "term": "ール",
+      "count": 20
+    },
+    {
+      "term": "して",
+      "count": 18
+    },
+    {
+      "term": "信頼",
       "count": 15
     },
     {
-      "term": "また",
+      "term": "ラッ",
       "count": 15
     },
     {
-      "term": "のた",
+      "term": "なる",
       "count": 15
     },
     {
-      "term": "コン",
-      "count": 15
-    },
-    {
-      "term": "られ",
+      "term": "トフ",
       "count": 14
     },
     {
-      "term": "ン ",
+      "term": "ルド",
+      "count": 14
+    },
+    {
+      "term": "シー",
+      "count": 12
+    },
+    {
+      "term": "によ",
+      "count": 12
+    },
+    {
+      "term": "ーの",
+      "count": 12
+    },
+    {
+      "term": "テナ",
+      "count": 12
+    },
+    {
+      "term": "場合",
+      "count": 12
+    },
+    {
+      "term": "可能",
+      "count": 12
+    },
+    {
+      "term": "プラット",
       "count": 11
     },
     {
-      "term": "のc",
+      "term": "ては",
       "count": 11
     },
     {
-      "term": "ナリ",
+      "term": "push",
+      "count": 11
+    },
+    {
+      "term": "性を",
       "count": 10
     },
     {
-      "term": "シークレ",
-      "count": 10
-    },
-    {
-      "term": "ている",
-      "count": 10
-    },
-    {
-      "term": "に関",
+      "term": "含む",
       "count": 9
     },
     {
-      "term": "はc",
+      "term": "を含",
       "count": 9
     },
     {
-      "term": "具体",
+      "term": "パイプラ",
       "count": 9
     },
     {
-      "term": "本書",
+      "term": "ルの",
       "count": 9
     },
     {
-      "term": "デー",
+      "term": "git",
       "count": 9
     },
     {
-      "term": "権限",
+      "term": "るが",
       "count": 9
     },
     {
-      "term": "runs",
-      "count": 9
-    },
-    {
-      "term": "フェーズ",
+      "term": "なお",
       "count": 8
     },
     {
-      "term": "た ",
+      "term": "定し",
       "count": 8
     },
     {
-      "term": "るそ",
-      "count": 8
-    },
-    {
-      "term": "検証",
-      "count": 8
-    },
-    {
-      "term": "が考",
-      "count": 8
-    },
-    {
-      "term": "repository",
-      "count": 8
-    },
-    {
-      "term": "ubuntu",
-      "count": 8
-    },
-    {
-      "term": "リテ",
+      "term": "システム",
       "count": 7
     },
     {
-      "term": "キー",
-      "count": 7
-    },
-    {
-      "term": "フォ",
-      "count": 7
-    },
-    {
-      "term": "れば",
-      "count": 7
-    },
-    {
-      "term": "plan",
+      "term": "ビルド上",
       "count": 7
     },
     {
@@ -134,39 +122,31 @@
       "count": 7
     },
     {
+      "term": "コン",
+      "count": 7
+    },
+    {
+      "term": "ムチーム",
+      "count": 7
+    },
+    {
       "term": "略す",
       "count": 7
     },
     {
-      "term": "ップ",
+      "term": "いこ",
       "count": 7
     },
     {
-      "term": "省略",
+      "term": "す ",
       "count": 7
     },
     {
-      "term": "は ",
-      "count": 7
-    },
-    {
-      "term": "とは",
-      "count": 7
-    },
-    {
-      "term": "ド設",
-      "count": 7
-    },
-    {
-      "term": "ショ",
+      "term": "ュリ",
       "count": 6
     },
     {
-      "term": "性の",
-      "count": 6
-    },
-    {
-      "term": "内容",
+      "term": "弱性",
       "count": 6
     },
     {
@@ -174,32 +154,52 @@
       "count": 6
     },
     {
-      "term": "ロバ",
+      "term": "定 ",
       "count": 6
     },
     {
-      "term": "ジと",
+      "term": "物と",
       "count": 6
     },
     {
-      "term": "方法",
+      "term": "の事",
       "count": 6
     },
     {
-      "term": "保で",
+      "term": "とも",
       "count": 6
     },
     {
-      "term": "ついては",
+      "term": "用可",
       "count": 6
     },
     {
-      "term": "取り",
+      "term": "はg",
       "count": 6
     },
     {
-      "term": "次に",
+      "term": "する",
       "count": 6
+    },
+    {
+      "term": "った",
+      "count": 6
+    },
+    {
+      "term": "えて",
+      "count": 6
+    },
+    {
+      "term": "checkout",
+      "count": 6
+    },
+    {
+      "term": "predicate",
+      "count": 6
+    },
+    {
+      "term": "シナ",
+      "count": 5
     }
   ],
   "meetings": [

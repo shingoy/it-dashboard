@@ -2,19 +2,7 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "コン",
-      "count": 3
-    },
-    {
-      "term": "ン ",
-      "count": 3
-    },
-    {
-      "term": "カタ",
-      "count": 3
-    },
-    {
-      "term": "ップ",
+      "term": "ノロ",
       "count": 3
     },
     {
@@ -22,7 +10,11 @@
       "count": 3
     },
     {
-      "term": "関係",
+      "term": "規制",
+      "count": 3
+    },
+    {
+      "term": "ロジ",
       "count": 3
     },
     {
@@ -30,95 +22,43 @@
       "count": 3
     },
     {
-      "term": "して",
+      "term": "かけや",
       "count": 2
     },
     {
-      "term": "トワ",
+      "term": "日 ",
       "count": 2
     },
     {
-      "term": "者か",
+      "term": "グ規制の",
       "count": 2
     },
     {
-      "term": "regtech",
+      "term": "の募",
       "count": 2
     },
     {
-      "term": "ムへ",
+      "term": "体会",
       "count": 2
     },
     {
-      "term": "ンソ",
+      "term": "術開発の",
       "count": 2
     },
     {
-      "term": "と ",
+      "term": "体化",
       "count": 2
     },
     {
-      "term": "グを",
+      "term": "を通",
       "count": 2
     },
     {
-      "term": "けた",
+      "term": "シンポジ",
       "count": 2
     },
     {
-      "term": "アナ",
-      "count": 2
-    },
-    {
-      "term": "の場",
-      "count": 2
-    },
-    {
-      "term": "か ",
-      "count": 2
-    },
-    {
-      "term": "方法",
-      "count": 2
-    },
-    {
-      "term": "らコンソ",
-      "count": 2
-    },
-    {
-      "term": "ムや",
-      "count": 2
-    },
-    {
-      "term": "有 ",
-      "count": 2
-    },
-    {
-      "term": "構築",
-      "count": 2
-    },
-    {
-      "term": "告会",
-      "count": 2
-    },
-    {
-      "term": "実証",
-      "count": 2
-    },
-    {
-      "term": "他省庁等",
-      "count": 2
-    },
-    {
-      "term": "有技",
-      "count": 2
-    },
-    {
-      "term": "企画",
-      "count": 2
-    },
-    {
-      "term": "まえ",
+      "term": "証状",
       "count": 2
     },
     {
@@ -126,63 +66,107 @@
       "count": 2
     },
     {
-      "term": "を活",
+      "term": "証成",
       "count": 2
     },
     {
-      "term": "通じ",
+      "term": "況を",
       "count": 2
     },
     {
-      "term": "検証",
+      "term": "技術の",
       "count": 2
     },
     {
-      "term": "具体",
+      "term": "築 ",
       "count": 2
     },
     {
-      "term": "本ベ",
+      "term": "コン",
+      "count": 2
+    },
+    {
+      "term": "対象",
+      "count": 2
+    },
+    {
+      "term": "プピ",
+      "count": 2
+    },
+    {
+      "term": "ッチ",
+      "count": 2
+    },
+    {
+      "term": "可能",
       "count": 1
     },
     {
-      "term": "に期",
+      "term": "制に",
       "count": 1
     },
     {
-      "term": "サポート",
+      "term": "や市",
       "count": 1
     },
     {
-      "term": "ーキ",
+      "term": "地方自治",
       "count": 1
     },
     {
-      "term": "効果",
+      "term": "等関",
       "count": 1
     },
     {
-      "term": "大企業や",
+      "term": "タログを",
       "count": 1
     },
     {
-      "term": "む ",
+      "term": "づけ",
       "count": 1
     },
     {
-      "term": "が存",
+      "term": "ックする",
       "count": 1
     },
     {
-      "term": "法や",
+      "term": "用可",
       "count": 1
     },
     {
-      "term": "術情",
+      "term": "を促",
       "count": 1
     },
     {
-      "term": "規模",
+      "term": "なる",
+      "count": 1
+    },
+    {
+      "term": "シナ",
+      "count": 1
+    },
+    {
+      "term": "含む",
+      "count": 1
+    },
+    {
+      "term": "す ",
+      "count": 1
+    },
+    {
+      "term": "庁 ",
+      "count": 1
+    },
+    {
+      "term": "待す",
+      "count": 1
+    },
+    {
+      "term": "ール",
+      "count": 1
+    },
+    {
+      "term": "びかけ",
       "count": 1
     },
     {
@@ -190,15 +174,31 @@
       "count": 1
     },
     {
-      "term": "的や",
+      "term": "明会や勉",
       "count": 1
     },
     {
-      "term": "大企",
+      "term": "供を",
       "count": 1
     },
     {
-      "term": "し技",
+      "term": "有す",
+      "count": 1
+    },
+    {
+      "term": "進す",
+      "count": 1
+    },
+    {
+      "term": "運営事務",
+      "count": 1
+    },
+    {
+      "term": "期待する",
+      "count": 1
+    },
+    {
+      "term": "題等",
       "count": 1
     }
   ],
