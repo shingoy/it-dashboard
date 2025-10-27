@@ -2,79 +2,67 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 22
+      "term": "して",
+      "count": 27
     },
     {
-      "term": "され",
+      "term": "るこ",
       "count": 21
     },
     {
-      "term": "ファ",
-      "count": 20
+      "term": "ァイ",
+      "count": 19
     },
     {
-      "term": "には",
-      "count": 17
-    },
-    {
-      "term": "的な",
+      "term": "およ",
       "count": 15
     },
     {
-      "term": "構成",
+      "term": "また",
+      "count": 15
+    },
+    {
+      "term": "のた",
+      "count": 15
+    },
+    {
+      "term": "コン",
+      "count": 15
+    },
+    {
+      "term": "られ",
       "count": 14
     },
     {
-      "term": "全性",
-      "count": 14
-    },
-    {
-      "term": "があ",
-      "count": 14
-    },
-    {
-      "term": "場合",
-      "count": 13
-    },
-    {
-      "term": "護 ",
-      "count": 12
-    },
-    {
-      "term": "スチ",
-      "count": 12
-    },
-    {
-      "term": "ティ",
+      "term": "ン ",
       "count": 11
     },
     {
-      "term": "存物",
+      "term": "のc",
       "count": 11
     },
     {
-      "term": "チェ",
-      "count": 11
-    },
-    {
-      "term": "提供",
+      "term": "ナリ",
       "count": 10
     },
     {
-      "term": "ecr",
+      "term": "シークレ",
       "count": 10
     },
     {
-      "term": "build",
+      "term": "ている",
       "count": 10
     },
     {
-      "term": "ソースコ",
+      "term": "に関",
       "count": 9
     },
     {
-      "term": "ェア",
+      "term": "はc",
+      "count": 9
+    },
+    {
+      "term": "具体",
       "count": 9
     },
     {
@@ -82,123 +70,135 @@
       "count": 9
     },
     {
-      "term": "ーを",
+      "term": "デー",
       "count": 9
     },
     {
-      "term": "のメ",
+      "term": "権限",
       "count": 9
     },
     {
-      "term": "通し",
-      "count": 8
-    },
-    {
-      "term": "ーカ",
-      "count": 8
-    },
-    {
-      "term": "メン",
-      "count": 8
-    },
-    {
-      "term": "ド上",
-      "count": 8
+      "term": "runs",
+      "count": 9
     },
     {
       "term": "フェーズ",
       "count": 8
     },
     {
-      "term": "書で",
+      "term": "た ",
       "count": 8
     },
     {
-      "term": "ージ",
+      "term": "るそ",
       "count": 8
     },
     {
-      "term": "図 ",
+      "term": "検証",
       "count": 8
     },
     {
-      "term": "組み",
+      "term": "が考",
       "count": 8
     },
     {
-      "term": "の漏",
+      "term": "repository",
+      "count": 8
+    },
+    {
+      "term": "ubuntu",
+      "count": 8
+    },
+    {
+      "term": "リテ",
       "count": 7
     },
     {
-      "term": "漏洩",
+      "term": "キー",
       "count": 7
-    },
-    {
-      "term": "ポジ",
-      "count": 7
-    },
-    {
-      "term": "ダー",
-      "count": 7
-    },
-    {
-      "term": "すべ",
-      "count": 7
-    },
-    {
-      "term": "もの",
-      "count": 7
-    },
-    {
-      "term": "メタデー",
-      "count": 7
-    },
-    {
-      "term": "以外",
-      "count": 7
-    },
-    {
-      "term": "必要",
-      "count": 7
-    },
-    {
-      "term": "name",
-      "count": 7
-    },
-    {
-      "term": "具体的な",
-      "count": 6
-    },
-    {
-      "term": "成 ",
-      "count": 6
-    },
-    {
-      "term": "具体",
-      "count": 6
     },
     {
       "term": "フォ",
+      "count": 7
+    },
+    {
+      "term": "れば",
+      "count": 7
+    },
+    {
+      "term": "plan",
+      "count": 7
+    },
+    {
+      "term": "を確",
+      "count": 7
+    },
+    {
+      "term": "略す",
+      "count": 7
+    },
+    {
+      "term": "ップ",
+      "count": 7
+    },
+    {
+      "term": "省略",
+      "count": 7
+    },
+    {
+      "term": "は ",
+      "count": 7
+    },
+    {
+      "term": "とは",
+      "count": 7
+    },
+    {
+      "term": "ド設",
+      "count": 7
+    },
+    {
+      "term": "ショ",
       "count": 6
     },
     {
-      "term": "主体",
+      "term": "性の",
       "count": 6
     },
     {
-      "term": "トウ",
+      "term": "内容",
       "count": 6
     },
     {
-      "term": "ンテナイ",
+      "term": "ルと",
       "count": 6
     },
     {
-      "term": "を取",
+      "term": "ロバ",
       "count": 6
     },
     {
-      "term": "影響",
+      "term": "ジと",
+      "count": 6
+    },
+    {
+      "term": "方法",
+      "count": 6
+    },
+    {
+      "term": "保で",
+      "count": 6
+    },
+    {
+      "term": "ついては",
+      "count": 6
+    },
+    {
+      "term": "取り",
+      "count": 6
+    },
+    {
+      "term": "次に",
       "count": 6
     }
   ],
