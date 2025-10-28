@@ -2,27 +2,39 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "こと",
-      "count": 21
+      "term": "する",
+      "count": 28
     },
     {
-      "term": "リポ",
+      "term": "ット",
       "count": 20
     },
     {
-      "term": "ール",
+      "term": "github",
       "count": 20
     },
     {
-      "term": "して",
-      "count": 18
+      "term": "ビル",
+      "count": 19
     },
     {
-      "term": "信頼",
+      "term": "でき",
+      "count": 19
+    },
+    {
+      "term": "イル",
+      "count": 17
+    },
+    {
+      "term": "デー",
+      "count": 16
+    },
+    {
+      "term": "の保",
       "count": 15
     },
     {
-      "term": "ラッ",
+      "term": "から",
       "count": 15
     },
     {
@@ -30,91 +42,75 @@
       "count": 15
     },
     {
-      "term": "トフ",
+      "term": "ポジ",
       "count": 14
     },
     {
-      "term": "ルド",
+      "term": "られ",
       "count": 14
     },
     {
-      "term": "シー",
+      "term": "ムの",
+      "count": 13
+    },
+    {
+      "term": "ンを",
       "count": 12
     },
     {
-      "term": "によ",
+      "term": "きる",
       "count": 12
     },
     {
-      "term": "ーの",
-      "count": 12
+      "term": "ント",
+      "count": 11
     },
     {
-      "term": "テナ",
-      "count": 12
-    },
-    {
-      "term": "場合",
-      "count": 12
+      "term": "https",
+      "count": 11
     },
     {
       "term": "可能",
-      "count": 12
-    },
-    {
-      "term": "プラット",
       "count": 11
     },
     {
-      "term": "ては",
-      "count": 11
-    },
-    {
-      "term": "push",
-      "count": 11
-    },
-    {
-      "term": "性を",
+      "term": "範囲",
       "count": 10
     },
     {
-      "term": "含む",
+      "term": "検証",
+      "count": 10
+    },
+    {
+      "term": "provenance",
+      "count": 10
+    },
+    {
+      "term": "加え",
+      "count": 10
+    },
+    {
+      "term": "れて",
       "count": 9
     },
     {
-      "term": "を含",
+      "term": "ンa",
       "count": 9
     },
     {
-      "term": "パイプラ",
-      "count": 9
-    },
-    {
-      "term": "ルの",
-      "count": 9
-    },
-    {
-      "term": "git",
-      "count": 9
-    },
-    {
-      "term": "るが",
-      "count": 9
-    },
-    {
-      "term": "なお",
+      "term": "れら",
       "count": 8
     },
     {
-      "term": "定し",
-      "count": 8
-    },
-    {
-      "term": "システム",
+      "term": "物を",
       "count": 7
     },
     {
-      "term": "ビルド上",
+      "term": "ダー",
+      "count": 7
+    },
+    {
+      "term": "ると",
       "count": 7
     },
     {
@@ -122,15 +118,7 @@
       "count": 7
     },
     {
-      "term": "コン",
-      "count": 7
-    },
-    {
-      "term": "ムチーム",
-      "count": 7
-    },
-    {
-      "term": "略す",
+      "term": "次に",
       "count": 7
     },
     {
@@ -142,63 +130,75 @@
       "count": 7
     },
     {
-      "term": "ュリ",
+      "term": "を示",
       "count": 6
     },
     {
-      "term": "弱性",
+      "term": "ローカル",
       "count": 6
     },
     {
-      "term": "ルと",
+      "term": "成 ",
       "count": 6
     },
     {
-      "term": "定 ",
+      "term": "シー",
       "count": 6
     },
     {
-      "term": "物と",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "の事",
+      "term": "ソフトウ",
       "count": 6
     },
     {
-      "term": "とも",
+      "term": "る主",
       "count": 6
     },
     {
-      "term": "用可",
+      "term": "たt",
       "count": 6
     },
     {
-      "term": "はg",
+      "term": "のs",
       "count": 6
     },
     {
-      "term": "する",
+      "term": "11",
       "count": 6
     },
     {
-      "term": "った",
+      "term": "象と",
       "count": 6
     },
     {
-      "term": "えて",
-      "count": 6
+      "term": "ト ",
+      "count": 5
     },
     {
-      "term": "checkout",
-      "count": 6
+      "term": "理を含む",
+      "count": 5
     },
     {
-      "term": "predicate",
-      "count": 6
+      "term": "セキ",
+      "count": 5
     },
     {
-      "term": "シナ",
+      "term": "実装",
+      "count": 5
+    },
+    {
+      "term": "につ",
+      "count": 5
+    },
+    {
+      "term": "保護",
+      "count": 5
+    },
+    {
+      "term": "観点",
       "count": 5
     }
   ],
