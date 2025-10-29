@@ -2,43 +2,71 @@
   "month": "2023-09",
   "keywords": [
     {
+      "term": "関係",
+      "count": 3
+    },
+    {
+      "term": "ム ",
+      "count": 3
+    },
+    {
+      "term": "共有",
+      "count": 3
+    },
+    {
       "term": "や技",
       "count": 3
     },
     {
-      "term": "テク",
+      "term": "化 ",
       "count": 3
     },
     {
-      "term": "ジーマッ",
+      "term": "マッ",
       "count": 3
     },
     {
-      "term": "見直",
-      "count": 3
-    },
-    {
-      "term": "イメ",
-      "count": 3
-    },
-    {
-      "term": "ップ",
-      "count": 3
-    },
-    {
-      "term": "まと",
+      "term": "説明",
       "count": 2
     },
     {
-      "term": "ード",
+      "term": "ィの",
       "count": 2
     },
     {
-      "term": "待を",
+      "term": "別呼",
       "count": 2
     },
     {
-      "term": "らへ",
+      "term": "提供",
+      "count": 2
+    },
+    {
+      "term": "の今",
+      "count": 2
+    },
+    {
+      "term": "等の募集",
+      "count": 2
+    },
+    {
+      "term": "のフ",
+      "count": 2
+    },
+    {
+      "term": "ムの",
+      "count": 2
+    },
+    {
+      "term": "後の",
+      "count": 2
+    },
+    {
+      "term": "技術保有",
+      "count": 2
+    },
+    {
+      "term": "ミュ",
       "count": 2
     },
     {
@@ -46,7 +74,23 @@
       "count": 2
     },
     {
-      "term": "体会",
+      "term": "か ",
+      "count": 2
+    },
+    {
+      "term": "員に",
+      "count": 2
+    },
+    {
+      "term": "月2",
+      "count": 2
+    },
+    {
+      "term": "周知",
+      "count": 2
+    },
+    {
+      "term": "て周知",
       "count": 2
     },
     {
@@ -54,95 +98,39 @@
       "count": 2
     },
     {
-      "term": "報か",
+      "term": "チコ",
       "count": 2
     },
     {
-      "term": "フィ",
+      "term": "たな",
       "count": 2
     },
     {
-      "term": "ける",
+      "term": "じた",
       "count": 2
     },
     {
-      "term": "アナロ",
+      "term": "ッチ",
       "count": 2
     },
     {
-      "term": "て ",
+      "term": "把握",
       "count": 2
     },
     {
-      "term": "から",
+      "term": "連 ",
       "count": 2
     },
     {
-      "term": "ムへ",
+      "term": "スや",
       "count": 2
     },
     {
-      "term": "アナログ",
+      "term": "を通",
       "count": 2
     },
     {
-      "term": "アム",
-      "count": 2
-    },
-    {
-      "term": "個別",
-      "count": 2
-    },
-    {
-      "term": "トワ",
-      "count": 2
-    },
-    {
-      "term": "スや連",
-      "count": 2
-    },
-    {
-      "term": "や連",
-      "count": 2
-    },
-    {
-      "term": "ウム",
-      "count": 2
-    },
-    {
-      "term": "ム開",
-      "count": 2
-    },
-    {
-      "term": "体感",
-      "count": 2
-    },
-    {
-      "term": "カタ",
-      "count": 2
-    },
-    {
-      "term": "直 ",
-      "count": 2
-    },
-    {
-      "term": "対象",
-      "count": 2
-    },
-    {
-      "term": "に ",
-      "count": 2
-    },
-    {
-      "term": "証成",
-      "count": 2
-    },
-    {
-      "term": "ジウ",
-      "count": 2
-    },
-    {
-      "term": "実装",
+      "term": "イス",
       "count": 2
     },
     {
@@ -150,55 +138,67 @@
       "count": 2
     },
     {
-      "term": "加え",
+      "term": "しの実装",
+      "count": 2
+    },
+    {
+      "term": "状況",
+      "count": 2
+    },
+    {
+      "term": "制見",
+      "count": 2
+    },
+    {
+      "term": "築 ",
+      "count": 2
+    },
+    {
+      "term": "コン",
+      "count": 2
+    },
+    {
+      "term": "取組",
       "count": 1
     },
     {
-      "term": "法人",
+      "term": "る技術情",
       "count": 1
     },
     {
-      "term": "習機",
+      "term": "ーク化す",
       "count": 1
     },
     {
-      "term": "startup",
+      "term": "治体",
       "count": 1
     },
     {
-      "term": "位置づけ",
+      "term": "する課題",
       "count": 1
     },
     {
-      "term": "割 ",
+      "term": "の更",
       "count": 1
     },
     {
-      "term": "スタート",
+      "term": "業や",
       "count": 1
     },
     {
-      "term": "らか",
+      "term": "術等",
       "count": 1
     },
     {
-      "term": "ーキ",
+      "term": "の位",
       "count": 1
     },
     {
-      "term": "な提",
+      "term": "関が",
       "count": 1
     },
     {
-      "term": "事務",
-      "count": 1
-    },
-    {
-      "term": "の利",
-      "count": 1
-    },
-    {
-      "term": "市場",
+      "term": "的や",
       "count": 1
     }
   ],

@@ -2,151 +2,151 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ード",
+      "term": "利用",
       "count": 21
     },
     {
-      "term": "パイ",
-      "count": 19
+      "term": "保護",
+      "count": 18
+    },
+    {
+      "term": "図 ",
+      "count": 18
+    },
+    {
+      "term": "安全",
+      "count": 18
+    },
+    {
+      "term": "aws",
+      "count": 18
     },
     {
       "term": "設定",
-      "count": 19
-    },
-    {
-      "term": "イプ",
       "count": 17
     },
     {
-      "term": "ォー",
+      "term": "name",
+      "count": 17
+    },
+    {
+      "term": "でき",
       "count": 16
     },
     {
-      "term": "ラッ",
+      "term": "およ",
       "count": 15
     },
     {
-      "term": "ーズ",
+      "term": "よび",
       "count": 15
     },
     {
-      "term": "内容",
+      "term": "ムの",
       "count": 14
     },
     {
-      "term": "プロ",
+      "term": "とし",
       "count": 14
     },
     {
-      "term": "シー",
+      "term": "る図",
       "count": 13
     },
     {
-      "term": "れた",
+      "term": "メタ",
       "count": 13
     },
     {
-      "term": "護 ",
+      "term": "ソースコ",
       "count": 12
     },
     {
-      "term": "ける",
+      "term": "の成",
       "count": 12
     },
     {
-      "term": "から",
+      "term": "用す",
       "count": 12
     },
     {
-      "term": "ci",
+      "term": "のメ",
+      "count": 12
+    },
+    {
+      "term": "cat",
+      "count": 12
+    },
+    {
+      "term": "考え",
       "count": 11
     },
     {
-      "term": "また",
+      "term": "の設",
       "count": 11
     },
     {
-      "term": "れら",
-      "count": 11
-    },
-    {
-      "term": "push",
-      "count": 11
-    },
-    {
-      "term": "加え",
-      "count": 11
-    },
-    {
-      "term": "に ",
+      "term": "を含",
       "count": 10
     },
     {
-      "term": "イメ",
+      "term": "確保",
       "count": 10
     },
     {
-      "term": "は ",
+      "term": "提供",
       "count": 10
     },
     {
-      "term": "の確",
+      "term": "され",
+      "count": 10
+    },
+    {
+      "term": "ルの",
+      "count": 10
+    },
+    {
+      "term": "ンチ",
       "count": 9
     },
     {
-      "term": "スキ",
+      "term": "トウ",
       "count": 9
     },
     {
-      "term": "して",
+      "term": "成さ",
       "count": 9
     },
     {
-      "term": "image",
-      "count": 9
-    },
-    {
-      "term": "ド上",
+      "term": "テム",
       "count": 8
     },
     {
-      "term": "書で",
+      "term": "リソ",
       "count": 8
     },
     {
-      "term": "ルー",
+      "term": "ファ",
       "count": 8
     },
     {
-      "term": "ャン",
+      "term": "ング",
       "count": 8
     },
     {
-      "term": "キー",
+      "term": "メタデー",
+      "count": 8
+    },
+    {
+      "term": "脆弱性管",
       "count": 7
     },
     {
-      "term": "内の",
+      "term": "の仕",
       "count": 7
     },
     {
-      "term": "17",
-      "count": 7
-    },
-    {
-      "term": "るま",
-      "count": 7
-    },
-    {
-      "term": "デリ",
-      "count": 7
-    },
-    {
-      "term": "フト",
-      "count": 7
-    },
-    {
-      "term": "るそ",
+      "term": "もの",
       "count": 7
     },
     {
@@ -154,35 +154,31 @@
       "count": 7
     },
     {
-      "term": "provenance",
-      "count": 7
-    },
-    {
-      "term": "ド設",
-      "count": 7
-    },
-    {
-      "term": "イダ",
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "プロバイ",
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "codebuild",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "にて",
+      "term": "ムチーム",
       "count": 6
     },
     {
-      "term": "ここでは",
+      "term": "記述",
       "count": 6
     },
     {
-      "term": "の利",
+      "term": "amazon",
+      "count": 6
+    },
+    {
+      "term": "権限",
       "count": 6
     },
     {
@@ -190,15 +186,19 @@
       "count": 6
     },
     {
-      "term": "この",
+      "term": "可能であ",
       "count": 6
     },
     {
-      "term": "and",
+      "term": "合は",
       "count": 6
     },
     {
-      "term": "を指",
+      "term": "同様",
+      "count": 6
+    },
+    {
+      "term": "format",
       "count": 6
     }
   ],
