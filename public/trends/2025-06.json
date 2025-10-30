@@ -2,67 +2,43 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "利用",
-      "count": 21
+      "term": "する",
+      "count": 28
     },
     {
-      "term": "保護",
-      "count": 18
+      "term": "いる",
+      "count": 20
     },
     {
-      "term": "図 ",
-      "count": 18
+      "term": "イン",
+      "count": 19
     },
     {
-      "term": "安全",
-      "count": 18
-    },
-    {
-      "term": "aws",
-      "count": 18
-    },
-    {
-      "term": "設定",
+      "term": "ない",
       "count": 17
     },
     {
-      "term": "name",
-      "count": 17
-    },
-    {
-      "term": "でき",
+      "term": "チー",
       "count": 16
     },
     {
-      "term": "およ",
+      "term": "では",
+      "count": 16
+    },
+    {
+      "term": "れた",
+      "count": 16
+    },
+    {
+      "term": "に ",
       "count": 15
     },
     {
-      "term": "よび",
+      "term": "るた",
       "count": 15
     },
     {
-      "term": "ムの",
-      "count": 14
-    },
-    {
-      "term": "とし",
-      "count": 14
-    },
-    {
-      "term": "る図",
-      "count": 13
-    },
-    {
-      "term": "メタ",
-      "count": 13
-    },
-    {
-      "term": "ソースコ",
-      "count": 12
-    },
-    {
-      "term": "の成",
+      "term": "体的",
       "count": 12
     },
     {
@@ -70,79 +46,63 @@
       "count": 12
     },
     {
-      "term": "のメ",
-      "count": 12
-    },
-    {
-      "term": "cat",
-      "count": 12
-    },
-    {
-      "term": "考え",
+      "term": "定す",
       "count": 11
     },
     {
-      "term": "の設",
+      "term": "った",
       "count": 11
     },
     {
-      "term": "を含",
+      "term": "制限",
       "count": 10
     },
     {
-      "term": "確保",
-      "count": 10
-    },
-    {
-      "term": "提供",
-      "count": 10
-    },
-    {
-      "term": "され",
-      "count": 10
-    },
-    {
-      "term": "ルの",
-      "count": 10
-    },
-    {
-      "term": "ンチ",
+      "term": "の制",
       "count": 9
     },
     {
-      "term": "トウ",
+      "term": "ンa",
       "count": 9
     },
     {
-      "term": "成さ",
+      "term": "権限",
       "count": 9
     },
     {
-      "term": "テム",
+      "term": "with",
+      "count": 9
+    },
+    {
+      "term": "runs",
+      "count": 9
+    },
+    {
+      "term": "トリ",
       "count": 8
     },
     {
-      "term": "リソ",
+      "term": "バイ",
       "count": 8
     },
     {
-      "term": "ファ",
+      "term": "下の",
       "count": 8
     },
     {
-      "term": "ング",
+      "term": "用し",
       "count": 8
     },
     {
-      "term": "メタデー",
+      "term": "の管",
       "count": 8
     },
     {
-      "term": "脆弱性管",
-      "count": 7
+      "term": "on",
+      "count": 8
     },
     {
-      "term": "の仕",
+      "term": "信頼",
       "count": 7
     },
     {
@@ -150,7 +110,23 @@
       "count": 7
     },
     {
-      "term": "ンb",
+      "term": "考えられ",
+      "count": 7
+    },
+    {
+      "term": "ムチーム",
+      "count": 7
+    },
+    {
+      "term": "ェッ",
+      "count": 7
+    },
+    {
+      "term": "および",
+      "count": 7
+    },
+    {
+      "term": "file",
       "count": 7
     },
     {
@@ -158,48 +134,72 @@
       "count": 6
     },
     {
-      "term": "セキ",
+      "term": "報の",
       "count": 6
     },
     {
-      "term": "ージ",
+      "term": "ワー",
       "count": 6
     },
     {
-      "term": "ムチーム",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "記述",
+      "term": "アカ",
       "count": 6
     },
     {
-      "term": "amazon",
+      "term": "カウ",
       "count": 6
     },
     {
-      "term": "権限",
+      "term": "ジの",
       "count": 6
     },
     {
-      "term": "ref",
+      "term": "rule",
       "count": 6
     },
     {
-      "term": "可能であ",
+      "term": "のレ",
       "count": 6
     },
     {
-      "term": "合は",
+      "term": "rulesets",
       "count": 6
     },
     {
-      "term": "同様",
+      "term": "and",
       "count": 6
     },
     {
       "term": "format",
       "count": 6
+    },
+    {
+      "term": "ド設",
+      "count": 6
+    },
+    {
+      "term": "リオ",
+      "count": 5
+    },
+    {
+      "term": "運用保守",
+      "count": 5
+    },
+    {
+      "term": "守 ",
+      "count": 5
+    },
+    {
+      "term": "用保",
+      "count": 5
+    },
+    {
+      "term": "ショ",
+      "count": 5
     }
   ],
   "meetings": [
