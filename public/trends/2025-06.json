@@ -2,15 +2,15 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "てい",
-      "count": 21
+      "term": "れる",
+      "count": 23
     },
     {
-      "term": "ァイ",
-      "count": 19
+      "term": "ール",
+      "count": 20
     },
     {
-      "term": "安全",
+      "term": "きる",
       "count": 18
     },
     {
@@ -18,47 +18,31 @@
       "count": 17
     },
     {
-      "term": "プラ",
+      "term": "name",
       "count": 17
     },
     {
-      "term": "ソー",
+      "term": "ァイ",
       "count": 16
     },
     {
-      "term": "弱性",
-      "count": 15
-    },
-    {
-      "term": "ーク",
-      "count": 15
-    },
-    {
-      "term": "フェ",
-      "count": 15
+      "term": "れた",
+      "count": 16
     },
     {
       "term": "ムチ",
       "count": 15
     },
     {
-      "term": "ラッ",
+      "term": "管理",
       "count": 15
     },
     {
-      "term": "ムの",
-      "count": 15
-    },
-    {
-      "term": "って",
-      "count": 15
-    },
-    {
-      "term": "に ",
+      "term": "性の",
       "count": 14
     },
     {
-      "term": "られ",
+      "term": "ンテ",
       "count": 14
     },
     {
@@ -66,55 +50,59 @@
       "count": 13
     },
     {
-      "term": "変更",
+      "term": "を取",
       "count": 12
     },
     {
-      "term": "情報",
-      "count": 12
-    },
-    {
-      "term": "ント",
-      "count": 12
-    },
-    {
-      "term": "信頼",
-      "count": 12
-    },
-    {
-      "term": "ステ",
+      "term": "成果物の",
       "count": 11
     },
     {
-      "term": "によ",
+      "term": "クを",
       "count": 11
     },
     {
-      "term": "存物",
+      "term": "加え",
       "count": 11
     },
     {
-      "term": "ecr",
-      "count": 11
-    },
-    {
-      "term": "セス",
+      "term": "おけ",
       "count": 10
     },
     {
-      "term": "性管",
+      "term": "範囲",
+      "count": 10
+    },
+    {
+      "term": "確認",
+      "count": 10
+    },
+    {
+      "term": "provenance",
+      "count": 10
+    },
+    {
+      "term": "への",
+      "count": 10
+    },
+    {
+      "term": "のリ",
       "count": 9
     },
     {
-      "term": "ード",
+      "term": "その",
       "count": 9
     },
     {
-      "term": "より",
+      "term": "てい",
       "count": 9
     },
     {
-      "term": "た ",
+      "term": "成さ",
+      "count": 9
+    },
+    {
+      "term": "リの",
       "count": 9
     },
     {
@@ -122,84 +110,96 @@
       "count": 9
     },
     {
-      "term": "image",
-      "count": 9
-    },
-    {
-      "term": "クレ",
+      "term": "よる",
       "count": 8
     },
     {
-      "term": "レッ",
+      "term": "ド上",
       "count": 8
     },
     {
-      "term": "主体",
+      "term": "用い",
       "count": 8
     },
     {
-      "term": "書で",
+      "term": "用し",
       "count": 8
     },
     {
-      "term": "docker",
+      "term": "のア",
       "count": 8
     },
     {
-      "term": "資産",
+      "term": "る主",
       "count": 7
     },
     {
-      "term": "運用",
+      "term": "れば",
       "count": 7
     },
     {
-      "term": "における",
+      "term": "ルに",
       "count": 7
     },
     {
-      "term": "スの",
+      "term": "ド設",
       "count": 7
     },
     {
-      "term": "ェッ",
-      "count": 7
-    },
-    {
-      "term": "ーテ",
-      "count": 7
-    },
-    {
-      "term": "commit",
-      "count": 7
-    },
-    {
-      "term": "可能であ",
-      "count": 7
-    },
-    {
-      "term": "物と",
+      "term": "ード管理",
       "count": 6
     },
     {
-      "term": "はプ",
+      "term": "を示",
       "count": 6
     },
     {
-      "term": "連携",
+      "term": "ンに",
       "count": 6
     },
     {
-      "term": "to",
+      "term": "ーカ",
       "count": 6
     },
     {
-      "term": "steps",
+      "term": "サービス",
       "count": 6
     },
     {
-      "term": "同様",
+      "term": "用す",
       "count": 6
+    },
+    {
+      "term": "ル ",
+      "count": 6
+    },
+    {
+      "term": "策に",
+      "count": 6
+    },
+    {
+      "term": "を指",
+      "count": 6
+    },
+    {
+      "term": "format",
+      "count": 6
+    },
+    {
+      "term": "象と",
+      "count": 6
+    },
+    {
+      "term": "ケー",
+      "count": 5
+    },
+    {
+      "term": "ト ",
+      "count": 5
+    },
+    {
+      "term": "ド成",
+      "count": 5
     }
   ],
   "meetings": [
