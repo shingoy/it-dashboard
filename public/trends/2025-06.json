@@ -2,115 +2,95 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "れる",
-      "count": 23
+      "term": "ため",
+      "count": 22
     },
     {
-      "term": "ール",
+      "term": "成果",
       "count": 20
     },
     {
-      "term": "きる",
-      "count": 18
-    },
-    {
-      "term": "ci",
-      "count": 17
-    },
-    {
-      "term": "name",
-      "count": 17
-    },
-    {
-      "term": "ァイ",
+      "term": "ービ",
       "count": 16
     },
     {
-      "term": "れた",
-      "count": 16
-    },
-    {
-      "term": "ムチ",
+      "term": "脆弱",
       "count": 15
     },
     {
-      "term": "管理",
+      "term": "ラッ",
       "count": 15
     },
     {
-      "term": "性の",
+      "term": "のた",
+      "count": 15
+    },
+    {
+      "term": "内容",
       "count": 14
     },
     {
-      "term": "ンテ",
+      "term": "に ",
       "count": 14
     },
     {
-      "term": "id",
+      "term": "署名",
+      "count": 14
+    },
+    {
+      "term": "プロ",
       "count": 13
     },
     {
-      "term": "を取",
+      "term": "メタ",
+      "count": 13
+    },
+    {
+      "term": "ラン",
       "count": 12
     },
     {
-      "term": "成果物の",
+      "term": "があ",
+      "count": 12
+    },
+    {
+      "term": "ティ",
       "count": 11
     },
     {
-      "term": "クを",
+      "term": "ーの",
       "count": 11
     },
     {
-      "term": "加え",
-      "count": 11
-    },
-    {
-      "term": "おけ",
+      "term": "ジト",
       "count": 10
     },
     {
-      "term": "範囲",
+      "term": "git",
       "count": 10
     },
     {
-      "term": "確認",
+      "term": "は ",
       "count": 10
     },
     {
-      "term": "provenance",
+      "term": "https",
       "count": 10
     },
     {
-      "term": "への",
-      "count": 10
-    },
-    {
-      "term": "のリ",
+      "term": "リバ",
       "count": 9
     },
     {
-      "term": "その",
+      "term": "本書",
       "count": 9
     },
     {
-      "term": "てい",
-      "count": 9
+      "term": "管理",
+      "count": 8
     },
     {
-      "term": "成さ",
-      "count": 9
-    },
-    {
-      "term": "リの",
-      "count": 9
-    },
-    {
-      "term": "権限",
-      "count": 9
-    },
-    {
-      "term": "よる",
+      "term": "範囲の制",
       "count": 8
     },
     {
@@ -118,19 +98,19 @@
       "count": 8
     },
     {
-      "term": "用い",
+      "term": "ルー",
       "count": 8
     },
     {
-      "term": "用し",
+      "term": "いう",
       "count": 8
     },
     {
-      "term": "のア",
+      "term": "が考",
       "count": 8
     },
     {
-      "term": "る主",
+      "term": "から",
       "count": 7
     },
     {
@@ -138,67 +118,87 @@
       "count": 7
     },
     {
-      "term": "ルに",
+      "term": "連携",
       "count": 7
     },
     {
-      "term": "ド設",
+      "term": "cosign",
       "count": 7
     },
     {
-      "term": "ード管理",
-      "count": 6
+      "term": "アッ",
+      "count": 7
     },
     {
-      "term": "を示",
-      "count": 6
+      "term": "クセ",
+      "count": 7
+    },
+    {
+      "term": "はg",
+      "count": 7
+    },
+    {
+      "term": "ルで",
+      "count": 7
+    },
+    {
+      "term": "ubuntu",
+      "count": 7
     },
     {
       "term": "ンに",
       "count": 6
     },
     {
-      "term": "ーカ",
+      "term": "報の",
       "count": 6
     },
     {
-      "term": "サービス",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "用す",
+      "term": "の保護",
       "count": 6
     },
     {
-      "term": "ル ",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "策に",
+      "term": "イダ",
       "count": 6
     },
     {
-      "term": "を指",
+      "term": "うこ",
       "count": 6
     },
     {
-      "term": "format",
+      "term": "取り",
       "count": 6
     },
     {
-      "term": "象と",
+      "term": "ーテ",
       "count": 6
     },
     {
-      "term": "ケー",
+      "term": "省略する",
+      "count": 6
+    },
+    {
+      "term": "用し",
+      "count": 6
+    },
+    {
+      "term": "ビルド設",
+      "count": 6
+    },
+    {
+      "term": "資産管理",
       "count": 5
     },
     {
-      "term": "ト ",
-      "count": 5
-    },
-    {
-      "term": "ド成",
+      "term": "クレ",
       "count": 5
     }
   ],
