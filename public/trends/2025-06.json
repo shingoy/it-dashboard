@@ -2,107 +2,103 @@
   "month": "2025-06",
   "keywords": [
     {
+      "term": "github",
+      "count": 24
+    },
+    {
       "term": "ため",
       "count": 22
     },
     {
-      "term": "成果",
-      "count": 20
+      "term": "aws",
+      "count": 19
     },
     {
-      "term": "ービ",
-      "count": 16
+      "term": "ーム",
+      "count": 18
     },
     {
-      "term": "脆弱",
-      "count": 15
+      "term": "ある",
+      "count": 17
     },
     {
-      "term": "ラッ",
-      "count": 15
-    },
-    {
-      "term": "のた",
-      "count": 15
-    },
-    {
-      "term": "内容",
+      "term": "リポ",
       "count": 14
     },
     {
-      "term": "に ",
+      "term": "ツー",
       "count": 14
     },
     {
-      "term": "署名",
+      "term": "タデ",
       "count": 14
+    },
+    {
+      "term": "を取",
+      "count": 12
+    },
+    {
+      "term": "れた",
+      "count": 12
+    },
+    {
+      "term": "範囲",
+      "count": 11
+    },
+    {
+      "term": "コン",
+      "count": 11
+    },
+    {
+      "term": "ナリ",
+      "count": 10
+    },
+    {
+      "term": "具体",
+      "count": 10
+    },
+    {
+      "term": "提供",
+      "count": 10
+    },
+    {
+      "term": "ここ",
+      "count": 10
+    },
+    {
+      "term": "jobs",
+      "count": 10
+    },
+    {
+      "term": "ubuntu",
+      "count": 10
+    },
+    {
+      "term": "護 ",
+      "count": 9
     },
     {
       "term": "プロ",
-      "count": 13
-    },
-    {
-      "term": "メタ",
-      "count": 13
-    },
-    {
-      "term": "ラン",
-      "count": 12
-    },
-    {
-      "term": "があ",
-      "count": 12
-    },
-    {
-      "term": "ティ",
-      "count": 11
-    },
-    {
-      "term": "ーの",
-      "count": 11
-    },
-    {
-      "term": "ジト",
-      "count": 10
-    },
-    {
-      "term": "git",
-      "count": 10
-    },
-    {
-      "term": "は ",
-      "count": 10
-    },
-    {
-      "term": "https",
-      "count": 10
-    },
-    {
-      "term": "リバ",
       "count": 9
     },
     {
-      "term": "本書",
-      "count": 9
-    },
-    {
-      "term": "管理",
+      "term": "主体",
       "count": 8
     },
     {
-      "term": "範囲の制",
+      "term": "スト",
       "count": 8
     },
     {
-      "term": "ド上",
+      "term": "用い",
       "count": 8
     },
     {
-      "term": "ルー",
+      "term": "の制",
       "count": 8
     },
     {
-      "term": "いう",
+      "term": "なお",
       "count": 8
     },
     {
@@ -110,55 +106,51 @@
       "count": 8
     },
     {
-      "term": "から",
+      "term": "共通",
       "count": 7
     },
     {
-      "term": "れば",
+      "term": "カル",
       "count": 7
     },
     {
-      "term": "連携",
+      "term": "リス",
       "count": 7
     },
     {
-      "term": "cosign",
+      "term": "を確",
       "count": 7
     },
     {
-      "term": "アッ",
+      "term": "ャン",
       "count": 7
     },
     {
-      "term": "クセ",
+      "term": "事項",
       "count": 7
     },
     {
-      "term": "はg",
+      "term": "図 ",
       "count": 7
     },
     {
-      "term": "ルで",
-      "count": 7
-    },
-    {
-      "term": "ubuntu",
-      "count": 7
-    },
-    {
-      "term": "ンに",
+      "term": "確保",
       "count": 6
     },
     {
-      "term": "報の",
+      "term": "信頼性の",
       "count": 6
     },
     {
-      "term": "ージ",
+      "term": "たが",
       "count": 6
     },
     {
-      "term": "の保護",
+      "term": "ルと",
+      "count": 6
+    },
+    {
+      "term": "定 ",
       "count": 6
     },
     {
@@ -166,7 +158,7 @@
       "count": 6
     },
     {
-      "term": "イダ",
+      "term": "ンテナイ",
       "count": 6
     },
     {
@@ -174,19 +166,23 @@
       "count": 6
     },
     {
-      "term": "取り",
+      "term": "保で",
       "count": 6
     },
     {
-      "term": "ーテ",
+      "term": "な対",
       "count": 6
     },
     {
-      "term": "省略する",
+      "term": "下の",
       "count": 6
     },
     {
-      "term": "用し",
+      "term": "よう",
+      "count": 6
+    },
+    {
+      "term": "11",
       "count": 6
     },
     {
@@ -194,11 +190,15 @@
       "count": 6
     },
     {
-      "term": "資産管理",
+      "term": "む運",
       "count": 5
     },
     {
-      "term": "クレ",
+      "term": "の確",
+      "count": 5
+    },
+    {
+      "term": "内の",
       "count": 5
     }
   ],
