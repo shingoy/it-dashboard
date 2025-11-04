@@ -2,79 +2,75 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "きる",
-      "count": 23
+      "term": "イプ",
+      "count": 21
     },
     {
-      "term": "ファ",
+      "term": "ポジ",
       "count": 20
     },
     {
-      "term": "保護",
-      "count": 18
+      "term": "でき",
+      "count": 20
     },
     {
-      "term": "ci",
+      "term": "ジト",
       "count": 17
     },
     {
-      "term": "には",
-      "count": 17
-    },
-    {
-      "term": "トリ",
-      "count": 16
-    },
-    {
-      "term": "ービ",
-      "count": 16
-    },
-    {
-      "term": "とし",
-      "count": 16
-    },
-    {
-      "term": "トフ",
+      "term": "コー",
       "count": 15
     },
     {
-      "term": "から",
+      "term": "への",
       "count": 15
     },
     {
-      "term": "があ",
+      "term": "この",
       "count": 14
     },
     {
-      "term": "略 ",
-      "count": 14
+      "term": "生成",
+      "count": 13
     },
     {
-      "term": "ント",
+      "term": "場合",
+      "count": 13
+    },
+    {
+      "term": "イメ",
       "count": 12
     },
     {
-      "term": "範囲",
+      "term": "可能",
+      "count": 12
+    },
+    {
+      "term": "のc",
       "count": 11
     },
     {
-      "term": "ブラ",
+      "term": "ティ",
+      "count": 11
+    },
+    {
+      "term": "依存",
+      "count": 11
+    },
+    {
+      "term": "ビル",
       "count": 10
     },
     {
-      "term": "ック",
+      "term": "コンテナ",
       "count": 10
     },
     {
-      "term": "ビルドフ",
+      "term": "確認",
       "count": 10
     },
     {
-      "term": "確保",
-      "count": 10
-    },
-    {
-      "term": "code",
+      "term": "env",
       "count": 10
     },
     {
@@ -82,43 +78,51 @@
       "count": 9
     },
     {
-      "term": "ティ",
+      "term": "が ",
       "count": 9
     },
     {
-      "term": "image",
+      "term": "る\n",
       "count": 9
     },
     {
-      "term": "管理",
+      "term": "com",
+      "count": 9
+    },
+    {
+      "term": "通し",
       "count": 8
     },
     {
-      "term": "の取",
+      "term": "主体",
       "count": 8
     },
     {
-      "term": "メタデー",
+      "term": "ルを",
       "count": 8
     },
     {
-      "term": "メタ",
-      "count": 8
-    },
-    {
-      "term": "システム",
+      "term": "関す",
       "count": 7
     },
     {
-      "term": "共通",
+      "term": "示す",
       "count": 7
     },
     {
-      "term": "自動",
+      "term": "あり",
       "count": 7
     },
     {
-      "term": "すべ",
+      "term": "るプ",
+      "count": 7
+    },
+    {
+      "term": "れば",
+      "count": 7
+    },
+    {
+      "term": "もの",
       "count": 7
     },
     {
@@ -126,80 +130,76 @@
       "count": 7
     },
     {
-      "term": "略す",
+      "term": "いう",
       "count": 7
     },
     {
-      "term": "がある",
+      "term": "latest",
       "count": 7
     },
     {
-      "term": "クセ",
-      "count": 7
-    },
-    {
-      "term": "name",
-      "count": 7
-    },
-    {
-      "term": "った",
-      "count": 7
-    },
-    {
-      "term": "ットの保",
+      "term": "理シ",
       "count": 6
     },
     {
-      "term": "高い",
+      "term": "脆弱性管",
       "count": 6
     },
     {
-      "term": "スを",
+      "term": "はc",
       "count": 6
     },
     {
-      "term": "プロバイ",
+      "term": "につ",
       "count": 6
     },
     {
-      "term": "キャ",
+      "term": "に ",
       "count": 6
     },
     {
-      "term": "セス",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "取り",
+      "term": "ンテナイ",
       "count": 6
     },
     {
-      "term": "の事",
+      "term": "方法",
       "count": 6
     },
     {
-      "term": "はg",
+      "term": "記述",
       "count": 6
     },
     {
-      "term": "and",
+      "term": "完全",
       "count": 6
     },
     {
-      "term": "true",
+      "term": "策に",
       "count": 6
     },
     {
-      "term": "はパ",
+      "term": "どの",
       "count": 6
     },
     {
-      "term": "イダ",
-      "count": 5
+      "term": "容を",
+      "count": 6
     },
     {
-      "term": "体的には",
-      "count": 5
+      "term": "steps",
+      "count": 6
+    },
+    {
+      "term": "scanners",
+      "count": 6
+    },
+    {
+      "term": "ド設",
+      "count": 6
     }
   ],
   "meetings": [
