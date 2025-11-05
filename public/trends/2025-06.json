@@ -2,67 +2,79 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 28
-    },
-    {
-      "term": "プラ",
-      "count": 26
-    },
-    {
-      "term": "ット",
+      "term": "成果",
       "count": 20
     },
     {
-      "term": "ルド",
+      "term": "パイプラ",
       "count": 19
     },
     {
-      "term": "actions",
-      "count": 17
+      "term": "設定",
+      "count": 18
     },
     {
-      "term": "ない",
-      "count": 17
+      "term": "によ",
+      "count": 16
+    },
+    {
+      "term": "の保",
+      "count": 16
+    },
+    {
+      "term": "ービ",
+      "count": 16
+    },
+    {
+      "term": "トフ",
+      "count": 15
     },
     {
       "term": "的な",
       "count": 15
     },
     {
-      "term": "トリ",
+      "term": "cat",
       "count": 15
     },
     {
-      "term": "ツー",
+      "term": "いて",
       "count": 14
     },
     {
-      "term": "よび",
+      "term": "イン",
       "count": 13
     },
     {
-      "term": "安全性の",
+      "term": "担保",
+      "count": 12
+    },
+    {
+      "term": "を取",
+      "count": 12
+    },
+    {
+      "term": "こで",
+      "count": 12
+    },
+    {
+      "term": "脆弱",
       "count": 11
     },
     {
-      "term": "状態",
+      "term": "って",
       "count": 11
     },
     {
-      "term": "ecr",
+      "term": "依存",
       "count": 11
     },
     {
-      "term": "ント",
-      "count": 10
+      "term": "の設",
+      "count": 11
     },
     {
-      "term": "信頼",
-      "count": 10
-    },
-    {
-      "term": "ソー",
+      "term": "ムチ",
       "count": 10
     },
     {
@@ -70,135 +82,123 @@
       "count": 10
     },
     {
+      "term": "sbom",
+      "count": 10
+    },
+    {
       "term": "セス",
       "count": 10
     },
     {
-      "term": "確保",
+      "term": "trivy",
+      "count": 10
+    },
+    {
+      "term": "リバ",
       "count": 9
     },
     {
-      "term": "ルの",
+      "term": "環境",
       "count": 9
     },
     {
-      "term": "outputs",
-      "count": 9
-    },
-    {
-      "term": "リソ",
+      "term": "トに",
       "count": 8
     },
     {
-      "term": "が考",
+      "term": "物を",
       "count": 8
     },
     {
-      "term": "能で",
+      "term": "トを",
       "count": 8
     },
     {
-      "term": "洩対",
+      "term": "ズの",
       "count": 7
     },
     {
-      "term": "リ及",
+      "term": "イル",
       "count": 7
     },
     {
-      "term": "を含",
+      "term": "バイナリ",
       "count": 7
     },
     {
-      "term": "イナ",
+      "term": "れて",
       "count": 7
     },
     {
-      "term": "定義",
+      "term": "記述",
       "count": 7
     },
     {
-      "term": "ップ",
+      "term": "ムチーム",
       "count": 7
     },
     {
-      "term": "強制",
+      "term": "ャン",
       "count": 7
     },
     {
-      "term": "to",
+      "term": "可能であ",
       "count": 7
     },
     {
-      "term": "ード管理",
+      "term": "yml",
+      "count": 7
+    },
+    {
+      "term": "ンに",
       "count": 6
     },
     {
-      "term": "成 ",
+      "term": "ド管",
       "count": 6
     },
     {
-      "term": "シス",
+      "term": "範囲の制",
       "count": 6
     },
     {
-      "term": "ショ",
+      "term": "方法",
       "count": 6
     },
     {
-      "term": "の事",
+      "term": "取り",
       "count": 6
     },
     {
-      "term": "クト",
+      "term": "レビ",
       "count": 6
     },
     {
-      "term": "rule",
+      "term": "図 ",
       "count": 6
     },
     {
-      "term": "容を",
+      "term": "steps",
       "count": 6
     },
     {
-      "term": "への",
+      "term": "えて",
       "count": 6
     },
     {
-      "term": "た場",
-      "count": 6
-    },
-    {
-      "term": "env",
-      "count": 6
-    },
-    {
-      "term": "checkout",
-      "count": 6
-    },
-    {
-      "term": "スチ",
-      "count": 6
-    },
-    {
-      "term": "シナ",
+      "term": "用保",
       "count": 5
     },
     {
-      "term": "理を含む",
+      "term": "た信",
       "count": 5
     },
     {
-      "term": "リテ",
+      "term": "自体",
       "count": 5
     },
     {
-      "term": "れに",
-      "count": 5
-    },
-    {
-      "term": "よっ",
+      "term": "での実行",
       "count": 5
     }
   ],
