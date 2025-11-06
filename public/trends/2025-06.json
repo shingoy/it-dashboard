@@ -2,103 +2,59 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "プラ",
-      "count": 26
-    },
-    {
-      "term": "した",
+      "term": "して",
       "count": 24
     },
     {
-      "term": "トリ",
-      "count": 20
-    },
-    {
-      "term": "ット",
-      "count": 20
+      "term": "ビル",
+      "count": 19
     },
     {
       "term": "チー",
       "count": 18
     },
     {
-      "term": "aws",
+      "term": "デー",
       "count": 17
     },
     {
-      "term": "ムチ",
+      "term": "ムの",
       "count": 15
     },
     {
-      "term": "する",
-      "count": 15
-    },
-    {
-      "term": "内容",
+      "term": "いて",
       "count": 14
     },
     {
-      "term": "成果",
+      "term": "図 ",
       "count": 14
     },
     {
-      "term": "ーク",
+      "term": "確認",
       "count": 13
     },
     {
-      "term": "ール",
-      "count": 13
-    },
-    {
-      "term": "った",
-      "count": 13
-    },
-    {
-      "term": "護 ",
+      "term": "の保",
       "count": 12
     },
     {
-      "term": "リポ",
-      "count": 12
-    },
-    {
-      "term": "保護",
-      "count": 12
-    },
-    {
-      "term": "の実",
+      "term": "安全性の",
       "count": 11
-    },
-    {
-      "term": "成果物の",
-      "count": 11
-    },
-    {
-      "term": "terraform",
-      "count": 11
-    },
-    {
-      "term": "セス",
-      "count": 10
     },
     {
       "term": "https",
+      "count": 11
+    },
+    {
+      "term": "理を",
       "count": 10
     },
     {
-      "term": "保 ",
-      "count": 9
+      "term": "弱性",
+      "count": 10
     },
     {
-      "term": "の制",
-      "count": 9
-    },
-    {
-      "term": "にも",
-      "count": 9
-    },
-    {
-      "term": "ウェ",
+      "term": "策 ",
       "count": 9
     },
     {
@@ -106,27 +62,19 @@
       "count": 9
     },
     {
-      "term": "run",
+      "term": "アク",
       "count": 9
     },
     {
-      "term": "実行",
-      "count": 9
-    },
-    {
-      "term": "テム",
+      "term": "よる",
       "count": 8
     },
     {
-      "term": "トに",
+      "term": "リソ",
       "count": 8
     },
     {
-      "term": "通し",
-      "count": 8
-    },
-    {
-      "term": "理を",
+      "term": "ング",
       "count": 8
     },
     {
@@ -134,27 +82,35 @@
       "count": 7
     },
     {
-      "term": "の漏",
+      "term": "イナ",
       "count": 7
     },
     {
-      "term": "ョン",
+      "term": "ソフ",
       "count": 7
     },
     {
-      "term": "性が",
+      "term": "デリ",
       "count": 7
     },
     {
-      "term": "考えられ",
+      "term": "もの",
       "count": 7
     },
     {
-      "term": "そのため",
+      "term": "連携",
       "count": 7
     },
     {
-      "term": "ショ",
+      "term": "ード管理",
+      "count": 6
+    },
+    {
+      "term": "ュリ",
+      "count": 6
+    },
+    {
+      "term": "運用",
       "count": 6
     },
     {
@@ -162,7 +118,15 @@
       "count": 6
     },
     {
-      "term": "バイナリ",
+      "term": "デリバリ",
+      "count": 6
+    },
+    {
+      "term": "複数",
+      "count": 6
+    },
+    {
+      "term": "完全",
       "count": 6
     },
     {
@@ -170,35 +134,71 @@
       "count": 6
     },
     {
-      "term": "とい",
+      "term": "合は",
       "count": 6
     },
     {
-      "term": "のア",
+      "term": "critical",
       "count": 6
     },
     {
-      "term": "らの",
-      "count": 6
-    },
-    {
-      "term": "tf",
-      "count": 6
-    },
-    {
-      "term": "uses",
-      "count": 6
-    },
-    {
-      "term": "ド ",
+      "term": "の漏洩対",
       "count": 5
     },
     {
-      "term": "保守",
+      "term": "保 ",
       "count": 5
     },
     {
-      "term": "ローカル",
+      "term": "てc",
+      "count": 5
+    },
+    {
+      "term": "を想",
+      "count": 5
+    },
+    {
+      "term": "理す",
+      "count": 5
+    },
+    {
+      "term": "フェーズ",
+      "count": 5
+    },
+    {
+      "term": "実現",
+      "count": 5
+    },
+    {
+      "term": "得し",
+      "count": 5
+    },
+    {
+      "term": "ラー",
+      "count": 5
+    },
+    {
+      "term": "定を",
+      "count": 5
+    },
+    {
+      "term": "エラ",
+      "count": 5
+    },
+    {
+      "term": "jobs",
+      "count": 5
+    },
+    {
+      "term": "to",
+      "count": 5
+    },
+    {
+      "term": "を指定す",
+      "count": 5
+    },
+    {
+      "term": "トが",
       "count": 5
     }
   ],
