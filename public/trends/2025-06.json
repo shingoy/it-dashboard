@@ -2,8 +2,8 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 25
+      "term": "プラ",
+      "count": 26
     },
     {
       "term": "した",
@@ -14,192 +14,192 @@
       "count": 20
     },
     {
-      "term": "であ",
-      "count": 19
+      "term": "ット",
+      "count": 20
     },
     {
-      "term": "署名",
+      "term": "チー",
+      "count": 18
+    },
+    {
+      "term": "aws",
+      "count": 17
+    },
+    {
+      "term": "ムチ",
       "count": 15
     },
     {
-      "term": "メタ",
+      "term": "する",
       "count": 15
     },
     {
-      "term": "いて",
+      "term": "内容",
       "count": 14
-    },
-    {
-      "term": "設定",
-      "count": 14
-    },
-    {
-      "term": "中略",
-      "count": 14
-    },
-    {
-      "term": "ンを",
-      "count": 13
-    },
-    {
-      "term": "のた",
-      "count": 13
-    },
-    {
-      "term": "ロー",
-      "count": 12
-    },
-    {
-      "term": "こで",
-      "count": 12
-    },
-    {
-      "term": "のc",
-      "count": 11
-    },
-    {
-      "term": "ェー",
-      "count": 11
-    },
-    {
-      "term": "要が",
-      "count": 11
-    },
-    {
-      "term": "理を",
-      "count": 10
-    },
-    {
-      "term": "クレ",
-      "count": 10
-    },
-    {
-      "term": "の信",
-      "count": 10
-    },
-    {
-      "term": "メン",
-      "count": 9
-    },
-    {
-      "term": "リバ",
-      "count": 9
-    },
-    {
-      "term": "アク",
-      "count": 9
     },
     {
       "term": "成果",
+      "count": 14
+    },
+    {
+      "term": "ーク",
+      "count": 13
+    },
+    {
+      "term": "ール",
+      "count": 13
+    },
+    {
+      "term": "った",
+      "count": 13
+    },
+    {
+      "term": "護 ",
+      "count": 12
+    },
+    {
+      "term": "リポ",
+      "count": 12
+    },
+    {
+      "term": "保護",
+      "count": 12
+    },
+    {
+      "term": "の実",
+      "count": 11
+    },
+    {
+      "term": "成果物の",
+      "count": 11
+    },
+    {
+      "term": "terraform",
+      "count": 11
+    },
+    {
+      "term": "セス",
+      "count": 10
+    },
+    {
+      "term": "https",
+      "count": 10
+    },
+    {
+      "term": "保 ",
       "count": 9
     },
     {
-      "term": "ラン",
+      "term": "の制",
+      "count": 9
+    },
+    {
+      "term": "にも",
+      "count": 9
+    },
+    {
+      "term": "ウェ",
+      "count": 9
+    },
+    {
+      "term": "の対",
+      "count": 9
+    },
+    {
+      "term": "run",
+      "count": 9
+    },
+    {
+      "term": "実行",
+      "count": 9
+    },
+    {
+      "term": "テム",
       "count": 8
     },
     {
-      "term": "リソ",
+      "term": "トに",
       "count": 8
     },
     {
-      "term": "ング",
+      "term": "通し",
       "count": 8
     },
     {
-      "term": "を実",
+      "term": "理を",
       "count": 8
     },
     {
-      "term": "のよ",
-      "count": 8
+      "term": "組織",
+      "count": 7
     },
     {
-      "term": "steps",
-      "count": 8
+      "term": "の漏",
+      "count": 7
+    },
+    {
+      "term": "ョン",
+      "count": 7
+    },
+    {
+      "term": "性が",
+      "count": 7
+    },
+    {
+      "term": "考えられ",
+      "count": 7
+    },
+    {
+      "term": "そのため",
+      "count": 7
+    },
+    {
+      "term": "ショ",
+      "count": 6
+    },
+    {
+      "term": "プロバイ",
+      "count": 6
+    },
+    {
+      "term": "バイナリ",
+      "count": 6
+    },
+    {
+      "term": "の変",
+      "count": 6
+    },
+    {
+      "term": "とい",
+      "count": 6
+    },
+    {
+      "term": "のア",
+      "count": 6
+    },
+    {
+      "term": "らの",
+      "count": 6
+    },
+    {
+      "term": "tf",
+      "count": 6
+    },
+    {
+      "term": "uses",
+      "count": 6
+    },
+    {
+      "term": "ド ",
+      "count": 5
+    },
+    {
+      "term": "保守",
+      "count": 5
     },
     {
       "term": "ローカル",
-      "count": 7
-    },
-    {
-      "term": "キー",
-      "count": 7
-    },
-    {
-      "term": "にお",
-      "count": 7
-    },
-    {
-      "term": "る主",
-      "count": 7
-    },
-    {
-      "term": "連携",
-      "count": 7
-    },
-    {
-      "term": "可能であ",
-      "count": 7
-    },
-    {
-      "term": "to",
-      "count": 7
-    },
-    {
-      "term": "図 ",
-      "count": 7
-    },
-    {
-      "term": "が考",
-      "count": 7
-    },
-    {
-      "term": "env",
-      "count": 7
-    },
-    {
-      "term": "の漏洩対",
-      "count": 6
-    },
-    {
-      "term": "につ",
-      "count": 6
-    },
-    {
-      "term": "イン",
-      "count": 6
-    },
-    {
-      "term": "ージ",
-      "count": 6
-    },
-    {
-      "term": "ソフトウ",
-      "count": 6
-    },
-    {
-      "term": "10",
-      "count": 6
-    },
-    {
-      "term": "タデータ",
-      "count": 6
-    },
-    {
-      "term": "ウン",
-      "count": 6
-    },
-    {
-      "term": "うこ",
-      "count": 6
-    },
-    {
-      "term": "対す",
-      "count": 6
-    },
-    {
-      "term": "の事",
-      "count": 6
+      "count": 5
     }
   ],
   "meetings": [
