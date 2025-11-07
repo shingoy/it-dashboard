@@ -2,31 +2,27 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "して",
-      "count": 24
+      "term": "ある",
+      "count": 25
     },
     {
-      "term": "ビル",
-      "count": 19
+      "term": "パイ",
+      "count": 21
     },
     {
-      "term": "チー",
-      "count": 18
+      "term": "てい",
+      "count": 21
     },
     {
-      "term": "デー",
+      "term": "物の",
       "count": 17
     },
     {
-      "term": "ムの",
+      "term": "ナイ",
       "count": 15
     },
     {
-      "term": "いて",
-      "count": 14
-    },
-    {
-      "term": "図 ",
+      "term": "全性",
       "count": 14
     },
     {
@@ -34,172 +30,176 @@
       "count": 13
     },
     {
-      "term": "の保",
-      "count": 12
-    },
-    {
-      "term": "安全性の",
+      "term": "につ",
       "count": 11
     },
     {
-      "term": "https",
+      "term": "スコ",
       "count": 11
     },
     {
-      "term": "理を",
+      "term": "10",
+      "count": 11
+    },
+    {
+      "term": "チェ",
+      "count": 11
+    },
+    {
+      "term": "はな",
+      "count": 11
+    },
+    {
+      "term": "この",
+      "count": 11
+    },
+    {
+      "term": "の設",
+      "count": 11
+    },
+    {
+      "term": "確保",
       "count": 10
-    },
-    {
-      "term": "弱性",
-      "count": 10
-    },
-    {
-      "term": "策 ",
-      "count": 9
-    },
-    {
-      "term": "の対",
-      "count": 9
-    },
-    {
-      "term": "アク",
-      "count": 9
-    },
-    {
-      "term": "よる",
-      "count": 8
-    },
-    {
-      "term": "リソ",
-      "count": 8
-    },
-    {
-      "term": "ング",
-      "count": 8
-    },
-    {
-      "term": "組織",
-      "count": 7
-    },
-    {
-      "term": "イナ",
-      "count": 7
-    },
-    {
-      "term": "ソフ",
-      "count": 7
-    },
-    {
-      "term": "デリ",
-      "count": 7
-    },
-    {
-      "term": "もの",
-      "count": 7
-    },
-    {
-      "term": "連携",
-      "count": 7
-    },
-    {
-      "term": "ード管理",
-      "count": 6
-    },
-    {
-      "term": "ュリ",
-      "count": 6
-    },
-    {
-      "term": "運用",
-      "count": 6
-    },
-    {
-      "term": "プロバイ",
-      "count": 6
-    },
-    {
-      "term": "デリバリ",
-      "count": 6
-    },
-    {
-      "term": "複数",
-      "count": 6
-    },
-    {
-      "term": "完全",
-      "count": 6
-    },
-    {
-      "term": "の変",
-      "count": 6
-    },
-    {
-      "term": "合は",
-      "count": 6
-    },
-    {
-      "term": "critical",
-      "count": 6
-    },
-    {
-      "term": "の漏洩対",
-      "count": 5
     },
     {
       "term": "保 ",
-      "count": 5
+      "count": 10
     },
     {
-      "term": "てc",
-      "count": 5
+      "term": "フェ",
+      "count": 10
     },
     {
-      "term": "を想",
-      "count": 5
+      "term": "ー ",
+      "count": 10
     },
     {
-      "term": "理す",
-      "count": 5
+      "term": "取得",
+      "count": 10
     },
     {
-      "term": "フェーズ",
-      "count": 5
+      "term": "スキ",
+      "count": 10
     },
     {
-      "term": "実現",
-      "count": 5
-    },
-    {
-      "term": "得し",
-      "count": 5
-    },
-    {
-      "term": "ラー",
-      "count": 5
-    },
-    {
-      "term": "定を",
-      "count": 5
-    },
-    {
-      "term": "エラ",
-      "count": 5
-    },
-    {
-      "term": "jobs",
-      "count": 5
+      "term": "こと",
+      "count": 10
     },
     {
       "term": "to",
-      "count": 5
+      "count": 10
     },
     {
-      "term": "を指定す",
-      "count": 5
+      "term": "性の",
+      "count": 9
     },
     {
-      "term": "トが",
-      "count": 5
+      "term": "れて",
+      "count": 9
+    },
+    {
+      "term": "そのため",
+      "count": 9
+    },
+    {
+      "term": "ンa",
+      "count": 9
+    },
+    {
+      "term": "とい",
+      "count": 9
+    },
+    {
+      "term": "通し",
+      "count": 8
+    },
+    {
+      "term": "要が",
+      "count": 8
+    },
+    {
+      "term": "ファ",
+      "count": 8
+    },
+    {
+      "term": "ェーズの",
+      "count": 7
+    },
+    {
+      "term": "トの",
+      "count": 7
+    },
+    {
+      "term": "17",
+      "count": 7
+    },
+    {
+      "term": "すべ",
+      "count": 7
+    },
+    {
+      "term": "にす",
+      "count": 7
+    },
+    {
+      "term": "ークレッ",
+      "count": 7
+    },
+    {
+      "term": "はg",
+      "count": 7
+    },
+    {
+      "term": "https",
+      "count": 7
+    },
+    {
+      "term": "とは",
+      "count": 7
+    },
+    {
+      "term": "ワー",
+      "count": 6
+    },
+    {
+      "term": "ット情報",
+      "count": 6
+    },
+    {
+      "term": "ブラ",
+      "count": 6
+    },
+    {
+      "term": "24",
+      "count": 6
+    },
+    {
+      "term": "した",
+      "count": 6
+    },
+    {
+      "term": "に対",
+      "count": 6
+    },
+    {
+      "term": "の利",
+      "count": 6
+    },
+    {
+      "term": "される",
+      "count": 6
+    },
+    {
+      "term": "commit",
+      "count": 6
+    },
+    {
+      "term": "よう",
+      "count": 6
+    },
+    {
+      "term": "た場",
+      "count": 6
     }
   ],
   "meetings": [
