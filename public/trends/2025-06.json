@@ -2,83 +2,91 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "こと",
+      "term": "きる",
       "count": 23
     },
     {
-      "term": "ァイ",
-      "count": 18
+      "term": "果物",
+      "count": 20
     },
     {
-      "term": "ci",
+      "term": "ファ",
+      "count": 20
+    },
+    {
+      "term": "ため",
+      "count": 20
+    },
+    {
+      "term": "ルド",
+      "count": 19
+    },
+    {
+      "term": "する",
       "count": 17
     },
     {
-      "term": "ービ",
-      "count": 16
+      "term": "これ",
+      "count": 17
     },
     {
-      "term": "よび",
+      "term": "また",
       "count": 15
     },
     {
-      "term": "ドフ",
+      "term": "られ",
       "count": 14
     },
     {
-      "term": "弱性",
+      "term": "るこ",
       "count": 14
     },
     {
-      "term": "リポジト",
+      "term": "タデ",
       "count": 14
     },
     {
-      "term": "頼性",
+      "term": "担保",
       "count": 13
     },
     {
-      "term": "ツー",
+      "term": "る図",
       "count": 13
     },
     {
-      "term": "ては",
+      "term": "この",
       "count": 13
     },
     {
-      "term": "ント",
+      "term": "情報",
       "count": 12
     },
     {
-      "term": "変更",
+      "term": "よる",
       "count": 12
     },
     {
-      "term": "を取",
+      "term": "コン",
       "count": 12
     },
     {
-      "term": "ティ",
+      "term": "チームの",
       "count": 11
     },
     {
-      "term": "範囲",
+      "term": "よび",
       "count": 11
     },
     {
-      "term": "10",
+      "term": "状態",
       "count": 11
     },
     {
-      "term": "terraform",
+      "term": "com",
       "count": 11
     },
     {
-      "term": "えら",
-      "count": 11
-    },
-    {
-      "term": "コー",
+      "term": "保 ",
       "count": 10
     },
     {
@@ -86,23 +94,27 @@
       "count": 10
     },
     {
-      "term": "クを",
+      "term": "イメージ",
       "count": 10
     },
     {
-      "term": "to",
+      "term": "のメ",
       "count": 10
     },
     {
-      "term": "策 ",
+      "term": "build",
+      "count": 10
+    },
+    {
+      "term": "env",
+      "count": 10
+    },
+    {
+      "term": "トウ",
       "count": 9
     },
     {
-      "term": "のリ",
-      "count": 9
-    },
-    {
-      "term": "デリ",
+      "term": "れた",
       "count": 9
     },
     {
@@ -110,11 +122,19 @@
       "count": 9
     },
     {
-      "term": "通し",
-      "count": 8
+      "term": "run",
+      "count": 9
     },
     {
-      "term": "性の",
+      "term": "push",
+      "count": 9
+    },
+    {
+      "term": "workflows",
+      "count": 9
+    },
+    {
+      "term": "いっ",
       "count": 8
     },
     {
@@ -122,83 +142,63 @@
       "count": 8
     },
     {
-      "term": "内で",
+      "term": "可能",
       "count": 8
     },
     {
-      "term": "env",
+      "term": "のよ",
       "count": 8
     },
     {
-      "term": "関す",
+      "term": "ンチ",
       "count": 7
     },
     {
-      "term": "いて",
+      "term": "書で",
       "count": 7
     },
     {
-      "term": "定 ",
-      "count": 7
-    },
-    {
-      "term": "れば",
-      "count": 7
-    },
-    {
-      "term": "定義",
-      "count": 7
-    },
-    {
-      "term": "name",
-      "count": 7
-    },
-    {
-      "term": "メン",
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "等の",
+      "term": "ソフトウ",
       "count": 6
     },
     {
-      "term": "スチ",
+      "term": "を ",
       "count": 6
     },
     {
-      "term": "trivy",
+      "term": "ツー",
       "count": 6
     },
     {
-      "term": "クト",
+      "term": "以外",
       "count": 6
     },
     {
-      "term": "ーテ",
+      "term": "に対",
       "count": 6
     },
     {
-      "term": "省略する",
+      "term": "策に",
       "count": 6
     },
     {
-      "term": "される",
+      "term": "の変",
       "count": 6
     },
     {
-      "term": "image",
+      "term": "のレ",
       "count": 6
     },
     {
-      "term": "high",
+      "term": "format",
       "count": 6
     },
     {
-      "term": "ド ",
-      "count": 5
-    },
-    {
-      "term": "自体",
+      "term": "とに",
       "count": 5
     }
   ],

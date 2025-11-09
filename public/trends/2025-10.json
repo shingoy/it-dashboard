@@ -2,183 +2,195 @@
   "month": "2025-10",
   "keywords": [
     {
+      "term": "する",
+      "count": 608
+    },
+    {
+      "term": "庁名",
+      "count": 415
+    },
+    {
       "term": "省 ",
-      "count": 954
+      "count": 367
     },
     {
-      "term": "等の",
-      "count": 929
+      "term": "よる",
+      "count": 366
     },
     {
-      "term": "関す",
-      "count": 793
-    },
-    {
-      "term": "知通",
-      "count": 496
-    },
-    {
-      "term": "いて",
-      "count": 455
-    },
-    {
-      "term": "る法",
-      "count": 420
-    },
-    {
-      "term": "10",
-      "count": 381
-    },
-    {
-      "term": "働省",
-      "count": 381
-    },
-    {
-      "term": "こと",
-      "count": 379
-    },
-    {
-      "term": "の2",
+      "term": "デジ",
       "count": 363
     },
     {
-      "term": "要 ",
-      "count": 345
+      "term": "ため",
+      "count": 352
     },
     {
-      "term": "第3",
-      "count": 275
+      "term": "目視",
+      "count": 337
     },
     {
-      "term": "対応",
-      "count": 269
+      "term": "ジタ",
+      "count": 328
     },
     {
-      "term": "内容",
-      "count": 263
+      "term": "通達",
+      "count": 323
     },
     {
-      "term": "定 ",
-      "count": 261
+      "term": "完了",
+      "count": 318
     },
     {
-      "term": "国土交通",
-      "count": 259
+      "term": "告示",
+      "count": 290
     },
     {
-      "term": "第6",
-      "count": 251
+      "term": "16",
+      "count": 267
     },
     {
-      "term": "通省",
-      "count": 250
+      "term": "中 ",
+      "count": 265
     },
     {
-      "term": "年度",
-      "count": 231
+      "term": "者の",
+      "count": 262
     },
     {
-      "term": "労働",
-      "count": 221
+      "term": "土交",
+      "count": 260
     },
     {
-      "term": "め ",
-      "count": 218
+      "term": "月3",
+      "count": 255
     },
     {
-      "term": "月まで",
-      "count": 218
+      "term": "るこ",
+      "count": 240
     },
     {
-      "term": "デジタル",
-      "count": 212
+      "term": "設備",
+      "count": 229
     },
     {
-      "term": "は改",
-      "count": 191
+      "term": "29",
+      "count": 200
     },
     {
-      "term": "おい",
-      "count": 184
+      "term": "又は",
+      "count": 198
     },
     {
-      "term": "しが",
-      "count": 184
+      "term": "いて",
+      "count": 194
     },
     {
-      "term": "律施",
-      "count": 181
+      "term": "報告",
+      "count": 186
     },
     {
-      "term": "措置",
-      "count": 172
+      "term": "の ",
+      "count": 186
+    },
+    {
+      "term": "情報",
+      "count": 183
+    },
+    {
+      "term": "業省",
+      "count": 183
+    },
+    {
+      "term": "表１",
+      "count": 183
+    },
+    {
+      "term": "和５",
+      "count": 178
+    },
+    {
+      "term": "財務",
+      "count": 177
     },
     {
       "term": "務省",
+      "count": 172
+    },
+    {
+      "term": "度 ",
+      "count": 168
+    },
+    {
+      "term": "管理",
+      "count": 167
+    },
+    {
+      "term": "に対",
+      "count": 166
+    },
+    {
+      "term": "20",
+      "count": 165
+    },
+    {
+      "term": "在p",
       "count": 163
     },
     {
-      "term": "につ",
-      "count": 161
-    },
-    {
-      "term": "し完",
+      "term": "申請",
       "count": 160
     },
     {
-      "term": "見直",
-      "count": 159
+      "term": "関 ",
+      "count": 157
+    },
+    {
+      "term": "ナロ",
+      "count": 157
     },
     {
       "term": "一般",
       "count": 155
     },
     {
-      "term": "又は",
-      "count": 155
+      "term": "を ",
+      "count": 153
     },
     {
-      "term": "知 ",
-      "count": 154
+      "term": "19",
+      "count": 151
     },
     {
-      "term": "おけ",
-      "count": 150
+      "term": "とさ",
+      "count": 149
     },
     {
-      "term": "ける",
-      "count": 147
+      "term": "第5",
+      "count": 149
     },
     {
-      "term": "見直しを",
+      "term": "及び",
+      "count": 148
+    },
+    {
+      "term": "する法律",
+      "count": 146
+    },
+    {
+      "term": "第 ",
+      "count": 144
+    },
+    {
+      "term": "の閲",
+      "count": 144
+    },
+    {
+      "term": "を活",
       "count": 142
     },
     {
-      "term": "制等",
-      "count": 141
-    },
-    {
-      "term": "則 ",
-      "count": 140
-    },
-    {
-      "term": "旨を",
-      "count": 140
-    },
-    {
-      "term": "表第",
-      "count": 139
-    },
-    {
-      "term": "変更",
-      "count": 138
-    },
-    {
-      "term": "める",
-      "count": 138
-    },
-    {
-      "term": "ービ",
+      "term": "法 ",
       "count": 138
     },
     {
@@ -186,20 +198,8 @@
       "count": 137
     },
     {
-      "term": "出 ",
-      "count": 133
-    },
-    {
-      "term": "請求",
-      "count": 128
-    },
-    {
-      "term": "出に",
-      "count": 127
-    },
-    {
-      "term": "業に",
-      "count": 125
+      "term": "の2",
+      "count": 135
     }
   ],
   "meetings": [
