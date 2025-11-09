@@ -2,203 +2,203 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "きる",
-      "count": 23
-    },
-    {
-      "term": "果物",
-      "count": 20
-    },
-    {
-      "term": "ファ",
-      "count": 20
+      "term": "ある",
+      "count": 25
     },
     {
       "term": "ため",
-      "count": 20
+      "count": 22
     },
     {
-      "term": "ルド",
-      "count": 19
+      "term": "であ",
+      "count": 22
     },
     {
-      "term": "する",
-      "count": 17
+      "term": "ージ",
+      "count": 18
     },
     {
-      "term": "これ",
-      "count": 17
+      "term": "ファ",
+      "count": 16
     },
     {
-      "term": "また",
+      "term": "ムの",
       "count": 15
     },
     {
-      "term": "られ",
+      "term": "内容",
       "count": 14
-    },
-    {
-      "term": "るこ",
-      "count": 14
-    },
-    {
-      "term": "タデ",
-      "count": 14
-    },
-    {
-      "term": "担保",
-      "count": 13
-    },
-    {
-      "term": "る図",
-      "count": 13
-    },
-    {
-      "term": "この",
-      "count": 13
-    },
-    {
-      "term": "情報",
-      "count": 12
-    },
-    {
-      "term": "よる",
-      "count": 12
     },
     {
       "term": "コン",
       "count": 12
     },
     {
-      "term": "チームの",
-      "count": 11
-    },
-    {
-      "term": "よび",
-      "count": 11
-    },
-    {
-      "term": "状態",
-      "count": 11
-    },
-    {
-      "term": "com",
-      "count": 11
-    },
-    {
-      "term": "保 ",
-      "count": 10
-    },
-    {
-      "term": "git",
-      "count": 10
-    },
-    {
-      "term": "イメージ",
-      "count": 10
-    },
-    {
       "term": "のメ",
+      "count": 12
+    },
+    {
+      "term": "る図",
+      "count": 11
+    },
+    {
+      "term": "の設",
+      "count": 11
+    },
+    {
+      "term": "を含",
       "count": 10
     },
     {
-      "term": "build",
+      "term": "確保",
       "count": 10
     },
     {
-      "term": "env",
+      "term": "ティ",
       "count": 10
     },
     {
-      "term": "トウ",
+      "term": "ける",
+      "count": 10
+    },
+    {
+      "term": "sbom",
+      "count": 10
+    },
+    {
+      "term": "セス",
+      "count": 10
+    },
+    {
+      "term": "to",
+      "count": 10
+    },
+    {
+      "term": "含む",
       "count": 9
     },
     {
-      "term": "れた",
+      "term": "の確",
       "count": 9
     },
     {
-      "term": "の対",
+      "term": "策 ",
       "count": 9
     },
     {
-      "term": "run",
+      "term": "ック",
       "count": 9
     },
     {
-      "term": "push",
+      "term": "対象",
       "count": 9
     },
     {
-      "term": "workflows",
-      "count": 9
-    },
-    {
-      "term": "いっ",
+      "term": "トに",
       "count": 8
     },
     {
-      "term": "ング",
+      "term": "ビルド上",
       "count": 8
     },
     {
-      "term": "可能",
+      "term": "性が",
       "count": 8
     },
     {
-      "term": "のよ",
+      "term": "ーを",
       "count": 8
     },
     {
-      "term": "ンチ",
+      "term": "ンa",
+      "count": 8
+    },
+    {
+      "term": "が考",
+      "count": 8
+    },
+    {
+      "term": "ダー",
       "count": 7
     },
     {
-      "term": "書で",
+      "term": "バイナリ",
       "count": 7
     },
     {
-      "term": "セキ",
+      "term": "範囲の制",
+      "count": 7
+    },
+    {
+      "term": "での実行",
+      "count": 7
+    },
+    {
+      "term": "もの",
+      "count": 7
+    },
+    {
+      "term": "version",
+      "count": 7
+    },
+    {
+      "term": "メタデー",
+      "count": 7
+    },
+    {
+      "term": "uses",
+      "count": 7
+    },
+    {
+      "term": "ード管理",
       "count": 6
     },
     {
-      "term": "ソフトウ",
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "を ",
+      "term": "スコ",
       "count": 6
     },
     {
-      "term": "ツー",
+      "term": "構成",
       "count": 6
     },
     {
-      "term": "以外",
+      "term": "ここでは",
       "count": 6
     },
     {
-      "term": "に対",
+      "term": "レビ",
       "count": 6
     },
     {
-      "term": "策に",
+      "term": "11",
       "count": 6
     },
     {
-      "term": "の変",
+      "term": "はパ",
       "count": 6
     },
     {
-      "term": "のレ",
-      "count": 6
+      "term": "トは",
+      "count": 5
     },
     {
-      "term": "format",
-      "count": 6
+      "term": "ード",
+      "count": 5
     },
     {
-      "term": "とに",
+      "term": "限 ",
+      "count": 5
+    },
+    {
+      "term": "を想",
+      "count": 5
+    },
+    {
+      "term": "はa",
       "count": 5
     }
   ],
