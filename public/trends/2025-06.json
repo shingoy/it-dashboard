@@ -2,55 +2,79 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 25
+      "term": "るこ",
+      "count": 24
     },
     {
-      "term": "ため",
-      "count": 22
+      "term": "して",
+      "count": 24
     },
     {
-      "term": "であ",
-      "count": 22
+      "term": "ci",
+      "count": 17
     },
     {
-      "term": "ージ",
-      "count": 18
+      "term": "ェー",
+      "count": 17
     },
     {
-      "term": "ファ",
-      "count": 16
-    },
-    {
-      "term": "ムの",
+      "term": "ーズ",
       "count": 15
     },
     {
-      "term": "内容",
+      "term": "ラッ",
+      "count": 15
+    },
+    {
+      "term": "トフ",
+      "count": 15
+    },
+    {
+      "term": "での",
       "count": 14
     },
     {
-      "term": "コン",
+      "term": "ジト",
+      "count": 14
+    },
+    {
+      "term": "中略",
+      "count": 14
+    },
+    {
+      "term": "ンを",
+      "count": 13
+    },
+    {
+      "term": "頼性",
+      "count": 13
+    },
+    {
+      "term": "生成",
+      "count": 13
+    },
+    {
+      "term": "トの",
       "count": 12
     },
     {
-      "term": "のメ",
-      "count": 12
-    },
-    {
-      "term": "る図",
+      "term": "フォーム",
       "count": 11
     },
     {
-      "term": "の設",
+      "term": "ステ",
       "count": 11
     },
     {
-      "term": "を含",
-      "count": 10
+      "term": "terraform",
+      "count": 11
     },
     {
-      "term": "確保",
+      "term": "https",
+      "count": 11
+    },
+    {
+      "term": "ンチ",
       "count": 10
     },
     {
@@ -58,15 +82,11 @@
       "count": 10
     },
     {
-      "term": "ける",
+      "term": "コンテナ",
       "count": 10
     },
     {
-      "term": "sbom",
-      "count": 10
-    },
-    {
-      "term": "セス",
+      "term": "とし",
       "count": 10
     },
     {
@@ -74,63 +94,51 @@
       "count": 10
     },
     {
-      "term": "含む",
+      "term": "本書",
       "count": 9
-    },
-    {
-      "term": "の確",
-      "count": 9
-    },
-    {
-      "term": "策 ",
-      "count": 9
-    },
-    {
-      "term": "ック",
-      "count": 9
-    },
-    {
-      "term": "対象",
-      "count": 9
-    },
-    {
-      "term": "トに",
-      "count": 8
-    },
-    {
-      "term": "ビルド上",
-      "count": 8
-    },
-    {
-      "term": "性が",
-      "count": 8
-    },
-    {
-      "term": "ーを",
-      "count": 8
-    },
-    {
-      "term": "ンa",
-      "count": 8
-    },
-    {
-      "term": "が考",
-      "count": 8
-    },
-    {
-      "term": "ダー",
-      "count": 7
-    },
-    {
-      "term": "バイナリ",
-      "count": 7
     },
     {
       "term": "範囲の制",
+      "count": 8
+    },
+    {
+      "term": "有の",
+      "count": 8
+    },
+    {
+      "term": "ている",
+      "count": 8
+    },
+    {
+      "term": "それ",
+      "count": 8
+    },
+    {
+      "term": "作成",
+      "count": 8
+    },
+    {
+      "term": "には",
+      "count": 8
+    },
+    {
+      "term": "強制",
+      "count": 8
+    },
+    {
+      "term": "アク",
+      "count": 8
+    },
+    {
+      "term": "共通",
       "count": 7
     },
     {
-      "term": "での実行",
+      "term": "フェーズ",
+      "count": 7
+    },
+    {
+      "term": "るプ",
       "count": 7
     },
     {
@@ -138,47 +146,51 @@
       "count": 7
     },
     {
-      "term": "version",
+      "term": "トフォー",
       "count": 7
     },
     {
-      "term": "メタデー",
+      "term": "メタ",
       "count": 7
     },
     {
-      "term": "uses",
-      "count": 7
-    },
-    {
-      "term": "ード管理",
+      "term": "成 ",
       "count": 6
     },
     {
-      "term": "開発",
+      "term": "フェ",
       "count": 6
     },
     {
-      "term": "スコ",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "構成",
+      "term": "ルと",
       "count": 6
     },
     {
-      "term": "ここでは",
+      "term": "ス ",
       "count": 6
     },
     {
-      "term": "レビ",
+      "term": "カウ",
       "count": 6
     },
     {
-      "term": "11",
+      "term": "ウン",
       "count": 6
     },
     {
-      "term": "はパ",
+      "term": "ジの",
+      "count": 6
+    },
+    {
+      "term": "どの",
+      "count": 6
+    },
+    {
+      "term": "を指",
       "count": 6
     },
     {
@@ -186,19 +198,7 @@
       "count": 5
     },
     {
-      "term": "ード",
-      "count": 5
-    },
-    {
-      "term": "限 ",
-      "count": 5
-    },
-    {
-      "term": "を想",
-      "count": 5
-    },
-    {
-      "term": "はa",
+      "term": "めの",
       "count": 5
     }
   ],
