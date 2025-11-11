@@ -2,123 +2,127 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "する",
-      "count": 28
+      "term": "物の",
+      "count": 17
     },
     {
-      "term": "成果",
-      "count": 20
+      "term": "ない",
+      "count": 17
     },
     {
-      "term": "設定",
-      "count": 19
+      "term": "によ",
+      "count": 16
     },
     {
-      "term": "ーム",
-      "count": 18
+      "term": "ービ",
+      "count": 16
     },
     {
-      "term": "リポジト",
-      "count": 18
+      "term": "フォ",
+      "count": 15
     },
     {
-      "term": "ドフ",
+      "term": "イメ",
+      "count": 15
+    },
+    {
+      "term": "られ",
       "count": 14
     },
     {
-      "term": "プロ",
-      "count": 14
-    },
-    {
-      "term": "ツー",
-      "count": 14
-    },
-    {
-      "term": "とな",
-      "count": 14
-    },
-    {
-      "term": "イプ",
+      "term": "にお",
       "count": 13
     },
     {
-      "term": "して",
+      "term": "頼性",
       "count": 13
     },
     {
-      "term": "され",
+      "term": "ムの",
+      "count": 13
+    },
+    {
+      "term": "用す",
+      "count": 13
+    },
+    {
+      "term": "id",
+      "count": 13
+    },
+    {
+      "term": "メー",
       "count": 12
     },
     {
-      "term": "つい",
+      "term": "はc",
       "count": 11
     },
     {
-      "term": "とす",
+      "term": "上で",
       "count": 11
     },
     {
-      "term": "の実",
+      "term": "範囲",
       "count": 11
+    },
+    {
+      "term": "制限",
+      "count": 11
+    },
+    {
+      "term": "加え",
+      "count": 11
+    },
+    {
+      "term": "理を",
+      "count": 10
     },
     {
       "term": "定し",
       "count": 10
     },
     {
-      "term": "内で",
-      "count": 10
-    },
-    {
-      "term": "ここ",
-      "count": 10
-    },
-    {
-      "term": "sbom",
-      "count": 10
-    },
-    {
-      "term": "れた",
-      "count": 10
-    },
-    {
-      "term": "のリ",
+      "term": "ティ",
       "count": 9
     },
     {
-      "term": "脆弱性管",
+      "term": "れて",
       "count": 9
     },
     {
-      "term": "デリ",
+      "term": "ルの",
       "count": 9
     },
     {
-      "term": "の制",
+      "term": "のア",
       "count": 9
     },
     {
-      "term": "に対",
-      "count": 9
-    },
-    {
-      "term": "指定",
-      "count": 9
-    },
-    {
-      "term": "リバ",
+      "term": "る具",
       "count": 8
     },
     {
-      "term": "本書",
+      "term": "ecr",
       "count": 8
     },
     {
-      "term": "リテ",
-      "count": 7
+      "term": "能で",
+      "count": 8
     },
     {
       "term": "plan",
+      "count": 7
+    },
+    {
+      "term": "ンb",
+      "count": 7
+    },
+    {
+      "term": "デー",
+      "count": 7
+    },
+    {
+      "term": "い ",
       "count": 7
     },
     {
@@ -126,27 +130,27 @@
       "count": 7
     },
     {
-      "term": "る図",
+      "term": "ーに",
       "count": 7
     },
     {
-      "term": "るた",
-      "count": 7
-    },
-    {
-      "term": "uses",
-      "count": 7
-    },
-    {
-      "term": "ド管",
+      "term": "詳細",
       "count": 6
     },
     {
-      "term": "ート",
+      "term": "チの",
       "count": 6
     },
     {
-      "term": "の漏洩対",
+      "term": "成 ",
+      "count": 6
+    },
+    {
+      "term": "キュ",
+      "count": 6
+    },
+    {
+      "term": "策 ",
       "count": 6
     },
     {
@@ -154,51 +158,47 @@
       "count": 6
     },
     {
-      "term": "プロバイ",
+      "term": "体の",
       "count": 6
     },
     {
-      "term": "供す",
+      "term": "フェーズ",
       "count": 6
     },
     {
-      "term": "うこ",
+      "term": "範囲の制",
       "count": 6
     },
     {
-      "term": "ジの",
+      "term": "得し",
       "count": 6
     },
     {
-      "term": "完全",
+      "term": "はプ",
       "count": 6
     },
     {
-      "term": "のg",
+      "term": "ル ",
       "count": 6
     },
     {
-      "term": "and",
+      "term": "は３",
       "count": 6
     },
     {
-      "term": "steps",
+      "term": "secrets",
       "count": 6
     },
     {
-      "term": "保守",
-      "count": 5
+      "term": "では",
+      "count": 6
     },
     {
-      "term": "ト ",
-      "count": 5
+      "term": "た場",
+      "count": 6
     },
     {
       "term": "要 ",
-      "count": 5
-    },
-    {
-      "term": "理シ",
       "count": 5
     }
   ],
