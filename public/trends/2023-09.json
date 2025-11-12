@@ -2,135 +2,139 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "マッ",
+      "term": "対象",
       "count": 3
     },
     {
-      "term": "会 ",
+      "term": "ジーマッ",
       "count": 3
     },
     {
-      "term": "メー",
+      "term": "の ",
       "count": 3
-    },
-    {
-      "term": "有機",
-      "count": 3
-    },
-    {
-      "term": "ノロ",
-      "count": 3
-    },
-    {
-      "term": "実装",
-      "count": 3
-    },
-    {
-      "term": "ップ",
-      "count": 3
-    },
-    {
-      "term": "技術カタ",
-      "count": 2
-    },
-    {
-      "term": "の活動等",
-      "count": 2
-    },
-    {
-      "term": "ット",
-      "count": 2
-    },
-    {
-      "term": "個別",
-      "count": 2
-    },
-    {
-      "term": "けた",
-      "count": 2
-    },
-    {
-      "term": "コンソー",
-      "count": 2
-    },
-    {
-      "term": "ムへ",
-      "count": 2
-    },
-    {
-      "term": "につい",
-      "count": 2
-    },
-    {
-      "term": "シアムや",
-      "count": 2
-    },
-    {
-      "term": "別呼",
-      "count": 2
-    },
-    {
-      "term": "け ",
-      "count": 2
-    },
-    {
-      "term": "て周",
-      "count": 2
-    },
-    {
-      "term": "等の募集",
-      "count": 2
-    },
-    {
-      "term": "呼び",
-      "count": 2
-    },
-    {
-      "term": "ード",
-      "count": 2
-    },
-    {
-      "term": "況を把握",
-      "count": 2
-    },
-    {
-      "term": "築 ",
-      "count": 2
-    },
-    {
-      "term": "た規",
-      "count": 2
-    },
-    {
-      "term": "イメージ",
-      "count": 2
-    },
-    {
-      "term": "省庁",
-      "count": 2
-    },
-    {
-      "term": "ーマ",
-      "count": 2
     },
     {
       "term": "ン ",
+      "count": 3
+    },
+    {
+      "term": "た規",
+      "count": 3
+    },
+    {
+      "term": "らの",
+      "count": 3
+    },
+    {
+      "term": "等を",
+      "count": 3
+    },
+    {
+      "term": "提供",
       "count": 2
     },
     {
-      "term": "テクノロ",
+      "term": "を検討",
       "count": 2
     },
     {
-      "term": "の具",
+      "term": "所管",
       "count": 2
     },
     {
-      "term": "可能",
-      "count": 1
+      "term": "の期",
+      "count": 2
     },
     {
-      "term": "方法に",
+      "term": "らへ",
+      "count": 2
+    },
+    {
+      "term": "への参加",
+      "count": 2
+    },
+    {
+      "term": "regtech",
+      "count": 2
+    },
+    {
+      "term": "を提",
+      "count": 2
+    },
+    {
+      "term": "める",
+      "count": 2
+    },
+    {
+      "term": "から",
+      "count": 2
+    },
+    {
+      "term": "の場",
+      "count": 2
+    },
+    {
+      "term": "他省庁等",
+      "count": 2
+    },
+    {
+      "term": "シン",
+      "count": 2
+    },
+    {
+      "term": "術開発の",
+      "count": 2
+    },
+    {
+      "term": "の実",
+      "count": 2
+    },
+    {
+      "term": "の検",
+      "count": 2
+    },
+    {
+      "term": "成果",
+      "count": 2
+    },
+    {
+      "term": "他省",
+      "count": 2
+    },
+    {
+      "term": "装イ",
+      "count": 2
+    },
+    {
+      "term": "会 ",
+      "count": 2
+    },
+    {
+      "term": "マッ",
+      "count": 2
+    },
+    {
+      "term": "グに",
+      "count": 2
+    },
+    {
+      "term": "事業の速",
+      "count": 2
+    },
+    {
+      "term": "報を共有",
+      "count": 2
+    },
+    {
+      "term": "を通",
+      "count": 2
+    },
+    {
+      "term": "技術検証",
+      "count": 2
+    },
+    {
+      "term": "の関",
       "count": 1
     },
     {
@@ -138,27 +142,7 @@
       "count": 1
     },
     {
-      "term": "的に",
-      "count": 1
-    },
-    {
-      "term": "体規",
-      "count": 1
-    },
-    {
-      "term": "機関がテ",
-      "count": 1
-    },
-    {
-      "term": "組方法や",
-      "count": 1
-    },
-    {
-      "term": "や中",
-      "count": 1
-    },
-    {
-      "term": "事務",
+      "term": "続的",
       "count": 1
     },
     {
@@ -166,39 +150,55 @@
       "count": 1
     },
     {
-      "term": "版 ",
+      "term": "発力の更",
       "count": 1
     },
     {
-      "term": "課題",
+      "term": "ーを",
       "count": 1
     },
     {
-      "term": "効果",
+      "term": "どのよう",
+      "count": 1
+    },
+    {
+      "term": "治体",
+      "count": 1
+    },
+    {
+      "term": "関する説",
+      "count": 1
+    },
+    {
+      "term": "新市場創",
+      "count": 1
+    },
+    {
+      "term": "関が",
+      "count": 1
+    },
+    {
+      "term": "え経",
+      "count": 1
+    },
+    {
+      "term": "シアムに",
+      "count": 1
+    },
+    {
+      "term": "スタ",
+      "count": 1
+    },
+    {
+      "term": "を有する",
+      "count": 1
+    },
+    {
+      "term": "業に",
       "count": 1
     },
     {
       "term": "体的",
-      "count": 1
-    },
-    {
-      "term": "団法",
-      "count": 1
-    },
-    {
-      "term": "ピタ",
-      "count": 1
-    },
-    {
-      "term": "装に",
-      "count": 1
-    },
-    {
-      "term": "ャピ",
-      "count": 1
-    },
-    {
-      "term": "の学",
       "count": 1
     }
   ],

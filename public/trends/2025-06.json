@@ -2,51 +2,43 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ット",
+      "term": "ある",
+      "count": 25
+    },
+    {
+      "term": "成果",
       "count": 20
     },
     {
-      "term": "パイプラ",
-      "count": 20
-    },
-    {
-      "term": "イン",
-      "count": 20
-    },
-    {
-      "term": "とし",
-      "count": 18
-    },
-    {
-      "term": "ci",
-      "count": 17
-    },
-    {
-      "term": "物の",
-      "count": 17
-    },
-    {
-      "term": "ーム",
+      "term": "保護",
       "count": 15
     },
     {
-      "term": "また",
+      "term": "から",
       "count": 15
     },
     {
-      "term": "メー",
-      "count": 15
-    },
-    {
-      "term": "ドフ",
+      "term": "全性",
       "count": 14
     },
     {
-      "term": "ード",
+      "term": "プロ",
       "count": 14
     },
     {
-      "term": "った",
+      "term": "ルを",
+      "count": 14
+    },
+    {
+      "term": "があ",
+      "count": 14
+    },
+    {
+      "term": "タデ",
+      "count": 14
+    },
+    {
+      "term": "workflows",
       "count": 14
     },
     {
@@ -54,67 +46,79 @@
       "count": 13
     },
     {
-      "term": "性の",
-      "count": 13
-    },
-    {
-      "term": "担保",
-      "count": 13
-    },
-    {
-      "term": "的に",
-      "count": 13
-    },
-    {
-      "term": "シークレ",
+      "term": "対策",
       "count": 12
     },
     {
-      "term": "ファイル",
-      "count": 12
+      "term": "の実",
+      "count": 11
     },
     {
-      "term": "可能",
-      "count": 12
+      "term": "ツー",
+      "count": 11
     },
     {
-      "term": "プラット",
+      "term": "保 ",
       "count": 10
     },
     {
-      "term": "sbom",
+      "term": "ン ",
       "count": 10
+    },
+    {
+      "term": "提供",
+      "count": 10
+    },
+    {
+      "term": "定し",
+      "count": 10
+    },
+    {
+      "term": "の ",
+      "count": 10
+    },
+    {
+      "term": "ァイ",
+      "count": 10
+    },
+    {
+      "term": "セス",
+      "count": 10
+    },
+    {
+      "term": "では",
+      "count": 10
+    },
+    {
+      "term": "護 ",
+      "count": 9
+    },
+    {
+      "term": "リバ",
+      "count": 9
     },
     {
       "term": "ーを",
       "count": 9
     },
     {
-      "term": "必要",
+      "term": "対象",
       "count": 9
     },
     {
-      "term": "権限",
-      "count": 9
-    },
-    {
-      "term": "及び",
+      "term": "フェーズ",
       "count": 8
     },
     {
-      "term": "性が",
+      "term": "ウェ",
       "count": 8
     },
     {
-      "term": "リス",
+      "term": "ャン",
       "count": 8
     },
     {
-      "term": "フト",
-      "count": 8
-    },
-    {
-      "term": "指定",
+      "term": "なる",
       "count": 8
     },
     {
@@ -122,39 +126,51 @@
       "count": 8
     },
     {
-      "term": "内の",
+      "term": "システム",
       "count": 7
     },
     {
-      "term": "でき",
+      "term": "ラッ",
       "count": 7
     },
     {
-      "term": "name",
+      "term": "および",
       "count": 7
     },
     {
-      "term": "チの",
+      "term": "ークレッ",
+      "count": 7
+    },
+    {
+      "term": "いう",
+      "count": 7
+    },
+    {
+      "term": "詳細",
       "count": 6
     },
     {
-      "term": "保 ",
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "ーズ",
+      "term": "24",
       "count": 6
     },
     {
-      "term": "頼で",
+      "term": "28",
       "count": 6
     },
     {
-      "term": "プロバイ",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "タデータ",
+      "term": "るプ",
+      "count": 6
+    },
+    {
+      "term": "はプ",
       "count": 6
     },
     {
@@ -162,44 +178,28 @@
       "count": 6
     },
     {
-      "term": "される",
+      "term": "それ",
       "count": 6
     },
     {
-      "term": "実装",
-      "count": 5
+      "term": "保で",
+      "count": 6
     },
     {
-      "term": "ト ",
-      "count": 5
+      "term": "らの",
+      "count": 6
     },
     {
-      "term": "サプ",
-      "count": 5
+      "term": "る ",
+      "count": 6
     },
     {
-      "term": "とを",
-      "count": 5
+      "term": "steps",
+      "count": 6
     },
     {
-      "term": "配布",
-      "count": 5
-    },
-    {
-      "term": "ルへ",
-      "count": 5
-    },
-    {
-      "term": "の成果物",
-      "count": 5
-    },
-    {
-      "term": "キャ",
-      "count": 5
-    },
-    {
-      "term": "者が",
-      "count": 5
+      "term": "合は",
+      "count": 6
     }
   ],
   "meetings": [
