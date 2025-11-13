@@ -2,187 +2,151 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 28
+      "term": "きる",
+      "count": 23
     },
     {
-      "term": "ある",
-      "count": 19
+      "term": "github",
+      "count": 23
     },
     {
-      "term": "管理",
+      "term": "ード",
+      "count": 21
+    },
+    {
+      "term": "れる",
+      "count": 21
+    },
+    {
+      "term": "ポジ",
+      "count": 20
+    },
+    {
+      "term": "でき",
+      "count": 20
+    },
+    {
+      "term": "安全",
       "count": 18
     },
     {
-      "term": "には",
+      "term": "とし",
+      "count": 18
+    },
+    {
+      "term": "ジト",
       "count": 17
     },
     {
-      "term": "では",
+      "term": "リポジト",
       "count": 16
     },
     {
-      "term": "cd",
+      "term": "ォー",
       "count": 15
     },
     {
-      "term": "よび",
+      "term": "name",
       "count": 15
     },
     {
-      "term": "メタ",
-      "count": 15
-    },
-    {
-      "term": "スコ",
+      "term": "スチ",
       "count": 14
     },
     {
-      "term": "った",
-      "count": 14
-    },
-    {
-      "term": "略 ",
-      "count": 14
-    },
-    {
-      "term": "中略",
+      "term": "ンを",
       "count": 13
     },
     {
-      "term": "タデ",
-      "count": 12
-    },
-    {
       "term": "確認",
-      "count": 12
-    },
-    {
-      "term": "プラット",
-      "count": 11
-    },
-    {
-      "term": "ステ",
-      "count": 11
-    },
-    {
-      "term": "依存物の",
-      "count": 11
+      "count": 13
     },
     {
       "term": "制限",
       "count": 11
     },
     {
-      "term": "存物",
-      "count": 11
-    },
-    {
-      "term": "定す",
-      "count": 11
-    },
-    {
-      "term": "テナ",
-      "count": 11
-    },
-    {
-      "term": "必要",
-      "count": 11
-    },
-    {
-      "term": "の設",
-      "count": 11
-    },
-    {
-      "term": "を含",
+      "term": "おけ",
       "count": 10
     },
     {
-      "term": "ファイル",
+      "term": "定し",
       "count": 10
     },
     {
-      "term": "のリ",
+      "term": "ルを",
+      "count": 10
+    },
+    {
+      "term": "る\n",
+      "count": 10
+    },
+    {
+      "term": "性管",
       "count": 9
     },
     {
-      "term": "対象",
+      "term": "ウェ",
       "count": 9
     },
     {
-      "term": "ける",
+      "term": "にも",
+      "count": 9
+    },
+    {
+      "term": "チェ",
+      "count": 9
+    },
+    {
+      "term": "のよ",
       "count": 8
     },
     {
-      "term": "用し",
+      "term": "json",
       "count": 8
     },
     {
-      "term": "ルで",
-      "count": 8
-    },
-    {
-      "term": "えら",
-      "count": 8
-    },
-    {
-      "term": "リ及",
+      "term": "及び",
       "count": 7
     },
     {
-      "term": "フェ",
+      "term": "キー",
       "count": 7
     },
     {
-      "term": "ェー",
+      "term": "ンb",
       "count": 7
     },
     {
-      "term": "デリバリ",
+      "term": "と同",
       "count": 7
     },
     {
-      "term": "の担",
-      "count": 7
-    },
-    {
-      "term": "にな",
-      "count": 7
-    },
-    {
-      "term": "version",
-      "count": 7
-    },
-    {
-      "term": "スの",
-      "count": 7
-    },
-    {
-      "term": "cosign",
-      "count": 7
-    },
-    {
-      "term": "registry",
-      "count": 7
-    },
-    {
-      "term": "次に",
-      "count": 7
-    },
-    {
-      "term": "仕組",
-      "count": 7
-    },
-    {
-      "term": "action",
-      "count": 7
-    },
-    {
-      "term": "ジと",
+      "term": "ート",
       "count": 6
     },
     {
-      "term": "たt",
+      "term": "セキ",
+      "count": 6
+    },
+    {
+      "term": "洩対",
+      "count": 6
+    },
+    {
+      "term": "キュ",
+      "count": 6
+    },
+    {
+      "term": "における",
+      "count": 6
+    },
+    {
+      "term": "terraform",
+      "count": 6
+    },
+    {
+      "term": "codebuild",
       "count": 6
     },
     {
@@ -190,16 +154,52 @@
       "count": 6
     },
     {
-      "term": "それ",
+      "term": "の連",
       "count": 6
     },
     {
-      "term": "steps",
+      "term": "保で",
       "count": 6
     },
     {
-      "term": "true",
+      "term": "どの",
       "count": 6
+    },
+    {
+      "term": "repository",
+      "count": 6
+    },
+    {
+      "term": "では",
+      "count": 6
+    },
+    {
+      "term": "るs",
+      "count": 6
+    },
+    {
+      "term": "た場",
+      "count": 6
+    },
+    {
+      "term": "13",
+      "count": 5
+    },
+    {
+      "term": "理シ",
+      "count": 5
+    },
+    {
+      "term": "する",
+      "count": 5
+    },
+    {
+      "term": "がっ",
+      "count": 5
+    },
+    {
+      "term": "はあ",
+      "count": 5
     }
   ],
   "meetings": [
