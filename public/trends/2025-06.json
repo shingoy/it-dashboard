@@ -2,111 +2,107 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "プラ",
-      "count": 26
+      "term": "こと",
+      "count": 25
     },
     {
-      "term": "構成",
+      "term": "イン",
+      "count": 22
+    },
+    {
+      "term": "github",
+      "count": 22
+    },
+    {
+      "term": "ルド",
       "count": 19
     },
     {
-      "term": "リポジト",
+      "term": "リポ",
+      "count": 19
+    },
+    {
+      "term": "ージ",
       "count": 18
     },
     {
-      "term": "また",
+      "term": "成果",
+      "count": 18
+    },
+    {
+      "term": "的な",
       "count": 15
     },
     {
-      "term": "cat",
+      "term": "ムチ",
       "count": 15
     },
     {
-      "term": "され",
-      "count": 14
+      "term": "よび",
+      "count": 15
     },
     {
-      "term": "ルを",
-      "count": 13
-    },
-    {
-      "term": "ては",
-      "count": 13
-    },
-    {
-      "term": "よう",
-      "count": 13
-    },
-    {
-      "term": "変更",
+      "term": "のメ",
       "count": 12
     },
     {
-      "term": "護 ",
-      "count": 12
-    },
-    {
-      "term": "つい",
+      "term": "依存",
       "count": 11
     },
     {
-      "term": "プラット",
+      "term": "取得",
       "count": 11
     },
     {
-      "term": "状態",
+      "term": "ecr",
       "count": 11
     },
     {
-      "term": "terraform",
-      "count": 11
-    },
-    {
-      "term": "を取",
-      "count": 11
-    },
-    {
-      "term": "https",
-      "count": 11
-    },
-    {
-      "term": "確保",
+      "term": "設定",
       "count": 10
     },
     {
-      "term": "提供",
-      "count": 10
-    },
-    {
-      "term": "性を",
-      "count": 10
-    },
-    {
-      "term": "ドフ",
+      "term": "策 ",
       "count": 9
     },
     {
-      "term": "ェア",
+      "term": "フォ",
       "count": 9
     },
     {
-      "term": "そのため",
+      "term": "バリ",
       "count": 9
     },
     {
-      "term": "イメージ",
+      "term": "を用",
       "count": 9
     },
     {
-      "term": "ubuntu",
+      "term": "ムが",
       "count": 9
     },
     {
-      "term": "ブラ",
+      "term": "対象",
+      "count": 9
+    },
+    {
+      "term": "リポジト",
+      "count": 9
+    },
+    {
+      "term": "to",
+      "count": 9
+    },
+    {
+      "term": "with",
+      "count": 9
+    },
+    {
+      "term": "物を",
       "count": 8
     },
     {
-      "term": "ラッ",
+      "term": "の取",
       "count": 8
     },
     {
@@ -114,51 +110,39 @@
       "count": 8
     },
     {
-      "term": "ャン",
+      "term": "ウェ",
       "count": 8
     },
     {
-      "term": "用し",
+      "term": "るそ",
       "count": 8
     },
     {
-      "term": "る具",
+      "term": "スの",
       "count": 8
     },
     {
-      "term": "漏洩",
+      "term": "作成",
+      "count": 8
+    },
+    {
+      "term": "報の",
       "count": 7
     },
     {
-      "term": "デリバリ",
+      "term": "version",
       "count": 7
     },
     {
-      "term": "あり",
+      "term": "ると",
       "count": 7
     },
     {
-      "term": "ムチーム",
+      "term": "rulesets",
       "count": 7
     },
     {
-      "term": "ンb",
-      "count": 7
-    },
-    {
-      "term": "いう",
-      "count": 7
-    },
-    {
-      "term": "クセ",
-      "count": 7
-    },
-    {
-      "term": "を実",
-      "count": 7
-    },
-    {
-      "term": "file",
+      "term": "れる",
       "count": 7
     },
     {
@@ -166,27 +150,35 @@
       "count": 7
     },
     {
-      "term": "と同",
+      "term": "ド設",
       "count": 7
     },
     {
-      "term": "キュ",
+      "term": "latest",
+      "count": 7
+    },
+    {
+      "term": "性管",
       "count": 6
     },
     {
-      "term": "ュリ",
+      "term": "ラン",
       "count": 6
     },
     {
-      "term": "セキ",
+      "term": "の保護",
       "count": 6
     },
     {
-      "term": "おけ",
+      "term": "スを",
       "count": 6
     },
     {
-      "term": "ムは",
+      "term": "を ",
+      "count": 6
+    },
+    {
+      "term": "るま",
       "count": 6
     },
     {
@@ -194,11 +186,19 @@
       "count": 6
     },
     {
-      "term": "amazon",
+      "term": "カウ",
       "count": 6
     },
     {
-      "term": "review",
+      "term": "ムに",
+      "count": 6
+    },
+    {
+      "term": "な対",
+      "count": 6
+    },
+    {
+      "term": "完全",
       "count": 6
     }
   ],
