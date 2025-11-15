@@ -2,204 +2,204 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ファ",
-      "count": 20
+      "term": "イプ",
+      "count": 21
     },
     {
-      "term": "aws",
-      "count": 19
+      "term": "ース",
+      "count": 17
     },
     {
       "term": "って",
       "count": 16
     },
     {
-      "term": "の保",
+      "term": "れた",
       "count": 16
     },
     {
-      "term": "信頼",
+      "term": "ない",
+      "count": 16
+    },
+    {
+      "term": "およ",
       "count": 15
     },
     {
-      "term": "また",
+      "term": "イメ",
       "count": 15
     },
     {
-      "term": "github",
-      "count": 15
+      "term": "ルド",
+      "count": 14
+    },
+    {
+      "term": "した",
+      "count": 13
+    },
+    {
+      "term": "ータ",
+      "count": 13
+    },
+    {
+      "term": "push",
+      "count": 11
+    },
+    {
+      "term": "ン ",
+      "count": 10
+    },
+    {
+      "term": "スコ",
+      "count": 10
+    },
+    {
+      "term": "る\n",
+      "count": 10
+    },
+    {
+      "term": "内で",
+      "count": 10
     },
     {
       "term": "必要",
-      "count": 15
-    },
-    {
-      "term": "性の",
-      "count": 14
-    },
-    {
-      "term": "ルを",
-      "count": 14
-    },
-    {
-      "term": "確認",
-      "count": 13
-    },
-    {
-      "term": "署名",
-      "count": 13
-    },
-    {
-      "term": "こと",
-      "count": 12
-    },
-    {
-      "term": "を取",
-      "count": 12
-    },
-    {
-      "term": "の実",
-      "count": 11
-    },
-    {
-      "term": "クを",
-      "count": 11
-    },
-    {
-      "term": "具体",
       "count": 10
     },
     {
-      "term": "コンテナ",
-      "count": 10
+      "term": "リバ",
+      "count": 9
     },
     {
-      "term": "イメージ",
-      "count": 10
+      "term": "ェア",
+      "count": 9
     },
     {
-      "term": "jobs",
-      "count": 10
-    },
-    {
-      "term": "id",
-      "count": 10
+      "term": "デー",
+      "count": 9
     },
     {
       "term": "対象",
       "count": 9
     },
     {
-      "term": "ンa",
-      "count": 9
-    },
-    {
-      "term": "trivy",
-      "count": 9
-    },
-    {
-      "term": "ンテ",
-      "count": 9
-    },
-    {
-      "term": "スキ",
-      "count": 9
-    },
-    {
-      "term": "push",
-      "count": 9
-    },
-    {
-      "term": "runs",
-      "count": 9
-    },
-    {
-      "term": "ョン",
+      "term": "通し",
       "count": 8
     },
     {
-      "term": "ド上",
+      "term": "スの",
       "count": 8
     },
     {
-      "term": "docker",
+      "term": "ェッ",
       "count": 8
     },
     {
-      "term": "の管",
+      "term": "強制",
       "count": 8
     },
     {
-      "term": "ルで",
-      "count": 8
-    },
-    {
-      "term": "の漏",
+      "term": "の保",
       "count": 7
     },
     {
-      "term": "示す",
+      "term": "プロ",
       "count": 7
     },
     {
-      "term": "の確",
+      "term": "version",
       "count": 7
     },
     {
-      "term": "ブラ",
+      "term": "省略",
       "count": 7
     },
     {
-      "term": "内の",
+      "term": "事項",
       "count": 7
     },
     {
-      "term": "スク",
+      "term": "対し",
       "count": 7
     },
     {
-      "term": "検証",
+      "term": "rulesets",
       "count": 7
     },
     {
-      "term": "ンバ",
+      "term": "を実",
       "count": 7
     },
     {
-      "term": "ーと",
+      "term": "ド設",
       "count": 7
     },
     {
-      "term": "の保護",
+      "term": "す ",
+      "count": 7
+    },
+    {
+      "term": "理シ",
       "count": 6
     },
     {
-      "term": "ムは",
+      "term": "ット",
       "count": 6
     },
     {
-      "term": "タデータ",
+      "term": "供す",
       "count": 6
     },
     {
-      "term": "成さ",
+      "term": "ング",
       "count": 6
     },
     {
-      "term": "るよ",
+      "term": "対す",
       "count": 6
     },
     {
-      "term": "次に",
+      "term": "の連",
       "count": 6
     },
     {
-      "term": "image",
+      "term": "策に",
       "count": 6
     },
     {
-      "term": "合は",
+      "term": "の事",
       "count": 6
+    },
+    {
+      "term": "クト",
+      "count": 6
+    },
+    {
+      "term": "省略する",
+      "count": 6
+    },
+    {
+      "term": "のレ",
+      "count": 6
+    },
+    {
+      "term": "はな",
+      "count": 6
+    },
+    {
+      "term": "11",
+      "count": 6
+    },
+    {
+      "term": "同様",
+      "count": 6
+    },
+    {
+      "term": "ド ",
+      "count": 5
+    },
+    {
+      "term": "用者",
+      "count": 5
     }
   ],
   "meetings": [
