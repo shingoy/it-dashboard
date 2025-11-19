@@ -2,131 +2,143 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ポジ",
-      "count": 20
+      "term": "によ",
+      "count": 16
     },
     {
-      "term": "リポ",
-      "count": 20
-    },
-    {
-      "term": "パイプラ",
-      "count": 18
-    },
-    {
-      "term": "るた",
+      "term": "およ",
       "count": 15
     },
     {
-      "term": "から",
+      "term": "よう",
       "count": 15
     },
     {
-      "term": "ナイ",
-      "count": 15
+      "term": "また",
+      "count": 13
     },
     {
-      "term": "サービス",
+      "term": "中略",
+      "count": 13
+    },
+    {
+      "term": "のた",
       "count": 12
     },
     {
-      "term": "れら",
+      "term": "可能",
       "count": 12
     },
     {
-      "term": "ンテ",
-      "count": 12
-    },
-    {
-      "term": "プラット",
+      "term": "成果物の",
       "count": 11
     },
     {
-      "term": "フォーム",
+      "term": "の成",
       "count": 11
     },
     {
-      "term": "はc",
+      "term": "確認",
       "count": 11
     },
     {
-      "term": "依存物の",
-      "count": 11
-    },
-    {
-      "term": "定す",
+      "term": "安全性の",
       "count": 10
     },
     {
-      "term": "る\n",
+      "term": "バー",
       "count": 10
-    },
-    {
-      "term": "セス",
-      "count": 10
-    },
-    {
-      "term": "確保",
-      "count": 9
-    },
-    {
-      "term": "ウェ",
-      "count": 9
-    },
-    {
-      "term": "以外",
-      "count": 9
-    },
-    {
-      "term": "イメージ",
-      "count": 9
-    },
-    {
-      "term": "スキ",
-      "count": 9
-    },
-    {
-      "term": "デー",
-      "count": 9
-    },
-    {
-      "term": "での実行",
-      "count": 8
-    },
-    {
-      "term": "の取",
-      "count": 8
-    },
-    {
-      "term": "上で",
-      "count": 8
     },
     {
       "term": "る具",
+      "count": 10
+    },
+    {
+      "term": "なお",
+      "count": 9
+    },
+    {
+      "term": "検証",
+      "count": 9
+    },
+    {
+      "term": "ンa",
+      "count": 9
+    },
+    {
+      "term": "ここ",
+      "count": 9
+    },
+    {
+      "term": "and",
+      "count": 9
+    },
+    {
+      "term": "uses",
+      "count": 9
+    },
+    {
+      "term": "カル",
       "count": 8
     },
     {
-      "term": "いう",
+      "term": "にも",
       "count": 8
     },
     {
-      "term": "バイナリ",
+      "term": "はな",
+      "count": 8
+    },
+    {
+      "term": "リ及",
       "count": 7
     },
     {
-      "term": "考えられ",
+      "term": "ーカ",
       "count": 7
     },
     {
-      "term": "事項",
+      "term": "ース",
       "count": 7
     },
     {
-      "term": "type",
+      "term": "あり",
       "count": 7
     },
     {
-      "term": "に加",
+      "term": "れて",
+      "count": 7
+    },
+    {
+      "term": "version",
+      "count": 7
+    },
+    {
+      "term": "ンb",
+      "count": 7
+    },
+    {
+      "term": "ムチーム",
+      "count": 7
+    },
+    {
+      "term": "ーテ",
+      "count": 7
+    },
+    {
+      "term": "い ",
+      "count": 7
+    },
+    {
+      "term": "はg",
+      "count": 7
+    },
+    {
+      "term": "仕組",
+      "count": 7
+    },
+    {
+      "term": "latest",
       "count": 7
     },
     {
@@ -134,27 +146,27 @@
       "count": 7
     },
     {
-      "term": "成 ",
+      "term": "めに",
       "count": 6
     },
     {
-      "term": "を示",
+      "term": "運用",
       "count": 6
     },
     {
-      "term": "その",
+      "term": "の確",
       "count": 6
     },
     {
-      "term": "リ時",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "定 ",
+      "term": "的に",
       "count": 6
     },
     {
-      "term": "物と",
+      "term": "供す",
       "count": 6
     },
     {
@@ -162,44 +174,32 @@
       "count": 6
     },
     {
-      "term": "の利",
+      "term": "の連",
       "count": 6
     },
     {
-      "term": "同様",
+      "term": "省略する",
       "count": 6
     },
     {
-      "term": "key",
+      "term": "の変",
       "count": 6
     },
     {
-      "term": "ビルド設",
+      "term": "どの",
       "count": 6
     },
     {
-      "term": "とに",
-      "count": 5
+      "term": "こで",
+      "count": 6
     },
     {
-      "term": "ード管理",
-      "count": 5
+      "term": "のよ",
+      "count": 6
     },
     {
-      "term": "ェーズの",
-      "count": 5
-    },
-    {
-      "term": "した",
-      "count": 5
-    },
-    {
-      "term": "証跡",
-      "count": 5
-    },
-    {
-      "term": "がっ",
-      "count": 5
+      "term": "され",
+      "count": 6
     }
   ],
   "meetings": [
