@@ -2,7 +2,23 @@
   "month": "2025-06",
   "keywords": [
     {
+      "term": "ジト",
+      "count": 20
+    },
+    {
+      "term": "デー",
+      "count": 17
+    },
+    {
+      "term": "には",
+      "count": 17
+    },
+    {
       "term": "によ",
+      "count": 16
+    },
+    {
+      "term": "ルド",
       "count": 16
     },
     {
@@ -10,55 +26,59 @@
       "count": 15
     },
     {
-      "term": "よう",
+      "term": "フェ",
       "count": 15
     },
     {
-      "term": "また",
+      "term": "cd",
+      "count": 15
+    },
+    {
+      "term": "リポ",
+      "count": 15
+    },
+    {
+      "term": "から",
+      "count": 15
+    },
+    {
+      "term": "シー",
       "count": 13
     },
     {
-      "term": "中略",
-      "count": 13
+      "term": "れら",
+      "count": 12
+    },
+    {
+      "term": "ナイ",
+      "count": 12
+    },
+    {
+      "term": "この",
+      "count": 12
+    },
+    {
+      "term": "はc",
+      "count": 11
+    },
+    {
+      "term": "ムの",
+      "count": 11
     },
     {
       "term": "のた",
-      "count": 12
-    },
-    {
-      "term": "可能",
-      "count": 12
-    },
-    {
-      "term": "成果物の",
       "count": 11
     },
     {
-      "term": "の成",
-      "count": 11
-    },
-    {
-      "term": "確認",
-      "count": 11
-    },
-    {
-      "term": "安全性の",
-      "count": 10
-    },
-    {
-      "term": "バー",
-      "count": 10
-    },
-    {
-      "term": "る具",
-      "count": 10
-    },
-    {
-      "term": "なお",
+      "term": "デリ",
       "count": 9
     },
     {
-      "term": "検証",
+      "term": "本書",
+      "count": 9
+    },
+    {
+      "term": "それ",
       "count": 9
     },
     {
@@ -66,51 +86,47 @@
       "count": 9
     },
     {
-      "term": "ここ",
+      "term": "とい",
       "count": 9
     },
     {
-      "term": "and",
+      "term": "るが",
       "count": 9
     },
     {
-      "term": "uses",
-      "count": 9
-    },
-    {
-      "term": "カル",
+      "term": "シス",
       "count": 8
     },
     {
-      "term": "にも",
+      "term": "頼性",
       "count": 8
     },
     {
-      "term": "はな",
+      "term": "能で",
       "count": 8
     },
     {
-      "term": "リ及",
+      "term": "運用",
       "count": 7
     },
     {
-      "term": "ーカ",
+      "term": "キー",
       "count": 7
     },
     {
-      "term": "ース",
+      "term": "いて",
       "count": 7
     },
     {
-      "term": "あり",
+      "term": "パイプラ",
       "count": 7
     },
     {
-      "term": "れて",
+      "term": "体の",
       "count": 7
     },
     {
-      "term": "version",
+      "term": "スの",
       "count": 7
     },
     {
@@ -118,88 +134,72 @@
       "count": 7
     },
     {
-      "term": "ムチーム",
+      "term": "いこ",
       "count": 7
     },
     {
-      "term": "ーテ",
+      "term": "push",
       "count": 7
     },
     {
-      "term": "い ",
+      "term": "ない",
       "count": 7
     },
     {
-      "term": "はg",
+      "term": "ール",
       "count": 7
     },
     {
-      "term": "仕組",
+      "term": "file",
       "count": 7
     },
     {
-      "term": "latest",
+      "term": "れた",
       "count": 7
     },
     {
-      "term": "runs",
-      "count": 7
-    },
-    {
-      "term": "めに",
+      "term": "ュリ",
       "count": 6
     },
     {
-      "term": "運用",
+      "term": "に ",
       "count": 6
     },
     {
-      "term": "の確",
+      "term": "イル",
       "count": 6
     },
     {
-      "term": "ージ",
+      "term": "フ ",
       "count": 6
     },
     {
-      "term": "的に",
+      "term": "イナ",
       "count": 6
     },
     {
-      "term": "供す",
+      "term": "アカ",
       "count": 6
     },
     {
-      "term": "ムは",
+      "term": "ムが",
       "count": 6
     },
     {
-      "term": "の連",
-      "count": 6
+      "term": "をも",
+      "count": 5
     },
     {
-      "term": "省略する",
-      "count": 6
+      "term": "た信",
+      "count": 5
     },
     {
-      "term": "の変",
-      "count": 6
+      "term": "ド ",
+      "count": 5
     },
     {
-      "term": "どの",
-      "count": 6
-    },
-    {
-      "term": "こで",
-      "count": 6
-    },
-    {
-      "term": "のよ",
-      "count": 6
-    },
-    {
-      "term": "され",
-      "count": 6
+      "term": "トフ",
+      "count": 5
     }
   ],
   "meetings": [
