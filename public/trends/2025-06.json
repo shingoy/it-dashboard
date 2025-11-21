@@ -2,136 +2,112 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ファ",
-      "count": 20
+      "term": "るこ",
+      "count": 24
     },
     {
-      "term": "保護",
+      "term": "きる",
+      "count": 23
+    },
+    {
+      "term": "てい",
+      "count": 21
+    },
+    {
+      "term": "ため",
+      "count": 19
+    },
+    {
+      "term": "ーム",
       "count": 18
     },
     {
-      "term": "安全",
-      "count": 18
+      "term": "デー",
+      "count": 17
     },
     {
-      "term": "ビス",
+      "term": "プラ",
       "count": 16
     },
     {
-      "term": "に ",
+      "term": "信頼",
       "count": 15
     },
     {
-      "term": "ール",
+      "term": "また",
       "count": 15
     },
     {
-      "term": "なる",
+      "term": "メタ",
       "count": 15
     },
     {
-      "term": "のた",
+      "term": "いて",
       "count": 14
     },
     {
-      "term": "の安",
-      "count": 13
+      "term": "図 ",
+      "count": 14
     },
     {
-      "term": "生成",
-      "count": 13
+      "term": "ては",
+      "count": 14
     },
     {
-      "term": "中略",
-      "count": 13
+      "term": "workflows",
+      "count": 14
     },
     {
-      "term": "ムチ",
-      "count": 12
-    },
-    {
-      "term": "ラン",
+      "term": "パイ",
       "count": 11
     },
     {
-      "term": "情報",
+      "term": "って",
+      "count": 11
+    },
+    {
+      "term": "ムの",
       "count": 10
     },
     {
-      "term": "提供",
-      "count": 10
-    },
-    {
-      "term": "これ",
-      "count": 10
-    },
-    {
-      "term": "し ",
-      "count": 10
-    },
-    {
-      "term": "を含",
+      "term": "チームの",
       "count": 9
     },
     {
-      "term": "本書",
+      "term": "トの",
       "count": 9
     },
     {
-      "term": "ンの",
+      "term": "ウェ",
       "count": 9
-    },
-    {
-      "term": "そのため",
-      "count": 9
-    },
-    {
-      "term": "に対",
-      "count": 9
-    },
-    {
-      "term": "ナイ",
-      "count": 9
-    },
-    {
-      "term": "yml",
-      "count": 9
-    },
-    {
-      "term": "uses",
-      "count": 9
-    },
-    {
-      "term": "トに",
-      "count": 8
-    },
-    {
-      "term": "性が",
-      "count": 8
-    },
-    {
-      "term": "定し",
-      "count": 8
-    },
-    {
-      "term": "それ",
-      "count": 8
-    },
-    {
-      "term": "用し",
-      "count": 8
     },
     {
       "term": "対象",
-      "count": 8
+      "count": 9
+    },
+    {
+      "term": "trivy",
+      "count": 9
     },
     {
       "term": "とい",
+      "count": 9
+    },
+    {
+      "term": "ョン",
       "count": 8
     },
     {
-      "term": "outputs",
+      "term": "に関",
       "count": 8
+    },
+    {
+      "term": "ェーズの",
+      "count": 7
+    },
+    {
+      "term": "クレ",
+      "count": 7
     },
     {
       "term": "トフ",
@@ -142,39 +118,15 @@
       "count": 7
     },
     {
-      "term": "あり",
+      "term": "ムチーム",
       "count": 7
     },
     {
-      "term": "次に",
-      "count": 7
-    },
-    {
-      "term": "事項",
-      "count": 7
-    },
-    {
-      "term": "省略",
-      "count": 7
-    },
-    {
-      "term": "rulesets",
-      "count": 7
-    },
-    {
-      "term": "file",
-      "count": 7
-    },
-    {
-      "term": "セキ",
+      "term": "ワー",
       "count": 6
     },
     {
-      "term": "リ及",
-      "count": 6
-    },
-    {
-      "term": "28",
+      "term": "した",
       "count": 6
     },
     {
@@ -182,24 +134,72 @@
       "count": 6
     },
     {
-      "term": "スを",
+      "term": "steps",
       "count": 6
     },
     {
-      "term": "より",
+      "term": "テナ",
       "count": 6
     },
     {
-      "term": "たt",
-      "count": 6
+      "term": "キュ",
+      "count": 5
     },
     {
-      "term": "の変",
-      "count": 6
+      "term": "ン特",
+      "count": 5
     },
     {
-      "term": "を必",
-      "count": 6
+      "term": "ることを",
+      "count": 5
+    },
+    {
+      "term": "を想",
+      "count": 5
+    },
+    {
+      "term": "てc",
+      "count": 5
+    },
+    {
+      "term": "囲の",
+      "count": 5
+    },
+    {
+      "term": "とと",
+      "count": 5
+    },
+    {
+      "term": "の管",
+      "count": 5
+    },
+    {
+      "term": "ある",
+      "count": 5
+    },
+    {
+      "term": "ファ",
+      "count": 5
+    },
+    {
+      "term": "イル",
+      "count": 5
+    },
+    {
+      "term": "を指",
+      "count": 5
+    },
+    {
+      "term": "で構",
+      "count": 5
+    },
+    {
+      "term": "and",
+      "count": 5
+    },
+    {
+      "term": "ズに",
+      "count": 4
     }
   ],
   "meetings": [
