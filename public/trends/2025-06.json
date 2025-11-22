@@ -2,59 +2,47 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "イン",
-      "count": 22
+      "term": "した",
+      "count": 24
     },
     {
-      "term": "構成",
+      "term": "パイ",
       "count": 21
     },
     {
-      "term": "ール",
+      "term": "ット",
       "count": 20
     },
     {
-      "term": "には",
+      "term": "管理",
+      "count": 20
+    },
+    {
+      "term": "物の",
       "count": 17
     },
     {
-      "term": "実行",
+      "term": "デー",
+      "count": 17
+    },
+    {
+      "term": "ービ",
       "count": 16
     },
     {
-      "term": "ージ",
-      "count": 15
-    },
-    {
-      "term": "必要",
-      "count": 15
-    },
-    {
-      "term": "プロ",
-      "count": 14
-    },
-    {
-      "term": "るた",
-      "count": 14
-    },
-    {
-      "term": "であ",
-      "count": 14
-    },
-    {
-      "term": "にお",
-      "count": 13
-    },
-    {
       "term": "のた",
+      "count": 15
+    },
+    {
+      "term": "ソースコ",
       "count": 13
     },
     {
-      "term": "る図",
+      "term": "生成",
       "count": 13
     },
     {
-      "term": "trivy",
+      "term": "id",
       "count": 13
     },
     {
@@ -62,47 +50,51 @@
       "count": 12
     },
     {
-      "term": "を取",
+      "term": "ラン",
       "count": 12
     },
     {
-      "term": "steps",
+      "term": "ムチ",
       "count": 12
     },
     {
-      "term": "依存",
+      "term": "ステ",
       "count": 11
     },
     {
-      "term": "https",
+      "term": "とす",
       "count": 11
     },
     {
-      "term": "定し",
+      "term": "状態",
+      "count": 11
+    },
+    {
+      "term": "ンチ",
       "count": 10
     },
     {
-      "term": "定す",
+      "term": "保 ",
       "count": 10
     },
     {
-      "term": "provenance",
+      "term": "範囲",
       "count": 10
     },
     {
-      "term": "jobs",
+      "term": "取得",
       "count": 10
     },
     {
-      "term": "チームの",
+      "term": "情報",
       "count": 9
     },
     {
-      "term": "れて",
+      "term": "デリ",
       "count": 9
     },
     {
-      "term": "し ",
+      "term": "ェア",
       "count": 9
     },
     {
@@ -110,63 +102,67 @@
       "count": 9
     },
     {
-      "term": "ンa",
+      "term": "考え",
       "count": 9
     },
     {
-      "term": "json",
+      "term": "権限",
+      "count": 9
+    },
+    {
+      "term": "https",
+      "count": 9
+    },
+    {
+      "term": "アク",
       "count": 8
     },
     {
-      "term": "リテ",
+      "term": "報の",
       "count": 7
     },
     {
-      "term": "バー",
+      "term": "イナ",
       "count": 7
     },
     {
-      "term": "および",
+      "term": "いっ",
       "count": 7
     },
     {
-      "term": "とい",
+      "term": "用し",
       "count": 7
     },
     {
-      "term": "作成",
-      "count": 7
-    },
-    {
-      "term": "図 ",
-      "count": 7
-    },
-    {
-      "term": "ubuntu",
-      "count": 7
-    },
-    {
-      "term": "詳細",
+      "term": "理シ",
       "count": 6
     },
     {
-      "term": "した",
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "頼で",
+      "term": "ンに",
       "count": 6
     },
     {
-      "term": "ソフトウ",
+      "term": "変更",
       "count": 6
     },
     {
-      "term": "を ",
+      "term": "の保護",
       "count": 6
     },
     {
-      "term": "得し",
+      "term": "における",
+      "count": 6
+    },
+    {
+      "term": "バイナリ",
+      "count": 6
+    },
+    {
+      "term": "ンテナイ",
       "count": 6
     },
     {
@@ -174,32 +170,36 @@
       "count": 6
     },
     {
-      "term": "用可",
+      "term": "ーを",
       "count": 6
     },
     {
-      "term": "ても",
+      "term": "ズで",
       "count": 6
     },
     {
-      "term": "to",
+      "term": "るが",
       "count": 6
     },
     {
-      "term": "保守",
-      "count": 5
+      "term": "らな",
+      "count": 6
     },
     {
-      "term": "具体的な",
-      "count": 5
+      "term": "image",
+      "count": 6
     },
     {
-      "term": "キュ",
-      "count": 5
+      "term": "るs",
+      "count": 6
     },
     {
-      "term": "プラ",
-      "count": 5
+      "term": "る ",
+      "count": 6
+    },
+    {
+      "term": "ビルド設",
+      "count": 6
     }
   ],
   "meetings": [
