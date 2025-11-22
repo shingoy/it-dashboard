@@ -2,135 +2,87 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "クノ",
+      "term": "テク",
       "count": 3
     },
     {
-      "term": "見直",
+      "term": "に対",
       "count": 3
     },
     {
-      "term": "した",
+      "term": "用し",
       "count": 3
     },
     {
-      "term": "会 ",
+      "term": "の見",
       "count": 3
     },
     {
-      "term": "実装",
+      "term": "らの",
       "count": 3
     },
     {
-      "term": "開発",
+      "term": "を把",
       "count": 3
     },
     {
-      "term": "庁等",
-      "count": 3
+      "term": "ーシアム",
+      "count": 2
+    },
+    {
+      "term": "トコ",
+      "count": 2
+    },
+    {
+      "term": "直し動向",
+      "count": 2
+    },
+    {
+      "term": "まと",
+      "count": 2
     },
     {
       "term": "提案",
       "count": 2
     },
     {
-      "term": "管省",
+      "term": "期待を把",
       "count": 2
     },
     {
-      "term": "regtech",
+      "term": "とり",
       "count": 2
     },
     {
-      "term": "2023",
+      "term": "め ",
       "count": 2
     },
     {
-      "term": "やア",
+      "term": "加呼",
       "count": 2
     },
     {
-      "term": "びか",
+      "term": "の今",
       "count": 2
     },
     {
-      "term": "ベン",
+      "term": "呼び",
       "count": 2
     },
     {
-      "term": "ット",
+      "term": "グ規",
       "count": 2
     },
     {
-      "term": "の場",
+      "term": "新たな技",
       "count": 2
     },
     {
-      "term": "象機",
+      "term": "証成",
       "count": 2
     },
     {
-      "term": "情報か",
-      "count": 2
-    },
-    {
-      "term": "かけや",
-      "count": 2
-    },
-    {
-      "term": "方法",
-      "count": 2
-    },
-    {
-      "term": "バックと",
-      "count": 2
-    },
-    {
-      "term": "の具体化",
-      "count": 2
-    },
-    {
-      "term": "発の",
-      "count": 2
-    },
-    {
-      "term": "を通じた",
-      "count": 2
-    },
-    {
-      "term": "検証",
-      "count": 2
-    },
-    {
-      "term": "広く",
-      "count": 2
-    },
-    {
-      "term": "じた",
-      "count": 2
-    },
-    {
-      "term": "情報",
-      "count": 2
-    },
-    {
-      "term": "技術検証",
-      "count": 2
-    },
-    {
-      "term": "ウム",
-      "count": 2
-    },
-    {
-      "term": "用し",
-      "count": 2
-    },
-    {
-      "term": "マッ",
-      "count": 2
-    },
-    {
-      "term": "しに",
+      "term": "しの実装",
       "count": 2
     },
     {
@@ -138,51 +90,63 @@
       "count": 2
     },
     {
-      "term": "報の",
+      "term": "たな",
+      "count": 2
+    },
+    {
+      "term": "事業の速",
+      "count": 2
+    },
+    {
+      "term": "装イ",
+      "count": 2
+    },
+    {
+      "term": "術開発の",
+      "count": 2
+    },
+    {
+      "term": "スト",
+      "count": 2
+    },
+    {
+      "term": "結果",
+      "count": 2
+    },
+    {
+      "term": "報を",
+      "count": 2
+    },
+    {
+      "term": "ピッチコ",
+      "count": 2
+    },
+    {
+      "term": "ウム",
+      "count": 2
+    },
+    {
+      "term": "術保",
+      "count": 2
+    },
+    {
+      "term": "保有",
+      "count": 2
+    },
+    {
+      "term": "報を共有",
+      "count": 2
+    },
+    {
+      "term": "法規",
       "count": 1
     },
     {
-      "term": "アップ",
+      "term": "る役",
       "count": 1
     },
     {
-      "term": "の学",
-      "count": 1
-    },
-    {
-      "term": "かを明ら",
-      "count": 1
-    },
-    {
-      "term": "者共",
-      "count": 1
-    },
-    {
-      "term": "営開",
-      "count": 1
-    },
-    {
-      "term": "規制に関",
-      "count": 1
-    },
-    {
-      "term": "者間",
-      "count": 1
-    },
-    {
-      "term": "ことで",
-      "count": 1
-    },
-    {
-      "term": "置づ",
-      "count": 1
-    },
-    {
-      "term": "づけ",
-      "count": 1
-    },
-    {
-      "term": "中小企業",
+      "term": "習機",
       "count": 1
     },
     {
@@ -190,15 +154,51 @@
       "count": 1
     },
     {
-      "term": "場を",
+      "term": "ル ",
       "count": 1
     },
     {
-      "term": "企業",
+      "term": "ャー",
       "count": 1
     },
     {
-      "term": "る説",
+      "term": "同で",
+      "count": 1
+    },
+    {
+      "term": "プや技術",
+      "count": 1
+    },
+    {
+      "term": "シアムを",
+      "count": 1
+    },
+    {
+      "term": "運営",
+      "count": 1
+    },
+    {
+      "term": "場創",
+      "count": 1
+    },
+    {
+      "term": "体民",
+      "count": 1
+    },
+    {
+      "term": "え経",
+      "count": 1
+    },
+    {
+      "term": "ャピ",
+      "count": 1
+    },
+    {
+      "term": "での",
+      "count": 1
+    },
+    {
+      "term": "プ ",
       "count": 1
     }
   ],

@@ -2,71 +2,51 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "した",
-      "count": 24
+      "term": "され",
+      "count": 27
     },
     {
-      "term": "パイ",
-      "count": 21
+      "term": "での",
+      "count": 14
     },
     {
-      "term": "ット",
-      "count": 20
+      "term": "ツー",
+      "count": 14
     },
     {
-      "term": "管理",
-      "count": 20
-    },
-    {
-      "term": "物の",
-      "count": 17
-    },
-    {
-      "term": "デー",
-      "count": 17
-    },
-    {
-      "term": "ービ",
-      "count": 16
-    },
-    {
-      "term": "のた",
-      "count": 15
-    },
-    {
-      "term": "ソースコ",
+      "term": "ーク",
       "count": 13
     },
     {
-      "term": "生成",
+      "term": "およ",
       "count": 13
     },
     {
-      "term": "id",
+      "term": "る図",
       "count": 13
     },
     {
-      "term": "レッ",
+      "term": "イン",
       "count": 12
     },
     {
-      "term": "ラン",
+      "term": "ーの",
       "count": 12
     },
     {
-      "term": "ムチ",
+      "term": "こで",
       "count": 12
+    },
+    {
+      "term": "プラット",
+      "count": 11
     },
     {
       "term": "ステ",
       "count": 11
     },
     {
-      "term": "とす",
-      "count": 11
-    },
-    {
-      "term": "状態",
+      "term": "ため",
       "count": 11
     },
     {
@@ -74,132 +54,152 @@
       "count": 10
     },
     {
-      "term": "保 ",
+      "term": "ー ",
       "count": 10
     },
     {
-      "term": "範囲",
-      "count": 10
+      "term": "性の",
+      "count": 9
+    },
+    {
+      "term": "リバ",
+      "count": 9
     },
     {
       "term": "取得",
-      "count": 10
-    },
-    {
-      "term": "情報",
       "count": 9
     },
     {
-      "term": "デリ",
+      "term": "それ",
       "count": 9
     },
     {
-      "term": "ェア",
+      "term": "を取",
       "count": 9
     },
     {
-      "term": "検証",
+      "term": "に対",
       "count": 9
     },
     {
-      "term": "考え",
+      "term": "uses",
       "count": 9
     },
     {
-      "term": "権限",
-      "count": 9
-    },
-    {
-      "term": "https",
-      "count": 9
-    },
-    {
-      "term": "アク",
+      "term": "テム",
       "count": 8
     },
     {
-      "term": "報の",
-      "count": 7
+      "term": "リソ",
+      "count": 8
     },
     {
-      "term": "イナ",
-      "count": 7
+      "term": "成果物の",
+      "count": 8
     },
     {
-      "term": "いっ",
-      "count": 7
+      "term": "docker",
+      "count": 8
+    },
+    {
+      "term": "らの",
+      "count": 8
     },
     {
       "term": "用し",
+      "count": 8
+    },
+    {
+      "term": "てい",
+      "count": 8
+    },
+    {
+      "term": "示す",
       "count": 7
     },
     {
-      "term": "理シ",
+      "term": "17",
+      "count": 7
+    },
+    {
+      "term": "る主",
+      "count": 7
+    },
+    {
+      "term": "定 ",
+      "count": 7
+    },
+    {
+      "term": "ンの",
+      "count": 7
+    },
+    {
+      "term": "自動",
+      "count": 7
+    },
+    {
+      "term": "考えられ",
+      "count": 7
+    },
+    {
+      "term": "ル ",
+      "count": 7
+    },
+    {
+      "term": "cosign",
+      "count": 7
+    },
+    {
+      "term": "がある",
+      "count": 7
+    },
+    {
+      "term": "次に",
+      "count": 7
+    },
+    {
+      "term": "は ",
+      "count": 7
+    },
+    {
+      "term": "した",
       "count": 6
     },
     {
-      "term": "開発",
+      "term": "物と",
       "count": 6
     },
     {
-      "term": "ンに",
+      "term": "ムに",
       "count": 6
     },
     {
-      "term": "変更",
+      "term": "クト",
       "count": 6
     },
     {
-      "term": "の保護",
+      "term": "ついては",
       "count": 6
     },
     {
-      "term": "における",
+      "term": "影響",
       "count": 6
     },
     {
-      "term": "バイナリ",
+      "term": "critical",
       "count": 6
     },
     {
-      "term": "ンテナイ",
-      "count": 6
+      "term": "む運",
+      "count": 5
     },
     {
-      "term": "カウ",
-      "count": 6
+      "term": "シナ",
+      "count": 5
     },
     {
-      "term": "ーを",
-      "count": 6
-    },
-    {
-      "term": "ズで",
-      "count": 6
-    },
-    {
-      "term": "るが",
-      "count": 6
-    },
-    {
-      "term": "らな",
-      "count": 6
-    },
-    {
-      "term": "image",
-      "count": 6
-    },
-    {
-      "term": "るs",
-      "count": 6
-    },
-    {
-      "term": "る ",
-      "count": 6
-    },
-    {
-      "term": "ビルド設",
-      "count": 6
+      "term": "運用保守",
+      "count": 5
     }
   ],
   "meetings": [
