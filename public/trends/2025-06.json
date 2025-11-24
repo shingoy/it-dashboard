@@ -2,83 +2,111 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "した",
-      "count": 24
+      "term": "であ",
+      "count": 22
     },
     {
-      "term": "ポジ",
-      "count": 20
+      "term": "その",
+      "count": 21
     },
     {
       "term": "ルド",
       "count": 19
     },
     {
-      "term": "ない",
+      "term": "安全",
+      "count": 18
+    },
+    {
+      "term": "ース",
       "count": 17
     },
     {
-      "term": "るた",
-      "count": 15
+      "term": "パイ",
+      "count": 17
     },
     {
-      "term": "ツー",
+      "term": "の保",
+      "count": 16
+    },
+    {
+      "term": "内容",
       "count": 14
     },
     {
-      "term": "実行",
+      "term": "での",
       "count": 14
     },
     {
-      "term": "ファイル",
+      "term": "よる",
+      "count": 13
+    },
+    {
+      "term": "とで",
+      "count": 13
+    },
+    {
+      "term": "への",
+      "count": 13
+    },
+    {
+      "term": "にお",
       "count": 12
     },
     {
-      "term": "れら",
+      "term": "steps",
       "count": 12
     },
     {
-      "term": "メタ",
-      "count": 12
-    },
-    {
-      "term": "加え",
+      "term": "性の",
       "count": 11
     },
     {
-      "term": "ナリ",
-      "count": 10
+      "term": "terraform",
+      "count": 11
     },
     {
-      "term": "確保",
-      "count": 10
+      "term": "また",
+      "count": 11
     },
     {
-      "term": "トの",
+      "term": "った",
+      "count": 11
+    },
+    {
+      "term": "の確",
       "count": 9
     },
     {
-      "term": "の担",
+      "term": "ック",
       "count": 9
     },
     {
-      "term": "のア",
+      "term": "ビルドフ",
       "count": 9
     },
     {
-      "term": "書で",
+      "term": "ー ",
+      "count": 9
+    },
+    {
+      "term": "イプ",
       "count": 8
     },
     {
-      "term": "れて",
+      "term": "特有",
       "count": 8
     },
     {
-      "term": "はな",
+      "term": "性が",
       "count": 8
     },
     {
-      "term": "action",
+      "term": "ェア",
+      "count": 8
+    },
+    {
+      "term": "github",
       "count": 8
     },
     {
@@ -86,35 +114,27 @@
       "count": 7
     },
     {
-      "term": "漏洩",
+      "term": "ローカル",
       "count": 7
     },
     {
-      "term": "関す",
+      "term": "体の",
       "count": 7
     },
     {
-      "term": "17",
+      "term": "デリバリ",
       "count": 7
     },
     {
-      "term": "考えられ",
+      "term": "あり",
       "count": 7
     },
     {
-      "term": "メー",
-      "count": 7
-    },
-    {
-      "term": "略す",
+      "term": "書で",
       "count": 7
     },
     {
       "term": "ーテ",
-      "count": 7
-    },
-    {
-      "term": "など",
       "count": 7
     },
     {
@@ -126,80 +146,60 @@
       "count": 7
     },
     {
-      "term": "とは",
+      "term": "要と",
       "count": 7
     },
     {
-      "term": "成 ",
-      "count": 6
-    },
-    {
-      "term": "から",
-      "count": 6
-    },
-    {
-      "term": "きる",
-      "count": 6
-    },
-    {
-      "term": "の構",
-      "count": 6
-    },
-    {
-      "term": "うこ",
-      "count": 6
-    },
-    {
-      "term": "用し",
-      "count": 6
-    },
-    {
-      "term": "要が",
-      "count": 6
-    },
-    {
-      "term": "される",
-      "count": 6
-    },
-    {
-      "term": "とも",
-      "count": 6
-    },
-    {
-      "term": "ることが",
-      "count": 6
-    },
-    {
-      "term": "理 ",
-      "count": 5
-    },
-    {
-      "term": "守 ",
-      "count": 5
-    },
-    {
-      "term": "産管",
-      "count": 5
-    },
-    {
       "term": "チの",
-      "count": 5
+      "count": 6
     },
     {
-      "term": "理シ",
-      "count": 5
+      "term": "リテ",
+      "count": 6
     },
     {
-      "term": "るし",
-      "count": 5
+      "term": "バリ",
+      "count": 6
     },
     {
-      "term": "なけ",
-      "count": 5
+      "term": "スト",
+      "count": 6
     },
     {
-      "term": "上の",
-      "count": 5
+      "term": "ャン",
+      "count": 6
+    },
+    {
+      "term": "影響",
+      "count": 6
+    },
+    {
+      "term": "ref",
+      "count": 6
+    },
+    {
+      "term": "to",
+      "count": 6
+    },
+    {
+      "term": "成果",
+      "count": 6
+    },
+    {
+      "term": "tf",
+      "count": 6
+    },
+    {
+      "term": "合は",
+      "count": 6
+    },
+    {
+      "term": "ークレッ",
+      "count": 6
+    },
+    {
+      "term": "critical",
+      "count": 6
     }
   ],
   "meetings": [
