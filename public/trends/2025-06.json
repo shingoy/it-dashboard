@@ -2,43 +2,47 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "るこ",
-      "count": 24
+      "term": "きる",
+      "count": 23
     },
     {
-      "term": "ード",
-      "count": 21
-    },
-    {
-      "term": "パイ",
-      "count": 21
-    },
-    {
-      "term": "てい",
-      "count": 21
-    },
-    {
-      "term": "イプ",
+      "term": "成果",
       "count": 20
     },
     {
-      "term": "ーム",
-      "count": 17
+      "term": "ビル",
+      "count": 18
     },
     {
       "term": "これ",
       "count": 17
     },
     {
-      "term": "れた",
-      "count": 16
+      "term": "actions",
+      "count": 17
     },
     {
-      "term": "署名",
+      "term": "およ",
+      "count": 15
+    },
+    {
+      "term": "信頼",
+      "count": 15
+    },
+    {
+      "term": "cat",
+      "count": 15
+    },
+    {
+      "term": "る必",
       "count": 14
     },
     {
-      "term": "の成",
+      "term": "イメ",
+      "count": 13
+    },
+    {
+      "term": "ンテ",
       "count": 13
     },
     {
@@ -46,159 +50,155 @@
       "count": 13
     },
     {
-      "term": "ンを",
+      "term": "護 ",
       "count": 12
-    },
-    {
-      "term": "用す",
-      "count": 12
-    },
-    {
-      "term": "環境",
-      "count": 11
-    },
-    {
-      "term": "はな",
-      "count": 11
-    },
-    {
-      "term": "具体",
-      "count": 10
-    },
-    {
-      "term": "保護",
-      "count": 10
-    },
-    {
-      "term": "検証",
-      "count": 10
-    },
-    {
-      "term": "イメージ",
-      "count": 10
-    },
-    {
-      "term": "env",
-      "count": 10
-    },
-    {
-      "term": "の ",
-      "count": 9
-    },
-    {
-      "term": "そのため",
-      "count": 9
-    },
-    {
-      "term": "対象",
-      "count": 9
-    },
-    {
-      "term": "るが",
-      "count": 9
-    },
-    {
-      "term": "yml",
-      "count": 9
-    },
-    {
-      "term": "ンの",
-      "count": 8
-    },
-    {
-      "term": "の構",
-      "count": 8
-    },
-    {
-      "term": "sbom",
-      "count": 8
-    },
-    {
-      "term": "の管",
-      "count": 8
-    },
-    {
-      "term": "のs",
-      "count": 8
-    },
-    {
-      "term": "強制",
-      "count": 8
-    },
-    {
-      "term": "action",
-      "count": 8
-    },
-    {
-      "term": "ジを",
-      "count": 7
-    },
-    {
-      "term": "れば",
-      "count": 7
-    },
-    {
-      "term": "定義",
-      "count": 7
-    },
-    {
-      "term": "トフォー",
-      "count": 7
-    },
-    {
-      "term": "ムチーム",
-      "count": 7
-    },
-    {
-      "term": "ンb",
-      "count": 7
-    },
-    {
-      "term": "がある",
-      "count": 7
-    },
-    {
-      "term": "はg",
-      "count": 7
-    },
-    {
-      "term": "とは",
-      "count": 7
-    },
-    {
-      "term": "ュリ",
-      "count": 6
-    },
-    {
-      "term": "ワー",
-      "count": 6
     },
     {
       "term": "ティ",
+      "count": 11
+    },
+    {
+      "term": "定す",
+      "count": 11
+    },
+    {
+      "term": "バー",
+      "count": 11
+    },
+    {
+      "term": "メン",
+      "count": 10
+    },
+    {
+      "term": "ンチ",
+      "count": 10
+    },
+    {
+      "term": "弱性",
+      "count": 10
+    },
+    {
+      "term": "ー ",
+      "count": 10
+    },
+    {
+      "term": "る\n",
+      "count": 10
+    },
+    {
+      "term": "スキ",
+      "count": 10
+    },
+    {
+      "term": "trivy",
+      "count": 10
+    },
+    {
+      "term": "on",
+      "count": 10
+    },
+    {
+      "term": "の制",
+      "count": 9
+    },
+    {
+      "term": "の信",
+      "count": 9
+    },
+    {
+      "term": "の対",
+      "count": 9
+    },
+    {
+      "term": "の設",
+      "count": 9
+    },
+    {
+      "term": "build",
+      "count": 9
+    },
+    {
+      "term": "デー",
+      "count": 8
+    },
+    {
+      "term": "指定",
+      "count": 8
+    },
+    {
+      "term": "yml",
+      "count": 8
+    },
+    {
+      "term": "uses",
+      "count": 8
+    },
+    {
+      "term": "洩対",
+      "count": 7
+    },
+    {
+      "term": "ェーズの",
+      "count": 7
+    },
+    {
+      "term": "ポジ",
+      "count": 7
+    },
+    {
+      "term": "ダー",
+      "count": 7
+    },
+    {
+      "term": "にす",
+      "count": 7
+    },
+    {
+      "term": "ルに",
+      "count": 7
+    },
+    {
+      "term": "ット情報",
       "count": 6
     },
     {
-      "term": "24",
+      "term": "キュ",
       "count": 6
     },
     {
-      "term": "した",
+      "term": "資産",
       "count": 6
     },
     {
-      "term": "なお",
+      "term": "フ ",
       "count": 6
     },
     {
-      "term": "関連",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "ウン",
+      "term": "ンテナイ",
       "count": 6
     },
     {
-      "term": "はプ",
+      "term": "の連",
+      "count": 6
+    },
+    {
+      "term": "review",
+      "count": 6
+    },
+    {
+      "term": "合は",
+      "count": 6
+    },
+    {
+      "term": "format",
+      "count": 6
+    },
+    {
+      "term": "true",
       "count": 6
     }
   ],
