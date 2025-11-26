@@ -2,191 +2,151 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "きる",
+      "term": "れる",
       "count": 23
     },
     {
-      "term": "成果",
+      "term": "ため",
       "count": 20
     },
     {
-      "term": "ビル",
+      "term": "ルド",
       "count": 18
     },
     {
-      "term": "これ",
-      "count": 17
-    },
-    {
-      "term": "actions",
-      "count": 17
-    },
-    {
-      "term": "およ",
+      "term": "ーク",
       "count": 15
     },
     {
-      "term": "信頼",
+      "term": "設定",
       "count": 15
     },
     {
-      "term": "cat",
-      "count": 15
-    },
-    {
-      "term": "る必",
+      "term": "ナイ",
       "count": 14
     },
     {
-      "term": "イメ",
+      "term": "この",
       "count": 13
     },
     {
-      "term": "ンテ",
-      "count": 13
-    },
-    {
-      "term": "場合",
-      "count": 13
-    },
-    {
-      "term": "護 ",
+      "term": "ント",
       "count": 12
     },
     {
-      "term": "ティ",
+      "term": "こで",
+      "count": 12
+    },
+    {
+      "term": "れた",
+      "count": 12
+    },
+    {
+      "term": "はc",
       "count": 11
     },
     {
-      "term": "定す",
+      "term": "ムの",
       "count": 11
     },
     {
-      "term": "バー",
+      "term": "actions",
       "count": 11
     },
     {
-      "term": "メン",
+      "term": "はな",
+      "count": 11
+    },
+    {
+      "term": "ット",
       "count": 10
     },
     {
-      "term": "ンチ",
+      "term": "安全性の",
       "count": 10
     },
     {
-      "term": "弱性",
-      "count": 10
-    },
-    {
-      "term": "ー ",
-      "count": 10
-    },
-    {
-      "term": "る\n",
-      "count": 10
-    },
-    {
-      "term": "スキ",
-      "count": 10
-    },
-    {
-      "term": "trivy",
-      "count": 10
-    },
-    {
-      "term": "on",
-      "count": 10
-    },
-    {
-      "term": "の制",
+      "term": "含む",
       "count": 9
     },
     {
-      "term": "の信",
+      "term": "code",
       "count": 9
     },
     {
-      "term": "の対",
+      "term": "トウ",
       "count": 9
     },
     {
-      "term": "の設",
+      "term": "より",
       "count": 9
     },
     {
-      "term": "build",
+      "term": "中略",
       "count": 9
     },
     {
-      "term": "デー",
+      "term": "及び",
       "count": 8
     },
     {
-      "term": "指定",
+      "term": "成果物の",
       "count": 8
     },
     {
-      "term": "yml",
+      "term": "ング",
       "count": 8
+    },
+    {
+      "term": "コン",
+      "count": 8
+    },
+    {
+      "term": "outputs",
+      "count": 8
+    },
+    {
+      "term": "安全",
+      "count": 7
+    },
+    {
+      "term": "plan",
+      "count": 7
+    },
+    {
+      "term": "事項",
+      "count": 7
+    },
+    {
+      "term": "いこ",
+      "count": 7
+    },
+    {
+      "term": "ルで",
+      "count": 7
     },
     {
       "term": "uses",
-      "count": 8
-    },
-    {
-      "term": "洩対",
       "count": 7
     },
     {
-      "term": "ェーズの",
-      "count": 7
-    },
-    {
-      "term": "ポジ",
-      "count": 7
-    },
-    {
-      "term": "ダー",
-      "count": 7
-    },
-    {
-      "term": "にす",
-      "count": 7
-    },
-    {
-      "term": "ルに",
-      "count": 7
-    },
-    {
-      "term": "ット情報",
+      "term": "って",
       "count": 6
     },
     {
-      "term": "キュ",
+      "term": "いっ",
       "count": 6
     },
     {
-      "term": "資産",
+      "term": "はプ",
       "count": 6
     },
     {
-      "term": "フ ",
+      "term": "ーと",
       "count": 6
     },
     {
-      "term": "ムは",
-      "count": 6
-    },
-    {
-      "term": "ンテナイ",
-      "count": 6
-    },
-    {
-      "term": "の連",
-      "count": 6
-    },
-    {
-      "term": "review",
+      "term": "steps",
       "count": 6
     },
     {
@@ -194,12 +154,52 @@
       "count": 6
     },
     {
-      "term": "format",
-      "count": 6
+      "term": "リオ",
+      "count": 5
     },
     {
-      "term": "true",
-      "count": 6
+      "term": "漏洩",
+      "count": 5
+    },
+    {
+      "term": "ト情",
+      "count": 5
+    },
+    {
+      "term": "報の",
+      "count": 5
+    },
+    {
+      "term": "情報",
+      "count": 5
+    },
+    {
+      "term": "証跡",
+      "count": 5
+    },
+    {
+      "term": "ード",
+      "count": 5
+    },
+    {
+      "term": "べき",
+      "count": 5
+    },
+    {
+      "term": "れは",
+      "count": 5
+    },
+    {
+      "term": "これは",
+      "count": 5
+    },
+    {
+      "term": "承認",
+      "count": 5
+    },
+    {
+      "term": "重要",
+      "count": 5
     }
   ],
   "meetings": [
