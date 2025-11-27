@@ -2,71 +2,87 @@
   "month": "2025-10",
   "keywords": [
     {
-      "term": "要 ",
-      "count": 870
+      "term": "省 ",
+      "count": 763
     },
     {
-      "term": "にお",
-      "count": 599
+      "term": "及び",
+      "count": 750
     },
     {
-      "term": "見直",
-      "count": 566
+      "term": "管理",
+      "count": 485
     },
     {
-      "term": "条項",
-      "count": 441
+      "term": "ため",
+      "count": 408
+    },
+    {
+      "term": "17",
+      "count": 371
+    },
+    {
+      "term": "所管",
+      "count": 366
+    },
+    {
+      "term": "の2",
+      "count": 344
+    },
+    {
+      "term": "ける",
+      "count": 315
+    },
+    {
+      "term": "基準",
+      "count": 313
     },
     {
       "term": "内容",
-      "count": 401
+      "count": 308
     },
     {
-      "term": "第7",
-      "count": 395
+      "term": "ある",
+      "count": 293
     },
     {
-      "term": "デジ",
-      "count": 363
-    },
-    {
-      "term": "12",
-      "count": 353
-    },
-    {
-      "term": "容概",
-      "count": 331
-    },
-    {
-      "term": "視規",
-      "count": 318
-    },
-    {
-      "term": "の見",
+      "term": "等の",
       "count": 290
     },
     {
-      "term": "ライ",
-      "count": 276
+      "term": "に関する",
+      "count": 281
     },
     {
-      "term": "22",
-      "count": 264
+      "term": "検討",
+      "count": 251
     },
     {
-      "term": "準 ",
-      "count": 261
+      "term": "11",
+      "count": 241
     },
     {
-      "term": "スト",
+      "term": "デジ",
       "count": 240
     },
     {
-      "term": "関す",
+      "term": "の発出又",
+      "count": 239
+    },
+    {
+      "term": "は改正",
+      "count": 239
+    },
+    {
+      "term": "14",
       "count": 235
     },
     {
-      "term": "16",
+      "term": "交通",
+      "count": 233
+    },
+    {
+      "term": "別表",
       "count": 225
     },
     {
@@ -74,132 +90,116 @@
       "count": 224
     },
     {
-      "term": "に係",
-      "count": 223
-    },
-    {
-      "term": "行う",
+      "term": "項 ",
       "count": 221
     },
     {
-      "term": "24",
-      "count": 221
+      "term": "員の",
+      "count": 218
     },
     {
-      "term": "交通",
-      "count": 219
-    },
-    {
-      "term": "確認",
+      "term": "第4",
       "count": 214
     },
     {
-      "term": "務省",
-      "count": 213
+      "term": "第1",
+      "count": 204
     },
     {
-      "term": "期検",
-      "count": 197
+      "term": "にお",
+      "count": 204
     },
     {
-      "term": "産業",
-      "count": 194
+      "term": "取扱",
+      "count": 203
     },
     {
-      "term": "和５",
-      "count": 192
+      "term": "査 ",
+      "count": 202
     },
     {
-      "term": "てい",
-      "count": 191
-    },
-    {
-      "term": "関する法",
+      "term": "オンライ",
       "count": 190
     },
     {
-      "term": "の ",
-      "count": 186
+      "term": "時期",
+      "count": 187
     },
     {
-      "term": "おい",
-      "count": 185
-    },
-    {
-      "term": "申請",
+      "term": "医療",
       "count": 175
     },
     {
-      "term": "20",
-      "count": 175
-    },
-    {
-      "term": "業者",
+      "term": "済 ",
       "count": 173
     },
     {
-      "term": "項の",
+      "term": "省令",
       "count": 172
     },
     {
-      "term": "保険",
-      "count": 168
+      "term": "告示",
+      "count": 170
     },
     {
-      "term": "水産",
-      "count": 158
+      "term": "事項",
+      "count": 167
     },
     {
-      "term": "まで",
-      "count": 152
+      "term": "出又",
+      "count": 167
     },
     {
-      "term": "見直し完",
-      "count": 147
+      "term": "等に",
+      "count": 163
     },
     {
-      "term": "サー",
+      "term": "れて",
+      "count": 159
+    },
+    {
+      "term": "知 ",
+      "count": 154
+    },
+    {
+      "term": "環境",
+      "count": 154
+    },
+    {
+      "term": "容概",
+      "count": 150
+    },
+    {
+      "term": "する法律",
       "count": 146
     },
     {
-      "term": "ある",
-      "count": 145
+      "term": "規則",
+      "count": 144
     },
     {
-      "term": "経済",
-      "count": 142
+      "term": "項の",
+      "count": 143
     },
     {
-      "term": "https",
-      "count": 141
+      "term": "処理",
+      "count": 143
     },
     {
-      "term": "処分",
-      "count": 140
-    },
-    {
-      "term": "合性",
+      "term": "とさ",
       "count": 138
     },
     {
-      "term": "年度",
-      "count": 137
-    },
-    {
-      "term": "製造",
+      "term": "者等",
       "count": 135
     },
     {
-      "term": "第二",
-      "count": 134
+      "term": "事業",
+      "count": 130
     },
     {
-      "term": "者等",
-      "count": 133
-    },
-    {
-      "term": "一覧",
-      "count": 131
+      "term": "の見直し",
+      "count": 130
     }
   ],
   "meetings": [
