@@ -2,123 +2,155 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "して",
-      "count": 27
+      "term": "れる",
+      "count": 23
     },
     {
-      "term": "であ",
+      "term": "トリ",
       "count": 20
     },
     {
-      "term": "とし",
+      "term": "安全",
       "count": 18
     },
     {
-      "term": "ォー",
+      "term": "って",
       "count": 16
     },
     {
-      "term": "れた",
+      "term": "物の",
       "count": 16
     },
     {
-      "term": "る ",
+      "term": "には",
       "count": 16
     },
     {
-      "term": "プロ",
+      "term": "タデ",
       "count": 14
     },
     {
-      "term": "があ",
+      "term": "にお",
+      "count": 13
+    },
+    {
+      "term": "に ",
+      "count": 13
+    },
+    {
+      "term": "れた",
       "count": 12
     },
     {
-      "term": "クレ",
-      "count": 11
+      "term": "可能",
+      "count": 12
     },
     {
-      "term": "担保",
+      "term": "ステ",
       "count": 11
     },
     {
       "term": "につ",
+      "count": 11
+    },
+    {
+      "term": "ポジ",
+      "count": 11
+    },
+    {
+      "term": "ナリ",
       "count": 10
     },
     {
-      "term": "上で",
+      "term": "情報",
       "count": 10
     },
     {
-      "term": "sbom",
+      "term": "内で",
       "count": 10
     },
     {
-      "term": "ェア",
+      "term": "リバ",
       "count": 9
     },
     {
-      "term": "ている",
+      "term": "るが",
       "count": 9
     },
     {
-      "term": "uses",
+      "term": "tf",
       "count": 9
     },
     {
-      "term": "のた",
-      "count": 9
-    },
-    {
-      "term": "リス",
+      "term": "ョン",
       "count": 8
     },
     {
-      "term": "用い",
+      "term": "カル",
       "count": 8
     },
     {
-      "term": "ング",
+      "term": "ド上",
       "count": 8
     },
     {
-      "term": "トを",
+      "term": "の担",
       "count": 8
     },
     {
-      "term": "ーに",
+      "term": "ファイル",
       "count": 8
     },
     {
-      "term": "能で",
+      "term": "対象",
       "count": 8
     },
     {
-      "term": "れば",
+      "term": "commit",
+      "count": 8
+    },
+    {
+      "term": "指定",
+      "count": 8
+    },
+    {
+      "term": "報の",
       "count": 7
     },
     {
-      "term": "連携",
+      "term": "もの",
       "count": 7
     },
     {
-      "term": "理シ",
+      "term": "ンb",
+      "count": 7
+    },
+    {
+      "term": "要と",
+      "count": 7
+    },
+    {
+      "term": "られ",
+      "count": 7
+    },
+    {
+      "term": "ット情報",
       "count": 6
     },
     {
-      "term": "24",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "を ",
+      "term": "はa",
       "count": 6
     },
     {
-      "term": "スを",
+      "term": "有の",
       "count": 6
     },
     {
-      "term": "カウ",
+      "term": "物と",
       "count": 6
     },
     {
@@ -126,79 +158,47 @@
       "count": 6
     },
     {
-      "term": "保で",
+      "term": "ジの",
       "count": 6
     },
     {
-      "term": "など",
+      "term": "amazon",
       "count": 6
     },
     {
-      "term": "push",
+      "term": "の事",
       "count": 6
     },
     {
-      "term": "えて",
+      "term": "ても",
       "count": 6
     },
     {
-      "term": "検出",
+      "term": "true",
       "count": 6
     },
     {
-      "term": "の対",
+      "term": "high",
       "count": 6
     },
     {
-      "term": "tf",
-      "count": 6
-    },
-    {
-      "term": "リオ",
+      "term": "信頼",
       "count": 5
     },
     {
-      "term": "infrastructure",
+      "term": "プ ",
       "count": 5
     },
     {
-      "term": "の保護",
+      "term": "したがっ",
       "count": 5
     },
     {
-      "term": "理下",
+      "term": "想定",
       "count": 5
     },
     {
-      "term": "docker",
-      "count": 5
-    },
-    {
-      "term": "イ ",
-      "count": 5
-    },
-    {
-      "term": "run",
-      "count": 5
-    },
-    {
-      "term": "らな",
-      "count": 5
-    },
-    {
-      "term": "actions",
-      "count": 5
-    },
-    {
-      "term": "jobs",
-      "count": 5
-    },
-    {
-      "term": "を指定す",
-      "count": 5
-    },
-    {
-      "term": "ての",
+      "term": "はt",
       "count": 5
     }
   ],
