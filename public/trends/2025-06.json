@@ -2,39 +2,19 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "され",
-      "count": 27
+      "term": "る ",
+      "count": 24
     },
     {
-      "term": "こと",
-      "count": 25
-    },
-    {
-      "term": "パイ",
-      "count": 21
-    },
-    {
-      "term": "トリ",
+      "term": "リポ",
       "count": 20
     },
     {
-      "term": "ット",
-      "count": 20
-    },
-    {
-      "term": "ビル",
-      "count": 19
-    },
-    {
-      "term": "ース",
+      "term": "その",
       "count": 17
     },
     {
-      "term": "には",
-      "count": 17
-    },
-    {
-      "term": "フェ",
+      "term": "弱性",
       "count": 15
     },
     {
@@ -42,164 +22,184 @@
       "count": 15
     },
     {
-      "term": "とな",
-      "count": 15
-    },
-    {
-      "term": "workflows",
-      "count": 14
-    },
-    {
-      "term": "内容",
+      "term": "担保",
       "count": 13
     },
     {
-      "term": "クレ",
+      "term": "ーズ",
       "count": 12
     },
     {
-      "term": "ンを",
+      "term": "に ",
       "count": 12
     },
     {
-      "term": "提供",
-      "count": 10
-    },
-    {
-      "term": "git",
-      "count": 10
-    },
-    {
-      "term": "要が",
-      "count": 10
-    },
-    {
-      "term": "ンチ",
-      "count": 9
-    },
-    {
-      "term": "ている",
-      "count": 9
-    },
-    {
-      "term": "サー",
-      "count": 9
-    },
-    {
-      "term": "生成",
-      "count": 9
-    },
-    {
-      "term": "ド上",
-      "count": 8
-    },
-    {
-      "term": "らの",
-      "count": 8
-    },
-    {
-      "term": "る具",
-      "count": 8
-    },
-    {
-      "term": "ルで",
-      "count": 8
-    },
-    {
-      "term": "json",
-      "count": 8
+      "term": "上で",
+      "count": 11
     },
     {
       "term": "理を",
+      "count": 10
+    },
+    {
+      "term": "にお",
+      "count": 10
+    },
+    {
+      "term": "性の",
+      "count": 10
+    },
+    {
+      "term": "の ",
+      "count": 10
+    },
+    {
+      "term": "provenance",
+      "count": 10
+    },
+    {
+      "term": "のメ",
+      "count": 10
+    },
+    {
+      "term": "に関",
+      "count": 9
+    },
+    {
+      "term": "ラッ",
+      "count": 9
+    },
+    {
+      "term": "定の",
+      "count": 9
+    },
+    {
+      "term": "ある",
+      "count": 9
+    },
+    {
+      "term": "性管",
+      "count": 8
+    },
+    {
+      "term": "囲の",
+      "count": 8
+    },
+    {
+      "term": "性が",
+      "count": 8
+    },
+    {
+      "term": "の取",
+      "count": 8
+    },
+    {
+      "term": "リ及",
       "count": 7
     },
     {
-      "term": "自動",
+      "term": "シス",
       "count": 7
     },
     {
-      "term": "物の",
+      "term": "策 ",
       "count": 7
     },
     {
-      "term": "ング",
+      "term": "ンチ",
       "count": 7
     },
     {
-      "term": "のよ",
+      "term": "定内",
       "count": 7
     },
     {
-      "term": "仕組",
+      "term": "デリバリ",
       "count": 7
     },
     {
-      "term": "フ ",
+      "term": "あり",
+      "count": 7
+    },
+    {
+      "term": "書で",
+      "count": 7
+    },
+    {
+      "term": "にな",
+      "count": 7
+    },
+    {
+      "term": "ると",
+      "count": 7
+    },
+    {
+      "term": "るそ",
+      "count": 7
+    },
+    {
+      "term": "連携",
+      "count": 7
+    },
+    {
+      "term": "こで",
+      "count": 7
+    },
+    {
+      "term": "login",
+      "count": 7
+    },
+    {
+      "term": "とは",
+      "count": 7
+    },
+    {
+      "term": "with",
+      "count": 7
+    },
+    {
+      "term": "runs",
+      "count": 7
+    },
+    {
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "行範",
+      "term": "詳細",
       "count": 6
     },
     {
-      "term": "codebuild",
+      "term": "ド成",
       "count": 6
     },
     {
-      "term": "yml",
+      "term": "の保護",
       "count": 6
     },
     {
-      "term": "image",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "メタ",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "はパ",
+      "term": "うこ",
       "count": 6
     },
     {
-      "term": "理脆",
-      "count": 5
+      "term": "ーの",
+      "count": 6
     },
     {
-      "term": "ラン",
-      "count": 5
+      "term": "レビ",
+      "count": 6
     },
     {
-      "term": "変更",
-      "count": 5
-    },
-    {
-      "term": "限 ",
-      "count": 5
-    },
-    {
-      "term": "ロー",
-      "count": 5
-    },
-    {
-      "term": "信頼でき",
-      "count": 5
-    },
-    {
-      "term": "ン特",
-      "count": 5
-    },
-    {
-      "term": "を使",
-      "count": 5
-    },
-    {
-      "term": "有効",
-      "count": 5
-    },
-    {
-      "term": "でも",
-      "count": 5
+      "term": "steps",
+      "count": 6
     }
   ],
   "meetings": [
