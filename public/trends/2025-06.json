@@ -2,15 +2,19 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ライ",
-      "count": 23
+      "term": "図 ",
+      "count": 28
     },
     {
-      "term": "ため",
-      "count": 22
+      "term": "構成",
+      "count": 20
     },
     {
-      "term": "ード",
+      "term": "プラ",
+      "count": 19
+    },
+    {
+      "term": "保護",
       "count": 18
     },
     {
@@ -18,63 +22,87 @@
       "count": 18
     },
     {
-      "term": "るた",
+      "term": "デー",
+      "count": 17
+    },
+    {
+      "term": "ない",
+      "count": 17
+    },
+    {
+      "term": "実行",
+      "count": 16
+    },
+    {
+      "term": "れた",
+      "count": 16
+    },
+    {
+      "term": "ェー",
       "count": 15
     },
     {
-      "term": "よう",
-      "count": 15
+      "term": "ラッ",
+      "count": 14
     },
     {
-      "term": "への",
-      "count": 13
-    },
-    {
-      "term": "ンテ",
-      "count": 12
-    },
-    {
-      "term": "とす",
-      "count": 11
-    },
-    {
-      "term": "チームの",
-      "count": 11
-    },
-    {
-      "term": "護 ",
-      "count": 11
-    },
-    {
-      "term": "ビス",
-      "count": 11
-    },
-    {
-      "term": "加え",
-      "count": 11
+      "term": "性の",
+      "count": 14
     },
     {
       "term": "cd",
-      "count": 10
+      "count": 14
     },
     {
-      "term": "存物",
-      "count": 10
+      "term": "果物",
+      "count": 14
     },
     {
-      "term": "git",
-      "count": 10
+      "term": "に ",
+      "count": 13
     },
     {
-      "term": "特有",
+      "term": "tf",
+      "count": 13
+    },
+    {
+      "term": "ズの",
+      "count": 11
+    },
+    {
+      "term": "から",
+      "count": 9
+    },
+    {
+      "term": "そのため",
+      "count": 9
+    },
+    {
+      "term": "スキ",
+      "count": 9
+    },
+    {
+      "term": "リの",
+      "count": 9
+    },
+    {
+      "term": "ース",
       "count": 8
     },
     {
-      "term": "対象",
+      "term": "より",
       "count": 8
     },
     {
-      "term": "能で",
+      "term": "範囲",
+      "count": 8
+    },
+    {
+      "term": "docker",
+      "count": 8
+    },
+    {
+      "term": "メタデー",
       "count": 8
     },
     {
@@ -82,23 +110,23 @@
       "count": 8
     },
     {
-      "term": "共通",
+      "term": "組織",
       "count": 7
     },
     {
-      "term": "体の",
+      "term": "ック",
       "count": 7
     },
     {
-      "term": "制限",
+      "term": "クレ",
       "count": 7
     },
     {
-      "term": "省略",
+      "term": "にな",
       "count": 7
     },
     {
-      "term": "rulesets",
+      "term": "こで",
       "count": 7
     },
     {
@@ -106,99 +134,71 @@
       "count": 7
     },
     {
-      "term": "詳細",
+      "term": "ルで",
+      "count": 7
+    },
+    {
+      "term": "type",
+      "count": 7
+    },
+    {
+      "term": "スコ",
       "count": 6
     },
     {
-      "term": "理シ",
+      "term": "ウン",
       "count": 6
     },
     {
-      "term": "の署",
+      "term": "たt",
       "count": 6
     },
     {
-      "term": "記述",
+      "term": "るよ",
       "count": 6
     },
     {
-      "term": "のg",
+      "term": "amazon",
       "count": 6
     },
     {
-      "term": "とが",
+      "term": "ズで",
       "count": 6
     },
     {
-      "term": "to",
+      "term": "ーと",
       "count": 6
     },
     {
-      "term": "env",
+      "term": "合は",
       "count": 6
-    },
-    {
-      "term": "トは",
-      "count": 5
-    },
-    {
-      "term": "ット情報",
-      "count": 5
     },
     {
       "term": "時の",
       "count": 5
     },
     {
-      "term": "を ",
+      "term": "てc",
       "count": 5
     },
     {
-      "term": "供す",
+      "term": "機能",
       "count": 5
     },
     {
-      "term": "上の",
+      "term": "を想",
       "count": 5
     },
     {
-      "term": "るg",
+      "term": "るし",
       "count": 5
     },
     {
-      "term": "とと",
+      "term": "バイ",
       "count": 5
     },
     {
-      "term": "レビ",
-      "count": 5
-    },
-    {
-      "term": "る具",
-      "count": 5
-    },
-    {
-      "term": "まれ",
-      "count": 5
-    },
-    {
-      "term": "yml",
-      "count": 5
-    },
-    {
-      "term": "workflows",
-      "count": 5
-    },
-    {
-      "term": "run",
-      "count": 5
-    },
-    {
-      "term": "され",
-      "count": 5
-    },
-    {
-      "term": "login",
+      "term": "公式",
       "count": 5
     }
   ],
