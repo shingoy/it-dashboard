@@ -2,111 +2,119 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 28
+      "term": "きる",
+      "count": 23
     },
     {
-      "term": "構成",
+      "term": "して",
+      "count": 22
+    },
+    {
+      "term": "てい",
+      "count": 21
+    },
+    {
+      "term": "ため",
       "count": 20
     },
     {
-      "term": "プラ",
-      "count": 19
-    },
-    {
-      "term": "保護",
-      "count": 18
-    },
-    {
-      "term": "リポジト",
-      "count": 18
-    },
-    {
-      "term": "デー",
-      "count": 17
-    },
-    {
-      "term": "ない",
-      "count": 17
-    },
-    {
-      "term": "実行",
+      "term": "ソー",
       "count": 16
     },
     {
-      "term": "れた",
-      "count": 16
-    },
-    {
-      "term": "ェー",
+      "term": "とな",
       "count": 15
     },
     {
-      "term": "ラッ",
+      "term": "ドフ",
       "count": 14
     },
     {
-      "term": "性の",
+      "term": "イプ",
       "count": 14
     },
     {
-      "term": "cd",
+      "term": "るた",
       "count": 14
     },
     {
-      "term": "果物",
+      "term": "タデ",
       "count": 14
     },
     {
-      "term": "に ",
+      "term": "この",
+      "count": 14
+    },
+    {
+      "term": "いて",
       "count": 13
     },
     {
-      "term": "tf",
+      "term": "の成",
       "count": 13
     },
     {
-      "term": "ズの",
+      "term": "ては",
+      "count": 13
+    },
+    {
+      "term": "レッ",
+      "count": 12
+    },
+    {
+      "term": "シークレ",
       "count": 11
     },
     {
-      "term": "から",
+      "term": "を含",
+      "count": 10
+    },
+    {
+      "term": "code",
+      "count": 10
+    },
+    {
+      "term": "ここ",
+      "count": 10
+    },
+    {
+      "term": "ロー",
       "count": 9
     },
     {
-      "term": "そのため",
+      "term": "の制",
       "count": 9
     },
     {
-      "term": "スキ",
+      "term": "こで",
       "count": 9
     },
     {
-      "term": "リの",
+      "term": "でき",
       "count": 9
     },
     {
-      "term": "ース",
+      "term": "囲の",
       "count": 8
     },
     {
-      "term": "より",
+      "term": "書で",
       "count": 8
     },
     {
-      "term": "範囲",
+      "term": "成果物の",
       "count": 8
     },
     {
-      "term": "docker",
+      "term": "の構",
       "count": 8
     },
     {
-      "term": "メタデー",
+      "term": "これ",
       "count": 8
     },
     {
-      "term": "の設",
+      "term": "を実",
       "count": 8
     },
     {
@@ -114,11 +122,19 @@
       "count": 7
     },
     {
-      "term": "ック",
+      "term": "トリ",
       "count": 7
     },
     {
-      "term": "クレ",
+      "term": "定 ",
+      "count": 7
+    },
+    {
+      "term": "定し",
+      "count": 7
+    },
+    {
+      "term": "plan",
       "count": 7
     },
     {
@@ -126,79 +142,63 @@
       "count": 7
     },
     {
-      "term": "こで",
+      "term": "るプ",
       "count": 7
     },
     {
-      "term": "可能であ",
+      "term": "対し",
       "count": 7
-    },
-    {
-      "term": "ルで",
-      "count": 7
-    },
-    {
-      "term": "type",
-      "count": 7
-    },
-    {
-      "term": "スコ",
-      "count": 6
-    },
-    {
-      "term": "ウン",
-      "count": 6
-    },
-    {
-      "term": "たt",
-      "count": 6
-    },
-    {
-      "term": "るよ",
-      "count": 6
-    },
-    {
-      "term": "amazon",
-      "count": 6
-    },
-    {
-      "term": "ズで",
-      "count": 6
     },
     {
       "term": "ーと",
+      "count": 7
+    },
+    {
+      "term": "信頼性の",
       "count": 6
     },
     {
-      "term": "合は",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "時の",
+      "term": "ス ",
+      "count": 6
+    },
+    {
+      "term": "カウ",
+      "count": 6
+    },
+    {
+      "term": "trivy",
+      "count": 6
+    },
+    {
+      "term": "のよ",
+      "count": 6
+    },
+    {
+      "term": "る ",
+      "count": 6
+    },
+    {
+      "term": "tf",
+      "count": 6
+    },
+    {
+      "term": "id",
+      "count": 6
+    },
+    {
+      "term": "はパ",
+      "count": 6
+    },
+    {
+      "term": "用者",
       "count": 5
     },
     {
-      "term": "てc",
-      "count": 5
-    },
-    {
-      "term": "機能",
-      "count": 5
-    },
-    {
-      "term": "を想",
-      "count": 5
-    },
-    {
-      "term": "るし",
-      "count": 5
-    },
-    {
-      "term": "バイ",
-      "count": 5
-    },
-    {
-      "term": "公式",
+      "term": "コー",
       "count": 5
     }
   ],
