@@ -746,5 +746,16 @@
     "date": "2023-07-04",
     "collected_at": "2025-10-19T21:09:53.553133",
     "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/0e205dc0fc7d3135f06802ce986dbbbc.pdf"
+  },
+  "ae79b1961cf12e71c6aa25f1ae4a9157": {
+    "id": "ae79b1961cf12e71c6aa25f1ae4a9157",
+    "meeting": "サイバーセキュリティ戦略本部",
+    "agency": "内閣府・内閣官房",
+    "title": "当サイトのURL変更について（PDF形式:289KB）",
+    "url": "https://www.nisc.go.jp/pdf/URL_Change.pdf",
+    "file_type": "pdf",
+    "date": "2025-12-03",
+    "collected_at": "2025-12-03T21:13:02.069744",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/ae79b1961cf12e71c6aa25f1ae4a9157.pdf"
   }
 }
