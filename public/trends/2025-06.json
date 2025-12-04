@@ -2,127 +2,115 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "こと",
-      "count": 25
+      "term": "その",
+      "count": 21
     },
     {
-      "term": "して",
-      "count": 25
-    },
-    {
-      "term": "るこ",
-      "count": 23
-    },
-    {
-      "term": "actions",
-      "count": 19
-    },
-    {
-      "term": "ーム",
+      "term": "チー",
       "count": 18
     },
     {
-      "term": "物の",
-      "count": 17
-    },
-    {
-      "term": "いる",
-      "count": 17
-    },
-    {
-      "term": "ci",
+      "term": "ソー",
       "count": 16
     },
     {
-      "term": "ーズ",
+      "term": "実行",
+      "count": 16
+    },
+    {
+      "term": "ムチ",
       "count": 15
     },
     {
-      "term": "とな",
+      "term": "に ",
       "count": 15
     },
     {
-      "term": "必要",
+      "term": "的な",
       "count": 15
     },
     {
-      "term": "ドフ",
+      "term": "るた",
+      "count": 15
+    },
+    {
+      "term": "のた",
+      "count": 15
+    },
+    {
+      "term": "への",
+      "count": 15
+    },
+    {
+      "term": "性の",
       "count": 14
     },
     {
-      "term": "られ",
-      "count": 14
-    },
-    {
-      "term": "担保",
-      "count": 13
-    },
-    {
-      "term": "とで",
-      "count": 13
-    },
-    {
-      "term": "対策",
-      "count": 12
-    },
-    {
-      "term": "にお",
-      "count": 12
-    },
-    {
-      "term": "つい",
+      "term": "スコ",
       "count": 11
     },
     {
-      "term": "の保",
+      "term": "の実",
       "count": 11
     },
     {
-      "term": "https",
+      "term": "依存物の",
       "count": 11
     },
     {
-      "term": "push",
+      "term": "環境",
       "count": 11
     },
     {
-      "term": "ブラ",
+      "term": "考え",
+      "count": 11
+    },
+    {
+      "term": "の信",
       "count": 10
     },
     {
-      "term": "管理",
+      "term": "git",
       "count": 10
     },
     {
-      "term": "ナイ",
+      "term": "的に",
       "count": 10
     },
     {
-      "term": "れた",
+      "term": "ここ",
       "count": 10
     },
     {
-      "term": "のリ",
+      "term": "to",
+      "count": 10
+    },
+    {
+      "term": "env",
+      "count": 10
+    },
+    {
+      "term": "トリ",
       "count": 9
     },
     {
-      "term": "ルの",
+      "term": "デリ",
       "count": 9
     },
     {
-      "term": "ラッ",
+      "term": "本書",
+      "count": 9
+    },
+    {
+      "term": "定内",
       "count": 8
     },
     {
-      "term": "囲の",
+      "term": "るそ",
       "count": 8
     },
     {
-      "term": "リソ",
-      "count": 8
-    },
-    {
-      "term": "性が",
+      "term": "より",
       "count": 8
     },
     {
@@ -130,75 +118,87 @@
       "count": 8
     },
     {
-      "term": "自動",
+      "term": "指定",
+      "count": 8
+    },
+    {
+      "term": "ルで",
+      "count": 8
+    },
+    {
+      "term": "リテ",
       "count": 7
     },
     {
-      "term": "ンの",
+      "term": "ェー",
       "count": 7
     },
     {
-      "term": "login",
+      "term": "すべ",
       "count": 7
     },
     {
-      "term": "仕組",
+      "term": "バイナリ",
       "count": 7
     },
     {
-      "term": "ート",
-      "count": 6
-    },
-    {
-      "term": "信頼性の",
-      "count": 6
-    },
-    {
-      "term": "トを",
-      "count": 6
+      "term": "囲の",
+      "count": 7
     },
     {
       "term": "ャン",
+      "count": 7
+    },
+    {
+      "term": "連携",
+      "count": 7
+    },
+    {
+      "term": "内容",
       "count": 6
     },
     {
-      "term": "rule",
+      "term": "28",
       "count": 6
     },
     {
-      "term": "and",
+      "term": "ンテナイ",
       "count": 6
     },
     {
-      "term": "運用保守",
+      "term": "リポジト",
+      "count": 6
+    },
+    {
+      "term": "steps",
+      "count": 6
+    },
+    {
+      "term": "ド設",
+      "count": 6
+    },
+    {
+      "term": "コー",
       "count": 5
     },
     {
-      "term": "プラ",
+      "term": "ード",
       "count": 5
     },
     {
-      "term": "する",
+      "term": "めの",
       "count": 5
     },
     {
-      "term": "ド上",
+      "term": "を想",
       "count": 5
     },
     {
-      "term": "の取",
+      "term": "はあ",
       "count": 5
     },
     {
-      "term": "はt",
-      "count": 5
-    },
-    {
-      "term": "アカ",
-      "count": 5
-    },
-    {
-      "term": "り ",
+      "term": "よっ",
       "count": 5
     }
   ],
