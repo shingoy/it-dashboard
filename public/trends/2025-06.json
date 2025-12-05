@@ -2,151 +2,159 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "構成",
+      "term": "てい",
       "count": 21
     },
     {
-      "term": "actions",
+      "term": "ルド",
       "count": 19
     },
     {
-      "term": "ci",
-      "count": 17
+      "term": "チー",
+      "count": 18
     },
     {
-      "term": "物の",
-      "count": 17
+      "term": "安全",
+      "count": 18
     },
     {
-      "term": "には",
-      "count": 17
-    },
-    {
-      "term": "によ",
+      "term": "れた",
       "count": 16
     },
     {
-      "term": "果物",
+      "term": "メー",
       "count": 15
     },
     {
-      "term": "トリ",
+      "term": "ドフ",
       "count": 14
     },
     {
-      "term": "プロ",
+      "term": "コー",
       "count": 14
     },
     {
-      "term": "また",
+      "term": "workflows",
       "count": 14
     },
     {
-      "term": "タデ",
-      "count": 14
-    },
-    {
-      "term": "の成",
+      "term": "性の",
       "count": 13
     },
     {
-      "term": "ファイル",
+      "term": "に ",
+      "count": 13
+    },
+    {
+      "term": "確認",
+      "count": 13
+    },
+    {
+      "term": "生成",
+      "count": 13
+    },
+    {
+      "term": "場合",
+      "count": 13
+    },
+    {
+      "term": "レッ",
       "count": 12
     },
     {
-      "term": "につ",
+      "term": "ラン",
+      "count": 12
+    },
+    {
+      "term": "考え",
       "count": 11
     },
     {
-      "term": "保 ",
+      "term": "えら",
+      "count": 11
+    },
+    {
+      "term": "プラット",
       "count": 10
     },
     {
-      "term": "ルの",
+      "term": "ー ",
       "count": 10
     },
     {
-      "term": "イメージ",
+      "term": "sbom",
       "count": 10
     },
     {
-      "term": "検証",
-      "count": 10
-    },
-    {
-      "term": "メー",
-      "count": 10
-    },
-    {
-      "term": "可能",
-      "count": 10
-    },
-    {
-      "term": "env",
-      "count": 10
-    },
-    {
-      "term": "含む",
+      "term": "ン ",
       "count": 9
     },
     {
-      "term": "code",
+      "term": "の信",
       "count": 9
     },
     {
-      "term": "以外",
+      "term": "れて",
       "count": 9
     },
     {
-      "term": "ここ",
+      "term": "とい",
       "count": 9
     },
     {
-      "term": "囲の",
+      "term": "の対",
+      "count": 9
+    },
+    {
+      "term": "スク",
       "count": 8
     },
     {
-      "term": "の漏",
+      "term": "の取",
+      "count": 8
+    },
+    {
+      "term": "定し",
+      "count": 8
+    },
+    {
+      "term": "スチ",
+      "count": 8
+    },
+    {
+      "term": "ルで",
+      "count": 8
+    },
+    {
+      "term": "17",
       "count": 7
     },
     {
-      "term": "ォー",
+      "term": "た ",
       "count": 7
     },
     {
-      "term": "バイナリ",
+      "term": "にな",
       "count": 7
     },
     {
-      "term": "特有",
+      "term": "省略",
       "count": 7
     },
     {
-      "term": "ると",
+      "term": "rulesets",
       "count": 7
     },
     {
-      "term": "など",
+      "term": "file",
       "count": 7
     },
     {
-      "term": "対し",
-      "count": 7
+      "term": "成 ",
+      "count": 6
     },
     {
-      "term": "を実",
-      "count": 7
-    },
-    {
-      "term": "ド設",
-      "count": 7
-    },
-    {
-      "term": "runs",
-      "count": 7
-    },
-    {
-      "term": "詳細",
+      "term": "確保",
       "count": 6
     },
     {
@@ -154,51 +162,43 @@
       "count": 6
     },
     {
-      "term": "る主",
+      "term": "の署",
       "count": 6
     },
     {
-      "term": "省略する",
+      "term": "の事",
       "count": 6
     },
     {
-      "term": "11",
+      "term": "策に",
       "count": 6
     },
     {
-      "term": "ることが",
+      "term": "を必",
       "count": 6
     },
     {
-      "term": "えて",
+      "term": "ref",
       "count": 6
     },
     {
-      "term": "た信",
+      "term": "image",
+      "count": 6
+    },
+    {
+      "term": "用保",
       "count": 5
     },
     {
-      "term": "ケー",
+      "term": "テム",
       "count": 5
     },
     {
-      "term": "む運",
+      "term": "内容",
       "count": 5
     },
     {
-      "term": "したがっ",
-      "count": 5
-    },
-    {
-      "term": "そし",
-      "count": 5
-    },
-    {
-      "term": "フト",
-      "count": 5
-    },
-    {
-      "term": "実現",
+      "term": "上の",
       "count": 5
     }
   ],
