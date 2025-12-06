@@ -2,204 +2,204 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "イル",
+      "term": "れる",
+      "count": 23
+    },
+    {
+      "term": "管理",
       "count": 20
     },
     {
-      "term": "ーム",
+      "term": "イプ",
+      "count": 19
+    },
+    {
+      "term": "ロー",
       "count": 18
     },
     {
-      "term": "られ",
-      "count": 14
-    },
-    {
-      "term": "この",
-      "count": 14
-    },
-    {
-      "term": "頼性",
-      "count": 13
-    },
-    {
-      "term": "確認",
-      "count": 13
-    },
-    {
-      "term": "護 ",
-      "count": 12
-    },
-    {
-      "term": "サービス",
-      "count": 12
-    },
-    {
-      "term": "るこ",
-      "count": 12
-    },
-    {
-      "term": "チームの",
-      "count": 11
-    },
-    {
-      "term": "プラット",
-      "count": 11
-    },
-    {
-      "term": "のc",
-      "count": 11
-    },
-    {
       "term": "には",
+      "count": 17
+    },
+    {
+      "term": "これ",
+      "count": 16
+    },
+    {
+      "term": "脆弱",
+      "count": 15
+    },
+    {
+      "term": "ムの",
+      "count": 15
+    },
+    {
+      "term": "cat",
+      "count": 15
+    },
+    {
+      "term": "への",
+      "count": 14
+    },
+    {
+      "term": "workflows",
+      "count": 14
+    },
+    {
+      "term": "用す",
+      "count": 13
+    },
+    {
+      "term": "略 ",
+      "count": 13
+    },
+    {
+      "term": "id",
+      "count": 13
+    },
+    {
+      "term": "フォ",
+      "count": 12
+    },
+    {
+      "term": "スチ",
+      "count": 12
+    },
+    {
+      "term": "ステ",
       "count": 11
     },
     {
-      "term": "ている",
+      "term": "範囲",
+      "count": 11
+    },
+    {
+      "term": "ズの",
       "count": 10
     },
     {
-      "term": "ビス",
+      "term": "提供",
       "count": 10
     },
     {
-      "term": "sbom",
+      "term": "git",
       "count": 10
     },
     {
-      "term": "のリ",
+      "term": "ン ",
       "count": 9
     },
     {
-      "term": "いた",
+      "term": "ムが",
       "count": 9
     },
     {
-      "term": "アク",
-      "count": 9
-    },
-    {
-      "term": "com",
-      "count": 9
-    },
-    {
-      "term": "指定",
-      "count": 9
-    },
-    {
-      "term": "uses",
-      "count": 9
-    },
-    {
-      "term": "シス",
+      "term": "ビルドフ",
       "count": 8
-    },
-    {
-      "term": "テム",
-      "count": 8
-    },
-    {
-      "term": "書で",
-      "count": 8
-    },
-    {
-      "term": "リソ",
-      "count": 8
-    },
-    {
-      "term": "るそ",
-      "count": 8
-    },
-    {
-      "term": "デリバリ",
-      "count": 7
-    },
-    {
-      "term": "における",
-      "count": 7
-    },
-    {
-      "term": "バイナリ",
-      "count": 7
-    },
-    {
-      "term": "定義",
-      "count": 7
-    },
-    {
-      "term": "registry",
-      "count": 7
-    },
-    {
-      "term": "いう",
-      "count": 7
-    },
-    {
-      "term": "name",
-      "count": 7
-    },
-    {
-      "term": "混入",
-      "count": 7
-    },
-    {
-      "term": "理シ",
-      "count": 6
-    },
-    {
-      "term": "めに",
-      "count": 6
-    },
-    {
-      "term": "ュリ",
-      "count": 6
-    },
-    {
-      "term": "code",
-      "count": 6
-    },
-    {
-      "term": "ジと",
-      "count": 6
-    },
-    {
-      "term": "にて",
-      "count": 6
-    },
-    {
-      "term": "および",
-      "count": 6
-    },
-    {
-      "term": "など",
-      "count": 6
-    },
-    {
-      "term": "high",
-      "count": 6
-    },
-    {
-      "term": "ecr",
-      "count": 6
-    },
-    {
-      "term": "ケー",
-      "count": 5
-    },
-    {
-      "term": "変更",
-      "count": 5
-    },
-    {
-      "term": "てc",
-      "count": 5
     },
     {
       "term": "の取",
-      "count": 5
+      "count": 8
     },
     {
-      "term": "リス",
-      "count": 5
+      "term": "ウェ",
+      "count": 8
+    },
+    {
+      "term": "ャン",
+      "count": 8
+    },
+    {
+      "term": "を実",
+      "count": 8
+    },
+    {
+      "term": "とが",
+      "count": 8
+    },
+    {
+      "term": "共通",
+      "count": 7
+    },
+    {
+      "term": "システム",
+      "count": 7
+    },
+    {
+      "term": "脆弱性管",
+      "count": 7
+    },
+    {
+      "term": "カル",
+      "count": 7
+    },
+    {
+      "term": "あり",
+      "count": 7
+    },
+    {
+      "term": "考えられ",
+      "count": 7
+    },
+    {
+      "term": "性を",
+      "count": 7
+    },
+    {
+      "term": "および",
+      "count": 7
+    },
+    {
+      "term": "ル ",
+      "count": 7
+    },
+    {
+      "term": "記述",
+      "count": 7
+    },
+    {
+      "term": "がある",
+      "count": 7
+    },
+    {
+      "term": "図 ",
+      "count": 7
+    },
+    {
+      "term": "ルで",
+      "count": 7
+    },
+    {
+      "term": "type",
+      "count": 7
+    },
+    {
+      "term": "ェーズの",
+      "count": 6
+    },
+    {
+      "term": "を示",
+      "count": 6
+    },
+    {
+      "term": "ーズ",
+      "count": 6
+    },
+    {
+      "term": "した",
+      "count": 6
+    },
+    {
+      "term": "を用",
+      "count": 6
+    },
+    {
+      "term": "たt",
+      "count": 6
+    },
+    {
+      "term": "イメージ",
+      "count": 6
     }
   ],
   "meetings": [
