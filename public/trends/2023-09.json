@@ -2,71 +2,83 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "ン ",
+      "term": "連携",
       "count": 3
     },
     {
-      "term": "見直",
+      "term": "マッ",
       "count": 3
     },
     {
-      "term": "への",
+      "term": "カタ",
       "count": 3
     },
     {
-      "term": "イメージ",
+      "term": "の ",
       "count": 3
     },
     {
-      "term": "らの",
+      "term": "テクノロ",
       "count": 3
     },
     {
-      "term": "ムの今後",
+      "term": "ドバ",
+      "count": 3
+    },
+    {
+      "term": "ーマ",
+      "count": 3
+    },
+    {
+      "term": "アナ",
       "count": 2
     },
     {
-      "term": "個別呼び",
+      "term": "て周",
       "count": 2
     },
     {
-      "term": "ベン",
+      "term": "との",
       "count": 2
     },
     {
-      "term": "制の",
+      "term": "法等",
       "count": 2
     },
     {
-      "term": "ムの",
+      "term": "員に",
       "count": 2
     },
     {
-      "term": "向コ",
+      "term": "と ",
       "count": 2
     },
     {
-      "term": "提供",
+      "term": "の募",
       "count": 2
     },
     {
-      "term": "規制対象",
+      "term": "加呼",
       "count": 2
     },
     {
-      "term": "け ",
+      "term": "発力",
       "count": 2
     },
     {
-      "term": "27",
+      "term": "びか",
       "count": 2
     },
     {
-      "term": "体会",
+      "term": "し動",
       "count": 2
     },
     {
-      "term": "制所",
+      "term": "め ",
+      "count": 2
+    },
+    {
+      "term": "らコ",
       "count": 2
     },
     {
@@ -74,35 +86,35 @@
       "count": 2
     },
     {
-      "term": "供 ",
+      "term": "ナロ",
       "count": 2
     },
     {
-      "term": "参加",
+      "term": "集情",
       "count": 2
     },
     {
-      "term": "テストの",
+      "term": "の今",
       "count": 2
     },
     {
-      "term": "新た",
+      "term": "ノロジー",
       "count": 2
     },
     {
-      "term": "他省",
+      "term": "管省",
       "count": 2
     },
     {
-      "term": "実証",
+      "term": "明参",
       "count": 2
     },
     {
-      "term": "の検",
+      "term": "を検討",
       "count": 2
     },
     {
-      "term": "を通",
+      "term": "体化",
       "count": 2
     },
     {
@@ -110,23 +122,23 @@
       "count": 2
     },
     {
-      "term": "コン",
+      "term": "発の",
       "count": 2
     },
     {
-      "term": "開発",
+      "term": "術検",
       "count": 2
     },
     {
-      "term": "えた",
+      "term": "感 ",
       "count": 2
     },
     {
-      "term": "保有",
+      "term": "新たな技",
       "count": 2
     },
     {
-      "term": "速報",
+      "term": "テス",
       "count": 2
     },
     {
@@ -134,15 +146,11 @@
       "count": 2
     },
     {
-      "term": "結果等を",
+      "term": "ピッチコ",
       "count": 2
     },
     {
-      "term": "化 ",
-      "count": 2
-    },
-    {
-      "term": "アド",
+      "term": "広く",
       "count": 2
     },
     {
@@ -150,55 +158,47 @@
       "count": 2
     },
     {
-      "term": "有機関",
+      "term": "を通",
+      "count": 2
+    },
+    {
+      "term": "金獲",
       "count": 1
     },
     {
-      "term": "情 ",
+      "term": "体等と連",
       "count": 1
     },
     {
-      "term": "新市",
+      "term": "事務",
       "count": 1
     },
     {
-      "term": "テ ",
+      "term": "関係者共",
       "count": 1
     },
     {
-      "term": "ックする",
+      "term": "要\n",
       "count": 1
     },
     {
-      "term": "強会等",
+      "term": "学習",
       "count": 1
     },
     {
-      "term": "機関がテ",
+      "term": "資金",
       "count": 1
     },
     {
-      "term": "ル ",
+      "term": "す ",
       "count": 1
     },
     {
-      "term": "中小企業",
+      "term": "動スケジ",
       "count": 1
     },
     {
-      "term": "む ",
-      "count": 1
-    },
-    {
-      "term": "係者",
-      "count": 1
-    },
-    {
-      "term": "しネ",
-      "count": 1
-    },
-    {
-      "term": "見や",
+      "term": "営開",
       "count": 1
     }
   ],
