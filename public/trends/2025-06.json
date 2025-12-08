@@ -2,191 +2,135 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "でき",
+      "term": "こと",
+      "count": 25
+    },
+    {
+      "term": "れる",
       "count": 23
     },
     {
-      "term": "ため",
-      "count": 22
-    },
-    {
-      "term": "利用",
-      "count": 21
-    },
-    {
-      "term": "ジト",
+      "term": "管理",
       "count": 20
     },
     {
-      "term": "の保",
+      "term": "ース",
+      "count": 17
+    },
+    {
+      "term": "イル",
+      "count": 17
+    },
+    {
+      "term": "ード",
+      "count": 17
+    },
+    {
+      "term": "ォー",
       "count": 16
     },
     {
-      "term": "ムチ",
+      "term": "およ",
       "count": 15
     },
     {
-      "term": "よび",
+      "term": "てい",
       "count": 15
+    },
+    {
+      "term": "署名",
+      "count": 14
+    },
+    {
+      "term": "頼性",
+      "count": 13
     },
     {
       "term": "フォ",
-      "count": 15
-    },
-    {
-      "term": "によ",
-      "count": 15
-    },
-    {
-      "term": "の安",
       "count": 13
     },
     {
-      "term": "生成",
-      "count": 13
-    },
-    {
-      "term": "trivy",
-      "count": 13
-    },
-    {
-      "term": "とが",
-      "count": 13
-    },
-    {
-      "term": "を取",
+      "term": "れら",
       "count": 12
     },
     {
-      "term": "対策",
+      "term": "環境",
       "count": 11
     },
     {
-      "term": "はc",
+      "term": "はな",
+      "count": 11
+    },
+    {
+      "term": "ルド",
       "count": 10
     },
     {
-      "term": "レッ",
+      "term": "るた",
       "count": 10
     },
     {
-      "term": "ント",
-      "count": 10
-    },
-    {
-      "term": "git",
-      "count": 10
-    },
-    {
-      "term": "ファイル",
-      "count": 10
-    },
-    {
-      "term": "sbom",
-      "count": 10
-    },
-    {
-      "term": "provenance",
-      "count": 10
-    },
-    {
-      "term": "に関",
+      "term": "策 ",
       "count": 9
     },
     {
-      "term": "そのため",
+      "term": "る\n",
       "count": 9
     },
     {
-      "term": "用い",
+      "term": "runs",
+      "count": 9
+    },
+    {
+      "term": "ubuntu",
+      "count": 9
+    },
+    {
+      "term": "ブラ",
       "count": 8
     },
     {
-      "term": "テナ",
+      "term": "チームの",
       "count": 8
     },
     {
-      "term": "のs",
+      "term": "定し",
       "count": 8
     },
     {
-      "term": "理を",
-      "count": 7
+      "term": "ャン",
+      "count": 8
     },
     {
-      "term": "17",
-      "count": 7
+      "term": "の管",
+      "count": 8
     },
     {
-      "term": "すべ",
-      "count": 7
+      "term": "https",
+      "count": 8
     },
     {
-      "term": "ダー",
-      "count": 7
-    },
-    {
-      "term": "ー ",
-      "count": 7
-    },
-    {
-      "term": "考えられ",
-      "count": 7
-    },
-    {
-      "term": "コンテナ",
-      "count": 7
-    },
-    {
-      "term": "アッ",
-      "count": 7
-    },
-    {
-      "term": "略す",
-      "count": 7
-    },
-    {
-      "term": "クセ",
-      "count": 7
-    },
-    {
-      "term": "混入",
-      "count": 7
-    },
-    {
-      "term": "ショ",
+      "term": "共通",
       "count": 6
     },
     {
-      "term": "24",
+      "term": "報の",
       "count": 6
     },
     {
-      "term": "プロバイ",
+      "term": "関す",
       "count": 6
     },
     {
-      "term": "フ ",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "物と",
+      "term": "方法",
       "count": 6
     },
     {
-      "term": "ムに",
-      "count": 6
-    },
-    {
-      "term": "ンテナイ",
-      "count": 6
-    },
-    {
-      "term": "対す",
-      "count": 6
-    },
-    {
-      "term": "クを",
+      "term": "な対",
       "count": 6
     },
     {
@@ -194,12 +138,68 @@
       "count": 6
     },
     {
-      "term": "の利",
+      "term": "ない",
       "count": 6
     },
     {
-      "term": "完全",
+      "term": "ref",
       "count": 6
+    },
+    {
+      "term": "がある",
+      "count": 6
+    },
+    {
+      "term": "同様",
+      "count": 6
+    },
+    {
+      "term": "るs",
+      "count": 6
+    },
+    {
+      "term": "が考",
+      "count": 6
+    },
+    {
+      "term": "実装",
+      "count": 5
+    },
+    {
+      "term": "む運",
+      "count": 5
+    },
+    {
+      "term": "ック",
+      "count": 5
+    },
+    {
+      "term": "はあ",
+      "count": 5
+    },
+    {
+      "term": "自体",
+      "count": 5
+    },
+    {
+      "term": "想定",
+      "count": 5
+    },
+    {
+      "term": "トウ",
+      "count": 5
+    },
+    {
+      "term": "にも",
+      "count": 5
+    },
+    {
+      "term": "のた",
+      "count": 5
+    },
+    {
+      "term": "なけ",
+      "count": 5
     }
   ],
   "meetings": [
