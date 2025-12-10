@@ -2,203 +2,203 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "され",
-      "count": 27
+      "term": "github",
+      "count": 26
     },
     {
-      "term": "した",
-      "count": 24
+      "term": "こと",
+      "count": 25
     },
     {
-      "term": "ール",
+      "term": "パイ",
       "count": 20
     },
     {
-      "term": "てい",
+      "term": "ァイ",
       "count": 19
     },
     {
-      "term": "れる",
+      "term": "aws",
       "count": 19
     },
     {
-      "term": "ェー",
-      "count": 17
+      "term": "actions",
+      "count": 19
     },
     {
-      "term": "って",
+      "term": "チー",
       "count": 16
     },
     {
-      "term": "フォ",
+      "term": "name",
+      "count": 16
+    },
+    {
+      "term": "とな",
       "count": 15
     },
     {
-      "term": "ンテ",
+      "term": "いて",
       "count": 14
     },
     {
-      "term": "よう",
-      "count": 14
-    },
-    {
-      "term": "ファイル",
+      "term": "体的",
       "count": 12
     },
     {
-      "term": "のc",
+      "term": "弱性",
+      "count": 12
+    },
+    {
+      "term": "用す",
+      "count": 12
+    },
+    {
+      "term": "存物",
       "count": 11
     },
     {
-      "term": "リポ",
-      "count": 11
-    },
-    {
-      "term": "取得",
-      "count": 11
-    },
-    {
-      "term": "ナリ",
+      "term": "メン",
       "count": 10
+    },
+    {
+      "term": "ー ",
+      "count": 10
+    },
+    {
+      "term": "sbom",
+      "count": 10
+    },
+    {
+      "term": "ubuntu",
+      "count": 10
+    },
+    {
+      "term": "トウ",
+      "count": 9
+    },
+    {
+      "term": "いっ",
+      "count": 9
+    },
+    {
+      "term": "それ",
+      "count": 9
+    },
+    {
+      "term": "トに",
+      "count": 8
+    },
+    {
+      "term": "ド上",
+      "count": 8
+    },
+    {
+      "term": "の構",
+      "count": 8
     },
     {
       "term": "build",
-      "count": 10
-    },
-    {
-      "term": "れて",
-      "count": 9
-    },
-    {
-      "term": "生成",
-      "count": 9
-    },
-    {
-      "term": "より",
       "count": 8
     },
     {
-      "term": "ング",
-      "count": 8
-    },
-    {
-      "term": "らの",
-      "count": 8
-    },
-    {
-      "term": "のs",
-      "count": 8
-    },
-    {
-      "term": "のよ",
-      "count": 8
-    },
-    {
-      "term": "runs",
-      "count": 8
-    },
-    {
-      "term": "における",
+      "term": "にお",
       "count": 7
     },
     {
-      "term": "フェーズ",
+      "term": "ポジ",
       "count": 7
     },
     {
-      "term": "ャン",
+      "term": "考えられ",
       "count": 7
-    },
-    {
-      "term": "ショ",
-      "count": 6
-    },
-    {
-      "term": "頼性",
-      "count": 6
     },
     {
       "term": "記述",
+      "count": 7
+    },
+    {
+      "term": "ング",
+      "count": 7
+    },
+    {
+      "term": "はg",
+      "count": 7
+    },
+    {
+      "term": "要と",
+      "count": 7
+    },
+    {
+      "term": "理シ",
       "count": 6
     },
     {
-      "term": "るよ",
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "取り",
+      "term": "ブラ",
       "count": 6
     },
     {
-      "term": "象と",
+      "term": "プロバイ",
       "count": 6
     },
     {
-      "term": "ド設",
+      "term": "ビス",
       "count": 6
     },
     {
-      "term": "要 ",
+      "term": "たコ",
+      "count": 6
+    },
+    {
+      "term": "ンテナイ",
+      "count": 6
+    },
+    {
+      "term": "物と",
+      "count": 6
+    },
+    {
+      "term": "はプ",
+      "count": 6
+    },
+    {
+      "term": "ーテ",
+      "count": 6
+    },
+    {
+      "term": "るが",
+      "count": 6
+    },
+    {
+      "term": "れた",
+      "count": 6
+    },
+    {
+      "term": "ケー",
       "count": 5
     },
     {
-      "term": "をも",
+      "term": "ート",
       "count": 5
     },
     {
-      "term": "脆弱性管",
+      "term": "共通",
       "count": 5
     },
     {
-      "term": "脆弱",
+      "term": "する",
       "count": 5
     },
     {
-      "term": "のソ",
+      "term": "る成",
       "count": 5
     },
     {
-      "term": "の実",
-      "count": 5
-    },
-    {
-      "term": "公式",
-      "count": 5
-    },
-    {
-      "term": "関連",
-      "count": 5
-    },
-    {
-      "term": "の成果物",
-      "count": 5
-    },
-    {
-      "term": "境の",
-      "count": 5
-    },
-    {
-      "term": "項で",
-      "count": 5
-    },
-    {
-      "term": "チームが",
-      "count": 5
-    },
-    {
-      "term": "iam",
-      "count": 5
-    },
-    {
-      "term": "で実",
-      "count": 5
-    },
-    {
-      "term": "があ",
-      "count": 5
-    },
-    {
-      "term": "物に",
+      "term": "よっ",
       "count": 5
     }
   ],
