@@ -2,79 +2,87 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "イメ",
+      "term": "等を",
       "count": 3
     },
     {
-      "term": "動向",
+      "term": "ジーマッ",
       "count": 3
     },
     {
-      "term": "テク",
+      "term": "ーマ",
       "count": 3
     },
     {
-      "term": "情報",
+      "term": "ロジ",
       "count": 3
     },
     {
-      "term": "ノロ",
+      "term": "ン ",
       "count": 3
     },
     {
-      "term": "開発",
+      "term": "ージ",
       "count": 3
     },
     {
-      "term": "しに",
+      "term": "グの",
       "count": 3
     },
     {
-      "term": "カタ",
+      "term": "保有",
       "count": 3
     },
     {
-      "term": "テクノロ",
-      "count": 3
-    },
-    {
-      "term": "る課",
+      "term": "日 ",
       "count": 2
     },
     {
-      "term": "提案",
+      "term": "コミ",
       "count": 2
     },
     {
-      "term": "バッ",
+      "term": "明参",
       "count": 2
     },
     {
-      "term": "制の",
+      "term": "る ",
       "count": 2
     },
     {
-      "term": "ベン",
+      "term": "との",
       "count": 2
     },
     {
-      "term": "い ",
+      "term": "める",
       "count": 2
     },
     {
-      "term": "ンソ",
+      "term": "説明",
       "count": 2
     },
     {
-      "term": "おける",
+      "term": "に対して",
       "count": 2
     },
     {
-      "term": "目的",
+      "term": "びか",
       "count": 2
     },
     {
-      "term": "しの実装",
+      "term": "団体",
+      "count": 2
+    },
+    {
+      "term": "用方",
+      "count": 2
+    },
+    {
+      "term": "強会",
+      "count": 2
+    },
+    {
+      "term": "プピ",
       "count": 2
     },
     {
@@ -82,11 +90,27 @@
       "count": 2
     },
     {
-      "term": "報告会",
+      "term": "を踏",
       "count": 2
     },
     {
-      "term": "や連",
+      "term": "バイ",
+      "count": 2
+    },
+    {
+      "term": "ポジ",
+      "count": 2
+    },
+    {
+      "term": "改善",
+      "count": 2
+    },
+    {
+      "term": "企画への",
+      "count": 2
+    },
+    {
+      "term": "技術検証",
       "count": 2
     },
     {
@@ -94,19 +118,15 @@
       "count": 2
     },
     {
-      "term": "具体",
+      "term": "テストの",
       "count": 2
     },
     {
-      "term": "証結",
+      "term": "カタ",
       "count": 2
     },
     {
-      "term": "の結",
-      "count": 2
-    },
-    {
-      "term": "ウム",
+      "term": "状況",
       "count": 2
     },
     {
@@ -114,91 +134,71 @@
       "count": 2
     },
     {
+      "term": "的な",
+      "count": 1
+    },
+    {
+      "term": "う関",
+      "count": 1
+    },
+    {
+      "term": "とで",
+      "count": 1
+    },
+    {
+      "term": "しコ",
+      "count": 1
+    },
+    {
       "term": "かに",
       "count": 1
     },
     {
-      "term": "ナジ",
+      "term": "タル協会",
       "count": 1
     },
     {
-      "term": "組方法や",
+      "term": "術等",
       "count": 1
     },
     {
-      "term": "営す",
+      "term": "可能",
       "count": 1
     },
     {
-      "term": "るこ",
+      "term": "的継",
       "count": 1
     },
     {
-      "term": "スク",
+      "term": "シアムの",
       "count": 1
     },
     {
-      "term": "域版",
+      "term": "テ ",
       "count": 1
     },
     {
-      "term": "加え",
+      "term": "的に共有",
       "count": 1
     },
     {
-      "term": "捗状",
+      "term": "進する",
       "count": 1
     },
     {
-      "term": "かにし",
+      "term": "資金",
       "count": 1
     },
     {
-      "term": "ムへ",
+      "term": "同での学",
       "count": 1
     },
     {
-      "term": "サポート",
+      "term": "報 ",
       "count": 1
     },
     {
-      "term": "てフ",
-      "count": 1
-    },
-    {
-      "term": "関係団体",
-      "count": 1
-    },
-    {
-      "term": "伴う",
-      "count": 1
-    },
-    {
-      "term": "する課題",
-      "count": 1
-    },
-    {
-      "term": "よう",
-      "count": 1
-    },
-    {
-      "term": "社会実装",
-      "count": 1
-    },
-    {
-      "term": "継続",
-      "count": 1
-    },
-    {
-      "term": "開始",
-      "count": 1
-    },
-    {
-      "term": "タログ等",
-      "count": 1
-    },
-    {
-      "term": "運営開始",
+      "term": "案検",
       "count": 1
     }
   ],
