@@ -2,91 +2,63 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "るこ",
-      "count": 24
+      "term": "して",
+      "count": 22
     },
     {
-      "term": "れる",
-      "count": 23
+      "term": "ード",
+      "count": 21
     },
     {
-      "term": "ジト",
-      "count": 20
-    },
-    {
-      "term": "安全",
+      "term": "成果",
       "count": 18
     },
     {
-      "term": "ci",
-      "count": 17
-    },
-    {
-      "term": "管理",
-      "count": 17
-    },
-    {
-      "term": "によ",
-      "count": 16
-    },
-    {
-      "term": "およ",
+      "term": "メタ",
       "count": 15
     },
     {
-      "term": "脆弱",
-      "count": 15
+      "term": "スコ",
+      "count": 14
     },
     {
-      "term": "物の",
-      "count": 15
-    },
-    {
-      "term": "テナ",
-      "count": 15
-    },
-    {
-      "term": "変更",
+      "term": "ータ",
       "count": 12
     },
     {
-      "term": "クレ",
-      "count": 12
-    },
-    {
-      "term": "れた",
-      "count": 12
-    },
-    {
-      "term": "ステ",
+      "term": "プラット",
       "count": 11
     },
     {
-      "term": "理を",
+      "term": "はc",
+      "count": 11
+    },
+    {
+      "term": "terraform",
+      "count": 11
+    },
+    {
+      "term": "ビルドフ",
       "count": 10
     },
     {
-      "term": "よる",
+      "term": "のc",
       "count": 10
     },
     {
-      "term": "on",
+      "term": "の ",
       "count": 10
     },
     {
-      "term": "性管",
-      "count": 9
+      "term": "いた",
+      "count": 10
     },
     {
-      "term": "策 ",
-      "count": 9
+      "term": "この",
+      "count": 10
     },
     {
-      "term": "ン ",
-      "count": 9
-    },
-    {
-      "term": "の担",
+      "term": "のリ",
       "count": 9
     },
     {
@@ -94,111 +66,139 @@
       "count": 9
     },
     {
-      "term": "範囲の制",
+      "term": "それ",
+      "count": 9
+    },
+    {
+      "term": "る具",
+      "count": 9
+    },
+    {
+      "term": "スキ",
+      "count": 9
+    },
+    {
+      "term": "yml",
+      "count": 9
+    },
+    {
+      "term": "カル",
       "count": 8
     },
     {
-      "term": "リス",
+      "term": "囲の",
       "count": 8
     },
     {
-      "term": "らの",
+      "term": "での実行",
       "count": 8
     },
     {
-      "term": "ーに",
+      "term": "docker",
       "count": 8
     },
     {
-      "term": "のよ",
+      "term": "ーを",
       "count": 8
     },
     {
-      "term": "指定",
-      "count": 8
-    },
-    {
-      "term": "関す",
+      "term": "運用",
       "count": 7
     },
     {
-      "term": "洩対",
+      "term": "リ及",
       "count": 7
     },
     {
-      "term": "での",
+      "term": "共通",
       "count": 7
     },
     {
-      "term": "ズの",
+      "term": "ンを",
       "count": 7
     },
     {
-      "term": "内の",
+      "term": "省略",
       "count": 7
     },
     {
-      "term": "ル ",
+      "term": "を実",
       "count": 7
     },
     {
-      "term": "action",
+      "term": "る図",
       "count": 7
     },
     {
-      "term": "ワー",
+      "term": "要と",
+      "count": 7
+    },
+    {
+      "term": "ュリ",
       "count": 6
     },
     {
-      "term": "つい",
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "ルと",
+      "term": "得し",
       "count": 6
     },
     {
-      "term": "ス ",
+      "term": "にて",
       "count": 6
     },
     {
-      "term": "上で",
+      "term": "どの",
       "count": 6
     },
     {
-      "term": "スの",
+      "term": "セス",
       "count": 6
     },
     {
-      "term": "image",
+      "term": "同様",
       "count": 6
     },
     {
-      "term": "and",
+      "term": "outputs",
       "count": 6
     },
     {
-      "term": "象と",
-      "count": 6
-    },
-    {
-      "term": "リオ",
+      "term": "トは",
       "count": 5
     },
     {
-      "term": "運用保守",
+      "term": "理シ",
       "count": 5
     },
     {
-      "term": "する",
+      "term": "要 ",
       "count": 5
     },
     {
-      "term": "で ",
+      "term": "の証",
       "count": 5
     },
     {
-      "term": "を検",
+      "term": "そし",
+      "count": 5
+    },
+    {
+      "term": "はあ",
+      "count": 5
+    },
+    {
+      "term": "頼で",
+      "count": 5
+    },
+    {
+      "term": "とで",
+      "count": 5
+    },
+    {
+      "term": "の成果物",
       "count": 5
     }
   ],
