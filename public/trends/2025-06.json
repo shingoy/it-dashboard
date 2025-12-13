@@ -2,27 +2,43 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "して",
-      "count": 22
+      "term": "こと",
+      "count": 25
     },
     {
-      "term": "ード",
-      "count": 21
+      "term": "actions",
+      "count": 19
     },
     {
-      "term": "成果",
-      "count": 18
+      "term": "サー",
+      "count": 17
     },
     {
-      "term": "メタ",
+      "term": "いる",
+      "count": 17
+    },
+    {
+      "term": "コー",
       "count": 15
     },
     {
-      "term": "スコ",
-      "count": 14
+      "term": "ナイ",
+      "count": 15
     },
     {
-      "term": "ータ",
+      "term": "場合",
+      "count": 13
+    },
+    {
+      "term": "中略",
+      "count": 13
+    },
+    {
+      "term": "護 ",
+      "count": 12
+    },
+    {
+      "term": "サービス",
       "count": 12
     },
     {
@@ -30,176 +46,160 @@
       "count": 11
     },
     {
-      "term": "はc",
+      "term": "つい",
       "count": 11
     },
     {
-      "term": "terraform",
+      "term": "ン ",
       "count": 11
     },
     {
-      "term": "ビルドフ",
+      "term": "につ",
+      "count": 11
+    },
+    {
+      "term": "状態",
+      "count": 11
+    },
+    {
+      "term": "の成",
+      "count": 11
+    },
+    {
+      "term": "id",
+      "count": 11
+    },
+    {
+      "term": "name",
+      "count": 11
+    },
+    {
+      "term": "ンチ",
       "count": 10
     },
     {
-      "term": "のc",
+      "term": "の信",
       "count": 10
     },
     {
-      "term": "の ",
+      "term": "範囲",
       "count": 10
-    },
-    {
-      "term": "いた",
-      "count": 10
-    },
-    {
-      "term": "この",
-      "count": 10
-    },
-    {
-      "term": "のリ",
-      "count": 9
-    },
-    {
-      "term": "バリ",
-      "count": 9
-    },
-    {
-      "term": "それ",
-      "count": 9
-    },
-    {
-      "term": "る具",
-      "count": 9
-    },
-    {
-      "term": "スキ",
-      "count": 9
-    },
-    {
-      "term": "yml",
-      "count": 9
-    },
-    {
-      "term": "カル",
-      "count": 8
-    },
-    {
-      "term": "囲の",
-      "count": 8
-    },
-    {
-      "term": "での実行",
-      "count": 8
-    },
-    {
-      "term": "docker",
-      "count": 8
-    },
-    {
-      "term": "ーを",
-      "count": 8
-    },
-    {
-      "term": "運用",
-      "count": 7
-    },
-    {
-      "term": "リ及",
-      "count": 7
-    },
-    {
-      "term": "共通",
-      "count": 7
-    },
-    {
-      "term": "ンを",
-      "count": 7
-    },
-    {
-      "term": "省略",
-      "count": 7
-    },
-    {
-      "term": "を実",
-      "count": 7
-    },
-    {
-      "term": "る図",
-      "count": 7
-    },
-    {
-      "term": "要と",
-      "count": 7
-    },
-    {
-      "term": "ュリ",
-      "count": 6
-    },
-    {
-      "term": "具体的な",
-      "count": 6
-    },
-    {
-      "term": "得し",
-      "count": 6
-    },
-    {
-      "term": "にて",
-      "count": 6
-    },
-    {
-      "term": "どの",
-      "count": 6
     },
     {
       "term": "セス",
+      "count": 10
+    },
+    {
+      "term": "to",
+      "count": 10
+    },
+    {
+      "term": "env",
+      "count": 10
+    },
+    {
+      "term": "on",
+      "count": 10
+    },
+    {
+      "term": "全性",
+      "count": 9
+    },
+    {
+      "term": "及び",
+      "count": 8
+    },
+    {
+      "term": "定内",
+      "count": 8
+    },
+    {
+      "term": "スク",
+      "count": 8
+    },
+    {
+      "term": "バー",
+      "count": 8
+    },
+    {
+      "term": "トを",
+      "count": 8
+    },
+    {
+      "term": "能で",
+      "count": 8
+    },
+    {
+      "term": "ト情",
+      "count": 7
+    },
+    {
+      "term": "利用",
+      "count": 7
+    },
+    {
+      "term": "ル ",
+      "count": 7
+    },
+    {
+      "term": "いこ",
+      "count": 7
+    },
+    {
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "同様",
+      "term": "リテ",
       "count": 6
     },
     {
-      "term": "outputs",
+      "term": "示す",
       "count": 6
     },
     {
-      "term": "トは",
-      "count": 5
+      "term": "ポジ",
+      "count": 6
     },
     {
-      "term": "理シ",
-      "count": 5
+      "term": "イダ",
+      "count": 6
     },
     {
-      "term": "要 ",
-      "count": 5
+      "term": "フェーズ",
+      "count": 6
     },
     {
-      "term": "の証",
-      "count": 5
+      "term": "ムに",
+      "count": 6
     },
     {
-      "term": "そし",
-      "count": 5
+      "term": "イメ",
+      "count": 6
     },
     {
-      "term": "はあ",
-      "count": 5
+      "term": "るよ",
+      "count": 6
     },
     {
-      "term": "頼で",
-      "count": 5
+      "term": "のレ",
+      "count": 6
     },
     {
-      "term": "とで",
-      "count": 5
+      "term": "rulesets",
+      "count": 6
     },
     {
-      "term": "の成果物",
-      "count": 5
+      "term": "and",
+      "count": 6
+    },
+    {
+      "term": "image",
+      "count": 6
+    },
+    {
+      "term": "を用",
+      "count": 6
     }
   ],
   "meetings": [
