@@ -2,171 +2,143 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "こと",
-      "count": 25
+      "term": "る ",
+      "count": 28
     },
     {
-      "term": "actions",
-      "count": 19
+      "term": "るこ",
+      "count": 24
     },
     {
-      "term": "サー",
-      "count": 17
+      "term": "リポ",
+      "count": 20
     },
     {
-      "term": "いる",
-      "count": 17
+      "term": "って",
+      "count": 16
     },
     {
-      "term": "コー",
+      "term": "るた",
       "count": 15
     },
     {
-      "term": "ナイ",
+      "term": "これ",
       "count": 15
     },
     {
-      "term": "場合",
+      "term": "イメ",
+      "count": 15
+    },
+    {
+      "term": "ーズ",
+      "count": 14
+    },
+    {
+      "term": "ライ",
+      "count": 14
+    },
+    {
+      "term": "のた",
       "count": 13
-    },
-    {
-      "term": "中略",
-      "count": 13
-    },
-    {
-      "term": "護 ",
-      "count": 12
-    },
-    {
-      "term": "サービス",
-      "count": 12
-    },
-    {
-      "term": "プラット",
-      "count": 11
-    },
-    {
-      "term": "つい",
-      "count": 11
-    },
-    {
-      "term": "ン ",
-      "count": 11
-    },
-    {
-      "term": "につ",
-      "count": 11
-    },
-    {
-      "term": "状態",
-      "count": 11
-    },
-    {
-      "term": "の成",
-      "count": 11
     },
     {
       "term": "id",
+      "count": 13
+    },
+    {
+      "term": "チームの",
       "count": 11
     },
     {
-      "term": "name",
+      "term": "よる",
       "count": 11
     },
     {
-      "term": "ンチ",
+      "term": "はな",
+      "count": 11
+    },
+    {
+      "term": "ー ",
       "count": 10
     },
     {
-      "term": "の信",
+      "term": "担保",
       "count": 10
     },
     {
-      "term": "範囲",
+      "term": "コンテナ",
       "count": 10
+    },
+    {
+      "term": "trivy",
+      "count": 8
+    },
+    {
+      "term": "ンの",
+      "count": 7
+    },
+    {
+      "term": "にな",
+      "count": 7
+    },
+    {
+      "term": "および",
+      "count": 7
+    },
+    {
+      "term": "連携",
+      "count": 7
+    },
+    {
+      "term": "を実",
+      "count": 7
+    },
+    {
+      "term": "強制",
+      "count": 7
     },
     {
       "term": "セス",
-      "count": 10
-    },
-    {
-      "term": "to",
-      "count": 10
-    },
-    {
-      "term": "env",
-      "count": 10
-    },
-    {
-      "term": "on",
-      "count": 10
-    },
-    {
-      "term": "全性",
-      "count": 9
-    },
-    {
-      "term": "及び",
-      "count": 8
-    },
-    {
-      "term": "定内",
-      "count": 8
-    },
-    {
-      "term": "スク",
-      "count": 8
-    },
-    {
-      "term": "バー",
-      "count": 8
-    },
-    {
-      "term": "トを",
-      "count": 8
-    },
-    {
-      "term": "能で",
-      "count": 8
-    },
-    {
-      "term": "ト情",
       "count": 7
     },
     {
-      "term": "利用",
+      "term": "安全",
       "count": 7
     },
     {
-      "term": "ル ",
+      "term": "ド設",
       "count": 7
     },
     {
-      "term": "いこ",
-      "count": 7
-    },
-    {
-      "term": "開発",
+      "term": "詳細",
       "count": 6
     },
     {
-      "term": "リテ",
+      "term": "ット情報",
       "count": 6
     },
     {
-      "term": "示す",
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "ポジ",
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "イダ",
+      "term": "ンに",
       "count": 6
     },
     {
-      "term": "フェーズ",
+      "term": "を含",
+      "count": 6
+    },
+    {
+      "term": "等の",
+      "count": 6
+    },
+    {
+      "term": "バリ",
       "count": 6
     },
     {
@@ -174,32 +146,60 @@
       "count": 6
     },
     {
-      "term": "イメ",
-      "count": 6
-    },
-    {
       "term": "るよ",
       "count": 6
     },
     {
-      "term": "のレ",
-      "count": 6
+      "term": "用保",
+      "count": 5
     },
     {
-      "term": "rulesets",
-      "count": 6
+      "term": "ケー",
+      "count": 5
     },
     {
-      "term": "and",
-      "count": 6
+      "term": "要 ",
+      "count": 5
     },
     {
-      "term": "image",
-      "count": 6
+      "term": "リフ",
+      "count": 5
     },
     {
-      "term": "を用",
-      "count": 6
+      "term": "のソ",
+      "count": 5
+    },
+    {
+      "term": "はa",
+      "count": 5
+    },
+    {
+      "term": "活用",
+      "count": 5
+    },
+    {
+      "term": "main",
+      "count": 5
+    },
+    {
+      "term": "承認",
+      "count": 5
+    },
+    {
+      "term": "である",
+      "count": 5
+    },
+    {
+      "term": "物に",
+      "count": 5
+    },
+    {
+      "term": "定を",
+      "count": 5
+    },
+    {
+      "term": "でc",
+      "count": 5
     }
   ],
   "meetings": [
