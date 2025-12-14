@@ -2,59 +2,35 @@
   "month": "2023-06",
   "keywords": [
     {
-      "term": "項 ",
-      "count": 815
-    },
-    {
-      "term": "等の",
-      "count": 753
-    },
-    {
-      "term": "第4",
-      "count": 736
-    },
-    {
-      "term": "令和",
-      "count": 584
-    },
-    {
-      "term": "第1",
-      "count": 494
-    },
-    {
-      "term": "度 ",
-      "count": 444
-    },
-    {
-      "term": "要 ",
-      "count": 414
-    },
-    {
-      "term": "るこ",
-      "count": 406
-    },
-    {
-      "term": "月 ",
-      "count": 402
+      "term": "又は",
+      "count": 701
     },
     {
       "term": "省 ",
-      "count": 402
+      "count": 550
     },
     {
-      "term": "10",
-      "count": 401
+      "term": "共通",
+      "count": 503
     },
     {
-      "term": "制等",
-      "count": 391
+      "term": "等に",
+      "count": 495
     },
     {
-      "term": "制 ",
-      "count": 368
+      "term": "る法",
+      "count": 451
     },
     {
-      "term": "覧表",
+      "term": "条項",
+      "count": 399
+    },
+    {
+      "term": "し否",
+      "count": 364
+    },
+    {
+      "term": "ー共",
       "count": 361
     },
     {
@@ -62,144 +38,168 @@
       "count": 347
     },
     {
-      "term": "項第",
-      "count": 320
+      "term": "ジタ",
+      "count": 329
     },
     {
-      "term": "グ規",
-      "count": 319
+      "term": "ログ",
+      "count": 329
     },
     {
-      "term": "出又",
+      "term": "示通",
+      "count": 316
+    },
+    {
+      "term": "は改",
       "count": 315
     },
     {
-      "term": "は改正",
-      "count": 314
-    },
-    {
-      "term": "る ",
-      "count": 310
-    },
-    {
-      "term": "原 ",
-      "count": 306
-    },
-    {
-      "term": "項の",
-      "count": 305
-    },
-    {
-      "term": "きて",
-      "count": 303
-    },
-    {
-      "term": "直し",
-      "count": 301
-    },
-    {
-      "term": "第5",
-      "count": 289
+      "term": "つ現",
+      "count": 293
     },
     {
       "term": "検査",
       "count": 281
     },
     {
+      "term": "法 ",
+      "count": 276
+    },
+    {
+      "term": "行規則",
+      "count": 273
+    },
+    {
+      "term": "者の",
+      "count": 267
+    },
+    {
+      "term": "見直し要",
+      "count": 260
+    },
+    {
+      "term": "発出",
+      "count": 259
+    },
+    {
+      "term": "第5",
+      "count": 256
+    },
+    {
       "term": "令改",
-      "count": 261
+      "count": 254
     },
     {
-      "term": "項は",
-      "count": 252
+      "term": "第 ",
+      "count": 218
     },
     {
-      "term": "法令",
-      "count": 252
+      "term": "後 ",
+      "count": 215
     },
     {
-      "term": "概要",
-      "count": 239
+      "term": "17",
+      "count": 215
     },
     {
-      "term": "要否",
-      "count": 222
-    },
-    {
-      "term": "技術",
-      "count": 219
-    },
-    {
-      "term": "所管省庁",
+      "term": "no",
       "count": 213
     },
     {
+      "term": "省令",
+      "count": 208
+    },
+    {
+      "term": "法令",
+      "count": 206
+    },
+    {
+      "term": "済 ",
+      "count": 203
+    },
+    {
+      "term": "10",
+      "count": 200
+    },
+    {
       "term": "目視規制",
-      "count": 212
+      "count": 194
     },
     {
-      "term": "産業",
-      "count": 202
+      "term": "条 ",
+      "count": 193
     },
     {
-      "term": "改正",
-      "count": 199
-    },
-    {
-      "term": "型 ",
-      "count": 196
-    },
-    {
-      "term": "の3",
-      "count": 191
-    },
-    {
-      "term": "きている",
+      "term": "めの",
       "count": 185
     },
     {
-      "term": "は３",
+      "term": "制 ",
+      "count": 184
+    },
+    {
+      "term": "等 ",
       "count": 183
     },
     {
-      "term": "条項",
+      "term": "在 ",
+      "count": 182
+    },
+    {
+      "term": "概要",
       "count": 181
     },
     {
-      "term": "確保",
-      "count": 180
+      "term": "認済",
+      "count": 174
     },
     {
-      "term": "第8",
-      "count": 180
+      "term": "法令名",
+      "count": 173
     },
     {
-      "term": "の一",
-      "count": 179
+      "term": "類型",
+      "count": 169
     },
     {
-      "term": "14",
-      "count": 178
+      "term": "によ",
+      "count": 168
     },
     {
-      "term": "目の",
-      "count": 175
+      "term": "所管",
+      "count": 167
     },
     {
-      "term": "令 ",
-      "count": 172
-    },
-    {
-      "term": "表 ",
-      "count": 171
-    },
-    {
-      "term": "見直",
-      "count": 171
-    },
-    {
-      "term": "てい",
+      "term": "通知",
       "count": 165
+    },
+    {
+      "term": "通１",
+      "count": 160
+    },
+    {
+      "term": "令名",
+      "count": 158
+    },
+    {
+      "term": "における",
+      "count": 157
+    },
+    {
+      "term": "文書",
+      "count": 156
+    },
+    {
+      "term": "調査",
+      "count": 155
+    },
+    {
+      "term": "の作",
+      "count": 151
+    },
+    {
+      "term": "記録",
+      "count": 151
     }
   ],
   "meetings": [
