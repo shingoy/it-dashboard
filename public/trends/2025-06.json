@@ -2,43 +2,39 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "るこ",
-      "count": 24
+      "term": "パイ",
+      "count": 21
     },
     {
-      "term": "github",
-      "count": 24
-    },
-    {
-      "term": "であ",
-      "count": 22
-    },
-    {
-      "term": "ファ",
-      "count": 20
-    },
-    {
-      "term": "ビル",
-      "count": 19
-    },
-    {
-      "term": "actions",
-      "count": 19
-    },
-    {
-      "term": "ァイ",
-      "count": 19
-    },
-    {
-      "term": "ビス",
+      "term": "ソー",
       "count": 16
     },
     {
-      "term": "メー",
+      "term": "弱性",
       "count": 15
     },
     {
-      "term": "体的",
+      "term": "信頼",
+      "count": 15
+    },
+    {
+      "term": "から",
+      "count": 15
+    },
+    {
+      "term": "ナイ",
+      "count": 15
+    },
+    {
+      "term": "ータ",
+      "count": 15
+    },
+    {
+      "term": "スコ",
+      "count": 14
+    },
+    {
+      "term": "よる",
       "count": 13
     },
     {
@@ -46,63 +42,59 @@
       "count": 13
     },
     {
-      "term": "では",
+      "term": "担保",
       "count": 13
     },
     {
-      "term": "生成",
+      "term": "とで",
       "count": 13
     },
     {
-      "term": "取得",
-      "count": 11
+      "term": "ージ",
+      "count": 13
+    },
+    {
+      "term": "github",
+      "count": 12
     },
     {
       "term": "要が",
       "count": 11
     },
     {
-      "term": "確認",
+      "term": "えら",
       "count": 11
     },
     {
-      "term": "はな",
+      "term": "push",
       "count": 11
     },
     {
-      "term": "https",
-      "count": 11
-    },
-    {
-      "term": "確保",
+      "term": "ロー",
       "count": 10
     },
     {
-      "term": "的に",
+      "term": "ファイル",
       "count": 10
     },
     {
-      "term": "る\n",
+      "term": "provenance",
       "count": 10
     },
     {
-      "term": "を取",
+      "term": "なる",
       "count": 10
     },
     {
-      "term": "いた",
-      "count": 10
-    },
-    {
-      "term": "sbom",
-      "count": 10
+      "term": "の担",
+      "count": 9
     },
     {
       "term": "ムが",
       "count": 9
     },
     {
-      "term": "とな",
+      "term": "スチ",
       "count": 9
     },
     {
@@ -110,96 +102,104 @@
       "count": 9
     },
     {
-      "term": "プラット",
-      "count": 8
+      "term": "るが",
+      "count": 9
     },
     {
-      "term": "書で",
-      "count": 8
+      "term": "run",
+      "count": 9
     },
     {
-      "term": "強制",
-      "count": 8
+      "term": "runs",
+      "count": 9
     },
     {
-      "term": "build",
+      "term": "利用",
       "count": 8
-    },
-    {
-      "term": "キー",
-      "count": 7
     },
     {
       "term": "報の",
       "count": 7
     },
     {
-      "term": "リソ",
+      "term": "ムチーム",
       "count": 7
     },
     {
-      "term": "るプ",
+      "term": "にす",
       "count": 7
     },
     {
-      "term": "コンテナ",
+      "term": "トを",
       "count": 7
     },
     {
-      "term": "ルに",
+      "term": "ては",
       "count": 7
     },
     {
-      "term": "rulesets",
+      "term": "など",
       "count": 7
     },
     {
-      "term": "情報",
+      "term": "対し",
+      "count": 7
+    },
+    {
+      "term": "はg",
+      "count": 7
+    },
+    {
+      "term": "とは",
+      "count": 7
+    },
+    {
+      "term": "ンに",
       "count": 6
     },
     {
-      "term": "ン ",
+      "term": "カウ",
       "count": 6
     },
     {
-      "term": "頼で",
+      "term": "複数",
       "count": 6
     },
     {
-      "term": "における",
+      "term": "もの",
       "count": 6
     },
     {
-      "term": "たが",
+      "term": "対す",
       "count": 6
     },
     {
-      "term": "得し",
+      "term": "ャン",
       "count": 6
     },
     {
-      "term": "の事",
+      "term": "容を",
       "count": 6
     },
     {
-      "term": "rule",
+      "term": "and",
       "count": 6
     },
     {
-      "term": "11",
+      "term": "ることが",
       "count": 6
     },
     {
-      "term": "steps",
+      "term": "検出",
       "count": 6
     },
     {
-      "term": "image",
+      "term": "slsa",
       "count": 6
     },
     {
-      "term": "uses",
-      "count": 6
+      "term": "ス ",
+      "count": 5
     }
   ],
   "meetings": [
