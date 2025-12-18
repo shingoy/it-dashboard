@@ -2,95 +2,79 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "るこ",
-      "count": 24
+      "term": "ビス",
+      "count": 16
     },
     {
-      "term": "およ",
-      "count": 15
-    },
-    {
-      "term": "によ",
+      "term": "ける",
       "count": 14
     },
     {
-      "term": "クレ",
+      "term": "があ",
+      "count": 14
+    },
+    {
+      "term": "の保",
+      "count": 13
+    },
+    {
+      "term": "場合",
+      "count": 13
+    },
+    {
+      "term": "シークレ",
       "count": 12
     },
     {
-      "term": "tf",
+      "term": "れら",
       "count": 12
     },
     {
-      "term": "おけ",
+      "term": "ン ",
       "count": 11
     },
     {
-      "term": "では",
+      "term": "安全性の",
       "count": 11
     },
     {
-      "term": "code",
+      "term": "状態",
+      "count": 11
+    },
+    {
+      "term": "ー ",
       "count": 10
     },
     {
-      "term": "の実",
+      "term": "sbom",
       "count": 10
     },
     {
-      "term": "考え",
+      "term": "workflows",
       "count": 10
     },
     {
-      "term": "の担",
+      "term": "の制",
       "count": 9
     },
     {
-      "term": "リバ",
+      "term": "and",
       "count": 9
     },
     {
-      "term": "本書",
-      "count": 9
-    },
-    {
-      "term": "ービ",
-      "count": 9
-    },
-    {
-      "term": "えら",
-      "count": 9
-    },
-    {
-      "term": "とい",
-      "count": 9
-    },
-    {
-      "term": "カル",
+      "term": "及び",
       "count": 8
     },
     {
-      "term": "ョン",
+      "term": "メタデー",
       "count": 8
     },
     {
-      "term": "フェ",
+      "term": "トを",
       "count": 8
     },
     {
-      "term": "主体",
-      "count": 8
-    },
-    {
-      "term": "リス",
-      "count": 8
-    },
-    {
-      "term": "るそ",
-      "count": 8
-    },
-    {
-      "term": "用し",
+      "term": "を実",
       "count": 8
     },
     {
@@ -98,91 +82,107 @@
       "count": 8
     },
     {
-      "term": "強制",
-      "count": 8
-    },
-    {
-      "term": "action",
-      "count": 8
-    },
-    {
-      "term": "ット",
-      "count": 7
-    },
-    {
-      "term": "るま",
-      "count": 7
-    },
-    {
-      "term": "ル ",
-      "count": 7
-    },
-    {
-      "term": "ムチーム",
-      "count": 7
-    },
-    {
-      "term": "ェッ",
-      "count": 7
-    },
-    {
       "term": "能で",
+      "count": 8
+    },
+    {
+      "term": "なる",
+      "count": 8
+    },
+    {
+      "term": "のよ",
+      "count": 8
+    },
+    {
+      "term": "ト情",
       "count": 7
     },
     {
-      "term": "が考",
+      "term": "運用",
       "count": 7
     },
     {
-      "term": "キュ",
+      "term": "内の",
+      "count": 7
+    },
+    {
+      "term": "17",
+      "count": 7
+    },
+    {
+      "term": "リバ",
+      "count": 7
+    },
+    {
+      "term": "における",
+      "count": 7
+    },
+    {
+      "term": "るプ",
+      "count": 7
+    },
+    {
+      "term": "plan",
+      "count": 7
+    },
+    {
+      "term": "にす",
+      "count": 7
+    },
+    {
+      "term": "用し",
+      "count": 7
+    },
+    {
+      "term": "ーテ",
+      "count": 7
+    },
+    {
+      "term": "いう",
+      "count": 7
+    },
+    {
+      "term": "リポジト",
+      "count": 7
+    },
+    {
+      "term": "する",
       "count": 6
     },
     {
-      "term": "詳細",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "脆弱性管",
+      "term": "性が",
       "count": 6
     },
     {
-      "term": "28",
+      "term": "ウン",
       "count": 6
     },
     {
-      "term": "ス ",
+      "term": "複数",
       "count": 6
     },
     {
-      "term": "得し",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "は３",
+      "term": "のg",
       "count": 6
     },
     {
-      "term": "を用",
+      "term": "クセ",
       "count": 6
     },
     {
-      "term": "の利",
+      "term": "git",
       "count": 6
     },
     {
-      "term": "ンバ",
-      "count": 6
-    },
-    {
-      "term": "のレ",
-      "count": 6
-    },
-    {
-      "term": "レビ",
-      "count": 6
-    },
-    {
-      "term": "run",
+      "term": "to",
       "count": 6
     },
     {
@@ -190,15 +190,15 @@
       "count": 6
     },
     {
-      "term": "output",
+      "term": "tf",
       "count": 6
     },
     {
-      "term": "った",
+      "term": "合は",
       "count": 6
     },
     {
-      "term": "に加",
+      "term": "on",
       "count": 6
     }
   ],
