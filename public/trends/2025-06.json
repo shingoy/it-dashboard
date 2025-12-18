@@ -2,39 +2,71 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ビス",
-      "count": 16
+      "term": "でき",
+      "count": 23
     },
     {
-      "term": "ける",
+      "term": "トリ",
+      "count": 20
+    },
+    {
+      "term": "果物",
+      "count": 20
+    },
+    {
+      "term": "ポジ",
+      "count": 18
+    },
+    {
+      "term": "とし",
+      "count": 17
+    },
+    {
+      "term": "フォ",
+      "count": 15
+    },
+    {
+      "term": "イメ",
+      "count": 15
+    },
+    {
+      "term": "cat",
+      "count": 15
+    },
+    {
+      "term": "なる",
       "count": 14
     },
     {
-      "term": "があ",
-      "count": 14
-    },
-    {
-      "term": "の保",
+      "term": "担保",
       "count": 13
     },
     {
-      "term": "場合",
-      "count": 13
-    },
-    {
-      "term": "シークレ",
+      "term": "情報",
       "count": 12
     },
     {
-      "term": "れら",
+      "term": "チー",
       "count": 12
     },
     {
-      "term": "ン ",
+      "term": "には",
+      "count": 12
+    },
+    {
+      "term": "のメ",
+      "count": 12
+    },
+    {
+      "term": "変更",
       "count": 11
     },
     {
-      "term": "安全性の",
+      "term": "にお",
+      "count": 11
+    },
+    {
+      "term": "依存",
       "count": 11
     },
     {
@@ -42,39 +74,43 @@
       "count": 11
     },
     {
-      "term": "ー ",
+      "term": "は ",
       "count": 10
     },
     {
-      "term": "sbom",
+      "term": "略 ",
       "count": 10
     },
     {
-      "term": "workflows",
-      "count": 10
-    },
-    {
-      "term": "の制",
+      "term": "脆弱性管",
       "count": 9
     },
     {
-      "term": "and",
+      "term": "のリ",
       "count": 9
     },
     {
-      "term": "及び",
+      "term": "バリ",
+      "count": 9
+    },
+    {
+      "term": "https",
+      "count": 9
+    },
+    {
+      "term": "image",
+      "count": 9
+    },
+    {
+      "term": "シス",
       "count": 8
     },
     {
-      "term": "メタデー",
+      "term": "コンテナ",
       "count": 8
     },
     {
-      "term": "トを",
-      "count": 8
-    },
-    {
-      "term": "を実",
+      "term": "の管",
       "count": 8
     },
     {
@@ -86,103 +122,75 @@
       "count": 8
     },
     {
-      "term": "なる",
-      "count": 8
-    },
-    {
-      "term": "のよ",
-      "count": 8
-    },
-    {
-      "term": "ト情",
+      "term": "キー",
       "count": 7
     },
     {
-      "term": "運用",
+      "term": "体の",
       "count": 7
     },
     {
-      "term": "内の",
+      "term": "バイナリ",
       "count": 7
     },
     {
-      "term": "17",
+      "term": "にな",
       "count": 7
     },
     {
-      "term": "リバ",
+      "term": "い ",
       "count": 7
     },
     {
-      "term": "における",
+      "term": "file",
       "count": 7
     },
     {
-      "term": "るプ",
+      "term": "name",
       "count": 7
     },
     {
-      "term": "plan",
+      "term": "要と",
       "count": 7
     },
     {
-      "term": "にす",
+      "term": "と同",
       "count": 7
     },
     {
-      "term": "用し",
-      "count": 7
-    },
-    {
-      "term": "ーテ",
-      "count": 7
-    },
-    {
-      "term": "いう",
-      "count": 7
-    },
-    {
-      "term": "リポジト",
-      "count": 7
-    },
-    {
-      "term": "する",
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "高い",
+      "term": "ド管",
       "count": 6
     },
     {
-      "term": "性が",
+      "term": "ナリ",
       "count": 6
     },
     {
-      "term": "ウン",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "複数",
+      "term": "等の",
       "count": 6
     },
     {
-      "term": "ムは",
+      "term": "主体",
       "count": 6
     },
     {
-      "term": "のg",
+      "term": "ムチーム",
       "count": 6
     },
     {
-      "term": "クセ",
+      "term": "の事",
       "count": 6
     },
     {
-      "term": "git",
-      "count": 6
-    },
-    {
-      "term": "to",
+      "term": "のレ",
       "count": 6
     },
     {
@@ -190,15 +198,7 @@
       "count": 6
     },
     {
-      "term": "tf",
-      "count": 6
-    },
-    {
-      "term": "合は",
-      "count": 6
-    },
-    {
-      "term": "on",
+      "term": "critical",
       "count": 6
     }
   ],
