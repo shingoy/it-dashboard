@@ -440,6 +440,16 @@
     "chunks_count": 41
   },
   {
+    "doc_id": "d55de9e4d060ab4195070302d31a59f2",
+    "meeting": "AI戦略会議",
+    "agency": "内閣府・内閣官房",
+    "title": "令和７年度補正予算（PDF形式：694KB）",
+    "date": "2025-12-19",
+    "url": "https://www8.cao.go.jp/cstp/ai/yosan_7nendo_hosei.pdf",
+    "pages": 1,
+    "chunks_count": 2
+  },
+  {
     "doc_id": "f19d291a997ddaf5a6459072d2b0454a",
     "meeting": "デジタル臨時行政調査会",
     "agency": "デジタル庁",

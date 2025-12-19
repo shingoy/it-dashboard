@@ -636,5 +636,16 @@
     "date": "2025-12-03",
     "collected_at": "2025-12-03T21:13:02.069744",
     "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/ae79b1961cf12e71c6aa25f1ae4a9157.pdf"
+  },
+  {
+    "id": "d55de9e4d060ab4195070302d31a59f2",
+    "meeting": "AI戦略会議",
+    "agency": "内閣府・内閣官房",
+    "title": "令和７年度補正予算（PDF形式：694KB）",
+    "url": "https://www8.cao.go.jp/cstp/ai/yosan_7nendo_hosei.pdf",
+    "file_type": "pdf",
+    "date": "2025-12-19",
+    "collected_at": "2025-12-19T09:30:40.438145",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/d55de9e4d060ab4195070302d31a59f2.pdf"
   }
 ]
