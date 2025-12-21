@@ -2,139 +2,147 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 25
+      "term": "る ",
+      "count": 28
     },
     {
-      "term": "ルド",
-      "count": 19
-    },
-    {
-      "term": "イン",
-      "count": 19
-    },
-    {
-      "term": "ci",
-      "count": 17
-    },
-    {
-      "term": "トリ",
-      "count": 17
-    },
-    {
-      "term": "よび",
-      "count": 15
-    },
-    {
-      "term": "コー",
-      "count": 15
-    },
-    {
-      "term": "脆弱",
-      "count": 15
-    },
-    {
-      "term": "テナ",
-      "count": 15
-    },
-    {
-      "term": "ンテ",
-      "count": 14
-    },
-    {
-      "term": "cd",
-      "count": 13
+      "term": "パイ",
+      "count": 21
     },
     {
       "term": "てい",
-      "count": 13
+      "count": 21
     },
     {
-      "term": "ラン",
-      "count": 12
+      "term": "して",
+      "count": 19
     },
     {
-      "term": "可能",
-      "count": 12
+      "term": "設定",
+      "count": 19
     },
     {
-      "term": "プラット",
-      "count": 11
+      "term": "ージ",
+      "count": 18
     },
     {
-      "term": "にお",
-      "count": 11
+      "term": "およ",
+      "count": 15
     },
     {
-      "term": "存物",
-      "count": 11
+      "term": "ラッ",
+      "count": 15
     },
     {
-      "term": "全性",
-      "count": 11
+      "term": "によ",
+      "count": 15
     },
     {
-      "term": "考え",
-      "count": 11
+      "term": "スコ",
+      "count": 14
     },
     {
-      "term": "push",
-      "count": 11
+      "term": "略 ",
+      "count": 14
     },
     {
       "term": "取得",
-      "count": 10
-    },
-    {
-      "term": "し ",
-      "count": 10
-    },
-    {
-      "term": "検証",
-      "count": 10
-    },
-    {
-      "term": "ここ",
-      "count": 10
-    },
-    {
-      "term": "確保",
-      "count": 9
-    },
-    {
-      "term": "の担",
-      "count": 9
-    },
-    {
-      "term": "以外",
-      "count": 9
-    },
-    {
-      "term": "クを",
-      "count": 9
-    },
-    {
-      "term": "ubuntu",
-      "count": 9
-    },
-    {
-      "term": "トに",
-      "count": 8
-    },
-    {
-      "term": "ェー",
-      "count": 8
-    },
-    {
-      "term": "docker",
-      "count": 8
+      "count": 11
     },
     {
       "term": "要が",
+      "count": 11
+    },
+    {
+      "term": "保 ",
+      "count": 10
+    },
+    {
+      "term": "ムの",
+      "count": 10
+    },
+    {
+      "term": "build",
+      "count": 10
+    },
+    {
+      "term": "ubuntu",
+      "count": 10
+    },
+    {
+      "term": "性管",
+      "count": 9
+    },
+    {
+      "term": "た ",
+      "count": 9
+    },
+    {
+      "term": "ーの",
+      "count": 9
+    },
+    {
+      "term": "yml",
+      "count": 9
+    },
+    {
+      "term": "カル",
       "count": 8
     },
     {
-      "term": "略す",
+      "term": "ブラ",
+      "count": 8
+    },
+    {
+      "term": "での実行",
+      "count": 8
+    },
+    {
+      "term": "性が",
+      "count": 8
+    },
+    {
+      "term": "トウ",
+      "count": 8
+    },
+    {
+      "term": "の構",
+      "count": 8
+    },
+    {
+      "term": "ルー",
+      "count": 8
+    },
+    {
+      "term": "の管",
+      "count": 8
+    },
+    {
+      "term": "アク",
+      "count": 8
+    },
+    {
+      "term": "組み",
+      "count": 8
+    },
+    {
+      "term": "システム",
+      "count": 7
+    },
+    {
+      "term": "記述",
+      "count": 7
+    },
+    {
+      "term": "ェッ",
+      "count": 7
+    },
+    {
+      "term": "registry",
+      "count": 7
+    },
+    {
+      "term": "アッ",
       "count": 7
     },
     {
@@ -142,64 +150,56 @@
       "count": 7
     },
     {
-      "term": "の漏洩対",
+      "term": "ンバ",
+      "count": 7
+    },
+    {
+      "term": "digest",
+      "count": 7
+    },
+    {
+      "term": "latest",
+      "count": 7
+    },
+    {
+      "term": "の保護",
       "count": 6
     },
     {
-      "term": "ブラ",
+      "term": "特有",
       "count": 6
     },
     {
-      "term": "ソースコ",
+      "term": "ウン",
       "count": 6
     },
     {
-      "term": "plan",
+      "term": "いっ",
       "count": 6
     },
     {
-      "term": "取り",
+      "term": "にて",
       "count": 6
     },
     {
-      "term": "ref",
+      "term": "は３",
       "count": 6
     },
     {
-      "term": "る ",
+      "term": "方法",
       "count": 6
     },
     {
-      "term": "cat",
+      "term": "の事",
       "count": 6
     },
     {
-      "term": "key",
+      "term": "tf",
       "count": 6
     },
     {
-      "term": "えて",
+      "term": "high",
       "count": 6
-    },
-    {
-      "term": "運用保守",
-      "count": 5
-    },
-    {
-      "term": "通し",
-      "count": 5
-    },
-    {
-      "term": "キュ",
-      "count": 5
-    },
-    {
-      "term": "ント",
-      "count": 5
-    },
-    {
-      "term": "レッ",
-      "count": 5
     }
   ],
   "meetings": [
