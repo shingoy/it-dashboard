@@ -2,23 +2,31 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 28
+      "term": "利用",
+      "count": 21
     },
     {
-      "term": "する",
-      "count": 28
+      "term": "トリ",
+      "count": 20
     },
     {
-      "term": "こと",
-      "count": 25
+      "term": "ジト",
+      "count": 20
     },
     {
-      "term": "ール",
-      "count": 16
+      "term": "ポジ",
+      "count": 20
     },
     {
-      "term": "とな",
+      "term": "ci",
+      "count": 17
+    },
+    {
+      "term": "およ",
+      "count": 15
+    },
+    {
+      "term": "脆弱",
       "count": 15
     },
     {
@@ -26,180 +34,172 @@
       "count": 15
     },
     {
-      "term": "的な",
+      "term": "全性",
       "count": 14
     },
     {
-      "term": "ビス",
-      "count": 14
-    },
-    {
-      "term": "中略",
-      "count": 14
-    },
-    {
-      "term": "トフ",
+      "term": "trivy",
       "count": 13
     },
     {
-      "term": "id",
-      "count": 13
-    },
-    {
-      "term": "クレ",
+      "term": "内容",
       "count": 12
     },
     {
-      "term": "護 ",
+      "term": "的に",
       "count": 12
     },
     {
-      "term": "の成",
+      "term": "を取",
       "count": 12
+    },
+    {
+      "term": "ファイル",
+      "count": 12
+    },
+    {
+      "term": "メタ",
+      "count": 12
+    },
+    {
+      "term": "とす",
+      "count": 11
+    },
+    {
+      "term": "につ",
+      "count": 11
+    },
+    {
+      "term": "ムの",
+      "count": 11
+    },
+    {
+      "term": "フェ",
+      "count": 11
     },
     {
       "term": "ブラ",
       "count": 10
     },
     {
-      "term": "ビルドフ",
+      "term": "レッ",
       "count": 10
     },
     {
-      "term": "また",
+      "term": "ーズ",
       "count": 10
     },
     {
-      "term": "脆弱性管",
+      "term": "の信",
+      "count": 10
+    },
+    {
+      "term": "定し",
+      "count": 10
+    },
+    {
+      "term": "性を",
+      "count": 10
+    },
+    {
+      "term": "ンa",
       "count": 9
     },
     {
-      "term": "策 ",
+      "term": "テナ",
       "count": 9
     },
     {
-      "term": "ける",
+      "term": "可能",
       "count": 9
     },
     {
-      "term": "デリ",
-      "count": 9
-    },
-    {
-      "term": "ている",
-      "count": 9
-    },
-    {
-      "term": "通し",
+      "term": "terraform",
       "count": 8
     },
     {
-      "term": "ソー",
+      "term": "用し",
       "count": 8
     },
     {
-      "term": "リス",
+      "term": "ャン",
       "count": 8
     },
     {
-      "term": "なお",
+      "term": "能で",
       "count": 8
     },
     {
-      "term": "環境",
-      "count": 8
-    },
-    {
-      "term": "るそ",
-      "count": 8
-    },
-    {
-      "term": "push",
-      "count": 8
-    },
-    {
-      "term": "関す",
+      "term": "における",
       "count": 7
     },
     {
-      "term": "性管",
+      "term": "docker",
       "count": 7
     },
     {
-      "term": "チー",
+      "term": "対象",
       "count": 7
     },
     {
-      "term": "バイナリ",
+      "term": "る必",
       "count": 7
     },
     {
-      "term": "定義",
+      "term": "yml",
       "count": 7
     },
     {
-      "term": "メタデー",
+      "term": "type",
       "count": 7
     },
     {
-      "term": "対し",
-      "count": 7
-    },
-    {
-      "term": "るこ",
-      "count": 7
-    },
-    {
-      "term": "混入",
-      "count": 7
-    },
-    {
-      "term": "steps",
-      "count": 7
+      "term": "ットの保",
+      "count": 6
     },
     {
       "term": "ット情報",
       "count": 6
     },
     {
-      "term": "の取",
+      "term": "きる",
       "count": 6
     },
     {
-      "term": "ジと",
+      "term": "得し",
       "count": 6
     },
     {
-      "term": "うこ",
+      "term": "供す",
       "count": 6
     },
     {
-      "term": "どの",
+      "term": "方法",
       "count": 6
     },
     {
-      "term": "ることが",
+      "term": "策に",
       "count": 6
     },
     {
-      "term": "シナ",
-      "count": 5
+      "term": "のレ",
+      "count": 6
     },
     {
-      "term": "及び",
-      "count": 5
+      "term": "image",
+      "count": 6
     },
     {
-      "term": "変更",
-      "count": 5
+      "term": "検出",
+      "count": 6
     },
     {
-      "term": "ード",
-      "count": 5
+      "term": "ビルド設",
+      "count": 6
     },
     {
-      "term": "サプ",
-      "count": 5
+      "term": "predicate",
+      "count": 6
     }
   ],
   "meetings": [
