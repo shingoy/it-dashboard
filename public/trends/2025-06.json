@@ -2,204 +2,204 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 25
+      "term": "プラ",
+      "count": 24
     },
     {
-      "term": "ェー",
-      "count": 17
+      "term": "ポジ",
+      "count": 20
     },
     {
-      "term": "ジト",
-      "count": 17
+      "term": "果物",
+      "count": 20
     },
     {
-      "term": "とし",
-      "count": 17
+      "term": "ルド",
+      "count": 19
     },
     {
-      "term": "脆弱",
+      "term": "では",
+      "count": 18
+    },
+    {
+      "term": "cd",
       "count": 15
     },
     {
-      "term": "とな",
-      "count": 14
+      "term": "実行",
+      "count": 15
     },
     {
-      "term": "ては",
-      "count": 14
+      "term": "への",
+      "count": 15
     },
     {
-      "term": "弱性",
+      "term": "name",
+      "count": 15
+    },
+    {
+      "term": "パイプラ",
+      "count": 13
+    },
+    {
+      "term": "護 ",
       "count": 12
     },
     {
-      "term": "タデ",
-      "count": 12
-    },
-    {
-      "term": "変更",
+      "term": "につ",
       "count": 11
     },
     {
-      "term": "上で",
+      "term": "チー",
       "count": 11
     },
     {
-      "term": "環境",
+      "term": "依存物の",
       "count": 11
     },
     {
-      "term": "具体",
+      "term": "チェ",
+      "count": 11
+    },
+    {
+      "term": "を含",
       "count": 10
     },
     {
-      "term": "制限",
+      "term": "検証",
       "count": 10
     },
     {
-      "term": "し ",
+      "term": "git",
       "count": 10
     },
     {
-      "term": "の確",
+      "term": "provenance",
+      "count": 10
+    },
+    {
+      "term": "バリ",
       "count": 9
     },
     {
-      "term": "のリ",
+      "term": "れて",
       "count": 9
     },
     {
-      "term": "ン ",
+      "term": "に対",
       "count": 9
     },
     {
-      "term": "頼性",
-      "count": 9
+      "term": "おけ",
+      "count": 8
     },
     {
-      "term": "が ",
-      "count": 9
+      "term": "ビルドフ",
+      "count": 8
+    },
+    {
+      "term": "ジト",
+      "count": 8
+    },
+    {
+      "term": "スト",
+      "count": 8
+    },
+    {
+      "term": "アク",
+      "count": 8
+    },
+    {
+      "term": "push",
+      "count": 8
+    },
+    {
+      "term": "とし",
+      "count": 8
+    },
+    {
+      "term": "テム",
+      "count": 7
+    },
+    {
+      "term": "考えられ",
+      "count": 7
     },
     {
       "term": "ムが",
-      "count": 9
-    },
-    {
-      "term": "成さ",
-      "count": 9
-    },
-    {
-      "term": "com",
-      "count": 9
-    },
-    {
-      "term": "action",
-      "count": 9
-    },
-    {
-      "term": "通し",
-      "count": 8
-    },
-    {
-      "term": "囲の",
-      "count": 8
-    },
-    {
-      "term": "範囲の制",
-      "count": 8
-    },
-    {
-      "term": "sbom",
-      "count": 8
-    },
-    {
-      "term": "が考",
-      "count": 8
-    },
-    {
-      "term": "関す",
       "count": 7
     },
     {
-      "term": "に ",
+      "term": "キャ",
       "count": 7
     },
     {
-      "term": "cosign",
+      "term": "のア",
       "count": 7
     },
     {
-      "term": "い ",
-      "count": 7
-    },
-    {
-      "term": "はg",
-      "count": 7
-    },
-    {
-      "term": "ージ",
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "を ",
+      "term": "詳細",
       "count": 6
     },
     {
-      "term": "高い",
+      "term": "ステ",
       "count": 6
     },
     {
-      "term": "るま",
+      "term": "構成",
       "count": 6
     },
     {
-      "term": "得し",
+      "term": "フ ",
       "count": 6
     },
     {
-      "term": "ンテナイ",
+      "term": "ルと",
       "count": 6
     },
     {
-      "term": "ジの",
+      "term": "ムに",
       "count": 6
     },
     {
-      "term": "とい",
+      "term": "アカ",
       "count": 6
     },
     {
-      "term": "を必",
+      "term": "イメージ",
       "count": 6
     },
     {
-      "term": "クセ",
+      "term": "は３",
       "count": 6
     },
     {
-      "term": "ファイル",
+      "term": "対す",
       "count": 6
     },
     {
-      "term": "workflows",
+      "term": "方法",
       "count": 6
     },
     {
-      "term": "えて",
+      "term": "の変",
       "count": 6
     },
     {
-      "term": "env",
+      "term": "のレ",
       "count": 6
     },
     {
-      "term": "はパ",
+      "term": "review",
       "count": 6
     },
     {
-      "term": "リオ",
-      "count": 5
+      "term": "容を",
+      "count": 6
     }
   ],
   "meetings": [
