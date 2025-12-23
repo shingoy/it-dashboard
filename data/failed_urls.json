@@ -2,21 +2,21 @@
   {
     "url": "https://www8.cao.go.jp/cstp/togo/index.html",
     "error": "404 Client Error: Not Found for url: https://www8.cao.go.jp/cstp/togo/index.html",
-    "timestamp": "2025-12-22T21:12:30.496675"
+    "timestamp": "2025-12-23T09:31:05.956229"
   },
   {
     "url": "https://www.meti.go.jp/shingikai/mono_info_service/digital_sangyo/index.html",
     "error": "HTTPSConnectionPool(host='www.meti.go.jp', port=443): Read timed out. (read timeout=10)",
-    "timestamp": "2025-12-22T21:12:54.029749"
+    "timestamp": "2025-12-23T09:31:29.341773"
   },
   {
     "url": "https://www.meti.go.jp/policy/it_policy/dx/index.html",
     "error": "HTTPSConnectionPool(host='www.meti.go.jp', port=443): Read timed out. (read timeout=10)",
-    "timestamp": "2025-12-22T21:13:15.572004"
+    "timestamp": "2025-12-23T09:31:50.879025"
   },
   {
     "url": "https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_00002.html",
     "error": "404 Client Error: Not Found for url: https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_00002.html",
-    "timestamp": "2025-12-22T21:13:19.025820"
+    "timestamp": "2025-12-23T09:31:54.566645"
   }
 ]
