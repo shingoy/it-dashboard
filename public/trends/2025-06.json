@@ -2,59 +2,75 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "プラ",
-      "count": 24
+      "term": "イプ",
+      "count": 21
     },
     {
-      "term": "ポジ",
-      "count": 20
-    },
-    {
-      "term": "果物",
-      "count": 20
-    },
-    {
-      "term": "ルド",
+      "term": "ビル",
       "count": 19
     },
     {
-      "term": "では",
+      "term": "チー",
       "count": 18
     },
     {
-      "term": "cd",
+      "term": "パイ",
+      "count": 18
+    },
+    {
+      "term": "ァイ",
+      "count": 16
+    },
+    {
+      "term": "ムの",
       "count": 15
     },
     {
-      "term": "実行",
+      "term": "のた",
       "count": 15
     },
     {
-      "term": "への",
+      "term": "とな",
       "count": 15
+    },
+    {
+      "term": "内容",
+      "count": 14
+    },
+    {
+      "term": "スチ",
+      "count": 14
     },
     {
       "term": "name",
-      "count": 15
+      "count": 14
     },
     {
-      "term": "パイプラ",
+      "term": "よび",
       "count": 13
     },
     {
-      "term": "護 ",
+      "term": "おけ",
       "count": 12
     },
     {
-      "term": "につ",
-      "count": 11
+      "term": "シークレ",
+      "count": 12
     },
     {
-      "term": "チー",
-      "count": 11
+      "term": "ルド",
+      "count": 12
     },
     {
-      "term": "依存物の",
+      "term": "ファ",
+      "count": 12
+    },
+    {
+      "term": "可能",
+      "count": 12
+    },
+    {
+      "term": "護 ",
       "count": 11
     },
     {
@@ -62,143 +78,127 @@
       "count": 11
     },
     {
-      "term": "を含",
+      "term": "ブラ",
       "count": 10
     },
     {
-      "term": "検証",
+      "term": "情報",
       "count": 10
     },
     {
-      "term": "git",
+      "term": "コンテナ",
       "count": 10
     },
     {
-      "term": "provenance",
+      "term": "要が",
       "count": 10
     },
     {
-      "term": "バリ",
-      "count": 9
+      "term": "いた",
+      "count": 10
     },
     {
-      "term": "れて",
-      "count": 9
-    },
-    {
-      "term": "に対",
-      "count": 9
-    },
-    {
-      "term": "おけ",
-      "count": 8
-    },
-    {
-      "term": "ビルドフ",
-      "count": 8
-    },
-    {
-      "term": "ジト",
-      "count": 8
-    },
-    {
-      "term": "スト",
-      "count": 8
+      "term": "考え",
+      "count": 10
     },
     {
       "term": "アク",
+      "count": 9
+    },
+    {
+      "term": "jobs",
+      "count": 9
+    },
+    {
+      "term": "ソフ",
       "count": 8
     },
     {
-      "term": "push",
+      "term": "能で",
       "count": 8
     },
     {
-      "term": "とし",
+      "term": "yml",
       "count": 8
     },
     {
-      "term": "テム",
+      "term": "システム",
       "count": 7
     },
     {
-      "term": "考えられ",
+      "term": "メン",
       "count": 7
     },
     {
-      "term": "ムが",
+      "term": "プラット",
       "count": 7
     },
     {
-      "term": "キャ",
+      "term": "デリバリ",
       "count": 7
     },
     {
-      "term": "のア",
+      "term": "バイナリ",
       "count": 7
     },
     {
-      "term": "具体的な",
+      "term": "有の",
+      "count": 7
+    },
+    {
+      "term": "提供",
+      "count": 7
+    },
+    {
+      "term": "るプ",
+      "count": 7
+    },
+    {
+      "term": "を確",
+      "count": 7
+    },
+    {
+      "term": "記述",
+      "count": 7
+    },
+    {
+      "term": "registry",
+      "count": 7
+    },
+    {
+      "term": "ド設",
+      "count": 7
+    },
+    {
+      "term": "めに",
       "count": 6
     },
     {
-      "term": "詳細",
+      "term": "チの",
       "count": 6
     },
     {
-      "term": "ステ",
+      "term": "ンに",
       "count": 6
     },
     {
-      "term": "構成",
+      "term": "の保護",
       "count": 6
     },
     {
-      "term": "フ ",
+      "term": "定す",
       "count": 6
     },
     {
-      "term": "ルと",
+      "term": "タデータ",
       "count": 6
     },
     {
-      "term": "ムに",
+      "term": "codebuild",
       "count": 6
     },
     {
-      "term": "アカ",
-      "count": 6
-    },
-    {
-      "term": "イメージ",
-      "count": 6
-    },
-    {
-      "term": "は３",
-      "count": 6
-    },
-    {
-      "term": "対す",
-      "count": 6
-    },
-    {
-      "term": "方法",
-      "count": 6
-    },
-    {
-      "term": "の変",
-      "count": 6
-    },
-    {
-      "term": "のレ",
-      "count": 6
-    },
-    {
-      "term": "review",
-      "count": 6
-    },
-    {
-      "term": "容を",
+      "term": "供す",
       "count": 6
     }
   ],
