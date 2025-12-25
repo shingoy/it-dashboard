@@ -2,23 +2,27 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
+      "term": "図 ",
+      "count": 28
+    },
+    {
+      "term": "であ",
       "count": 22
     },
     {
-      "term": "その",
+      "term": "イプ",
       "count": 21
     },
     {
-      "term": "果物",
+      "term": "ット",
       "count": 20
     },
     {
-      "term": "ルド",
-      "count": 19
+      "term": "トリ",
+      "count": 18
     },
     {
-      "term": "いる",
+      "term": "ージ",
       "count": 18
     },
     {
@@ -26,35 +30,11 @@
       "count": 17
     },
     {
-      "term": "ビス",
-      "count": 16
+      "term": "安全",
+      "count": 17
     },
     {
-      "term": "actions",
-      "count": 16
-    },
-    {
-      "term": "るた",
-      "count": 15
-    },
-    {
-      "term": "のた",
-      "count": 15
-    },
-    {
-      "term": "cat",
-      "count": 15
-    },
-    {
-      "term": "ける",
-      "count": 14
-    },
-    {
-      "term": "利用",
-      "count": 14
-    },
-    {
-      "term": "スチ",
+      "term": "プロ",
       "count": 14
     },
     {
@@ -62,87 +42,95 @@
       "count": 14
     },
     {
-      "term": "クレ",
+      "term": "担保",
+      "count": 13
+    },
+    {
+      "term": "変更",
       "count": 12
-    },
-    {
-      "term": "ポジ",
-      "count": 12
-    },
-    {
-      "term": "ステ",
-      "count": 11
-    },
-    {
-      "term": "があ",
-      "count": 11
-    },
-    {
-      "term": "とな",
-      "count": 11
-    },
-    {
-      "term": "tf",
-      "count": 11
-    },
-    {
-      "term": "確保",
-      "count": 10
-    },
-    {
-      "term": "こと",
-      "count": 10
-    },
-    {
-      "term": "ック",
-      "count": 9
-    },
-    {
-      "term": "提供",
-      "count": 9
-    },
-    {
-      "term": "リの",
-      "count": 9
-    },
-    {
-      "term": "えら",
-      "count": 9
-    },
-    {
-      "term": "的な",
-      "count": 8
-    },
-    {
-      "term": "ソフ",
-      "count": 8
-    },
-    {
-      "term": "トウ",
-      "count": 8
-    },
-    {
-      "term": "キャ",
-      "count": 8
-    },
-    {
-      "term": "及び",
-      "count": 7
     },
     {
       "term": "に ",
+      "count": 12
+    },
+    {
+      "term": "的に",
+      "count": 11
+    },
+    {
+      "term": "検証",
+      "count": 10
+    },
+    {
+      "term": "ここ",
+      "count": 10
+    },
+    {
+      "term": "のメ",
+      "count": 10
+    },
+    {
+      "term": "策 ",
+      "count": 9
+    },
+    {
+      "term": "ウェ",
+      "count": 9
+    },
+    {
+      "term": "にも",
+      "count": 9
+    },
+    {
+      "term": "ーカ",
+      "count": 8
+    },
+    {
+      "term": "が ",
+      "count": 8
+    },
+    {
+      "term": "ー ",
+      "count": 8
+    },
+    {
+      "term": "ーに",
+      "count": 8
+    },
+    {
+      "term": "リ及",
       "count": 7
     },
     {
-      "term": "性を",
+      "term": "洩対",
       "count": 7
     },
     {
-      "term": "ンバ",
+      "term": "シス",
       "count": 7
     },
     {
-      "term": "login",
+      "term": "リソ",
+      "count": 7
+    },
+    {
+      "term": "terraform",
+      "count": 7
+    },
+    {
+      "term": "にな",
+      "count": 7
+    },
+    {
+      "term": "クセ",
+      "count": 7
+    },
+    {
+      "term": "のア",
+      "count": 7
+    },
+    {
+      "term": "し ",
       "count": 7
     },
     {
@@ -150,56 +138,68 @@
       "count": 7
     },
     {
-      "term": "ットの保",
+      "term": "とは",
+      "count": 7
+    },
+    {
+      "term": "詳細",
       "count": 6
     },
     {
-      "term": "性管",
+      "term": "通し",
       "count": 6
     },
     {
-      "term": "脆弱性管",
+      "term": "ース",
       "count": 6
     },
     {
-      "term": "信頼性の",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "スを",
+      "term": "内の",
       "count": 6
     },
     {
-      "term": "なお",
+      "term": "にて",
       "count": 6
     },
     {
-      "term": "アカ",
+      "term": "があ",
       "count": 6
     },
     {
-      "term": "スの",
+      "term": "る図",
       "count": 6
     },
     {
-      "term": "ズで",
+      "term": "らな",
       "count": 6
     },
     {
-      "term": "rule",
+      "term": "and",
       "count": 6
     },
     {
-      "term": "review",
+      "term": "を指",
       "count": 6
     },
     {
-      "term": "される",
+      "term": "同様",
       "count": 6
     },
     {
-      "term": "ビュ",
+      "term": "た場",
       "count": 6
+    },
+    {
+      "term": "ト ",
+      "count": 5
+    },
+    {
+      "term": "ムチ",
+      "count": 5
     }
   ],
   "meetings": [

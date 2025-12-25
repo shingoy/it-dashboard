@@ -158,6 +158,12 @@
       </div>
       <div class="flex flex-wrap gap-y-4 gap-x-[1.2%] my-6 md:justify-center">
         <div class="flex flex-col w-[19%] h-[150px] p-2 rounded-md shadow-NISC md:w-[80%] md:items-center md:mb-4">
+          <div class="flex h-[80px] items-center"><img src="/img/systems/cas.png" alt="サイバー警察局"></div>
+          <div class="flex"><i class="text-nisc-primary triangle-block-free mr-1"></i><a class="link text-sm"
+              href="https://www.cao.go.jp/cybersecurity/index.html" target="_blank" rel="noopener noreferrer">サイバー安全保障</a>
+          </div>
+        </div>
+        <div class="flex flex-col w-[19%] h-[150px] p-2 rounded-md shadow-NISC md:w-[80%] md:items-center md:mb-4">
           <div class="flex h-[80px] items-center"><img src="/img/systems/police_agency.png" alt="サイバー警察局"></div>
           <div class="flex"><i class="text-nisc-primary triangle-block-free mr-1"></i><a class="link text-sm"
               href="https://www.npa.go.jp/bureau/cyber/index.html" target="_blank" rel="noopener noreferrer">サイバー警察局</a>
