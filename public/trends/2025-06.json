@@ -2,95 +2,115 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 28
+      "term": "構成",
+      "count": 21
     },
     {
-      "term": "きる",
-      "count": 23
+      "term": "その",
+      "count": 21
     },
     {
-      "term": "成果",
+      "term": "利用",
+      "count": 21
+    },
+    {
+      "term": "イル",
       "count": 20
     },
     {
-      "term": "では",
-      "count": 19
+      "term": "した",
+      "count": 20
     },
     {
-      "term": "ーク",
+      "term": "ため",
+      "count": 20
+    },
+    {
+      "term": "とし",
+      "count": 17
+    },
+    {
+      "term": "ビス",
+      "count": 16
+    },
+    {
+      "term": "のた",
       "count": 15
     },
     {
-      "term": "ービ",
+      "term": "への",
       "count": 15
-    },
-    {
-      "term": "ンテ",
-      "count": 15
-    },
-    {
-      "term": "ース",
-      "count": 14
-    },
-    {
-      "term": "実行",
-      "count": 14
-    },
-    {
-      "term": "いて",
-      "count": 13
-    },
-    {
-      "term": "用す",
-      "count": 13
-    },
-    {
-      "term": "ァイ",
-      "count": 13
-    },
-    {
-      "term": "クレ",
-      "count": 12
-    },
-    {
-      "term": "ツー",
-      "count": 12
     },
     {
       "term": "メタ",
-      "count": 12
+      "count": 15
     },
     {
-      "term": "はc",
-      "count": 11
+      "term": "いて",
+      "count": 14
     },
     {
-      "term": "チームの",
-      "count": 11
+      "term": "ドフ",
+      "count": 14
     },
     {
-      "term": "変更",
-      "count": 11
+      "term": "ービ",
+      "count": 14
     },
     {
-      "term": "ecr",
-      "count": 11
+      "term": "れた",
+      "count": 14
+    },
+    {
+      "term": "られ",
+      "count": 13
+    },
+    {
+      "term": "メー",
+      "count": 13
+    },
+    {
+      "term": "とが",
+      "count": 13
     },
     {
       "term": "ラン",
+      "count": 12
+    },
+    {
+      "term": "変更",
+      "count": 12
+    },
+    {
+      "term": "こで",
+      "count": 12
+    },
+    {
+      "term": "workflows",
+      "count": 12
+    },
+    {
+      "term": "対策",
+      "count": 11
+    },
+    {
+      "term": "制限",
+      "count": 11
+    },
+    {
+      "term": "成果物の",
+      "count": 11
+    },
+    {
+      "term": "code",
       "count": 10
     },
     {
-      "term": "性の",
+      "term": "定し",
       "count": 10
     },
     {
-      "term": "コンテナ",
-      "count": 10
-    },
-    {
-      "term": "sbom",
+      "term": "る\n",
       "count": 10
     },
     {
@@ -98,108 +118,88 @@
       "count": 10
     },
     {
-      "term": "ここ",
-      "count": 10
-    },
-    {
-      "term": "aws",
-      "count": 10
-    },
-    {
-      "term": "code",
+      "term": "体的",
       "count": 9
     },
     {
-      "term": "た ",
+      "term": "の対",
       "count": 9
     },
     {
-      "term": "そのため",
-      "count": 9
-    },
-    {
-      "term": "ータ",
-      "count": 9
-    },
-    {
-      "term": "and",
-      "count": 9
-    },
-    {
-      "term": "id",
-      "count": 9
-    },
-    {
-      "term": "囲の",
+      "term": "範囲の制",
       "count": 8
     },
     {
-      "term": "物を",
+      "term": "スク",
       "count": 8
     },
     {
-      "term": "強制",
+      "term": "チェ",
       "count": 8
     },
     {
-      "term": "のた",
+      "term": "on",
       "count": 8
     },
     {
-      "term": "リテ",
+      "term": "示す",
       "count": 7
     },
     {
-      "term": "システム",
+      "term": "組織",
       "count": 7
     },
     {
-      "term": "る主",
+      "term": "プロ",
       "count": 7
     },
     {
-      "term": "定 ",
+      "term": "れば",
       "count": 7
     },
     {
-      "term": "にな",
+      "term": "用し",
       "count": 7
     },
     {
-      "term": "ップ",
+      "term": "name",
       "count": 7
     },
     {
-      "term": "がある",
+      "term": "った",
       "count": 7
     },
     {
-      "term": "要と",
+      "term": "type",
       "count": 7
     },
     {
-      "term": "たが",
+      "term": "の漏洩対",
       "count": 6
     },
     {
-      "term": "プロバイ",
+      "term": "イダ",
       "count": 6
     },
     {
-      "term": "ムは",
+      "term": "るそ",
       "count": 6
     },
     {
-      "term": "いこ",
+      "term": "方法",
       "count": 6
     },
     {
-      "term": "11",
-      "count": 6
+      "term": "カル",
+      "count": 5
     },
     {
-      "term": "た場",
-      "count": 6
+      "term": "べき",
+      "count": 5
+    },
+    {
+      "term": "バリ",
+      "count": 5
     }
   ],
   "meetings": [
