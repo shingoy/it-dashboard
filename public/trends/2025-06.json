@@ -2,51 +2,51 @@
   "month": "2025-06",
   "keywords": [
     {
+      "term": "図 ",
+      "count": 28
+    },
+    {
       "term": "きる",
       "count": 23
     },
     {
-      "term": "利用",
-      "count": 21
-    },
-    {
-      "term": "果物",
+      "term": "成果",
       "count": 20
     },
     {
+      "term": "では",
+      "count": 19
+    },
+    {
+      "term": "ーク",
+      "count": 15
+    },
+    {
+      "term": "ービ",
+      "count": 15
+    },
+    {
+      "term": "ンテ",
+      "count": 15
+    },
+    {
       "term": "ース",
-      "count": 17
-    },
-    {
-      "term": "に ",
-      "count": 15
-    },
-    {
-      "term": "ラッ",
-      "count": 15
-    },
-    {
-      "term": "コー",
-      "count": 15
-    },
-    {
-      "term": "から",
-      "count": 15
-    },
-    {
-      "term": "する",
       "count": 14
     },
     {
-      "term": "また",
+      "term": "実行",
       "count": 14
     },
     {
-      "term": "チー",
+      "term": "いて",
       "count": 13
     },
     {
-      "term": "tf",
+      "term": "用す",
+      "count": 13
+    },
+    {
+      "term": "ァイ",
       "count": 13
     },
     {
@@ -54,152 +54,152 @@
       "count": 12
     },
     {
-      "term": "よる",
+      "term": "ツー",
       "count": 12
     },
     {
-      "term": "可能",
+      "term": "メタ",
       "count": 12
     },
     {
-      "term": "考え",
+      "term": "はc",
       "count": 11
     },
     {
-      "term": "必要",
+      "term": "チームの",
       "count": 11
     },
     {
-      "term": "ーズ",
+      "term": "変更",
+      "count": 11
+    },
+    {
+      "term": "ecr",
+      "count": 11
+    },
+    {
+      "term": "ラン",
       "count": 10
     },
     {
-      "term": "含む",
-      "count": 9
+      "term": "性の",
+      "count": 10
     },
     {
-      "term": "の担",
-      "count": 9
+      "term": "コンテナ",
+      "count": 10
+    },
+    {
+      "term": "sbom",
+      "count": 10
     },
     {
       "term": "る具",
+      "count": 10
+    },
+    {
+      "term": "ここ",
+      "count": 10
+    },
+    {
+      "term": "aws",
+      "count": 10
+    },
+    {
+      "term": "code",
       "count": 9
     },
     {
-      "term": "ンa",
+      "term": "た ",
       "count": 9
     },
     {
-      "term": "は ",
+      "term": "そのため",
       "count": 9
     },
     {
-      "term": "uses",
+      "term": "ータ",
       "count": 9
     },
     {
-      "term": "リス",
+      "term": "and",
+      "count": 9
+    },
+    {
+      "term": "id",
+      "count": 9
+    },
+    {
+      "term": "囲の",
       "count": 8
     },
     {
-      "term": "るこ",
+      "term": "物を",
       "count": 8
     },
     {
-      "term": "steps",
+      "term": "強制",
       "count": 8
     },
     {
-      "term": "to",
+      "term": "のた",
+      "count": 8
+    },
+    {
+      "term": "リテ",
       "count": 7
     },
     {
-      "term": "とは",
+      "term": "システム",
       "count": 7
     },
     {
-      "term": "の対",
+      "term": "る主",
       "count": 7
     },
     {
-      "term": "セキ",
-      "count": 6
+      "term": "定 ",
+      "count": 7
     },
     {
-      "term": "ットの保",
-      "count": 6
-    },
-    {
-      "term": "ド管",
-      "count": 6
-    },
-    {
-      "term": "物と",
-      "count": 6
-    },
-    {
-      "term": "複数",
-      "count": 6
-    },
-    {
-      "term": "ウン",
-      "count": 6
-    },
-    {
-      "term": "はプ",
-      "count": 6
-    },
-    {
-      "term": "対す",
-      "count": 6
-    },
-    {
-      "term": "amazon",
-      "count": 6
+      "term": "にな",
+      "count": 7
     },
     {
       "term": "ップ",
+      "count": 7
+    },
+    {
+      "term": "がある",
+      "count": 7
+    },
+    {
+      "term": "要と",
+      "count": 7
+    },
+    {
+      "term": "たが",
       "count": 6
     },
     {
-      "term": "れる",
+      "term": "プロバイ",
       "count": 6
     },
     {
-      "term": "合は",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "high",
+      "term": "いこ",
       "count": 6
     },
     {
-      "term": "運用保守",
-      "count": 5
+      "term": "11",
+      "count": 6
     },
     {
-      "term": "理脆",
-      "count": 5
-    },
-    {
-      "term": "ロー",
-      "count": 5
-    },
-    {
-      "term": "限 ",
-      "count": 5
-    },
-    {
-      "term": "を想",
-      "count": 5
-    },
-    {
-      "term": "観点",
-      "count": 5
-    },
-    {
-      "term": "書で",
-      "count": 5
+      "term": "た場",
+      "count": 6
     }
   ],
   "meetings": [
