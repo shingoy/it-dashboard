@@ -2,204 +2,204 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "こと",
-      "count": 25
+      "term": "する",
+      "count": 28
     },
     {
-      "term": "構成",
+      "term": "る ",
+      "count": 28
+    },
+    {
+      "term": "して",
+      "count": 24
+    },
+    {
+      "term": "ード",
       "count": 21
     },
     {
-      "term": "利用",
-      "count": 19
+      "term": "物の",
+      "count": 17
     },
     {
-      "term": "ァイ",
-      "count": 19
+      "term": "ォー",
+      "count": 16
     },
     {
-      "term": "actions",
-      "count": 19
+      "term": "サー",
+      "count": 16
     },
     {
-      "term": "るた",
+      "term": "なる",
       "count": 15
-    },
-    {
-      "term": "よう",
-      "count": 15
-    },
-    {
-      "term": "頼性",
-      "count": 13
-    },
-    {
-      "term": "ータ",
-      "count": 13
-    },
-    {
-      "term": "には",
-      "count": 13
-    },
-    {
-      "term": "とが",
-      "count": 13
-    },
-    {
-      "term": "ビス",
-      "count": 12
-    },
-    {
-      "term": "ビルドフ",
-      "count": 10
-    },
-    {
-      "term": "性を",
-      "count": 10
-    },
-    {
-      "term": "git",
-      "count": 10
-    },
-    {
-      "term": "ルの",
-      "count": 10
-    },
-    {
-      "term": "れた",
-      "count": 10
-    },
-    {
-      "term": "のメ",
-      "count": 10
-    },
-    {
-      "term": "スキ",
-      "count": 9
-    },
-    {
-      "term": "設定",
-      "count": 9
-    },
-    {
-      "term": "uses",
-      "count": 9
-    },
-    {
-      "term": "tf",
-      "count": 9
-    },
-    {
-      "term": "の確",
-      "count": 8
-    },
-    {
-      "term": "ける",
-      "count": 8
-    },
-    {
-      "term": "主体",
-      "count": 8
-    },
-    {
-      "term": "ビルド上",
-      "count": 8
-    },
-    {
-      "term": "性が",
-      "count": 8
-    },
-    {
-      "term": "るそ",
-      "count": 8
-    },
-    {
-      "term": "れら",
-      "count": 8
-    },
-    {
-      "term": "yml",
-      "count": 8
-    },
-    {
-      "term": "おけ",
-      "count": 7
-    },
-    {
-      "term": "コー",
-      "count": 7
     },
     {
       "term": "信頼",
+      "count": 14
+    },
+    {
+      "term": "ツー",
+      "count": 14
+    },
+    {
+      "term": "コー",
+      "count": 13
+    },
+    {
+      "term": "チー",
+      "count": 13
+    },
+    {
+      "term": "イプ",
+      "count": 13
+    },
+    {
+      "term": "確認",
+      "count": 13
+    },
+    {
+      "term": "的に",
+      "count": 12
+    },
+    {
+      "term": "れら",
+      "count": 12
+    },
+    {
+      "term": "ファイル",
+      "count": 12
+    },
+    {
+      "term": "ズの",
+      "count": 11
+    },
+    {
+      "term": "レッ",
+      "count": 11
+    },
+    {
+      "term": "ェー",
+      "count": 11
+    },
+    {
+      "term": "定す",
+      "count": 11
+    },
+    {
+      "term": "ンチ",
+      "count": 10
+    },
+    {
+      "term": "保 ",
+      "count": 10
+    },
+    {
+      "term": "のc",
+      "count": 10
+    },
+    {
+      "term": "のリ",
+      "count": 9
+    },
+    {
+      "term": "code",
+      "count": 9
+    },
+    {
+      "term": "範囲",
+      "count": 9
+    },
+    {
+      "term": "また",
+      "count": 9
+    },
+    {
+      "term": "対象",
+      "count": 9
+    },
+    {
+      "term": "image",
+      "count": 9
+    },
+    {
+      "term": "トを",
+      "count": 8
+    },
+    {
+      "term": "の管",
+      "count": 8
+    },
+    {
+      "term": "json",
+      "count": 8
+    },
+    {
+      "term": "バイナリ",
       "count": 7
     },
     {
-      "term": "デリバリ",
+      "term": "考え",
       "count": 7
     },
     {
-      "term": "全性",
+      "term": "にす",
       "count": 7
     },
     {
-      "term": "ルに",
+      "term": "連携",
       "count": 7
     },
     {
-      "term": "digest",
+      "term": "デー",
       "count": 7
     },
     {
-      "term": "に加",
+      "term": "build",
       "count": 7
     },
     {
-      "term": "なお",
+      "term": "ド設",
       "count": 7
     },
     {
-      "term": "ンに",
+      "term": "理シ",
       "count": 6
     },
     {
-      "term": "めに",
+      "term": "ビュ",
       "count": 6
     },
     {
-      "term": "ラン",
+      "term": "steps",
       "count": 6
     },
     {
-      "term": "よる",
+      "term": "critical",
       "count": 6
     },
     {
-      "term": "した",
+      "term": "uses",
       "count": 6
     },
     {
-      "term": "ージ",
-      "count": 6
+      "term": "理脆",
+      "count": 5
     },
     {
-      "term": "リ時",
-      "count": 6
+      "term": "ド ",
+      "count": 5
     },
     {
-      "term": "ルと",
-      "count": 6
+      "term": "具体",
+      "count": 5
     },
     {
-      "term": "カウ",
-      "count": 6
+      "term": "を想",
+      "count": 5
     },
     {
-      "term": "ここでは",
-      "count": 6
-    },
-    {
-      "term": "ナイ",
-      "count": 6
+      "term": "を用",
+      "count": 5
     }
   ],
   "meetings": [
