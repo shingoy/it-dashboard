@@ -2,91 +2,67 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "パイ",
+      "term": "であ",
+      "count": 22
+    },
+    {
+      "term": "イン",
       "count": 21
     },
     {
-      "term": "ポジ",
+      "term": "ール",
       "count": 20
     },
     {
-      "term": "果物",
-      "count": 20
-    },
-    {
-      "term": "物の",
-      "count": 17
-    },
-    {
-      "term": "name",
-      "count": 17
-    },
-    {
-      "term": "実行",
+      "term": "ォー",
       "count": 16
     },
     {
-      "term": "ータ",
+      "term": "ルド",
+      "count": 16
+    },
+    {
+      "term": "コー",
       "count": 15
     },
     {
-      "term": "成果",
+      "term": "トフ",
+      "count": 15
+    },
+    {
+      "term": "メー",
+      "count": 15
+    },
+    {
+      "term": "よう",
+      "count": 15
+    },
+    {
+      "term": "ムチ",
       "count": 14
     },
     {
-      "term": "ては",
+      "term": "ーム",
       "count": 14
     },
     {
-      "term": "れら",
+      "term": "サービス",
       "count": 12
     },
     {
-      "term": "ファイル",
-      "count": 12
-    },
-    {
-      "term": "はc",
+      "term": "制限",
       "count": 11
     },
     {
-      "term": "リポ",
-      "count": 11
-    },
-    {
-      "term": "com",
-      "count": 11
-    },
-    {
-      "term": "workflows",
-      "count": 11
-    },
-    {
-      "term": "ナリ",
+      "term": "保 ",
       "count": 10
     },
     {
-      "term": "ー ",
+      "term": "のc",
       "count": 10
     },
     {
-      "term": "から",
-      "count": 10
-    },
-    {
-      "term": "sbom",
-      "count": 10
-    },
-    {
-      "term": "ubuntu",
-      "count": 10
-    },
-    {
-      "term": "のリ",
-      "count": 9
-    },
-    {
-      "term": "シー",
+      "term": "ビル",
       "count": 9
     },
     {
@@ -94,63 +70,79 @@
       "count": 9
     },
     {
-      "term": "フト",
+      "term": "の ",
       "count": 9
     },
     {
-      "term": "とい",
+      "term": "る具",
       "count": 9
     },
     {
-      "term": "って",
+      "term": "カル",
       "count": 8
-    },
-    {
-      "term": "する",
-      "count": 8
-    },
-    {
-      "term": "性が",
-      "count": 8
-    },
-    {
-      "term": "ーに",
-      "count": 8
-    },
-    {
-      "term": "資産",
-      "count": 7
-    },
-    {
-      "term": "示す",
-      "count": 7
     },
     {
       "term": "囲の",
+      "count": 8
+    },
+    {
+      "term": "有の",
+      "count": 8
+    },
+    {
+      "term": "docker",
+      "count": 8
+    },
+    {
+      "term": "git",
+      "count": 8
+    },
+    {
+      "term": "メタデー",
+      "count": 8
+    },
+    {
+      "term": "用し",
+      "count": 8
+    },
+    {
+      "term": "の管",
+      "count": 8
+    },
+    {
+      "term": "ャン",
       "count": 7
     },
     {
-      "term": "の ",
+      "term": "クセ",
       "count": 7
     },
     {
-      "term": "記述",
+      "term": "ーと",
       "count": 7
     },
     {
-      "term": "プロ",
+      "term": "され",
       "count": 7
     },
     {
-      "term": "可能",
+      "term": "要と",
       "count": 7
     },
     {
-      "term": "ード管理",
+      "term": "す ",
+      "count": 7
+    },
+    {
+      "term": "ットの保",
       "count": 6
     },
     {
-      "term": "の漏洩対",
+      "term": "成 ",
+      "count": 6
+    },
+    {
+      "term": "つい",
       "count": 6
     },
     {
@@ -158,47 +150,55 @@
       "count": 6
     },
     {
-      "term": "ージ",
-      "count": 6
-    },
-    {
       "term": "ロバ",
       "count": 6
     },
     {
-      "term": "環境",
+      "term": "ス ",
       "count": 6
     },
     {
-      "term": "バイナリ",
+      "term": "スト",
       "count": 6
     },
     {
-      "term": "アカ",
+      "term": "ーを",
       "count": 6
     },
     {
-      "term": "得し",
+      "term": "ェッ",
       "count": 6
     },
     {
-      "term": "の署",
+      "term": "レビ",
       "count": 6
     },
     {
-      "term": "省略",
+      "term": "ビュ",
       "count": 6
     },
     {
-      "term": "ズで",
+      "term": "image",
       "count": 6
     },
     {
-      "term": "きる",
+      "term": "る ",
       "count": 6
     },
     {
-      "term": "ケー",
+      "term": "合は",
+      "count": 6
+    },
+    {
+      "term": "た場",
+      "count": 6
+    },
+    {
+      "term": "format",
+      "count": 6
+    },
+    {
+      "term": "の証",
       "count": 5
     }
   ],
