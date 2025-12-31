@@ -2,87 +2,63 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 28
+      "term": "るこ",
+      "count": 24
     },
     {
-      "term": "きる",
-      "count": 23
+      "term": "構成",
+      "count": 21
     },
     {
-      "term": "果物",
+      "term": "いる",
       "count": 20
     },
     {
-      "term": "ポジ",
+      "term": "aws",
+      "count": 19
+    },
+    {
+      "term": "とし",
       "count": 18
     },
     {
-      "term": "の保",
-      "count": 16
-    },
-    {
-      "term": "ソー",
-      "count": 16
-    },
-    {
-      "term": "ない",
-      "count": 16
-    },
-    {
-      "term": "るた",
+      "term": "ナイ",
       "count": 15
     },
     {
-      "term": "のた",
+      "term": "ータ",
       "count": 15
     },
     {
-      "term": "実行",
-      "count": 15
-    },
-    {
-      "term": "署名",
-      "count": 15
-    },
-    {
-      "term": "全性",
+      "term": "での",
       "count": 14
     },
     {
-      "term": "シー",
+      "term": "内容",
+      "count": 14
+    },
+    {
+      "term": "担保",
       "count": 13
     },
     {
-      "term": "の成",
+      "term": "とが",
       "count": 13
     },
     {
-      "term": "る必",
-      "count": 13
-    },
-    {
-      "term": "ーの",
+      "term": "ーク",
       "count": 12
     },
     {
-      "term": "依存",
+      "term": "した",
       "count": 11
     },
     {
-      "term": "ナリ",
-      "count": 10
+      "term": "チェ",
+      "count": 11
     },
     {
-      "term": "ック",
-      "count": 10
-    },
-    {
-      "term": "の ",
-      "count": 10
-    },
-    {
-      "term": "git",
+      "term": "内で",
       "count": 10
     },
     {
@@ -90,39 +66,83 @@
       "count": 10
     },
     {
-      "term": "含む",
+      "term": "性管",
       "count": 9
     },
     {
-      "term": "ソフ",
-      "count": 8
+      "term": "ック",
+      "count": 9
     },
     {
-      "term": "作成",
-      "count": 8
+      "term": "のリ",
+      "count": 9
     },
     {
-      "term": "セス",
-      "count": 8
+      "term": "ブラ",
+      "count": 9
     },
     {
-      "term": "れた",
-      "count": 8
-    },
-    {
-      "term": "るま",
-      "count": 7
-    },
-    {
-      "term": "がある",
-      "count": 7
+      "term": "が ",
+      "count": 9
     },
     {
       "term": "れて",
+      "count": 9
+    },
+    {
+      "term": "ムが",
+      "count": 9
+    },
+    {
+      "term": "定の",
+      "count": 9
+    },
+    {
+      "term": "る具",
+      "count": 9
+    },
+    {
+      "term": "にも",
+      "count": 8
+    },
+    {
+      "term": "の担",
+      "count": 8
+    },
+    {
+      "term": "を実",
+      "count": 8
+    },
+    {
+      "term": "システム",
       "count": 7
     },
     {
-      "term": "キュ",
+      "term": "内の",
+      "count": 7
+    },
+    {
+      "term": "ると",
+      "count": 7
+    },
+    {
+      "term": "定義",
+      "count": 7
+    },
+    {
+      "term": "ーを",
+      "count": 7
+    },
+    {
+      "term": "ーと",
+      "count": 7
+    },
+    {
+      "term": "の漏洩対",
+      "count": 6
+    },
+    {
+      "term": "開発",
       "count": 6
     },
     {
@@ -130,75 +150,55 @@
       "count": 6
     },
     {
-      "term": "漏洩",
+      "term": "ド管",
       "count": 6
     },
     {
-      "term": "ージ",
+      "term": "めに",
       "count": 6
     },
     {
-      "term": "物と",
+      "term": "ット情報",
       "count": 6
     },
     {
-      "term": "に対",
+      "term": "成 ",
       "count": 6
     },
     {
-      "term": "and",
+      "term": "の署",
       "count": 6
     },
     {
-      "term": "検出",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "理脆",
+      "term": "得し",
+      "count": 6
+    },
+    {
+      "term": "対す",
+      "count": 6
+    },
+    {
+      "term": "ズで",
+      "count": 6
+    },
+    {
+      "term": "てい",
+      "count": 6
+    },
+    {
+      "term": "運用",
       "count": 5
     },
     {
-      "term": "詳細",
+      "term": "よび",
       "count": 5
     },
     {
-      "term": "ード",
-      "count": 5
-    },
-    {
-      "term": "観点",
-      "count": 5
-    },
-    {
-      "term": "を想",
-      "count": 5
-    },
-    {
-      "term": "の成果物",
-      "count": 5
-    },
-    {
-      "term": "ブランチ",
-      "count": 5
-    },
-    {
-      "term": "となる",
-      "count": 5
-    },
-    {
-      "term": "で実",
-      "count": 5
-    },
-    {
-      "term": "review",
-      "count": 5
-    },
-    {
-      "term": "とも",
-      "count": 5
-    },
-    {
-      "term": "github",
+      "term": "cd",
       "count": 5
     }
   ],
