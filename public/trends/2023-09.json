@@ -2,91 +2,107 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "連携",
+      "term": "検討",
       "count": 3
     },
     {
-      "term": "マッ",
+      "term": "ジーマッ",
       "count": 3
     },
     {
-      "term": "ン ",
+      "term": "ログ",
       "count": 3
     },
     {
-      "term": "技術",
+      "term": "ドバ",
       "count": 3
     },
     {
-      "term": "テクノロ",
+      "term": "対象",
       "count": 3
     },
     {
-      "term": "や技",
+      "term": "ージ",
       "count": 3
     },
     {
-      "term": "庁等",
-      "count": 3
-    },
-    {
-      "term": "法等",
+      "term": "知 ",
       "count": 2
     },
     {
-      "term": "を目",
+      "term": "グを",
       "count": 2
     },
     {
-      "term": "ミュ",
+      "term": "ネッ",
       "count": 2
     },
     {
-      "term": "2023",
+      "term": "後の",
       "count": 2
     },
     {
-      "term": "自らへの",
+      "term": "アム",
       "count": 2
     },
     {
-      "term": "ュニ",
+      "term": "利活",
       "count": 2
     },
     {
-      "term": "ード",
+      "term": "ノロジー",
       "count": 2
     },
     {
-      "term": "おけ",
+      "term": "ーシ",
       "count": 2
     },
     {
-      "term": "プや",
+      "term": "的利",
       "count": 2
     },
     {
-      "term": "体会",
+      "term": "の参",
       "count": 2
     },
     {
-      "term": "の活",
+      "term": "指す",
       "count": 2
     },
     {
-      "term": "おける",
+      "term": "との",
       "count": 2
     },
     {
-      "term": "トコ",
+      "term": "具体",
       "count": 2
     },
     {
-      "term": "のア",
+      "term": "を共",
       "count": 2
     },
     {
-      "term": "装イ",
+      "term": "アド",
+      "count": 2
+    },
+    {
+      "term": "テストの",
+      "count": 2
+    },
+    {
+      "term": "発信",
+      "count": 2
+    },
+    {
+      "term": "の具体化",
+      "count": 2
+    },
+    {
+      "term": "の速",
+      "count": 2
+    },
+    {
+      "term": "ウム開催",
       "count": 2
     },
     {
@@ -94,7 +110,31 @@
       "count": 2
     },
     {
-      "term": "たな",
+      "term": "把握",
+      "count": 2
+    },
+    {
+      "term": "改善",
+      "count": 2
+    },
+    {
+      "term": "報告会",
+      "count": 2
+    },
+    {
+      "term": "構築",
+      "count": 2
+    },
+    {
+      "term": "保有",
+      "count": 2
+    },
+    {
+      "term": "術の",
+      "count": 2
+    },
+    {
+      "term": "ジー",
       "count": 2
     },
     {
@@ -102,95 +142,19 @@
       "count": 2
     },
     {
-      "term": "まえ保有",
+      "term": "装イ",
       "count": 2
     },
     {
-      "term": "ム ",
-      "count": 2
-    },
-    {
-      "term": "況を",
-      "count": 2
-    },
-    {
-      "term": "しに",
-      "count": 2
-    },
-    {
-      "term": "の実",
-      "count": 2
-    },
-    {
-      "term": "に ",
-      "count": 2
-    },
-    {
-      "term": "新た",
-      "count": 2
-    },
-    {
-      "term": "関してフ",
+      "term": "関する説",
       "count": 1
     },
     {
-      "term": "るの",
+      "term": "省ス",
       "count": 1
     },
     {
-      "term": "の関係団",
-      "count": 1
-    },
-    {
-      "term": "法規",
-      "count": 1
-    },
-    {
-      "term": "の利活用",
-      "count": 1
-    },
-    {
-      "term": "更な",
-      "count": 1
-    },
-    {
-      "term": "日本",
-      "count": 1
-    },
-    {
-      "term": "協会",
-      "count": 1
-    },
-    {
-      "term": "案提",
-      "count": 1
-    },
-    {
-      "term": "る施",
-      "count": 1
-    },
-    {
-      "term": "の位",
-      "count": 1
-    },
-    {
-      "term": "月４",
-      "count": 1
-    },
-    {
-      "term": "機関が存",
-      "count": 1
-    },
-    {
-      "term": "ら規",
-      "count": 1
-    },
-    {
-      "term": "しネ",
-      "count": 1
-    },
-    {
-      "term": "務局",
+      "term": "とで",
       "count": 1
     },
     {
@@ -198,7 +162,43 @@
       "count": 1
     },
     {
-      "term": "タログ等",
+      "term": "進す",
+      "count": 1
+    },
+    {
+      "term": "務局",
+      "count": 1
+    },
+    {
+      "term": "進する",
+      "count": 1
+    },
+    {
+      "term": "向けた取",
+      "count": 1
+    },
+    {
+      "term": "共有の場",
+      "count": 1
+    },
+    {
+      "term": "しネ",
+      "count": 1
+    },
+    {
+      "term": "プ ",
+      "count": 1
+    },
+    {
+      "term": "提供を促",
+      "count": 1
+    },
+    {
+      "term": "省スター",
+      "count": 1
+    },
+    {
+      "term": "直しに関",
       "count": 1
     }
   ],

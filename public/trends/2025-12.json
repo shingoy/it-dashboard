@@ -2,175 +2,35 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "タ ",
-      "count": 2
-    },
-    {
       "term": "hpci",
       "count": 2
     },
     {
-      "term": "的ハ",
+      "term": "報通",
       "count": 2
     },
     {
-      "term": "頼性",
+      "term": "成新",
       "count": 2
     },
     {
-      "term": "備及",
+      "term": "ナン",
       "count": 2
     },
     {
-      "term": "研究",
+      "term": "の形",
       "count": 2
     },
     {
-      "term": "等支",
+      "term": "ーシ",
       "count": 2
     },
     {
-      "term": "ガバ",
+      "term": "地方",
       "count": 2
     },
     {
-      "term": "新 ",
-      "count": 2
-    },
-    {
-      "term": "文革",
-      "count": 2
-    },
-    {
-      "term": "びａ",
-      "count": 2
-    },
-    {
-      "term": "ガバナン",
-      "count": 2
-    },
-    {
-      "term": "技術",
-      "count": 2
-    },
-    {
-      "term": "グの推進",
-      "count": 1
-    },
-    {
-      "term": "を目",
-      "count": 1
-    },
-    {
-      "term": "ごと",
-      "count": 1
-    },
-    {
-      "term": "脳循",
-      "count": 1
-    },
-    {
-      "term": "深い",
-      "count": 1
-    },
-    {
-      "term": "日本",
-      "count": 1
-    },
-    {
-      "term": "金地",
-      "count": 1
-    },
-    {
-      "term": "の促進",
-      "count": 1
-    },
-    {
-      "term": "を創",
-      "count": 1
-    },
-    {
-      "term": "を抽",
-      "count": 1
-    },
-    {
-      "term": "総額",
-      "count": 1
-    },
-    {
-      "term": "370",
-      "count": 1
-    },
-    {
-      "term": "おけ",
-      "count": 1
-    },
-    {
-      "term": "た ",
-      "count": 1
-    },
-    {
-      "term": "的変革",
-      "count": 1
-    },
-    {
-      "term": "運転",
-      "count": 1
-    },
-    {
-      "term": "事例",
-      "count": 1
-    },
-    {
-      "term": "と協",
-      "count": 1
-    },
-    {
-      "term": "ルサ",
-      "count": 1
-    },
-    {
-      "term": "653",
-      "count": 1
-    },
-    {
-      "term": "の生",
-      "count": 1
-    },
-    {
-      "term": "ションの",
-      "count": 1
-    },
-    {
-      "term": "た建設現",
-      "count": 1
-    },
-    {
-      "term": "協働",
-      "count": 1
-    },
-    {
-      "term": "ジカ",
-      "count": 1
-    },
-    {
-      "term": "年５",
-      "count": 1
-    },
-    {
-      "term": "域に",
-      "count": 1
-    },
-    {
-      "term": "ィン",
-      "count": 1
-    },
-    {
-      "term": "船ロ",
-      "count": 1
-    },
-    {
-      "term": "記載",
+      "term": "グローバ",
       "count": 1
     },
     {
@@ -178,19 +38,7 @@
       "count": 1
     },
     {
-      "term": "た次",
-      "count": 1
-    },
-    {
-      "term": "を記",
-      "count": 1
-    },
-    {
-      "term": "テストベ",
-      "count": 1
-    },
-    {
-      "term": "資す",
+      "term": "ち複数の",
       "count": 1
     },
     {
@@ -198,7 +46,159 @@
       "count": 1
     },
     {
-      "term": "239",
+      "term": "難な",
+      "count": 1
+    },
+    {
+      "term": "スマ",
+      "count": 1
+    },
+    {
+      "term": "進新",
+      "count": 1
+    },
+    {
+      "term": "針に",
+      "count": 1
+    },
+    {
+      "term": "33",
+      "count": 1
+    },
+    {
+      "term": "性向",
+      "count": 1
+    },
+    {
+      "term": "ず ",
+      "count": 1
+    },
+    {
+      "term": "基本計画",
+      "count": 1
+    },
+    {
+      "term": "算総",
+      "count": 1
+    },
+    {
+      "term": "も関",
+      "count": 1
+    },
+    {
+      "term": "ログ",
+      "count": 1
+    },
+    {
+      "term": "外日",
+      "count": 1
+    },
+    {
+      "term": "ベッ",
+      "count": 1
+    },
+    {
+      "term": "利活",
+      "count": 1
+    },
+    {
+      "term": "閣議",
+      "count": 1
+    },
+    {
+      "term": "ノロジー",
+      "count": 1
+    },
+    {
+      "term": "aisi",
+      "count": 1
+    },
+    {
+      "term": "プ ",
+      "count": 1
+    },
+    {
+      "term": "いて",
+      "count": 1
+    },
+    {
+      "term": "計画",
+      "count": 1
+    },
+    {
+      "term": "方針",
+      "count": 1
+    },
+    {
+      "term": "的計",
+      "count": 1
+    },
+    {
+      "term": "の一",
+      "count": 1
+    },
+    {
+      "term": "機関の生",
+      "count": 1
+    },
+    {
+      "term": "きる",
+      "count": 1
+    },
+    {
+      "term": "る場",
+      "count": 1
+    },
+    {
+      "term": "基盤",
+      "count": 1
+    },
+    {
+      "term": "502",
+      "count": 1
+    },
+    {
+      "term": "証の",
+      "count": 1
+    },
+    {
+      "term": "イパフォ",
+      "count": 1
+    },
+    {
+      "term": "の能動的",
+      "count": 1
+    },
+    {
+      "term": "働す",
+      "count": 1
+    },
+    {
+      "term": "分類",
+      "count": 1
+    },
+    {
+      "term": "ラの",
+      "count": 1
+    },
+    {
+      "term": "た額",
+      "count": 1
+    },
+    {
+      "term": "的推",
+      "count": 1
+    },
+    {
+      "term": "ニーズに",
+      "count": 1
+    },
+    {
+      "term": "総信",
+      "count": 1
+    },
+    {
+      "term": "に分",
       "count": 1
     }
   ],
