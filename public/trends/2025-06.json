@@ -2,27 +2,47 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "こと",
-      "count": 25
+      "term": "され",
+      "count": 27
     },
     {
-      "term": "ーム",
-      "count": 18
+      "term": "でき",
+      "count": 23
     },
     {
-      "term": "保護",
-      "count": 18
+      "term": "れる",
+      "count": 23
     },
     {
-      "term": "の保",
+      "term": "ある",
+      "count": 22
+    },
+    {
+      "term": "その",
+      "count": 21
+    },
+    {
+      "term": "図 ",
+      "count": 21
+    },
+    {
+      "term": "github",
+      "count": 21
+    },
+    {
+      "term": "ライ",
+      "count": 19
+    },
+    {
+      "term": "ース",
+      "count": 17
+    },
+    {
+      "term": "ォー",
       "count": 16
     },
     {
-      "term": "果物",
-      "count": 16
-    },
-    {
-      "term": "して",
+      "term": "れた",
       "count": 16
     },
     {
@@ -30,115 +50,79 @@
       "count": 15
     },
     {
-      "term": "ファ",
-      "count": 15
-    },
-    {
-      "term": "ツー",
+      "term": "ェー",
       "count": 14
     },
     {
-      "term": "があ",
-      "count": 14
-    },
-    {
-      "term": "ソースコ",
+      "term": "ンを",
       "count": 13
     },
     {
-      "term": "ービ",
-      "count": 12
-    },
-    {
-      "term": "チームの",
+      "term": "につ",
       "count": 11
     },
     {
-      "term": "を含",
+      "term": "依存物の",
+      "count": 11
+    },
+    {
+      "term": "取得",
+      "count": 11
+    },
+    {
+      "term": "を用",
       "count": 10
     },
     {
-      "term": "によ",
+      "term": "は ",
       "count": 10
     },
     {
-      "term": "ポジ",
+      "term": "可能",
       "count": 10
     },
     {
-      "term": "し ",
-      "count": 10
-    },
-    {
-      "term": "セス",
-      "count": 10
-    },
-    {
-      "term": "ラン",
+      "term": "安全性の",
       "count": 9
     },
     {
-      "term": "バリ",
+      "term": "ルの",
       "count": 9
     },
     {
-      "term": "build",
+      "term": "リの",
       "count": 9
     },
     {
-      "term": "保 ",
+      "term": "の対",
+      "count": 9
+    },
+    {
+      "term": "具体",
       "count": 8
     },
     {
-      "term": "リス",
+      "term": "以外",
       "count": 8
     },
     {
-      "term": "存物",
-      "count": 8
-    },
-    {
-      "term": "定す",
-      "count": 8
-    },
-    {
-      "term": "メタデー",
-      "count": 8
-    },
-    {
-      "term": "の管",
-      "count": 8
-    },
-    {
-      "term": "のs",
-      "count": 8
-    },
-    {
-      "term": "and",
-      "count": 8
-    },
-    {
-      "term": "リ及",
+      "term": "漏洩",
       "count": 7
     },
     {
-      "term": "リテ",
+      "term": "システム",
       "count": 7
     },
     {
-      "term": "ード",
+      "term": "に関",
       "count": 7
     },
     {
-      "term": "における",
+      "term": "ンb",
       "count": 7
     },
     {
-      "term": "の仕",
-      "count": 7
-    },
-    {
-      "term": "cosign",
+      "term": "registry",
       "count": 7
     },
     {
@@ -146,60 +130,76 @@
       "count": 7
     },
     {
-      "term": "クセ",
-      "count": 7
+      "term": "ットの保",
+      "count": 6
     },
     {
-      "term": "ルに",
-      "count": 7
+      "term": "イン",
+      "count": 6
     },
     {
-      "term": "リの",
-      "count": 7
+      "term": "供す",
+      "count": 6
     },
     {
-      "term": "要と",
-      "count": 7
+      "term": "ここ",
+      "count": 6
     },
     {
-      "term": "す ",
-      "count": 7
+      "term": "完全",
+      "count": 6
+    },
+    {
+      "term": "保で",
+      "count": 6
+    },
+    {
+      "term": "ついては",
+      "count": 6
+    },
+    {
+      "term": "省略する",
+      "count": 6
+    },
+    {
+      "term": "ビュ",
+      "count": 6
+    },
+    {
+      "term": "強制",
+      "count": 6
+    },
+    {
+      "term": "であ",
+      "count": 6
+    },
+    {
+      "term": "tf",
+      "count": 6
+    },
+    {
+      "term": "format",
+      "count": 6
+    },
+    {
+      "term": "predicate",
+      "count": 6
+    },
+    {
+      "term": "用保",
+      "count": 5
     },
     {
       "term": "キュ",
-      "count": 6
+      "count": 5
     },
     {
-      "term": "めに",
-      "count": 6
+      "term": "code",
+      "count": 5
     },
     {
-      "term": "ード管理",
-      "count": 6
-    },
-    {
-      "term": "の漏洩対",
-      "count": 6
-    },
-    {
-      "term": "ージ",
-      "count": 6
-    },
-    {
-      "term": "はa",
-      "count": 6
-    },
-    {
-      "term": "ルと",
-      "count": 6
-    },
-    {
-      "term": "とも",
-      "count": 6
-    },
-    {
-      "term": "た場",
-      "count": 6
+      "term": "する",
+      "count": 5
     }
   ],
   "meetings": [
