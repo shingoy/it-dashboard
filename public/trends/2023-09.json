@@ -2,15 +2,19 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "に ",
+      "term": "カタ",
       "count": 3
     },
     {
-      "term": "開発",
+      "term": "コン",
       "count": 3
     },
     {
-      "term": "な技",
+      "term": "化 ",
+      "count": 3
+    },
+    {
+      "term": "メー",
       "count": 3
     },
     {
@@ -18,95 +22,63 @@
       "count": 3
     },
     {
-      "term": "を把",
-      "count": 3
-    },
-    {
-      "term": "等の",
-      "count": 3
-    },
-    {
-      "term": "明参",
+      "term": "まと",
       "count": 2
     },
     {
-      "term": "との",
+      "term": "周知",
       "count": 2
     },
     {
-      "term": "の期",
+      "term": "ける",
       "count": 2
     },
     {
-      "term": "の活動等",
+      "term": "等に",
       "count": 2
     },
     {
-      "term": "情報か",
+      "term": "らへ",
       "count": 2
     },
     {
-      "term": "管省",
+      "term": "期待",
       "count": 2
     },
     {
-      "term": "ソー",
+      "term": "ーシアム",
       "count": 2
     },
     {
-      "term": "る ",
+      "term": "ック",
       "count": 2
     },
     {
-      "term": "活動",
+      "term": "係団",
       "count": 2
     },
     {
-      "term": "の場",
+      "term": "から",
       "count": 2
     },
     {
-      "term": "利活",
+      "term": "の活",
       "count": 2
     },
     {
-      "term": "ウム開催",
+      "term": "い ",
       "count": 2
     },
     {
-      "term": "の速",
+      "term": "発信",
       "count": 2
     },
     {
-      "term": "企画への",
+      "term": "シン",
       "count": 2
     },
     {
-      "term": "一体",
-      "count": 2
-    },
-    {
-      "term": "直 ",
-      "count": 2
-    },
-    {
-      "term": "テストの",
-      "count": 2
-    },
-    {
-      "term": "感 ",
-      "count": 2
-    },
-    {
-      "term": "広く発信",
-      "count": 2
-    },
-    {
-      "term": "共有",
-      "count": 2
-    },
-    {
-      "term": "ジーマッ",
+      "term": "証成",
       "count": 2
     },
     {
@@ -114,15 +86,99 @@
       "count": 2
     },
     {
-      "term": "制対",
+      "term": "事業",
       "count": 2
     },
     {
-      "term": "組方法や",
+      "term": "信 ",
+      "count": 2
+    },
+    {
+      "term": "技術の",
+      "count": 2
+    },
+    {
+      "term": "感 ",
+      "count": 2
+    },
+    {
+      "term": "イス",
+      "count": 2
+    },
+    {
+      "term": "新たな技",
+      "count": 2
+    },
+    {
+      "term": "の具",
+      "count": 2
+    },
+    {
+      "term": "を活",
+      "count": 2
+    },
+    {
+      "term": "ュー",
       "count": 1
     },
     {
-      "term": "月４",
+      "term": "見や",
+      "count": 1
+    },
+    {
+      "term": "活用した",
+      "count": 1
+    },
+    {
+      "term": "がテ",
+      "count": 1
+    },
+    {
+      "term": "模資",
+      "count": 1
+    },
+    {
+      "term": "等関",
+      "count": 1
+    },
+    {
+      "term": "チャ",
+      "count": 1
+    },
+    {
+      "term": "用可能な",
+      "count": 1
+    },
+    {
+      "term": "を継",
+      "count": 1
+    },
+    {
+      "term": "ベンチャ",
+      "count": 1
+    },
+    {
+      "term": "方法に",
+      "count": 1
+    },
+    {
+      "term": "関連",
+      "count": 1
+    },
+    {
+      "term": "らか",
+      "count": 1
+    },
+    {
+      "term": "連携団体",
+      "count": 1
+    },
+    {
+      "term": "ピタ",
+      "count": 1
+    },
+    {
+      "term": "シナ",
       "count": 1
     },
     {
@@ -130,75 +186,19 @@
       "count": 1
     },
     {
-      "term": "体等",
+      "term": "務局",
       "count": 1
     },
     {
-      "term": "る技",
+      "term": "を提供し",
       "count": 1
     },
     {
-      "term": "治体",
-      "count": 1
-    },
-    {
-      "term": "startup",
-      "count": 1
-    },
-    {
-      "term": "ティ関係",
-      "count": 1
-    },
-    {
-      "term": "の利",
-      "count": 1
-    },
-    {
-      "term": "報の主体",
-      "count": 1
-    },
-    {
-      "term": "要\n",
-      "count": 1
-    },
-    {
-      "term": "進捗",
-      "count": 1
-    },
-    {
-      "term": "ー効",
-      "count": 1
-    },
-    {
-      "term": "関してフ",
+      "term": "術等",
       "count": 1
     },
     {
       "term": "間含",
-      "count": 1
-    },
-    {
-      "term": "的に",
-      "count": 1
-    },
-    {
-      "term": "動ス",
-      "count": 1
-    },
-    {
-      "term": "う関",
-      "count": 1
-    },
-    {
-      "term": "法規",
-      "count": 1
-    },
-    {
-      "term": "創出",
-      "count": 1
-    },
-    {
-      "term": "ケジ",
       "count": 1
     }
   ],
