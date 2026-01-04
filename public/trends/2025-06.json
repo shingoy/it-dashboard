@@ -2,63 +2,71 @@
   "month": "2025-06",
   "keywords": [
     {
+      "term": "され",
+      "count": 27
+    },
+    {
+      "term": "ード",
+      "count": 21
+    },
+    {
       "term": "パイ",
-      "count": 21
+      "count": 20
     },
     {
-      "term": "ある",
-      "count": 21
+      "term": "aws",
+      "count": 19
     },
     {
-      "term": "いる",
-      "count": 18
-    },
-    {
-      "term": "サー",
-      "count": 17
-    },
-    {
-      "term": "ージ",
-      "count": 17
-    },
-    {
-      "term": "から",
+      "term": "ムの",
       "count": 15
     },
     {
-      "term": "コン",
+      "term": "ラッ",
       "count": 15
     },
     {
-      "term": "メー",
+      "term": "ムチ",
       "count": 15
     },
     {
-      "term": "ける",
+      "term": "スコ",
       "count": 14
-    },
-    {
-      "term": "イン",
-      "count": 14
-    },
-    {
-      "term": "の成",
-      "count": 13
     },
     {
       "term": "ーズ",
+      "count": 14
+    },
+    {
+      "term": "保護",
+      "count": 14
+    },
+    {
+      "term": "る図",
+      "count": 13
+    },
+    {
+      "term": "とが",
+      "count": 13
+    },
+    {
+      "term": "情報",
       "count": 12
     },
     {
-      "term": "とす",
+      "term": "ルを",
+      "count": 12
+    },
+    {
+      "term": "ズの",
       "count": 11
     },
     {
-      "term": "トフ",
+      "term": "フォーム",
       "count": 11
     },
     {
-      "term": "制限",
+      "term": "10",
       "count": 11
     },
     {
@@ -66,15 +74,11 @@
       "count": 10
     },
     {
-      "term": "はc",
+      "term": "メン",
       "count": 10
     },
     {
-      "term": "性の",
-      "count": 10
-    },
-    {
-      "term": "保護",
+      "term": "を用",
       "count": 10
     },
     {
@@ -82,27 +86,11 @@
       "count": 10
     },
     {
-      "term": "取得",
-      "count": 10
-    },
-    {
-      "term": "より",
+      "term": "含む",
       "count": 9
     },
     {
-      "term": "ムが",
-      "count": 9
-    },
-    {
-      "term": "アク",
-      "count": 9
-    },
-    {
-      "term": "and",
-      "count": 9
-    },
-    {
-      "term": "ソフ",
+      "term": "範囲の制",
       "count": 8
     },
     {
@@ -110,95 +98,107 @@
       "count": 8
     },
     {
-      "term": "を実",
-      "count": 8
-    },
-    {
-      "term": "with",
-      "count": 8
-    },
-    {
-      "term": "キー",
+      "term": "資産",
       "count": 7
     },
     {
-      "term": "メン",
+      "term": "の漏",
       "count": 7
     },
     {
-      "term": "書で",
+      "term": "の仕",
       "count": 7
     },
     {
-      "term": "定義",
+      "term": "行範",
       "count": 7
     },
     {
-      "term": "い ",
+      "term": "ンバ",
       "count": 7
     },
     {
-      "term": "ーに",
+      "term": "name",
       "count": 7
     },
     {
-      "term": "のよ",
+      "term": "login",
       "count": 7
     },
     {
-      "term": "uses",
-      "count": 7
-    },
-    {
-      "term": "runs",
-      "count": 7
-    },
-    {
-      "term": "はa",
+      "term": "の漏洩対",
       "count": 6
     },
     {
-      "term": "複数",
+      "term": "フォ",
       "count": 6
     },
     {
-      "term": "関連",
+      "term": "イダ",
       "count": 6
     },
     {
-      "term": "得し",
+      "term": "ロバ",
       "count": 6
     },
     {
-      "term": "run",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "repository",
+      "term": "以外",
       "count": 6
     },
     {
-      "term": "steps",
+      "term": "容を",
       "count": 6
     },
     {
-      "term": "とな",
+      "term": "format",
       "count": 6
     },
     {
-      "term": "ナイ",
+      "term": "はパ",
       "count": 6
     },
     {
-      "term": "シナ",
+      "term": "示す",
       "count": 5
     },
     {
-      "term": "ュリ",
+      "term": "コー",
       "count": 5
     },
     {
-      "term": "プラット",
+      "term": "イン特有",
+      "count": 5
+    },
+    {
+      "term": "はあ",
+      "count": 5
+    },
+    {
+      "term": "るg",
+      "count": 5
+    },
+    {
+      "term": "対応",
+      "count": 5
+    },
+    {
+      "term": "とと",
+      "count": 5
+    },
+    {
+      "term": "チームが",
+      "count": 5
+    },
+    {
+      "term": "とも",
+      "count": 5
+    },
+    {
+      "term": "ecr",
       "count": 5
     }
   ],
