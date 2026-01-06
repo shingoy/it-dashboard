@@ -2,179 +2,159 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 25
-    },
-    {
-      "term": "パイプラ",
-      "count": 20
-    },
-    {
-      "term": "する",
+      "term": "ロー",
       "count": 19
     },
     {
-      "term": "actions",
+      "term": "ビル",
       "count": 19
     },
     {
-      "term": "ファ",
-      "count": 19
-    },
-    {
-      "term": "るこ",
-      "count": 19
-    },
-    {
-      "term": "設定",
-      "count": 19
-    },
-    {
-      "term": "ーム",
+      "term": "チー",
       "count": 18
     },
     {
-      "term": "ci",
-      "count": 17
+      "term": "とし",
+      "count": 18
     },
     {
-      "term": "に ",
+      "term": "コン",
       "count": 15
     },
     {
-      "term": "必要",
-      "count": 15
-    },
-    {
-      "term": "ラッ",
+      "term": "ルを",
       "count": 14
     },
     {
-      "term": "よる",
+      "term": "から",
+      "count": 14
+    },
+    {
+      "term": "ァイ",
+      "count": 14
+    },
+    {
+      "term": "る必",
+      "count": 14
+    },
+    {
+      "term": "ては",
+      "count": 14
+    },
+    {
+      "term": "ラッ",
       "count": 13
     },
     {
-      "term": "ソー",
+      "term": "署名",
       "count": 13
     },
     {
-      "term": "存物",
+      "term": "環境",
       "count": 11
     },
     {
-      "term": "依存",
-      "count": 11
-    },
-    {
-      "term": "内で",
+      "term": "の ",
       "count": 10
     },
     {
-      "term": "provenance",
+      "term": "name",
       "count": 10
     },
     {
-      "term": "build",
-      "count": 10
-    },
-    {
-      "term": "バリ",
+      "term": "た ",
       "count": 9
+    },
+    {
+      "term": "ンの",
+      "count": 9
+    },
+    {
+      "term": "そのため",
+      "count": 9
+    },
+    {
+      "term": "それ",
+      "count": 9
+    },
+    {
+      "term": "に対",
+      "count": 9
+    },
+    {
+      "term": "護 ",
+      "count": 8
+    },
+    {
+      "term": "での実行",
+      "count": 8
+    },
+    {
+      "term": "組み",
+      "count": 8
+    },
+    {
+      "term": "洩対",
+      "count": 7
+    },
+    {
+      "term": "ック",
+      "count": 7
+    },
+    {
+      "term": "にな",
+      "count": 7
+    },
+    {
+      "term": "ンb",
+      "count": 7
+    },
+    {
+      "term": "図 ",
+      "count": 7
+    },
+    {
+      "term": "めに",
+      "count": 6
+    },
+    {
+      "term": "チの",
+      "count": 6
+    },
+    {
+      "term": "ト情",
+      "count": 6
+    },
+    {
+      "term": "いて",
+      "count": 6
+    },
+    {
+      "term": "等の",
+      "count": 6
+    },
+    {
+      "term": "ルと",
+      "count": 6
+    },
+    {
+      "term": "ウン",
+      "count": 6
+    },
+    {
+      "term": "はプ",
+      "count": 6
+    },
+    {
+      "term": "完全",
+      "count": 6
+    },
+    {
+      "term": "される",
+      "count": 6
     },
     {
       "term": "し ",
-      "count": 9
-    },
-    {
-      "term": "のs",
-      "count": 8
-    },
-    {
-      "term": "ルで",
-      "count": 8
-    },
-    {
-      "term": "の漏",
-      "count": 7
-    },
-    {
-      "term": "自動",
-      "count": 7
-    },
-    {
-      "term": "上で",
-      "count": 7
-    },
-    {
-      "term": "本書",
-      "count": 7
-    },
-    {
-      "term": "るプ",
-      "count": 7
-    },
-    {
-      "term": "ると",
-      "count": 7
-    },
-    {
-      "term": "連携",
-      "count": 7
-    },
-    {
-      "term": "対象",
-      "count": 7
-    },
-    {
-      "term": "強制",
-      "count": 7
-    },
-    {
-      "term": "とは",
-      "count": 7
-    },
-    {
-      "term": "仕組",
-      "count": 7
-    },
-    {
-      "term": "ワー",
-      "count": 6
-    },
-    {
-      "term": "対策",
-      "count": 6
-    },
-    {
-      "term": "ティ",
-      "count": 6
-    },
-    {
-      "term": "高い",
-      "count": 6
-    },
-    {
-      "term": "ここでは",
-      "count": 6
-    },
-    {
-      "term": "方法",
-      "count": 6
-    },
-    {
-      "term": "の事",
-      "count": 6
-    },
-    {
-      "term": "アク",
-      "count": 6
-    },
-    {
-      "term": "容を",
-      "count": 6
-    },
-    {
-      "term": "and",
       "count": 6
     },
     {
@@ -182,23 +162,43 @@
       "count": 6
     },
     {
-      "term": "えて",
+      "term": "scanners",
       "count": 6
     },
     {
-      "term": "をも",
+      "term": "steps",
+      "count": 6
+    },
+    {
+      "term": "ubuntu",
+      "count": 6
+    },
+    {
+      "term": "jobs",
+      "count": 6
+    },
+    {
+      "term": "産管",
       "count": 5
     },
     {
-      "term": "セキ",
+      "term": "infrastructure",
       "count": 5
     },
     {
-      "term": "トの",
+      "term": "13",
       "count": 5
     },
     {
-      "term": "護 ",
+      "term": "べき",
+      "count": 5
+    },
+    {
+      "term": "あり",
+      "count": 5
+    },
+    {
+      "term": "これは",
       "count": 5
     }
   ],
