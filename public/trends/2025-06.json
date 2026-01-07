@@ -2,204 +2,204 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "信頼",
+      "term": "actions",
+      "count": 19
+    },
+    {
+      "term": "ファ",
+      "count": 19
+    },
+    {
+      "term": "ビル",
+      "count": 16
+    },
+    {
+      "term": "フォ",
       "count": 15
     },
     {
-      "term": "弱性",
-      "count": 15
-    },
-    {
-      "term": "よび",
-      "count": 15
-    },
-    {
-      "term": "設定",
-      "count": 15
-    },
-    {
-      "term": "略 ",
+      "term": "プロ",
       "count": 14
     },
     {
-      "term": "パイ",
+      "term": "タデ",
+      "count": 14
+    },
+    {
+      "term": "があ",
+      "count": 14
+    },
+    {
+      "term": "よる",
       "count": 13
     },
     {
-      "term": "変更",
+      "term": "的に",
+      "count": 13
+    },
+    {
+      "term": "を取",
       "count": 12
     },
     {
-      "term": "場合",
-      "count": 12
-    },
-    {
-      "term": "によ",
+      "term": "プラット",
       "count": 11
     },
     {
-      "term": "aws",
+      "term": "ステ",
       "count": 11
     },
     {
-      "term": "考え",
+      "term": "成果物の",
       "count": 11
     },
     {
-      "term": "の ",
-      "count": 10
+      "term": "定す",
+      "count": 11
     },
     {
-      "term": "git",
-      "count": 10
+      "term": "なる",
+      "count": 11
+    },
+    {
+      "term": "はな",
+      "count": 11
     },
     {
       "term": "検証",
       "count": 10
     },
     {
-      "term": "ット",
+      "term": "し ",
+      "count": 10
+    },
+    {
+      "term": "ナイ",
+      "count": 10
+    },
+    {
+      "term": "build",
+      "count": 10
+    },
+    {
+      "term": "トの",
       "count": 9
     },
     {
-      "term": "制限",
+      "term": "的な",
       "count": 9
     },
     {
-      "term": "ecr",
+      "term": "が ",
       "count": 9
     },
     {
-      "term": "るが",
+      "term": "リポジト",
       "count": 9
     },
     {
-      "term": "outputs",
-      "count": 9
-    },
-    {
-      "term": "ライ",
+      "term": "ョン",
       "count": 8
     },
     {
-      "term": "ビルド上",
+      "term": "での実行",
       "count": 8
     },
     {
-      "term": "とで",
+      "term": "スク",
       "count": 8
     },
     {
-      "term": "の構",
+      "term": "セス",
       "count": 8
     },
     {
-      "term": "スの",
+      "term": "リの",
       "count": 8
     },
     {
-      "term": "キャ",
+      "term": "いう",
       "count": 8
     },
     {
-      "term": "が考",
+      "term": "commit",
       "count": 8
+    },
+    {
+      "term": "関す",
+      "count": 7
+    },
+    {
+      "term": "共通",
+      "count": 7
+    },
+    {
+      "term": "ェーズの",
+      "count": 7
+    },
+    {
+      "term": "システム",
+      "count": 7
+    },
+    {
+      "term": "報の",
+      "count": 7
+    },
+    {
+      "term": "のリ",
+      "count": 7
+    },
+    {
+      "term": "イナ",
+      "count": 7
+    },
+    {
+      "term": "そのため",
+      "count": 7
     },
     {
       "term": "のア",
-      "count": 8
-    },
-    {
-      "term": "連携",
       "count": 7
     },
     {
-      "term": "トを",
+      "term": "とは",
       "count": 7
     },
     {
-      "term": "い ",
+      "term": "aws",
       "count": 7
     },
     {
-      "term": "ークレッ",
+      "term": "runs",
       "count": 7
     },
     {
-      "term": "図 ",
-      "count": 7
-    },
-    {
-      "term": "を示",
+      "term": "ード管理",
       "count": 6
     },
     {
-      "term": "ワー",
+      "term": "ド管",
       "count": 6
     },
     {
-      "term": "プラット",
+      "term": "運用",
       "count": 6
     },
     {
-      "term": "28",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "ンテナイ",
+      "term": "ルと",
       "count": 6
     },
     {
-      "term": "うこ",
+      "term": "トウ",
       "count": 6
     },
     {
-      "term": "ルに",
+      "term": "repository",
       "count": 6
-    },
-    {
-      "term": "らな",
-      "count": 6
-    },
-    {
-      "term": "がある",
-      "count": 6
-    },
-    {
-      "term": "steps",
-      "count": 6
-    },
-    {
-      "term": "and",
-      "count": 6
-    },
-    {
-      "term": "scanners",
-      "count": 6
-    },
-    {
-      "term": "象と",
-      "count": 6
-    },
-    {
-      "term": "用者",
-      "count": 5
-    },
-    {
-      "term": "実装",
-      "count": 5
-    },
-    {
-      "term": "ト ",
-      "count": 5
-    },
-    {
-      "term": "れに",
-      "count": 5
-    },
-    {
-      "term": "べき",
-      "count": 5
     }
   ],
   "meetings": [
