@@ -2,75 +2,123 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "次世代情",
-      "count": 2
-    },
-    {
-      "term": "円 ",
-      "count": 2
-    },
-    {
       "term": "ルー",
       "count": 2
     },
     {
-      "term": "ボの",
+      "term": "ータ",
       "count": 2
     },
     {
-      "term": "た ",
-      "count": 1
+      "term": "ーブ",
+      "count": 2
     },
     {
-      "term": "補正",
-      "count": 1
+      "term": "等支援",
+      "count": 2
     },
     {
-      "term": "ガバメン",
-      "count": 1
+      "term": "インフラ",
+      "count": 2
     },
     {
-      "term": "関連",
-      "count": 1
+      "term": "クラ",
+      "count": 2
     },
     {
-      "term": "業費",
-      "count": 1
+      "term": "性を",
+      "count": 2
+    },
+    {
+      "term": "フラ",
+      "count": 2
+    },
+    {
+      "term": "ィジ",
+      "count": 2
+    },
+    {
+      "term": "散に",
+      "count": 2
+    },
+    {
+      "term": "強靱",
+      "count": 2
+    },
+    {
+      "term": "の形",
+      "count": 2
+    },
+    {
+      "term": "整備及び",
+      "count": 2
+    },
+    {
+      "term": "ナン",
+      "count": 2
+    },
+    {
+      "term": "次世代情",
+      "count": 2
+    },
+    {
+      "term": "ジカ",
+      "count": 2
     },
     {
       "term": "ステ",
       "count": 1
     },
     {
-      "term": "五入",
+      "term": "における",
       "count": 1
     },
     {
-      "term": "た継",
+      "term": "策に",
       "count": 1
     },
     {
-      "term": "場の生産",
+      "term": "ボッ",
       "count": 1
     },
     {
-      "term": "に分",
+      "term": "ベッ",
       "count": 1
     },
     {
-      "term": "ムの構築",
+      "term": "速的",
       "count": 1
     },
     {
-      "term": "環等",
+      "term": "22",
       "count": 1
     },
     {
-      "term": "ルサ",
+      "term": "に含まず",
       "count": 1
     },
     {
-      "term": "サウ",
+      "term": "経済",
+      "count": 1
+    },
+    {
+      "term": "針に分類",
+      "count": 1
+    },
+    {
+      "term": "建設",
+      "count": 1
+    },
+    {
+      "term": "罪グ",
+      "count": 1
+    },
+    {
+      "term": "につ",
+      "count": 1
+    },
+    {
+      "term": "積み",
       "count": 1
     },
     {
@@ -78,107 +126,47 @@
       "count": 1
     },
     {
-      "term": "による科",
+      "term": "分含",
       "count": 1
     },
     {
-      "term": "捨五",
+      "term": "とし",
       "count": 1
     },
     {
-      "term": "性向",
+      "term": "データ",
       "count": 1
     },
     {
-      "term": "等に",
+      "term": "開発",
       "count": 1
     },
     {
-      "term": "技術",
+      "term": "ズに",
       "count": 1
     },
     {
-      "term": "るリ",
+      "term": "い方",
       "count": 1
     },
     {
-      "term": "設現",
+      "term": "イノベー",
       "count": 1
     },
     {
-      "term": "連施",
+      "term": "うち",
       "count": 1
     },
     {
-      "term": "た匿名",
+      "term": "目ご",
       "count": 1
     },
     {
-      "term": "域金",
+      "term": "の４",
       "count": 1
     },
     {
-      "term": "証の",
-      "count": 1
-    },
-    {
-      "term": "発供",
-      "count": 1
-    },
-    {
-      "term": "外日",
-      "count": 1
-    },
-    {
-      "term": "型犯",
-      "count": 1
-    },
-    {
-      "term": "資す",
-      "count": 1
-    },
-    {
-      "term": "盤の",
-      "count": 1
-    },
-    {
-      "term": "業技",
-      "count": 1
-    },
-    {
-      "term": "学研究革",
-      "count": 1
-    },
-    {
-      "term": "の能動的",
-      "count": 1
-    },
-    {
-      "term": "ート",
-      "count": 1
-    },
-    {
-      "term": "社会",
-      "count": 1
-    },
-    {
-      "term": "造業",
-      "count": 1
-    },
-    {
-      "term": "する実証",
-      "count": 1
-    },
-    {
-      "term": "年度補正",
-      "count": 1
-    },
-    {
-      "term": "に応",
-      "count": 1
-    },
-    {
-      "term": "240",
+      "term": "テストベ",
       "count": 1
     },
     {
@@ -186,19 +174,31 @@
       "count": 1
     },
     {
-      "term": "89",
+      "term": "に資する",
       "count": 1
     },
     {
-      "term": "用に",
+      "term": "ロボ",
       "count": 1
     },
     {
-      "term": "クラウド",
+      "term": "実証",
       "count": 1
     },
     {
-      "term": "内経",
+      "term": "人材",
+      "count": 1
+    },
+    {
+      "term": "シス",
+      "count": 1
+    },
+    {
+      "term": "強い",
+      "count": 1
+    },
+    {
+      "term": "係す",
       "count": 1
     }
   ],
