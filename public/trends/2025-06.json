@@ -2,31 +2,27 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "チー",
-      "count": 18
+      "term": "こと",
+      "count": 25
     },
     {
-      "term": "とし",
-      "count": 18
+      "term": "イン",
+      "count": 22
     },
     {
-      "term": "パイプラ",
-      "count": 16
+      "term": "構成",
+      "count": 21
     },
     {
-      "term": "ェー",
-      "count": 15
+      "term": "パイ",
+      "count": 21
     },
     {
-      "term": "ータ",
-      "count": 15
+      "term": "れる",
+      "count": 17
     },
     {
-      "term": "なる",
-      "count": 15
-    },
-    {
-      "term": "テナ",
+      "term": "必要",
       "count": 15
     },
     {
@@ -34,55 +30,51 @@
       "count": 15
     },
     {
-      "term": "用す",
+      "term": "頼性",
       "count": 13
     },
     {
-      "term": "ステ",
+      "term": "ドフ",
+      "count": 13
+    },
+    {
+      "term": "的に",
+      "count": 13
+    },
+    {
+      "term": "担保",
+      "count": 12
+    },
+    {
+      "term": "を取",
+      "count": 12
+    },
+    {
+      "term": "の成",
       "count": 11
     },
     {
-      "term": "につ",
-      "count": 11
-    },
-    {
-      "term": "terraform",
-      "count": 11
-    },
-    {
-      "term": "push",
-      "count": 11
-    },
-    {
-      "term": "確保",
+      "term": "具体",
       "count": 10
     },
     {
-      "term": "ック",
+      "term": "ン ",
       "count": 10
     },
     {
-      "term": "ンチ",
+      "term": "の信",
       "count": 10
     },
     {
-      "term": "定す",
+      "term": "環境",
       "count": 10
     },
     {
-      "term": "ー ",
-      "count": 10
+      "term": "とす",
+      "count": 9
     },
     {
-      "term": "性を",
-      "count": 10
-    },
-    {
-      "term": "env",
-      "count": 10
-    },
-    {
-      "term": "チームの",
+      "term": "って",
       "count": 9
     },
     {
@@ -90,116 +82,124 @@
       "count": 9
     },
     {
-      "term": "aws",
+      "term": "内で",
       "count": 9
     },
     {
-      "term": "ルー",
-      "count": 8
+      "term": "きる",
+      "count": 9
     },
     {
-      "term": "commit",
-      "count": 8
+      "term": "とい",
+      "count": 9
     },
     {
-      "term": "キー",
-      "count": 7
+      "term": "の対",
+      "count": 9
     },
     {
-      "term": "漏洩",
-      "count": 7
+      "term": "アク",
+      "count": 9
     },
     {
-      "term": "洩対",
-      "count": 7
-    },
-    {
-      "term": "ェーズの",
-      "count": 7
-    },
-    {
-      "term": "シス",
-      "count": 7
+      "term": "権限",
+      "count": 9
     },
     {
       "term": "ーカ",
+      "count": 8
+    },
+    {
+      "term": "物を",
+      "count": 8
+    },
+    {
+      "term": "のs",
+      "count": 8
+    },
+    {
+      "term": "のメ",
+      "count": 8
+    },
+    {
+      "term": "中略",
+      "count": 8
+    },
+    {
+      "term": "指定",
+      "count": 8
+    },
+    {
+      "term": "ルで",
+      "count": 8
+    },
+    {
+      "term": "ト情",
       "count": 7
     },
     {
-      "term": "における",
+      "term": "プラット",
       "count": 7
     },
     {
-      "term": "での実行",
+      "term": "範囲",
       "count": 7
     },
     {
-      "term": "範囲の制",
+      "term": "るプ",
       "count": 7
     },
     {
-      "term": "rulesets",
+      "term": "の構",
       "count": 7
     },
     {
-      "term": "digest",
+      "term": "略す",
       "count": 7
     },
     {
-      "term": "type",
+      "term": "など",
       "count": 7
     },
     {
-      "term": "ット情報",
+      "term": "ュリ",
       "count": 6
     },
     {
-      "term": "開発",
+      "term": "テム",
       "count": 6
     },
     {
-      "term": "ティ",
+      "term": "主体",
       "count": 6
     },
     {
-      "term": "した",
+      "term": "要がある",
       "count": 6
     },
     {
-      "term": "スを",
+      "term": "以外",
       "count": 6
     },
     {
-      "term": "イダ",
+      "term": "る ",
       "count": 6
     },
     {
-      "term": "フ ",
+      "term": "とし",
       "count": 6
     },
     {
-      "term": "たが",
-      "count": 6
+      "term": "理脆",
+      "count": 5
     },
     {
-      "term": "策に",
-      "count": 6
+      "term": "イン特有",
+      "count": 5
     },
     {
-      "term": "どの",
-      "count": 6
-    },
-    {
-      "term": "tf",
-      "count": 6
-    },
-    {
-      "term": "steps",
-      "count": 6
-    },
-    {
-      "term": "ることが",
-      "count": 6
+      "term": "観点",
+      "count": 5
     }
   ],
   "meetings": [
