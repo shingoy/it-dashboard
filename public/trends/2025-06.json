@@ -2,95 +2,87 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "こと",
-      "count": 25
+      "term": "パイプラ",
+      "count": 20
     },
     {
-      "term": "イン",
-      "count": 22
+      "term": "トリ",
+      "count": 20
     },
     {
-      "term": "構成",
-      "count": 21
+      "term": "その",
+      "count": 18
     },
     {
-      "term": "パイ",
-      "count": 21
-    },
-    {
-      "term": "れる",
+      "term": "ース",
       "count": 17
     },
     {
-      "term": "必要",
+      "term": "ファ",
+      "count": 17
+    },
+    {
+      "term": "コー",
       "count": 15
     },
     {
-      "term": "よう",
+      "term": "信頼",
       "count": 15
     },
     {
-      "term": "頼性",
-      "count": 13
+      "term": "なる",
+      "count": 15
     },
     {
-      "term": "ドフ",
-      "count": 13
+      "term": "する",
+      "count": 14
     },
     {
       "term": "的に",
       "count": 13
     },
     {
-      "term": "担保",
+      "term": "場合",
+      "count": 13
+    },
+    {
+      "term": "aws",
       "count": 12
     },
     {
-      "term": "を取",
+      "term": "る必",
       "count": 12
     },
     {
-      "term": "の成",
+      "term": "とが",
+      "count": 12
+    },
+    {
+      "term": "依存物の",
       "count": 11
     },
     {
-      "term": "具体",
+      "term": "取得",
+      "count": 11
+    },
+    {
+      "term": "https",
+      "count": 11
+    },
+    {
+      "term": "提供",
       "count": 10
     },
     {
-      "term": "ン ",
+      "term": "の安",
       "count": 10
     },
     {
-      "term": "の信",
+      "term": "は ",
       "count": 10
     },
     {
-      "term": "環境",
-      "count": 10
-    },
-    {
-      "term": "とす",
-      "count": 9
-    },
-    {
-      "term": "って",
-      "count": 9
-    },
-    {
-      "term": "なお",
-      "count": 9
-    },
-    {
-      "term": "内で",
-      "count": 9
-    },
-    {
-      "term": "きる",
-      "count": 9
-    },
-    {
-      "term": "とい",
+      "term": "れて",
       "count": 9
     },
     {
@@ -98,79 +90,83 @@
       "count": 9
     },
     {
-      "term": "アク",
+      "term": "った",
       "count": 9
     },
     {
-      "term": "権限",
-      "count": 9
-    },
-    {
-      "term": "ーカ",
+      "term": "定内",
       "count": 8
     },
     {
-      "term": "物を",
+      "term": "に関",
       "count": 8
     },
     {
-      "term": "のs",
+      "term": "ント",
       "count": 8
     },
     {
-      "term": "のメ",
+      "term": "ック",
       "count": 8
     },
     {
-      "term": "中略",
+      "term": "定し",
       "count": 8
     },
     {
-      "term": "指定",
-      "count": 8
-    },
-    {
-      "term": "ルで",
-      "count": 8
-    },
-    {
-      "term": "ト情",
+      "term": "ロー",
       "count": 7
     },
     {
-      "term": "プラット",
+      "term": "フェーズ",
       "count": 7
     },
     {
-      "term": "範囲",
+      "term": "ド上",
       "count": 7
     },
     {
-      "term": "るプ",
+      "term": "の担",
       "count": 7
     },
     {
-      "term": "の構",
+      "term": "定義",
       "count": 7
     },
     {
-      "term": "略す",
+      "term": "name",
       "count": 7
     },
     {
-      "term": "など",
+      "term": "ド設",
       "count": 7
     },
     {
-      "term": "ュリ",
+      "term": "と同",
+      "count": 7
+    },
+    {
+      "term": "物の",
+      "count": 7
+    },
+    {
+      "term": "キュ",
       "count": 6
     },
     {
-      "term": "テム",
+      "term": "チの",
       "count": 6
     },
     {
-      "term": "主体",
+      "term": "した",
+      "count": 6
+    },
+    {
+      "term": "にも",
+      "count": 6
+    },
+    {
+      "term": "ンテナイ",
       "count": 6
     },
     {
@@ -178,28 +174,32 @@
       "count": 6
     },
     {
-      "term": "以外",
+      "term": "の連",
       "count": 6
     },
     {
-      "term": "る ",
+      "term": "完全",
       "count": 6
     },
     {
-      "term": "とし",
+      "term": "保で",
       "count": 6
     },
     {
-      "term": "理脆",
-      "count": 5
+      "term": "ビュ",
+      "count": 6
     },
     {
-      "term": "イン特有",
-      "count": 5
+      "term": "and",
+      "count": 6
     },
     {
-      "term": "観点",
-      "count": 5
+      "term": "output",
+      "count": 6
+    },
+    {
+      "term": "format",
+      "count": 6
     }
   ],
   "meetings": [
