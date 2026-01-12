@@ -2,159 +2,163 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "る ",
-      "count": 28
+      "term": "るこ",
+      "count": 24
     },
     {
-      "term": "して",
-      "count": 27
+      "term": "れる",
+      "count": 23
     },
     {
-      "term": "ジト",
+      "term": "ポジ",
       "count": 20
     },
     {
-      "term": "ロー",
-      "count": 19
+      "term": "チー",
+      "count": 18
+    },
+    {
+      "term": "ーム",
+      "count": 18
     },
     {
       "term": "リポジト",
       "count": 18
     },
     {
-      "term": "サー",
-      "count": 17
-    },
-    {
-      "term": "これ",
-      "count": 17
-    },
-    {
-      "term": "ーク",
-      "count": 15
-    },
-    {
-      "term": "なる",
-      "count": 14
+      "term": "によ",
+      "count": 16
     },
     {
       "term": "れた",
-      "count": 14
+      "count": 16
     },
     {
-      "term": "の成",
+      "term": "脆弱",
+      "count": 15
+    },
+    {
+      "term": "担保",
       "count": 13
     },
     {
-      "term": "ラン",
+      "term": "対策",
       "count": 12
     },
     {
-      "term": "ルを",
+      "term": "のメ",
       "count": 12
+    },
+    {
+      "term": "ティ",
+      "count": 11
+    },
+    {
+      "term": "はな",
+      "count": 11
+    },
+    {
+      "term": "の設",
+      "count": 11
     },
     {
       "term": "れら",
-      "count": 12
-    },
-    {
-      "term": "メー",
-      "count": 12
-    },
-    {
-      "term": "署名",
-      "count": 12
-    },
-    {
-      "term": "はc",
-      "count": 11
-    },
-    {
-      "term": "えら",
-      "count": 11
-    },
-    {
-      "term": "sbom",
       "count": 10
     },
     {
-      "term": "とす",
-      "count": 9
-    },
-    {
-      "term": "た ",
-      "count": 9
-    },
-    {
-      "term": "れて",
-      "count": 9
-    },
-    {
-      "term": "いっ",
-      "count": 9
-    },
-    {
-      "term": "成さ",
-      "count": 9
-    },
-    {
-      "term": "バー",
-      "count": 9
-    },
-    {
-      "term": "リス",
-      "count": 8
-    },
-    {
-      "term": "メタ",
-      "count": 8
-    },
-    {
-      "term": "資産",
-      "count": 7
-    },
-    {
-      "term": "いて",
-      "count": 7
-    },
-    {
-      "term": "ジを",
-      "count": 7
-    },
-    {
-      "term": "トを",
-      "count": 7
-    },
-    {
-      "term": "はg",
-      "count": 7
-    },
-    {
       "term": "build",
+      "count": 10
+    },
+    {
+      "term": "含む",
+      "count": 9
+    },
+    {
+      "term": "バリ",
+      "count": 9
+    },
+    {
+      "term": "and",
+      "count": 9
+    },
+    {
+      "term": "uses",
+      "count": 9
+    },
+    {
+      "term": "トリ",
+      "count": 8
+    },
+    {
+      "term": "イン",
+      "count": 8
+    },
+    {
+      "term": "の構",
+      "count": 8
+    },
+    {
+      "term": "ング",
+      "count": 8
+    },
+    {
+      "term": "ト情",
       "count": 7
     },
     {
-      "term": "ビス",
+      "term": "ンb",
       "count": 7
     },
     {
-      "term": "ド設",
+      "term": "および",
       "count": 7
     },
     {
-      "term": "フォ",
+      "term": "図 ",
+      "count": 7
+    },
+    {
+      "term": "要と",
+      "count": 7
+    },
+    {
+      "term": "共通",
       "count": 6
     },
     {
-      "term": "codebuild",
+      "term": "及び",
       "count": 6
     },
     {
-      "term": "対す",
+      "term": "ン ",
       "count": 6
     },
     {
-      "term": "の利",
+      "term": "信頼性の",
+      "count": 6
+    },
+    {
+      "term": "ージ",
+      "count": 6
+    },
+    {
+      "term": "の保護",
+      "count": 6
+    },
+    {
+      "term": "を ",
+      "count": 6
+    },
+    {
+      "term": "たt",
+      "count": 6
+    },
+    {
+      "term": "うこ",
+      "count": 6
+    },
+    {
+      "term": "ついては",
       "count": 6
     },
     {
@@ -162,43 +166,39 @@
       "count": 6
     },
     {
-      "term": "ても",
+      "term": "される",
       "count": 6
     },
     {
-      "term": "シナ",
+      "term": "同様",
+      "count": 6
+    },
+    {
+      "term": "with",
+      "count": 6
+    },
+    {
+      "term": "cat",
+      "count": 6
+    },
+    {
+      "term": "定の",
+      "count": 6
+    },
+    {
+      "term": "ード",
       "count": 5
     },
     {
-      "term": "リオ",
+      "term": "プロバイ",
       "count": 5
     },
     {
-      "term": "の漏",
+      "term": "フト",
       "count": 5
     },
     {
-      "term": "信頼でき",
-      "count": 5
-    },
-    {
-      "term": "るし",
-      "count": 5
-    },
-    {
-      "term": "がっ",
-      "count": 5
-    },
-    {
-      "term": "てc",
-      "count": 5
-    },
-    {
-      "term": "ド環",
-      "count": 5
-    },
-    {
-      "term": "り ",
+      "term": "なけ",
       "count": 5
     }
   ],
