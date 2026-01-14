@@ -2,127 +2,127 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 25
-    },
-    {
-      "term": "構成",
-      "count": 21
+      "term": "され",
+      "count": 24
     },
     {
       "term": "でき",
-      "count": 21
+      "count": 23
     },
     {
-      "term": "よび",
-      "count": 15
+      "term": "イル",
+      "count": 20
     },
     {
-      "term": "弱性",
-      "count": 15
+      "term": "によ",
+      "count": 16
+    },
+    {
+      "term": "する",
+      "count": 16
     },
     {
       "term": "から",
       "count": 15
     },
     {
-      "term": "ナイ",
+      "term": "ある",
       "count": 15
     },
     {
-      "term": "があ",
+      "term": "メー",
+      "count": 15
+    },
+    {
+      "term": "ータ",
+      "count": 15
+    },
+    {
+      "term": "必要",
+      "count": 15
+    },
+    {
+      "term": "フォ",
       "count": 14
     },
     {
-      "term": "頼性",
+      "term": "に ",
+      "count": 14
+    },
+    {
+      "term": "actions",
+      "count": 14
+    },
+    {
+      "term": "よる",
       "count": 13
     },
     {
-      "term": "レッ",
+      "term": "この",
+      "count": 13
+    },
+    {
+      "term": "情報",
       "count": 12
     },
     {
-      "term": "ソー",
+      "term": "対策",
       "count": 12
     },
     {
-      "term": "ジト",
-      "count": 12
-    },
-    {
-      "term": "安全",
-      "count": 12
-    },
-    {
-      "term": "ファイル",
-      "count": 12
-    },
-    {
-      "term": "ーの",
-      "count": 12
-    },
-    {
-      "term": "のメ",
-      "count": 12
-    },
-    {
-      "term": "ンを",
+      "term": "成果物の",
       "count": 11
     },
     {
-      "term": "護 ",
+      "term": "の安",
       "count": 11
     },
     {
-      "term": "クを",
-      "count": 11
-    },
-    {
-      "term": "を用",
+      "term": "バー",
       "count": 10
     },
     {
-      "term": "いた",
+      "term": "ecr",
       "count": 10
     },
     {
-      "term": "され",
-      "count": 10
-    },
-    {
-      "term": "steps",
-      "count": 10
-    },
-    {
-      "term": "に ",
+      "term": "含む",
       "count": 9
     },
     {
-      "term": "フト",
+      "term": "が ",
       "count": 9
     },
     {
-      "term": "trivy",
+      "term": "とい",
       "count": 9
     },
     {
-      "term": "主体",
+      "term": "テム",
       "count": 8
     },
     {
-      "term": "の取",
+      "term": "確保",
       "count": 8
     },
     {
-      "term": "トウ",
+      "term": "ビルド上",
       "count": 8
     },
     {
-      "term": "ない",
+      "term": "いう",
       "count": 8
     },
     {
-      "term": "によ",
+      "term": "組み",
+      "count": 8
+    },
+    {
+      "term": "報の",
+      "count": 7
+    },
+    {
+      "term": "イナ",
       "count": 7
     },
     {
@@ -130,75 +130,75 @@
       "count": 7
     },
     {
-      "term": "イメージ",
+      "term": "スの",
       "count": 7
     },
     {
-      "term": "file",
+      "term": "対し",
       "count": 7
-    },
-    {
-      "term": "action",
-      "count": 7
-    },
-    {
-      "term": "を示",
-      "count": 6
-    },
-    {
-      "term": "を ",
-      "count": 6
-    },
-    {
-      "term": "ロバ",
-      "count": 6
-    },
-    {
-      "term": "ついては",
-      "count": 6
-    },
-    {
-      "term": "amazon",
-      "count": 6
-    },
-    {
-      "term": "ーテ",
-      "count": 6
-    },
-    {
-      "term": "次に",
-      "count": 6
-    },
-    {
-      "term": "secrets",
-      "count": 6
     },
     {
       "term": "はg",
+      "count": 7
+    },
+    {
+      "term": "ルを",
+      "count": 7
+    },
+    {
+      "term": "name",
+      "count": 7
+    },
+    {
+      "term": "詳細",
       "count": 6
     },
     {
-      "term": "review",
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "どの",
+      "term": "の漏洩対",
       "count": 6
     },
     {
-      "term": "rulesets",
+      "term": "ソー",
       "count": 6
     },
     {
-      "term": "合は",
+      "term": "ーズ",
       "count": 6
     },
     {
-      "term": "象と",
+      "term": "イプ",
       "count": 6
     },
     {
-      "term": "with",
+      "term": "ジと",
+      "count": 6
+    },
+    {
+      "term": "アカ",
+      "count": 6
+    },
+    {
+      "term": "provenance",
+      "count": 6
+    },
+    {
+      "term": "いた",
+      "count": 6
+    },
+    {
+      "term": "ジの",
+      "count": 6
+    },
+    {
+      "term": "の利",
+      "count": 6
+    },
+    {
+      "term": "の変",
       "count": 6
     }
   ],
