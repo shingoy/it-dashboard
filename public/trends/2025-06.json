@@ -2,151 +2,131 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ため",
-      "count": 22
-    },
-    {
-      "term": "利用",
-      "count": 21
-    },
-    {
-      "term": "構成",
+      "term": "いる",
       "count": 20
     },
     {
-      "term": "ール",
-      "count": 20
+      "term": "ォー",
+      "count": 16
     },
     {
-      "term": "コー",
+      "term": "ポジ",
+      "count": 16
+    },
+    {
+      "term": "とし",
+      "count": 16
+    },
+    {
+      "term": "ムチ",
       "count": 15
     },
     {
-      "term": "ファ",
+      "term": "ナイ",
       "count": 15
     },
     {
-      "term": "とな",
-      "count": 15
-    },
-    {
-      "term": "テナ",
-      "count": 15
-    },
-    {
-      "term": "メタ",
-      "count": 15
-    },
-    {
-      "term": "から",
+      "term": "イメ",
       "count": 14
-    },
-    {
-      "term": "頼性",
-      "count": 13
-    },
-    {
-      "term": "の成",
-      "count": 13
-    },
-    {
-      "term": "とで",
-      "count": 13
-    },
-    {
-      "term": "署名",
-      "count": 13
     },
     {
       "term": "とが",
       "count": 13
     },
     {
-      "term": "クレ",
+      "term": "ラン",
       "count": 12
     },
     {
-      "term": "よる",
+      "term": "レッ",
       "count": 12
     },
     {
-      "term": "イル",
-      "count": 12
-    },
-    {
-      "term": "保護",
-      "count": 12
-    },
-    {
-      "term": "ステ",
+      "term": "のc",
       "count": 11
     },
     {
-      "term": "フォ",
+      "term": "とす",
       "count": 11
     },
     {
-      "term": "ecr",
+      "term": "ティ",
       "count": 11
     },
     {
-      "term": "の信",
+      "term": "上で",
+      "count": 11
+    },
+    {
+      "term": "状態",
+      "count": 11
+    },
+    {
+      "term": "れる",
+      "count": 11
+    },
+    {
+      "term": "クを",
+      "count": 11
+    },
+    {
+      "term": "必要",
+      "count": 11
+    },
+    {
+      "term": "ンチ",
       "count": 10
     },
     {
-      "term": "ー ",
+      "term": "ubuntu",
       "count": 10
     },
     {
-      "term": "環境",
-      "count": 10
-    },
-    {
-      "term": "ルの",
-      "count": 10
-    },
-    {
-      "term": "のリ",
+      "term": "含む",
       "count": 9
     },
     {
-      "term": "れて",
+      "term": "る\n",
       "count": 9
     },
     {
-      "term": "いっ",
+      "term": "yml",
       "count": 9
     },
     {
-      "term": "図 ",
+      "term": "リス",
       "count": 8
     },
     {
-      "term": "ャン",
+      "term": "るそ",
       "count": 8
     },
     {
-      "term": "る具",
+      "term": "作成",
       "count": 8
     },
     {
-      "term": "リテ",
+      "term": "commit",
+      "count": 8
+    },
+    {
+      "term": "資産",
       "count": 7
     },
     {
-      "term": "あり",
+      "term": "ウェ",
       "count": 7
     },
     {
-      "term": "ダー",
+      "term": "略す",
       "count": 7
     },
     {
-      "term": "すべ",
+      "term": "いこ",
       "count": 7
     },
     {
-      "term": "のア",
+      "term": "クセ",
       "count": 7
     },
     {
@@ -154,51 +134,71 @@
       "count": 7
     },
     {
-      "term": "ci",
-      "count": 6
-    },
-    {
-      "term": "ド成",
-      "count": 6
-    },
-    {
-      "term": "る主",
-      "count": 6
-    },
-    {
       "term": "ウン",
       "count": 6
     },
     {
-      "term": "ンバ",
+      "term": "アカ",
       "count": 6
     },
     {
-      "term": "設定",
+      "term": "クト",
       "count": 6
     },
     {
-      "term": "要 ",
+      "term": "image",
+      "count": 6
+    },
+    {
+      "term": "洩対",
       "count": 5
     },
     {
-      "term": "理 ",
+      "term": "ロー",
       "count": 5
     },
     {
-      "term": "理脆",
+      "term": "ード",
       "count": 5
     },
     {
-      "term": "シナ",
+      "term": "する",
       "count": 5
     },
     {
-      "term": "めに",
+      "term": "を想",
       "count": 5
     },
     {
-      "term": "のソ",
+      "term": "に保",
+      "count": 5
+    },
+    {
+      "term": "供す",
+      "count": 5
+    },
+    {
+      "term": "上の",
+      "count": 5
+    },
+    {
+      "term": "承認",
+      "count": 5
+    },
+    {
+      "term": "branch",
+      "count": 5
+    },
+    {
+      "term": "定を",
+      "count": 5
+    },
+    {
+      "term": "jobs",
+      "count": 5
+    },
+    {
+      "term": "registry",
       "count": 5
     }
   ],
