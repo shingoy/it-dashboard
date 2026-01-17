@@ -2,119 +2,59 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "開発",
+      "term": "活用",
       "count": 3
     },
     {
-      "term": "省庁",
+      "term": "自ら",
       "count": 3
     },
     {
-      "term": "マッ",
+      "term": "状況",
       "count": 3
     },
     {
-      "term": "用方",
+      "term": "化 ",
+      "count": 3
+    },
+    {
+      "term": "制対",
+      "count": 3
+    },
+    {
+      "term": "団体会員",
       "count": 2
     },
     {
-      "term": "2023",
+      "term": "期待を把",
       "count": 2
     },
     {
-      "term": "ック",
+      "term": "ット",
       "count": 2
     },
     {
-      "term": "別呼",
+      "term": "かけや",
       "count": 2
     },
     {
-      "term": "アム",
+      "term": "につい",
       "count": 2
     },
     {
-      "term": "かけ",
+      "term": "プや",
       "count": 2
     },
     {
-      "term": "にお",
+      "term": "の提",
       "count": 2
     },
     {
-      "term": "ニテ",
+      "term": "ポジ",
       "count": 2
     },
     {
-      "term": "周知",
-      "count": 2
-    },
-    {
-      "term": "報か",
-      "count": 2
-    },
-    {
-      "term": "動等",
-      "count": 2
-    },
-    {
-      "term": "おけ",
-      "count": 2
-    },
-    {
-      "term": "シン",
-      "count": 2
-    },
-    {
-      "term": "開催",
-      "count": 2
-    },
-    {
-      "term": "証事",
-      "count": 2
-    },
-    {
-      "term": "技術検証",
-      "count": 2
-    },
-    {
-      "term": "報告会",
-      "count": 2
-    },
-    {
-      "term": "ジウ",
-      "count": 2
-    },
-    {
-      "term": "を広",
-      "count": 2
-    },
-    {
-      "term": "装イ",
-      "count": 2
-    },
-    {
-      "term": "ピッ",
-      "count": 2
-    },
-    {
-      "term": "告会",
-      "count": 2
-    },
-    {
-      "term": "ン ",
-      "count": 2
-    },
-    {
-      "term": "画へ",
-      "count": 2
-    },
-    {
-      "term": "ログ",
-      "count": 2
-    },
-    {
-      "term": "制見",
+      "term": "ウム",
       "count": 2
     },
     {
@@ -122,27 +62,67 @@
       "count": 2
     },
     {
-      "term": "庁 ",
+      "term": "まえた規",
+      "count": 2
+    },
+    {
+      "term": "用した規",
+      "count": 2
+    },
+    {
+      "term": "報告",
+      "count": 2
+    },
+    {
+      "term": "感 ",
+      "count": 2
+    },
+    {
+      "term": "検証",
+      "count": 2
+    },
+    {
+      "term": "構築",
+      "count": 2
+    },
+    {
+      "term": "アド",
+      "count": 2
+    },
+    {
+      "term": "証成",
+      "count": 2
+    },
+    {
+      "term": "ログ",
+      "count": 2
+    },
+    {
+      "term": "成果",
+      "count": 2
+    },
+    {
+      "term": "術保",
+      "count": 2
+    },
+    {
+      "term": "告会",
+      "count": 2
+    },
+    {
+      "term": "果を",
+      "count": 2
+    },
+    {
+      "term": "呼 ",
       "count": 1
     },
     {
-      "term": "startup",
+      "term": "待す",
       "count": 1
     },
     {
-      "term": "者間",
-      "count": 1
-    },
-    {
-      "term": "ックする",
-      "count": 1
-    },
-    {
-      "term": "案提",
-      "count": 1
-    },
-    {
-      "term": "加え",
+      "term": "かに",
       "count": 1
     },
     {
@@ -150,55 +130,75 @@
       "count": 1
     },
     {
-      "term": "ーマップ",
+      "term": "づけ",
       "count": 1
     },
     {
-      "term": "共有の場",
+      "term": "上を",
       "count": 1
     },
     {
-      "term": "有し",
+      "term": "法や",
       "count": 1
     },
     {
-      "term": "ティ関係",
+      "term": "進捗",
       "count": 1
     },
     {
-      "term": "題社",
+      "term": "ーキ",
       "count": 1
     },
     {
-      "term": "サポ",
+      "term": "組方",
       "count": 1
     },
     {
-      "term": "の位",
+      "term": "を高める",
       "count": 1
     },
     {
-      "term": "化す",
+      "term": "出タ",
       "count": 1
     },
     {
-      "term": "つつ情報",
+      "term": "模資",
       "count": 1
     },
     {
-      "term": "ジー効果",
+      "term": "一般",
       "count": 1
     },
     {
-      "term": "策と",
+      "term": "施策",
       "count": 1
     },
     {
-      "term": "概要",
+      "term": "トア",
       "count": 1
     },
     {
-      "term": "クノロジ",
+      "term": "携を",
+      "count": 1
+    },
+    {
+      "term": "startup",
+      "count": 1
+    },
+    {
+      "term": "位置",
+      "count": 1
+    },
+    {
+      "term": "法規",
+      "count": 1
+    },
+    {
+      "term": "取組",
+      "count": 1
+    },
+    {
+      "term": "自治",
       "count": 1
     }
   ],
