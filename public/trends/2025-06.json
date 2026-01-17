@@ -2,183 +2,135 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "るこ",
-      "count": 24
-    },
-    {
-      "term": "ポジ",
+      "term": "管理",
       "count": 20
     },
     {
-      "term": "ット",
-      "count": 20
-    },
-    {
-      "term": "actions",
-      "count": 19
-    },
-    {
-      "term": "トリ",
+      "term": "ァイ",
       "count": 18
     },
     {
-      "term": "ォー",
+      "term": "リポジト",
+      "count": 18
+    },
+    {
+      "term": "れた",
       "count": 16
     },
     {
-      "term": "ムチ",
+      "term": "ービ",
       "count": 15
-    },
-    {
-      "term": "内容",
-      "count": 14
-    },
-    {
-      "term": "する",
-      "count": 14
-    },
-    {
-      "term": "られ",
-      "count": 14
-    },
-    {
-      "term": "ナイ",
-      "count": 14
     },
     {
       "term": "この",
       "count": 14
     },
     {
-      "term": "ソースコ",
+      "term": "頼性",
       "count": 13
     },
     {
-      "term": "保護",
+      "term": "スチ",
       "count": 13
     },
     {
-      "term": "サービス",
+      "term": "とで",
+      "count": 13
+    },
+    {
+      "term": "クレ",
       "count": 12
     },
     {
-      "term": "こで",
-      "count": 12
+      "term": "ステ",
+      "count": 11
+    },
+    {
+      "term": "terraform",
+      "count": 11
+    },
+    {
+      "term": "えら",
+      "count": 11
+    },
+    {
+      "term": "およ",
+      "count": 10
+    },
+    {
+      "term": "スキ",
+      "count": 10
+    },
+    {
+      "term": "の設",
+      "count": 10
+    },
+    {
+      "term": "push",
+      "count": 10
+    },
+    {
+      "term": "jobs",
+      "count": 10
+    },
+    {
+      "term": "加え",
+      "count": 10
     },
     {
       "term": "トフ",
-      "count": 11
-    },
-    {
-      "term": "依存",
-      "count": 11
-    },
-    {
-      "term": "また",
-      "count": 11
-    },
-    {
-      "term": "タデ",
-      "count": 11
-    },
-    {
-      "term": "護 ",
-      "count": 10
-    },
-    {
-      "term": "ている",
-      "count": 10
-    },
-    {
-      "term": "検証",
-      "count": 10
-    },
-    {
-      "term": "ここ",
-      "count": 10
-    },
-    {
-      "term": "build",
-      "count": 10
-    },
-    {
-      "term": "リバ",
       "count": 9
     },
     {
-      "term": "ウェ",
+      "term": "れて",
       "count": 9
     },
     {
-      "term": "github",
+      "term": "ーを",
       "count": 9
     },
     {
-      "term": "action",
+      "term": "の対",
       "count": 9
     },
     {
-      "term": "定内",
+      "term": "tf",
+      "count": 9
+    },
+    {
+      "term": "らの",
       "count": 8
     },
     {
-      "term": "ドフ",
-      "count": 8
-    },
-    {
-      "term": "メタデー",
-      "count": 8
-    },
-    {
-      "term": "の管",
-      "count": 8
-    },
-    {
-      "term": "漏洩",
+      "term": "資産",
       "count": 7
     },
     {
-      "term": "ナリ",
+      "term": "内の",
       "count": 7
     },
     {
-      "term": "体の",
+      "term": "あり",
       "count": 7
     },
     {
-      "term": "の安",
+      "term": "図 ",
       "count": 7
     },
     {
-      "term": "もの",
+      "term": "と同",
       "count": 7
     },
     {
-      "term": "トフォー",
-      "count": 7
-    },
-    {
-      "term": "とは",
-      "count": 7
-    },
-    {
-      "term": "latest",
-      "count": 7
-    },
-    {
-      "term": "運用",
+      "term": "キュ",
       "count": 6
     },
     {
-      "term": "ットの保",
+      "term": "レッ",
       "count": 6
     },
     {
-      "term": "を示",
-      "count": 6
-    },
-    {
-      "term": "ース",
+      "term": "ズの",
       "count": 6
     },
     {
@@ -186,20 +138,68 @@
       "count": 6
     },
     {
-      "term": "した",
+      "term": "の保護",
       "count": 6
     },
     {
-      "term": "ルと",
+      "term": "信頼性の",
       "count": 6
     },
     {
-      "term": "得し",
+      "term": "プロバイ",
       "count": 6
     },
     {
-      "term": "要がある",
+      "term": "ジと",
       "count": 6
+    },
+    {
+      "term": "ここでは",
+      "count": 6
+    },
+    {
+      "term": "策に",
+      "count": 6
+    },
+    {
+      "term": "の事",
+      "count": 6
+    },
+    {
+      "term": "ビュ",
+      "count": 6
+    },
+    {
+      "term": "される",
+      "count": 6
+    },
+    {
+      "term": "rulesets",
+      "count": 6
+    },
+    {
+      "term": "検出",
+      "count": 6
+    },
+    {
+      "term": "資産管理",
+      "count": 5
+    },
+    {
+      "term": "理 ",
+      "count": 5
+    },
+    {
+      "term": "の取",
+      "count": 5
+    },
+    {
+      "term": "の安",
+      "count": 5
+    },
+    {
+      "term": "実現",
+      "count": 5
     }
   ],
   "meetings": [
