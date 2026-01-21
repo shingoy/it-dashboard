@@ -2,15 +2,23 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "aws",
+      "term": "こと",
+      "count": 24
+    },
+    {
+      "term": "きる",
+      "count": 23
+    },
+    {
+      "term": "ため",
+      "count": 22
+    },
+    {
+      "term": "果物",
       "count": 19
     },
     {
-      "term": "パイ",
-      "count": 18
-    },
-    {
-      "term": "よび",
+      "term": "的な",
       "count": 15
     },
     {
@@ -18,143 +26,107 @@
       "count": 15
     },
     {
-      "term": "とな",
+      "term": "のた",
       "count": 15
-    },
-    {
-      "term": "よう",
-      "count": 15
-    },
-    {
-      "term": "いて",
-      "count": 14
-    },
-    {
-      "term": "この",
-      "count": 14
-    },
-    {
-      "term": "中略",
-      "count": 14
     },
     {
       "term": "内容",
-      "count": 13
+      "count": 14
     },
     {
-      "term": "の成",
-      "count": 13
-    },
-    {
-      "term": "的に",
+      "term": "クレ",
       "count": 12
     },
     {
-      "term": "ファイル",
+      "term": "トフ",
       "count": 12
     },
     {
-      "term": "って",
+      "term": "ビル",
+      "count": 12
+    },
+    {
+      "term": "のc",
       "count": 11
     },
     {
-      "term": "考え",
+      "term": "環境",
       "count": 11
     },
     {
-      "term": "ー ",
+      "term": "必要",
+      "count": 11
+    },
+    {
+      "term": "のメ",
+      "count": 11
+    },
+    {
+      "term": "スキ",
       "count": 10
     },
     {
-      "term": "コンテナ",
+      "term": "sbom",
       "count": 10
     },
     {
-      "term": "る\n",
+      "term": "build",
       "count": 10
     },
     {
-      "term": "いた",
-      "count": 10
-    },
-    {
-      "term": "メン",
+      "term": "チェ",
       "count": 9
     },
     {
-      "term": "リバ",
+      "term": "され",
       "count": 9
     },
     {
-      "term": "の対",
-      "count": 9
-    },
-    {
-      "term": "フォーム",
+      "term": "範囲の制",
       "count": 8
     },
     {
-      "term": "囲の",
+      "term": "リソ",
       "count": 8
     },
     {
-      "term": "が考",
+      "term": "るそ",
       "count": 8
     },
     {
-      "term": "強制",
+      "term": "ャン",
       "count": 8
     },
     {
-      "term": "すべ",
+      "term": "いう",
+      "count": 8
+    },
+    {
+      "term": "略 ",
+      "count": 8
+    },
+    {
+      "term": "パイプラ",
       "count": 7
     },
     {
-      "term": "での実行",
+      "term": "自動",
       "count": 7
     },
     {
-      "term": "れば",
+      "term": "こで",
       "count": 7
     },
     {
-      "term": "にな",
+      "term": "仕組",
       "count": 7
     },
     {
-      "term": "ル ",
+      "term": "混入",
       "count": 7
     },
     {
-      "term": "rulesets",
-      "count": 7
-    },
-    {
-      "term": "要と",
-      "count": 7
-    },
-    {
-      "term": "と同",
-      "count": 7
-    },
-    {
-      "term": "に加",
-      "count": 7
-    },
-    {
-      "term": "理シ",
-      "count": 6
-    },
-    {
-      "term": "成 ",
-      "count": 6
-    },
-    {
-      "term": "ット",
-      "count": 6
-    },
-    {
-      "term": "の保護",
+      "term": "めに",
       "count": 6
     },
     {
@@ -162,11 +134,27 @@
       "count": 6
     },
     {
-      "term": "ジと",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "ると",
+      "term": "の保護",
+      "count": 6
+    },
+    {
+      "term": "ド成",
+      "count": 6
+    },
+    {
+      "term": "version",
+      "count": 6
+    },
+    {
+      "term": "イメージ",
+      "count": 6
+    },
+    {
+      "term": "方法",
       "count": 6
     },
     {
@@ -174,31 +162,43 @@
       "count": 6
     },
     {
-      "term": "amazon",
-      "count": 6
-    },
-    {
-      "term": "and",
-      "count": 6
-    },
-    {
-      "term": "ることが",
-      "count": 6
-    },
-    {
       "term": "同様",
       "count": 6
     },
     {
-      "term": "定の",
-      "count": 6
-    },
-    {
-      "term": "infrastructure",
+      "term": "弱性",
       "count": 5
     },
     {
-      "term": "の証",
+      "term": "活用",
+      "count": 5
+    },
+    {
+      "term": "main",
+      "count": 5
+    },
+    {
+      "term": "保管",
+      "count": 5
+    },
+    {
+      "term": "を必",
+      "count": 5
+    },
+    {
+      "term": "rule",
+      "count": 5
+    },
+    {
+      "term": "registry",
+      "count": 5
+    },
+    {
+      "term": "txt",
+      "count": 5
+    },
+    {
+      "term": "テナ",
       "count": 5
     }
   ],
