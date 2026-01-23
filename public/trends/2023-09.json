@@ -2,11 +2,31 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "開発",
+      "term": "イメ",
       "count": 3
     },
     {
-      "term": "討 ",
+      "term": "実装",
+      "count": 3
+    },
+    {
+      "term": "の見",
+      "count": 3
+    },
+    {
+      "term": "に ",
+      "count": 3
+    },
+    {
+      "term": "への",
+      "count": 3
+    },
+    {
+      "term": "直し",
+      "count": 3
+    },
+    {
+      "term": "ン ",
       "count": 3
     },
     {
@@ -14,19 +34,19 @@
       "count": 3
     },
     {
-      "term": "ジーマッ",
+      "term": "有機",
       "count": 3
     },
     {
-      "term": "した",
-      "count": 3
+      "term": "報か",
+      "count": 2
     },
     {
-      "term": "を活",
-      "count": 3
+      "term": "バッ",
+      "count": 2
     },
     {
-      "term": "する",
+      "term": "ソーシア",
       "count": 2
     },
     {
@@ -34,39 +54,11 @@
       "count": 2
     },
     {
-      "term": "プカ",
+      "term": "知 ",
       "count": 2
     },
     {
-      "term": "的利",
-      "count": 2
-    },
-    {
-      "term": "を検",
-      "count": 2
-    },
-    {
-      "term": "技術保有",
-      "count": 2
-    },
-    {
-      "term": "から",
-      "count": 2
-    },
-    {
-      "term": "規制対象",
-      "count": 2
-    },
-    {
-      "term": "か ",
-      "count": 2
-    },
-    {
-      "term": "自らへの",
-      "count": 2
-    },
-    {
-      "term": "技術カタ",
+      "term": "る ",
       "count": 2
     },
     {
@@ -74,43 +66,19 @@
       "count": 2
     },
     {
-      "term": "結果",
+      "term": "する",
       "count": 2
     },
     {
-      "term": "グに",
+      "term": "提供",
       "count": 2
     },
     {
-      "term": "把握",
+      "term": "ベン",
       "count": 2
     },
     {
-      "term": "ジウ",
-      "count": 2
-    },
-    {
-      "term": "や連",
-      "count": 2
-    },
-    {
-      "term": "スや",
-      "count": 2
-    },
-    {
-      "term": "まえ",
-      "count": 2
-    },
-    {
-      "term": "イメージ",
-      "count": 2
-    },
-    {
-      "term": "を通じた",
-      "count": 2
-    },
-    {
-      "term": "構築",
+      "term": "新た",
       "count": 2
     },
     {
@@ -118,55 +86,79 @@
       "count": 2
     },
     {
-      "term": "イス",
+      "term": "術開発の",
       "count": 2
     },
     {
-      "term": "の目",
+      "term": "術検",
+      "count": 2
+    },
+    {
+      "term": "トの",
+      "count": 2
+    },
+    {
+      "term": "を踏",
+      "count": 2
+    },
+    {
+      "term": "ウム",
+      "count": 2
+    },
+    {
+      "term": "の具体化",
+      "count": 2
+    },
+    {
+      "term": "技術検証",
+      "count": 2
+    },
+    {
+      "term": "支援",
+      "count": 2
+    },
+    {
+      "term": "広く発信",
+      "count": 2
+    },
+    {
+      "term": "じた",
+      "count": 2
+    },
+    {
+      "term": "業の",
+      "count": 2
+    },
+    {
+      "term": "他省庁等",
+      "count": 2
+    },
+    {
+      "term": "情報",
+      "count": 2
+    },
+    {
+      "term": "関に",
       "count": 1
     },
     {
-      "term": "ォー",
+      "term": "機関が存",
       "count": 1
     },
     {
-      "term": "進す",
+      "term": "の参加呼",
       "count": 1
     },
     {
-      "term": "効果",
+      "term": "力の",
       "count": 1
     },
     {
-      "term": "体的",
+      "term": "に活",
       "count": 1
     },
     {
-      "term": "直しに伴",
-      "count": 1
-    },
-    {
-      "term": "ムに",
-      "count": 1
-    },
-    {
-      "term": "省庁等に",
-      "count": 1
-    },
-    {
-      "term": "よう",
-      "count": 1
-    },
-    {
-      "term": "存在",
-      "count": 1
-    },
-    {
-      "term": "術情",
-      "count": 1
-    },
-    {
-      "term": "術知",
+      "term": "般社",
       "count": 1
     },
     {
@@ -174,31 +166,39 @@
       "count": 1
     },
     {
-      "term": "スタート",
+      "term": "ュール",
       "count": 1
     },
     {
-      "term": "用可",
+      "term": "的に",
       "count": 1
     },
     {
-      "term": "新市",
+      "term": "策と",
       "count": 1
     },
     {
-      "term": "の利活用",
+      "term": "シアム",
       "count": 1
     },
     {
-      "term": "の提案",
+      "term": "どの",
       "count": 1
     },
     {
-      "term": "サポ",
+      "term": "ース",
       "count": 1
     },
     {
-      "term": "関 ",
+      "term": "検討等を",
+      "count": 1
+    },
+    {
+      "term": "的に共有",
+      "count": 1
+    },
+    {
+      "term": "社会実装",
       "count": 1
     }
   ],
