@@ -2,131 +2,99 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "され",
-      "count": 26
+      "term": "パイ",
+      "count": 21
     },
     {
-      "term": "ロー",
-      "count": 19
+      "term": "ジト",
+      "count": 20
     },
     {
-      "term": "ルド",
-      "count": 19
-    },
-    {
-      "term": "サー",
+      "term": "ース",
       "count": 17
     },
     {
-      "term": "ない",
-      "count": 17
+      "term": "ォー",
+      "count": 16
     },
     {
-      "term": "ルを",
-      "count": 14
+      "term": "から",
+      "count": 15
     },
     {
-      "term": "workflows",
-      "count": 14
+      "term": "とな",
+      "count": 15
     },
     {
-      "term": "とで",
-      "count": 13
+      "term": "よう",
+      "count": 15
     },
     {
-      "term": "デー",
-      "count": 13
-    },
-    {
-      "term": "場合",
-      "count": 13
-    },
-    {
-      "term": "ント",
+      "term": "対策",
       "count": 12
     },
     {
-      "term": "存物",
-      "count": 11
+      "term": "護 ",
+      "count": 12
+    },
+    {
+      "term": "おけ",
+      "count": 12
+    },
+    {
+      "term": "的な",
+      "count": 12
     },
     {
       "term": "環境",
       "count": 11
     },
     {
-      "term": "えら",
-      "count": 11
-    },
-    {
-      "term": "の設",
-      "count": 11
-    },
-    {
-      "term": "定し",
-      "count": 10
-    },
-    {
-      "term": "イメージ",
-      "count": 10
-    },
-    {
       "term": "を取",
+      "count": 11
+    },
+    {
+      "term": "ecr",
+      "count": 11
+    },
+    {
+      "term": "ない",
       "count": 10
     },
     {
-      "term": "ここ",
+      "term": "build",
       "count": 10
     },
     {
-      "term": "jobs",
-      "count": 10
-    },
-    {
-      "term": "ビルドフ",
+      "term": "バリ",
       "count": 9
     },
     {
-      "term": "情報",
+      "term": "本書",
       "count": 9
-    },
-    {
-      "term": "フト",
-      "count": 9
-    },
-    {
-      "term": "ナイ",
-      "count": 9
-    },
-    {
-      "term": "では",
-      "count": 9
-    },
-    {
-      "term": "及び",
-      "count": 8
-    },
-    {
-      "term": "って",
-      "count": 8
-    },
-    {
-      "term": "ャン",
-      "count": 8
     },
     {
       "term": "の ",
+      "count": 9
+    },
+    {
+      "term": "イメージ",
+      "count": 9
+    },
+    {
+      "term": "on",
+      "count": 9
+    },
+    {
+      "term": "リソ",
       "count": 8
     },
     {
-      "term": "クを",
+      "term": "る\n",
       "count": 8
     },
     {
-      "term": "るた",
-      "count": 8
-    },
-    {
-      "term": "ルで",
+      "term": "るこ",
       "count": 8
     },
     {
@@ -134,71 +102,103 @@
       "count": 7
     },
     {
-      "term": "関す",
+      "term": "れば",
       "count": 7
     },
     {
-      "term": "ェーズの",
+      "term": "plan",
       "count": 7
     },
     {
-      "term": "ムチ",
+      "term": "はg",
       "count": 7
     },
     {
-      "term": "を確",
+      "term": "図 ",
       "count": 7
     },
     {
-      "term": "の実",
+      "term": "要と",
       "count": 7
     },
     {
-      "term": "ート",
+      "term": "クレ",
       "count": 6
     },
     {
-      "term": "成 ",
+      "term": "ロバ",
       "count": 6
     },
     {
-      "term": "信頼性の",
+      "term": "はa",
       "count": 6
+    },
+    {
+      "term": "提供",
+      "count": 6
+    },
+    {
+      "term": "考えられ",
+      "count": 6
+    },
+    {
+      "term": "はプ",
+      "count": 6
+    },
+    {
+      "term": "クト",
+      "count": 6
+    },
+    {
+      "term": "策に",
+      "count": 6
+    },
+    {
+      "term": "ズで",
+      "count": 6
+    },
+    {
+      "term": "ビュ",
+      "count": 6
+    },
+    {
+      "term": "どの",
+      "count": 6
+    },
+    {
+      "term": "tf",
+      "count": 6
+    },
+    {
+      "term": "れて",
+      "count": 6
+    },
+    {
+      "term": "format",
+      "count": 6
+    },
+    {
+      "term": "要 ",
+      "count": 5
+    },
+    {
+      "term": "ト ",
+      "count": 5
+    },
+    {
+      "term": "トフ",
+      "count": 5
+    },
+    {
+      "term": "26",
+      "count": 5
     },
     {
       "term": "28",
-      "count": 6
-    },
-    {
-      "term": "amazon",
-      "count": 6
-    },
-    {
-      "term": "のg",
-      "count": 6
-    },
-    {
-      "term": "影響",
-      "count": 6
-    },
-    {
-      "term": "ることが",
-      "count": 6
-    },
-    {
-      "term": "13",
       "count": 5
     },
     {
-      "term": "ンに",
-      "count": 5
-    },
-    {
-      "term": "時の",
-      "count": 5
-    },
-    {
-      "term": "信頼でき",
+      "term": "そし",
       "count": 5
     }
   ],
