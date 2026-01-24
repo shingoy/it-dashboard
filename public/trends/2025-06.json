@@ -2,63 +2,71 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "パイ",
+      "term": "構成",
       "count": 21
     },
     {
-      "term": "ジト",
+      "term": "てい",
+      "count": 21
+    },
+    {
+      "term": "ット",
       "count": 20
     },
     {
-      "term": "ース",
-      "count": 17
+      "term": "ポジ",
+      "count": 20
     },
     {
-      "term": "ォー",
+      "term": "果物",
+      "count": 19
+    },
+    {
+      "term": "actions",
       "count": 16
     },
     {
-      "term": "から",
+      "term": "ース",
       "count": 15
     },
     {
-      "term": "とな",
+      "term": "ンテ",
       "count": 15
     },
     {
-      "term": "よう",
-      "count": 15
+      "term": "確認",
+      "count": 13
     },
     {
-      "term": "対策",
+      "term": "クレ",
       "count": 12
     },
     {
-      "term": "護 ",
+      "term": "レッ",
       "count": 12
     },
     {
-      "term": "おけ",
-      "count": 12
-    },
-    {
-      "term": "的な",
-      "count": 12
-    },
-    {
-      "term": "環境",
+      "term": "存物",
       "count": 11
     },
     {
-      "term": "を取",
+      "term": "依存物の",
       "count": 11
     },
     {
-      "term": "ecr",
+      "term": "取得",
       "count": 11
     },
     {
-      "term": "ない",
+      "term": "ンを",
+      "count": 10
+    },
+    {
+      "term": "る必",
+      "count": 10
+    },
+    {
+      "term": "to",
       "count": 10
     },
     {
@@ -66,35 +74,35 @@
       "count": 10
     },
     {
-      "term": "バリ",
+      "term": "確保",
       "count": 9
     },
     {
-      "term": "本書",
+      "term": "code",
       "count": 9
-    },
-    {
-      "term": "の ",
-      "count": 9
-    },
-    {
-      "term": "イメージ",
-      "count": 9
-    },
-    {
-      "term": "on",
-      "count": 9
-    },
-    {
-      "term": "リソ",
-      "count": 8
     },
     {
       "term": "る\n",
-      "count": 8
+      "count": 9
     },
     {
-      "term": "るこ",
+      "term": "git",
+      "count": 9
+    },
+    {
+      "term": "trivy",
+      "count": 9
+    },
+    {
+      "term": "こで",
+      "count": 9
+    },
+    {
+      "term": "yml",
+      "count": 9
+    },
+    {
+      "term": "用し",
       "count": 8
     },
     {
@@ -102,55 +110,75 @@
       "count": 7
     },
     {
-      "term": "れば",
+      "term": "体の",
       "count": 7
     },
     {
-      "term": "plan",
+      "term": "バイ",
       "count": 7
     },
     {
-      "term": "はg",
+      "term": "にな",
       "count": 7
-    },
-    {
-      "term": "図 ",
-      "count": 7
-    },
-    {
-      "term": "要と",
-      "count": 7
-    },
-    {
-      "term": "クレ",
-      "count": 6
-    },
-    {
-      "term": "ロバ",
-      "count": 6
-    },
-    {
-      "term": "はa",
-      "count": 6
-    },
-    {
-      "term": "提供",
-      "count": 6
     },
     {
       "term": "考えられ",
+      "count": 7
+    },
+    {
+      "term": "ナイ",
+      "count": 7
+    },
+    {
+      "term": "がある",
+      "count": 7
+    },
+    {
+      "term": "type",
+      "count": 7
+    },
+    {
+      "term": "す ",
+      "count": 7
+    },
+    {
+      "term": "チの",
       "count": 6
     },
     {
-      "term": "はプ",
+      "term": "キュ",
       "count": 6
     },
     {
-      "term": "クト",
+      "term": "って",
       "count": 6
     },
     {
-      "term": "策に",
+      "term": "安全性の",
+      "count": 6
+    },
+    {
+      "term": "本書",
+      "count": 6
+    },
+    {
+      "term": "version",
+      "count": 6
+    },
+    {
+      "term": "ここでは",
+      "count": 6
+    },
+    {
+      "term": "完全",
+      "count": 6
+    },
+    {
+      "term": "ついては",
+      "count": 6
+    },
+    {
+      "term": "な対",
       "count": 6
     },
     {
@@ -158,48 +186,20 @@
       "count": 6
     },
     {
-      "term": "ビュ",
+      "term": "のメ",
       "count": 6
     },
     {
-      "term": "どの",
+      "term": "ても",
       "count": 6
     },
     {
-      "term": "tf",
+      "term": "file",
       "count": 6
     },
     {
-      "term": "れて",
+      "term": "合は",
       "count": 6
-    },
-    {
-      "term": "format",
-      "count": 6
-    },
-    {
-      "term": "要 ",
-      "count": 5
-    },
-    {
-      "term": "ト ",
-      "count": 5
-    },
-    {
-      "term": "トフ",
-      "count": 5
-    },
-    {
-      "term": "26",
-      "count": 5
-    },
-    {
-      "term": "28",
-      "count": 5
-    },
-    {
-      "term": "そし",
-      "count": 5
     }
   ],
   "meetings": [

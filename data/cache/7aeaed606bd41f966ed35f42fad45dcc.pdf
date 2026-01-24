@@ -25,7 +25,7 @@
   <meta name="twitter:description" content="国家サイバー統括室のホームページです。組織、政策、報道発表資料などに関する情報を掲載しています。">
   <meta name="twitter:image" content="https://www.cyber.go.jp/img/ogp.png">
   <link rel="stylesheet" href="/css/style.css" media="all">
-  <link rel="stylesheet" href="//c.marsflag.com/mf/mfx/1.0-latest/css/mfx-sbox.css" media="all">
+  <link rel="stylesheet" href="//digitalgojp.sharepoint.com///c.marsflag.com/mf/mfx/1.0-latest/css/mfx-sbox.css" media="all">
 </head>
 
 <body>
@@ -64,7 +64,7 @@
       </div>
       <div class="menuBtn hidden md:inline-block" id="menuBtn">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-          <title>Menu</title>
+          <title></title>
           <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="32"
             d="M80 160h352M80 256h352M80 352h352"></path>
         </svg>
@@ -75,7 +75,7 @@
       <div class="flex w-[1px] h-[1rem] bg-gray-300"></div><a
         class="underline underline-offset-2 hover:text-nisc-link-hover" href="/eng/index.html">English </a>
       <div class="hidden md:flex w-[1px] h-[1rem] bg-gray-300"></div><a
-        class="hidden md:flex underline underline-offset-2 hover:text-nisc-link-hover" href="/search-result/">検索 </a>
+        class="hidden md:flex underline underline-offset-2 hover:text-nisc-link-hover" href="/search-result">検索 </a>
     </div>
     <div class="hidden fixed top-0 right-0 w-screen h-screen bg-white z-[999]" id="mobileMenu">
       <div class="flex flex-col max-h-screen">
@@ -139,7 +139,7 @@
             <p class="loading">Loading...</p>
           </div>
           <div class="flex mt-1"><a class="bg-nisc-primary text-white w-full py-2 btn_active text-center"
-              href="/news/list/">新着情報一覧 </a></div>
+              href="/news/list">新着情報一覧 </a></div>
         </div>
         <div class="flex flex-col items-end justify-start gap-5 md:items-center mt-2">
           <a class="bg-no-repeat bg-center bg-cover w-[300px] h-[120px] rounded-md flex flex-col justify-center items-center"
@@ -149,8 +149,8 @@
             style="background-image: url(/img/home/banner01-02.png);" href="https://security-portal.cyber.go.jp/"
             title="一般の方向け情報"> </a>
           <a class="bg-no-repeat bg-center bg-cover w-[300px] h-[120px] rounded-md flex flex-col justify-center items-center"
-            style="background-image: url(/img/home/ICC_banner.png);" href="https://icctokyo2025.nisc.go.jp/"
-            title="ICC2025"> </a>
+            style="background-image: url(/img/home/website_Banner_NCOtop.jpg);" href="https://security-portal.cyber.go.jp/cybersecuritymonth/2026/"
+            title="cybersecuritymonth2026"> </a>
         </div>
       </div>
       <div class="flex flex-col gap-4 mt-4 md:mt-10">
@@ -335,7 +335,7 @@
     </svg>
   </div>
   <script type="text/javascript" src="/js/app.js"></script>
-  <script src="//c.marsflag.com/mf/mfx/1.0-latest/js/mfx-sbox.js" charset="UTF-8"> </script>
+  <script src="//digitalgojp.sharepoint.com///c.marsflag.com/mf/mfx/1.0-latest/js/mfx-sbox.js" charset="UTF-8"> </script>
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </body>
 
