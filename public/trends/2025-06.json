@@ -2,39 +2,55 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "構成",
+      "term": "パイ",
       "count": 21
     },
     {
-      "term": "てい",
+      "term": "きる",
       "count": 21
-    },
-    {
-      "term": "ット",
-      "count": 20
     },
     {
       "term": "ポジ",
       "count": 20
     },
     {
-      "term": "果物",
+      "term": "れる",
       "count": 19
     },
     {
-      "term": "actions",
+      "term": "って",
       "count": 16
     },
     {
-      "term": "ース",
+      "term": "的な",
       "count": 15
     },
     {
-      "term": "ンテ",
-      "count": 15
+      "term": "内容",
+      "count": 14
     },
     {
-      "term": "確認",
+      "term": "いて",
+      "count": 14
+    },
+    {
+      "term": "ては",
+      "count": 14
+    },
+    {
+      "term": "ンを",
+      "count": 13
+    },
+    {
+      "term": "ソースコ",
+      "count": 13
+    },
+    {
+      "term": "物の",
+      "count": 13
+    },
+    {
+      "term": "でき",
       "count": 13
     },
     {
@@ -42,164 +58,148 @@
       "count": 12
     },
     {
-      "term": "レッ",
-      "count": 12
-    },
-    {
-      "term": "存物",
+      "term": "のc",
       "count": 11
     },
     {
-      "term": "依存物の",
+      "term": "に ",
       "count": 11
     },
     {
-      "term": "取得",
+      "term": "れら",
       "count": 11
     },
     {
-      "term": "ンを",
+      "term": "メン",
       "count": 10
     },
     {
-      "term": "る必",
+      "term": "保護",
       "count": 10
     },
     {
-      "term": "to",
+      "term": "定し",
       "count": 10
     },
     {
-      "term": "build",
+      "term": "provenance",
       "count": 10
     },
     {
-      "term": "確保",
+      "term": "のリ",
       "count": 9
     },
     {
-      "term": "code",
+      "term": "ムが",
       "count": 9
     },
     {
-      "term": "る\n",
+      "term": "イメージ",
       "count": 9
     },
     {
-      "term": "git",
+      "term": "のア",
       "count": 9
     },
     {
-      "term": "trivy",
+      "term": "権限",
       "count": 9
     },
     {
-      "term": "こで",
-      "count": 9
-    },
-    {
-      "term": "yml",
-      "count": 9
+      "term": "ci",
+      "count": 8
     },
     {
       "term": "用し",
       "count": 8
     },
     {
-      "term": "示す",
+      "term": "署名",
+      "count": 8
+    },
+    {
+      "term": "キー",
       "count": 7
     },
     {
-      "term": "体の",
+      "term": "るま",
       "count": 7
     },
     {
-      "term": "バイ",
+      "term": "サー",
       "count": 7
     },
     {
-      "term": "にな",
+      "term": "commit",
       "count": 7
     },
     {
-      "term": "考えられ",
+      "term": "可能であ",
       "count": 7
     },
     {
-      "term": "ナイ",
+      "term": "to",
       "count": 7
     },
     {
-      "term": "がある",
+      "term": "要と",
       "count": 7
     },
     {
-      "term": "type",
+      "term": "とし",
       "count": 7
     },
     {
-      "term": "す ",
+      "term": "に加",
       "count": 7
+    },
+    {
+      "term": "ート",
+      "count": 6
     },
     {
       "term": "チの",
       "count": 6
     },
     {
-      "term": "キュ",
+      "term": "ド成",
       "count": 6
     },
     {
-      "term": "って",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "安全性の",
+      "term": "ンテナイ",
       "count": 6
     },
     {
-      "term": "本書",
+      "term": "要がある",
       "count": 6
     },
     {
-      "term": "version",
+      "term": "そのため",
       "count": 6
     },
     {
-      "term": "ここでは",
+      "term": "push",
       "count": 6
     },
     {
-      "term": "完全",
+      "term": "る ",
       "count": 6
     },
     {
-      "term": "ついては",
+      "term": "とが",
       "count": 6
     },
     {
-      "term": "な対",
-      "count": 6
+      "term": "要 ",
+      "count": 5
     },
     {
-      "term": "ズで",
-      "count": 6
-    },
-    {
-      "term": "のメ",
-      "count": 6
-    },
-    {
-      "term": "ても",
-      "count": 6
-    },
-    {
-      "term": "file",
-      "count": 6
-    },
-    {
-      "term": "合は",
-      "count": 6
+      "term": "べき",
+      "count": 5
     }
   ],
   "meetings": [
