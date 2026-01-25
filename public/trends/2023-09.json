@@ -2,63 +2,79 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "省庁",
+      "term": "への",
       "count": 3
     },
     {
-      "term": "ノロ",
+      "term": "イメ",
       "count": 3
     },
     {
-      "term": "テク",
+      "term": "活用",
       "count": 3
     },
     {
-      "term": "直し",
+      "term": "見直",
       "count": 3
     },
     {
-      "term": "イメージ",
+      "term": "等を",
       "count": 3
     },
     {
-      "term": "用し",
+      "term": "関係",
       "count": 3
     },
     {
-      "term": "に ",
+      "term": "を活",
       "count": 3
     },
     {
-      "term": "のフ",
+      "term": "しに",
+      "count": 3
+    },
+    {
+      "term": "らコンソ",
       "count": 2
     },
     {
-      "term": "びか",
+      "term": "につ",
       "count": 2
     },
     {
-      "term": "て ",
+      "term": "ソーシア",
       "count": 2
     },
     {
-      "term": "シア",
+      "term": "者か",
       "count": 2
     },
     {
-      "term": "ムへ",
+      "term": "フィ",
       "count": 2
     },
     {
-      "term": "らコ",
+      "term": "コミュニ",
       "count": 2
     },
     {
-      "term": "員に",
+      "term": "的利",
       "count": 2
     },
     {
-      "term": "所管",
+      "term": "シアムや",
+      "count": 2
+    },
+    {
+      "term": "と連",
+      "count": 2
+    },
+    {
+      "term": "規制の見",
+      "count": 2
+    },
+    {
+      "term": "クと",
       "count": 2
     },
     {
@@ -66,51 +82,11 @@
       "count": 2
     },
     {
-      "term": "の具",
+      "term": "テストの",
       "count": 2
     },
     {
-      "term": "ポジ",
-      "count": 2
-    },
-    {
-      "term": "じた",
-      "count": 2
-    },
-    {
-      "term": "新たな技",
-      "count": 2
-    },
-    {
-      "term": "広く発信",
-      "count": 2
-    },
-    {
-      "term": "技術検証",
-      "count": 2
-    },
-    {
-      "term": "のア",
-      "count": 2
-    },
-    {
-      "term": "ウム開催",
-      "count": 2
-    },
-    {
-      "term": "や連",
-      "count": 2
-    },
-    {
-      "term": "支援",
-      "count": 2
-    },
-    {
-      "term": "た一",
-      "count": 2
-    },
-    {
-      "term": "術の",
+      "term": "制見直",
       "count": 2
     },
     {
@@ -122,27 +98,43 @@
       "count": 2
     },
     {
-      "term": "技術",
+      "term": "えた",
       "count": 2
     },
     {
-      "term": "新た",
+      "term": "術開発の",
       "count": 2
     },
     {
-      "term": "見直",
+      "term": "用した規",
       "count": 2
     },
     {
-      "term": "制対",
+      "term": "感 ",
       "count": 2
     },
     {
-      "term": "の速",
+      "term": "報告会",
       "count": 2
     },
     {
-      "term": "テストの",
+      "term": "証成",
+      "count": 2
+    },
+    {
+      "term": "た一",
+      "count": 2
+    },
+    {
+      "term": "結果",
+      "count": 2
+    },
+    {
+      "term": "の結",
+      "count": 2
+    },
+    {
+      "term": "体化",
       "count": 2
     },
     {
@@ -150,55 +142,63 @@
       "count": 2
     },
     {
-      "term": "共同",
+      "term": "を通",
+      "count": 2
+    },
+    {
+      "term": "の具",
+      "count": 2
+    },
+    {
+      "term": "術検",
+      "count": 2
+    },
+    {
+      "term": "の提案",
       "count": 1
     },
     {
-      "term": "む ",
+      "term": "市場規模",
       "count": 1
     },
     {
-      "term": "技術等の",
+      "term": "でア",
       "count": 1
     },
     {
-      "term": "に加",
+      "term": "や勉",
       "count": 1
     },
     {
-      "term": "かを",
+      "term": "や市",
       "count": 1
     },
     {
-      "term": "クフ",
+      "term": "習機会の",
       "count": 1
     },
     {
-      "term": "ート",
+      "term": "こと",
       "count": 1
     },
     {
-      "term": "直しに活",
+      "term": "し関",
       "count": 1
     },
     {
-      "term": "る役",
+      "term": "サポ",
       "count": 1
     },
     {
-      "term": "ャー",
+      "term": "を促",
       "count": 1
     },
     {
-      "term": "ログ等",
+      "term": "の学",
       "count": 1
     },
     {
-      "term": "的な",
-      "count": 1
-    },
-    {
-      "term": "シアム",
+      "term": "機関が存",
       "count": 1
     }
   ],
