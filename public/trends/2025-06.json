@@ -2,123 +2,111 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "るこ",
-      "count": 24
-    },
-    {
-      "term": "ライ",
-      "count": 23
-    },
-    {
       "term": "github",
+      "count": 26
+    },
+    {
+      "term": "でき",
+      "count": 22
+    },
+    {
+      "term": "ード",
+      "count": 21
+    },
+    {
+      "term": "ット",
+      "count": 20
+    },
+    {
+      "term": "ァイ",
+      "count": 19
+    },
+    {
+      "term": "安全",
       "count": 18
     },
     {
-      "term": "ェー",
-      "count": 17
+      "term": "れる",
+      "count": 18
     },
     {
-      "term": "ない",
-      "count": 17
+      "term": "スコ",
+      "count": 14
     },
     {
-      "term": "ソー",
-      "count": 16
+      "term": "性の",
+      "count": 14
     },
     {
-      "term": "ムチ",
-      "count": 15
+      "term": "また",
+      "count": 14
     },
     {
-      "term": "cat",
-      "count": 15
+      "term": "った",
+      "count": 14
     },
     {
-      "term": "体的",
+      "term": "ツー",
       "count": 13
     },
     {
-      "term": "用す",
+      "term": "ため",
       "count": 13
     },
     {
-      "term": "的に",
-      "count": 13
-    },
-    {
-      "term": "変更",
+      "term": "シー",
       "count": 12
     },
     {
-      "term": "ース",
-      "count": 12
-    },
-    {
-      "term": "を取",
-      "count": 12
-    },
-    {
-      "term": "チェ",
+      "term": "した",
       "count": 11
     },
     {
-      "term": "定し",
-      "count": 10
+      "term": "図 ",
+      "count": 11
     },
     {
-      "term": "存物",
-      "count": 10
+      "term": "上で",
+      "count": 11
     },
     {
-      "term": "ルの",
-      "count": 10
+      "term": "生成",
+      "count": 11
     },
     {
-      "term": "steps",
-      "count": 10
+      "term": "com",
+      "count": 11
     },
     {
-      "term": "定の",
+      "term": "性管",
       "count": 9
     },
     {
-      "term": "and",
+      "term": "本書",
       "count": 9
     },
     {
-      "term": "10",
+      "term": "リの",
+      "count": 9
+    },
+    {
+      "term": "及び",
       "count": 8
     },
     {
-      "term": "の構",
+      "term": "コー",
       "count": 8
     },
     {
-      "term": "ある",
+      "term": "フェーズ",
       "count": 8
     },
     {
-      "term": "組み",
-      "count": 8
-    },
-    {
-      "term": "ト情",
+      "term": "示す",
       "count": 7
     },
     {
-      "term": "運用",
-      "count": 7
-    },
-    {
-      "term": "システム",
-      "count": 7
-    },
-    {
-      "term": "シス",
-      "count": 7
-    },
-    {
-      "term": "制限",
+      "term": "に ",
       "count": 7
     },
     {
@@ -126,15 +114,31 @@
       "count": 7
     },
     {
-      "term": "記述",
+      "term": "ここ",
       "count": 7
     },
     {
-      "term": "ド管",
-      "count": 6
+      "term": "要が",
+      "count": 7
     },
     {
-      "term": "開発",
+      "term": "がある",
+      "count": 7
+    },
+    {
+      "term": "rulesets",
+      "count": 7
+    },
+    {
+      "term": "とな",
+      "count": 7
+    },
+    {
+      "term": "ド設",
+      "count": 7
+    },
+    {
+      "term": "理シ",
       "count": 6
     },
     {
@@ -142,64 +146,60 @@
       "count": 6
     },
     {
-      "term": "めに",
+      "term": "フ ",
       "count": 6
     },
     {
-      "term": "した",
+      "term": "たが",
       "count": 6
     },
     {
-      "term": "ルと",
+      "term": "プロバイ",
       "count": 6
     },
     {
-      "term": "等の",
+      "term": "アカ",
       "count": 6
     },
     {
-      "term": "たt",
+      "term": "な対",
       "count": 6
     },
     {
-      "term": "codebuild",
+      "term": "の連",
       "count": 6
     },
     {
-      "term": "対す",
+      "term": "ref",
       "count": 6
     },
     {
-      "term": "にて",
+      "term": "象と",
       "count": 6
     },
     {
-      "term": "状態",
+      "term": "predicate",
       "count": 6
     },
     {
-      "term": "取り",
-      "count": 6
+      "term": "ト ",
+      "count": 5
     },
     {
-      "term": "完全",
-      "count": 6
+      "term": "13",
+      "count": 5
     },
     {
-      "term": "の変",
-      "count": 6
+      "term": "ロー",
+      "count": 5
     },
     {
-      "term": "レビ",
-      "count": 6
+      "term": "28",
+      "count": 5
     },
     {
-      "term": "た場",
-      "count": 6
-    },
-    {
-      "term": "ることが",
-      "count": 6
+      "term": "の仕",
+      "count": 5
     }
   ],
   "meetings": [
