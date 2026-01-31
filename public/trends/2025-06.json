@@ -2,71 +2,63 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "果物",
+      "term": "る ",
+      "count": 27
+    },
+    {
+      "term": "github",
+      "count": 26
+    },
+    {
+      "term": "ある",
+      "count": 24
+    },
+    {
+      "term": "ジト",
       "count": 20
     },
     {
       "term": "こと",
-      "count": 20
-    },
-    {
-      "term": "ビル",
       "count": 19
     },
     {
-      "term": "管理",
-      "count": 19
-    },
-    {
-      "term": "るこ",
-      "count": 18
-    },
-    {
-      "term": "ci",
+      "term": "ード",
       "count": 17
     },
     {
-      "term": "によ",
-      "count": 16
+      "term": "スコ",
+      "count": 14
     },
     {
-      "term": "ェー",
-      "count": 16
+      "term": "全性",
+      "count": 14
     },
     {
-      "term": "ンテ",
-      "count": 15
-    },
-    {
-      "term": "イル",
+      "term": "ソースコ",
       "count": 13
     },
     {
-      "term": "サー",
+      "term": "ルを",
       "count": 13
     },
     {
-      "term": "場合",
+      "term": "略 ",
       "count": 13
     },
     {
-      "term": "trivy",
+      "term": "tf",
       "count": 13
     },
     {
-      "term": "のた",
+      "term": "の保",
       "count": 12
     },
     {
-      "term": "ティ",
-      "count": 11
+      "term": "確認",
+      "count": 12
     },
     {
-      "term": "性の",
-      "count": 11
-    },
-    {
-      "term": "取得",
+      "term": "つい",
       "count": 11
     },
     {
@@ -74,63 +66,59 @@
       "count": 11
     },
     {
-      "term": "ー ",
+      "term": "を取",
+      "count": 11
+    },
+    {
+      "term": "ライ",
       "count": 10
     },
     {
-      "term": "の担",
+      "term": "の ",
+      "count": 10
+    },
+    {
+      "term": "存物",
+      "count": 10
+    },
+    {
+      "term": "提供",
       "count": 9
     },
     {
-      "term": "runs",
+      "term": "いっ",
       "count": 9
     },
     {
-      "term": "プラット",
+      "term": "に対",
+      "count": 9
+    },
+    {
+      "term": "シークレ",
       "count": 8
     },
     {
-      "term": "provenance",
+      "term": "ソフ",
       "count": 8
     },
     {
-      "term": "commit",
+      "term": "リバ",
       "count": 8
     },
     {
-      "term": "指定",
+      "term": "の構",
       "count": 8
     },
     {
-      "term": "の漏",
+      "term": "それ",
+      "count": 8
+    },
+    {
+      "term": "報の",
       "count": 7
     },
     {
-      "term": "共通",
-      "count": 7
-    },
-    {
-      "term": "洩対",
-      "count": 7
-    },
-    {
-      "term": "定義",
-      "count": 7
-    },
-    {
-      "term": "れば",
-      "count": 7
-    },
-    {
-      "term": "し ",
-      "count": 7
-    },
-    {
-      "term": "仕組",
-      "count": 7
-    },
-    {
-      "term": "混入",
+      "term": "type",
       "count": 7
     },
     {
@@ -138,68 +126,80 @@
       "count": 6
     },
     {
-      "term": "ド管",
+      "term": "ショ",
       "count": 6
     },
     {
-      "term": "漏洩",
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "キュ",
+      "term": "たコ",
       "count": 6
     },
     {
-      "term": "を ",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "ロバ",
+      "term": "の変",
       "count": 6
     },
     {
-      "term": "範囲の制",
+      "term": "ることが",
       "count": 6
     },
     {
-      "term": "ジと",
+      "term": "デー",
       "count": 6
     },
     {
-      "term": "複数",
+      "term": "イメージ",
       "count": 6
     },
     {
-      "term": "version",
-      "count": 6
+      "term": "運用保守",
+      "count": 5
+    },
+    {
+      "term": "理 ",
+      "count": 5
+    },
+    {
+      "term": "性の",
+      "count": 5
+    },
+    {
+      "term": "いて",
+      "count": 5
+    },
+    {
+      "term": "する",
+      "count": 5
+    },
+    {
+      "term": "信頼でき",
+      "count": 5
+    },
+    {
+      "term": "のソ",
+      "count": 5
     },
     {
       "term": "供す",
-      "count": 6
+      "count": 5
     },
     {
-      "term": "るよ",
-      "count": 6
+      "term": "成し",
+      "count": 5
     },
     {
-      "term": "ついては",
-      "count": 6
+      "term": "これらの",
+      "count": 5
     },
     {
-      "term": "review",
-      "count": 6
-    },
-    {
-      "term": "のよ",
-      "count": 6
-    },
-    {
-      "term": "image",
-      "count": 6
-    },
-    {
-      "term": "る ",
-      "count": 6
+      "term": "まれ",
+      "count": 5
     }
   ],
   "meetings": [

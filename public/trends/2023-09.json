@@ -2,55 +2,103 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "の見",
+      "term": "省庁",
       "count": 3
     },
     {
-      "term": "指す",
+      "term": "グの",
+      "count": 3
+    },
+    {
+      "term": "動向",
+      "count": 3
+    },
+    {
+      "term": "カタ",
+      "count": 3
+    },
+    {
+      "term": "の ",
+      "count": 3
+    },
+    {
+      "term": "た規",
+      "count": 3
+    },
+    {
+      "term": "に対",
+      "count": 3
+    },
+    {
+      "term": "イメージ",
+      "count": 3
+    },
+    {
+      "term": "を活",
+      "count": 3
+    },
+    {
+      "term": "テク",
+      "count": 3
+    },
+    {
+      "term": "化 ",
+      "count": 3
+    },
+    {
+      "term": "ジーマッ",
+      "count": 3
+    },
+    {
+      "term": "やア",
       "count": 2
     },
     {
-      "term": "ティ",
+      "term": "つい",
       "count": 2
     },
     {
-      "term": "を検",
+      "term": "アナ",
       "count": 2
     },
     {
-      "term": "個別呼び",
+      "term": "トワ",
       "count": 2
     },
     {
-      "term": "等の募集",
+      "term": "ンソ",
       "count": 2
     },
     {
-      "term": "フィード",
+      "term": "る ",
       "count": 2
     },
     {
-      "term": "ベン",
+      "term": "発力",
       "count": 2
     },
     {
-      "term": "ネッ",
+      "term": "hp",
       "count": 2
     },
     {
-      "term": "規制対象",
+      "term": "提供",
       "count": 2
     },
     {
-      "term": "め ",
+      "term": "ード",
       "count": 2
     },
     {
-      "term": "ムへ",
+      "term": "アドバイ",
       "count": 2
     },
     {
-      "term": "の期",
+      "term": "く発",
+      "count": 2
+    },
+    {
+      "term": "踏ま",
       "count": 2
     },
     {
@@ -58,47 +106,7 @@
       "count": 2
     },
     {
-      "term": "を共",
-      "count": 2
-    },
-    {
-      "term": "把握",
-      "count": 2
-    },
-    {
-      "term": "スや連",
-      "count": 2
-    },
-    {
-      "term": "たな",
-      "count": 2
-    },
-    {
-      "term": "シンポジ",
-      "count": 2
-    },
-    {
-      "term": "有 ",
-      "count": 2
-    },
-    {
-      "term": "グに",
-      "count": 2
-    },
-    {
-      "term": "企画",
-      "count": 2
-    },
-    {
-      "term": "況を把握",
-      "count": 2
-    },
-    {
-      "term": "信 ",
-      "count": 2
-    },
-    {
-      "term": "告会",
+      "term": "えた",
       "count": 2
     },
     {
@@ -106,11 +114,27 @@
       "count": 2
     },
     {
-      "term": "ジの",
+      "term": "を踏",
       "count": 2
     },
     {
-      "term": "ーマ",
+      "term": "まえ",
+      "count": 2
+    },
+    {
+      "term": "企画への",
+      "count": 2
+    },
+    {
+      "term": "広く発信",
+      "count": 2
+    },
+    {
+      "term": "タロ",
+      "count": 2
+    },
+    {
+      "term": "の具体化",
       "count": 2
     },
     {
@@ -118,23 +142,7 @@
       "count": 2
     },
     {
-      "term": "連携",
-      "count": 2
-    },
-    {
-      "term": "ジー",
-      "count": 2
-    },
-    {
-      "term": "の検",
-      "count": 2
-    },
-    {
-      "term": "を把",
-      "count": 2
-    },
-    {
-      "term": "報告会",
+      "term": "スや連",
       "count": 2
     },
     {
@@ -142,55 +150,35 @@
       "count": 2
     },
     {
-      "term": "会の",
+      "term": "明ら",
       "count": 1
     },
     {
-      "term": "や技術開",
+      "term": "直しに活",
       "count": 1
     },
     {
-      "term": "開始",
+      "term": "法人",
       "count": 1
     },
     {
-      "term": "の利活用",
+      "term": "装に",
       "count": 1
     },
     {
-      "term": "供し",
+      "term": "報の",
       "count": 1
     },
     {
-      "term": "版 ",
+      "term": "で関",
       "count": 1
     },
     {
-      "term": "位置",
+      "term": "体規",
       "count": 1
     },
     {
-      "term": "伴う",
-      "count": 1
-    },
-    {
-      "term": "た取",
-      "count": 1
-    },
-    {
-      "term": "直しに伴",
-      "count": 1
-    },
-    {
-      "term": "提供を促",
-      "count": 1
-    },
-    {
-      "term": "を ",
-      "count": 1
-    },
-    {
-      "term": "金獲",
+      "term": "在するの",
       "count": 1
     },
     {
@@ -198,7 +186,19 @@
       "count": 1
     },
     {
-      "term": "運営開始",
+      "term": "先端",
+      "count": 1
+    },
+    {
+      "term": "報等",
+      "count": 1
+    },
+    {
+      "term": "シアム",
+      "count": 1
+    },
+    {
+      "term": "者間",
       "count": 1
     }
   ],
