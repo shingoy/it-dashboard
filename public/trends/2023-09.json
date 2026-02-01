@@ -2,127 +2,99 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "用し",
+      "term": "ジーマッ",
       "count": 3
     },
     {
-      "term": "関係",
+      "term": "開発",
       "count": 3
     },
     {
-      "term": "て周",
+      "term": "ム ",
+      "count": 3
+    },
+    {
+      "term": "した",
+      "count": 3
+    },
+    {
+      "term": "利活用方",
       "count": 2
     },
     {
-      "term": "制所",
+      "term": "ノロジー",
       "count": 2
     },
     {
-      "term": "との",
+      "term": "の参",
       "count": 2
     },
     {
-      "term": "ネッ",
+      "term": "方法",
       "count": 2
     },
     {
-      "term": "10",
+      "term": "ロ ",
       "count": 2
     },
     {
-      "term": "目指",
+      "term": "ソー",
       "count": 2
     },
     {
-      "term": "係団",
+      "term": "ュニ",
       "count": 2
     },
     {
-      "term": "の期",
+      "term": "ーシ",
       "count": 2
     },
     {
-      "term": "規制所管",
+      "term": "おけ",
       "count": 2
     },
     {
-      "term": "につい",
+      "term": "アナロ",
       "count": 2
     },
     {
-      "term": "け ",
+      "term": "見直しに",
       "count": 2
     },
     {
-      "term": "ミュ",
+      "term": "や連",
       "count": 2
     },
     {
-      "term": "者からの",
+      "term": "開催",
       "count": 2
     },
     {
-      "term": "かけや",
+      "term": "ンポ",
       "count": 2
     },
     {
-      "term": "regtech",
+      "term": "改善",
       "count": 2
     },
     {
-      "term": "る課",
+      "term": "制見直",
       "count": 2
     },
     {
-      "term": "呼び",
+      "term": "シンポジ",
       "count": 2
     },
     {
-      "term": "新たな技",
+      "term": "通じ",
       "count": 2
     },
     {
-      "term": "の実証状",
+      "term": "アドバイ",
       "count": 2
     },
     {
-      "term": "成果を踏",
-      "count": 2
-    },
-    {
-      "term": "報告",
-      "count": 2
-    },
-    {
-      "term": "アド",
-      "count": 2
-    },
-    {
-      "term": "ム開",
-      "count": 2
-    },
-    {
-      "term": "他省",
-      "count": 2
-    },
-    {
-      "term": "術の",
-      "count": 2
-    },
-    {
-      "term": "を通じた",
-      "count": 2
-    },
-    {
-      "term": "チコ",
-      "count": 2
-    },
-    {
-      "term": "トの",
-      "count": 2
-    },
-    {
-      "term": "ピッチコ",
+      "term": "他省庁等",
       "count": 2
     },
     {
@@ -130,51 +102,31 @@
       "count": 2
     },
     {
-      "term": "等の",
+      "term": "ログ",
       "count": 2
     },
     {
-      "term": "技術検証",
+      "term": "チコ",
       "count": 2
     },
     {
-      "term": "規制",
+      "term": "踏ま",
       "count": 2
     },
     {
-      "term": "上を",
-      "count": 1
+      "term": "しの",
+      "count": 2
     },
     {
-      "term": "報等",
-      "count": 1
+      "term": "ジの",
+      "count": 2
     },
     {
-      "term": "ール",
-      "count": 1
+      "term": "構築",
+      "count": 2
     },
     {
-      "term": "力の",
-      "count": 1
-    },
-    {
-      "term": "含む",
-      "count": 1
-    },
-    {
-      "term": "主体",
-      "count": 1
-    },
-    {
-      "term": "関係団体",
-      "count": 1
-    },
-    {
-      "term": "る向",
-      "count": 1
-    },
-    {
-      "term": "の連携を",
+      "term": "クす",
       "count": 1
     },
     {
@@ -182,23 +134,71 @@
       "count": 1
     },
     {
-      "term": "経済産業",
+      "term": "明会や勉",
       "count": 1
     },
     {
-      "term": "での",
+      "term": "捗状",
       "count": 1
     },
     {
-      "term": "な提",
+      "term": "新市場創",
       "count": 1
     },
     {
-      "term": "更な",
+      "term": "を高",
       "count": 1
     },
     {
-      "term": "体イ",
+      "term": "機関が存",
+      "count": 1
+    },
+    {
+      "term": "術情",
+      "count": 1
+    },
+    {
+      "term": "営す",
+      "count": 1
+    },
+    {
+      "term": "事務",
+      "count": 1
+    },
+    {
+      "term": "関係者間",
+      "count": 1
+    },
+    {
+      "term": "社団",
+      "count": 1
+    },
+    {
+      "term": "ムに",
+      "count": 1
+    },
+    {
+      "term": "ィ関",
+      "count": 1
+    },
+    {
+      "term": "的や",
+      "count": 1
+    },
+    {
+      "term": "ピタ",
+      "count": 1
+    },
+    {
+      "term": "ンチ",
+      "count": 1
+    },
+    {
+      "term": "市場規模",
+      "count": 1
+    },
+    {
+      "term": "しネ",
       "count": 1
     }
   ],
