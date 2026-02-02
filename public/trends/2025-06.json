@@ -2,39 +2,43 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "る ",
-      "count": 28
+      "term": "図 ",
+      "count": 22
     },
     {
-      "term": "きる",
-      "count": 23
-    },
-    {
-      "term": "ード",
-      "count": 21
-    },
-    {
-      "term": "イル",
-      "count": 20
-    },
-    {
-      "term": "ロー",
+      "term": "ビル",
       "count": 19
     },
     {
-      "term": "ェー",
-      "count": 16
-    },
-    {
-      "term": "パイプラ",
-      "count": 16
+      "term": "安全",
+      "count": 18
     },
     {
       "term": "サー",
+      "count": 17
+    },
+    {
+      "term": "ビス",
+      "count": 16
+    },
+    {
+      "term": "れた",
+      "count": 16
+    },
+    {
+      "term": "とな",
+      "count": 15
+    },
+    {
+      "term": "ドフ",
       "count": 14
     },
     {
-      "term": "ーム",
+      "term": "性の",
+      "count": 12
+    },
+    {
+      "term": "ンテ",
       "count": 12
     },
     {
@@ -42,27 +46,23 @@
       "count": 12
     },
     {
-      "term": "テナ",
-      "count": 12
-    },
-    {
-      "term": "とす",
+      "term": "ティ",
       "count": 11
     },
     {
-      "term": "えら",
+      "term": "ズの",
       "count": 11
     },
     {
-      "term": "の ",
-      "count": 10
+      "term": "安全性の",
+      "count": 11
     },
     {
-      "term": "これ",
-      "count": 10
+      "term": "考え",
+      "count": 11
     },
     {
-      "term": "イメージ",
+      "term": "リポ",
       "count": 10
     },
     {
@@ -70,127 +70,99 @@
       "count": 10
     },
     {
-      "term": "スチ",
-      "count": 10
-    },
-    {
-      "term": "なお",
-      "count": 9
-    },
-    {
-      "term": "ンの",
-      "count": 9
-    },
-    {
-      "term": "ェア",
-      "count": 9
-    },
-    {
-      "term": "定内",
-      "count": 8
-    },
-    {
-      "term": "シス",
-      "count": 8
-    },
-    {
       "term": "保護",
+      "count": 9
+    },
+    {
+      "term": "イプ",
+      "count": 9
+    },
+    {
+      "term": "ンa",
+      "count": 9
+    },
+    {
+      "term": "権限",
+      "count": 9
+    },
+    {
+      "term": "ース",
       "count": 8
     },
     {
-      "term": "docker",
+      "term": "フェーズ",
       "count": 8
-    },
-    {
-      "term": "の構",
-      "count": 8
-    },
-    {
-      "term": "バー",
-      "count": 8
-    },
-    {
-      "term": "リの",
-      "count": 8
-    },
-    {
-      "term": "が考",
-      "count": 8
-    },
-    {
-      "term": "uses",
-      "count": 8
-    },
-    {
-      "term": "ェーズの",
-      "count": 7
-    },
-    {
-      "term": "17",
-      "count": 7
-    },
-    {
-      "term": "あり",
-      "count": 7
-    },
-    {
-      "term": "ル ",
-      "count": 7
-    },
-    {
-      "term": "省略",
-      "count": 7
-    },
-    {
-      "term": "latest",
-      "count": 7
-    },
-    {
-      "term": "ュリ",
-      "count": 6
-    },
-    {
-      "term": "ショ",
-      "count": 6
-    },
-    {
-      "term": "リポ",
-      "count": 6
-    },
-    {
-      "term": "信頼性の",
-      "count": 6
-    },
-    {
-      "term": "フ ",
-      "count": 6
     },
     {
       "term": "範囲の制",
+      "count": 8
+    },
+    {
+      "term": "jobs",
+      "count": 8
+    },
+    {
+      "term": "るま",
+      "count": 7
+    },
+    {
+      "term": "における",
+      "count": 7
+    },
+    {
+      "term": "にな",
+      "count": 7
+    },
+    {
+      "term": "trivy",
+      "count": 7
+    },
+    {
+      "term": "可能であ",
+      "count": 7
+    },
+    {
+      "term": "ート",
       "count": 6
     },
     {
-      "term": "タデータ",
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "ムに",
+      "term": "成 ",
       "count": 6
     },
     {
-      "term": "影響",
+      "term": "ンに",
       "count": 6
     },
     {
-      "term": "ズで",
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "らな",
+      "term": "プラット",
       "count": 6
     },
     {
-      "term": "steps",
+      "term": "リ時",
+      "count": 6
+    },
+    {
+      "term": "ド成",
+      "count": 6
+    },
+    {
+      "term": "の保護",
+      "count": 6
+    },
+    {
+      "term": "な対",
+      "count": 6
+    },
+    {
+      "term": "どの",
       "count": 6
     },
     {
@@ -198,8 +170,36 @@
       "count": 6
     },
     {
-      "term": "action",
-      "count": 6
+      "term": "ケー",
+      "count": 5
+    },
+    {
+      "term": "infrastructure",
+      "count": 5
+    },
+    {
+      "term": "フェ",
+      "count": 5
+    },
+    {
+      "term": "サプ",
+      "count": 5
+    },
+    {
+      "term": "ログ",
+      "count": 5
+    },
+    {
+      "term": "について",
+      "count": 5
+    },
+    {
+      "term": "者が",
+      "count": 5
+    },
+    {
+      "term": "rule",
+      "count": 5
     }
   ],
   "meetings": [
