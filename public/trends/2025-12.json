@@ -2,83 +2,55 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "コン",
+      "term": "コンピュ",
       "count": 2
     },
     {
-      "term": "インフラ",
+      "term": "等の",
       "count": 2
     },
     {
-      "term": "革新的ハ",
+      "term": "ル等",
       "count": 2
     },
     {
-      "term": "フィジカ",
+      "term": "ジカ",
       "count": 2
     },
     {
-      "term": "けた",
+      "term": "通信",
       "count": 2
     },
     {
-      "term": "の抜",
+      "term": "代情",
       "count": 2
     },
     {
-      "term": "ートメー",
+      "term": "によるデ",
       "count": 2
     },
     {
-      "term": "築 ",
+      "term": "内数",
       "count": 2
     },
     {
-      "term": "バメ",
+      "term": "向け",
+      "count": 2
+    },
+    {
+      "term": "開発",
+      "count": 2
+    },
+    {
+      "term": "フラ",
+      "count": 2
+    },
+    {
+      "term": "ト開",
       "count": 1
     },
     {
-      "term": "続的",
-      "count": 1
-    },
-    {
-      "term": "的推",
-      "count": 1
-    },
-    {
-      "term": "e2e",
-      "count": 1
-    },
-    {
-      "term": "外日",
-      "count": 1
-    },
-    {
-      "term": "目的",
-      "count": 1
-    },
-    {
-      "term": "進等",
-      "count": 1
-    },
-    {
-      "term": "応の",
-      "count": 1
-    },
-    {
-      "term": "した",
-      "count": 1
-    },
-    {
-      "term": "予算総額",
-      "count": 1
-    },
-    {
-      "term": "ス間",
-      "count": 1
-    },
-    {
-      "term": "補正",
+      "term": "を活",
       "count": 1
     },
     {
@@ -86,75 +58,43 @@
       "count": 1
     },
     {
-      "term": "のデ",
+      "term": "の実",
       "count": 1
     },
     {
-      "term": "の労",
+      "term": "働生",
       "count": 1
     },
     {
-      "term": "基金",
+      "term": "スキ",
       "count": 1
     },
     {
-      "term": "流動型犯",
+      "term": "済を",
       "count": 1
     },
     {
-      "term": "383",
+      "term": "た次",
       "count": 1
     },
     {
-      "term": "間での",
+      "term": "的に",
       "count": 1
     },
     {
-      "term": "本計",
+      "term": "創る",
       "count": 1
     },
     {
-      "term": "16",
+      "term": "関連予算",
       "count": 1
     },
     {
-      "term": "革3",
+      "term": "ク対",
       "count": 1
     },
     {
-      "term": "証の",
-      "count": 1
-    },
-    {
-      "term": "の戦",
-      "count": 1
-    },
-    {
-      "term": "企業",
-      "count": 1
-    },
-    {
-      "term": "ち複",
-      "count": 1
-    },
-    {
-      "term": "も関",
-      "count": 1
-    },
-    {
-      "term": "間で",
-      "count": 1
-    },
-    {
-      "term": "ノロ",
-      "count": 1
-    },
-    {
-      "term": "ステ",
-      "count": 1
-    },
-    {
-      "term": "の労働生",
+      "term": "テク",
       "count": 1
     },
     {
@@ -162,43 +102,103 @@
       "count": 1
     },
     {
-      "term": "22",
+      "term": "積み",
       "count": 1
     },
     {
-      "term": "ルサウス",
+      "term": "複数",
       "count": 1
     },
     {
-      "term": "240",
+      "term": "調査",
       "count": 1
     },
     {
-      "term": "上を目的",
+      "term": "発促",
       "count": 1
     },
     {
-      "term": "的計",
+      "term": "関連施策",
       "count": 1
     },
     {
-      "term": "33",
+      "term": "ム新",
       "count": 1
     },
     {
-      "term": "ナン",
+      "term": "策は",
       "count": 1
     },
     {
-      "term": "は予",
+      "term": "代造",
       "count": 1
     },
     {
-      "term": "機関の生",
+      "term": "を記載",
       "count": 1
     },
     {
-      "term": "信頼",
+      "term": "の内数",
+      "count": 1
+    },
+    {
+      "term": "バメ",
+      "count": 1
+    },
+    {
+      "term": "まず",
+      "count": 1
+    },
+    {
+      "term": "中小",
+      "count": 1
+    },
+    {
+      "term": "造船",
+      "count": 1
+    },
+    {
+      "term": "性評",
+      "count": 1
+    },
+    {
+      "term": "施行",
+      "count": 1
+    },
+    {
+      "term": "事業費の",
+      "count": 1
+    },
+    {
+      "term": "開発力の",
+      "count": 1
+    },
+    {
+      "term": "用に",
+      "count": 1
+    },
+    {
+      "term": "導入",
+      "count": 1
+    },
+    {
+      "term": "載 ",
+      "count": 1
+    },
+    {
+      "term": "性向",
+      "count": 1
+    },
+    {
+      "term": "援に",
+      "count": 1
+    },
+    {
+      "term": "力向",
+      "count": 1
+    },
+    {
+      "term": "インフラ",
       "count": 1
     }
   ],
