@@ -2,187 +2,139 @@
   "month": "2023-09",
   "keywords": [
     {
+      "term": "等を",
+      "count": 3
+    },
+    {
+      "term": "携 ",
+      "count": 3
+    },
+    {
       "term": "会 ",
       "count": 3
     },
     {
-      "term": "テク",
+      "term": "イメージ",
       "count": 3
     },
     {
-      "term": "制対",
-      "count": 3
-    },
-    {
-      "term": "の ",
-      "count": 3
-    },
-    {
-      "term": "状況",
-      "count": 3
-    },
-    {
-      "term": "ドバ",
-      "count": 3
-    },
-    {
-      "term": "ム ",
-      "count": 3
-    },
-    {
-      "term": "た規",
-      "count": 3
-    },
-    {
-      "term": "らの",
-      "count": 3
-    },
-    {
-      "term": "ン ",
-      "count": 3
-    },
-    {
-      "term": "有機",
-      "count": 3
-    },
-    {
-      "term": "活用",
-      "count": 3
-    },
-    {
-      "term": "等 ",
+      "term": "規制所管",
       "count": 2
     },
     {
-      "term": "提案",
+      "term": "自らへの",
       "count": 2
     },
     {
-      "term": "コミュニ",
+      "term": "団体",
       "count": 2
     },
     {
-      "term": "的利",
+      "term": "の場",
       "count": 2
     },
     {
-      "term": "期待を把",
+      "term": "携し",
       "count": 2
     },
     {
-      "term": "トワ",
+      "term": "の提",
       "count": 2
     },
     {
-      "term": "バッ",
+      "term": "対し",
       "count": 2
     },
     {
-      "term": "を検",
+      "term": "りま",
       "count": 2
     },
     {
-      "term": "の連",
+      "term": "後の",
       "count": 2
     },
     {
-      "term": "かけ",
+      "term": "10",
       "count": 2
     },
     {
-      "term": "テストの",
+      "term": "者か",
       "count": 2
     },
     {
-      "term": "の具体化",
+      "term": "hp",
       "count": 2
     },
     {
-      "term": "シン",
+      "term": "方法",
       "count": 2
     },
     {
-      "term": "他省庁等",
+      "term": "ムや",
       "count": 2
     },
     {
-      "term": "構築",
+      "term": "ミュ",
       "count": 2
     },
     {
-      "term": "用した規",
+      "term": "具体",
       "count": 2
     },
     {
-      "term": "業の",
+      "term": "を踏",
       "count": 2
     },
     {
-      "term": "シンポジ",
+      "term": "証結",
       "count": 2
     },
     {
-      "term": "イス",
+      "term": "術検",
       "count": 2
     },
     {
-      "term": "えた",
+      "term": "アド",
       "count": 2
     },
     {
-      "term": "ーキ",
-      "count": 1
+      "term": "証事",
+      "count": 2
     },
     {
-      "term": "らか",
-      "count": 1
+      "term": "しの実装",
+      "count": 2
     },
     {
-      "term": "的継",
-      "count": 1
+      "term": "発信",
+      "count": 2
     },
     {
-      "term": "場創",
-      "count": 1
+      "term": "のア",
+      "count": 2
     },
     {
-      "term": "に加",
-      "count": 1
+      "term": "踏ま",
+      "count": 2
     },
     {
-      "term": "用可",
-      "count": 1
+      "term": "感 ",
+      "count": 2
     },
     {
-      "term": "大企業や",
-      "count": 1
+      "term": "の検",
+      "count": 2
     },
     {
-      "term": "とのシナ",
-      "count": 1
+      "term": "対象",
+      "count": 2
     },
     {
-      "term": "クフ",
-      "count": 1
+      "term": "広く",
+      "count": 2
     },
     {
-      "term": "とで",
-      "count": 1
-    },
-    {
-      "term": "の参加呼",
-      "count": 1
-    },
-    {
-      "term": "でテ",
-      "count": 1
-    },
-    {
-      "term": "ー効",
-      "count": 1
-    },
-    {
-      "term": "会等",
+      "term": "伴う",
       "count": 1
     },
     {
@@ -190,15 +142,63 @@
       "count": 1
     },
     {
-      "term": "情 ",
+      "term": "技術等の",
       "count": 1
     },
     {
-      "term": "startup",
+      "term": "シアムに",
       "count": 1
     },
     {
-      "term": "社会実装",
+      "term": "のシ",
+      "count": 1
+    },
+    {
+      "term": "ムに",
+      "count": 1
+    },
+    {
+      "term": "スク",
+      "count": 1
+    },
+    {
+      "term": "用可能な",
+      "count": 1
+    },
+    {
+      "term": "ンチ",
+      "count": 1
+    },
+    {
+      "term": "者共",
+      "count": 1
+    },
+    {
+      "term": "ジュ",
+      "count": 1
+    },
+    {
+      "term": "む ",
+      "count": 1
+    },
+    {
+      "term": "に活",
+      "count": 1
+    },
+    {
+      "term": "直しに関",
+      "count": 1
+    },
+    {
+      "term": "力の",
+      "count": 1
+    },
+    {
+      "term": "のネ",
+      "count": 1
+    },
+    {
+      "term": "シアム概",
       "count": 1
     }
   ],
