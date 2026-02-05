@@ -2,143 +2,179 @@
   "month": "2023-07",
   "keywords": [
     {
-      "term": "等の",
-      "count": 1237
+      "term": "ない",
+      "count": 1255
     },
     {
-      "term": "その",
-      "count": 1130
+      "term": "の ",
+      "count": 1013
     },
     {
-      "term": "管理",
-      "count": 1029
+      "term": "対策",
+      "count": 961
     },
     {
-      "term": "的に",
-      "count": 1001
+      "term": "とな",
+      "count": 935
     },
     {
-      "term": "キュ",
-      "count": 981
+      "term": "について",
+      "count": 878
     },
     {
-      "term": "報シ",
-      "count": 967
+      "term": "る場",
+      "count": 878
     },
     {
-      "term": "ビス",
-      "count": 884
+      "term": "実施",
+      "count": 661
     },
     {
-      "term": "とし",
-      "count": 774
-    },
-    {
-      "term": "の実",
-      "count": 735
-    },
-    {
-      "term": "適切",
-      "count": 718
-    },
-    {
-      "term": "それ",
-      "count": 600
-    },
-    {
-      "term": "定し",
-      "count": 540
-    },
-    {
-      "term": "あり",
-      "count": 524
+      "term": "重要",
+      "count": 618
     },
     {
       "term": "ガイ",
-      "count": 517
+      "count": 616
     },
     {
-      "term": "め ",
-      "count": 508
+      "term": "状況",
+      "count": 574
     },
     {
-      "term": "政府",
-      "count": 507
+      "term": "それ",
+      "count": 572
     },
     {
-      "term": "開発",
-      "count": 482
+      "term": "等 ",
+      "count": 570
     },
     {
-      "term": "いな",
-      "count": 465
+      "term": "係る",
+      "count": 530
     },
     {
-      "term": "時に",
-      "count": 459
+      "term": "しな",
+      "count": 521
     },
     {
-      "term": "を参",
-      "count": 422
+      "term": "とは",
+      "count": 519
     },
     {
-      "term": "た場",
-      "count": 412
+      "term": "とで",
+      "count": 497
+    },
+    {
+      "term": "性を",
+      "count": 492
+    },
+    {
+      "term": "組織",
+      "count": 447
+    },
+    {
+      "term": "きな",
+      "count": 447
+    },
+    {
+      "term": "めて",
+      "count": 402
     },
     {
       "term": "情報セキ",
       "count": 391
     },
     {
-      "term": "用に",
-      "count": 372
+      "term": "らの",
+      "count": 380
     },
     {
-      "term": "標準",
-      "count": 350
+      "term": "項 ",
+      "count": 379
     },
     {
-      "term": "外部",
-      "count": 349
+      "term": "ソフ",
+      "count": 378
     },
     {
-      "term": "が発",
-      "count": 342
+      "term": "書の",
+      "count": 368
     },
     {
-      "term": "報 ",
-      "count": 342
+      "term": "可能",
+      "count": 363
     },
     {
-      "term": "含め",
-      "count": 339
+      "term": "定の",
+      "count": 362
     },
     {
-      "term": "ール",
-      "count": 321
+      "term": "用を",
+      "count": 348
     },
     {
-      "term": "策定",
-      "count": 320
+      "term": "認す",
+      "count": 345
     },
     {
-      "term": "以外",
-      "count": 298
+      "term": "クを",
+      "count": 338
+    },
+    {
+      "term": "用の",
+      "count": 338
+    },
+    {
+      "term": "ベル",
+      "count": 318
+    },
+    {
+      "term": "いよ",
+      "count": 316
+    },
+    {
+      "term": "ンシ",
+      "count": 315
+    },
+    {
+      "term": "ドサ",
+      "count": 309
+    },
+    {
+      "term": "ロセ",
+      "count": 307
+    },
+    {
+      "term": "フト",
+      "count": 306
+    },
+    {
+      "term": "るか",
+      "count": 305
+    },
+    {
+      "term": "クラウド",
+      "count": 303
+    },
+    {
+      "term": "のセ",
+      "count": 300
+    },
+    {
+      "term": "構築",
+      "count": 294
     },
     {
       "term": "複数",
-      "count": 295
+      "count": 294
     },
     {
-      "term": "導入",
-      "count": 293
-    },
-    {
-      "term": "イバ",
+      "term": "認し",
       "count": 289
     },
     {
-      "term": "期間",
+      "term": "らか",
       "count": 287
     },
     {
@@ -146,60 +182,24 @@
       "count": 282
     },
     {
-      "term": "クの",
-      "count": 272
+      "term": "リス",
+      "count": 276
     },
     {
-      "term": "切に",
-      "count": 268
+      "term": "ム ",
+      "count": 261
     },
     {
-      "term": "法に",
-      "count": 266
+      "term": "かつ",
+      "count": 255
     },
     {
-      "term": "トが",
-      "count": 258
+      "term": "弱性",
+      "count": 255
     },
     {
-      "term": "く ",
-      "count": 254
-    },
-    {
-      "term": "ー ",
-      "count": 253
-    },
-    {
-      "term": "件を",
-      "count": 253
-    },
-    {
-      "term": "まし",
-      "count": 244
-    },
-    {
-      "term": "の見",
-      "count": 243
-    },
-    {
-      "term": "え方",
-      "count": 241
-    },
-    {
-      "term": "るサ",
-      "count": 238
-    },
-    {
-      "term": "向け",
-      "count": 235
-    },
-    {
-      "term": "理的",
-      "count": 233
-    },
-    {
-      "term": "機器",
-      "count": 231
+      "term": "品質",
+      "count": 252
     }
   ],
   "meetings": [
