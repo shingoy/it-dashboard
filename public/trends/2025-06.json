@@ -2,204 +2,204 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "github",
-      "count": 26
+      "term": "ある",
+      "count": 23
     },
     {
-      "term": "ルド",
+      "term": "構成",
+      "count": 20
+    },
+    {
+      "term": "ビル",
       "count": 19
     },
     {
-      "term": "ーム",
-      "count": 18
+      "term": "では",
+      "count": 19
     },
     {
-      "term": "る ",
-      "count": 18
-    },
-    {
-      "term": "物の",
-      "count": 17
-    },
-    {
-      "term": "これ",
-      "count": 17
-    },
-    {
-      "term": "ソー",
+      "term": "ービ",
       "count": 16
     },
     {
-      "term": "また",
+      "term": "必要",
       "count": 15
     },
     {
-      "term": "イメ",
+      "term": "れた",
       "count": 15
     },
     {
-      "term": "とな",
+      "term": "よう",
       "count": 15
     },
     {
-      "term": "への",
-      "count": 15
-    },
-    {
-      "term": "での",
+      "term": "ける",
       "count": 14
     },
     {
-      "term": "的に",
+      "term": "この",
+      "count": 14
+    },
+    {
+      "term": "の安",
       "count": 13
     },
     {
-      "term": "trivy",
+      "term": "とが",
       "count": 13
     },
     {
-      "term": "ーの",
+      "term": "中略",
+      "count": 13
+    },
+    {
+      "term": "内容",
       "count": 12
     },
     {
-      "term": "変更",
+      "term": "られ",
+      "count": 12
+    },
+    {
+      "term": "こで",
+      "count": 12
+    },
+    {
+      "term": "のc",
       "count": 11
     },
     {
-      "term": "イメージ",
+      "term": "ック",
       "count": 10
     },
     {
-      "term": "sbom",
+      "term": "code",
       "count": 10
     },
     {
-      "term": "ては",
+      "term": "的な",
       "count": 10
     },
     {
-      "term": "env",
+      "term": "バー",
       "count": 10
     },
     {
-      "term": "性管",
+      "term": "のリ",
       "count": 9
     },
     {
-      "term": "れて",
+      "term": "保 ",
       "count": 9
     },
     {
-      "term": "は ",
+      "term": "おけ",
       "count": 9
     },
     {
-      "term": "指定",
+      "term": "リの",
       "count": 9
+    },
+    {
+      "term": "定内",
+      "count": 8
+    },
+    {
+      "term": "組織",
+      "count": 7
+    },
+    {
+      "term": "示す",
+      "count": 7
+    },
+    {
+      "term": "デリバリ",
+      "count": 7
+    },
+    {
+      "term": "の仕",
+      "count": 7
+    },
+    {
+      "term": "用い",
+      "count": 7
+    },
+    {
+      "term": "自動",
+      "count": 7
+    },
+    {
+      "term": "もの",
+      "count": 7
+    },
+    {
+      "term": "ムチーム",
+      "count": 7
+    },
+    {
+      "term": "対象",
+      "count": 7
+    },
+    {
+      "term": "省略",
+      "count": 7
+    },
+    {
+      "term": "ップ",
+      "count": 7
+    },
+    {
+      "term": "略す",
+      "count": 7
+    },
+    {
+      "term": "策 ",
+      "count": 6
+    },
+    {
+      "term": "ード",
+      "count": 6
+    },
+    {
+      "term": "した",
+      "count": 6
+    },
+    {
+      "term": "はa",
+      "count": 6
+    },
+    {
+      "term": "ダー",
+      "count": 6
+    },
+    {
+      "term": "得し",
+      "count": 6
+    },
+    {
+      "term": "物と",
+      "count": 6
+    },
+    {
+      "term": "の署",
+      "count": 6
+    },
+    {
+      "term": "し ",
+      "count": 6
     },
     {
       "term": "and",
-      "count": 9
-    },
-    {
-      "term": "有の",
-      "count": 8
-    },
-    {
-      "term": "ている",
-      "count": 8
-    },
-    {
-      "term": "ツー",
-      "count": 8
-    },
-    {
-      "term": "ルー",
-      "count": 8
-    },
-    {
-      "term": "ーを",
-      "count": 8
-    },
-    {
-      "term": "の管",
-      "count": 8
-    },
-    {
-      "term": "ーに",
-      "count": 8
-    },
-    {
-      "term": "ル ",
-      "count": 7
-    },
-    {
-      "term": "にす",
-      "count": 7
-    },
-    {
-      "term": "のよ",
-      "count": 7
-    },
-    {
-      "term": "name",
-      "count": 7
-    },
-    {
-      "term": "ド管",
       "count": 6
     },
     {
-      "term": "ビルドフ",
-      "count": 6
+      "term": "た信",
+      "count": 5
     },
     {
-      "term": "るま",
-      "count": 6
-    },
-    {
-      "term": "複数",
-      "count": 6
-    },
-    {
-      "term": "ンテナイ",
-      "count": 6
-    },
-    {
-      "term": "策に",
-      "count": 6
-    },
-    {
-      "term": "の利",
-      "count": 6
-    },
-    {
-      "term": "の連",
-      "count": 6
-    },
-    {
-      "term": "secrets",
-      "count": 6
-    },
-    {
-      "term": "るそ",
-      "count": 6
-    },
-    {
-      "term": "があ",
-      "count": 6
-    },
-    {
-      "term": "tf",
-      "count": 6
-    },
-    {
-      "term": "ることが",
-      "count": 6
-    },
-    {
-      "term": "同様",
-      "count": 6
+      "term": "ンに",
+      "count": 5
     }
   ],
   "meetings": [
