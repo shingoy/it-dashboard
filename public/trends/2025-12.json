@@ -2,175 +2,47 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "本的",
+      "term": "の構",
       "count": 2
     },
     {
-      "term": "大規模オ",
+      "term": "信基",
       "count": 2
     },
     {
-      "term": "グ ",
+      "term": "インフラ",
       "count": 2
     },
     {
-      "term": "コンピュ",
+      "term": "人材",
       "count": 2
     },
     {
-      "term": "ーマンス",
+      "term": "億円",
       "count": 2
     },
     {
-      "term": "の研究",
+      "term": "研究",
       "count": 2
     },
     {
-      "term": "的ハ",
+      "term": "革新",
       "count": 2
     },
     {
-      "term": "内経",
+      "term": "イン",
       "count": 2
     },
     {
-      "term": "の安",
-      "count": 2
-    },
-    {
-      "term": "築 ",
-      "count": 2
-    },
-    {
-      "term": "グの",
+      "term": "テストベ",
       "count": 1
     },
     {
-      "term": "460",
+      "term": "テス",
       "count": 1
     },
     {
-      "term": "た継",
-      "count": 1
-    },
-    {
-      "term": "的変革",
-      "count": 1
-    },
-    {
-      "term": "継続",
-      "count": 1
-    },
-    {
-      "term": "のニ",
-      "count": 1
-    },
-    {
-      "term": "に推",
-      "count": 1
-    },
-    {
-      "term": "トベ",
-      "count": 1
-    },
-    {
-      "term": "ける",
-      "count": 1
-    },
-    {
-      "term": "グラ",
-      "count": 1
-    },
-    {
-      "term": "まえ",
-      "count": 1
-    },
-    {
-      "term": "ち複",
-      "count": 1
-    },
-    {
-      "term": "動型",
-      "count": 1
-    },
-    {
-      "term": "踏ま",
-      "count": 1
-    },
-    {
-      "term": "を抽",
-      "count": 1
-    },
-    {
-      "term": "針に分類",
-      "count": 1
-    },
-    {
-      "term": "化対",
-      "count": 1
-    },
-    {
-      "term": "学校現場",
-      "count": 1
-    },
-    {
-      "term": "キリ",
-      "count": 1
-    },
-    {
-      "term": "た匿名",
-      "count": 1
-    },
-    {
-      "term": "匿名",
-      "count": 1
-    },
-    {
-      "term": "立新",
-      "count": 1
-    },
-    {
-      "term": "立９",
-      "count": 1
-    },
-    {
-      "term": "造船ロボ",
-      "count": 1
-    },
-    {
-      "term": "介護テク",
-      "count": 1
-    },
-    {
-      "term": "注３",
-      "count": 1
-    },
-    {
-      "term": "変革",
-      "count": 1
-    },
-    {
-      "term": "罪グ",
-      "count": 1
-    },
-    {
-      "term": "靱化",
-      "count": 1
-    },
-    {
-      "term": "の開発促",
-      "count": 1
-    },
-    {
-      "term": "証の",
-      "count": 1
-    },
-    {
-      "term": "た次",
-      "count": 1
-    },
-    {
-      "term": "タ ",
+      "term": "を踏まえ",
       "count": 1
     },
     {
@@ -178,27 +50,155 @@
       "count": 1
     },
     {
-      "term": "進フ",
+      "term": "小企",
       "count": 1
     },
     {
-      "term": "ごと",
+      "term": "連施",
       "count": 1
     },
     {
-      "term": "盤b",
+      "term": "に応",
       "count": 1
     },
     {
-      "term": "ナン",
+      "term": "との予算",
       "count": 1
     },
     {
-      "term": "的と",
+      "term": "応の",
       "count": 1
     },
     {
-      "term": "等に",
+      "term": "スマート",
+      "count": 1
+    },
+    {
+      "term": "基金の積",
+      "count": 1
+    },
+    {
+      "term": "と協",
+      "count": 1
+    },
+    {
+      "term": "社会",
+      "count": 1
+    },
+    {
+      "term": "介護",
+      "count": 1
+    },
+    {
+      "term": "リスク対",
+      "count": 1
+    },
+    {
+      "term": "に向",
+      "count": 1
+    },
+    {
+      "term": "ロー",
+      "count": 1
+    },
+    {
+      "term": "グの",
+      "count": 1
+    },
+    {
+      "term": "的変革",
+      "count": 1
+    },
+    {
+      "term": "の研究",
+      "count": 1
+    },
+    {
+      "term": "月閣",
+      "count": 1
+    },
+    {
+      "term": "動運",
+      "count": 1
+    },
+    {
+      "term": "分類",
+      "count": 1
+    },
+    {
+      "term": "数の",
+      "count": 1
+    },
+    {
+      "term": "閣議",
+      "count": 1
+    },
+    {
+      "term": "的強",
+      "count": 1
+    },
+    {
+      "term": "スキ",
+      "count": 1
+    },
+    {
+      "term": "の情",
+      "count": 1
+    },
+    {
+      "term": "ット開発",
+      "count": 1
+    },
+    {
+      "term": "本グ",
+      "count": 1
+    },
+    {
+      "term": "に係る好",
+      "count": 1
+    },
+    {
+      "term": "促進",
+      "count": 1
+    },
+    {
+      "term": "場の",
+      "count": 1
+    },
+    {
+      "term": "上社",
+      "count": 1
+    },
+    {
+      "term": "ルサ",
+      "count": 1
+    },
+    {
+      "term": "間で",
+      "count": 1
+    },
+    {
+      "term": "タ利",
+      "count": 1
+    },
+    {
+      "term": "を総合的",
+      "count": 1
+    },
+    {
+      "term": "学研究革",
+      "count": 1
+    },
+    {
+      "term": "促進及び",
+      "count": 1
+    },
+    {
+      "term": "活用等の",
+      "count": 1
+    },
+    {
+      "term": "成ａ",
       "count": 1
     }
   ],
