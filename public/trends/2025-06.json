@@ -2,175 +2,139 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ポジ",
-      "count": 20
+      "term": "構成",
+      "count": 21
     },
     {
-      "term": "トリ",
-      "count": 20
+      "term": "チー",
+      "count": 18
     },
     {
-      "term": "ット",
-      "count": 20
-    },
-    {
-      "term": "ため",
-      "count": 20
-    },
-    {
-      "term": "ライ",
-      "count": 17
-    },
-    {
-      "term": "フェ",
+      "term": "るた",
       "count": 15
     },
     {
-      "term": "よび",
-      "count": 15
-    },
-    {
-      "term": "内容",
+      "term": "スコ",
       "count": 14
     },
     {
-      "term": "的に",
+      "term": "プロ",
+      "count": 14
+    },
+    {
+      "term": "生成",
       "count": 13
     },
     {
-      "term": "レッ",
+      "term": "る図",
       "count": 12
     },
     {
-      "term": "ティ",
+      "term": "こで",
+      "count": 12
+    },
+    {
+      "term": "場合",
+      "count": 12
+    },
+    {
+      "term": "フォーム",
       "count": 11
     },
     {
-      "term": "依存物の",
+      "term": "バー",
       "count": 11
     },
     {
-      "term": "署名",
-      "count": 11
-    },
-    {
-      "term": "の ",
+      "term": "に ",
       "count": 10
     },
     {
-      "term": "検証",
+      "term": "ルを",
       "count": 10
     },
     {
-      "term": "含む",
+      "term": "code",
       "count": 9
     },
     {
-      "term": "の確",
+      "term": "パイプラ",
       "count": 9
     },
     {
-      "term": "情報",
+      "term": "た ",
       "count": 9
     },
     {
-      "term": "が ",
+      "term": "とい",
       "count": 9
-    },
-    {
-      "term": "以外",
-      "count": 9
-    },
-    {
-      "term": "セス",
-      "count": 9
-    },
-    {
-      "term": "用い",
-      "count": 8
-    },
-    {
-      "term": "書で",
-      "count": 8
-    },
-    {
-      "term": "取得",
-      "count": 8
-    },
-    {
-      "term": "コンテナ",
-      "count": 8
-    },
-    {
-      "term": "漏洩",
-      "count": 7
-    },
-    {
-      "term": "組織",
-      "count": 7
-    },
-    {
-      "term": "定 ",
-      "count": 7
-    },
-    {
-      "term": "ド上",
-      "count": 7
-    },
-    {
-      "term": "および",
-      "count": 7
     },
     {
       "term": "ては",
+      "count": 9
+    },
+    {
+      "term": "build",
+      "count": 9
+    },
+    {
+      "term": "及び",
+      "count": 8
+    },
+    {
+      "term": "にお",
+      "count": 8
+    },
+    {
+      "term": "リソ",
+      "count": 8
+    },
+    {
+      "term": "定の",
+      "count": 8
+    },
+    {
+      "term": "ャン",
+      "count": 8
+    },
+    {
+      "term": "レッ",
       "count": 7
     },
     {
-      "term": "ップ",
+      "term": "スト",
       "count": 7
     },
     {
-      "term": "範囲",
+      "term": "以外",
       "count": 7
     },
     {
-      "term": "図 ",
+      "term": "次に",
       "count": 7
     },
     {
-      "term": "with",
+      "term": "事項",
       "count": 7
     },
     {
-      "term": "具体的な",
+      "term": "対し",
+      "count": 7
+    },
+    {
+      "term": "ンテ",
+      "count": 7
+    },
+    {
+      "term": "チの",
       "count": 6
     },
     {
-      "term": "詳細",
+      "term": "ドフ",
       "count": 6
     },
     {
-      "term": "ットの保",
-      "count": 6
-    },
-    {
-      "term": "めに",
-      "count": 6
-    },
-    {
-      "term": "ンの",
-      "count": 6
-    },
-    {
-      "term": "得し",
-      "count": 6
-    },
-    {
-      "term": "たt",
-      "count": 6
-    },
-    {
-      "term": "ンテナイ",
+      "term": "たが",
       "count": 6
     },
     {
@@ -178,27 +142,63 @@
       "count": 6
     },
     {
-      "term": "secrets",
+      "term": "ェッ",
       "count": 6
     },
     {
-      "term": "and",
+      "term": "の変",
       "count": 6
     },
     {
-      "term": "合は",
+      "term": "rule",
       "count": 6
     },
     {
-      "term": "ロー",
+      "term": "ーに",
+      "count": 6
+    },
+    {
+      "term": "同様",
+      "count": 6
+    },
+    {
+      "term": "true",
+      "count": 6
+    },
+    {
+      "term": "混入",
+      "count": 6
+    },
+    {
+      "term": "用保",
       "count": 5
     },
     {
-      "term": "する",
+      "term": "infrastructure",
       "count": 5
     },
     {
-      "term": "なけ",
+      "term": "リオ",
+      "count": 5
+    },
+    {
+      "term": "関す",
+      "count": 5
+    },
+    {
+      "term": "自体",
+      "count": 5
+    },
+    {
+      "term": "の成果物",
+      "count": 5
+    },
+    {
+      "term": "り ",
+      "count": 5
+    },
+    {
+      "term": "review",
       "count": 5
     }
   ],
