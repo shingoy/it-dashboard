@@ -6,91 +6,99 @@
       "count": 27
     },
     {
-      "term": "こと",
+      "term": "され",
+      "count": 27
+    },
+    {
+      "term": "した",
       "count": 22
     },
     {
-      "term": "ード",
-      "count": 21
+      "term": "パイプラ",
+      "count": 20
+    },
+    {
+      "term": "チー",
+      "count": 18
+    },
+    {
+      "term": "ーム",
+      "count": 18
+    },
+    {
+      "term": "ci",
+      "count": 17
     },
     {
       "term": "ット",
-      "count": 20
-    },
-    {
-      "term": "ール",
-      "count": 20
-    },
-    {
-      "term": "って",
       "count": 16
     },
     {
-      "term": "ォー",
-      "count": 16
+      "term": "フェ",
+      "count": 15
+    },
+    {
+      "term": "ーク",
+      "count": 15
     },
     {
       "term": "ンテ",
       "count": 15
     },
     {
-      "term": "があ",
-      "count": 14
-    },
-    {
-      "term": "頼性",
-      "count": 13
-    },
-    {
-      "term": "必要",
-      "count": 13
-    },
-    {
-      "term": "ント",
-      "count": 12
-    },
-    {
-      "term": "の安",
-      "count": 12
-    },
-    {
-      "term": "略 ",
-      "count": 12
-    },
-    {
-      "term": "プラット",
-      "count": 11
-    },
-    {
-      "term": "チームの",
-      "count": 11
-    },
-    {
-      "term": "つい",
-      "count": 11
-    },
-    {
-      "term": "クを",
-      "count": 11
+      "term": "テナ",
+      "count": 15
     },
     {
       "term": "とな",
+      "count": 15
+    },
+    {
+      "term": "必要",
+      "count": 15
+    },
+    {
+      "term": "る必",
+      "count": 14
+    },
+    {
+      "term": "とが",
+      "count": 13
+    },
+    {
+      "term": "id",
+      "count": 13
+    },
+    {
+      "term": "ン ",
       "count": 11
     },
     {
-      "term": "の信",
+      "term": "ステ",
+      "count": 11
+    },
+    {
+      "term": "10",
+      "count": 11
+    },
+    {
+      "term": "加え",
+      "count": 11
+    },
+    {
+      "term": "ンチ",
       "count": 10
     },
     {
-      "term": "を用",
+      "term": "ubuntu",
       "count": 10
     },
     {
-      "term": "られ",
+      "term": "on",
       "count": 10
     },
     {
-      "term": "ェア",
+      "term": "リバ",
       "count": 9
     },
     {
@@ -98,108 +106,100 @@
       "count": 9
     },
     {
-      "term": "及び",
+      "term": "ている",
+      "count": 9
+    },
+    {
+      "term": "カル",
       "count": 8
     },
     {
-      "term": "性管",
+      "term": "バイ",
       "count": 8
     },
     {
-      "term": "その",
+      "term": "きる",
       "count": 8
     },
     {
-      "term": "にも",
+      "term": "下の",
       "count": 8
     },
     {
-      "term": "性を",
+      "term": "れた",
       "count": 8
     },
     {
-      "term": "ェッ",
-      "count": 8
+      "term": "運用",
+      "count": 7
+    },
+    {
+      "term": "バイナリ",
+      "count": 7
+    },
+    {
+      "term": "すべ",
+      "count": 7
+    },
+    {
+      "term": "チェ",
+      "count": 7
+    },
+    {
+      "term": "ルに",
+      "count": 7
+    },
+    {
+      "term": "ード",
+      "count": 6
+    },
+    {
+      "term": "内の",
+      "count": 6
+    },
+    {
+      "term": "供す",
+      "count": 6
+    },
+    {
+      "term": "rule",
+      "count": 6
+    },
+    {
+      "term": "ref",
+      "count": 6
     },
     {
       "term": "る ",
-      "count": 8
-    },
-    {
-      "term": "報の",
-      "count": 7
-    },
-    {
-      "term": "ーカ",
-      "count": 7
-    },
-    {
-      "term": "トフォー",
-      "count": 7
-    },
-    {
-      "term": "ル ",
-      "count": 7
-    },
-    {
-      "term": "ンバ",
-      "count": 7
-    },
-    {
-      "term": "build",
-      "count": 7
-    },
-    {
-      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "成 ",
-      "count": 6
-    },
-    {
-      "term": "ド成",
-      "count": 6
-    },
-    {
-      "term": "スを",
-      "count": 6
-    },
-    {
-      "term": "ス ",
-      "count": 6
-    },
-    {
-      "term": "ソフトウ",
-      "count": 6
-    },
-    {
-      "term": "ルと",
-      "count": 6
-    },
-    {
-      "term": "トウ",
-      "count": 6
-    },
-    {
-      "term": "ウン",
-      "count": 6
-    },
-    {
-      "term": "の連",
-      "count": 6
-    },
-    {
-      "term": "象と",
-      "count": 6
-    },
-    {
-      "term": "critical",
+      "term": "を指",
       "count": 6
     },
     {
       "term": "ド設",
       "count": 6
+    },
+    {
+      "term": "steps",
+      "count": 6
+    },
+    {
+      "term": "slsa",
+      "count": 6
+    },
+    {
+      "term": "リオ",
+      "count": 5
+    },
+    {
+      "term": "13",
+      "count": 5
+    },
+    {
+      "term": "ド成",
+      "count": 5
     }
   ],
   "meetings": [
