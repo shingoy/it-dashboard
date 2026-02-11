@@ -2,171 +2,155 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "利用",
+      "term": "ット",
       "count": 20
     },
     {
-      "term": "ファ",
-      "count": 20
-    },
-    {
-      "term": "ーム",
-      "count": 18
-    },
-    {
-      "term": "サー",
+      "term": "aws",
       "count": 17
     },
     {
-      "term": "され",
-      "count": 17
-    },
-    {
-      "term": "ービ",
-      "count": 16
-    },
-    {
-      "term": "信頼",
+      "term": "コー",
       "count": 15
     },
     {
-      "term": "保護",
+      "term": "プロ",
       "count": 14
     },
     {
-      "term": "とな",
-      "count": 14
+      "term": "シー",
+      "count": 13
     },
     {
-      "term": "この",
-      "count": 14
+      "term": "物の",
+      "count": 13
     },
     {
-      "term": "るた",
+      "term": "場合",
+      "count": 13
+    },
+    {
+      "term": "必要",
       "count": 12
     },
     {
-      "term": "管理",
+      "term": "ステ",
       "count": 11
     },
     {
-      "term": "存物",
-      "count": 11
-    },
-    {
-      "term": "の実",
-      "count": 11
-    },
-    {
-      "term": "状態",
-      "count": 11
-    },
-    {
-      "term": "えら",
-      "count": 11
-    },
-    {
-      "term": "ビル",
+      "term": "code",
       "count": 10
     },
     {
-      "term": "10",
+      "term": "とす",
       "count": 10
     },
     {
-      "term": "いた",
+      "term": "変更",
       "count": 10
     },
     {
-      "term": "クを",
+      "term": "ポジ",
       "count": 10
     },
     {
-      "term": "の確",
+      "term": "ン ",
       "count": 9
-    },
-    {
-      "term": "に ",
-      "count": 9
-    },
-    {
-      "term": "取得",
-      "count": 9
-    },
-    {
-      "term": "署名",
-      "count": 9
-    },
-    {
-      "term": "定内",
-      "count": 8
-    },
-    {
-      "term": "での",
-      "count": 8
-    },
-    {
-      "term": "ド上",
-      "count": 8
-    },
-    {
-      "term": "リソ",
-      "count": 8
     },
     {
       "term": "の制",
+      "count": 9
+    },
+    {
+      "term": "にも",
+      "count": 9
+    },
+    {
+      "term": "それ",
+      "count": 9
+    },
+    {
+      "term": "スキ",
+      "count": 9
+    },
+    {
+      "term": "指定",
+      "count": 9
+    },
+    {
+      "term": "and",
+      "count": 9
+    },
+    {
+      "term": "runs",
+      "count": 9
+    },
+    {
+      "term": "キャ",
       "count": 8
     },
     {
-      "term": "バリ",
+      "term": "env",
       "count": 8
     },
     {
-      "term": "を用",
-      "count": 8
-    },
-    {
-      "term": "docker",
-      "count": 8
-    },
-    {
-      "term": "性を",
-      "count": 8
-    },
-    {
-      "term": "用し",
-      "count": 8
-    },
-    {
-      "term": "com",
-      "count": 8
-    },
-    {
-      "term": "リテ",
+      "term": "共通",
       "count": 7
     },
     {
-      "term": "cosign",
+      "term": "システム",
       "count": 7
     },
     {
-      "term": "registry",
+      "term": "バイナリ",
       "count": 7
     },
     {
-      "term": "など",
+      "term": "ダー",
       "count": 7
     },
     {
-      "term": "ークレッ",
+      "term": "全性",
       "count": 7
     },
     {
-      "term": "の保護",
+      "term": "クセ",
+      "count": 7
+    },
+    {
+      "term": "し ",
+      "count": 7
+    },
+    {
+      "term": "のよ",
+      "count": 7
+    },
+    {
+      "term": "ている",
+      "count": 7
+    },
+    {
+      "term": "latest",
+      "count": 7
+    },
+    {
+      "term": "洩対",
       "count": 6
     },
     {
-      "term": "ルと",
+      "term": "パイ",
+      "count": 6
+    },
+    {
+      "term": "図 ",
+      "count": 6
+    },
+    {
+      "term": "スを",
+      "count": 6
+    },
+    {
+      "term": "定 ",
       "count": 6
     },
     {
@@ -174,31 +158,47 @@
       "count": 6
     },
     {
-      "term": "ムに",
+      "term": "供す",
       "count": 6
     },
     {
-      "term": "生成",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "完全",
+      "term": "codebuild",
       "count": 6
     },
     {
-      "term": "ルに",
+      "term": "ンテナイ",
       "count": 6
     },
     {
-      "term": "ルの",
+      "term": "方法",
       "count": 6
     },
     {
-      "term": "資産管理",
+      "term": "略す",
+      "count": 6
+    },
+    {
+      "term": "作成",
+      "count": 6
+    },
+    {
+      "term": "ref",
+      "count": 6
+    },
+    {
+      "term": "同様",
+      "count": 6
+    },
+    {
+      "term": "ド ",
       "count": 5
     },
     {
-      "term": "ショ",
+      "term": "理 ",
       "count": 5
     }
   ],
