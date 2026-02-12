@@ -2,204 +2,204 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ット",
-      "count": 20
-    },
-    {
-      "term": "aws",
-      "count": 17
-    },
-    {
-      "term": "コー",
-      "count": 15
-    },
-    {
-      "term": "プロ",
-      "count": 14
-    },
-    {
-      "term": "シー",
-      "count": 13
-    },
-    {
-      "term": "物の",
-      "count": 13
-    },
-    {
-      "term": "場合",
-      "count": 13
-    },
-    {
-      "term": "必要",
-      "count": 12
-    },
-    {
-      "term": "ステ",
-      "count": 11
-    },
-    {
-      "term": "code",
-      "count": 10
-    },
-    {
-      "term": "とす",
-      "count": 10
-    },
-    {
-      "term": "変更",
-      "count": 10
-    },
-    {
-      "term": "ポジ",
-      "count": 10
-    },
-    {
-      "term": "ン ",
-      "count": 9
-    },
-    {
-      "term": "の制",
-      "count": 9
-    },
-    {
-      "term": "にも",
-      "count": 9
-    },
-    {
-      "term": "それ",
-      "count": 9
-    },
-    {
-      "term": "スキ",
-      "count": 9
-    },
-    {
-      "term": "指定",
-      "count": 9
-    },
-    {
-      "term": "and",
-      "count": 9
-    },
-    {
-      "term": "runs",
-      "count": 9
-    },
-    {
-      "term": "キャ",
-      "count": 8
-    },
-    {
-      "term": "env",
-      "count": 8
-    },
-    {
-      "term": "共通",
-      "count": 7
-    },
-    {
-      "term": "システム",
-      "count": 7
-    },
-    {
-      "term": "バイナリ",
-      "count": 7
-    },
-    {
-      "term": "ダー",
-      "count": 7
-    },
-    {
-      "term": "全性",
-      "count": 7
-    },
-    {
-      "term": "クセ",
-      "count": 7
-    },
-    {
-      "term": "し ",
-      "count": 7
-    },
-    {
-      "term": "のよ",
-      "count": 7
-    },
-    {
-      "term": "ている",
-      "count": 7
-    },
-    {
-      "term": "latest",
-      "count": 7
-    },
-    {
-      "term": "洩対",
-      "count": 6
+      "term": "プラ",
+      "count": 26
     },
     {
       "term": "パイ",
+      "count": 21
+    },
+    {
+      "term": "ポジ",
+      "count": 20
+    },
+    {
+      "term": "ォー",
+      "count": 16
+    },
+    {
+      "term": "の保",
+      "count": 16
+    },
+    {
+      "term": "確認",
+      "count": 13
+    },
+    {
+      "term": "とが",
+      "count": 13
+    },
+    {
+      "term": "シークレ",
+      "count": 12
+    },
+    {
+      "term": "られ",
+      "count": 12
+    },
+    {
+      "term": "った",
+      "count": 12
+    },
+    {
+      "term": "com",
+      "count": 11
+    },
+    {
+      "term": "加え",
+      "count": 11
+    },
+    {
+      "term": "内容",
+      "count": 10
+    },
+    {
+      "term": "ライ",
+      "count": 10
+    },
+    {
+      "term": "イメージ",
+      "count": 10
+    },
+    {
+      "term": "sbom",
+      "count": 10
+    },
+    {
+      "term": "生成",
+      "count": 10
+    },
+    {
+      "term": "性管",
+      "count": 9
+    },
+    {
+      "term": "にお",
+      "count": 9
+    },
+    {
+      "term": "が ",
+      "count": 9
+    },
+    {
+      "term": "以外",
+      "count": 9
+    },
+    {
+      "term": "定の",
+      "count": 9
+    },
+    {
+      "term": "成さ",
+      "count": 9
+    },
+    {
+      "term": "リの",
+      "count": 9
+    },
+    {
+      "term": "ステ",
+      "count": 8
+    },
+    {
+      "term": "らの",
+      "count": 8
+    },
+    {
+      "term": "キー",
+      "count": 7
+    },
+    {
+      "term": "ムチ",
+      "count": 7
+    },
+    {
+      "term": "ーク",
+      "count": 7
+    },
+    {
+      "term": "るプ",
+      "count": 7
+    },
+    {
+      "term": "ると",
+      "count": 7
+    },
+    {
+      "term": "定義",
+      "count": 7
+    },
+    {
+      "term": "考えられ",
+      "count": 7
+    },
+    {
+      "term": "記述",
+      "count": 7
+    },
+    {
+      "term": "ーテ",
+      "count": 7
+    },
+    {
+      "term": "事項",
+      "count": 7
+    },
+    {
+      "term": "ークレッ",
+      "count": 7
+    },
+    {
+      "term": "成 ",
       "count": 6
     },
     {
-      "term": "図 ",
+      "term": "の漏洩対",
       "count": 6
     },
     {
-      "term": "スを",
+      "term": "ショ",
       "count": 6
     },
     {
-      "term": "定 ",
+      "term": "ムの",
       "count": 6
     },
     {
-      "term": "体の",
+      "term": "関連",
       "count": 6
     },
     {
-      "term": "供す",
+      "term": "リポジト",
       "count": 6
     },
     {
-      "term": "ムは",
+      "term": "のs",
       "count": 6
     },
     {
-      "term": "codebuild",
+      "term": "review",
       "count": 6
     },
     {
-      "term": "ンテナイ",
+      "term": "ビュ",
       "count": 6
     },
     {
-      "term": "方法",
+      "term": "指定",
       "count": 6
     },
     {
-      "term": "略す",
+      "term": "tf",
       "count": 6
     },
     {
-      "term": "作成",
+      "term": "format",
       "count": 6
     },
     {
-      "term": "ref",
+      "term": "critical",
       "count": 6
-    },
-    {
-      "term": "同様",
-      "count": 6
-    },
-    {
-      "term": "ド ",
-      "count": 5
-    },
-    {
-      "term": "理 ",
-      "count": 5
     }
   ],
   "meetings": [
