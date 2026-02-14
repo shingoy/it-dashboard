@@ -2,47 +2,55 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "イプ",
-      "count": 21
+      "term": "る ",
+      "count": 28
     },
     {
-      "term": "ソー",
+      "term": "でき",
+      "count": 20
+    },
+    {
+      "term": "name",
+      "count": 17
+    },
+    {
+      "term": "ビス",
       "count": 16
     },
     {
-      "term": "ラッ",
+      "term": "れた",
+      "count": 16
+    },
+    {
+      "term": "テナ",
       "count": 15
     },
     {
-      "term": "から",
+      "term": "署名",
       "count": 15
     },
     {
-      "term": "ドフ",
+      "term": "また",
       "count": 14
     },
     {
-      "term": "シークレ",
+      "term": "いる",
+      "count": 13
+    },
+    {
+      "term": "確認",
+      "count": 13
+    },
+    {
+      "term": "のメ",
       "count": 12
     },
     {
-      "term": "ント",
-      "count": 12
-    },
-    {
-      "term": "フォーム",
+      "term": "ティ",
       "count": 11
     },
     {
-      "term": "トの",
-      "count": 11
-    },
-    {
-      "term": "の実",
-      "count": 11
-    },
-    {
-      "term": "チェ",
+      "term": "って",
       "count": 11
     },
     {
@@ -50,71 +58,71 @@
       "count": 11
     },
     {
-      "term": "状態",
+      "term": "terraform",
       "count": 11
     },
     {
-      "term": "git",
+      "term": "サー",
+      "count": 11
+    },
+    {
+      "term": "を用",
       "count": 10
     },
     {
-      "term": "バー",
+      "term": "to",
       "count": 10
     },
     {
-      "term": "の成",
-      "count": 10
-    },
-    {
-      "term": "脆弱性管",
+      "term": "策 ",
       "count": 9
     },
     {
-      "term": "にお",
+      "term": "るが",
       "count": 9
     },
     {
-      "term": "フト",
+      "term": "action",
       "count": 9
     },
     {
-      "term": "リの",
-      "count": 9
-    },
-    {
-      "term": "シス",
+      "term": "ン ",
       "count": 8
     },
     {
-      "term": "ビルドフ",
+      "term": "的な",
       "count": 8
     },
     {
-      "term": "リソ",
+      "term": "スト",
       "count": 8
     },
     {
-      "term": "らの",
+      "term": "物を",
       "count": 8
     },
     {
-      "term": "依存",
+      "term": "トウ",
       "count": 8
     },
     {
-      "term": "commit",
+      "term": "の ",
       "count": 8
     },
     {
-      "term": "のよ",
+      "term": "スの",
       "count": 8
     },
     {
-      "term": "共通",
+      "term": "いた",
+      "count": 8
+    },
+    {
+      "term": "組織",
       "count": 7
     },
     {
-      "term": "スコ",
+      "term": "パイ",
       "count": 7
     },
     {
@@ -122,83 +130,75 @@
       "count": 7
     },
     {
-      "term": "省略",
+      "term": "イナ",
       "count": 7
     },
     {
-      "term": "json",
+      "term": "クセ",
       "count": 7
     },
     {
-      "term": "ュリ",
+      "term": "ンの",
       "count": 6
     },
     {
-      "term": "ジト",
+      "term": "特有",
       "count": 6
     },
     {
-      "term": "ド成",
+      "term": "性が",
       "count": 6
     },
     {
-      "term": "プロバイ",
+      "term": "得し",
       "count": 6
     },
     {
-      "term": "供す",
+      "term": "ここでは",
       "count": 6
     },
     {
-      "term": "のg",
+      "term": "の利",
       "count": 6
     },
     {
-      "term": "るよ",
+      "term": "保で",
       "count": 6
     },
     {
-      "term": "secrets",
+      "term": "ズで",
       "count": 6
     },
     {
-      "term": "とも",
+      "term": "and",
       "count": 6
     },
     {
-      "term": "name",
+      "term": "に加",
       "count": 6
     },
     {
-      "term": "リス",
-      "count": 6
-    },
-    {
-      "term": "ージ",
-      "count": 6
-    },
-    {
-      "term": "理脆",
+      "term": "とに",
       "count": 5
     },
     {
-      "term": "ステ",
+      "term": "ト ",
       "count": 5
     },
     {
-      "term": "ロー",
+      "term": "信頼でき",
       "count": 5
     },
     {
-      "term": "れに",
+      "term": "イン特有",
       "count": 5
     },
     {
-      "term": "ン特",
+      "term": "頼で",
       "count": 5
     },
     {
-      "term": "に保",
+      "term": "プ ",
       "count": 5
     }
   ],
