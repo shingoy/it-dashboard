@@ -2,47 +2,47 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ライ",
-      "count": 22
+      "term": "イプ",
+      "count": 21
     },
     {
-      "term": "ため",
-      "count": 22
-    },
-    {
-      "term": "パイプラ",
-      "count": 20
-    },
-    {
-      "term": "ービ",
+      "term": "ソー",
       "count": 16
     },
     {
-      "term": "イメ",
+      "term": "ラッ",
       "count": 15
     },
     {
-      "term": "での",
+      "term": "から",
+      "count": 15
+    },
+    {
+      "term": "ドフ",
       "count": 14
     },
     {
-      "term": "中略",
-      "count": 13
+      "term": "シークレ",
+      "count": 12
     },
     {
-      "term": "とす",
+      "term": "ント",
+      "count": 12
+    },
+    {
+      "term": "フォーム",
       "count": 11
     },
     {
-      "term": "体的",
+      "term": "トの",
       "count": 11
     },
     {
-      "term": "上で",
+      "term": "の実",
       "count": 11
     },
     {
-      "term": "範囲",
+      "term": "チェ",
       "count": 11
     },
     {
@@ -50,99 +50,111 @@
       "count": 11
     },
     {
-      "term": "取得",
+      "term": "状態",
       "count": 11
     },
     {
-      "term": "スチ",
-      "count": 11
-    },
-    {
-      "term": "ンチ",
+      "term": "git",
       "count": 10
     },
     {
-      "term": "ナリ",
+      "term": "バー",
       "count": 10
     },
     {
-      "term": "トの",
+      "term": "の成",
       "count": 10
     },
     {
-      "term": "sbom",
-      "count": 10
-    },
-    {
-      "term": "tf",
-      "count": 10
-    },
-    {
-      "term": "含む",
+      "term": "脆弱性管",
       "count": 9
     },
     {
-      "term": "リバ",
+      "term": "にお",
       "count": 9
     },
     {
-      "term": "ック",
+      "term": "フト",
+      "count": 9
+    },
+    {
+      "term": "リの",
+      "count": 9
+    },
+    {
+      "term": "シス",
       "count": 8
     },
     {
-      "term": "スの",
+      "term": "ビルドフ",
       "count": 8
     },
     {
-      "term": "それ",
+      "term": "リソ",
       "count": 8
     },
     {
-      "term": "とい",
+      "term": "らの",
       "count": 8
     },
     {
-      "term": "リ及",
-      "count": 7
+      "term": "依存",
+      "count": 8
     },
     {
-      "term": "テム",
-      "count": 7
-    },
-    {
-      "term": "対策",
-      "count": 7
-    },
-    {
-      "term": "ルド",
-      "count": 7
-    },
-    {
-      "term": "ムチーム",
-      "count": 7
+      "term": "commit",
+      "count": 8
     },
     {
       "term": "のよ",
+      "count": 8
+    },
+    {
+      "term": "共通",
       "count": 7
     },
     {
-      "term": "ド管",
+      "term": "スコ",
+      "count": 7
+    },
+    {
+      "term": "内の",
+      "count": 7
+    },
+    {
+      "term": "省略",
+      "count": 7
+    },
+    {
+      "term": "json",
+      "count": 7
+    },
+    {
+      "term": "ュリ",
       "count": 6
     },
     {
-      "term": "信頼性の",
+      "term": "ジト",
       "count": 6
     },
     {
-      "term": "ソフトウ",
+      "term": "ド成",
       "count": 6
     },
     {
-      "term": "記述",
+      "term": "プロバイ",
       "count": 6
     },
     {
-      "term": "クト",
+      "term": "供す",
+      "count": 6
+    },
+    {
+      "term": "のg",
+      "count": 6
+    },
+    {
+      "term": "るよ",
       "count": 6
     },
     {
@@ -150,55 +162,43 @@
       "count": 6
     },
     {
-      "term": "仕組",
+      "term": "とも",
       "count": 6
     },
     {
-      "term": "象と",
+      "term": "name",
       "count": 6
     },
     {
-      "term": "れら",
+      "term": "リス",
       "count": 6
     },
     {
-      "term": "保守",
+      "term": "ージ",
+      "count": 6
+    },
+    {
+      "term": "理脆",
       "count": 5
     },
     {
-      "term": "ド ",
+      "term": "ステ",
       "count": 5
     },
     {
-      "term": "サプ",
+      "term": "ロー",
       "count": 5
     },
     {
-      "term": "はあ",
+      "term": "れに",
       "count": 5
     },
     {
-      "term": "はt",
+      "term": "ン特",
       "count": 5
     },
     {
-      "term": "配布",
-      "count": 5
-    },
-    {
-      "term": "イ ",
-      "count": 5
-    },
-    {
-      "term": "チームが",
-      "count": 5
-    },
-    {
-      "term": "を利",
-      "count": 5
-    },
-    {
-      "term": "ファ",
+      "term": "に保",
       "count": 5
     }
   ],
