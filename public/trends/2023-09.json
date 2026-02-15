@@ -2,75 +2,63 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "制対",
+      "term": "機関",
       "count": 3
     },
     {
-      "term": "マッ",
+      "term": "討 ",
       "count": 3
     },
     {
-      "term": "らの",
+      "term": "共有",
       "count": 3
     },
     {
-      "term": "ン ",
+      "term": "実装",
       "count": 3
     },
     {
-      "term": "月 ",
+      "term": "検討",
       "count": 3
     },
     {
-      "term": "かけや",
+      "term": "コン",
+      "count": 3
+    },
+    {
+      "term": "を活",
+      "count": 3
+    },
+    {
+      "term": "い ",
       "count": 2
     },
     {
-      "term": "にお",
+      "term": "ムの",
       "count": 2
     },
     {
-      "term": "ーシ",
+      "term": "を検討",
       "count": 2
     },
     {
-      "term": "提供",
+      "term": "トコ",
       "count": 2
     },
     {
-      "term": "バックと",
+      "term": "所管",
       "count": 2
     },
     {
-      "term": "やア",
+      "term": "め ",
       "count": 2
     },
     {
-      "term": "する",
+      "term": "クと",
       "count": 2
     },
     {
-      "term": "制の",
-      "count": 2
-    },
-    {
-      "term": "自らへの",
-      "count": 2
-    },
-    {
-      "term": "ニテ",
-      "count": 2
-    },
-    {
-      "term": "向上",
-      "count": 2
-    },
-    {
-      "term": "者か",
-      "count": 2
-    },
-    {
-      "term": "して",
+      "term": "加 ",
       "count": 2
     },
     {
@@ -78,43 +66,47 @@
       "count": 2
     },
     {
-      "term": "期待",
+      "term": "の連",
       "count": 2
     },
     {
-      "term": "スト",
+      "term": "規制所管",
       "count": 2
     },
     {
-      "term": "結果等を",
+      "term": "おけ",
       "count": 2
     },
     {
-      "term": "事業",
+      "term": "供 ",
       "count": 2
     },
     {
-      "term": "感 ",
+      "term": "ミュ",
       "count": 2
     },
     {
-      "term": "テス",
+      "term": "の場",
       "count": 2
     },
     {
-      "term": "アド",
+      "term": "ニテ",
       "count": 2
     },
     {
-      "term": "に ",
+      "term": "携し",
       "count": 2
     },
     {
-      "term": "保有",
+      "term": "ムの今後",
       "count": 2
     },
     {
-      "term": "検討",
+      "term": "術カ",
+      "count": 2
+    },
+    {
+      "term": "グに",
       "count": 2
     },
     {
@@ -122,83 +114,91 @@
       "count": 2
     },
     {
-      "term": "ウム",
+      "term": "スト",
       "count": 2
     },
     {
-      "term": "の速",
+      "term": "制見直",
       "count": 2
     },
     {
-      "term": "ィードバ",
+      "term": "事業",
+      "count": 2
+    },
+    {
+      "term": "テス",
+      "count": 2
+    },
+    {
+      "term": "アドバイ",
+      "count": 2
+    },
+    {
+      "term": "告会",
+      "count": 2
+    },
+    {
+      "term": "ジウ",
+      "count": 2
+    },
+    {
+      "term": "え保",
+      "count": 2
+    },
+    {
+      "term": "結果",
+      "count": 2
+    },
+    {
+      "term": "ーク",
       "count": 1
     },
     {
-      "term": "関係者間",
+      "term": "的な",
       "count": 1
     },
     {
-      "term": "組方",
+      "term": "する施策",
       "count": 1
     },
     {
-      "term": "に加え",
+      "term": "のネ",
       "count": 1
     },
     {
-      "term": "庁規",
+      "term": "ース",
       "count": 1
     },
     {
-      "term": "務局",
+      "term": "の目的や",
       "count": 1
     },
     {
-      "term": "や技術開",
+      "term": "のよ",
       "count": 1
     },
     {
-      "term": "民間含む",
+      "term": "や利",
       "count": 1
     },
     {
-      "term": "フォース",
+      "term": "営事",
       "count": 1
     },
     {
-      "term": "対して",
+      "term": "事務",
       "count": 1
     },
     {
-      "term": "や中",
+      "term": "力の",
       "count": 1
     },
     {
-      "term": "タログを",
+      "term": "運営する",
       "count": 1
     },
     {
-      "term": "ォー",
-      "count": 1
-    },
-    {
-      "term": "しど",
-      "count": 1
-    },
-    {
-      "term": "活用した",
-      "count": 1
-    },
-    {
-      "term": "存在",
-      "count": 1
-    },
-    {
-      "term": "社会実装",
-      "count": 1
-    },
-    {
-      "term": "学習",
+      "term": "つ情",
       "count": 1
     }
   ],
