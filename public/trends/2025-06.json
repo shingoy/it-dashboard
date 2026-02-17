@@ -2,111 +2,119 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "る ",
-      "count": 28
+      "term": "ある",
+      "count": 25
     },
     {
       "term": "ライ",
-      "count": 23
+      "count": 21
     },
     {
-      "term": "サー",
-      "count": 17
+      "term": "果物",
+      "count": 20
     },
     {
-      "term": "ーズ",
+      "term": "ファ",
+      "count": 20
+    },
+    {
+      "term": "github",
+      "count": 20
+    },
+    {
+      "term": "物の",
+      "count": 16
+    },
+    {
+      "term": "実行",
+      "count": 16
+    },
+    {
+      "term": "ムの",
       "count": 15
     },
     {
-      "term": "トフ",
+      "term": "フォ",
       "count": 15
     },
     {
-      "term": "に ",
+      "term": "署名",
+      "count": 15
+    },
+    {
+      "term": "があ",
       "count": 14
     },
     {
-      "term": "パイ",
-      "count": 14
-    },
-    {
-      "term": "体的",
+      "term": "プロ",
       "count": 13
     },
     {
-      "term": "担保",
-      "count": 13
-    },
-    {
-      "term": "る図",
-      "count": 13
-    },
-    {
-      "term": "コー",
+      "term": "イメ",
       "count": 12
     },
     {
-      "term": "プラット",
-      "count": 11
-    },
-    {
-      "term": "ステ",
-      "count": 11
-    },
-    {
-      "term": "依存物の",
-      "count": 11
-    },
-    {
-      "term": "成果物の",
-      "count": 11
-    },
-    {
-      "term": "定す",
-      "count": 11
-    },
-    {
-      "term": "ナリ",
-      "count": 10
+      "term": "こで",
+      "count": 12
     },
     {
       "term": "ック",
       "count": 10
     },
     {
-      "term": "はc",
+      "term": "ティ",
       "count": 10
     },
     {
-      "term": "を用",
+      "term": "利用",
       "count": 10
     },
     {
-      "term": "ルの",
+      "term": "sbom",
       "count": 10
     },
     {
-      "term": "セス",
-      "count": 10
-    },
-    {
-      "term": "クを",
-      "count": 10
-    },
-    {
-      "term": "env",
-      "count": 10
-    },
-    {
-      "term": "に関",
+      "term": "デリ",
       "count": 9
     },
     {
-      "term": "以外",
+      "term": "なお",
       "count": 9
     },
     {
-      "term": "囲の",
+      "term": "の ",
+      "count": 9
+    },
+    {
+      "term": "ービ",
+      "count": 9
+    },
+    {
+      "term": "ーを",
+      "count": 9
+    },
+    {
+      "term": "検証",
+      "count": 9
+    },
+    {
+      "term": "対象",
+      "count": 9
+    },
+    {
+      "term": "スキ",
+      "count": 9
+    },
+    {
+      "term": "ーカ",
+      "count": 8
+    },
+    {
+      "term": "行範",
+      "count": 8
+    },
+    {
+      "term": "有の",
       "count": 8
     },
     {
@@ -114,92 +122,84 @@
       "count": 8
     },
     {
-      "term": "リソ",
+      "term": "を実",
       "count": 8
     },
     {
-      "term": "ング",
+      "term": "いう",
       "count": 8
     },
     {
-      "term": "commit",
-      "count": 8
-    },
-    {
-      "term": "果物",
-      "count": 8
-    },
-    {
-      "term": "ローカル",
+      "term": "すべ",
       "count": 7
     },
     {
-      "term": "における",
+      "term": "バイナリ",
       "count": 7
     },
     {
-      "term": "いこ",
+      "term": "ウェ",
       "count": 7
     },
     {
-      "term": "rulesets",
+      "term": "もの",
       "count": 7
     },
     {
-      "term": "and",
+      "term": "ジを",
       "count": 7
     },
     {
-      "term": "され",
+      "term": "ンb",
       "count": 7
     },
     {
-      "term": "仕組",
+      "term": "クセ",
       "count": 7
     },
     {
-      "term": "要と",
-      "count": 7
-    },
-    {
-      "term": "成 ",
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "ワー",
+      "term": "ソースコ",
       "count": 6
     },
     {
-      "term": "の漏洩対",
+      "term": "24",
       "count": 6
     },
     {
-      "term": "プロバイ",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "ソフトウ",
+      "term": "codebuild",
       "count": 6
     },
     {
-      "term": "ルと",
+      "term": "の連",
       "count": 6
     },
     {
-      "term": "ンテナイ",
+      "term": "影響",
       "count": 6
     },
     {
-      "term": "たt",
+      "term": "tf",
       "count": 6
     },
     {
-      "term": "こで",
+      "term": "る ",
       "count": 6
     },
     {
-      "term": "レビ",
+      "term": "checkout",
       "count": 6
+    },
+    {
+      "term": "リオ",
+      "count": 5
     }
   ],
   "meetings": [
