@@ -2,167 +2,139 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 25
-    },
-    {
-      "term": "ライ",
+      "term": "パイ",
       "count": 21
     },
     {
+      "term": "では",
+      "count": 19
+    },
+    {
       "term": "果物",
-      "count": 20
+      "count": 19
     },
     {
-      "term": "ファ",
-      "count": 20
-    },
-    {
-      "term": "github",
-      "count": 20
-    },
-    {
-      "term": "物の",
-      "count": 16
-    },
-    {
-      "term": "実行",
-      "count": 16
-    },
-    {
-      "term": "ムの",
+      "term": "フェ",
       "count": 15
     },
     {
-      "term": "フォ",
+      "term": "よび",
       "count": 15
     },
     {
-      "term": "署名",
+      "term": "弱性",
       "count": 15
     },
     {
-      "term": "があ",
+      "term": "ナイ",
+      "count": 15
+    },
+    {
+      "term": "ース",
       "count": 14
     },
     {
-      "term": "プロ",
+      "term": "場合",
       "count": 13
     },
     {
-      "term": "イメ",
-      "count": 12
-    },
-    {
-      "term": "こで",
-      "count": 12
-    },
-    {
-      "term": "ック",
-      "count": 10
-    },
-    {
-      "term": "ティ",
-      "count": 10
-    },
-    {
-      "term": "利用",
-      "count": 10
-    },
-    {
-      "term": "sbom",
-      "count": 10
-    },
-    {
-      "term": "デリ",
-      "count": 9
-    },
-    {
-      "term": "なお",
-      "count": 9
-    },
-    {
-      "term": "の ",
-      "count": 9
-    },
-    {
-      "term": "ービ",
-      "count": 9
-    },
-    {
-      "term": "ーを",
-      "count": 9
-    },
-    {
-      "term": "検証",
-      "count": 9
-    },
-    {
-      "term": "対象",
-      "count": 9
-    },
-    {
-      "term": "スキ",
-      "count": 9
-    },
-    {
-      "term": "ーカ",
-      "count": 8
-    },
-    {
-      "term": "行範",
-      "count": 8
-    },
-    {
-      "term": "有の",
-      "count": 8
-    },
-    {
-      "term": "スク",
-      "count": 8
-    },
-    {
-      "term": "を実",
-      "count": 8
-    },
-    {
-      "term": "いう",
-      "count": 8
-    },
-    {
-      "term": "すべ",
-      "count": 7
-    },
-    {
-      "term": "バイナリ",
-      "count": 7
-    },
-    {
-      "term": "ウェ",
-      "count": 7
-    },
-    {
-      "term": "もの",
-      "count": 7
-    },
-    {
-      "term": "ジを",
-      "count": 7
-    },
-    {
-      "term": "ンb",
-      "count": 7
-    },
-    {
-      "term": "クセ",
-      "count": 7
-    },
-    {
-      "term": "セキ",
-      "count": 6
-    },
-    {
       "term": "ソースコ",
+      "count": 12
+    },
+    {
+      "term": "とす",
+      "count": 11
+    },
+    {
+      "term": "おけ",
+      "count": 11
+    },
+    {
+      "term": "フォ",
+      "count": 11
+    },
+    {
+      "term": "につ",
+      "count": 10
+    },
+    {
+      "term": "ci",
+      "count": 10
+    },
+    {
+      "term": "ライ",
+      "count": 10
+    },
+    {
+      "term": "env",
+      "count": 10
+    },
+    {
+      "term": "on",
+      "count": 10
+    },
+    {
+      "term": "が ",
+      "count": 9
+    },
+    {
+      "term": "ー ",
+      "count": 9
+    },
+    {
+      "term": "workflows",
+      "count": 9
+    },
+    {
+      "term": "リポジト",
+      "count": 8
+    },
+    {
+      "term": "が考",
+      "count": 8
+    },
+    {
+      "term": "リ及",
+      "count": 7
+    },
+    {
+      "term": "及び",
+      "count": 7
+    },
+    {
+      "term": "内の",
+      "count": 7
+    },
+    {
+      "term": "物を",
+      "count": 7
+    },
+    {
+      "term": "連携",
+      "count": 7
+    },
+    {
+      "term": "ル ",
+      "count": 7
+    },
+    {
+      "term": "省略",
+      "count": 7
+    },
+    {
+      "term": "きる",
+      "count": 7
+    },
+    {
+      "term": "digest",
+      "count": 7
+    },
+    {
+      "term": "とは",
+      "count": 7
+    },
+    {
+      "term": "にお",
       "count": 6
     },
     {
@@ -174,31 +146,59 @@
       "count": 6
     },
     {
-      "term": "codebuild",
+      "term": "ロバ",
       "count": 6
     },
     {
-      "term": "の連",
+      "term": "の担",
       "count": 6
     },
     {
-      "term": "影響",
+      "term": "secrets",
       "count": 6
     },
     {
-      "term": "tf",
+      "term": "るs",
       "count": 6
     },
     {
-      "term": "る ",
+      "term": "考え",
       "count": 6
     },
     {
-      "term": "checkout",
+      "term": "uses",
       "count": 6
     },
     {
-      "term": "リオ",
+      "term": "predicate",
+      "count": 6
+    },
+    {
+      "term": "関す",
+      "count": 5
+    },
+    {
+      "term": "ムチ",
+      "count": 5
+    },
+    {
+      "term": "ェー",
+      "count": 5
+    },
+    {
+      "term": "時の",
+      "count": 5
+    },
+    {
+      "term": "ン特",
+      "count": 5
+    },
+    {
+      "term": "がっ",
+      "count": 5
+    },
+    {
+      "term": "るし",
       "count": 5
     }
   ],
