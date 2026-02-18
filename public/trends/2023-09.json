@@ -2,47 +2,63 @@
   "month": "2023-09",
   "keywords": [
     {
+      "term": "会 ",
+      "count": 3
+    },
+    {
+      "term": "た規",
+      "count": 3
+    },
+    {
+      "term": "術開",
+      "count": 3
+    },
+    {
       "term": "化 ",
       "count": 3
     },
     {
-      "term": "連携",
-      "count": 3
-    },
-    {
-      "term": "制対",
-      "count": 3
-    },
-    {
-      "term": "ーマ",
-      "count": 3
-    },
-    {
-      "term": "ログ",
-      "count": 3
-    },
-    {
-      "term": "る課",
+      "term": "ーシ",
       "count": 2
     },
     {
-      "term": "シア",
+      "term": "て ",
       "count": 2
     },
     {
-      "term": "係団",
+      "term": "技術カタ",
       "count": 2
     },
     {
-      "term": "ムへ",
+      "term": "ンソ",
       "count": 2
     },
     {
-      "term": "見直しに",
+      "term": "regtech",
       "count": 2
     },
     {
-      "term": "カタログ",
+      "term": "規制対象",
+      "count": 2
+    },
+    {
+      "term": "ムの",
+      "count": 2
+    },
+    {
+      "term": "個別",
+      "count": 2
+    },
+    {
+      "term": "募集",
+      "count": 2
+    },
+    {
+      "term": "ける",
+      "count": 2
+    },
+    {
+      "term": "期待を把",
       "count": 2
     },
     {
@@ -50,11 +66,19 @@
       "count": 2
     },
     {
-      "term": "ネッ",
+      "term": "アナロ",
       "count": 2
     },
     {
-      "term": "提案",
+      "term": "ムの今後",
+      "count": 2
+    },
+    {
+      "term": "等の募集",
+      "count": 2
+    },
+    {
+      "term": "の場",
       "count": 2
     },
     {
@@ -62,23 +86,35 @@
       "count": 2
     },
     {
-      "term": "指す",
+      "term": "感 ",
       "count": 2
     },
     {
-      "term": "おけ",
+      "term": "証事",
       "count": 2
     },
     {
-      "term": "ナロ",
+      "term": "しの実装",
       "count": 2
     },
     {
-      "term": "かけ",
+      "term": "の実",
       "count": 2
     },
     {
-      "term": "企画への",
+      "term": "の実証状",
+      "count": 2
+    },
+    {
+      "term": "スや",
+      "count": 2
+    },
+    {
+      "term": "プピ",
+      "count": 2
+    },
+    {
+      "term": "ジの",
       "count": 2
     },
     {
@@ -86,23 +122,15 @@
       "count": 2
     },
     {
-      "term": "企画",
+      "term": "発信",
       "count": 2
     },
     {
-      "term": "握 ",
+      "term": "を広",
       "count": 2
     },
     {
-      "term": "えた",
-      "count": 2
-    },
-    {
-      "term": "まえ",
-      "count": 2
-    },
-    {
-      "term": "構築",
+      "term": "アドバイ",
       "count": 2
     },
     {
@@ -110,95 +138,67 @@
       "count": 2
     },
     {
-      "term": "体感",
+      "term": "テクノロ",
       "count": 2
     },
     {
-      "term": "術の",
+      "term": "情報",
       "count": 2
     },
     {
-      "term": "まえ保有",
-      "count": 2
-    },
-    {
-      "term": "ンポ",
-      "count": 2
-    },
-    {
-      "term": "ウム",
-      "count": 2
-    },
-    {
-      "term": "の ",
-      "count": 2
-    },
-    {
-      "term": "技術等の",
+      "term": "資金",
       "count": 1
     },
     {
-      "term": "を運",
+      "term": "大企業や",
       "count": 1
     },
     {
-      "term": "し技",
+      "term": "関に",
       "count": 1
     },
     {
-      "term": "体民",
+      "term": "な技術保",
       "count": 1
     },
     {
-      "term": "機関に対",
+      "term": "間含",
       "count": 1
     },
     {
-      "term": "模資",
+      "term": "タル協会",
       "count": 1
     },
     {
-      "term": "る大",
+      "term": "プ ",
       "count": 1
     },
     {
-      "term": "運営",
+      "term": "かを明ら",
       "count": 1
     },
     {
-      "term": "始８",
+      "term": "体等と連",
       "count": 1
     },
     {
-      "term": "位置",
+      "term": "ることで",
       "count": 1
     },
     {
-      "term": "運営する",
+      "term": "ャピ",
       "count": 1
     },
     {
-      "term": "報 ",
+      "term": "どのよう",
       "count": 1
     },
     {
-      "term": "規制見直",
+      "term": "域版",
       "count": 1
     },
     {
-      "term": "能な",
-      "count": 1
-    },
-    {
-      "term": "ル ",
-      "count": 1
-    },
-    {
-      "term": "の更",
-      "count": 1
-    },
-    {
-      "term": "かにし",
+      "term": "共同",
       "count": 1
     }
   ],

@@ -2,139 +2,155 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "パイ",
-      "count": 21
+      "term": "ある",
+      "count": 24
     },
     {
       "term": "では",
       "count": 19
     },
     {
-      "term": "果物",
-      "count": 19
-    },
-    {
-      "term": "フェ",
+      "term": "ムの",
       "count": 15
     },
     {
-      "term": "よび",
+      "term": "署名",
       "count": 15
     },
     {
-      "term": "弱性",
-      "count": 15
-    },
-    {
-      "term": "ナイ",
-      "count": 15
-    },
-    {
-      "term": "ース",
+      "term": "ける",
       "count": 14
     },
     {
-      "term": "場合",
-      "count": 13
-    },
-    {
-      "term": "ソースコ",
-      "count": 12
-    },
-    {
-      "term": "とす",
-      "count": 11
-    },
-    {
-      "term": "おけ",
-      "count": 11
-    },
-    {
-      "term": "フォ",
-      "count": 11
-    },
-    {
-      "term": "につ",
-      "count": 10
-    },
-    {
-      "term": "ci",
-      "count": 10
-    },
-    {
-      "term": "ライ",
-      "count": 10
-    },
-    {
-      "term": "env",
-      "count": 10
-    },
-    {
-      "term": "on",
-      "count": 10
-    },
-    {
-      "term": "が ",
-      "count": 9
-    },
-    {
-      "term": "ー ",
-      "count": 9
+      "term": "の保",
+      "count": 14
     },
     {
       "term": "workflows",
+      "count": 14
+    },
+    {
+      "term": "の安",
+      "count": 13
+    },
+    {
+      "term": "変更",
+      "count": 12
+    },
+    {
+      "term": "サービス",
+      "count": 12
+    },
+    {
+      "term": "steps",
+      "count": 12
+    },
+    {
+      "term": "安全性の",
+      "count": 11
+    },
+    {
+      "term": "の実",
+      "count": 11
+    },
+    {
+      "term": "code",
+      "count": 10
+    },
+    {
+      "term": "ラッ",
+      "count": 10
+    },
+    {
+      "term": "を取",
+      "count": 10
+    },
+    {
+      "term": "ubuntu",
+      "count": 10
+    },
+    {
+      "term": "脆弱性管",
       "count": 9
     },
     {
-      "term": "リポジト",
+      "term": "ウェ",
+      "count": 9
+    },
+    {
+      "term": "そのため",
+      "count": 9
+    },
+    {
+      "term": "通し",
       "count": 8
     },
     {
-      "term": "が考",
+      "term": "トに",
       "count": 8
+    },
+    {
+      "term": "定内",
+      "count": 8
+    },
+    {
+      "term": "囲の",
+      "count": 8
+    },
+    {
+      "term": "用い",
+      "count": 8
+    },
+    {
+      "term": "資産",
+      "count": 7
     },
     {
       "term": "リ及",
       "count": 7
     },
     {
-      "term": "及び",
+      "term": "性の",
       "count": 7
     },
     {
-      "term": "内の",
+      "term": "ソフ",
       "count": 7
     },
     {
-      "term": "物を",
+      "term": "ェア",
       "count": 7
     },
     {
-      "term": "連携",
+      "term": "チェ",
       "count": 7
     },
     {
-      "term": "ル ",
+      "term": "run",
       "count": 7
     },
     {
-      "term": "省略",
+      "term": "ド設",
       "count": 7
     },
     {
-      "term": "きる",
+      "term": "と同",
       "count": 7
     },
     {
-      "term": "digest",
-      "count": 7
+      "term": "成 ",
+      "count": 6
     },
     {
-      "term": "とは",
-      "count": 7
+      "term": "cd",
+      "count": 6
     },
     {
-      "term": "にお",
+      "term": "情報",
+      "count": 6
+    },
+    {
+      "term": "コー",
       "count": 6
     },
     {
@@ -142,63 +158,47 @@
       "count": 6
     },
     {
-      "term": "ージ",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "ロバ",
+      "term": "タデータ",
       "count": 6
     },
     {
-      "term": "の担",
+      "term": "るプ",
       "count": 6
     },
     {
-      "term": "secrets",
+      "term": "ついては",
       "count": 6
     },
     {
-      "term": "るs",
+      "term": "クト",
       "count": 6
     },
     {
-      "term": "考え",
+      "term": "影響",
       "count": 6
     },
     {
-      "term": "uses",
+      "term": "合は",
       "count": 6
     },
     {
-      "term": "predicate",
+      "term": "検出",
       "count": 6
     },
     {
-      "term": "関す",
+      "term": "用保",
       "count": 5
     },
     {
-      "term": "ムチ",
+      "term": "確保",
       "count": 5
     },
     {
-      "term": "ェー",
-      "count": 5
-    },
-    {
-      "term": "時の",
-      "count": 5
-    },
-    {
-      "term": "ン特",
-      "count": 5
-    },
-    {
-      "term": "がっ",
-      "count": 5
-    },
-    {
-      "term": "るし",
+      "term": "ロー",
       "count": 5
     }
   ],

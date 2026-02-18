@@ -2,171 +2,75 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "ィジ",
+      "term": "大規",
       "count": 2
     },
     {
-      "term": "フィジカ",
+      "term": "ーシ",
       "count": 2
-    },
-    {
-      "term": "化 ",
-      "count": 2
-    },
-    {
-      "term": "240",
-      "count": 2
-    },
-    {
-      "term": "スの主導",
-      "count": 2
-    },
-    {
-      "term": "数 ",
-      "count": 2
-    },
-    {
-      "term": "ルａ",
-      "count": 2
-    },
-    {
-      "term": "報通信基",
-      "count": 2
-    },
-    {
-      "term": "クラウド",
-      "count": 2
-    },
-    {
-      "term": "ル ",
-      "count": 2
-    },
-    {
-      "term": "ai",
-      "count": 2
-    },
-    {
-      "term": "に含",
-      "count": 1
-    },
-    {
-      "term": "評価手法",
-      "count": 1
-    },
-    {
-      "term": "造船ロボ",
-      "count": 1
-    },
-    {
-      "term": "頭脳",
-      "count": 1
-    },
-    {
-      "term": "ズに",
-      "count": 1
-    },
-    {
-      "term": "創る",
-      "count": 1
-    },
-    {
-      "term": "利活用の",
-      "count": 1
-    },
-    {
-      "term": "針に",
-      "count": 1
-    },
-    {
-      "term": "グローバ",
-      "count": 1
-    },
-    {
-      "term": "用に",
-      "count": 1
-    },
-    {
-      "term": "場合",
-      "count": 1
-    },
-    {
-      "term": "最も",
-      "count": 1
-    },
-    {
-      "term": "費の",
-      "count": 1
-    },
-    {
-      "term": "方針に関",
-      "count": 1
-    },
-    {
-      "term": "校現",
-      "count": 1
-    },
-    {
-      "term": "利用に関",
-      "count": 1
-    },
-    {
-      "term": "の推進",
-      "count": 1
-    },
-    {
-      "term": "事例",
-      "count": 1
-    },
-    {
-      "term": "利活",
-      "count": 1
-    },
-    {
-      "term": "イノ",
-      "count": 1
-    },
-    {
-      "term": "の積",
-      "count": 1
-    },
-    {
-      "term": "for",
-      "count": 1
     },
     {
       "term": "るａ",
+      "count": 2
+    },
+    {
+      "term": "方分",
+      "count": 2
+    },
+    {
+      "term": "代情",
+      "count": 2
+    },
+    {
+      "term": "術開",
+      "count": 2
+    },
+    {
+      "term": "タ ",
+      "count": 2
+    },
+    {
+      "term": "事業費の",
       "count": 1
     },
     {
-      "term": "まえ",
+      "term": "合は",
       "count": 1
     },
     {
-      "term": "341",
+      "term": "五入",
       "count": 1
     },
     {
-      "term": "円の",
+      "term": "スマ",
       "count": 1
     },
     {
-      "term": "成立",
+      "term": "援に",
       "count": 1
     },
     {
-      "term": "み増し分",
+      "term": "会に",
       "count": 1
     },
     {
-      "term": "構築",
+      "term": "進及",
       "count": 1
     },
     {
-      "term": "罪グルー",
+      "term": "入等",
       "count": 1
     },
     {
-      "term": "施行",
+      "term": "プ ",
+      "count": 1
+    },
+    {
+      "term": "予算",
+      "count": 1
+    },
+    {
+      "term": "性向",
       "count": 1
     },
     {
@@ -174,31 +78,127 @@
       "count": 1
     },
     {
-      "term": "おけ",
+      "term": "針に",
       "count": 1
     },
     {
-      "term": "に含まず",
+      "term": "ニーズに",
       "count": 1
     },
     {
-      "term": "の抜本的",
+      "term": "の実",
       "count": 1
     },
     {
-      "term": "注２",
+      "term": "89",
       "count": 1
     },
     {
-      "term": "築 ",
+      "term": "文学",
       "count": 1
     },
     {
-      "term": "ーマ",
+      "term": "ムの",
       "count": 1
     },
     {
-      "term": "の開発促",
+      "term": "業費",
+      "count": 1
+    },
+    {
+      "term": "策は",
+      "count": 1
+    },
+    {
+      "term": "向け",
+      "count": 1
+    },
+    {
+      "term": "模オ",
+      "count": 1
+    },
+    {
+      "term": "装の",
+      "count": 1
+    },
+    {
+      "term": "ける",
+      "count": 1
+    },
+    {
+      "term": "利活",
+      "count": 1
+    },
+    {
+      "term": "のデ",
+      "count": 1
+    },
+    {
+      "term": "の安",
+      "count": 1
+    },
+    {
+      "term": "加速的推",
+      "count": 1
+    },
+    {
+      "term": "援 ",
+      "count": 1
+    },
+    {
+      "term": "い経",
+      "count": 1
+    },
+    {
+      "term": "労働",
+      "count": 1
+    },
+    {
+      "term": "ボッ",
+      "count": 1
+    },
+    {
+      "term": "ム新",
+      "count": 1
+    },
+    {
+      "term": "文a",
+      "count": 1
+    },
+    {
+      "term": "用に",
+      "count": 1
+    },
+    {
+      "term": "マー",
+      "count": 1
+    },
+    {
+      "term": "本的",
+      "count": 1
+    },
+    {
+      "term": "一部",
+      "count": 1
+    },
+    {
+      "term": "最も関係",
+      "count": 1
+    },
+    {
+      "term": "化 ",
+      "count": 1
+    },
+    {
+      "term": "利用に関",
+      "count": 1
+    },
+    {
+      "term": "し分",
+      "count": 1
+    },
+    {
+      "term": "ンピ",
       "count": 1
     }
   ],
