@@ -2,7 +2,19 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "会 ",
+      "term": "コン",
+      "count": 3
+    },
+    {
+      "term": "しの",
+      "count": 3
+    },
+    {
+      "term": "テク",
+      "count": 3
+    },
+    {
+      "term": "イメージ",
       "count": 3
     },
     {
@@ -10,39 +22,47 @@
       "count": 3
     },
     {
-      "term": "術開",
+      "term": "カタ",
       "count": 3
     },
     {
-      "term": "化 ",
-      "count": 3
-    },
-    {
-      "term": "ーシ",
+      "term": "募集",
       "count": 2
     },
     {
-      "term": "て ",
+      "term": "を検討",
       "count": 2
     },
     {
-      "term": "技術カタ",
+      "term": "ソー",
       "count": 2
     },
     {
-      "term": "ンソ",
+      "term": "の提",
       "count": 2
     },
     {
-      "term": "regtech",
+      "term": "術カ",
       "count": 2
     },
     {
-      "term": "規制対象",
+      "term": "て周",
       "count": 2
     },
     {
-      "term": "ムの",
+      "term": "体会",
+      "count": 2
+    },
+    {
+      "term": "年 ",
+      "count": 2
+    },
+    {
+      "term": "法等",
+      "count": 2
+    },
+    {
+      "term": "象機",
       "count": 2
     },
     {
@@ -50,11 +70,11 @@
       "count": 2
     },
     {
-      "term": "募集",
+      "term": "らコ",
       "count": 2
     },
     {
-      "term": "ける",
+      "term": "につい",
       "count": 2
     },
     {
@@ -62,55 +82,7 @@
       "count": 2
     },
     {
-      "term": "利活",
-      "count": 2
-    },
-    {
-      "term": "アナロ",
-      "count": 2
-    },
-    {
-      "term": "ムの今後",
-      "count": 2
-    },
-    {
-      "term": "等の募集",
-      "count": 2
-    },
-    {
-      "term": "の場",
-      "count": 2
-    },
-    {
-      "term": "説明",
-      "count": 2
-    },
-    {
-      "term": "感 ",
-      "count": 2
-    },
-    {
-      "term": "証事",
-      "count": 2
-    },
-    {
-      "term": "しの実装",
-      "count": 2
-    },
-    {
-      "term": "の実",
-      "count": 2
-    },
-    {
-      "term": "の実証状",
-      "count": 2
-    },
-    {
-      "term": "スや",
-      "count": 2
-    },
-    {
-      "term": "プピ",
+      "term": "して",
       "count": 2
     },
     {
@@ -118,87 +90,115 @@
       "count": 2
     },
     {
-      "term": "を共有",
+      "term": "一体",
       "count": 2
     },
     {
-      "term": "発信",
+      "term": "を通じた",
       "count": 2
     },
     {
-      "term": "を広",
+      "term": "況を把握",
       "count": 2
     },
     {
-      "term": "アドバイ",
+      "term": "スや連",
       "count": 2
     },
     {
-      "term": "築 ",
+      "term": "把握",
       "count": 2
     },
     {
-      "term": "テクノロ",
+      "term": "イス",
       "count": 2
     },
     {
-      "term": "情報",
+      "term": "たな",
       "count": 2
     },
     {
-      "term": "資金",
+      "term": "証結",
+      "count": 2
+    },
+    {
+      "term": "を通",
+      "count": 2
+    },
+    {
+      "term": "ログ",
+      "count": 2
+    },
+    {
+      "term": "有 ",
+      "count": 2
+    },
+    {
+      "term": "発の",
+      "count": 2
+    },
+    {
+      "term": "獲得",
       "count": 1
     },
     {
-      "term": "大企業や",
+      "term": "がテ",
       "count": 1
     },
     {
-      "term": "関に",
+      "term": "の利活用",
       "count": 1
     },
     {
-      "term": "な技術保",
+      "term": "制に",
       "count": 1
     },
     {
-      "term": "間含",
+      "term": "経済",
       "count": 1
     },
     {
-      "term": "タル協会",
+      "term": "関係者の",
       "count": 1
     },
     {
-      "term": "プ ",
+      "term": "継続",
       "count": 1
     },
     {
-      "term": "かを明ら",
+      "term": "ーを",
       "count": 1
     },
     {
-      "term": "体等と連",
+      "term": "開始",
       "count": 1
     },
     {
-      "term": "ることで",
+      "term": "う関係者",
       "count": 1
     },
     {
-      "term": "ャピ",
+      "term": "ログ等",
       "count": 1
     },
     {
-      "term": "どのよう",
+      "term": "ーマップ",
       "count": 1
     },
     {
-      "term": "域版",
+      "term": "協会",
       "count": 1
     },
     {
-      "term": "共同",
+      "term": "や利",
+      "count": 1
+    },
+    {
+      "term": "化す",
+      "count": 1
+    },
+    {
+      "term": "のシ",
       "count": 1
     }
   ],

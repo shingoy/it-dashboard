@@ -2,159 +2,135 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 24
+      "term": "して",
+      "count": 21
     },
     {
-      "term": "では",
+      "term": "ある",
       "count": 19
     },
     {
-      "term": "ムの",
+      "term": "ビル",
+      "count": 18
+    },
+    {
+      "term": "構成",
+      "count": 18
+    },
+    {
+      "term": "図 ",
+      "count": 17
+    },
+    {
+      "term": "ソー",
+      "count": 16
+    },
+    {
+      "term": "実行",
+      "count": 16
+    },
+    {
+      "term": "コン",
       "count": 15
     },
     {
-      "term": "署名",
+      "term": "なる",
       "count": 15
     },
     {
-      "term": "ける",
+      "term": "いて",
       "count": 14
     },
     {
-      "term": "の保",
-      "count": 14
-    },
-    {
-      "term": "workflows",
-      "count": 14
-    },
-    {
-      "term": "の安",
-      "count": 13
-    },
-    {
-      "term": "変更",
-      "count": 12
-    },
-    {
-      "term": "サービス",
-      "count": 12
-    },
-    {
-      "term": "steps",
-      "count": 12
-    },
-    {
-      "term": "安全性の",
+      "term": "考え",
       "count": 11
     },
     {
-      "term": "の実",
+      "term": "えら",
       "count": 11
-    },
-    {
-      "term": "code",
-      "count": 10
-    },
-    {
-      "term": "ラッ",
-      "count": 10
-    },
-    {
-      "term": "を取",
-      "count": 10
-    },
-    {
-      "term": "ubuntu",
-      "count": 10
-    },
-    {
-      "term": "脆弱性管",
-      "count": 9
-    },
-    {
-      "term": "ウェ",
-      "count": 9
-    },
-    {
-      "term": "そのため",
-      "count": 9
-    },
-    {
-      "term": "通し",
-      "count": 8
-    },
-    {
-      "term": "トに",
-      "count": 8
-    },
-    {
-      "term": "定内",
-      "count": 8
-    },
-    {
-      "term": "囲の",
-      "count": 8
-    },
-    {
-      "term": "用い",
-      "count": 8
-    },
-    {
-      "term": "資産",
-      "count": 7
-    },
-    {
-      "term": "リ及",
-      "count": 7
     },
     {
       "term": "性の",
-      "count": 7
+      "count": 10
     },
     {
-      "term": "ソフ",
-      "count": 7
-    },
-    {
-      "term": "ェア",
-      "count": 7
-    },
-    {
-      "term": "チェ",
-      "count": 7
-    },
-    {
-      "term": "run",
-      "count": 7
-    },
-    {
-      "term": "ド設",
-      "count": 7
-    },
-    {
-      "term": "と同",
-      "count": 7
-    },
-    {
-      "term": "成 ",
-      "count": 6
+      "term": "クレ",
+      "count": 9
     },
     {
       "term": "cd",
+      "count": 9
+    },
+    {
+      "term": "ーを",
+      "count": 9
+    },
+    {
+      "term": "イメージ",
+      "count": 9
+    },
+    {
+      "term": "image",
+      "count": 9
+    },
+    {
+      "term": "with",
+      "count": 9
+    },
+    {
+      "term": "シス",
+      "count": 8
+    },
+    {
+      "term": "チー",
+      "count": 8
+    },
+    {
+      "term": "の取",
+      "count": 8
+    },
+    {
+      "term": "は ",
+      "count": 8
+    },
+    {
+      "term": "ルで",
+      "count": 8
+    },
+    {
+      "term": "env",
+      "count": 8
+    },
+    {
+      "term": "での実行",
+      "count": 7
+    },
+    {
+      "term": "plan",
+      "count": 7
+    },
+    {
+      "term": "を確",
+      "count": 7
+    },
+    {
+      "term": "記述",
+      "count": 7
+    },
+    {
+      "term": "を取",
+      "count": 7
+    },
+    {
+      "term": "仕組",
+      "count": 7
+    },
+    {
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "情報",
-      "count": 6
-    },
-    {
-      "term": "コー",
-      "count": 6
-    },
-    {
-      "term": "24",
+      "term": "チの",
       "count": 6
     },
     {
@@ -162,23 +138,23 @@
       "count": 6
     },
     {
-      "term": "タデータ",
+      "term": "ジを",
       "count": 6
     },
     {
-      "term": "るプ",
+      "term": "ジの",
       "count": 6
     },
     {
-      "term": "ついては",
+      "term": "るよ",
       "count": 6
     },
     {
-      "term": "クト",
+      "term": "amazon",
       "count": 6
     },
     {
-      "term": "影響",
+      "term": "steps",
       "count": 6
     },
     {
@@ -186,19 +162,43 @@
       "count": 6
     },
     {
-      "term": "検出",
+      "term": "true",
       "count": 6
     },
     {
-      "term": "用保",
+      "term": "json",
+      "count": 6
+    },
+    {
+      "term": "jobs",
+      "count": 6
+    },
+    {
+      "term": "runs",
+      "count": 6
+    },
+    {
+      "term": "用者",
       "count": 5
     },
     {
-      "term": "確保",
+      "term": "組織",
       "count": 5
     },
     {
-      "term": "ロー",
+      "term": "ュリ",
+      "count": 5
+    },
+    {
+      "term": "含む",
+      "count": 5
+    },
+    {
+      "term": "フォ",
+      "count": 5
+    },
+    {
+      "term": "の証",
       "count": 5
     }
   ],
