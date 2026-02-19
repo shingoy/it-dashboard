@@ -2,203 +2,203 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ライ",
-      "count": 23
+      "term": "る ",
+      "count": 28
     },
     {
-      "term": "こと",
-      "count": 22
+      "term": "プラ",
+      "count": 26
     },
     {
-      "term": "って",
-      "count": 16
+      "term": "構成",
+      "count": 21
     },
     {
-      "term": "ソー",
-      "count": 16
+      "term": "ロー",
+      "count": 19
     },
     {
-      "term": "ビス",
-      "count": 16
+      "term": "保護",
+      "count": 17
     },
     {
-      "term": "のた",
+      "term": "およ",
       "count": 15
     },
     {
-      "term": "なる",
+      "term": "メー",
       "count": 15
     },
     {
-      "term": "よう",
-      "count": 15
+      "term": "性の",
+      "count": 13
     },
     {
-      "term": "サービス",
+      "term": "トの",
       "count": 12
     },
     {
-      "term": "略 ",
+      "term": "対策",
       "count": 12
-    },
-    {
-      "term": "依存",
-      "count": 11
-    },
-    {
-      "term": "の実",
-      "count": 11
     },
     {
       "term": "ーの",
+      "count": 12
+    },
+    {
+      "term": "コン",
+      "count": 12
+    },
+    {
+      "term": "環境",
       "count": 11
     },
     {
-      "term": "保 ",
+      "term": "チェ",
+      "count": 11
+    },
+    {
+      "term": "定す",
+      "count": 11
+    },
+    {
+      "term": "https",
+      "count": 11
+    },
+    {
+      "term": "の ",
       "count": 10
     },
     {
-      "term": "確保",
+      "term": "スキ",
       "count": 10
     },
     {
-      "term": "具体",
+      "term": "加え",
       "count": 10
     },
     {
-      "term": "る具",
-      "count": 10
-    },
-    {
-      "term": "to",
-      "count": 10
-    },
-    {
-      "term": "バリ",
+      "term": "イン",
       "count": 9
     },
     {
-      "term": "た ",
+      "term": "が ",
       "count": 9
     },
     {
-      "term": "リの",
+      "term": "権限",
       "count": 9
     },
     {
-      "term": "のア",
-      "count": 9
-    },
-    {
-      "term": "通し",
+      "term": "定し",
       "count": 8
     },
     {
-      "term": "定内",
+      "term": "全性",
       "count": 8
     },
     {
-      "term": "囲の",
+      "term": "らの",
       "count": 8
     },
     {
-      "term": "リス",
+      "term": "ーに",
       "count": 8
     },
     {
-      "term": "書で",
+      "term": "commit",
       "count": 8
     },
     {
-      "term": "repository",
+      "term": "とが",
       "count": 8
     },
     {
-      "term": "のメ",
-      "count": 8
-    },
-    {
-      "term": "のよ",
-      "count": 8
-    },
-    {
-      "term": "バイナリ",
+      "term": "共通",
       "count": 7
-    },
-    {
-      "term": "いっ",
-      "count": 7
-    },
-    {
-      "term": "ェッ",
-      "count": 7
-    },
-    {
-      "term": "図 ",
-      "count": 7
-    },
-    {
-      "term": "要と",
-      "count": 7
-    },
-    {
-      "term": "name",
-      "count": 7
-    },
-    {
-      "term": "uses",
-      "count": 7
-    },
-    {
-      "term": "信頼性の",
-      "count": 6
-    },
-    {
-      "term": "した",
-      "count": 6
-    },
-    {
-      "term": "たt",
-      "count": 6
-    },
-    {
-      "term": "省略する",
-      "count": 6
-    },
-    {
-      "term": "はg",
-      "count": 6
-    },
-    {
-      "term": "る ",
-      "count": 6
-    },
-    {
-      "term": "with",
-      "count": 6
-    },
-    {
-      "term": "検出",
-      "count": 6
-    },
-    {
-      "term": "を含",
-      "count": 5
-    },
-    {
-      "term": "コー",
-      "count": 5
-    },
-    {
-      "term": "信頼でき",
-      "count": 5
-    },
-    {
-      "term": "ソフトウ",
-      "count": 5
     },
     {
       "term": "定 ",
+      "count": 7
+    },
+    {
+      "term": "れて",
+      "count": 7
+    },
+    {
+      "term": "ルを",
+      "count": 7
+    },
+    {
+      "term": "実行",
+      "count": 7
+    },
+    {
+      "term": "いう",
+      "count": 7
+    },
+    {
+      "term": "と同",
+      "count": 7
+    },
+    {
+      "term": "action",
+      "count": 7
+    },
+    {
+      "term": "ード管理",
+      "count": 6
+    },
+    {
+      "term": "を ",
+      "count": 6
+    },
+    {
+      "term": "得し",
+      "count": 6
+    },
+    {
+      "term": "複数",
+      "count": 6
+    },
+    {
+      "term": "ウン",
+      "count": 6
+    },
+    {
+      "term": "ムは",
+      "count": 6
+    },
+    {
+      "term": "cosign",
+      "count": 6
+    },
+    {
+      "term": "amazon",
+      "count": 6
+    },
+    {
+      "term": "steps",
+      "count": 6
+    },
+    {
+      "term": "critical",
+      "count": 6
+    },
+    {
+      "term": "トは",
+      "count": 5
+    },
+    {
+      "term": "資産管理",
+      "count": 5
+    },
+    {
+      "term": "とに",
+      "count": 5
+    },
+    {
+      "term": "レッ",
       "count": 5
     }
   ],
