@@ -2,35 +2,27 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "して",
-      "count": 21
+      "term": "ライ",
+      "count": 23
     },
     {
-      "term": "ある",
-      "count": 19
+      "term": "こと",
+      "count": 22
     },
     {
-      "term": "ビル",
-      "count": 18
-    },
-    {
-      "term": "構成",
-      "count": 18
-    },
-    {
-      "term": "図 ",
-      "count": 17
+      "term": "って",
+      "count": 16
     },
     {
       "term": "ソー",
       "count": 16
     },
     {
-      "term": "実行",
+      "term": "ビス",
       "count": 16
     },
     {
-      "term": "コン",
+      "term": "のた",
       "count": 15
     },
     {
@@ -38,167 +30,175 @@
       "count": 15
     },
     {
-      "term": "いて",
-      "count": 14
+      "term": "よう",
+      "count": 15
     },
     {
-      "term": "考え",
+      "term": "サービス",
+      "count": 12
+    },
+    {
+      "term": "略 ",
+      "count": 12
+    },
+    {
+      "term": "依存",
       "count": 11
     },
     {
-      "term": "えら",
+      "term": "の実",
       "count": 11
     },
     {
-      "term": "性の",
+      "term": "ーの",
+      "count": 11
+    },
+    {
+      "term": "保 ",
       "count": 10
     },
     {
-      "term": "クレ",
+      "term": "確保",
+      "count": 10
+    },
+    {
+      "term": "具体",
+      "count": 10
+    },
+    {
+      "term": "る具",
+      "count": 10
+    },
+    {
+      "term": "to",
+      "count": 10
+    },
+    {
+      "term": "バリ",
       "count": 9
     },
     {
-      "term": "cd",
+      "term": "た ",
       "count": 9
     },
     {
-      "term": "ーを",
+      "term": "リの",
       "count": 9
     },
     {
-      "term": "イメージ",
+      "term": "のア",
       "count": 9
     },
     {
-      "term": "image",
-      "count": 9
+      "term": "通し",
+      "count": 8
+    },
+    {
+      "term": "定内",
+      "count": 8
+    },
+    {
+      "term": "囲の",
+      "count": 8
+    },
+    {
+      "term": "リス",
+      "count": 8
+    },
+    {
+      "term": "書で",
+      "count": 8
+    },
+    {
+      "term": "repository",
+      "count": 8
+    },
+    {
+      "term": "のメ",
+      "count": 8
+    },
+    {
+      "term": "のよ",
+      "count": 8
+    },
+    {
+      "term": "バイナリ",
+      "count": 7
+    },
+    {
+      "term": "いっ",
+      "count": 7
+    },
+    {
+      "term": "ェッ",
+      "count": 7
+    },
+    {
+      "term": "図 ",
+      "count": 7
+    },
+    {
+      "term": "要と",
+      "count": 7
+    },
+    {
+      "term": "name",
+      "count": 7
+    },
+    {
+      "term": "uses",
+      "count": 7
+    },
+    {
+      "term": "信頼性の",
+      "count": 6
+    },
+    {
+      "term": "した",
+      "count": 6
+    },
+    {
+      "term": "たt",
+      "count": 6
+    },
+    {
+      "term": "省略する",
+      "count": 6
+    },
+    {
+      "term": "はg",
+      "count": 6
+    },
+    {
+      "term": "る ",
+      "count": 6
     },
     {
       "term": "with",
-      "count": 9
-    },
-    {
-      "term": "シス",
-      "count": 8
-    },
-    {
-      "term": "チー",
-      "count": 8
-    },
-    {
-      "term": "の取",
-      "count": 8
-    },
-    {
-      "term": "は ",
-      "count": 8
-    },
-    {
-      "term": "ルで",
-      "count": 8
-    },
-    {
-      "term": "env",
-      "count": 8
-    },
-    {
-      "term": "での実行",
-      "count": 7
-    },
-    {
-      "term": "plan",
-      "count": 7
-    },
-    {
-      "term": "を確",
-      "count": 7
-    },
-    {
-      "term": "記述",
-      "count": 7
-    },
-    {
-      "term": "を取",
-      "count": 7
-    },
-    {
-      "term": "仕組",
-      "count": 7
-    },
-    {
-      "term": "セキ",
       "count": 6
     },
     {
-      "term": "チの",
+      "term": "検出",
       "count": 6
     },
     {
-      "term": "高い",
-      "count": 6
-    },
-    {
-      "term": "ジを",
-      "count": 6
-    },
-    {
-      "term": "ジの",
-      "count": 6
-    },
-    {
-      "term": "るよ",
-      "count": 6
-    },
-    {
-      "term": "amazon",
-      "count": 6
-    },
-    {
-      "term": "steps",
-      "count": 6
-    },
-    {
-      "term": "合は",
-      "count": 6
-    },
-    {
-      "term": "true",
-      "count": 6
-    },
-    {
-      "term": "json",
-      "count": 6
-    },
-    {
-      "term": "jobs",
-      "count": 6
-    },
-    {
-      "term": "runs",
-      "count": 6
-    },
-    {
-      "term": "用者",
+      "term": "を含",
       "count": 5
     },
     {
-      "term": "組織",
+      "term": "コー",
       "count": 5
     },
     {
-      "term": "ュリ",
+      "term": "信頼でき",
       "count": 5
     },
     {
-      "term": "含む",
+      "term": "ソフトウ",
       "count": 5
     },
     {
-      "term": "フォ",
-      "count": 5
-    },
-    {
-      "term": "の証",
+      "term": "定 ",
       "count": 5
     }
   ],
