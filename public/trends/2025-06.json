@@ -2,31 +2,27 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "して",
-      "count": 27
+      "term": "する",
+      "count": 28
     },
     {
-      "term": "であ",
-      "count": 22
+      "term": "でき",
+      "count": 23
     },
     {
-      "term": "イプ",
-      "count": 21
-    },
-    {
-      "term": "ール",
+      "term": "成果",
       "count": 20
     },
     {
-      "term": "ロー",
-      "count": 19
+      "term": "ない",
+      "count": 17
     },
     {
-      "term": "ない",
+      "term": "って",
       "count": 16
     },
     {
-      "term": "トフ",
+      "term": "によ",
       "count": 15
     },
     {
@@ -34,172 +30,176 @@
       "count": 14
     },
     {
-      "term": "ては",
+      "term": "コン",
       "count": 14
     },
     {
-      "term": "中略",
-      "count": 14
-    },
-    {
-      "term": "ード",
+      "term": "よる",
       "count": 13
     },
     {
-      "term": "場合",
+      "term": "用す",
       "count": 13
     },
     {
-      "term": "trivy",
+      "term": "生成",
       "count": 13
     },
     {
-      "term": "ント",
+      "term": "とが",
+      "count": 13
+    },
+    {
+      "term": "サービス",
       "count": 12
     },
     {
-      "term": "ズの",
+      "term": "チェ",
       "count": 11
     },
     {
-      "term": "terraform",
+      "term": "push",
       "count": 11
     },
     {
-      "term": "ファイル",
-      "count": 11
-    },
-    {
-      "term": "はな",
-      "count": 11
-    },
-    {
-      "term": "フェ",
+      "term": "を含",
       "count": 10
     },
     {
-      "term": "の信",
+      "term": "につ",
       "count": 10
     },
     {
-      "term": "フト",
-      "count": 9
+      "term": "クレ",
+      "count": 10
     },
     {
-      "term": "なお",
-      "count": 9
+      "term": "の ",
+      "count": 10
+    },
+    {
+      "term": "ルの",
+      "count": 10
+    },
+    {
+      "term": "は ",
+      "count": 10
+    },
+    {
+      "term": "のメ",
+      "count": 10
+    },
+    {
+      "term": "jobs",
+      "count": 10
+    },
+    {
+      "term": "ubuntu",
+      "count": 10
     },
     {
       "term": "た ",
       "count": 9
     },
     {
-      "term": "ァイ",
+      "term": "成果物の",
       "count": 9
     },
     {
-      "term": "成さ",
-      "count": 9
-    },
-    {
-      "term": "push",
-      "count": 9
-    },
-    {
-      "term": "での実行",
+      "term": "主体",
       "count": 8
     },
     {
-      "term": "定の",
+      "term": "範囲",
       "count": 8
     },
     {
-      "term": "バー",
+      "term": "下の",
       "count": 8
     },
     {
-      "term": "作成",
+      "term": "検証",
       "count": 8
     },
     {
-      "term": "範囲の制",
+      "term": "のよ",
+      "count": 8
+    },
+    {
+      "term": "の漏",
       "count": 7
     },
     {
-      "term": "連携",
+      "term": "示す",
       "count": 7
     },
     {
-      "term": "図 ",
+      "term": "の確",
       "count": 7
     },
     {
-      "term": "file",
+      "term": "るま",
       "count": 7
     },
     {
-      "term": "workflows",
+      "term": "を確",
       "count": 7
     },
     {
-      "term": "uses",
+      "term": "れば",
       "count": 7
     },
     {
-      "term": "に加",
+      "term": "がある",
       "count": 7
     },
     {
-      "term": "ットの保",
+      "term": "と同",
+      "count": 7
+    },
+    {
+      "term": "env",
+      "count": 7
+    },
+    {
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "チの",
+      "term": "成 ",
       "count": 6
     },
     {
-      "term": "ド成",
+      "term": "信頼性の",
       "count": 6
     },
     {
-      "term": "定し",
+      "term": "を ",
       "count": 6
     },
     {
-      "term": "安全",
+      "term": "うこ",
       "count": 6
     },
     {
-      "term": "関連",
+      "term": "記述",
       "count": 6
     },
     {
-      "term": "成果",
+      "term": "対す",
       "count": 6
     },
     {
-      "term": "の事",
+      "term": "取り",
       "count": 6
     },
     {
-      "term": "ついては",
+      "term": "ズで",
       "count": 6
     },
     {
-      "term": "影響",
+      "term": "が考",
       "count": 6
-    },
-    {
-      "term": "11",
-      "count": 6
-    },
-    {
-      "term": "and",
-      "count": 6
-    },
-    {
-      "term": "む運",
-      "count": 5
     }
   ],
   "meetings": [
