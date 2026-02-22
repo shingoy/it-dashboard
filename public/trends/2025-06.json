@@ -2,87 +2,87 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "する",
-      "count": 28
+      "term": "した",
+      "count": 24
     },
     {
-      "term": "ある",
-      "count": 22
+      "term": "プラ",
+      "count": 21
+    },
+    {
+      "term": "こと",
+      "count": 21
     },
     {
       "term": "トリ",
       "count": 20
     },
     {
-      "term": "では",
+      "term": "aws",
       "count": 19
     },
     {
-      "term": "ルド",
+      "term": "ェー",
       "count": 17
     },
     {
-      "term": "安全",
-      "count": 17
-    },
-    {
-      "term": "ービ",
+      "term": "これ",
       "count": 16
     },
     {
-      "term": "およ",
+      "term": "への",
       "count": 15
     },
     {
-      "term": "るた",
-      "count": 15
-    },
-    {
-      "term": "コン",
-      "count": 15
-    },
-    {
-      "term": "メタ",
-      "count": 15
-    },
-    {
-      "term": "ツー",
+      "term": "いて",
       "count": 14
     },
     {
-      "term": "頼性",
-      "count": 13
+      "term": "った",
+      "count": 14
     },
     {
-      "term": "ーの",
+      "term": "コー",
       "count": 12
     },
     {
-      "term": "おけ",
+      "term": "チームの",
       "count": 11
     },
     {
-      "term": "略 ",
+      "term": "制限",
       "count": 11
     },
     {
-      "term": "ンを",
+      "term": "範囲",
+      "count": 11
+    },
+    {
+      "term": "えら",
+      "count": 11
+    },
+    {
+      "term": "なる",
+      "count": 11
+    },
+    {
+      "term": "ビルドフ",
       "count": 10
     },
     {
-      "term": "ビル",
+      "term": "git",
       "count": 10
     },
     {
-      "term": "の ",
+      "term": "sbom",
       "count": 10
     },
     {
-      "term": "はな",
+      "term": "ここ",
       "count": 10
     },
     {
-      "term": "本書",
+      "term": "とい",
       "count": 9
     },
     {
@@ -90,55 +90,71 @@
       "count": 9
     },
     {
-      "term": "権限",
-      "count": 9
-    },
-    {
-      "term": "run",
-      "count": 9
-    },
-    {
-      "term": "フト",
+      "term": "及び",
       "count": 8
     },
     {
-      "term": "なお",
+      "term": "ョン",
       "count": 8
     },
     {
-      "term": "書で",
+      "term": "ング",
       "count": 8
     },
     {
-      "term": "commit",
+      "term": "は ",
       "count": 8
     },
     {
-      "term": "17",
+      "term": "この",
+      "count": 8
+    },
+    {
+      "term": "果物",
+      "count": 8
+    },
+    {
+      "term": "ルで",
+      "count": 8
+    },
+    {
+      "term": "組織",
       "count": 7
     },
     {
-      "term": "自動",
+      "term": "ェーズの",
       "count": 7
     },
     {
-      "term": "るま",
+      "term": "キー",
       "count": 7
     },
     {
-      "term": "フェーズ",
+      "term": "報の",
       "count": 7
     },
     {
-      "term": "定す",
+      "term": "示す",
       "count": 7
     },
     {
-      "term": "定義",
+      "term": "ント",
       "count": 7
     },
     {
-      "term": "および",
+      "term": "提供",
+      "count": 7
+    },
+    {
+      "term": "考えられ",
+      "count": 7
+    },
+    {
+      "term": "にな",
+      "count": 7
+    },
+    {
+      "term": "れば",
       "count": 7
     },
     {
@@ -146,23 +162,23 @@
       "count": 7
     },
     {
-      "term": "省略",
+      "term": "クセ",
       "count": 7
     },
     {
-      "term": "図 ",
+      "term": "るそ",
       "count": 7
     },
     {
-      "term": "構成",
+      "term": "キュ",
       "count": 6
     },
     {
-      "term": "イダ",
+      "term": "ド成",
       "count": 6
     },
     {
-      "term": "ス ",
+      "term": "を ",
       "count": 6
     },
     {
@@ -174,7 +190,7 @@
       "count": 6
     },
     {
-      "term": "ジと",
+      "term": "複数",
       "count": 6
     },
     {
@@ -182,23 +198,7 @@
       "count": 6
     },
     {
-      "term": "docker",
-      "count": 6
-    },
-    {
-      "term": "ここでは",
-      "count": 6
-    },
-    {
-      "term": "どの",
-      "count": 6
-    },
-    {
-      "term": "らの",
-      "count": 6
-    },
-    {
-      "term": "は ",
+      "term": "うこ",
       "count": 6
     }
   ],
