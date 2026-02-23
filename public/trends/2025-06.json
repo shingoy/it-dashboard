@@ -2,47 +2,43 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 24
+      "term": "でき",
+      "count": 23
     },
     {
-      "term": "成果",
+      "term": "れる",
       "count": 20
+    },
+    {
+      "term": "ルド",
+      "count": 19
+    },
+    {
+      "term": "ビル",
+      "count": 19
     },
     {
       "term": "ーム",
       "count": 18
     },
     {
-      "term": "ージ",
-      "count": 18
-    },
-    {
-      "term": "の保",
-      "count": 16
-    },
-    {
-      "term": "的な",
+      "term": "cd",
       "count": 15
     },
     {
-      "term": "コン",
+      "term": "弱性",
       "count": 15
     },
     {
-      "term": "とな",
+      "term": "トフ",
       "count": 15
     },
     {
-      "term": "メタ",
+      "term": "イメ",
       "count": 15
     },
     {
-      "term": "られ",
-      "count": 14
-    },
-    {
-      "term": "ルを",
+      "term": "では",
       "count": 14
     },
     {
@@ -50,155 +46,159 @@
       "count": 13
     },
     {
-      "term": "イン",
+      "term": "おけ",
       "count": 12
     },
     {
-      "term": "を取",
+      "term": "での",
       "count": 12
     },
     {
-      "term": "れら",
-      "count": 12
-    },
-    {
-      "term": "ビル",
+      "term": "フォーム",
       "count": 11
     },
     {
-      "term": "プラ",
+      "term": "した",
       "count": 11
     },
     {
-      "term": "成果物の",
-      "count": 11
-    },
-    {
-      "term": "の実",
-      "count": 11
-    },
-    {
-      "term": "依存",
-      "count": 11
-    },
-    {
-      "term": "バー",
-      "count": 11
+      "term": "を含",
+      "count": 10
     },
     {
       "term": "具体",
       "count": 10
     },
     {
-      "term": "内容",
+      "term": "を取",
       "count": 10
     },
     {
-      "term": "env",
+      "term": "build",
       "count": 10
+    },
+    {
+      "term": "脆弱性管",
+      "count": 9
     },
     {
       "term": "の確",
       "count": 9
     },
     {
-      "term": "アク",
+      "term": "code",
       "count": 9
     },
     {
-      "term": "頼性",
+      "term": "れて",
+      "count": 9
+    },
+    {
+      "term": "取得",
+      "count": 9
+    },
+    {
+      "term": "git",
+      "count": 9
+    },
+    {
+      "term": "この",
+      "count": 9
+    },
+    {
+      "term": "スト",
       "count": 8
     },
     {
-      "term": "書で",
+      "term": "物を",
       "count": 8
     },
     {
-      "term": "バイ",
+      "term": "るそ",
       "count": 8
     },
     {
-      "term": "の制",
+      "term": "作成",
       "count": 8
     },
     {
-      "term": "キャ",
+      "term": "json",
       "count": 8
     },
     {
-      "term": "内の",
+      "term": "ムの",
       "count": 7
     },
     {
-      "term": "性を",
+      "term": "定 ",
       "count": 7
     },
     {
-      "term": "ある",
+      "term": "囲の",
       "count": 7
     },
     {
-      "term": "要と",
+      "term": "cosign",
       "count": 7
     },
     {
-      "term": "を示",
+      "term": "アッ",
+      "count": 7
+    },
+    {
+      "term": "ップ",
+      "count": 7
+    },
+    {
+      "term": "のよ",
+      "count": 7
+    },
+    {
+      "term": "name",
+      "count": 7
+    },
+    {
+      "term": "えら",
+      "count": 7
+    },
+    {
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "具体的な",
+      "term": "めに",
       "count": 6
     },
     {
-      "term": "ット",
+      "term": "にて",
       "count": 6
     },
     {
-      "term": "プロバイ",
+      "term": "方法",
       "count": 6
     },
     {
-      "term": "ジと",
+      "term": "完全",
       "count": 6
     },
     {
-      "term": "カウ",
+      "term": "の管",
       "count": 6
     },
     {
-      "term": "ーテ",
+      "term": "アク",
       "count": 6
     },
     {
-      "term": "的に",
+      "term": "checkout",
       "count": 6
     },
     {
-      "term": "設定",
+      "term": "はパ",
       "count": 6
     },
     {
-      "term": "用保",
-      "count": 5
-    },
-    {
-      "term": "脆弱性管",
-      "count": 5
-    },
-    {
-      "term": "ード",
-      "count": 5
-    },
-    {
-      "term": "配布",
-      "count": 5
-    },
-    {
-      "term": "で ",
-      "count": 5
-    },
-    {
-      "term": "活用",
+      "term": "トは",
       "count": 5
     }
   ],
