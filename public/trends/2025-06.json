@@ -2,71 +2,71 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 25
-    },
-    {
-      "term": "るこ",
-      "count": 24
-    },
-    {
-      "term": "ため",
-      "count": 22
-    },
-    {
-      "term": "構成",
+      "term": "ード",
       "count": 21
     },
     {
-      "term": "その",
+      "term": "ライ",
       "count": 21
+    },
+    {
+      "term": "ビル",
+      "count": 19
+    },
+    {
+      "term": "設定",
+      "count": 19
     },
     {
       "term": "ーム",
       "count": 18
     },
     {
-      "term": "ース",
+      "term": "デー",
       "count": 17
     },
     {
-      "term": "きる",
-      "count": 16
-    },
-    {
-      "term": "ムの",
+      "term": "ーズ",
       "count": 15
     },
     {
-      "term": "った",
+      "term": "スコ",
       "count": 14
     },
     {
-      "term": "シー",
+      "term": "ない",
+      "count": 14
+    },
+    {
+      "term": "workflows",
+      "count": 14
+    },
+    {
+      "term": "よる",
       "count": 13
     },
     {
-      "term": "ソー",
-      "count": 13
-    },
-    {
-      "term": "への",
-      "count": 13
-    },
-    {
-      "term": "サービス",
+      "term": "情報",
       "count": 12
     },
     {
-      "term": "のメ",
+      "term": "変更",
       "count": 12
     },
     {
-      "term": "があ",
-      "count": 11
+      "term": "信頼",
+      "count": 12
     },
     {
-      "term": "com",
+      "term": "ファイル",
+      "count": 12
+    },
+    {
+      "term": "生成",
+      "count": 12
+    },
+    {
+      "term": "ステ",
       "count": 11
     },
     {
@@ -74,7 +74,7 @@
       "count": 10
     },
     {
-      "term": "定し",
+      "term": "ている",
       "count": 10
     },
     {
@@ -82,124 +82,124 @@
       "count": 10
     },
     {
-      "term": "の保",
+      "term": "provenance",
+      "count": 10
+    },
+    {
+      "term": "build",
+      "count": 10
+    },
+    {
+      "term": "ubuntu",
+      "count": 10
+    },
+    {
+      "term": "プラット",
       "count": 9
     },
     {
-      "term": "ルの",
+      "term": "ール",
       "count": 9
+    },
+    {
+      "term": "いっ",
+      "count": 9
+    },
+    {
+      "term": "ナイ",
+      "count": 9
+    },
+    {
+      "term": "指定",
+      "count": 9
+    },
+    {
+      "term": "ド上",
+      "count": 8
+    },
+    {
+      "term": "用し",
+      "count": 8
     },
     {
       "term": "成さ",
-      "count": 9
-    },
-    {
-      "term": "カル",
       "count": 8
     },
     {
-      "term": "のリ",
+      "term": "json",
       "count": 8
     },
     {
-      "term": "信頼",
-      "count": 8
-    },
-    {
-      "term": "囲の",
-      "count": 8
-    },
-    {
-      "term": "られ",
-      "count": 8
-    },
-    {
-      "term": "ング",
-      "count": 8
-    },
-    {
-      "term": "いた",
-      "count": 8
-    },
-    {
-      "term": "示す",
+      "term": "リ及",
       "count": 7
     },
     {
-      "term": "連携",
+      "term": "に関",
       "count": 7
     },
     {
-      "term": "対象",
+      "term": "ェア",
       "count": 7
     },
     {
-      "term": "ーテ",
+      "term": "取得",
       "count": 7
     },
     {
-      "term": "図 ",
+      "term": "ップ",
       "count": 7
     },
     {
-      "term": "の漏洩対",
+      "term": "次に",
+      "count": 7
+    },
+    {
+      "term": "がある",
+      "count": 7
+    },
+    {
+      "term": "はg",
+      "count": 7
+    },
+    {
+      "term": "ンバ",
+      "count": 7
+    },
+    {
+      "term": "詳細",
       "count": 6
     },
     {
-      "term": "ットの保",
+      "term": "シークレ",
       "count": 6
     },
     {
-      "term": "関す",
+      "term": "およ",
       "count": 6
     },
     {
-      "term": "状態",
+      "term": "定し",
       "count": 6
     },
     {
-      "term": "たコ",
+      "term": "ウン",
       "count": 6
     },
     {
-      "term": "どの",
+      "term": "カウ",
       "count": 6
     },
     {
-      "term": "容を",
+      "term": "のg",
       "count": 6
     },
     {
-      "term": "tf",
+      "term": "secrets",
       "count": 6
     },
     {
-      "term": "るそ",
+      "term": "される",
       "count": 6
-    },
-    {
-      "term": "理脆",
-      "count": 5
-    },
-    {
-      "term": "用保",
-      "count": 5
-    },
-    {
-      "term": "組織",
-      "count": 5
-    },
-    {
-      "term": "証跡",
-      "count": 5
-    },
-    {
-      "term": "がっ",
-      "count": 5
-    },
-    {
-      "term": "るサ",
-      "count": 5
     }
   ],
   "meetings": [
