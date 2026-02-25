@@ -2,23 +2,11 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ード",
-      "count": 21
+      "term": "きる",
+      "count": 23
     },
     {
-      "term": "ライ",
-      "count": 21
-    },
-    {
-      "term": "ビル",
-      "count": 19
-    },
-    {
-      "term": "設定",
-      "count": 19
-    },
-    {
-      "term": "ーム",
+      "term": "成果",
       "count": 18
     },
     {
@@ -26,95 +14,79 @@
       "count": 17
     },
     {
-      "term": "ーズ",
+      "term": "コー",
       "count": 15
     },
     {
-      "term": "スコ",
+      "term": "によ",
+      "count": 15
+    },
+    {
+      "term": "があ",
       "count": 14
     },
     {
-      "term": "ない",
-      "count": 14
-    },
-    {
-      "term": "workflows",
-      "count": 14
-    },
-    {
-      "term": "よる",
+      "term": "ータ",
       "count": 13
     },
     {
-      "term": "情報",
+      "term": "ける",
       "count": 12
     },
     {
-      "term": "変更",
+      "term": "イメ",
       "count": 12
     },
     {
-      "term": "信頼",
-      "count": 12
-    },
-    {
-      "term": "ファイル",
-      "count": 12
-    },
-    {
-      "term": "生成",
-      "count": 12
-    },
-    {
-      "term": "ステ",
-      "count": 11
-    },
-    {
-      "term": "確保",
+      "term": "する",
       "count": 10
     },
     {
-      "term": "ている",
+      "term": "ー ",
       "count": 10
     },
     {
-      "term": "る具",
-      "count": 10
-    },
-    {
-      "term": "provenance",
-      "count": 10
-    },
-    {
-      "term": "build",
-      "count": 10
-    },
-    {
-      "term": "ubuntu",
-      "count": 10
-    },
-    {
-      "term": "プラット",
+      "term": "策 ",
       "count": 9
     },
     {
-      "term": "ール",
+      "term": "ウェ",
       "count": 9
     },
     {
-      "term": "いっ",
+      "term": "より",
       "count": 9
     },
     {
-      "term": "ナイ",
+      "term": "リの",
       "count": 9
     },
     {
-      "term": "指定",
+      "term": "られ",
       "count": 9
+    },
+    {
+      "term": "定内",
+      "count": 8
+    },
+    {
+      "term": "メン",
+      "count": 8
+    },
+    {
+      "term": "レッ",
+      "count": 8
     },
     {
       "term": "ド上",
+      "count": 8
+    },
+    {
+      "term": "リバ",
+      "count": 8
+    },
+    {
+      "term": "スの",
       "count": 8
     },
     {
@@ -122,31 +94,27 @@
       "count": 8
     },
     {
-      "term": "成さ",
+      "term": "が考",
       "count": 8
     },
     {
-      "term": "json",
-      "count": 8
-    },
-    {
-      "term": "リ及",
+      "term": "変更",
       "count": 7
     },
     {
-      "term": "に関",
+      "term": "パイプラ",
       "count": 7
     },
     {
-      "term": "ェア",
+      "term": "自動",
       "count": 7
     },
     {
-      "term": "取得",
+      "term": "を確",
       "count": 7
     },
     {
-      "term": "ップ",
+      "term": "性を",
       "count": 7
     },
     {
@@ -154,52 +122,84 @@
       "count": 7
     },
     {
-      "term": "がある",
+      "term": "図 ",
       "count": 7
     },
     {
-      "term": "はg",
-      "count": 7
-    },
-    {
-      "term": "ンバ",
-      "count": 7
-    },
-    {
-      "term": "詳細",
+      "term": "成 ",
       "count": 6
     },
     {
-      "term": "シークレ",
+      "term": "頼で",
       "count": 6
     },
     {
-      "term": "およ",
+      "term": "リ時",
       "count": 6
     },
     {
-      "term": "定し",
+      "term": "たが",
       "count": 6
     },
     {
-      "term": "ウン",
+      "term": "方法",
       "count": 6
     },
     {
-      "term": "カウ",
+      "term": "tf",
       "count": 6
     },
     {
-      "term": "のg",
+      "term": "image",
       "count": 6
     },
     {
-      "term": "secrets",
+      "term": "るs",
       "count": 6
     },
     {
-      "term": "される",
+      "term": "同様",
       "count": 6
+    },
+    {
+      "term": "scanners",
+      "count": 6
+    },
+    {
+      "term": "保守",
+      "count": 5
+    },
+    {
+      "term": "た信",
+      "count": 5
+    },
+    {
+      "term": "スコ",
+      "count": 5
+    },
+    {
+      "term": "ライ",
+      "count": 5
+    },
+    {
+      "term": "とを",
+      "count": 5
+    },
+    {
+      "term": "に保",
+      "count": 5
+    },
+    {
+      "term": "イダ",
+      "count": 5
+    },
+    {
+      "term": "配布",
+      "count": 5
+    },
+    {
+      "term": "provenance",
+      "count": 5
     }
   ],
   "meetings": [
