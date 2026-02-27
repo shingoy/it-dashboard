@@ -2,187 +2,59 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "の研",
+      "term": "タ ",
       "count": 2
     },
     {
-      "term": "ガバナン",
+      "term": "強靱",
       "count": 2
     },
     {
-      "term": "構築",
+      "term": "的評",
       "count": 2
     },
     {
-      "term": "の強靱化",
+      "term": "文大",
       "count": 2
     },
     {
-      "term": "成新",
+      "term": "ジカ",
       "count": 2
     },
     {
-      "term": "スの主導",
+      "term": "の安",
       "count": 2
     },
     {
-      "term": "ai",
+      "term": "動的",
       "count": 2
     },
     {
-      "term": "ョン",
+      "term": "トメ",
       "count": 2
     },
     {
-      "term": "評価手法",
+      "term": "hpci",
+      "count": 2
+    },
+    {
+      "term": "の形",
+      "count": 2
+    },
+    {
+      "term": "的ハ",
+      "count": 2
+    },
+    {
+      "term": "た継",
       "count": 1
     },
     {
-      "term": "生産",
+      "term": "令和",
       "count": 1
     },
     {
-      "term": "月全",
-      "count": 1
-    },
-    {
-      "term": "に対",
-      "count": 1
-    },
-    {
-      "term": "会実",
-      "count": 1
-    },
-    {
-      "term": "業費",
-      "count": 1
-    },
-    {
-      "term": "内金",
-      "count": 1
-    },
-    {
-      "term": "の予",
-      "count": 1
-    },
-    {
-      "term": "等に",
-      "count": 1
-    },
-    {
-      "term": "デガ",
-      "count": 1
-    },
-    {
-      "term": "基金の積",
-      "count": 1
-    },
-    {
-      "term": "定を",
-      "count": 1
-    },
-    {
-      "term": "流動型犯",
-      "count": 1
-    },
-    {
-      "term": "装の",
-      "count": 1
-    },
-    {
-      "term": "を記",
-      "count": 1
-    },
-    {
-      "term": "正予",
-      "count": 1
-    },
-    {
-      "term": "項目",
-      "count": 1
-    },
-    {
-      "term": "33",
-      "count": 1
-    },
-    {
-      "term": "ノロ",
-      "count": 1
-    },
-    {
-      "term": "16",
-      "count": 1
-    },
-    {
-      "term": "新プログ",
-      "count": 1
-    },
-    {
-      "term": "立に",
-      "count": 1
-    },
-    {
-      "term": "船ロ",
-      "count": 1
-    },
-    {
-      "term": "一部等",
-      "count": 1
-    },
-    {
-      "term": "を抽",
-      "count": 1
-    },
-    {
-      "term": "383",
-      "count": 1
-    },
-    {
-      "term": "クラウド",
-      "count": 1
-    },
-    {
-      "term": "文学",
-      "count": 1
-    },
-    {
-      "term": "策令",
-      "count": 1
-    },
-    {
-      "term": "発等",
-      "count": 1
-    },
-    {
-      "term": "行及",
-      "count": 1
-    },
-    {
-      "term": "える",
-      "count": 1
-    },
-    {
-      "term": "ント",
-      "count": 1
-    },
-    {
-      "term": "算は",
-      "count": 1
-    },
-    {
-      "term": "供給加速",
-      "count": 1
-    },
-    {
-      "term": "の開",
-      "count": 1
-    },
-    {
-      "term": "整備",
-      "count": 1
-    },
-    {
-      "term": "の戦",
+      "term": "的強",
       "count": 1
     },
     {
@@ -190,15 +62,143 @@
       "count": 1
     },
     {
-      "term": "は四捨五",
+      "term": "とし",
       "count": 1
     },
     {
-      "term": "る支",
+      "term": "脳循",
       "count": 1
     },
     {
-      "term": "造船ロボ",
+      "term": "総額",
+      "count": 1
+    },
+    {
+      "term": "スマ",
+      "count": 1
+    },
+    {
+      "term": "目的",
+      "count": 1
+    },
+    {
+      "term": "ログ",
+      "count": 1
+    },
+    {
+      "term": "計画的に",
+      "count": 1
+    },
+    {
+      "term": "ー導",
+      "count": 1
+    },
+    {
+      "term": "グの推進",
+      "count": 1
+    },
+    {
+      "term": "方針に関",
+      "count": 1
+    },
+    {
+      "term": "の促",
+      "count": 1
+    },
+    {
+      "term": "の予",
+      "count": 1
+    },
+    {
+      "term": "239",
+      "count": 1
+    },
+    {
+      "term": "605",
+      "count": 1
+    },
+    {
+      "term": "決定",
+      "count": 1
+    },
+    {
+      "term": "に分",
+      "count": 1
+    },
+    {
+      "term": "総地",
+      "count": 1
+    },
+    {
+      "term": "済を",
+      "count": 1
+    },
+    {
+      "term": "リス",
+      "count": 1
+    },
+    {
+      "term": "用し",
+      "count": 1
+    },
+    {
+      "term": "円の",
+      "count": 1
+    },
+    {
+      "term": "ルａ",
+      "count": 1
+    },
+    {
+      "term": "けた",
+      "count": 1
+    },
+    {
+      "term": "化a",
+      "count": 1
+    },
+    {
+      "term": "ラム",
+      "count": 1
+    },
+    {
+      "term": "一部等",
+      "count": 1
+    },
+    {
+      "term": "地域",
+      "count": 1
+    },
+    {
+      "term": "ラウ",
+      "count": 1
+    },
+    {
+      "term": "た ",
+      "count": 1
+    },
+    {
+      "term": "業の",
+      "count": 1
+    },
+    {
+      "term": "み増し分",
+      "count": 1
+    },
+    {
+      "term": "促進及び",
+      "count": 1
+    },
+    {
+      "term": "た匿名",
+      "count": 1
+    },
+    {
+      "term": "加速",
+      "count": 1
+    },
+    {
+      "term": "まえ",
       "count": 1
     }
   ],
