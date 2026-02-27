@@ -2,71 +2,55 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ライ",
-      "count": 23
+      "term": "プラ",
+      "count": 24
     },
     {
-      "term": "リポ",
+      "term": "てい",
+      "count": 21
+    },
+    {
+      "term": "成果",
       "count": 20
     },
     {
-      "term": "ジト",
+      "term": "ール",
       "count": 20
     },
     {
-      "term": "るこ",
-      "count": 19
+      "term": "ーム",
+      "count": 18
     },
     {
-      "term": "actions",
-      "count": 17
+      "term": "チー",
+      "count": 18
     },
     {
-      "term": "実行",
-      "count": 15
-    },
-    {
-      "term": "いて",
-      "count": 14
-    },
-    {
-      "term": "があ",
-      "count": 14
-    },
-    {
-      "term": "ソースコ",
+      "term": "とで",
       "count": 13
     },
     {
-      "term": "trivy",
-      "count": 13
+      "term": "ント",
+      "count": 12
     },
     {
-      "term": "workflows",
-      "count": 13
+      "term": "を取",
+      "count": 12
     },
     {
-      "term": "ステ",
+      "term": "ズの",
       "count": 11
     },
     {
-      "term": "push",
+      "term": "性の",
       "count": 11
     },
     {
-      "term": "よう",
-      "count": 11
+      "term": "シー",
+      "count": 9
     },
     {
-      "term": "検証",
-      "count": 10
-    },
-    {
-      "term": "いた",
-      "count": 10
-    },
-    {
-      "term": "ムが",
+      "term": "バー",
       "count": 9
     },
     {
@@ -74,63 +58,47 @@
       "count": 9
     },
     {
-      "term": "クを",
+      "term": "jobs",
       "count": 9
     },
     {
-      "term": "uses",
-      "count": 9
-    },
-    {
-      "term": "runs",
-      "count": 9
-    },
-    {
-      "term": "での実行",
+      "term": "ョン",
       "count": 8
     },
     {
-      "term": "物を",
+      "term": "定内",
       "count": 8
     },
     {
-      "term": "主体",
+      "term": "ラン",
       "count": 8
     },
     {
-      "term": "用い",
+      "term": "ェッ",
       "count": 8
     },
     {
-      "term": "リバ",
+      "term": "署名",
       "count": 8
     },
     {
-      "term": "なお",
-      "count": 8
-    },
-    {
-      "term": "が考",
-      "count": 8
-    },
-    {
-      "term": "ト情",
+      "term": "チームの",
       "count": 7
     },
     {
-      "term": "具体",
+      "term": "ース",
       "count": 7
     },
     {
-      "term": "囲の",
+      "term": "れば",
       "count": 7
     },
     {
-      "term": "ー ",
+      "term": "成さ",
       "count": 7
     },
     {
-      "term": "対し",
+      "term": "メタ",
       "count": 7
     },
     {
@@ -138,67 +106,99 @@
       "count": 7
     },
     {
-      "term": "具体的な",
+      "term": "クセ",
+      "count": 7
+    },
+    {
+      "term": "rulesets",
+      "count": 7
+    },
+    {
+      "term": "name",
+      "count": 7
+    },
+    {
+      "term": "uses",
+      "count": 7
+    },
+    {
+      "term": "ード管理",
       "count": 6
     },
     {
-      "term": "の確",
+      "term": "イダ",
       "count": 6
     },
     {
-      "term": "ソー",
+      "term": "担保",
       "count": 6
     },
     {
-      "term": "ド成",
+      "term": "取り",
       "count": 6
     },
     {
-      "term": "ージ",
+      "term": "保で",
       "count": 6
     },
     {
-      "term": "フ ",
+      "term": "secrets",
       "count": 6
     },
     {
-      "term": "る主",
+      "term": "steps",
       "count": 6
     },
     {
-      "term": "の署",
+      "term": "た場",
       "count": 6
     },
     {
-      "term": "サー",
+      "term": "tf",
       "count": 6
     },
     {
-      "term": "運用保守",
+      "term": "ト ",
       "count": 5
     },
     {
-      "term": "の漏洩対",
+      "term": "infrastructure",
       "count": 5
     },
     {
-      "term": "とに",
+      "term": "時の",
       "count": 5
     },
     {
-      "term": "リ及",
+      "term": "する",
       "count": 5
     },
     {
-      "term": "キー",
+      "term": "デリバリ",
       "count": 5
     },
     {
-      "term": "ロー",
+      "term": "スト",
       "count": 5
     },
     {
-      "term": "証跡",
+      "term": "定 ",
+      "count": 5
+    },
+    {
+      "term": "れは",
+      "count": 5
+    },
+    {
+      "term": "重要",
+      "count": 5
+    },
+    {
+      "term": "るg",
+      "count": 5
+    },
+    {
+      "term": "review",
       "count": 5
     }
   ],
