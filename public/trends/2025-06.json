@@ -2,179 +2,191 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ため",
-      "count": 22
+      "term": "果物",
+      "count": 20
     },
     {
-      "term": "その",
-      "count": 21
-    },
-    {
-      "term": "ビル",
+      "term": "パイプラ",
       "count": 19
     },
     {
-      "term": "ース",
-      "count": 16
+      "term": "利用",
+      "count": 18
     },
     {
-      "term": "に ",
-      "count": 15
+      "term": "ービ",
+      "count": 16
     },
     {
       "term": "ーズ",
       "count": 15
     },
     {
-      "term": "って",
+      "term": "ンテ",
       "count": 15
     },
     {
-      "term": "テナ",
+      "term": "への",
       "count": 15
     },
     {
-      "term": "脆弱",
+      "term": "スコ",
       "count": 14
     },
     {
-      "term": "内容",
+      "term": "性の",
       "count": 13
     },
     {
-      "term": "ード",
+      "term": "とが",
+      "count": 13
+    },
+    {
+      "term": "クレ",
       "count": 12
     },
     {
-      "term": "的に",
+      "term": "よる",
       "count": 12
     },
     {
-      "term": "つい",
+      "term": "護 ",
+      "count": 12
+    },
+    {
+      "term": "につ",
       "count": 11
     },
     {
-      "term": "制限",
+      "term": "要が",
       "count": 11
     },
     {
-      "term": "環境",
-      "count": 11
-    },
-    {
-      "term": "https",
-      "count": 11
-    },
-    {
-      "term": "のc",
+      "term": "ナリ",
       "count": 10
     },
     {
-      "term": "果物",
+      "term": "定し",
       "count": 10
     },
     {
-      "term": "ここ",
+      "term": "イメージ",
       "count": 10
     },
     {
-      "term": "on",
+      "term": "クを",
       "count": 10
-    },
-    {
-      "term": "性管",
-      "count": 9
     },
     {
       "term": "の担",
       "count": 9
     },
     {
-      "term": "定し",
+      "term": "ウェ",
       "count": 9
     },
     {
-      "term": "る具",
+      "term": "以外",
       "count": 9
-    },
-    {
-      "term": "runs",
-      "count": 9
-    },
-    {
-      "term": "メタデー",
-      "count": 8
-    },
-    {
-      "term": "キャ",
-      "count": 8
-    },
-    {
-      "term": "が考",
-      "count": 8
-    },
-    {
-      "term": "のよ",
-      "count": 8
-    },
-    {
-      "term": "action",
-      "count": 8
-    },
-    {
-      "term": "キー",
-      "count": 7
-    },
-    {
-      "term": "共通",
-      "count": 7
     },
     {
       "term": "ーを",
+      "count": 9
+    },
+    {
+      "term": "スキ",
+      "count": 9
+    },
+    {
+      "term": "るが",
+      "count": 9
+    },
+    {
+      "term": "action",
+      "count": 9
+    },
+    {
+      "term": "特有",
+      "count": 8
+    },
+    {
+      "term": "用い",
+      "count": 8
+    },
+    {
+      "term": "運用",
       "count": 7
     },
     {
-      "term": "および",
+      "term": "自動",
       "count": 7
     },
     {
-      "term": "アッ",
+      "term": "ナイ",
       "count": 7
     },
     {
-      "term": "ークレッ",
+      "term": "い ",
       "count": 7
     },
     {
-      "term": "必要",
+      "term": "対し",
       "count": 7
     },
     {
-      "term": "name",
+      "term": "ーと",
       "count": 7
     },
     {
-      "term": "ァイ",
+      "term": "成 ",
       "count": 6
     },
     {
-      "term": "るプ",
+      "term": "頼で",
       "count": 6
     },
     {
-      "term": "うこ",
+      "term": "codebuild",
       "count": 6
     },
     {
-      "term": "用可",
+      "term": "ムに",
       "count": 6
     },
     {
-      "term": "ド設",
+      "term": "ついては",
       "count": 6
     },
     {
-      "term": "slsa",
+      "term": "のレ",
+      "count": 6
+    },
+    {
+      "term": "リポジト",
+      "count": 6
+    },
+    {
+      "term": "ても",
+      "count": 6
+    },
+    {
+      "term": "yml",
+      "count": 6
+    },
+    {
+      "term": "ている",
+      "count": 6
+    },
+    {
+      "term": "ビルド設",
+      "count": 6
+    },
+    {
+      "term": "uses",
+      "count": 6
+    },
+    {
+      "term": "json",
       "count": 6
     },
     {
@@ -182,23 +194,11 @@
       "count": 5
     },
     {
-      "term": "理下",
+      "term": "用者",
       "count": 5
     },
     {
-      "term": "ブランチ",
-      "count": 5
-    },
-    {
-      "term": "main",
-      "count": 5
-    },
-    {
-      "term": "review",
-      "count": 5
-    },
-    {
-      "term": "記述",
+      "term": "資産管理",
       "count": 5
     }
   ],
