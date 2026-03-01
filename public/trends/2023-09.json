@@ -2,7 +2,11 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "イメージ",
+      "term": "省庁",
+      "count": 3
+    },
+    {
+      "term": "果を",
       "count": 3
     },
     {
@@ -10,39 +14,27 @@
       "count": 3
     },
     {
+      "term": "見直",
+      "count": 3
+    },
+    {
       "term": "への",
       "count": 3
     },
     {
-      "term": "ログ",
-      "count": 3
-    },
-    {
-      "term": "術保",
-      "count": 3
-    },
-    {
-      "term": "ム ",
-      "count": 3
-    },
-    {
-      "term": "クノ",
-      "count": 3
-    },
-    {
-      "term": "制対",
-      "count": 3
-    },
-    {
-      "term": "けた",
+      "term": "を目",
       "count": 2
     },
     {
-      "term": "につ",
+      "term": "後の",
       "count": 2
     },
     {
-      "term": "い ",
+      "term": "者か",
+      "count": 2
+    },
+    {
+      "term": "参加",
       "count": 2
     },
     {
@@ -50,99 +42,47 @@
       "count": 2
     },
     {
-      "term": "管省",
-      "count": 2
-    },
-    {
-      "term": "の活動等",
-      "count": 2
-    },
-    {
-      "term": "らへ",
-      "count": 2
-    },
-    {
-      "term": "知 ",
-      "count": 2
-    },
-    {
-      "term": "コミ",
-      "count": 2
-    },
-    {
-      "term": "利活",
-      "count": 2
-    },
-    {
       "term": "ノロジー",
       "count": 2
     },
     {
-      "term": "おける",
+      "term": "への参加",
       "count": 2
     },
     {
-      "term": "強会",
+      "term": "期待を把",
       "count": 2
     },
     {
-      "term": "催を",
+      "term": "アナロ",
       "count": 2
     },
     {
-      "term": "果等",
+      "term": "成果",
       "count": 2
     },
     {
-      "term": "を通",
+      "term": "たな",
       "count": 2
     },
     {
-      "term": "の具",
+      "term": "築 ",
       "count": 2
     },
     {
-      "term": "シンポジ",
+      "term": "通じ",
       "count": 2
     },
     {
-      "term": "新たな技",
+      "term": "グに",
       "count": 2
     },
     {
-      "term": "体化",
+      "term": "らの",
       "count": 2
     },
     {
-      "term": "術開発の",
-      "count": 2
-    },
-    {
-      "term": "果 ",
-      "count": 2
-    },
-    {
-      "term": "実証",
-      "count": 2
-    },
-    {
-      "term": "く発",
-      "count": 2
-    },
-    {
-      "term": "他省",
-      "count": 2
-    },
-    {
-      "term": "を通じた",
-      "count": 2
-    },
-    {
-      "term": "まえ",
-      "count": 2
-    },
-    {
-      "term": "マッ",
+      "term": "広く発信",
       "count": 2
     },
     {
@@ -150,55 +90,115 @@
       "count": 2
     },
     {
-      "term": "ノロ",
+      "term": "トの",
       "count": 2
     },
     {
-      "term": "明会や勉",
+      "term": "信 ",
+      "count": 2
+    },
+    {
+      "term": "まえ",
+      "count": 2
+    },
+    {
+      "term": "イメージ",
+      "count": 2
+    },
+    {
+      "term": "スト",
+      "count": 2
+    },
+    {
+      "term": "ジウ",
+      "count": 2
+    },
+    {
+      "term": "果等",
+      "count": 2
+    },
+    {
+      "term": "同での学",
       "count": 1
     },
     {
-      "term": "月４",
+      "term": "企業",
       "count": 1
     },
     {
-      "term": "向けた取",
+      "term": "クす",
       "count": 1
     },
     {
-      "term": "に共",
+      "term": "自治",
       "count": 1
     },
     {
-      "term": "関係者の",
+      "term": "と連携し",
       "count": 1
     },
     {
-      "term": "る技",
+      "term": "間含",
       "count": 1
     },
     {
-      "term": "のネ",
+      "term": "チャ",
       "count": 1
     },
     {
-      "term": "関する説",
+      "term": "シアムへ",
       "count": 1
     },
     {
-      "term": "づけ",
+      "term": "プや技術",
       "count": 1
     },
     {
-      "term": "在す",
+      "term": "の目的や",
       "count": 1
     },
     {
-      "term": "ーを",
+      "term": "局 ",
       "count": 1
     },
     {
-      "term": "よる",
+      "term": "プ ",
+      "count": 1
+    },
+    {
+      "term": "続的",
+      "count": 1
+    },
+    {
+      "term": "社会実装",
+      "count": 1
+    },
+    {
+      "term": "営開",
+      "count": 1
+    },
+    {
+      "term": "しネ",
+      "count": 1
+    },
+    {
+      "term": "トアップ",
+      "count": 1
+    },
+    {
+      "term": "要\n",
+      "count": 1
+    },
+    {
+      "term": "況や",
+      "count": 1
+    },
+    {
+      "term": "進する",
+      "count": 1
+    },
+    {
+      "term": "を継",
       "count": 1
     }
   ],
