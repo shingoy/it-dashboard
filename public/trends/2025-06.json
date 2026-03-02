@@ -2,135 +2,159 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 25
+      "term": "して",
+      "count": 27
     },
     {
-      "term": "こと",
-      "count": 25
-    },
-    {
-      "term": "る ",
-      "count": 25
-    },
-    {
-      "term": "れる",
-      "count": 23
-    },
-    {
-      "term": "管理",
+      "term": "ルド",
       "count": 19
     },
     {
-      "term": "保護",
-      "count": 18
-    },
-    {
-      "term": "ェー",
-      "count": 17
-    },
-    {
-      "term": "ール",
+      "term": "るこ",
       "count": 16
     },
     {
-      "term": "メー",
+      "term": "脆弱",
       "count": 15
     },
     {
-      "term": "ナイ",
+      "term": "署名",
       "count": 15
+    },
+    {
+      "term": "ける",
+      "count": 14
+    },
+    {
+      "term": "ラッ",
+      "count": 14
+    },
+    {
+      "term": "スチ",
+      "count": 14
+    },
+    {
+      "term": "には",
+      "count": 14
     },
     {
       "term": "でき",
       "count": 14
     },
     {
-      "term": "る必",
-      "count": 14
-    },
-    {
-      "term": "シー",
+      "term": "られ",
       "count": 13
     },
     {
-      "term": "の成",
+      "term": "確認",
       "count": 13
     },
     {
-      "term": "のc",
+      "term": "その",
+      "count": 12
+    },
+    {
+      "term": "サービス",
+      "count": 12
+    },
+    {
+      "term": "体的",
       "count": 11
     },
     {
-      "term": "定す",
+      "term": "環境",
       "count": 11
     },
     {
-      "term": "加え",
-      "count": 11
-    },
-    {
-      "term": "情報",
+      "term": "メン",
       "count": 10
     },
     {
-      "term": "の確",
+      "term": "ック",
+      "count": 10
+    },
+    {
+      "term": "の ",
+      "count": 10
+    },
+    {
+      "term": "sbom",
+      "count": 10
+    },
+    {
+      "term": "ォー",
       "count": 9
     },
     {
-      "term": "より",
+      "term": "が ",
       "count": 9
     },
     {
-      "term": "定内",
+      "term": "トウ",
+      "count": 9
+    },
+    {
+      "term": "のア",
+      "count": 9
+    },
+    {
+      "term": "ーカ",
       "count": 8
     },
     {
-      "term": "特有",
+      "term": "シス",
       "count": 8
+    },
+    {
+      "term": "ーム",
+      "count": 8
+    },
+    {
+      "term": "and",
+      "count": 8
+    },
+    {
+      "term": "システム",
+      "count": 7
+    },
+    {
+      "term": "の漏",
+      "count": 7
+    },
+    {
+      "term": "ソフ",
+      "count": 7
+    },
+    {
+      "term": "ド上",
+      "count": 7
     },
     {
       "term": "リバ",
-      "count": 8
-    },
-    {
-      "term": "を実",
-      "count": 8
-    },
-    {
-      "term": "デリバリ",
       "count": 7
     },
     {
-      "term": "ンb",
+      "term": "ジを",
       "count": 7
     },
     {
-      "term": "トフォー",
+      "term": "ビス",
       "count": 7
     },
     {
-      "term": "がある",
+      "term": "ルの",
       "count": 7
     },
     {
-      "term": "い ",
+      "term": "組み",
       "count": 7
     },
     {
-      "term": "など",
-      "count": 7
-    },
-    {
-      "term": "要と",
+      "term": "latest",
       "count": 7
     },
     {
       "term": "ンに",
-      "count": 6
-    },
-    {
-      "term": "ード管理",
       "count": 6
     },
     {
@@ -142,63 +166,39 @@
       "count": 6
     },
     {
-      "term": "ルと",
+      "term": "ンテナイ",
       "count": 6
     },
     {
-      "term": "タデータ",
+      "term": "クト",
       "count": 6
     },
     {
-      "term": "ついては",
+      "term": "ズで",
       "count": 6
     },
     {
-      "term": "らな",
+      "term": "どの",
       "count": 6
     },
     {
-      "term": "to",
+      "term": "tf",
       "count": 6
     },
     {
-      "term": "理脆",
+      "term": "合は",
+      "count": 6
+    },
+    {
+      "term": "ることが",
+      "count": 6
+    },
+    {
+      "term": "13",
       "count": 5
     },
     {
-      "term": "にお",
-      "count": 5
-    },
-    {
-      "term": "よる",
-      "count": 5
-    },
-    {
-      "term": "プ ",
-      "count": 5
-    },
-    {
-      "term": "イン特有",
-      "count": 5
-    },
-    {
-      "term": "てc",
-      "count": 5
-    },
-    {
-      "term": "ン特",
-      "count": 5
-    },
-    {
-      "term": "述し",
-      "count": 5
-    },
-    {
-      "term": "上の",
-      "count": 5
-    },
-    {
-      "term": "際の",
+      "term": "ティ",
       "count": 5
     }
   ],
