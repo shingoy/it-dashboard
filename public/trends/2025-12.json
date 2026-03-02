@@ -2,7 +2,15 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "内数",
+      "term": "報通信基",
+      "count": 2
+    },
+    {
+      "term": "技術",
+      "count": 2
+    },
+    {
+      "term": "性を",
       "count": 2
     },
     {
@@ -10,19 +18,11 @@
       "count": 2
     },
     {
-      "term": "の能",
+      "term": "分散",
       "count": 2
     },
     {
-      "term": "等支",
-      "count": 2
-    },
-    {
-      "term": "援 ",
-      "count": 2
-    },
-    {
-      "term": "コンピュ",
+      "term": "対策",
       "count": 2
     },
     {
@@ -30,87 +30,15 @@
       "count": 2
     },
     {
-      "term": "速的",
-      "count": 1
+      "term": "の強靱化",
+      "count": 2
     },
     {
-      "term": "月成",
-      "count": 1
+      "term": "の研究",
+      "count": 2
     },
     {
-      "term": "35",
-      "count": 1
-    },
-    {
-      "term": "頭脳",
-      "count": 1
-    },
-    {
-      "term": "うａ",
-      "count": 1
-    },
-    {
-      "term": "全面",
-      "count": 1
-    },
-    {
-      "term": "メン",
-      "count": 1
-    },
-    {
-      "term": "生産",
-      "count": 1
-    },
-    {
-      "term": "る好",
-      "count": 1
-    },
-    {
-      "term": "ける",
-      "count": 1
-    },
-    {
-      "term": "を記",
-      "count": 1
-    },
-    {
-      "term": "との",
-      "count": 1
-    },
-    {
-      "term": "スキリン",
-      "count": 1
-    },
-    {
-      "term": "済対策",
-      "count": 1
-    },
-    {
-      "term": "活用",
-      "count": 1
-    },
-    {
-      "term": "開発力の",
-      "count": 1
-    },
-    {
-      "term": "環等",
-      "count": 1
-    },
-    {
-      "term": "605",
-      "count": 1
-    },
-    {
-      "term": "方針",
-      "count": 1
-    },
-    {
-      "term": "デガ",
-      "count": 1
-    },
-    {
-      "term": "働生",
+      "term": "ションの",
       "count": 1
     },
     {
@@ -118,63 +46,23 @@
       "count": 1
     },
     {
-      "term": "造船ロボ",
+      "term": "流動",
       "count": 1
     },
     {
-      "term": "計画",
+      "term": "した",
       "count": 1
     },
     {
-      "term": "シス",
+      "term": "立９",
       "count": 1
     },
     {
-      "term": "関連予算",
+      "term": "グの",
       "count": 1
     },
     {
-      "term": "四捨",
-      "count": 1
-    },
-    {
-      "term": "活用実証",
-      "count": 1
-    },
-    {
-      "term": "ル化",
-      "count": 1
-    },
-    {
-      "term": "査新",
-      "count": 1
-    },
-    {
-      "term": "合は",
-      "count": 1
-    },
-    {
-      "term": "ショ",
-      "count": 1
-    },
-    {
-      "term": "うち",
-      "count": 1
-    },
-    {
-      "term": "えａ",
-      "count": 1
-    },
-    {
-      "term": "代造",
-      "count": 1
-    },
-    {
-      "term": "けて",
-      "count": 1
-    },
-    {
-      "term": "オー",
+      "term": "と協働す",
       "count": 1
     },
     {
@@ -182,23 +70,135 @@
       "count": 1
     },
     {
-      "term": "ラボ",
+      "term": "グの推進",
       "count": 1
     },
     {
-      "term": "進製",
+      "term": "頼で",
       "count": 1
     },
     {
-      "term": "発新",
+      "term": "正予",
       "count": 1
     },
     {
-      "term": "グロ",
+      "term": "生産",
       "count": 1
     },
     {
-      "term": "スト",
+      "term": "活用",
+      "count": 1
+    },
+    {
+      "term": "厚介",
+      "count": 1
+    },
+    {
+      "term": "査新",
+      "count": 1
+    },
+    {
+      "term": "発力",
+      "count": 1
+    },
+    {
+      "term": "に応",
+      "count": 1
+    },
+    {
+      "term": "積み",
+      "count": 1
+    },
+    {
+      "term": "等ａ",
+      "count": 1
+    },
+    {
+      "term": "化a",
+      "count": 1
+    },
+    {
+      "term": "目ご",
+      "count": 1
+    },
+    {
+      "term": "施行",
+      "count": 1
+    },
+    {
+      "term": "小項",
+      "count": 1
+    },
+    {
+      "term": "連施",
+      "count": 1
+    },
+    {
+      "term": "難な",
+      "count": 1
+    },
+    {
+      "term": "た建設現",
+      "count": 1
+    },
+    {
+      "term": "ラの",
+      "count": 1
+    },
+    {
+      "term": "ル化",
+      "count": 1
+    },
+    {
+      "term": "の能",
+      "count": 1
+    },
+    {
+      "term": "費の",
+      "count": 1
+    },
+    {
+      "term": "に資する",
+      "count": 1
+    },
+    {
+      "term": "予算",
+      "count": 1
+    },
+    {
+      "term": "数 ",
+      "count": 1
+    },
+    {
+      "term": "た次",
+      "count": 1
+    },
+    {
+      "term": "類 ",
+      "count": 1
+    },
+    {
+      "term": "部等",
+      "count": 1
+    },
+    {
+      "term": "一部等",
+      "count": 1
+    },
+    {
+      "term": "盤の",
+      "count": 1
+    },
+    {
+      "term": "グル",
+      "count": 1
+    },
+    {
+      "term": "えａ",
+      "count": 1
+    },
+    {
+      "term": "内国",
       "count": 1
     }
   ],
