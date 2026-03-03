@@ -2,111 +2,111 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "パイ",
-      "count": 21
-    },
-    {
       "term": "イプ",
       "count": 21
     },
     {
-      "term": "リポ",
-      "count": 19
+      "term": "その",
+      "count": 20
     },
     {
-      "term": "ード",
-      "count": 19
+      "term": "ール",
+      "count": 20
     },
     {
-      "term": "ライ",
+      "term": "ービ",
       "count": 16
     },
     {
-      "term": "的な",
+      "term": "およ",
       "count": 15
     },
     {
-      "term": "から",
+      "term": "メー",
       "count": 15
     },
     {
-      "term": "きる",
+      "term": "よう",
       "count": 15
     },
     {
-      "term": "スコ",
+      "term": "プロ",
       "count": 14
     },
     {
-      "term": "ォー",
-      "count": 14
-    },
-    {
-      "term": "のた",
-      "count": 14
-    },
-    {
-      "term": "サー",
-      "count": 14
-    },
-    {
-      "term": "ては",
-      "count": 14
-    },
-    {
-      "term": "ソースコ",
+      "term": "弱性",
       "count": 13
     },
     {
-      "term": "の成",
+      "term": "とで",
       "count": 13
     },
     {
-      "term": "ける",
+      "term": "ステ",
+      "count": 11
+    },
+    {
+      "term": "はな",
+      "count": 11
+    },
+    {
+      "term": "加え",
+      "count": 11
+    },
+    {
+      "term": "チームの",
       "count": 10
     },
     {
-      "term": "策 ",
+      "term": "ci",
+      "count": 10
+    },
+    {
+      "term": "提供",
+      "count": 10
+    },
+    {
+      "term": "スキ",
+      "count": 10
+    },
+    {
+      "term": "脆弱性管",
+      "count": 9
+    },
+    {
+      "term": "れて",
+      "count": 9
+    },
+    {
+      "term": "ァイ",
+      "count": 9
+    },
+    {
+      "term": "uses",
       "count": 9
     },
     {
       "term": "に関",
-      "count": 9
-    },
-    {
-      "term": "ンの",
-      "count": 9
-    },
-    {
-      "term": "フト",
-      "count": 9
-    },
-    {
-      "term": "プラ",
       "count": 8
     },
     {
-      "term": "スト",
+      "term": "ルド",
       "count": 8
     },
     {
-      "term": "特有",
+      "term": "での実行",
       "count": 8
     },
     {
-      "term": "ソフ",
+      "term": "用い",
       "count": 8
     },
     {
-      "term": "ト情",
-      "count": 7
+      "term": "リス",
+      "count": 8
     },
     {
-      "term": "内の",
-      "count": 7
-    },
-    {
-      "term": "あり",
+      "term": "ラン",
       "count": 7
     },
     {
@@ -114,91 +114,91 @@
       "count": 7
     },
     {
+      "term": "にな",
+      "count": 7
+    },
+    {
+      "term": "定す",
+      "count": 7
+    },
+    {
+      "term": "担保",
+      "count": 7
+    },
+    {
       "term": "ルに",
       "count": 7
     },
     {
-      "term": "図 ",
+      "term": "name",
       "count": 7
     },
     {
-      "term": "混入",
-      "count": 7
-    },
-    {
-      "term": "uses",
-      "count": 7
-    },
-    {
-      "term": "チの",
+      "term": "めに",
       "count": 6
     },
     {
-      "term": "の漏洩対",
+      "term": "にお",
       "count": 6
     },
     {
-      "term": "シー",
+      "term": "等の",
       "count": 6
     },
     {
-      "term": "ス ",
+      "term": "クト",
       "count": 6
     },
     {
-      "term": "方法",
+      "term": "省略する",
       "count": 6
     },
     {
-      "term": "review",
+      "term": "るそ",
       "count": 6
     },
     {
-      "term": "など",
+      "term": "どの",
       "count": 6
     },
     {
-      "term": "ビルド設",
+      "term": "ーと",
       "count": 6
     },
     {
-      "term": "はパ",
+      "term": "ることが",
       "count": 6
     },
     {
-      "term": "含む",
+      "term": "組み",
+      "count": 6
+    },
+    {
+      "term": "要と",
+      "count": 6
+    },
+    {
+      "term": "えて",
+      "count": 6
+    },
+    {
+      "term": "要 ",
       "count": 5
     },
     {
-      "term": "頼性",
+      "term": "パイプラ",
       "count": 5
     },
     {
-      "term": "サプ",
+      "term": "信頼でき",
       "count": 5
     },
     {
-      "term": "うい",
+      "term": "ード",
       "count": 5
     },
     {
-      "term": "はt",
-      "count": 5
-    },
-    {
-      "term": "具 ",
-      "count": 5
-    },
-    {
-      "term": "実際",
-      "count": 5
-    },
-    {
-      "term": "項で",
-      "count": 5
-    },
-    {
-      "term": "とと",
+      "term": "プ ",
       "count": 5
     }
   ],
