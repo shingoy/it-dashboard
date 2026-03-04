@@ -2,51 +2,39 @@
   "month": "2026-02",
   "keywords": [
     {
-      "term": "にお",
+      "term": "額を",
       "count": 2
     },
     {
-      "term": "に向",
+      "term": "を含むデ",
       "count": 2
     },
     {
-      "term": "含む",
+      "term": "策を",
       "count": 2
     },
     {
-      "term": "練 ",
+      "term": "野の人材",
       "count": 2
     },
     {
-      "term": "者及",
+      "term": "策も",
       "count": 2
     },
     {
-      "term": "デジ",
+      "term": "針に分類",
       "count": 2
     },
     {
-      "term": "入し",
+      "term": "難な",
       "count": 2
     },
     {
-      "term": "いが",
+      "term": "する",
       "count": 2
     },
     {
-      "term": "等の",
-      "count": 2
-    },
-    {
-      "term": "シス",
-      "count": 2
-    },
-    {
-      "term": "て離",
-      "count": 2
-    },
-    {
-      "term": "の構",
+      "term": "令和",
       "count": 2
     },
     {
@@ -54,27 +42,11 @@
       "count": 2
     },
     {
-      "term": "は四",
+      "term": "企業向け",
       "count": 2
     },
     {
-      "term": "でき",
-      "count": 2
-    },
-    {
-      "term": "どの",
-      "count": 2
-    },
-    {
-      "term": "の推",
-      "count": 2
-    },
-    {
-      "term": "を含",
-      "count": 2
-    },
-    {
-      "term": "複数",
+      "term": "算総",
       "count": 2
     },
     {
@@ -82,11 +54,15 @@
       "count": 2
     },
     {
-      "term": "増し",
+      "term": "測シ",
       "count": 1
     },
     {
-      "term": "ト農",
+      "term": "ンフ",
+      "count": 1
+    },
+    {
+      "term": "た地",
       "count": 1
     },
     {
@@ -94,15 +70,7 @@
       "count": 1
     },
     {
-      "term": "確保のた",
-      "count": 1
-    },
-    {
-      "term": "ガバナン",
-      "count": 1
-    },
-    {
-      "term": "省エ",
+      "term": "チモ",
       "count": 1
     },
     {
@@ -110,79 +78,23 @@
       "count": 1
     },
     {
-      "term": "サイ",
+      "term": "金の",
       "count": 1
     },
     {
-      "term": "年度予算",
+      "term": "を高",
       "count": 1
     },
     {
-      "term": "産業",
+      "term": "対処",
       "count": 1
     },
     {
-      "term": "用し",
+      "term": "頼性",
       "count": 1
     },
     {
-      "term": "価技術の",
-      "count": 1
-    },
-    {
-      "term": "なａ",
-      "count": 1
-    },
-    {
-      "term": "革ａ",
-      "count": 1
-    },
-    {
-      "term": "新防",
-      "count": 1
-    },
-    {
-      "term": "ァイ",
-      "count": 1
-    },
-    {
-      "term": "る研",
-      "count": 1
-    },
-    {
-      "term": "介護",
-      "count": 1
-    },
-    {
-      "term": "発新",
-      "count": 1
-    },
-    {
-      "term": "ハイ",
-      "count": 1
-    },
-    {
-      "term": "の負",
-      "count": 1
-    },
-    {
-      "term": "シーズ探",
-      "count": 1
-    },
-    {
-      "term": "発事業",
-      "count": 1
-    },
-    {
-      "term": "進総",
-      "count": 1
-    },
-    {
-      "term": "強化",
-      "count": 1
-    },
-    {
-      "term": "関す",
+      "term": "導入",
       "count": 1
     },
     {
@@ -190,15 +102,103 @@
       "count": 1
     },
     {
-      "term": "化文",
+      "term": "ルの",
       "count": 1
     },
     {
-      "term": "車両",
+      "term": "発等の推",
       "count": 1
     },
     {
-      "term": "負担",
+      "term": "設現",
+      "count": 1
+    },
+    {
+      "term": "用の促進",
+      "count": 1
+    },
+    {
+      "term": "beyond",
+      "count": 1
+    },
+    {
+      "term": "対す",
+      "count": 1
+    },
+    {
+      "term": "開発力の",
+      "count": 1
+    },
+    {
+      "term": "スの",
+      "count": 1
+    },
+    {
+      "term": "材の",
+      "count": 1
+    },
+    {
+      "term": "薬タ",
+      "count": 1
+    },
+    {
+      "term": "く調査研",
+      "count": 1
+    },
+    {
+      "term": "度ａ",
+      "count": 1
+    },
+    {
+      "term": "スマート",
+      "count": 1
+    },
+    {
+      "term": "たマルチ",
+      "count": 1
+    },
+    {
+      "term": "製造",
+      "count": 1
+    },
+    {
+      "term": "ラム",
+      "count": 1
+    },
+    {
+      "term": "進国",
+      "count": 1
+    },
+    {
+      "term": "発支援",
+      "count": 1
+    },
+    {
+      "term": "つい",
+      "count": 1
+    },
+    {
+      "term": "や介護テ",
+      "count": 1
+    },
+    {
+      "term": "の育",
+      "count": 1
+    },
+    {
+      "term": "連携",
+      "count": 1
+    },
+    {
+      "term": "バナ",
+      "count": 1
+    },
+    {
+      "term": "協働",
+      "count": 1
+    },
+    {
+      "term": "ハロ",
       "count": 1
     }
   ],
