@@ -2,131 +2,159 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "イプ",
-      "count": 21
-    },
-    {
-      "term": "その",
-      "count": 20
-    },
-    {
-      "term": "ール",
-      "count": 20
-    },
-    {
-      "term": "ービ",
-      "count": 16
-    },
-    {
-      "term": "およ",
-      "count": 15
-    },
-    {
-      "term": "メー",
-      "count": 15
-    },
-    {
-      "term": "よう",
-      "count": 15
-    },
-    {
-      "term": "プロ",
-      "count": 14
-    },
-    {
-      "term": "弱性",
-      "count": 13
-    },
-    {
-      "term": "とで",
-      "count": 13
-    },
-    {
-      "term": "ステ",
-      "count": 11
-    },
-    {
-      "term": "はな",
-      "count": 11
-    },
-    {
-      "term": "加え",
-      "count": 11
-    },
-    {
-      "term": "チームの",
-      "count": 10
-    },
-    {
-      "term": "ci",
-      "count": 10
-    },
-    {
-      "term": "提供",
-      "count": 10
-    },
-    {
-      "term": "スキ",
-      "count": 10
-    },
-    {
-      "term": "脆弱性管",
-      "count": 9
-    },
-    {
-      "term": "れて",
-      "count": 9
+      "term": "actions",
+      "count": 19
     },
     {
       "term": "ァイ",
+      "count": 19
+    },
+    {
+      "term": "でき",
+      "count": 19
+    },
+    {
+      "term": "リポジト",
+      "count": 18
+    },
+    {
+      "term": "ソー",
+      "count": 16
+    },
+    {
+      "term": "ドフ",
+      "count": 14
+    },
+    {
+      "term": "全性",
+      "count": 14
+    },
+    {
+      "term": "この",
+      "count": 14
+    },
+    {
+      "term": "にお",
+      "count": 13
+    },
+    {
+      "term": "ソースコ",
+      "count": 13
+    },
+    {
+      "term": "おけ",
+      "count": 12
+    },
+    {
+      "term": "る必",
+      "count": 12
+    },
+    {
+      "term": "可能",
+      "count": 12
+    },
+    {
+      "term": "メン",
+      "count": 10
+    },
+    {
+      "term": "イメージ",
+      "count": 10
+    },
+    {
+      "term": "含む",
       "count": 9
     },
     {
-      "term": "uses",
+      "term": "ける",
       "count": 9
     },
     {
-      "term": "に関",
+      "term": "弱性",
+      "count": 9
+    },
+    {
+      "term": "内容",
+      "count": 9
+    },
+    {
+      "term": "の制",
+      "count": 9
+    },
+    {
+      "term": "ウェ",
+      "count": 9
+    },
+    {
+      "term": "の対",
+      "count": 9
+    },
+    {
+      "term": "権限",
+      "count": 9
+    },
+    {
+      "term": "to",
+      "count": 9
+    },
+    {
+      "term": "ョン",
       "count": 8
     },
     {
-      "term": "ルド",
+      "term": "シス",
       "count": 8
     },
     {
-      "term": "での実行",
+      "term": "の確",
       "count": 8
     },
     {
-      "term": "用い",
+      "term": "範囲の制",
       "count": 8
     },
     {
-      "term": "リス",
+      "term": "の構",
       "count": 8
     },
     {
-      "term": "ラン",
+      "term": "るそ",
+      "count": 8
+    },
+    {
+      "term": "用し",
+      "count": 8
+    },
+    {
+      "term": "リ及",
       "count": 7
     },
     {
-      "term": "るま",
+      "term": "ト情",
       "count": 7
     },
     {
-      "term": "にな",
+      "term": "関す",
       "count": 7
     },
     {
-      "term": "定す",
+      "term": "を含",
       "count": 7
     },
     {
-      "term": "担保",
+      "term": "ック",
       "count": 7
     },
     {
-      "term": "ルに",
+      "term": "あり",
+      "count": 7
+    },
+    {
+      "term": "ジを",
+      "count": 7
+    },
+    {
+      "term": "クセ",
       "count": 7
     },
     {
@@ -134,11 +162,11 @@
       "count": 7
     },
     {
-      "term": "めに",
-      "count": 6
+      "term": "と同",
+      "count": 7
     },
     {
-      "term": "にお",
+      "term": "成 ",
       "count": 6
     },
     {
@@ -146,60 +174,32 @@
       "count": 6
     },
     {
-      "term": "クト",
+      "term": "安全性の",
       "count": 6
     },
     {
-      "term": "省略する",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "るそ",
+      "term": "はプ",
       "count": 6
     },
     {
-      "term": "どの",
+      "term": "トを",
       "count": 6
     },
     {
-      "term": "ーと",
+      "term": "amazon",
       "count": 6
     },
     {
-      "term": "ることが",
+      "term": "のg",
       "count": 6
     },
     {
-      "term": "組み",
+      "term": "を必",
       "count": 6
-    },
-    {
-      "term": "要と",
-      "count": 6
-    },
-    {
-      "term": "えて",
-      "count": 6
-    },
-    {
-      "term": "要 ",
-      "count": 5
-    },
-    {
-      "term": "パイプラ",
-      "count": 5
-    },
-    {
-      "term": "信頼でき",
-      "count": 5
-    },
-    {
-      "term": "ード",
-      "count": 5
-    },
-    {
-      "term": "プ ",
-      "count": 5
     }
   ],
   "meetings": [
