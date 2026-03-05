@@ -658,5 +658,49 @@
     "date": "2026-02-12",
     "collected_at": "2026-02-12T09:57:24.791477",
     "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/c010ee6e8f51b69e8d8b2b6c08316cb4.pdf"
+  },
+  {
+    "id": "d719d1022abcf50e0dc7c34c1983623f",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／301KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/fc5cbe4a/20260224_resources_standard_guideline_trustidentityoverview_01.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2026-03-05T09:53:03.595379",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/d719d1022abcf50e0dc7c34c1983623f.pdf"
+  },
+  {
+    "id": "c41427e4ae4f37e4c60aec3cb447dd5d",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／301KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/916a545e/20250930_resources_standard_guideline_trustidentityoverview_01.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2026-03-05T09:53:03.595576",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/c41427e4ae4f37e4c60aec3cb447dd5d.pdf"
+  },
+  {
+    "id": "e2b1b1bfb949770932fb7f2167853ae7",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／2,699KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/c7edc43c/20260224_resources_standard_guideline_identityverification_1.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2026-03-05T09:53:03.595832",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/e2b1b1bfb949770932fb7f2167853ae7.pdf"
+  },
+  {
+    "id": "641361c4953611bf37e83e35d771f637",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_本人確認手法の検討用ワークシート（PDF／409KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a24cce33/20260224_resources_standard_guideline_identityverification_2.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2026-03-05T09:53:03.596019",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/641361c4953611bf37e83e35d771f637.pdf"
   }
 ]

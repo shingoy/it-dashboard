@@ -20,6 +20,16 @@
     "chunks_count": 4
   },
   {
+    "doc_id": "d719d1022abcf50e0dc7c34c1983623f",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／301KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/fc5cbe4a/20260224_resources_standard_guideline_trustidentityoverview_01.pdf",
+    "pages": 8,
+    "chunks_count": 5
+  },
+  {
     "doc_id": "1d0d940594d2f75bbb2acf479cfcd0db",
     "meeting": "デジタル臨時行政調査会",
     "agency": "デジタル庁",
@@ -260,6 +270,26 @@
     "chunks_count": 68
   },
   {
+    "doc_id": "641361c4953611bf37e83e35d771f637",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_本人確認手法の検討用ワークシート（PDF／409KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a24cce33/20260224_resources_standard_guideline_identityverification_2.pdf",
+    "pages": 1,
+    "chunks_count": 3
+  },
+  {
+    "doc_id": "c41427e4ae4f37e4c60aec3cb447dd5d",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／301KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/916a545e/20250930_resources_standard_guideline_trustidentityoverview_01.pdf",
+    "pages": 7,
+    "chunks_count": 4
+  },
+  {
     "doc_id": "62019305b0fb8902b42946e072ce9288",
     "meeting": "デジタル社会推進標準ガイドライン",
     "agency": "デジタル庁",
@@ -368,6 +398,16 @@
     "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/4045b771/20240723_resources_standard_guidelines_outline_01.pdf",
     "pages": 61,
     "chunks_count": 30
+  },
+  {
+    "doc_id": "e2b1b1bfb949770932fb7f2167853ae7",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／2,699KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/c7edc43c/20260224_resources_standard_guideline_identityverification_1.pdf",
+    "pages": 96,
+    "chunks_count": 70
   },
   {
     "doc_id": "9bed6e93c9a99e173079cfcd397172b5",
