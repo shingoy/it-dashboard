@@ -2,191 +2,175 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "その",
-      "count": 21
+      "term": "リポ",
+      "count": 20
     },
     {
-      "term": "ォー",
-      "count": 16
+      "term": "ット",
+      "count": 19
     },
     {
-      "term": "実行",
-      "count": 16
-    },
-    {
-      "term": "ーク",
+      "term": "ーズ",
       "count": 15
     },
     {
-      "term": "この",
-      "count": 14
-    },
-    {
-      "term": "ci",
+      "term": "ては",
       "count": 13
     },
     {
-      "term": "id",
-      "count": 13
-    },
-    {
-      "term": "いて",
+      "term": "おけ",
       "count": 12
     },
     {
-      "term": "ロー",
+      "term": "対策",
+      "count": 12
+    },
+    {
+      "term": "可能",
+      "count": 12
+    },
+    {
+      "term": "ステ",
       "count": 11
     },
     {
-      "term": "の実",
+      "term": "つい",
       "count": 11
     },
     {
-      "term": "る図",
+      "term": "につ",
       "count": 11
     },
     {
-      "term": "com",
+      "term": "ーク",
       "count": 11
     },
     {
-      "term": "上で",
+      "term": "設定",
+      "count": 11
+    },
+    {
+      "term": "https",
+      "count": 11
+    },
+    {
+      "term": "ンチ",
       "count": 10
     },
     {
-      "term": "定す",
+      "term": "依存",
       "count": 10
     },
     {
-      "term": "プロ",
+      "term": "る\n",
       "count": 10
     },
     {
-      "term": "バー",
+      "term": "検証",
       "count": 10
     },
     {
-      "term": "要が",
+      "term": "クを",
       "count": 10
     },
     {
-      "term": "env",
-      "count": 10
-    },
-    {
-      "term": "ubuntu",
-      "count": 10
-    },
-    {
-      "term": "ェア",
-      "count": 9
-    },
-    {
-      "term": "が ",
-      "count": 9
-    },
-    {
-      "term": "ている",
-      "count": 9
-    },
-    {
-      "term": "成さ",
-      "count": 9
-    },
-    {
-      "term": "outputs",
-      "count": 9
-    },
-    {
-      "term": "カル",
+      "term": "ェー",
       "count": 8
     },
     {
-      "term": "主体",
+      "term": "から",
       "count": 8
     },
     {
-      "term": "docker",
+      "term": "作成",
       "count": 8
     },
     {
-      "term": "必要",
+      "term": "が考",
       "count": 8
     },
     {
-      "term": "能で",
-      "count": 8
-    },
-    {
-      "term": "ルで",
-      "count": 8
-    },
-    {
-      "term": "ト情",
+      "term": "チー",
       "count": 7
+    },
+    {
+      "term": "体の",
+      "count": 7
+    },
+    {
+      "term": "定 ",
+      "count": 7
+    },
+    {
+      "term": "ル ",
+      "count": 7
+    },
+    {
+      "term": "ンb",
+      "count": 7
+    },
+    {
+      "term": "ルに",
+      "count": 7
+    },
+    {
+      "term": "よう",
+      "count": 7
+    },
+    {
+      "term": "仕組",
+      "count": 7
+    },
+    {
+      "term": "ート",
+      "count": 6
     },
     {
       "term": "関す",
-      "count": 7
-    },
-    {
-      "term": "行範",
-      "count": 7
-    },
-    {
-      "term": "強制",
-      "count": 7
-    },
-    {
-      "term": "要と",
-      "count": 7
-    },
-    {
-      "term": "混入",
-      "count": 7
-    },
-    {
-      "term": "runs",
-      "count": 7
-    },
-    {
-      "term": "プロバイ",
       "count": 6
     },
     {
-      "term": "ビルド上",
+      "term": "の成",
       "count": 6
     },
     {
-      "term": "ンテナイ",
+      "term": "たが",
       "count": 6
     },
     {
-      "term": "ても",
+      "term": "トウ",
       "count": 6
     },
     {
-      "term": "可能であ",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "ることが",
+      "term": "キャ",
       "count": 6
     },
     {
-      "term": "jobs",
+      "term": "ズで",
       "count": 6
     },
     {
-      "term": "る成",
+      "term": "format",
+      "count": 6
+    },
+    {
+      "term": "理脆",
       "count": 5
     },
     {
-      "term": "るし",
+      "term": "ける",
       "count": 5
     },
     {
-      "term": "に保",
+      "term": "ジト",
+      "count": 5
+    },
+    {
+      "term": "てc",
       "count": 5
     },
     {
@@ -194,11 +178,27 @@
       "count": 5
     },
     {
-      "term": "ソフトウ",
+      "term": "フェーズ",
       "count": 5
     },
     {
-      "term": "活用",
+      "term": "定し",
+      "count": 5
+    },
+    {
+      "term": "自動",
+      "count": 5
+    },
+    {
+      "term": "るサ",
+      "count": 5
+    },
+    {
+      "term": "らの",
+      "count": 5
+    },
+    {
+      "term": "の成果物",
       "count": 5
     }
   ],
