@@ -2,204 +2,204 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "管理",
+      "term": "であ",
+      "count": 22
+    },
+    {
+      "term": "利用",
+      "count": 21
+    },
+    {
+      "term": "その",
+      "count": 21
+    },
+    {
+      "term": "トリ",
       "count": 20
     },
     {
-      "term": "actions",
+      "term": "ルド",
       "count": 19
     },
     {
-      "term": "って",
+      "term": "ある",
+      "count": 18
+    },
+    {
+      "term": "ォー",
       "count": 16
     },
     {
-      "term": "脆弱",
+      "term": "また",
       "count": 15
     },
     {
-      "term": "よび",
+      "term": "とな",
       "count": 15
     },
     {
-      "term": "では",
-      "count": 15
-    },
-    {
-      "term": "イン",
+      "term": "イル",
       "count": 13
     },
     {
-      "term": "よる",
+      "term": "ラン",
       "count": 12
+    },
+    {
+      "term": "シークレ",
+      "count": 12
+    },
+    {
+      "term": "変更",
+      "count": 12
+    },
+    {
+      "term": "スコ",
+      "count": 12
+    },
+    {
+      "term": "ステ",
+      "count": 11
+    },
+    {
+      "term": "ティ",
+      "count": 11
+    },
+    {
+      "term": "フォーム",
+      "count": 11
+    },
+    {
+      "term": "メン",
+      "count": 10
+    },
+    {
+      "term": "code",
+      "count": 10
+    },
+    {
+      "term": "含む",
+      "count": 9
+    },
+    {
+      "term": "が ",
+      "count": 9
+    },
+    {
+      "term": "以外",
+      "count": 9
+    },
+    {
+      "term": "定の",
+      "count": 9
+    },
+    {
+      "term": "ンa",
+      "count": 9
+    },
+    {
+      "term": "runs",
+      "count": 9
+    },
+    {
+      "term": "囲の",
+      "count": 8
+    },
+    {
+      "term": "スト",
+      "count": 8
+    },
+    {
+      "term": "ソフ",
+      "count": 8
+    },
+    {
+      "term": "ルで",
+      "count": 8
+    },
+    {
+      "term": "共通",
+      "count": 7
+    },
+    {
+      "term": "ーク",
+      "count": 7
     },
     {
       "term": "の保",
-      "count": 12
-    },
-    {
-      "term": "を取",
-      "count": 12
-    },
-    {
-      "term": "場合",
-      "count": 12
-    },
-    {
-      "term": "った",
-      "count": 12
-    },
-    {
-      "term": "チームの",
-      "count": 11
-    },
-    {
-      "term": "ラッ",
-      "count": 11
-    },
-    {
-      "term": "生成",
-      "count": 11
-    },
-    {
-      "term": "具体",
-      "count": 10
-    },
-    {
-      "term": "確保",
-      "count": 10
-    },
-    {
-      "term": "し ",
-      "count": 10
-    },
-    {
-      "term": "内で",
-      "count": 10
-    },
-    {
-      "term": "jobs",
-      "count": 10
-    },
-    {
-      "term": "の確",
-      "count": 9
-    },
-    {
-      "term": "デリ",
-      "count": 9
-    },
-    {
-      "term": "用す",
-      "count": 9
-    },
-    {
-      "term": "メー",
-      "count": 9
-    },
-    {
-      "term": "and",
-      "count": 9
-    },
-    {
-      "term": "image",
-      "count": 9
-    },
-    {
-      "term": "バイ",
-      "count": 8
-    },
-    {
-      "term": "スク",
-      "count": 8
-    },
-    {
-      "term": "with",
-      "count": 8
-    },
-    {
-      "term": "ダー",
       "count": 7
     },
     {
-      "term": "性が",
+      "term": "内の",
       "count": 7
     },
     {
-      "term": "ークレッ",
+      "term": "定 ",
       "count": 7
     },
     {
-      "term": "name",
+      "term": "るま",
       "count": 7
     },
     {
-      "term": "成 ",
-      "count": 6
+      "term": "バイナリ",
+      "count": 7
     },
     {
-      "term": "の漏洩対",
-      "count": 6
+      "term": "にな",
+      "count": 7
     },
     {
-      "term": "トの",
-      "count": 6
+      "term": "sbom",
+      "count": 7
     },
     {
-      "term": "10",
-      "count": 6
+      "term": "ップ",
+      "count": 7
     },
     {
-      "term": "物と",
-      "count": 6
+      "term": "rulesets",
+      "count": 7
     },
     {
-      "term": "ジと",
-      "count": 6
-    },
-    {
-      "term": "ムは",
-      "count": 6
-    },
-    {
-      "term": "ズで",
-      "count": 6
-    },
-    {
-      "term": "レビ",
-      "count": 6
-    },
-    {
-      "term": "rule",
-      "count": 6
-    },
-    {
-      "term": "とも",
-      "count": 6
+      "term": "強制",
+      "count": 7
     },
     {
       "term": "ない",
+      "count": 7
+    },
+    {
+      "term": "では",
+      "count": 7
+    },
+    {
+      "term": "yml",
+      "count": 7
+    },
+    {
+      "term": "す ",
+      "count": 7
+    },
+    {
+      "term": "メタ",
+      "count": 7
+    },
+    {
+      "term": "洩対",
       "count": 6
     },
     {
-      "term": "た場",
+      "term": "リ及",
       "count": 6
     },
     {
-      "term": "action",
+      "term": "ス ",
       "count": 6
     },
     {
-      "term": "理を含む",
-      "count": 5
-    },
-    {
-      "term": "トは",
-      "count": 5
-    },
-    {
-      "term": "ロー",
-      "count": 5
+      "term": "ャン",
+      "count": 6
     }
   ],
   "meetings": [
