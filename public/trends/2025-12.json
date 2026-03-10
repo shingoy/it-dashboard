@@ -2,159 +2,39 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "備及",
-      "count": 2
-    },
-    {
-      "term": "コンピュ",
-      "count": 2
-    },
-    {
-      "term": "究 ",
-      "count": 2
-    },
-    {
-      "term": "beyond",
-      "count": 2
-    },
-    {
-      "term": "盤b",
-      "count": 2
-    },
-    {
-      "term": "ルａ",
-      "count": 2
-    },
-    {
-      "term": "ピュ",
-      "count": 2
-    },
-    {
-      "term": "データ",
-      "count": 2
-    },
-    {
-      "term": "の強靱化",
-      "count": 2
-    },
-    {
       "term": "文革",
       "count": 2
     },
     {
-      "term": "デジ",
+      "term": "ット",
       "count": 2
     },
     {
-      "term": "リン",
-      "count": 1
+      "term": "イパ",
+      "count": 2
     },
     {
-      "term": "化対策",
-      "count": 1
+      "term": "の内",
+      "count": 2
     },
     {
-      "term": "し分",
-      "count": 1
+      "term": "生成",
+      "count": 2
     },
     {
-      "term": "月閣",
-      "count": 1
+      "term": "海底",
+      "count": 2
     },
     {
-      "term": "用支",
-      "count": 1
+      "term": "に資",
+      "count": 2
     },
     {
-      "term": "業の",
-      "count": 1
+      "term": "頼性",
+      "count": 2
     },
     {
-      "term": "発供",
-      "count": 1
-    },
-    {
-      "term": "のａ",
-      "count": 1
-    },
-    {
-      "term": "利活用の",
-      "count": 1
-    },
-    {
-      "term": "ごと",
-      "count": 1
-    },
-    {
-      "term": "新プ",
-      "count": 1
-    },
-    {
-      "term": "e2e",
-      "count": 1
-    },
-    {
-      "term": "応の両立",
-      "count": 1
-    },
-    {
-      "term": "場に",
-      "count": 1
-    },
-    {
-      "term": "を踏",
-      "count": 1
-    },
-    {
-      "term": "ット開発",
-      "count": 1
-    },
-    {
-      "term": "的変革",
-      "count": 1
-    },
-    {
-      "term": "メン",
-      "count": 1
-    },
-    {
-      "term": "の情",
-      "count": 1
-    },
-    {
-      "term": "立新",
-      "count": 1
-    },
-    {
-      "term": "内a",
-      "count": 1
-    },
-    {
-      "term": "220",
-      "count": 1
-    },
-    {
-      "term": "難な",
-      "count": 1
-    },
-    {
-      "term": "月閣議",
-      "count": 1
-    },
-    {
-      "term": "策に",
-      "count": 1
-    },
-    {
-      "term": "査新",
-      "count": 1
-    },
-    {
-      "term": "science",
-      "count": 1
-    },
-    {
-      "term": "ケー",
+      "term": "スキ",
       "count": 1
     },
     {
@@ -162,43 +42,163 @@
       "count": 1
     },
     {
-      "term": "ッド",
+      "term": "促進及び",
       "count": 1
     },
     {
-      "term": "の抜本的",
+      "term": "中小",
       "count": 1
     },
     {
-      "term": "トベ",
+      "term": "文学",
       "count": 1
     },
     {
-      "term": "びａ",
+      "term": "した",
       "count": 1
     },
     {
-      "term": "デガ",
+      "term": "ラム",
       "count": 1
     },
     {
-      "term": "ブル",
+      "term": "加速",
       "count": 1
     },
     {
-      "term": "注２",
+      "term": "手法",
       "count": 1
     },
     {
-      "term": "令和",
+      "term": "小企",
       "count": 1
     },
     {
-      "term": "一部",
+      "term": "分析",
       "count": 1
     },
     {
-      "term": "計画的に",
+      "term": "画的",
+      "count": 1
+    },
+    {
+      "term": "る総合経",
+      "count": 1
+    },
+    {
+      "term": "e2e",
+      "count": 1
+    },
+    {
+      "term": "ニーズに",
+      "count": 1
+    },
+    {
+      "term": "る科",
+      "count": 1
+    },
+    {
+      "term": "進新",
+      "count": 1
+    },
+    {
+      "term": "対す",
+      "count": 1
+    },
+    {
+      "term": "促進",
+      "count": 1
+    },
+    {
+      "term": "ションの",
+      "count": 1
+    },
+    {
+      "term": "の促進",
+      "count": 1
+    },
+    {
+      "term": "する実証",
+      "count": 1
+    },
+    {
+      "term": "基本",
+      "count": 1
+    },
+    {
+      "term": "ロー",
+      "count": 1
+    },
+    {
+      "term": "捨五",
+      "count": 1
+    },
+    {
+      "term": "合経",
+      "count": 1
+    },
+    {
+      "term": "ーブ",
+      "count": 1
+    },
+    {
+      "term": "方針",
+      "count": 1
+    },
+    {
+      "term": "る支",
+      "count": 1
+    },
+    {
+      "term": "算 ",
+      "count": 1
+    },
+    {
+      "term": "を活用し",
+      "count": 1
+    },
+    {
+      "term": "新 ",
+      "count": 1
+    },
+    {
+      "term": "年1",
+      "count": 1
+    },
+    {
+      "term": "方分",
+      "count": 1
+    },
+    {
+      "term": "を高",
+      "count": 1
+    },
+    {
+      "term": "産性",
+      "count": 1
+    },
+    {
+      "term": "名流",
+      "count": 1
+    },
+    {
+      "term": "デジタル",
+      "count": 1
+    },
+    {
+      "term": "のニ",
+      "count": 1
+    },
+    {
+      "term": "全面",
+      "count": 1
+    },
+    {
+      "term": "力向",
+      "count": 1
+    },
+    {
+      "term": "度補",
       "count": 1
     }
   ],
