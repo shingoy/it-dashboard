@@ -2,163 +2,47 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "240",
+      "term": "フィジカ",
       "count": 2
     },
     {
-      "term": "ai",
+      "term": "生成",
       "count": 2
     },
     {
-      "term": "ンフ",
+      "term": "フィ",
       "count": 2
     },
     {
-      "term": "整備",
+      "term": "を高",
       "count": 2
     },
     {
-      "term": "築 ",
+      "term": "評価",
       "count": 2
     },
     {
-      "term": "開発",
+      "term": "盤の",
       "count": 2
-    },
-    {
-      "term": "む ",
-      "count": 1
-    },
-    {
-      "term": "学校現場",
-      "count": 1
     },
     {
       "term": "戦略的強",
       "count": 1
     },
     {
-      "term": "供給加速",
+      "term": "利用",
       "count": 1
     },
     {
-      "term": "施行",
+      "term": "を実",
       "count": 1
     },
     {
-      "term": "入し",
+      "term": "ム新",
       "count": 1
     },
     {
-      "term": "好事",
-      "count": 1
-    },
-    {
-      "term": "グル",
-      "count": 1
-    },
-    {
-      "term": "の促進",
-      "count": 1
-    },
-    {
-      "term": "月成",
-      "count": 1
-    },
-    {
-      "term": "の促",
-      "count": 1
-    },
-    {
-      "term": "画的",
-      "count": 1
-    },
-    {
-      "term": "業費",
-      "count": 1
-    },
-    {
-      "term": "一部",
-      "count": 1
-    },
-    {
-      "term": "開発力向",
-      "count": 1
-    },
-    {
-      "term": "済を",
-      "count": 1
-    },
-    {
-      "term": "シス",
-      "count": 1
-    },
-    {
-      "term": "本グ",
-      "count": 1
-    },
-    {
-      "term": "護テ",
-      "count": 1
-    },
-    {
-      "term": "等に",
-      "count": 1
-    },
-    {
-      "term": "ムの",
-      "count": 1
-    },
-    {
-      "term": "業等",
-      "count": 1
-    },
-    {
-      "term": "係す",
-      "count": 1
-    },
-    {
-      "term": "の生",
-      "count": 1
-    },
-    {
-      "term": "605",
-      "count": 1
-    },
-    {
-      "term": "労働",
-      "count": 1
-    },
-    {
-      "term": "発促",
-      "count": 1
-    },
-    {
-      "term": "い方",
-      "count": 1
-    },
-    {
-      "term": "製造業等",
-      "count": 1
-    },
-    {
-      "term": "場合",
-      "count": 1
-    },
-    {
-      "term": "文大",
-      "count": 1
-    },
-    {
-      "term": "進フ",
-      "count": 1
-    },
-    {
-      "term": "築等",
-      "count": 1
-    },
-    {
-      "term": "整備及び",
+      "term": "を実現す",
       "count": 1
     },
     {
@@ -166,39 +50,155 @@
       "count": 1
     },
     {
-      "term": "内a",
+      "term": "が深",
       "count": 1
     },
     {
-      "term": "クノ",
+      "term": "度補",
       "count": 1
     },
     {
-      "term": "等支援",
+      "term": "ッド構築",
       "count": 1
     },
     {
-      "term": "報通信基",
+      "term": "注２",
       "count": 1
     },
     {
-      "term": "導入支援",
+      "term": "イノベー",
       "count": 1
     },
     {
-      "term": "立に",
+      "term": "月全面施",
       "count": 1
     },
     {
-      "term": "オー",
+      "term": "連施",
       "count": 1
     },
     {
-      "term": "機関",
+      "term": "も関",
       "count": 1
     },
     {
-      "term": "内国",
+      "term": "場の",
+      "count": 1
+    },
+    {
+      "term": "383",
+      "count": 1
+    },
+    {
+      "term": "分類",
+      "count": 1
+    },
+    {
+      "term": "イノ",
+      "count": 1
+    },
+    {
+      "term": "学研",
+      "count": 1
+    },
+    {
+      "term": "ボッ",
+      "count": 1
+    },
+    {
+      "term": "造業",
+      "count": 1
+    },
+    {
+      "term": "頭脳",
+      "count": 1
+    },
+    {
+      "term": "きる",
+      "count": 1
+    },
+    {
+      "term": "のう",
+      "count": 1
+    },
+    {
+      "term": "小項",
+      "count": 1
+    },
+    {
+      "term": "活用等の",
+      "count": 1
+    },
+    {
+      "term": "ロジ",
+      "count": 1
+    },
+    {
+      "term": "新的",
+      "count": 1
+    },
+    {
+      "term": "的な",
+      "count": 1
+    },
+    {
+      "term": "文ａ",
+      "count": 1
+    },
+    {
+      "term": "関の",
+      "count": 1
+    },
+    {
+      "term": "罪グ",
+      "count": 1
+    },
+    {
+      "term": "力向",
+      "count": 1
+    },
+    {
+      "term": "代情",
+      "count": 1
+    },
+    {
+      "term": "の強靱化",
+      "count": 1
+    },
+    {
+      "term": "価基",
+      "count": 1
+    },
+    {
+      "term": "関す",
+      "count": 1
+    },
+    {
+      "term": "に応",
+      "count": 1
+    },
+    {
+      "term": "融機",
+      "count": 1
+    },
+    {
+      "term": "での",
+      "count": 1
+    },
+    {
+      "term": "係が",
+      "count": 1
+    },
+    {
+      "term": "の主",
+      "count": 1
+    },
+    {
+      "term": "革新",
+      "count": 1
+    },
+    {
+      "term": "場の生産",
       "count": 1
     }
   ],
