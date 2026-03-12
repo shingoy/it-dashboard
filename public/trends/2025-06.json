@@ -2,47 +2,51 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "github",
-      "count": 26
-    },
-    {
-      "term": "るこ",
-      "count": 24
-    },
-    {
-      "term": "果物",
+      "term": "ポジ",
       "count": 20
     },
     {
-      "term": "actions",
-      "count": 19
+      "term": "安全",
+      "count": 18
     },
     {
-      "term": "イプ",
+      "term": "いる",
+      "count": 18
+    },
+    {
+      "term": "成果",
+      "count": 17
+    },
+    {
+      "term": "メタ",
       "count": 15
     },
     {
-      "term": "いて",
+      "term": "プロ",
       "count": 14
     },
     {
-      "term": "から",
-      "count": 14
-    },
-    {
-      "term": "イル",
+      "term": "ソースコ",
       "count": 13
     },
     {
-      "term": "ライ",
+      "term": "id",
       "count": 13
     },
     {
-      "term": "への",
-      "count": 12
+      "term": "はc",
+      "count": 11
     },
     {
-      "term": "定す",
+      "term": "えら",
+      "count": 11
+    },
+    {
+      "term": "タデ",
+      "count": 11
+    },
+    {
+      "term": "の設",
       "count": 11
     },
     {
@@ -50,155 +54,151 @@
       "count": 11
     },
     {
-      "term": "ー ",
-      "count": 10
-    },
-    {
-      "term": "10",
-      "count": 10
-    },
-    {
-      "term": "git",
-      "count": 10
-    },
-    {
-      "term": "ルの",
-      "count": 10
-    },
-    {
-      "term": "に関",
+      "term": "含む",
       "count": 9
     },
     {
-      "term": "本書",
+      "term": "ンを",
       "count": 9
     },
     {
-      "term": "runs",
+      "term": "の担",
       "count": 9
     },
     {
-      "term": "の取",
+      "term": "with",
+      "count": 9
+    },
+    {
+      "term": "ング",
       "count": 8
     },
     {
-      "term": "docker",
+      "term": "ェッ",
       "count": 8
     },
     {
-      "term": "ャン",
+      "term": "いう",
       "count": 8
     },
     {
-      "term": "は ",
+      "term": "るが",
       "count": 8
     },
     {
-      "term": "yml",
+      "term": "ubuntu",
       "count": 8
     },
     {
-      "term": "によ",
+      "term": "洩対",
       "count": 7
     },
     {
-      "term": "るま",
+      "term": "すべ",
       "count": 7
     },
     {
-      "term": "記述",
+      "term": "考えられ",
       "count": 7
-    },
-    {
-      "term": "ルに",
-      "count": 7
-    },
-    {
-      "term": "name",
-      "count": 7
-    },
-    {
-      "term": "login",
-      "count": 7
-    },
-    {
-      "term": "詳細",
-      "count": 6
-    },
-    {
-      "term": "ットの保",
-      "count": 6
-    },
-    {
-      "term": "ソフトウ",
-      "count": 6
-    },
-    {
-      "term": "ロバ",
-      "count": 6
-    },
-    {
-      "term": "チェ",
-      "count": 6
-    },
-    {
-      "term": "複数",
-      "count": 6
-    },
-    {
-      "term": "ンテナイ",
-      "count": 6
-    },
-    {
-      "term": "るよ",
-      "count": 6
-    },
-    {
-      "term": "steps",
-      "count": 6
-    },
-    {
-      "term": "をも",
-      "count": 5
-    },
-    {
-      "term": "ト ",
-      "count": 5
-    },
-    {
-      "term": "理を含む",
-      "count": 5
-    },
-    {
-      "term": "る主",
-      "count": 5
-    },
-    {
-      "term": "の保護",
-      "count": 5
-    },
-    {
-      "term": "たコ",
-      "count": 5
-    },
-    {
-      "term": "を保",
-      "count": 5
-    },
-    {
-      "term": "者が",
-      "count": 5
-    },
-    {
-      "term": "策に",
-      "count": 5
-    },
-    {
-      "term": "これらの",
-      "count": 5
     },
     {
       "term": "および",
+      "count": 7
+    },
+    {
+      "term": "対し",
+      "count": 7
+    },
+    {
+      "term": "の漏洩対",
+      "count": 6
+    },
+    {
+      "term": "ース",
+      "count": 6
+    },
+    {
+      "term": "ド成",
+      "count": 6
+    },
+    {
+      "term": "を ",
+      "count": 6
+    },
+    {
+      "term": "リバ",
+      "count": 6
+    },
+    {
+      "term": "ド上",
+      "count": 6
+    },
+    {
+      "term": "対す",
+      "count": 6
+    },
+    {
+      "term": "にて",
+      "count": 6
+    },
+    {
+      "term": "ジの",
+      "count": 6
+    },
+    {
+      "term": "策に",
+      "count": 6
+    },
+    {
+      "term": "rule",
+      "count": 6
+    },
+    {
+      "term": "どの",
+      "count": 6
+    },
+    {
+      "term": "はg",
+      "count": 6
+    },
+    {
+      "term": "対象",
+      "count": 6
+    },
+    {
+      "term": "ることが",
+      "count": 6
+    },
+    {
+      "term": "key",
+      "count": 6
+    },
+    {
+      "term": "象と",
+      "count": 6
+    },
+    {
+      "term": "た信",
+      "count": 5
+    },
+    {
+      "term": "って",
+      "count": 5
+    },
+    {
+      "term": "スを",
+      "count": 5
+    },
+    {
+      "term": "したがっ",
+      "count": 5
+    },
+    {
+      "term": "準拠",
+      "count": 5
+    },
+    {
+      "term": "gitlab",
       "count": 5
     }
   ],
