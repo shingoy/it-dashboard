@@ -2,175 +2,135 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "てい",
-      "count": 21
+      "term": "図 ",
+      "count": 28
     },
     {
-      "term": "ード",
+      "term": "して",
+      "count": 27
+    },
+    {
+      "term": "こと",
+      "count": 25
+    },
+    {
+      "term": "でき",
+      "count": 20
+    },
+    {
+      "term": "保護",
       "count": 18
     },
     {
-      "term": "実行",
-      "count": 16
+      "term": "ci",
+      "count": 17
     },
     {
       "term": "コー",
       "count": 15
     },
     {
-      "term": "ムの",
+      "term": "なる",
       "count": 15
     },
     {
-      "term": "的な",
-      "count": 15
-    },
-    {
-      "term": "署名",
-      "count": 15
-    },
-    {
-      "term": "への",
-      "count": 15
-    },
-    {
-      "term": "メタ",
-      "count": 15
-    },
-    {
-      "term": "ムチ",
+      "term": "ツー",
       "count": 14
-    },
-    {
-      "term": "いて",
-      "count": 14
-    },
-    {
-      "term": "られ",
-      "count": 14
-    },
-    {
-      "term": "タデ",
-      "count": 14
-    },
-    {
-      "term": "デー",
-      "count": 14
-    },
-    {
-      "term": "利用",
-      "count": 13
-    },
-    {
-      "term": "この",
-      "count": 13
     },
     {
       "term": "とが",
       "count": 13
     },
     {
-      "term": "id",
-      "count": 13
-    },
-    {
-      "term": "対策",
+      "term": "おけ",
       "count": 12
     },
     {
-      "term": "シー",
+      "term": "頼性",
       "count": 12
     },
     {
-      "term": "サービス",
+      "term": "およ",
       "count": 12
     },
     {
-      "term": "イメ",
+      "term": "actions",
       "count": 12
     },
     {
-      "term": "バー",
+      "term": "上で",
       "count": 11
     },
     {
-      "term": "ール",
-      "count": 11
-    },
-    {
-      "term": "ント",
+      "term": "を含",
       "count": 10
     },
     {
-      "term": "ース",
+      "term": "はc",
       "count": 10
     },
     {
-      "term": "提供",
+      "term": "護 ",
       "count": 10
     },
     {
-      "term": "を用",
+      "term": "の設",
       "count": 10
     },
     {
-      "term": "取得",
+      "term": "to",
       "count": 10
     },
     {
-      "term": "えら",
-      "count": 10
-    },
-    {
-      "term": "イル",
+      "term": "のリ",
       "count": 9
     },
     {
-      "term": "run",
+      "term": "なお",
       "count": 9
     },
     {
-      "term": "必要",
+      "term": "ubuntu",
       "count": 9
     },
     {
-      "term": "code",
+      "term": "及び",
       "count": 8
     },
     {
-      "term": "特有",
+      "term": "ョン",
       "count": 8
     },
     {
-      "term": "sbom",
+      "term": "スト",
       "count": 8
     },
     {
-      "term": "システム",
+      "term": "チェ",
+      "count": 8
+    },
+    {
+      "term": "の担",
       "count": 7
     },
     {
-      "term": "リ及",
+      "term": "version",
       "count": 7
     },
     {
-      "term": "ビルド上",
+      "term": "らの",
       "count": 7
     },
     {
-      "term": "書で",
+      "term": "に対",
       "count": 7
     },
     {
-      "term": "など",
+      "term": "を実",
       "count": 7
     },
     {
-      "term": "ンバ",
-      "count": 7
-    },
-    {
-      "term": "安全",
+      "term": "る ",
       "count": 7
     },
     {
@@ -178,28 +138,68 @@
       "count": 7
     },
     {
-      "term": "type",
-      "count": 7
-    },
-    {
-      "term": "ット情報",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "トに",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "キー",
+      "term": "ウン",
       "count": 6
     },
     {
-      "term": "たが",
+      "term": "こで",
       "count": 6
     },
     {
-      "term": "を ",
+      "term": "の連",
       "count": 6
+    },
+    {
+      "term": "review",
+      "count": 6
+    },
+    {
+      "term": "and",
+      "count": 6
+    },
+    {
+      "term": "tf",
+      "count": 6
+    },
+    {
+      "term": "リオ",
+      "count": 5
+    },
+    {
+      "term": "ート",
+      "count": 5
+    },
+    {
+      "term": "べき",
+      "count": 5
+    },
+    {
+      "term": "実現",
+      "count": 5
+    },
+    {
+      "term": "を検",
+      "count": 5
+    },
+    {
+      "term": "るg",
+      "count": 5
+    },
+    {
+      "term": "ecr",
+      "count": 5
+    },
+    {
+      "term": "ファ",
+      "count": 5
     }
   ],
   "meetings": [
