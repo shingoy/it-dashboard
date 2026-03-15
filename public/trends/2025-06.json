@@ -2,31 +2,39 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "する",
-      "count": 21
+      "term": "ァイ",
+      "count": 19
     },
     {
-      "term": "ォー",
+      "term": "され",
+      "count": 18
+    },
+    {
+      "term": "によ",
       "count": 16
     },
     {
-      "term": "って",
-      "count": 16
-    },
-    {
-      "term": "フェ",
+      "term": "ラッ",
       "count": 15
     },
     {
-      "term": "署名",
+      "term": "ムの",
       "count": 15
     },
     {
-      "term": "イメ",
-      "count": 15
+      "term": "ーズ",
+      "count": 14
     },
     {
-      "term": "ール",
+      "term": "物の",
+      "count": 14
+    },
+    {
+      "term": "また",
+      "count": 14
+    },
+    {
+      "term": "なる",
       "count": 14
     },
     {
@@ -34,172 +42,164 @@
       "count": 13
     },
     {
-      "term": "担保",
-      "count": 13
-    },
-    {
-      "term": "情報",
+      "term": "レッ",
       "count": 12
     },
     {
-      "term": "全性",
+      "term": "クレ",
       "count": 12
     },
     {
-      "term": "安全",
+      "term": "確認",
       "count": 12
     },
     {
-      "term": "こで",
-      "count": 12
+      "term": "ティ",
+      "count": 11
+    },
+    {
+      "term": "おけ",
+      "count": 11
+    },
+    {
+      "term": "から",
+      "count": 11
     },
     {
       "term": "えら",
       "count": 11
     },
     {
-      "term": "ecr",
-      "count": 11
+      "term": "情報",
+      "count": 10
     },
     {
-      "term": "以外",
+      "term": "定す",
+      "count": 10
+    },
+    {
+      "term": "to",
+      "count": 10
+    },
+    {
+      "term": "ubuntu",
+      "count": 10
+    },
+    {
+      "term": "護 ",
       "count": 9
     },
     {
-      "term": "いっ",
+      "term": "が ",
       "count": 9
-    },
-    {
-      "term": "ムが",
-      "count": 9
-    },
-    {
-      "term": "し ",
-      "count": 9
-    },
-    {
-      "term": "ョン",
-      "count": 8
-    },
-    {
-      "term": "よび",
-      "count": 8
-    },
-    {
-      "term": "リス",
-      "count": 8
-    },
-    {
-      "term": "バイ",
-      "count": 8
-    },
-    {
-      "term": "るそ",
-      "count": 8
-    },
-    {
-      "term": "下の",
-      "count": 8
-    },
-    {
-      "term": "共通",
-      "count": 7
-    },
-    {
-      "term": "キー",
-      "count": 7
-    },
-    {
-      "term": "ムの",
-      "count": 7
-    },
-    {
-      "term": "対し",
-      "count": 7
-    },
-    {
-      "term": "rulesets",
-      "count": 7
-    },
-    {
-      "term": "ド設",
-      "count": 7
-    },
-    {
-      "term": "に加",
-      "count": 7
-    },
-    {
-      "term": "を示",
-      "count": 6
-    },
-    {
-      "term": "関す",
-      "count": 6
-    },
-    {
-      "term": "ージ",
-      "count": 6
-    },
-    {
-      "term": "ここでは",
-      "count": 6
-    },
-    {
-      "term": "の成",
-      "count": 6
-    },
-    {
-      "term": "amazon",
-      "count": 6
-    },
-    {
-      "term": "用可",
-      "count": 6
-    },
-    {
-      "term": "強制",
-      "count": 6
-    },
-    {
-      "term": "ーと",
-      "count": 6
     },
     {
       "term": "and",
+      "count": 9
+    },
+    {
+      "term": "パイ",
+      "count": 8
+    },
+    {
+      "term": "行範",
+      "count": 8
+    },
+    {
+      "term": "リソ",
+      "count": 8
+    },
+    {
+      "term": "を実",
+      "count": 8
+    },
+    {
+      "term": "漏洩",
+      "count": 7
+    },
+    {
+      "term": "運用",
+      "count": 7
+    },
+    {
+      "term": "るま",
+      "count": 7
+    },
+    {
+      "term": "の仕",
+      "count": 7
+    },
+    {
+      "term": "考えられ",
+      "count": 7
+    },
+    {
+      "term": "ると",
+      "count": 7
+    },
+    {
+      "term": "るプ",
+      "count": 7
+    },
+    {
+      "term": "docker",
+      "count": 7
+    },
+    {
+      "term": "plan",
+      "count": 7
+    },
+    {
+      "term": "および",
+      "count": 7
+    },
+    {
+      "term": "省略",
+      "count": 7
+    },
+    {
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "る ",
+      "term": "ショ",
       "count": 6
     },
     {
-      "term": "ることが",
+      "term": "ード",
       "count": 6
     },
     {
-      "term": "ド ",
-      "count": 5
+      "term": "ライ",
+      "count": 6
     },
     {
-      "term": "シナ",
-      "count": 5
+      "term": "ビルド上",
+      "count": 6
     },
     {
-      "term": "システム",
-      "count": 5
+      "term": "物と",
+      "count": 6
     },
     {
-      "term": "証跡",
-      "count": 5
+      "term": "ジと",
+      "count": 6
     },
     {
-      "term": "時の",
-      "count": 5
+      "term": "カウ",
+      "count": 6
     },
     {
-      "term": "24",
-      "count": 5
+      "term": "ル ",
+      "count": 6
+    },
+    {
+      "term": "完全",
+      "count": 6
+    },
+    {
+      "term": "ジの",
+      "count": 6
     }
   ],
   "meetings": [
