@@ -2,204 +2,204 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "され",
-      "count": 27
+      "term": "管理",
+      "count": 20
     },
     {
-      "term": "する",
-      "count": 25
+      "term": "ット",
+      "count": 20
     },
     {
-      "term": "安全",
-      "count": 18
+      "term": "いる",
+      "count": 20
     },
     {
-      "term": "果物",
+      "term": "るこ",
       "count": 17
     },
     {
-      "term": "ない",
+      "term": "name",
       "count": 17
     },
     {
-      "term": "必要",
+      "term": "コー",
       "count": 15
     },
     {
-      "term": "よう",
+      "term": "への",
       "count": 15
     },
     {
-      "term": "なる",
+      "term": "この",
       "count": 14
     },
     {
-      "term": "頼性",
-      "count": 13
-    },
-    {
-      "term": "の成",
+      "term": "ソースコ",
       "count": 13
     },
     {
       "term": "的に",
-      "count": 13
-    },
-    {
-      "term": "trivy",
-      "count": 13
-    },
-    {
-      "term": "略 ",
       "count": 12
     },
     {
-      "term": "変更",
+      "term": "ズの",
       "count": 11
     },
     {
-      "term": "はな",
+      "term": "制限",
       "count": 11
     },
     {
-      "term": "検証",
+      "term": "定す",
+      "count": 11
+    },
+    {
+      "term": "ecr",
+      "count": 11
+    },
+    {
+      "term": "内容",
       "count": 10
     },
     {
-      "term": "git",
+      "term": "ムの",
       "count": 10
     },
     {
-      "term": "いた",
+      "term": "とし",
       "count": 10
     },
     {
-      "term": "on",
+      "term": "る具",
       "count": 10
     },
     {
-      "term": "れて",
+      "term": "より",
       "count": 9
     },
     {
-      "term": "スキ",
+      "term": "トウ",
       "count": 9
+    },
+    {
+      "term": "ーを",
+      "count": 9
+    },
+    {
+      "term": "れら",
+      "count": 9
+    },
+    {
+      "term": "とす",
+      "count": 8
     },
     {
       "term": "フェーズ",
       "count": 8
     },
     {
-      "term": "書で",
+      "term": "にも",
       "count": 8
     },
     {
-      "term": "下の",
+      "term": "らの",
       "count": 8
     },
     {
-      "term": "対象",
+      "term": "ンa",
       "count": 8
     },
     {
-      "term": "action",
+      "term": "の対",
       "count": 8
     },
     {
-      "term": "json",
-      "count": 8
-    },
-    {
-      "term": "デリバリ",
+      "term": "共通",
       "count": 7
     },
     {
-      "term": "自動",
+      "term": "すべ",
       "count": 7
     },
     {
-      "term": "ルー",
+      "term": "の取",
       "count": 7
     },
     {
-      "term": "から",
+      "term": "cosign",
       "count": 7
     },
     {
-      "term": "file",
+      "term": "rulesets",
       "count": 7
     },
     {
-      "term": "した",
+      "term": "図 ",
+      "count": 7
+    },
+    {
+      "term": "仕組",
+      "count": 7
+    },
+    {
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "codebuild",
+      "term": "を示",
       "count": 6
-    },
-    {
-      "term": "内で",
-      "count": 6
-    },
-    {
-      "term": "ムチーム",
-      "count": 6
-    },
-    {
-      "term": "には",
-      "count": 6
-    },
-    {
-      "term": "amazon",
-      "count": 6
-    },
-    {
-      "term": "の変",
-      "count": 6
-    },
-    {
-      "term": "リポジト",
-      "count": 6
-    },
-    {
-      "term": "tf",
-      "count": 6
-    },
-    {
-      "term": "image",
-      "count": 6
-    },
-    {
-      "term": "考え",
-      "count": 6
-    },
-    {
-      "term": "リオ",
-      "count": 5
     },
     {
       "term": "ット情報",
-      "count": 5
+      "count": 6
     },
     {
-      "term": "トは",
-      "count": 5
+      "term": "開発",
+      "count": 6
     },
     {
-      "term": "限 ",
-      "count": 5
+      "term": "漏洩",
+      "count": 6
     },
     {
-      "term": "自体",
-      "count": 5
+      "term": "キュ",
+      "count": 6
     },
     {
-      "term": "よっ",
-      "count": 5
+      "term": "ンテナイ",
+      "count": 6
     },
     {
-      "term": "の成果物",
-      "count": 5
+      "term": "の連",
+      "count": 6
+    },
+    {
+      "term": "レビ",
+      "count": 6
+    },
+    {
+      "term": "output",
+      "count": 6
+    },
+    {
+      "term": "る ",
+      "count": 6
+    },
+    {
+      "term": "steps",
+      "count": 6
+    },
+    {
+      "term": "象と",
+      "count": 6
+    },
+    {
+      "term": "混入",
+      "count": 6
+    },
+    {
+      "term": "checkout",
+      "count": 6
     }
   ],
   "meetings": [
