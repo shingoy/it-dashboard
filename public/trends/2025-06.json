@@ -2,171 +2,183 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "リポ",
-      "count": 20
+      "term": "され",
+      "count": 27
     },
     {
-      "term": "イン",
-      "count": 19
+      "term": "する",
+      "count": 25
     },
     {
-      "term": "では",
-      "count": 19
-    },
-    {
-      "term": "果物",
-      "count": 19
-    },
-    {
-      "term": "ージ",
+      "term": "安全",
       "count": 18
     },
     {
-      "term": "name",
+      "term": "果物",
       "count": 17
     },
     {
-      "term": "ビス",
-      "count": 16
+      "term": "ない",
+      "count": 17
     },
     {
-      "term": "イメ",
+      "term": "必要",
       "count": 15
     },
     {
-      "term": "フェ",
+      "term": "よう",
+      "count": 15
+    },
+    {
+      "term": "なる",
       "count": 14
     },
     {
-      "term": "ツー",
-      "count": 14
-    },
-    {
-      "term": "での",
+      "term": "頼性",
       "count": 13
     },
     {
-      "term": "tf",
+      "term": "の成",
       "count": 13
     },
     {
-      "term": "id",
+      "term": "的に",
       "count": 13
     },
     {
-      "term": "弱性",
+      "term": "trivy",
+      "count": 13
+    },
+    {
+      "term": "略 ",
       "count": 12
     },
     {
-      "term": "workflows",
-      "count": 12
+      "term": "変更",
+      "count": 11
     },
     {
-      "term": "る具",
+      "term": "はな",
+      "count": 11
+    },
+    {
+      "term": "検証",
       "count": 10
     },
     {
-      "term": "デリ",
+      "term": "git",
+      "count": 10
+    },
+    {
+      "term": "いた",
+      "count": 10
+    },
+    {
+      "term": "on",
+      "count": 10
+    },
+    {
+      "term": "れて",
       "count": 9
     },
     {
-      "term": "が ",
+      "term": "スキ",
       "count": 9
     },
     {
-      "term": "権限",
-      "count": 9
-    },
-    {
-      "term": "信頼",
+      "term": "フェーズ",
       "count": 8
     },
     {
-      "term": "ビルド上",
+      "term": "書で",
       "count": 8
     },
     {
-      "term": "の取",
+      "term": "下の",
       "count": 8
     },
     {
-      "term": "を実",
+      "term": "対象",
       "count": 8
     },
     {
-      "term": "関す",
+      "term": "action",
+      "count": 8
+    },
+    {
+      "term": "json",
+      "count": 8
+    },
+    {
+      "term": "デリバリ",
       "count": 7
     },
     {
-      "term": "ダー",
+      "term": "自動",
       "count": 7
     },
     {
-      "term": "ソフ",
+      "term": "ルー",
       "count": 7
     },
     {
-      "term": "および",
+      "term": "から",
       "count": 7
     },
     {
-      "term": "いこ",
+      "term": "file",
       "count": 7
-    },
-    {
-      "term": "る図",
-      "count": 7
-    },
-    {
-      "term": "図 ",
-      "count": 7
-    },
-    {
-      "term": "混入",
-      "count": 7
-    },
-    {
-      "term": "の漏洩対",
-      "count": 6
-    },
-    {
-      "term": "ット情報",
-      "count": 6
-    },
-    {
-      "term": "資産",
-      "count": 6
-    },
-    {
-      "term": "めに",
-      "count": 6
     },
     {
       "term": "した",
       "count": 6
     },
     {
-      "term": "スを",
+      "term": "codebuild",
       "count": 6
     },
     {
-      "term": "タデータ",
+      "term": "内で",
       "count": 6
     },
     {
-      "term": "カウ",
+      "term": "ムチーム",
       "count": 6
     },
     {
-      "term": "など",
+      "term": "には",
       "count": 6
     },
     {
-      "term": "and",
+      "term": "amazon",
       "count": 6
     },
     {
-      "term": "守 ",
+      "term": "の変",
+      "count": 6
+    },
+    {
+      "term": "リポジト",
+      "count": 6
+    },
+    {
+      "term": "tf",
+      "count": 6
+    },
+    {
+      "term": "image",
+      "count": 6
+    },
+    {
+      "term": "考え",
+      "count": 6
+    },
+    {
+      "term": "リオ",
+      "count": 5
+    },
+    {
+      "term": "ット情報",
       "count": 5
     },
     {
@@ -174,31 +186,19 @@
       "count": 5
     },
     {
-      "term": "シナ",
+      "term": "限 ",
       "count": 5
     },
     {
-      "term": "ード",
+      "term": "自体",
       "count": 5
     },
     {
-      "term": "branch",
+      "term": "よっ",
       "count": 5
     },
     {
-      "term": "のレ",
-      "count": 5
-    },
-    {
-      "term": "ュー",
-      "count": 5
-    },
-    {
-      "term": "らの",
-      "count": 5
-    },
-    {
-      "term": "ァイ",
+      "term": "の成果物",
       "count": 5
     }
   ],
