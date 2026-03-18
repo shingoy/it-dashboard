@@ -2,47 +2,43 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "管理",
-      "count": 20
+      "term": "ーム",
+      "count": 18
     },
     {
-      "term": "ット",
-      "count": 20
+      "term": "ォー",
+      "count": 16
     },
     {
-      "term": "いる",
-      "count": 20
+      "term": "ービ",
+      "count": 16
     },
     {
-      "term": "るこ",
-      "count": 17
+      "term": "れた",
+      "count": 16
     },
     {
-      "term": "name",
-      "count": 17
-    },
-    {
-      "term": "コー",
-      "count": 15
-    },
-    {
-      "term": "への",
-      "count": 15
-    },
-    {
-      "term": "この",
+      "term": "での",
       "count": 14
     },
     {
-      "term": "ソースコ",
+      "term": "があ",
+      "count": 14
+    },
+    {
+      "term": "メタ",
+      "count": 14
+    },
+    {
+      "term": "tf",
       "count": 13
     },
     {
-      "term": "的に",
-      "count": 12
+      "term": "頼性",
+      "count": 11
     },
     {
-      "term": "ズの",
+      "term": "成果物の",
       "count": 11
     },
     {
@@ -50,123 +46,135 @@
       "count": 11
     },
     {
-      "term": "定す",
+      "term": "の実",
       "count": 11
     },
     {
-      "term": "ecr",
+      "term": "チェ",
       "count": 11
     },
     {
-      "term": "内容",
+      "term": "取得",
+      "count": 11
+    },
+    {
+      "term": "確認",
+      "count": 11
+    },
+    {
+      "term": "こと",
       "count": 10
     },
     {
-      "term": "ムの",
-      "count": 10
-    },
-    {
-      "term": "とし",
-      "count": 10
-    },
-    {
-      "term": "る具",
-      "count": 10
-    },
-    {
-      "term": "より",
+      "term": "策 ",
       "count": 9
     },
     {
-      "term": "トウ",
+      "term": "の担",
       "count": 9
     },
     {
-      "term": "ーを",
+      "term": "れて",
       "count": 9
     },
     {
-      "term": "れら",
+      "term": "ファイル",
       "count": 9
     },
     {
-      "term": "とす",
+      "term": "yml",
+      "count": 9
+    },
+    {
+      "term": "ーカ",
       "count": 8
     },
     {
-      "term": "フェーズ",
+      "term": "性管",
       "count": 8
     },
     {
-      "term": "にも",
+      "term": "主体",
       "count": 8
     },
     {
-      "term": "らの",
+      "term": "が考",
       "count": 8
     },
     {
-      "term": "ンa",
+      "term": "ルで",
       "count": 8
     },
     {
-      "term": "の対",
-      "count": 8
-    },
-    {
-      "term": "共通",
+      "term": "リテ",
       "count": 7
     },
     {
-      "term": "すべ",
+      "term": "に関",
       "count": 7
     },
     {
-      "term": "の取",
+      "term": "ンを",
       "count": 7
     },
     {
-      "term": "cosign",
+      "term": "17",
       "count": 7
     },
     {
-      "term": "rulesets",
+      "term": "ダー",
       "count": 7
     },
     {
-      "term": "図 ",
+      "term": "バリ",
       "count": 7
     },
     {
-      "term": "仕組",
+      "term": "行範",
       "count": 7
+    },
+    {
+      "term": "がある",
+      "count": 7
+    },
+    {
+      "term": "name",
+      "count": 7
+    },
+    {
+      "term": "file",
+      "count": 7
+    },
+    {
+      "term": "詳細",
+      "count": 6
     },
     {
       "term": "具体的な",
       "count": 6
     },
     {
-      "term": "を示",
+      "term": "めに",
       "count": 6
     },
     {
-      "term": "ット情報",
+      "term": "信頼性の",
       "count": 6
     },
     {
-      "term": "開発",
+      "term": "タデータ",
       "count": 6
     },
     {
-      "term": "漏洩",
+      "term": "アカ",
       "count": 6
     },
     {
-      "term": "キュ",
+      "term": "スチ",
       "count": 6
     },
     {
-      "term": "ンテナイ",
+      "term": "な対",
       "count": 6
     },
     {
@@ -174,32 +182,24 @@
       "count": 6
     },
     {
-      "term": "レビ",
+      "term": "略す",
       "count": 6
     },
     {
-      "term": "output",
+      "term": "ビュ",
       "count": 6
     },
     {
-      "term": "る ",
+      "term": "らな",
       "count": 6
     },
     {
-      "term": "steps",
+      "term": "され",
       "count": 6
     },
     {
-      "term": "象と",
-      "count": 6
-    },
-    {
-      "term": "混入",
-      "count": 6
-    },
-    {
-      "term": "checkout",
-      "count": 6
+      "term": "運用保守",
+      "count": 5
     }
   ],
   "meetings": [
