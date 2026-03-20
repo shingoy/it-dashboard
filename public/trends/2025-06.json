@@ -2,99 +2,71 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "github",
-      "count": 26
-    },
-    {
-      "term": "イン",
-      "count": 22
+      "term": "こと",
+      "count": 25
     },
     {
       "term": "パイプラ",
-      "count": 20
-    },
-    {
-      "term": "actions",
-      "count": 19
-    },
-    {
-      "term": "安全",
-      "count": 18
-    },
-    {
-      "term": "サー",
       "count": 17
     },
     {
-      "term": "があ",
+      "term": "actions",
+      "count": 17
+    },
+    {
+      "term": "ソー",
+      "count": 16
+    },
+    {
+      "term": "cat",
+      "count": 15
+    },
+    {
+      "term": "略 ",
       "count": 14
     },
     {
-      "term": "ナイ",
-      "count": 14
+      "term": "にお",
+      "count": 13
     },
     {
       "term": "体的",
       "count": 13
     },
     {
-      "term": "デー",
+      "term": "ーム",
       "count": 13
     },
     {
-      "term": "ント",
+      "term": "護 ",
       "count": 12
     },
     {
-      "term": "的に",
+      "term": "ータ",
       "count": 12
     },
     {
-      "term": "steps",
-      "count": 12
-    },
-    {
-      "term": "ステ",
+      "term": "ズの",
       "count": 11
     },
     {
-      "term": "安全性の",
-      "count": 11
-    },
-    {
-      "term": "https",
-      "count": 11
-    },
-    {
-      "term": "この",
-      "count": 11
-    },
-    {
-      "term": "加え",
-      "count": 11
-    },
-    {
-      "term": "の信",
+      "term": "内で",
       "count": 10
     },
     {
-      "term": "いた",
+      "term": "ーの",
       "count": 10
     },
     {
-      "term": "実行",
+      "term": "trivy",
+      "count": 10
+    },
+    {
+      "term": "ンの",
       "count": 9
     },
     {
-      "term": "対象",
-      "count": 9
-    },
-    {
-      "term": "成さ",
-      "count": 9
-    },
-    {
-      "term": "権限",
+      "term": "github",
       "count": 9
     },
     {
@@ -102,104 +74,132 @@
       "count": 8
     },
     {
-      "term": "フェーズ",
+      "term": "特有",
       "count": 8
     },
     {
-      "term": "が考",
+      "term": "組み",
       "count": 8
     },
     {
-      "term": "json",
-      "count": 8
-    },
-    {
-      "term": "ローカル",
+      "term": "リテ",
       "count": 7
     },
     {
-      "term": "の漏",
+      "term": "スコ",
       "count": 7
     },
     {
-      "term": "る主",
+      "term": "にな",
       "count": 7
     },
     {
-      "term": "体の",
+      "term": "連携",
       "count": 7
     },
     {
-      "term": "の仕",
+      "term": "スチ",
       "count": 7
     },
     {
-      "term": "考えられ",
+      "term": "略す",
       "count": 7
     },
     {
-      "term": "にす",
+      "term": "対し",
       "count": 7
     },
     {
-      "term": "ル ",
+      "term": "仕組",
       "count": 7
     },
     {
-      "term": "い ",
-      "count": 7
-    },
-    {
-      "term": "name",
-      "count": 7
-    },
-    {
-      "term": "と同",
-      "count": 7
-    },
-    {
-      "term": "す ",
-      "count": 7
-    },
-    {
-      "term": "ド管",
+      "term": "ンテナイ",
       "count": 6
     },
     {
-      "term": "成 ",
+      "term": "ついては",
       "count": 6
     },
     {
-      "term": "ュリ",
+      "term": "review",
       "count": 6
     },
     {
-      "term": "ワー",
+      "term": "成果",
       "count": 6
     },
     {
-      "term": "いて",
+      "term": "and",
       "count": 6
     },
     {
-      "term": "頼で",
+      "term": "17",
       "count": 6
     },
     {
-      "term": "ージ",
+      "term": "critical",
       "count": 6
     },
     {
-      "term": "うこ",
-      "count": 6
+      "term": "ド ",
+      "count": 5
     },
     {
-      "term": "cosign",
-      "count": 6
+      "term": "トリ",
+      "count": 5
     },
     {
-      "term": "secrets",
-      "count": 6
+      "term": "ード",
+      "count": 5
+    },
+    {
+      "term": "リフ",
+      "count": 5
+    },
+    {
+      "term": "ロー",
+      "count": 5
+    },
+    {
+      "term": "理す",
+      "count": 5
+    },
+    {
+      "term": "について",
+      "count": 5
+    },
+    {
+      "term": "チームが",
+      "count": 5
+    },
+    {
+      "term": "可能であ",
+      "count": 5
+    },
+    {
+      "term": "login",
+      "count": 5
+    },
+    {
+      "term": "registry",
+      "count": 5
+    },
+    {
+      "term": "outputs",
+      "count": 5
+    },
+    {
+      "term": "run",
+      "count": 5
+    },
+    {
+      "term": "トが",
+      "count": 5
+    },
+    {
+      "term": "medium",
+      "count": 5
     }
   ],
   "meetings": [
