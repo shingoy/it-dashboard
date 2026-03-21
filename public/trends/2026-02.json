@@ -2,23 +2,35 @@
   "month": "2026-02",
   "keywords": [
     {
-      "term": "ット",
+      "term": "約８",
       "count": 2
     },
     {
-      "term": "深い",
+      "term": "発支",
       "count": 2
     },
     {
-      "term": "した",
+      "term": "運営",
       "count": 2
     },
     {
-      "term": "支援",
+      "term": "材開",
       "count": 2
     },
     {
-      "term": "おい",
+      "term": "訓練",
+      "count": 2
+    },
+    {
+      "term": "援厚",
+      "count": 2
+    },
+    {
+      "term": "が深い方",
+      "count": 2
+    },
+    {
+      "term": "針に",
       "count": 2
     },
     {
@@ -26,111 +38,23 @@
       "count": 2
     },
     {
-      "term": "四捨",
+      "term": "策は",
       "count": 2
     },
     {
-      "term": "いて",
+      "term": "及び",
       "count": 2
     },
     {
-      "term": "向けの教",
+      "term": "信頼",
       "count": 2
     },
     {
-      "term": "連予",
+      "term": "構築",
       "count": 2
     },
     {
-      "term": "いが",
-      "count": 2
-    },
-    {
-      "term": "事業",
-      "count": 2
-    },
-    {
-      "term": "令和",
-      "count": 2
-    },
-    {
-      "term": "推進",
-      "count": 2
-    },
-    {
-      "term": "ーテ",
-      "count": 1
-    },
-    {
-      "term": "タ活",
-      "count": 1
-    },
-    {
-      "term": "ハローワ",
-      "count": 1
-    },
-    {
-      "term": "震動",
-      "count": 1
-    },
-    {
-      "term": "的ハ",
-      "count": 1
-    },
-    {
-      "term": "測シ",
-      "count": 1
-    },
-    {
-      "term": "フィ",
-      "count": 1
-    },
-    {
-      "term": "社会に向",
-      "count": 1
-    },
-    {
-      "term": "頼性",
-      "count": 1
-    },
-    {
-      "term": "盤技",
-      "count": 1
-    },
-    {
-      "term": "円ａ",
-      "count": 1
-    },
-    {
-      "term": "化文",
-      "count": 1
-    },
-    {
-      "term": "化経",
-      "count": 1
-    },
-    {
-      "term": "や介護テ",
-      "count": 1
-    },
-    {
-      "term": "ムに関す",
-      "count": 1
-    },
-    {
-      "term": "次世",
-      "count": 1
-    },
-    {
-      "term": "ンス",
-      "count": 1
-    },
-    {
-      "term": "ファイン",
-      "count": 1
-    },
-    {
-      "term": "の戦",
+      "term": "産性",
       "count": 1
     },
     {
@@ -138,67 +62,143 @@
       "count": 1
     },
     {
-      "term": "の負",
+      "term": "性向上の",
       "count": 1
     },
     {
-      "term": "エネ",
+      "term": "ィン",
       "count": 1
     },
     {
-      "term": "動評",
+      "term": "的強",
       "count": 1
     },
     {
-      "term": "スマート",
+      "term": "厚約",
       "count": 1
     },
     {
-      "term": "なi",
+      "term": "を用いた",
       "count": 1
     },
     {
-      "term": "サイバー",
+      "term": "抜本的な",
       "count": 1
     },
     {
-      "term": "ック",
+      "term": "駆動オフ",
       "count": 1
     },
     {
-      "term": "ステムの",
+      "term": "療従",
       "count": 1
     },
     {
-      "term": "デー",
+      "term": "予測",
       "count": 1
     },
     {
-      "term": "な推",
+      "term": "た地震活",
       "count": 1
     },
     {
-      "term": "や医",
+      "term": "戦略",
       "count": 1
     },
     {
-      "term": "進総",
+      "term": "た研究開",
       "count": 1
     },
     {
-      "term": "技術の開",
+      "term": "に繋",
       "count": 1
     },
     {
-      "term": "薬タ",
+      "term": "担軽",
       "count": 1
     },
     {
-      "term": "約５",
+      "term": "ル構",
       "count": 1
     },
     {
-      "term": "護テ",
+      "term": "ロー",
+      "count": 1
+    },
+    {
+      "term": "本的",
+      "count": 1
+    },
+    {
+      "term": "ラム",
+      "count": 1
+    },
+    {
+      "term": "新的",
+      "count": 1
+    },
+    {
+      "term": "保に",
+      "count": 1
+    },
+    {
+      "term": "産業",
+      "count": 1
+    },
+    {
+      "term": "性確",
+      "count": 1
+    },
+    {
+      "term": "ンピ",
+      "count": 1
+    },
+    {
+      "term": "の実",
+      "count": 1
+    },
+    {
+      "term": "評価",
+      "count": 1
+    },
+    {
+      "term": "フィ",
+      "count": 1
+    },
+    {
+      "term": "頼性",
+      "count": 1
+    },
+    {
+      "term": "た意思決",
+      "count": 1
+    },
+    {
+      "term": "ログ",
+      "count": 1
+    },
+    {
+      "term": "動地",
+      "count": 1
+    },
+    {
+      "term": "その",
+      "count": 1
+    },
+    {
+      "term": "略的",
+      "count": 1
+    },
+    {
+      "term": "迅速",
+      "count": 1
+    },
+    {
+      "term": "セラミッ",
+      "count": 1
+    },
+    {
+      "term": "人材の育",
       "count": 1
     }
   ],
