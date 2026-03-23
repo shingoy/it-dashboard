@@ -2,159 +2,91 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "フィジカ",
+      "term": "強化",
       "count": 2
     },
     {
-      "term": "構築",
+      "term": "よる",
       "count": 2
     },
     {
-      "term": "に資",
+      "term": "ル等",
       "count": 2
     },
     {
-      "term": "内a",
+      "term": "等支",
       "count": 2
     },
     {
-      "term": "革新",
+      "term": "の主",
       "count": 2
     },
     {
-      "term": "フィ",
+      "term": "ルー",
       "count": 2
     },
     {
-      "term": "次世代情",
+      "term": "備及",
       "count": 2
     },
     {
-      "term": "介護テク",
+      "term": "ジタ",
+      "count": 2
+    },
+    {
+      "term": "ート",
+      "count": 2
+    },
+    {
+      "term": "ケー",
+      "count": 2
+    },
+    {
+      "term": "全面",
       "count": 1
     },
     {
-      "term": "を踏",
+      "term": "針の",
       "count": 1
     },
     {
-      "term": "罪グルー",
+      "term": "経中",
       "count": 1
     },
     {
-      "term": "が深",
+      "term": "済対策",
       "count": 1
     },
     {
-      "term": "22",
+      "term": "ット開発",
       "count": 1
     },
     {
-      "term": "メン",
+      "term": "ド構",
       "count": 1
     },
     {
-      "term": "場合",
+      "term": "マー",
       "count": 1
     },
     {
-      "term": "ションの",
+      "term": "難な",
       "count": 1
     },
     {
-      "term": "議 ",
+      "term": "製造業等",
       "count": 1
     },
     {
-      "term": "うａ",
+      "term": "策は",
       "count": 1
     },
     {
-      "term": "戦略的強",
+      "term": "性向",
       "count": 1
     },
     {
-      "term": "ムの",
-      "count": 1
-    },
-    {
-      "term": "合経",
-      "count": 1
-    },
-    {
-      "term": "に対",
-      "count": 1
-    },
-    {
-      "term": "いて",
-      "count": 1
-    },
-    {
-      "term": "スマート",
-      "count": 1
-    },
-    {
-      "term": "学校",
-      "count": 1
-    },
-    {
-      "term": "月成立",
-      "count": 1
-    },
-    {
-      "term": "造業",
-      "count": 1
-    },
-    {
-      "term": "企業",
-      "count": 1
-    },
-    {
-      "term": "の加",
-      "count": 1
-    },
-    {
-      "term": "ルａ",
-      "count": 1
-    },
-    {
-      "term": "代情",
-      "count": 1
-    },
-    {
-      "term": "力向",
-      "count": 1
-    },
-    {
-      "term": "の実",
-      "count": 1
-    },
-    {
-      "term": "た建設現",
-      "count": 1
-    },
-    {
-      "term": "間での",
-      "count": 1
-    },
-    {
-      "term": "for",
-      "count": 1
-    },
-    {
-      "term": "供給加速",
-      "count": 1
-    },
-    {
-      "term": "の強靱化",
-      "count": 1
-    },
-    {
-      "term": "用実",
-      "count": 1
-    },
-    {
-      "term": "入し",
+      "term": "総額",
       "count": 1
     },
     {
@@ -162,43 +94,111 @@
       "count": 1
     },
     {
-      "term": "事例",
+      "term": "現場",
       "count": 1
     },
     {
-      "term": "含む",
+      "term": "ク対",
       "count": 1
     },
     {
-      "term": "ける",
+      "term": "分類",
       "count": 1
     },
     {
-      "term": "ログ",
+      "term": "を活用し",
       "count": 1
     },
     {
-      "term": "転の",
+      "term": "の加",
       "count": 1
     },
     {
-      "term": "のａ",
+      "term": "スキリン",
       "count": 1
     },
     {
-      "term": "本的",
+      "term": "類 ",
       "count": 1
     },
     {
-      "term": "による科",
+      "term": "ションの",
       "count": 1
     },
     {
-      "term": "補正",
+      "term": "のニ",
       "count": 1
     },
     {
-      "term": "利用に関",
+      "term": "加速的推",
+      "count": 1
+    },
+    {
+      "term": "月成",
+      "count": 1
+    },
+    {
+      "term": "船ロ",
+      "count": 1
+    },
+    {
+      "term": "ッド構築",
+      "count": 1
+    },
+    {
+      "term": "速的",
+      "count": 1
+    },
+    {
+      "term": "本計",
+      "count": 1
+    },
+    {
+      "term": "続的",
+      "count": 1
+    },
+    {
+      "term": "人材",
+      "count": 1
+    },
+    {
+      "term": "スの主導",
+      "count": 1
+    },
+    {
+      "term": "デガ",
+      "count": 1
+    },
+    {
+      "term": "e2e",
+      "count": 1
+    },
+    {
+      "term": "社会に向",
+      "count": 1
+    },
+    {
+      "term": "深い",
+      "count": 1
+    },
+    {
+      "term": "を創る",
+      "count": 1
+    },
+    {
+      "term": "等の実装",
+      "count": 1
+    },
+    {
+      "term": "サウ",
+      "count": 1
+    },
+    {
+      "term": "強い",
+      "count": 1
+    },
+    {
+      "term": "の研究",
       "count": 1
     }
   ],
