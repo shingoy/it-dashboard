@@ -2,87 +2,95 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "され",
-      "count": 27
-    },
-    {
-      "term": "リポ",
+      "term": "ット",
       "count": 20
     },
     {
-      "term": "ァイ",
+      "term": "ロー",
       "count": 19
     },
     {
-      "term": "設定",
-      "count": 17
+      "term": "保護",
+      "count": 18
     },
     {
-      "term": "への",
-      "count": 15
+      "term": "管理",
+      "count": 18
     },
     {
-      "term": "があ",
+      "term": "ける",
       "count": 14
     },
     {
-      "term": "よる",
-      "count": 13
+      "term": "パイプラ",
+      "count": 14
     },
     {
-      "term": "の成",
-      "count": 13
+      "term": "ァイ",
+      "count": 14
     },
     {
-      "term": "のた",
-      "count": 13
+      "term": "ール",
+      "count": 14
     },
     {
-      "term": "はc",
+      "term": "リポジト",
+      "count": 14
+    },
+    {
+      "term": "ーム",
+      "count": 12
+    },
+    {
+      "term": "ティ",
       "count": 11
     },
     {
-      "term": "はな",
+      "term": "ード",
       "count": 11
     },
     {
-      "term": "変更",
+      "term": "成果物の",
+      "count": 11
+    },
+    {
+      "term": "push",
+      "count": 11
+    },
+    {
+      "term": "を用",
+      "count": 10
+    },
+    {
+      "term": "にも",
       "count": 9
     },
     {
-      "term": "ムが",
+      "term": "build",
       "count": 9
     },
     {
-      "term": "with",
-      "count": 9
-    },
-    {
-      "term": "バイ",
+      "term": "トに",
       "count": 8
     },
     {
-      "term": "の取",
+      "term": "トリ",
       "count": 8
     },
     {
-      "term": "フト",
+      "term": "用い",
       "count": 8
     },
     {
-      "term": "10",
+      "term": "docker",
       "count": 8
     },
     {
-      "term": "ルー",
+      "term": "いう",
       "count": 8
     },
     {
-      "term": "が考",
-      "count": 8
-    },
-    {
-      "term": "漏洩",
+      "term": "関す",
       "count": 7
     },
     {
@@ -90,115 +98,107 @@
       "count": 7
     },
     {
-      "term": "システム",
+      "term": "スク",
       "count": 7
     },
     {
-      "term": "ー ",
+      "term": "ング",
       "count": 7
     },
     {
-      "term": "また",
+      "term": "本書",
       "count": 7
     },
     {
-      "term": "plan",
+      "term": "ンバ",
       "count": 7
     },
     {
-      "term": "にな",
+      "term": "のs",
       "count": 7
     },
     {
-      "term": "trivy",
+      "term": "に加",
       "count": 7
     },
     {
-      "term": "略す",
+      "term": "json",
       "count": 7
     },
     {
-      "term": "ークレッ",
-      "count": 7
+      "term": "キュ",
+      "count": 6
     },
     {
-      "term": "name",
-      "count": 7
+      "term": "シス",
+      "count": 6
+    },
+    {
+      "term": "たコ",
+      "count": 6
+    },
+    {
+      "term": "方法",
+      "count": 6
+    },
+    {
+      "term": "ついては",
+      "count": 6
+    },
+    {
+      "term": "のレ",
+      "count": 6
     },
     {
       "term": "and",
-      "count": 7
-    },
-    {
-      "term": "ubuntu",
-      "count": 7
-    },
-    {
-      "term": "ート",
       "count": 6
     },
     {
-      "term": "策 ",
-      "count": 6
-    },
-    {
-      "term": "ド成",
-      "count": 6
-    },
-    {
-      "term": "たが",
-      "count": 6
-    },
-    {
-      "term": "フ ",
-      "count": 6
-    },
-    {
-      "term": "らの",
-      "count": 6
-    },
-    {
-      "term": "ジの",
-      "count": 6
-    },
-    {
-      "term": "ても",
-      "count": 6
-    },
-    {
-      "term": "steps",
-      "count": 6
-    },
-    {
-      "term": "predicate",
-      "count": 6
-    },
-    {
-      "term": "infrastructure",
+      "term": "用者",
       "count": 5
     },
     {
-      "term": "ケー",
+      "term": "理を含む",
       "count": 5
     },
     {
-      "term": "コー",
+      "term": "理シ",
       "count": 5
     },
     {
-      "term": "れに",
+      "term": "ュリ",
       "count": 5
     },
     {
-      "term": "準拠",
+      "term": "実装",
       "count": 5
     },
     {
-      "term": "を確",
+      "term": "プラット",
       "count": 5
     },
     {
-      "term": "れは",
+      "term": "リフ",
+      "count": 5
+    },
+    {
+      "term": "る成",
+      "count": 5
+    },
+    {
+      "term": "を想",
+      "count": 5
+    },
+    {
+      "term": "プ ",
+      "count": 5
+    },
+    {
+      "term": "べき",
+      "count": 5
+    },
+    {
+      "term": "公式",
       "count": 5
     }
   ],
