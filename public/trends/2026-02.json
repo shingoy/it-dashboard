@@ -2,11 +2,23 @@
   "month": "2026-02",
   "keywords": [
     {
-      "term": "経約",
+      "term": "関連予算",
       "count": 2
     },
     {
-      "term": "実施",
+      "term": "文約",
+      "count": 2
+    },
+    {
+      "term": "発支援助",
+      "count": 2
+    },
+    {
+      "term": "個々",
+      "count": 2
+    },
+    {
+      "term": "の４",
       "count": 2
     },
     {
@@ -14,31 +26,47 @@
       "count": 2
     },
     {
-      "term": "ない",
+      "term": "円ほ",
       "count": 2
     },
     {
-      "term": "ムの",
+      "term": "て離",
       "count": 2
     },
     {
-      "term": "施 ",
+      "term": "テム",
       "count": 2
     },
     {
-      "term": "確保",
+      "term": "タル",
       "count": 2
     },
     {
-      "term": "関連予算",
+      "term": "利活用の",
       "count": 2
     },
     {
-      "term": "五入",
+      "term": "費の",
       "count": 2
     },
     {
-      "term": "た地震活",
+      "term": "経約",
+      "count": 2
+    },
+    {
+      "term": "等の",
+      "count": 2
+    },
+    {
+      "term": "教育",
+      "count": 2
+    },
+    {
+      "term": "ルの",
+      "count": 1
+    },
+    {
+      "term": "和8",
       "count": 1
     },
     {
@@ -46,139 +74,11 @@
       "count": 1
     },
     {
-      "term": "年度",
+      "term": "型ａ",
       "count": 1
     },
     {
-      "term": "たａ",
-      "count": 1
-    },
-    {
-      "term": "スの主導",
-      "count": 1
-    },
-    {
-      "term": "ーゲ",
-      "count": 1
-    },
-    {
-      "term": "高度化",
-      "count": 1
-    },
-    {
-      "term": "ルチ",
-      "count": 1
-    },
-    {
-      "term": "額1",
-      "count": 1
-    },
-    {
-      "term": "働す",
-      "count": 1
-    },
-    {
-      "term": "テナ",
-      "count": 1
-    },
-    {
-      "term": "ィン",
-      "count": 1
-    },
-    {
-      "term": "な推",
-      "count": 1
-    },
-    {
-      "term": "材の",
-      "count": 1
-    },
-    {
-      "term": "信頼性確",
-      "count": 1
-    },
-    {
-      "term": "通信",
-      "count": 1
-    },
-    {
-      "term": "基金",
-      "count": 1
-    },
-    {
-      "term": "ズ探",
-      "count": 1
-    },
-    {
-      "term": "の研究",
-      "count": 1
-    },
-    {
-      "term": "ーダ",
-      "count": 1
-    },
-    {
-      "term": "基づ",
-      "count": 1
-    },
-    {
-      "term": "造プ",
-      "count": 1
-    },
-    {
-      "term": "導ａ",
-      "count": 1
-    },
-    {
-      "term": "ト農",
-      "count": 1
-    },
-    {
-      "term": "る技",
-      "count": 1
-    },
-    {
-      "term": "ログ",
-      "count": 1
-    },
-    {
-      "term": "ラh",
-      "count": 1
-    },
-    {
-      "term": "シー",
-      "count": 1
-    },
-    {
-      "term": "約３",
-      "count": 1
-    },
-    {
-      "term": "約６",
-      "count": 1
-    },
-    {
-      "term": "等に",
-      "count": 1
-    },
-    {
-      "term": "権制",
-      "count": 1
-    },
-    {
-      "term": "む ",
-      "count": 1
-    },
-    {
-      "term": "コンピュ",
-      "count": 1
-    },
-    {
-      "term": "見据",
-      "count": 1
-    },
-    {
-      "term": "闘車",
+      "term": "の育",
       "count": 1
     },
     {
@@ -186,19 +86,119 @@
       "count": 1
     },
     {
-      "term": "財産",
+      "term": "次世代情",
       "count": 1
     },
     {
-      "term": "ム医",
+      "term": "ンピ",
       "count": 1
     },
     {
-      "term": "業経",
+      "term": "テナ",
+      "count": 1
+    },
+    {
+      "term": "み増",
+      "count": 1
+    },
+    {
+      "term": "動評",
+      "count": 1
+    },
+    {
+      "term": "省エネ",
+      "count": 1
+    },
+    {
+      "term": "活用の実",
+      "count": 1
+    },
+    {
+      "term": "ビス",
+      "count": 1
+    },
+    {
+      "term": "発事",
+      "count": 1
+    },
+    {
+      "term": "たマルチ",
+      "count": 1
+    },
+    {
+      "term": "見据",
+      "count": 1
+    },
+    {
+      "term": "年度予算",
+      "count": 1
+    },
+    {
+      "term": "案額",
+      "count": 1
+    },
+    {
+      "term": "高度",
+      "count": 1
+    },
+    {
+      "term": "モデルの",
       "count": 1
     },
     {
       "term": "ナタ",
+      "count": 1
+    },
+    {
+      "term": "ティ",
+      "count": 1
+    },
+    {
+      "term": "社会に向",
+      "count": 1
+    },
+    {
+      "term": "う ",
+      "count": 1
+    },
+    {
+      "term": "動オ",
+      "count": 1
+    },
+    {
+      "term": "む ",
+      "count": 1
+    },
+    {
+      "term": "11",
+      "count": 1
+    },
+    {
+      "term": "力の",
+      "count": 1
+    },
+    {
+      "term": "イパフォ",
+      "count": 1
+    },
+    {
+      "term": "る研",
+      "count": 1
+    },
+    {
+      "term": "げる",
+      "count": 1
+    },
+    {
+      "term": "の負",
+      "count": 1
+    },
+    {
+      "term": "法に基づ",
+      "count": 1
+    },
+    {
+      "term": "革新的な",
       "count": 1
     }
   ],

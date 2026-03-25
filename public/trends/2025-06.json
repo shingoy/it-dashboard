@@ -2,75 +2,79 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ライ",
-      "count": 23
+      "term": "る ",
+      "count": 20
     },
     {
-      "term": "ェー",
-      "count": 17
+      "term": "aws",
+      "count": 19
     },
     {
-      "term": "には",
-      "count": 17
+      "term": "では",
+      "count": 19
     },
     {
-      "term": "ない",
-      "count": 17
-    },
-    {
-      "term": "成果",
+      "term": "ビス",
       "count": 16
-    },
-    {
-      "term": "ムの",
-      "count": 15
-    },
-    {
-      "term": "ナイ",
-      "count": 15
     },
     {
       "term": "テナ",
       "count": 15
     },
     {
-      "term": "シー",
-      "count": 13
-    },
-    {
-      "term": "によ",
-      "count": 13
-    },
-    {
-      "term": "id",
-      "count": 13
-    },
-    {
-      "term": "れた",
-      "count": 12
-    },
-    {
-      "term": "この",
-      "count": 12
+      "term": "には",
+      "count": 15
     },
     {
       "term": "保護",
+      "count": 14
+    },
+    {
+      "term": "る必",
+      "count": 14
+    },
+    {
+      "term": "とが",
+      "count": 13
+    },
+    {
+      "term": "対策",
+      "count": 12
+    },
+    {
+      "term": "った",
+      "count": 12
+    },
+    {
+      "term": "安全性の",
       "count": 11
     },
     {
-      "term": "定す",
+      "term": "10",
       "count": 11
     },
     {
-      "term": "https",
-      "count": 11
-    },
-    {
-      "term": "の ",
+      "term": "ブラ",
       "count": 10
     },
     {
-      "term": "イメージ",
+      "term": "ナリ",
+      "count": 10
+    },
+    {
+      "term": "ティ",
+      "count": 10
+    },
+    {
+      "term": "レッ",
+      "count": 10
+    },
+    {
+      "term": "の安",
+      "count": 10
+    },
+    {
+      "term": "ルの",
       "count": 10
     },
     {
@@ -78,31 +82,27 @@
       "count": 10
     },
     {
-      "term": "略 ",
+      "term": "のメ",
       "count": 10
     },
     {
-      "term": "to",
+      "term": "on",
       "count": 10
     },
     {
-      "term": "確保",
+      "term": "ルド",
       "count": 9
     },
     {
-      "term": "トウ",
-      "count": 9
-    },
-    {
-      "term": "com",
-      "count": 9
-    },
-    {
-      "term": "プラ",
+      "term": "テム",
       "count": 8
     },
     {
-      "term": "スク",
+      "term": "スト",
+      "count": 8
+    },
+    {
+      "term": "ウェ",
       "count": 8
     },
     {
@@ -110,31 +110,27 @@
       "count": 8
     },
     {
-      "term": "を実",
+      "term": "タデ",
       "count": 8
     },
     {
-      "term": "いう",
-      "count": 8
-    },
-    {
-      "term": "洩対",
+      "term": "の漏",
       "count": 7
     },
     {
-      "term": "ける",
+      "term": "によ",
       "count": 7
     },
     {
-      "term": "体の",
+      "term": "あり",
       "count": 7
     },
     {
-      "term": "plan",
+      "term": "を確",
       "count": 7
     },
     {
-      "term": "い ",
+      "term": "にな",
       "count": 7
     },
     {
@@ -142,35 +138,39 @@
       "count": 7
     },
     {
-      "term": "であ",
+      "term": "ーと",
       "count": 7
     },
     {
-      "term": "name",
-      "count": 7
-    },
-    {
-      "term": "ショ",
+      "term": "コー",
       "count": 6
     },
     {
-      "term": "トの",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "全性",
+      "term": "等の",
       "count": 6
     },
     {
-      "term": "ウン",
+      "term": "主体",
       "count": 6
     },
     {
-      "term": "の署",
+      "term": "行範",
       "count": 6
     },
     {
-      "term": "記述",
+      "term": "たコ",
+      "count": 6
+    },
+    {
+      "term": "たt",
+      "count": 6
+    },
+    {
+      "term": "検証",
       "count": 6
     },
     {
@@ -178,28 +178,28 @@
       "count": 6
     },
     {
-      "term": "るよ",
+      "term": "影響",
       "count": 6
     },
     {
-      "term": "指定",
+      "term": "の変",
       "count": 6
     },
     {
-      "term": "tf",
+      "term": "のs",
       "count": 6
     },
     {
-      "term": "保守",
-      "count": 5
+      "term": "repository",
+      "count": 6
     },
     {
-      "term": "13",
-      "count": 5
+      "term": "の設",
+      "count": 6
     },
     {
-      "term": "構成",
-      "count": 5
+      "term": "slsa",
+      "count": 6
     }
   ],
   "meetings": [
