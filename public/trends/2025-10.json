@@ -2,131 +2,115 @@
   "month": "2025-10",
   "keywords": [
     {
-      "term": "省 ",
-      "count": 895
+      "term": "厚生労働",
+      "count": 377
     },
     {
-      "term": "第3",
-      "count": 764
+      "term": "第2",
+      "count": 354
     },
     {
-      "term": "令和",
-      "count": 734
+      "term": "通知",
+      "count": 328
     },
     {
-      "term": "事業",
-      "count": 514
+      "term": "ため",
+      "count": 322
     },
     {
-      "term": "規則",
-      "count": 434
-    },
-    {
-      "term": "の2",
-      "count": 363
-    },
-    {
-      "term": "して",
-      "count": 363
-    },
-    {
-      "term": "法律",
-      "count": 335
-    },
-    {
-      "term": "法令名",
-      "count": 334
-    },
-    {
-      "term": "等に",
+      "term": "つい",
       "count": 316
     },
     {
-      "term": "条第",
-      "count": 314
-    },
-    {
-      "term": "年度",
-      "count": 311
-    },
-    {
-      "term": "る法",
-      "count": 308
-    },
-    {
-      "term": "規制",
+      "term": "方針",
       "count": 286
     },
     {
+      "term": "類型",
+      "count": 281
+    },
+    {
+      "term": "基準",
+      "count": 279
+    },
+    {
+      "term": "告示",
+      "count": 278
+    },
+    {
       "term": "の規",
-      "count": 269
+      "count": 270
+    },
+    {
+      "term": "準 ",
+      "count": 260
     },
     {
       "term": "18",
-      "count": 256
+      "count": 259
     },
     {
-      "term": "13",
-      "count": 255
+      "term": "場合",
+      "count": 258
     },
     {
-      "term": "号 ",
-      "count": 252
+      "term": "16",
+      "count": 248
     },
     {
-      "term": "及び",
+      "term": "す ",
       "count": 244
     },
     {
-      "term": "通達等",
-      "count": 240
+      "term": "確認",
+      "count": 238
     },
     {
-      "term": "律 ",
-      "count": 236
+      "term": "30",
+      "count": 237
     },
     {
-      "term": "原則",
-      "count": 236
+      "term": "関す",
+      "count": 235
     },
     {
-      "term": "に関",
+      "term": "令和",
       "count": 232
     },
     {
-      "term": "まで",
-      "count": 226
+      "term": "にお",
+      "count": 229
     },
     {
-      "term": "産業",
-      "count": 224
+      "term": "号 ",
+      "count": 220
     },
     {
-      "term": "より",
-      "count": 222
+      "term": "ンラ",
+      "count": 216
     },
     {
-      "term": "ついて",
-      "count": 211
-    },
-    {
-      "term": "い ",
+      "term": "もの",
       "count": 209
     },
     {
-      "term": "施す",
-      "count": 205
+      "term": "専任",
+      "count": 207
     },
     {
-      "term": "調査",
-      "count": 204
+      "term": "点検",
+      "count": 201
     },
     {
-      "term": "条の",
-      "count": 203
+      "term": "手続",
+      "count": 198
     },
     {
-      "term": "関する法",
+      "term": "設備",
+      "count": 196
+    },
+    {
+      "term": "オンライ",
       "count": 190
     },
     {
@@ -134,72 +118,88 @@
       "count": 186
     },
     {
-      "term": "ログ",
-      "count": 184
+      "term": "を含",
+      "count": 178
     },
     {
-      "term": "され",
-      "count": 175
+      "term": "検 ",
+      "count": 174
     },
     {
-      "term": "デジタル",
-      "count": 172
+      "term": "措置",
+      "count": 173
     },
     {
-      "term": "項第",
+      "term": "第7",
+      "count": 173
+    },
+    {
+      "term": "の保",
+      "count": 170
+    },
+    {
+      "term": "29",
+      "count": 169
+    },
+    {
+      "term": "対象",
+      "count": 167
+    },
+    {
+      "term": "後p",
       "count": 165
     },
     {
-      "term": "業省",
-      "count": 165
+      "term": "登録",
+      "count": 164
     },
     {
-      "term": "取扱",
+      "term": "国土交通",
       "count": 161
     },
     {
-      "term": "名 ",
-      "count": 161
-    },
-    {
-      "term": "時期",
-      "count": 159
-    },
-    {
-      "term": "農林水産",
+      "term": "林水",
       "count": 158
     },
     {
-      "term": "ての",
+      "term": "通達",
+      "count": 158
+    },
+    {
+      "term": "月ま",
+      "count": 157
+    },
+    {
+      "term": "規則",
       "count": 155
     },
     {
-      "term": "特別",
+      "term": "環境",
       "count": 154
     },
     {
-      "term": "行令",
-      "count": 149
+      "term": "し ",
+      "count": 152
     },
     {
-      "term": "業の",
-      "count": 149
+      "term": "原則",
+      "count": 148
     },
     {
-      "term": "縦覧",
+      "term": "する法律",
       "count": 146
     },
     {
-      "term": "針確",
-      "count": 146
+      "term": "保安",
+      "count": 145
     },
     {
-      "term": "の活",
-      "count": 139
+      "term": "る省",
+      "count": 145
     },
     {
-      "term": "型 ",
-      "count": 135
+      "term": "表 ",
+      "count": 143
     }
   ],
   "meetings": [
