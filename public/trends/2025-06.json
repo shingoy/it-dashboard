@@ -2,99 +2,63 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ット",
-      "count": 20
+      "term": "ある",
+      "count": 23
     },
     {
-      "term": "保護",
-      "count": 18
+      "term": "github",
+      "count": 23
     },
     {
-      "term": "設定",
-      "count": 18
+      "term": "では",
+      "count": 19
+    },
+    {
+      "term": "actions",
+      "count": 19
+    },
+    {
+      "term": "ライ",
+      "count": 17
     },
     {
       "term": "ェー",
-      "count": 17
-    },
-    {
-      "term": "ため",
-      "count": 17
-    },
-    {
-      "term": "には",
-      "count": 17
-    },
-    {
-      "term": "の保",
-      "count": 16
-    },
-    {
-      "term": "トフ",
       "count": 15
     },
     {
-      "term": "フォ",
-      "count": 14
+      "term": "から",
+      "count": 15
     },
     {
-      "term": "ては",
-      "count": 14
-    },
-    {
-      "term": "確認",
+      "term": "の成",
       "count": 13
     },
     {
-      "term": "コン",
+      "term": "用す",
       "count": 13
     },
     {
-      "term": "場合",
-      "count": 13
-    },
-    {
-      "term": "ント",
+      "term": "レッ",
       "count": 12
     },
     {
-      "term": "環境",
+      "term": "ステ",
       "count": 11
     },
     {
-      "term": "チェ",
+      "term": "シークレ",
       "count": 11
     },
     {
-      "term": "ファ",
+      "term": "安全性の",
       "count": 11
     },
     {
-      "term": "name",
-      "count": 11
-    },
-    {
-      "term": "加え",
-      "count": 11
-    },
-    {
-      "term": "を含",
+      "term": "はc",
       "count": 10
     },
     {
-      "term": "ている",
-      "count": 10
-    },
-    {
-      "term": "制限",
-      "count": 10
-    },
-    {
-      "term": "し ",
-      "count": 10
-    },
-    {
-      "term": "性を",
+      "term": "変更",
       "count": 10
     },
     {
@@ -102,15 +66,27 @@
       "count": 10
     },
     {
-      "term": "build",
+      "term": "to",
       "count": 10
     },
     {
-      "term": "イル",
+      "term": "脆弱性管",
       "count": 9
     },
     {
-      "term": "トウ",
+      "term": "保 ",
+      "count": 9
+    },
+    {
+      "term": "ン ",
+      "count": 9
+    },
+    {
+      "term": "存物",
+      "count": 9
+    },
+    {
+      "term": "状態",
       "count": 9
     },
     {
@@ -118,27 +94,15 @@
       "count": 9
     },
     {
-      "term": "きる",
+      "term": "ンa",
       "count": 9
     },
     {
-      "term": "outputs",
-      "count": 9
-    },
-    {
-      "term": "with",
-      "count": 9
-    },
-    {
-      "term": "囲の",
+      "term": "パイ",
       "count": 8
     },
     {
-      "term": "ービ",
-      "count": 8
-    },
-    {
-      "term": "トを",
+      "term": "行範",
       "count": 8
     },
     {
@@ -146,23 +110,15 @@
       "count": 8
     },
     {
-      "term": "uses",
+      "term": "強制",
       "count": 8
     },
     {
-      "term": "漏洩",
+      "term": "ェーズの",
       "count": 7
     },
     {
-      "term": "示す",
-      "count": 7
-    },
-    {
-      "term": "キー",
-      "count": 7
-    },
-    {
-      "term": "あり",
+      "term": "フェーズ",
       "count": 7
     },
     {
@@ -170,27 +126,19 @@
       "count": 7
     },
     {
-      "term": "ると",
+      "term": "ャン",
       "count": 7
     },
     {
-      "term": "もの",
+      "term": "rulesets",
       "count": 7
     },
     {
-      "term": "す ",
+      "term": "name",
       "count": 7
     },
     {
-      "term": "めに",
-      "count": 6
-    },
-    {
-      "term": "ーズ",
-      "count": 6
-    },
-    {
-      "term": "ロー",
+      "term": "ード管理",
       "count": 6
     },
     {
@@ -198,8 +146,60 @@
       "count": 6
     },
     {
-      "term": "ルと",
+      "term": "フ ",
       "count": 6
+    },
+    {
+      "term": "ロバ",
+      "count": 6
+    },
+    {
+      "term": "ウン",
+      "count": 6
+    },
+    {
+      "term": "ムは",
+      "count": 6
+    },
+    {
+      "term": "にて",
+      "count": 6
+    },
+    {
+      "term": "ビュ",
+      "count": 6
+    },
+    {
+      "term": "の管",
+      "count": 6
+    },
+    {
+      "term": "らな",
+      "count": 6
+    },
+    {
+      "term": "steps",
+      "count": 6
+    },
+    {
+      "term": "image",
+      "count": 6
+    },
+    {
+      "term": "and",
+      "count": 6
+    },
+    {
+      "term": "checkout",
+      "count": 6
+    },
+    {
+      "term": "キー",
+      "count": 5
+    },
+    {
+      "term": "に関",
+      "count": 5
     }
   ],
   "meetings": [
