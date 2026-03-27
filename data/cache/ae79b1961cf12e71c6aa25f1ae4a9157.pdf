@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="ja">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,7 +24,7 @@
   <meta name="twitter:description" content="国家サイバー統括室のホームページです。組織、政策、報道発表資料などに関する情報を掲載しています。">
   <meta name="twitter:image" content="https://www.cyber.go.jp/img/ogp.png">
   <link rel="stylesheet" href="/css/style.css" media="all">
-    <link rel="stylesheet" href="//digitalgojp.sharepoint.com///c.marsflag.com/mf/mfx/1.0-latest/css/mfx-sbox.css" media="all">
+    <link rel="stylesheet" href="//c.marsflag.com/mf/mfx/1.0-latest/css/mfx-sbox.css" media="all">
 </head>
 
 <body>
@@ -112,24 +111,16 @@
     <div class="my-1">
       <div class="flex gap-[2rem] md:flex-col">
         <div class="flex-1">
-
-
-
           <h2 class="heading1">国家サイバー統括室（NCO）を騙った不審な電話等にご注意ください</h2>
-
           <div class="flex flex-col gap-2 px-2 my-4">
             <div class="flex gap-2 text-nisc-primary items-center"><i class="triangle-block-free"></i><a class="link"
                 target="_blank" href="/news/20231120.html">国家サイバー統括室（NCO）、NISCの名を騙り、金銭を要求する不審な電話が確認されています。</a></div>
           </div>
-
           <h2 class="heading1">当サイトのURL変更について</h2>
-
           <div class="flex flex-col gap-2 px-2 my-4">
             <div class="flex gap-2 text-nisc-primary items-center"><i class="triangle-block-free"></i><a class="pdf link"
                 target="_blank" href="/pdf/URL_Change.pdf">当サイトのURL変更について（PDF形式:289KB）</a></div>
           </div>
-
-
           <h2 class="heading1">新着情報</h2>
           <div id="newsList">
             <p class="loading">Loading...</p>
@@ -328,7 +319,7 @@
     </svg>
   </div>
   <script type="text/javascript" src="/js/app.js"></script>
-  <script src="//digitalgojp.sharepoint.com///digitalgojp.sharepoint.com///c.marsflag.com/mf/mfx/1.0-latest/js/mfx-sbox.js" charset="UTF-8"> </script>
+  <script src="//c.marsflag.com/mf/mfx/1.0-latest/js/mfx-sbox.js" charset="UTF-8"> </script>
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </body>
 
