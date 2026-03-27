@@ -2,143 +2,127 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "る ",
-      "count": 25
+      "term": "プラ",
+      "count": 24
     },
     {
-      "term": "れる",
+      "term": "きる",
       "count": 23
     },
     {
-      "term": "であ",
-      "count": 21
-    },
-    {
-      "term": "パイプラ",
-      "count": 20
-    },
-    {
-      "term": "ジト",
-      "count": 20
-    },
-    {
-      "term": "ため",
+      "term": "aws",
       "count": 19
     },
     {
-      "term": "その",
+      "term": "ール",
+      "count": 19
+    },
+    {
+      "term": "には",
       "count": 17
     },
     {
-      "term": "およ",
+      "term": "ソー",
+      "count": 16
+    },
+    {
+      "term": "実行",
       "count": 15
     },
     {
-      "term": "よび",
+      "term": "ータ",
       "count": 15
     },
     {
-      "term": "保護",
+      "term": "メタ",
       "count": 15
     },
     {
-      "term": "ーム",
-      "count": 15
-    },
-    {
-      "term": "性の",
-      "count": 14
+      "term": "パイ",
+      "count": 13
     },
     {
       "term": "に ",
-      "count": 14
-    },
-    {
-      "term": "担保",
-      "count": 13
-    },
-    {
-      "term": "プロ",
-      "count": 13
-    },
-    {
-      "term": "ルを",
-      "count": 13
-    },
-    {
-      "term": "場合",
-      "count": 13
-    },
-    {
-      "term": "フェ",
       "count": 12
     },
     {
-      "term": "terraform",
+      "term": "ーの",
+      "count": 12
+    },
+    {
+      "term": "情報",
       "count": 11
     },
     {
-      "term": "ンチ",
-      "count": 10
+      "term": "上で",
+      "count": 11
     },
     {
-      "term": "護 ",
-      "count": 10
+      "term": "依存物の",
+      "count": 11
     },
     {
-      "term": "を用",
-      "count": 10
+      "term": "push",
+      "count": 11
     },
     {
-      "term": "ルの",
-      "count": 10
+      "term": "加え",
+      "count": 11
     },
     {
-      "term": "com",
-      "count": 10
-    },
-    {
-      "term": "to",
-      "count": 10
-    },
-    {
-      "term": "管理",
+      "term": "のリ",
       "count": 9
     },
     {
-      "term": "に対",
+      "term": "ポジ",
       "count": 9
     },
     {
-      "term": "スト",
+      "term": "の制",
+      "count": 9
+    },
+    {
+      "term": "が ",
+      "count": 9
+    },
+    {
+      "term": "バー",
+      "count": 9
+    },
+    {
+      "term": "指定",
+      "count": 9
+    },
+    {
+      "term": "runs",
+      "count": 9
+    },
+    {
+      "term": "ン ",
       "count": 8
     },
     {
-      "term": "性が",
+      "term": "物を",
       "count": 8
     },
     {
-      "term": "下の",
-      "count": 8
-    },
-    {
-      "term": "ェッ",
-      "count": 8
-    },
-    {
-      "term": "運用",
+      "term": "囲の",
       "count": 7
     },
     {
-      "term": "version",
+      "term": "ると",
       "count": 7
     },
     {
-      "term": "ャン",
+      "term": "にな",
       "count": 7
     },
     {
-      "term": "図 ",
+      "term": "を確",
+      "count": 7
+    },
+    {
+      "term": "記述",
       "count": 7
     },
     {
@@ -150,55 +134,71 @@
       "count": 6
     },
     {
-      "term": "及び",
+      "term": "の漏洩対",
       "count": 6
     },
     {
-      "term": "ライ",
+      "term": "ド管",
       "count": 6
     },
     {
-      "term": "頼で",
+      "term": "ド成",
       "count": 6
     },
     {
-      "term": "書で",
+      "term": "たが",
       "count": 6
     },
     {
-      "term": "供す",
+      "term": "ロバ",
       "count": 6
     },
     {
-      "term": "省略する",
+      "term": "codebuild",
       "count": 6
     },
     {
-      "term": "用可",
+      "term": "たt",
       "count": 6
     },
     {
-      "term": "を指",
+      "term": "る具",
       "count": 6
     },
     {
-      "term": "同様",
+      "term": "env",
       "count": 6
     },
     {
-      "term": "ワー",
+      "term": "す ",
+      "count": 6
+    },
+    {
+      "term": "infrastructure",
       "count": 5
     },
     {
-      "term": "ることを",
+      "term": "運用保守",
       "count": 5
     },
     {
-      "term": "を想",
+      "term": "ード管理",
       "count": 5
     },
     {
-      "term": "はあ",
+      "term": "code",
+      "count": 5
+    },
+    {
+      "term": "証跡",
+      "count": 5
+    },
+    {
+      "term": "とを",
+      "count": 5
+    },
+    {
+      "term": "ン特",
       "count": 5
     }
   ],
