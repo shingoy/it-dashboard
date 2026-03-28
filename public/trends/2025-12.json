@@ -2,43 +2,67 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "的評",
+      "term": "ュー",
       "count": 2
     },
     {
-      "term": "化 ",
+      "term": "規模",
       "count": 2
     },
     {
-      "term": "次世",
+      "term": "本的",
       "count": 2
     },
     {
-      "term": "ータ",
+      "term": "クラ",
       "count": 2
     },
     {
-      "term": "ィン",
+      "term": "等支援",
       "count": 2
     },
     {
-      "term": "億円",
+      "term": "5g",
       "count": 2
     },
     {
-      "term": "ション",
+      "term": "プロ",
       "count": 2
     },
     {
-      "term": "高め",
+      "term": "デー",
       "count": 2
     },
     {
-      "term": "上を目的",
+      "term": "及び",
+      "count": 2
+    },
+    {
+      "term": "ガバ",
+      "count": 2
+    },
+    {
+      "term": "トメ",
+      "count": 2
+    },
+    {
+      "term": "等 ",
+      "count": 2
+    },
+    {
+      "term": "成立",
       "count": 1
     },
     {
-      "term": "日本",
+      "term": "科学",
+      "count": 1
+    },
+    {
+      "term": "決定",
+      "count": 1
+    },
+    {
+      "term": "サウ",
       "count": 1
     },
     {
@@ -46,159 +70,135 @@
       "count": 1
     },
     {
-      "term": "の予",
-      "count": 1
-    },
-    {
-      "term": "science",
-      "count": 1
-    },
-    {
-      "term": "220",
-      "count": 1
-    },
-    {
-      "term": "内金",
-      "count": 1
-    },
-    {
-      "term": "算は",
-      "count": 1
-    },
-    {
-      "term": "の一",
-      "count": 1
-    },
-    {
-      "term": "月全",
-      "count": 1
-    },
-    {
-      "term": "現す",
-      "count": 1
-    },
-    {
-      "term": "な施",
-      "count": 1
-    },
-    {
-      "term": "立新",
-      "count": 1
-    },
-    {
-      "term": "きる",
-      "count": 1
-    },
-    {
-      "term": "とした",
-      "count": 1
-    },
-    {
-      "term": "は四捨五",
-      "count": 1
-    },
-    {
-      "term": "名流",
-      "count": 1
-    },
-    {
-      "term": "内フ",
-      "count": 1
-    },
-    {
-      "term": "連予",
-      "count": 1
-    },
-    {
-      "term": "ブル等の",
-      "count": 1
-    },
-    {
-      "term": "む ",
-      "count": 1
-    },
-    {
-      "term": "厚介",
-      "count": 1
-    },
-    {
-      "term": "場の生産",
-      "count": 1
-    },
-    {
-      "term": "新的",
-      "count": 1
-    },
-    {
-      "term": "協働",
-      "count": 1
-    },
-    {
-      "term": "ウド",
-      "count": 1
-    },
-    {
-      "term": "スマート",
-      "count": 1
-    },
-    {
-      "term": "89",
-      "count": 1
-    },
-    {
-      "term": "を目",
-      "count": 1
-    },
-    {
-      "term": "情報",
-      "count": 1
-    },
-    {
-      "term": "間で",
-      "count": 1
-    },
-    {
-      "term": "341",
-      "count": 1
-    },
-    {
-      "term": "査新",
-      "count": 1
-    },
-    {
-      "term": "国ａ",
-      "count": 1
-    },
-    {
-      "term": "域金",
-      "count": 1
-    },
-    {
       "term": "注２",
       "count": 1
     },
     {
-      "term": "自動運転",
+      "term": "済対策",
       "count": 1
     },
     {
-      "term": "ロジ",
+      "term": "基金",
       "count": 1
     },
     {
-      "term": "業技",
+      "term": "応の両立",
       "count": 1
     },
     {
-      "term": "関連",
+      "term": "うち",
       "count": 1
     },
     {
-      "term": "クラ",
+      "term": "記載",
       "count": 1
     },
     {
-      "term": "35",
+      "term": "た次",
+      "count": 1
+    },
+    {
+      "term": "係する場",
+      "count": 1
+    },
+    {
+      "term": "るa",
+      "count": 1
+    },
+    {
+      "term": "の戦",
+      "count": 1
+    },
+    {
+      "term": "内国",
+      "count": 1
+    },
+    {
+      "term": "ジー",
+      "count": 1
+    },
+    {
+      "term": "活用実証",
+      "count": 1
+    },
+    {
+      "term": "み増",
+      "count": 1
+    },
+    {
+      "term": "ト開",
+      "count": 1
+    },
+    {
+      "term": "ノロ",
+      "count": 1
+    },
+    {
+      "term": "整備",
+      "count": 1
+    },
+    {
+      "term": "する実証",
+      "count": 1
+    },
+    {
+      "term": "事業費の",
+      "count": 1
+    },
+    {
+      "term": "載 ",
+      "count": 1
+    },
+    {
+      "term": "和７",
+      "count": 1
+    },
+    {
+      "term": "分析",
+      "count": 1
+    },
+    {
+      "term": "踏ま",
+      "count": 1
+    },
+    {
+      "term": "総信",
+      "count": 1
+    },
+    {
+      "term": "基盤",
+      "count": 1
+    },
+    {
+      "term": "aisi",
+      "count": 1
+    },
+    {
+      "term": "ッド構築",
+      "count": 1
+    },
+    {
+      "term": "の能",
+      "count": 1
+    },
+    {
+      "term": "の主",
+      "count": 1
+    },
+    {
+      "term": "世代",
+      "count": 1
+    },
+    {
+      "term": "施策",
+      "count": 1
+    },
+    {
+      "term": "239",
+      "count": 1
+    },
+    {
+      "term": "は予",
       "count": 1
     }
   ],
