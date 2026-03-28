@@ -2,91 +2,75 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "され",
-      "count": 27
+      "term": "ある",
+      "count": 24
     },
     {
-      "term": "パイ",
-      "count": 21
+      "term": "ビル",
+      "count": 16
     },
     {
-      "term": "ファ",
-      "count": 20
+      "term": "ァイ",
+      "count": 16
     },
     {
-      "term": "果物",
-      "count": 19
+      "term": "aws",
+      "count": 16
     },
     {
-      "term": "デー",
-      "count": 17
-    },
-    {
-      "term": "には",
-      "count": 17
-    },
-    {
-      "term": "るた",
+      "term": "ラッ",
       "count": 15
     },
     {
-      "term": "また",
-      "count": 15
-    },
-    {
-      "term": "よう",
-      "count": 15
-    },
-    {
-      "term": "スチ",
+      "term": "内容",
       "count": 14
     },
     {
-      "term": "プロ",
+      "term": "ーク",
       "count": 14
     },
     {
-      "term": "この",
+      "term": "られ",
       "count": 14
     },
     {
-      "term": "とが",
-      "count": 13
+      "term": "を取",
+      "count": 12
     },
     {
-      "term": "とす",
+      "term": "workflows",
+      "count": 12
+    },
+    {
+      "term": "10",
       "count": 11
     },
     {
-      "term": "バー",
+      "term": "る図",
       "count": 11
     },
     {
-      "term": "とな",
-      "count": 11
-    },
-    {
-      "term": "確保",
+      "term": "の実",
       "count": 10
     },
     {
-      "term": "ンチ",
+      "term": "検証",
       "count": 10
     },
     {
-      "term": "ている",
+      "term": "コンテナ",
       "count": 10
     },
     {
-      "term": "イメージ",
-      "count": 10
-    },
-    {
-      "term": "性管",
+      "term": "ン ",
       "count": 9
     },
     {
-      "term": "バリ",
+      "term": "って",
+      "count": 9
+    },
+    {
+      "term": "する",
       "count": 9
     },
     {
@@ -94,27 +78,47 @@
       "count": 9
     },
     {
-      "term": "通し",
+      "term": "より",
+      "count": 9
+    },
+    {
+      "term": "が ",
+      "count": 9
+    },
+    {
+      "term": "存物",
+      "count": 9
+    },
+    {
+      "term": "アク",
+      "count": 9
+    },
+    {
+      "term": "with",
+      "count": 9
+    },
+    {
+      "term": "ラン",
       "count": 8
     },
     {
-      "term": "及び",
+      "term": "用い",
       "count": 8
     },
     {
-      "term": "にも",
+      "term": "リス",
       "count": 8
     },
     {
-      "term": "sbom",
+      "term": "ソフ",
       "count": 8
     },
     {
-      "term": "はな",
+      "term": "トウ",
       "count": 8
     },
     {
-      "term": "ルで",
+      "term": "れて",
       "count": 8
     },
     {
@@ -122,83 +126,79 @@
       "count": 7
     },
     {
-      "term": "バイナリ",
+      "term": "連携",
       "count": 7
     },
     {
-      "term": "ムチーム",
+      "term": "成さ",
       "count": 7
     },
     {
-      "term": "トフォー",
+      "term": "がある",
       "count": 7
     },
     {
-      "term": "ンb",
+      "term": "図 ",
       "count": 7
     },
     {
-      "term": "ーと",
+      "term": "とは",
       "count": 7
     },
     {
-      "term": "login",
-      "count": 7
+      "term": "を示",
+      "count": 6
+    },
+    {
+      "term": "ショ",
+      "count": 6
+    },
+    {
+      "term": "ェー",
+      "count": 6
+    },
+    {
+      "term": "ソフトウ",
+      "count": 6
     },
     {
       "term": "スを",
       "count": 6
     },
     {
-      "term": "提供",
+      "term": "得し",
       "count": 6
     },
     {
-      "term": "ャン",
+      "term": "codebuild",
       "count": 6
     },
     {
-      "term": "省略",
+      "term": "対す",
       "count": 6
     },
     {
-      "term": "tf",
+      "term": "書で",
       "count": 6
     },
     {
-      "term": "true",
+      "term": "完全",
       "count": 6
     },
     {
-      "term": "はパ",
+      "term": "repository",
       "count": 6
     },
     {
-      "term": "用者",
+      "term": "file",
+      "count": 6
+    },
+    {
+      "term": "実装",
       "count": 5
     },
     {
-      "term": "infrastructure",
-      "count": 5
-    },
-    {
-      "term": "シナ",
-      "count": 5
-    },
-    {
-      "term": "保 ",
-      "count": 5
-    },
-    {
-      "term": "する",
-      "count": 5
-    },
-    {
-      "term": "ソフトウ",
-      "count": 5
-    },
-    {
-      "term": "よっ",
+      "term": "ロー",
       "count": 5
     }
   ],

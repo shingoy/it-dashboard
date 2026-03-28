@@ -2,7 +2,15 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "共有",
+      "term": "を活",
+      "count": 3
+    },
+    {
+      "term": "マッ",
+      "count": 3
+    },
+    {
+      "term": "連携",
       "count": 3
     },
     {
@@ -10,59 +18,27 @@
       "count": 3
     },
     {
-      "term": "討 ",
+      "term": "ン ",
       "count": 3
     },
     {
-      "term": "月 ",
+      "term": "実装",
       "count": 3
     },
     {
-      "term": "イメージ",
+      "term": "動向",
       "count": 3
     },
     {
-      "term": "ジーマッ",
-      "count": 3
-    },
-    {
-      "term": "等を",
-      "count": 3
-    },
-    {
-      "term": "ジー",
-      "count": 3
-    },
-    {
-      "term": "ノロ",
-      "count": 3
-    },
-    {
-      "term": "コンソー",
+      "term": "指す",
       "count": 2
     },
     {
-      "term": "びか",
+      "term": "個別",
       "count": 2
     },
     {
-      "term": "プや",
-      "count": 2
-    },
-    {
-      "term": "ソーシア",
-      "count": 2
-    },
-    {
-      "term": "向コ",
-      "count": 2
-    },
-    {
-      "term": "等 ",
-      "count": 2
-    },
-    {
-      "term": "か ",
+      "term": "10",
       "count": 2
     },
     {
@@ -70,23 +46,51 @@
       "count": 2
     },
     {
-      "term": "日 ",
+      "term": "目的",
       "count": 2
     },
     {
-      "term": "る課",
+      "term": "明参",
       "count": 2
     },
     {
-      "term": "め ",
+      "term": "携し",
       "count": 2
     },
     {
-      "term": "の実証状",
+      "term": "利活用方",
       "count": 2
     },
     {
-      "term": "発信",
+      "term": "regtech",
+      "count": 2
+    },
+    {
+      "term": "アナログ",
+      "count": 2
+    },
+    {
+      "term": "ナロ",
+      "count": 2
+    },
+    {
+      "term": "を検討",
+      "count": 2
+    },
+    {
+      "term": "発力",
+      "count": 2
+    },
+    {
+      "term": "らへ",
+      "count": 2
+    },
+    {
+      "term": "検証",
+      "count": 2
+    },
+    {
+      "term": "を共",
       "count": 2
     },
     {
@@ -94,35 +98,39 @@
       "count": 2
     },
     {
+      "term": "把握",
+      "count": 2
+    },
+    {
+      "term": "ジウ",
+      "count": 2
+    },
+    {
+      "term": "を広",
+      "count": 2
+    },
+    {
+      "term": "催を",
+      "count": 2
+    },
+    {
+      "term": "結果",
+      "count": 2
+    },
+    {
+      "term": "を共有",
+      "count": 2
+    },
+    {
       "term": "まえた規",
       "count": 2
     },
     {
-      "term": "速報",
+      "term": "の実",
       "count": 2
     },
     {
-      "term": "の具",
-      "count": 2
-    },
-    {
-      "term": "踏ま",
-      "count": 2
-    },
-    {
-      "term": "えた",
-      "count": 2
-    },
-    {
-      "term": "ム開",
-      "count": 2
-    },
-    {
-      "term": "他省庁等",
-      "count": 2
-    },
-    {
-      "term": "通じ",
+      "term": "構築",
       "count": 2
     },
     {
@@ -130,27 +138,47 @@
       "count": 2
     },
     {
-      "term": "告会",
+      "term": "の速",
       "count": 2
     },
     {
-      "term": "ュー",
+      "term": "務局",
       "count": 1
     },
     {
-      "term": "規模",
+      "term": "法人",
       "count": 1
     },
     {
-      "term": "直しに伴",
+      "term": "ジュ",
       "count": 1
     },
     {
-      "term": "獲得",
+      "term": "直しに活",
       "count": 1
     },
     {
-      "term": "案検",
+      "term": "産業",
+      "count": 1
+    },
+    {
+      "term": "同で",
+      "count": 1
+    },
+    {
+      "term": "社団",
+      "count": 1
+    },
+    {
+      "term": "有し",
+      "count": 1
+    },
+    {
+      "term": "捗状",
+      "count": 1
+    },
+    {
+      "term": "効果",
       "count": 1
     },
     {
@@ -158,47 +186,19 @@
       "count": 1
     },
     {
-      "term": "フォース",
+      "term": "に共",
       "count": 1
     },
     {
-      "term": "サポ",
+      "term": "る大",
       "count": 1
     },
     {
-      "term": "ーク化す",
+      "term": "者の",
       "count": 1
     },
     {
-      "term": "団法",
-      "count": 1
-    },
-    {
-      "term": "かを明ら",
-      "count": 1
-    },
-    {
-      "term": "省スター",
-      "count": 1
-    },
-    {
-      "term": "運営する",
-      "count": 1
-    },
-    {
-      "term": "の連携を",
-      "count": 1
-    },
-    {
-      "term": "よう",
-      "count": 1
-    },
-    {
-      "term": "シナ",
-      "count": 1
-    },
-    {
-      "term": "や課",
+      "term": "発力の更",
       "count": 1
     }
   ],
