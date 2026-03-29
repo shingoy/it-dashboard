@@ -2,47 +2,35 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "るこ",
-      "count": 24
+      "term": "イン",
+      "count": 22
     },
     {
-      "term": "構成",
-      "count": 21
-    },
-    {
-      "term": "物の",
-      "count": 17
-    },
-    {
-      "term": "actions",
-      "count": 17
-    },
-    {
-      "term": "ある",
-      "count": 17
-    },
-    {
-      "term": "には",
-      "count": 17
-    },
-    {
-      "term": "的な",
+      "term": "フォ",
       "count": 15
     },
     {
-      "term": "トフ",
-      "count": 15
-    },
-    {
-      "term": "デー",
-      "count": 14
-    },
-    {
-      "term": "られ",
+      "term": "よる",
       "count": 13
     },
     {
-      "term": "加え",
+      "term": "ーの",
+      "count": 12
+    },
+    {
+      "term": "こで",
+      "count": 12
+    },
+    {
+      "term": "ステ",
+      "count": 11
+    },
+    {
+      "term": "存物",
+      "count": 11
+    },
+    {
+      "term": "状態",
       "count": 11
     },
     {
@@ -50,95 +38,107 @@
       "count": 10
     },
     {
-      "term": "イメージ",
+      "term": "の ",
       "count": 10
     },
     {
-      "term": "push",
+      "term": "aws",
       "count": 10
     },
     {
-      "term": "build",
+      "term": "cat",
       "count": 10
     },
     {
-      "term": "のリ",
+      "term": "加え",
+      "count": 10
+    },
+    {
+      "term": "on",
+      "count": 10
+    },
+    {
+      "term": "リバ",
       "count": 9
     },
     {
-      "term": "より",
+      "term": "権限",
       "count": 9
     },
     {
-      "term": "ウェ",
+      "term": "安全",
       "count": 9
     },
     {
-      "term": "それ",
-      "count": 9
-    },
-    {
-      "term": "バー",
-      "count": 9
-    },
-    {
-      "term": "ーカ",
+      "term": "での実行",
       "count": 8
     },
     {
-      "term": "囲の",
+      "term": "スト",
       "count": 8
     },
     {
-      "term": "用い",
+      "term": "有の",
       "count": 8
     },
     {
-      "term": "自動",
+      "term": "ェッ",
+      "count": 8
+    },
+    {
+      "term": "があ",
+      "count": 8
+    },
+    {
+      "term": "を実",
+      "count": 8
+    },
+    {
+      "term": "能で",
+      "count": 8
+    },
+    {
+      "term": "リテ",
       "count": 7
     },
     {
-      "term": "すべ",
+      "term": "のc",
       "count": 7
     },
     {
-      "term": "plan",
+      "term": "ソースコ",
       "count": 7
     },
     {
-      "term": "にす",
+      "term": "定 ",
       "count": 7
     },
     {
-      "term": "トを",
+      "term": "定義",
       "count": 7
     },
     {
-      "term": "事項",
+      "term": "れば",
       "count": 7
     },
     {
-      "term": "など",
+      "term": "下の",
       "count": 7
     },
     {
-      "term": "対し",
+      "term": "ーと",
       "count": 7
     },
     {
-      "term": "ークレッ",
+      "term": "name",
       "count": 7
     },
     {
-      "term": "はg",
+      "term": "env",
       "count": 7
     },
     {
-      "term": "repository",
-      "count": 7
-    },
-    {
-      "term": "めに",
+      "term": "成 ",
       "count": 6
     },
     {
@@ -146,59 +146,59 @@
       "count": 6
     },
     {
-      "term": "した",
+      "term": "運用",
       "count": 6
     },
     {
-      "term": "デリバリ",
+      "term": "24",
       "count": 6
     },
     {
-      "term": "たコ",
+      "term": "スを",
       "count": 6
     },
     {
-      "term": "ンテナイ",
+      "term": "プロバイ",
       "count": 6
     },
     {
-      "term": "docker",
+      "term": "内の",
       "count": 6
     },
     {
-      "term": "ルー",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "とに",
-      "count": 5
+      "term": "供す",
+      "count": 6
     },
     {
-      "term": "対策",
-      "count": 5
+      "term": "カウ",
+      "count": 6
     },
     {
-      "term": "プ ",
-      "count": 5
+      "term": "省略する",
+      "count": 6
     },
     {
-      "term": "理す",
-      "count": 5
+      "term": "tf",
+      "count": 6
     },
     {
-      "term": "ソフトウ",
-      "count": 5
+      "term": "スク",
+      "count": 6
     },
     {
-      "term": "理下",
-      "count": 5
+      "term": "に加",
+      "count": 6
     },
     {
-      "term": "を検",
-      "count": 5
+      "term": "slsa",
+      "count": 6
     },
     {
-      "term": "れは",
+      "term": "ケー",
       "count": 5
     }
   ],
