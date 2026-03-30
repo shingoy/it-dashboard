@@ -2,195 +2,75 @@
   "month": "2026-02",
   "keywords": [
     {
-      "term": "を含",
+      "term": "の一",
       "count": 2
     },
     {
-      "term": "モデ",
+      "term": "援助",
       "count": 2
     },
     {
-      "term": "ジタ",
+      "term": "い方",
       "count": 2
     },
     {
-      "term": "ステ",
+      "term": "育成",
       "count": 2
     },
     {
-      "term": "な施",
+      "term": "離職者及",
       "count": 2
     },
     {
-      "term": "予算は四",
+      "term": "合は",
       "count": 2
     },
     {
-      "term": "特定",
+      "term": "億円",
       "count": 2
     },
     {
-      "term": "方針",
+      "term": "抽出",
       "count": 2
     },
     {
-      "term": "の４",
+      "term": "複数の方",
       "count": 2
     },
     {
-      "term": "フォ",
+      "term": "に含",
       "count": 2
     },
     {
-      "term": "デル",
+      "term": "困難な施",
       "count": 2
     },
     {
-      "term": "事業",
+      "term": "進等",
       "count": 2
     },
     {
-      "term": "注３",
+      "term": "を抽",
       "count": 2
     },
     {
-      "term": "盤モ",
+      "term": "決定",
       "count": 2
     },
     {
-      "term": "タ活",
+      "term": "の促",
+      "count": 2
+    },
+    {
+      "term": "成離",
+      "count": 2
+    },
+    {
+      "term": "年度",
       "count": 1
     },
     {
-      "term": "る研",
-      "count": 1
-    },
-    {
-      "term": "の研究開",
-      "count": 1
-    },
-    {
-      "term": "ラミ",
-      "count": 1
-    },
-    {
-      "term": "活用の実",
-      "count": 1
-    },
-    {
-      "term": "人材の育",
-      "count": 1
-    },
-    {
-      "term": "その他",
-      "count": 1
-    },
-    {
-      "term": "価技術の",
-      "count": 1
-    },
-    {
-      "term": "ファイン",
-      "count": 1
-    },
-    {
-      "term": "技術",
-      "count": 1
-    },
-    {
-      "term": "高度",
-      "count": 1
-    },
-    {
-      "term": "総 ",
-      "count": 1
-    },
-    {
-      "term": "約２",
-      "count": 1
-    },
-    {
-      "term": "活動",
-      "count": 1
-    },
-    {
-      "term": "サイバー",
-      "count": 1
-    },
-    {
-      "term": "ナタ",
-      "count": 1
-    },
-    {
-      "term": "や介",
-      "count": 1
-    },
-    {
-      "term": "導入",
-      "count": 1
-    },
-    {
-      "term": "性向上の",
-      "count": 1
-    },
-    {
-      "term": "ンス",
-      "count": 1
-    },
-    {
-      "term": "究向",
-      "count": 1
-    },
-    {
-      "term": "ロード",
-      "count": 1
-    },
-    {
-      "term": "イン",
-      "count": 1
-    },
-    {
-      "term": "ィン",
-      "count": 1
-    },
-    {
-      "term": "める",
-      "count": 1
-    },
-    {
-      "term": "造プロセ",
-      "count": 1
-    },
-    {
-      "term": "イパフォ",
-      "count": 1
-    },
-    {
-      "term": "震動",
-      "count": 1
-    },
-    {
-      "term": "た地震活",
-      "count": 1
-    },
-    {
-      "term": "測シ",
-      "count": 1
-    },
-    {
-      "term": "びシステ",
-      "count": 1
-    },
-    {
-      "term": "社会に向",
-      "count": 1
-    },
-    {
-      "term": "動評",
-      "count": 1
-    },
-    {
-      "term": "案額",
+      "term": "ー対",
       "count": 1
     },
     {
@@ -198,7 +78,127 @@
       "count": 1
     },
     {
-      "term": "の充",
+      "term": "を高める",
+      "count": 1
+    },
+    {
+      "term": "を高",
+      "count": 1
+    },
+    {
+      "term": "に関する",
+      "count": 1
+    },
+    {
+      "term": "権制",
+      "count": 1
+    },
+    {
+      "term": "ーダ",
+      "count": 1
+    },
+    {
+      "term": "の研",
+      "count": 1
+    },
+    {
+      "term": "額1",
+      "count": 1
+    },
+    {
+      "term": "無人",
+      "count": 1
+    },
+    {
+      "term": "ル構築の",
+      "count": 1
+    },
+    {
+      "term": "モデルの",
+      "count": 1
+    },
+    {
+      "term": "イン",
+      "count": 1
+    },
+    {
+      "term": "の積",
+      "count": 1
+    },
+    {
+      "term": "総 ",
+      "count": 1
+    },
+    {
+      "term": "的強",
+      "count": 1
+    },
+    {
+      "term": "ロー",
+      "count": 1
+    },
+    {
+      "term": "生成",
+      "count": 1
+    },
+    {
+      "term": "証厚",
+      "count": 1
+    },
+    {
+      "term": "げる",
+      "count": 1
+    },
+    {
+      "term": "発支援",
+      "count": 1
+    },
+    {
+      "term": "進文",
+      "count": 1
+    },
+    {
+      "term": "高度化",
+      "count": 1
+    },
+    {
+      "term": "を活用し",
+      "count": 1
+    },
+    {
+      "term": "震動",
+      "count": 1
+    },
+    {
+      "term": "クスの製",
+      "count": 1
+    },
+    {
+      "term": "向上",
+      "count": 1
+    },
+    {
+      "term": "半導",
+      "count": 1
+    },
+    {
+      "term": "ロジ",
+      "count": 1
+    },
+    {
+      "term": "農約",
+      "count": 1
+    },
+    {
+      "term": "559",
+      "count": 1
+    },
+    {
+      "term": "円ス",
+      "count": 1
+    },
+    {
+      "term": "人材の育",
       "count": 1
     }
   ],
