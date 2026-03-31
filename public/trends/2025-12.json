@@ -2,95 +2,47 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "ドラ",
+      "term": "強靱",
       "count": 2
     },
     {
-      "term": "究 ",
+      "term": "化 ",
       "count": 2
     },
     {
-      "term": "ケー",
+      "term": "性の",
       "count": 2
     },
     {
-      "term": "に資",
+      "term": "によ",
       "count": 2
     },
     {
-      "term": "等 ",
+      "term": "世代",
       "count": 2
     },
     {
-      "term": "フラ",
+      "term": "ジカ",
       "count": 2
     },
     {
-      "term": "ハイ",
+      "term": "ショ",
       "count": 2
     },
     {
-      "term": "める",
-      "count": 2
-    },
-    {
-      "term": "フィ",
-      "count": 2
-    },
-    {
-      "term": "評価",
-      "count": 2
-    },
-    {
-      "term": "創出推進",
+      "term": "は最",
       "count": 1
     },
     {
-      "term": "に向",
+      "term": "小項",
       "count": 1
     },
     {
-      "term": "を実現す",
+      "term": "と協",
       "count": 1
     },
     {
-      "term": "金融",
-      "count": 1
-    },
-    {
-      "term": "の促",
-      "count": 1
-    },
-    {
-      "term": "ず ",
-      "count": 1
-    },
-    {
-      "term": "トａ",
-      "count": 1
-    },
-    {
-      "term": "間での",
-      "count": 1
-    },
-    {
-      "term": "ム新",
-      "count": 1
-    },
-    {
-      "term": "針に分類",
-      "count": 1
-    },
-    {
-      "term": "現す",
-      "count": 1
-    },
-    {
-      "term": "シス",
-      "count": 1
-    },
-    {
-      "term": "502",
+      "term": "的推",
       "count": 1
     },
     {
@@ -98,91 +50,19 @@
       "count": 1
     },
     {
-      "term": "規模",
+      "term": "ロボ",
       "count": 1
     },
     {
-      "term": "閣議",
+      "term": "と協働す",
       "count": 1
     },
     {
-      "term": "い方",
+      "term": "農ス",
       "count": 1
     },
     {
-      "term": "370",
-      "count": 1
-    },
-    {
-      "term": "との予算",
-      "count": 1
-    },
-    {
-      "term": "分散",
-      "count": 1
-    },
-    {
-      "term": "関の",
-      "count": 1
-    },
-    {
-      "term": "バル",
-      "count": 1
-    },
-    {
-      "term": "の推進等",
-      "count": 1
-    },
-    {
-      "term": "ンス",
-      "count": 1
-    },
-    {
-      "term": "ai",
-      "count": 1
-    },
-    {
-      "term": "460",
-      "count": 1
-    },
-    {
-      "term": "犯罪",
-      "count": 1
-    },
-    {
-      "term": "スト",
-      "count": 1
-    },
-    {
-      "term": "化対策",
-      "count": 1
-    },
-    {
-      "term": "まえ",
-      "count": 1
-    },
-    {
-      "term": "入等",
-      "count": 1
-    },
-    {
-      "term": "オー",
-      "count": 1
-    },
-    {
-      "term": "ボの",
-      "count": 1
-    },
-    {
-      "term": "ーブ",
-      "count": 1
-    },
-    {
-      "term": "ナン",
-      "count": 1
-    },
-    {
-      "term": "中小企業",
+      "term": "進新",
       "count": 1
     },
     {
@@ -190,15 +70,135 @@
       "count": 1
     },
     {
-      "term": "算額",
+      "term": "ボッ",
       "count": 1
     },
     {
-      "term": "ける",
+      "term": "ノロジー",
       "count": 1
     },
     {
-      "term": "実証",
+      "term": "発力",
+      "count": 1
+    },
+    {
+      "term": "た建設現",
+      "count": 1
+    },
+    {
+      "term": "最も関係",
+      "count": 1
+    },
+    {
+      "term": "施行",
+      "count": 1
+    },
+    {
+      "term": "閣議",
+      "count": 1
+    },
+    {
+      "term": "スク",
+      "count": 1
+    },
+    {
+      "term": "脳循",
+      "count": 1
+    },
+    {
+      "term": "困難",
+      "count": 1
+    },
+    {
+      "term": "との",
+      "count": 1
+    },
+    {
+      "term": "小企",
+      "count": 1
+    },
+    {
+      "term": "活用",
+      "count": 1
+    },
+    {
+      "term": "の積",
+      "count": 1
+    },
+    {
+      "term": "けた継続",
+      "count": 1
+    },
+    {
+      "term": "現す",
+      "count": 1
+    },
+    {
+      "term": "けた",
+      "count": 1
+    },
+    {
+      "term": "まず",
+      "count": 1
+    },
+    {
+      "term": "価手",
+      "count": 1
+    },
+    {
+      "term": "た次",
+      "count": 1
+    },
+    {
+      "term": "のデータ",
+      "count": 1
+    },
+    {
+      "term": "グロ",
+      "count": 1
+    },
+    {
+      "term": "35",
+      "count": 1
+    },
+    {
+      "term": "頭脳",
+      "count": 1
+    },
+    {
+      "term": "校現",
+      "count": 1
+    },
+    {
+      "term": "まえ",
+      "count": 1
+    },
+    {
+      "term": "ィン",
+      "count": 1
+    },
+    {
+      "term": "億円の内",
+      "count": 1
+    },
+    {
+      "term": "続的",
+      "count": 1
+    },
+    {
+      "term": "リスク対",
+      "count": 1
+    },
+    {
+      "term": "ット",
+      "count": 1
+    },
+    {
+      "term": "名流",
+      "count": 1
+    },
+    {
+      "term": "ルａ",
       "count": 1
     }
   ],
