@@ -2,91 +2,91 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "した",
-      "count": 24
-    },
-    {
-      "term": "ため",
-      "count": 22
-    },
-    {
-      "term": "その",
-      "count": 21
-    },
-    {
-      "term": "であ",
-      "count": 18
-    },
-    {
-      "term": "では",
-      "count": 17
-    },
-    {
-      "term": "によ",
-      "count": 16
-    },
-    {
-      "term": "ーク",
-      "count": 15
-    },
-    {
-      "term": "必要",
-      "count": 15
-    },
-    {
-      "term": "性の",
-      "count": 14
+      "term": "ライ",
+      "count": 23
     },
     {
       "term": "ット",
+      "count": 20
+    },
+    {
+      "term": "では",
+      "count": 19
+    },
+    {
+      "term": "保護",
+      "count": 18
+    },
+    {
+      "term": "いて",
       "count": 14
     },
     {
-      "term": "安全",
-      "count": 13
+      "term": "ドフ",
+      "count": 14
     },
     {
-      "term": "id",
-      "count": 13
+      "term": "ルを",
+      "count": 14
     },
     {
-      "term": "ては",
+      "term": "ンを",
       "count": 12
     },
     {
-      "term": "サービス",
+      "term": "シー",
+      "count": 12
+    },
+    {
+      "term": "ファイル",
+      "count": 12
+    },
+    {
+      "term": "につ",
       "count": 11
     },
     {
-      "term": "はな",
+      "term": "安全性の",
       "count": 11
     },
     {
-      "term": "具体",
+      "term": "チェ",
+      "count": 11
+    },
+    {
+      "term": "のメ",
+      "count": 11
+    },
+    {
+      "term": "の実",
       "count": 10
     },
     {
-      "term": "を含",
+      "term": "コンテナ",
       "count": 10
     },
     {
-      "term": "ここ",
+      "term": "jobs",
       "count": 10
     },
     {
-      "term": "build",
-      "count": 10
-    },
-    {
-      "term": "デリ",
+      "term": "確保",
       "count": 9
     },
     {
-      "term": "git",
+      "term": "の制",
       "count": 9
     },
     {
-      "term": "アク",
+      "term": "た ",
+      "count": 9
+    },
+    {
+      "term": "ンの",
+      "count": 9
+    },
+    {
+      "term": "のア",
       "count": 9
     },
     {
@@ -94,112 +94,112 @@
       "count": 9
     },
     {
+      "term": "通し",
+      "count": 8
+    },
+    {
+      "term": "ョン",
+      "count": 8
+    },
+    {
+      "term": "定内",
+      "count": 8
+    },
+    {
       "term": "フェーズ",
       "count": 8
     },
     {
-      "term": "スク",
+      "term": "物を",
       "count": 8
     },
     {
-      "term": "メタデー",
+      "term": "ソフ",
       "count": 8
     },
     {
-      "term": "キー",
+      "term": "下の",
+      "count": 8
+    },
+    {
+      "term": "らの",
+      "count": 8
+    },
+    {
+      "term": "の対",
+      "count": 8
+    },
+    {
+      "term": "システム",
       "count": 7
     },
     {
-      "term": "考えられ",
+      "term": "ムの",
       "count": 7
     },
     {
-      "term": "省略",
+      "term": "るま",
       "count": 7
     },
     {
-      "term": "rulesets",
+      "term": "自動",
       "count": 7
     },
     {
-      "term": "可能であ",
+      "term": "の担",
       "count": 7
     },
     {
-      "term": "ショ",
+      "term": "にす",
+      "count": 7
+    },
+    {
+      "term": "ない",
+      "count": 7
+    },
+    {
+      "term": "type",
+      "count": 7
+    },
+    {
+      "term": "詳細",
       "count": 6
     },
     {
-      "term": "ン ",
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "フェ",
+      "term": "の漏洩対",
       "count": 6
     },
     {
-      "term": "の保護",
+      "term": "ェーズの",
       "count": 6
     },
     {
-      "term": "たコ",
+      "term": "等の",
       "count": 6
     },
     {
-      "term": "ムに",
+      "term": "の署",
       "count": 6
     },
     {
-      "term": "アッ",
+      "term": "ンテナイ",
       "count": 6
     },
     {
-      "term": "ても",
+      "term": "トを",
       "count": 6
     },
     {
-      "term": "をも",
-      "count": 5
+      "term": "対象",
+      "count": 6
     },
     {
-      "term": "む運",
-      "count": 5
-    },
-    {
-      "term": "に関",
-      "count": 5
-    },
-    {
-      "term": "証跡",
-      "count": 5
-    },
-    {
-      "term": "とを",
-      "count": 5
-    },
-    {
-      "term": "リ時",
-      "count": 5
-    },
-    {
-      "term": "てc",
-      "count": 5
-    },
-    {
-      "term": "準拠",
-      "count": 5
-    },
-    {
-      "term": "で ",
-      "count": 5
-    },
-    {
-      "term": "体的には",
-      "count": 5
-    },
-    {
-      "term": "を保",
-      "count": 5
+      "term": "状態",
+      "count": 6
     }
   ],
   "meetings": [
