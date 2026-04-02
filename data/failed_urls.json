@@ -2,26 +2,26 @@
   {
     "url": "https://www8.cao.go.jp/cstp/togo/index.html",
     "error": "404 Client Error: Not Found for url: https://www8.cao.go.jp/cstp/togo/index.html",
-    "timestamp": "2026-04-02T10:05:27.413489"
+    "timestamp": "2026-04-02T21:29:28.992869"
   },
   {
     "url": "https://www.meti.go.jp/shingikai/mono_info_service/digital_sangyo/index.html",
     "error": "HTTPSConnectionPool(host='www.meti.go.jp', port=443): Read timed out. (read timeout=10)",
-    "timestamp": "2026-04-02T10:05:50.744487"
+    "timestamp": "2026-04-02T21:29:52.594241"
   },
   {
     "url": "https://www.meti.go.jp/policy/it_policy/dx/index.html",
     "error": "HTTPSConnectionPool(host='www.meti.go.jp', port=443): Read timed out. (read timeout=10)",
-    "timestamp": "2026-04-02T10:06:12.296405"
+    "timestamp": "2026-04-02T21:30:14.262624"
   },
   {
     "url": "https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_00002.html",
     "error": "404 Client Error: Not Found for url: https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_00002.html",
-    "timestamp": "2026-04-02T10:06:16.179571"
+    "timestamp": "2026-04-02T21:30:18.034047"
   },
   {
     "url": "https://cio.go.jp/",
     "error": "HTTPSConnectionPool(host='cio.go.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='cio.go.jp', port=443): Failed to resolve 'cio.go.jp' ([Errno -2] Name or service not known)\"))",
-    "timestamp": "2026-04-02T10:06:19.321279"
+    "timestamp": "2026-04-02T21:30:21.064986"
   }
 ]
