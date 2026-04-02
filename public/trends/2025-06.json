@@ -2,175 +2,147 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ード",
-      "count": 21
-    },
-    {
-      "term": "てい",
-      "count": 18
-    },
-    {
-      "term": "ーク",
-      "count": 15
-    },
-    {
-      "term": "ラッ",
-      "count": 15
-    },
-    {
-      "term": "安全",
-      "count": 14
-    },
-    {
-      "term": "ため",
-      "count": 14
-    },
-    {
-      "term": "ンを",
-      "count": 13
-    },
-    {
-      "term": "の成",
-      "count": 13
-    },
-    {
-      "term": "図 ",
-      "count": 11
-    },
-    {
-      "term": "存物",
-      "count": 11
-    },
-    {
-      "term": "取得",
-      "count": 11
-    },
-    {
-      "term": "これ",
-      "count": 11
-    },
-    {
-      "term": "ナリ",
-      "count": 10
-    },
-    {
-      "term": "メン",
-      "count": 10
-    },
-    {
-      "term": "保 ",
-      "count": 10
+      "term": "る ",
+      "count": 28
     },
     {
       "term": "ット",
+      "count": 20
+    },
+    {
+      "term": "リポ",
+      "count": 20
+    },
+    {
+      "term": "では",
+      "count": 19
+    },
+    {
+      "term": "チー",
+      "count": 18
+    },
+    {
+      "term": "いる",
+      "count": 17
+    },
+    {
+      "term": "する",
+      "count": 16
+    },
+    {
+      "term": "ムチ",
+      "count": 15
+    },
+    {
+      "term": "コー",
+      "count": 15
+    },
+    {
+      "term": "およ",
+      "count": 15
+    },
+    {
+      "term": "イン",
+      "count": 15
+    },
+    {
+      "term": "があ",
+      "count": 14
+    },
+    {
+      "term": "る必",
+      "count": 14
+    },
+    {
+      "term": "略 ",
+      "count": 14
+    },
+    {
+      "term": "変更",
+      "count": 12
+    },
+    {
+      "term": "ラッ",
+      "count": 12
+    },
+    {
+      "term": "チームの",
+      "count": 11
+    },
+    {
+      "term": "れら",
+      "count": 11
+    },
+    {
+      "term": "状態",
       "count": 10
     },
     {
-      "term": "中略",
+      "term": "sbom",
       "count": 10
-    },
-    {
-      "term": "実行",
-      "count": 10
-    },
-    {
-      "term": "に ",
-      "count": 9
-    },
-    {
-      "term": "にも",
-      "count": 9
-    },
-    {
-      "term": "内で",
-      "count": 9
-    },
-    {
-      "term": "成さ",
-      "count": 9
-    },
-    {
-      "term": "のア",
-      "count": 9
-    },
-    {
-      "term": "image",
-      "count": 9
-    },
-    {
-      "term": "主体",
-      "count": 8
-    },
-    {
-      "term": "特有",
-      "count": 8
-    },
-    {
-      "term": "トウ",
-      "count": 8
-    },
-    {
-      "term": "の担",
-      "count": 8
-    },
-    {
-      "term": "ンa",
-      "count": 8
-    },
-    {
-      "term": "runs",
-      "count": 8
     },
     {
       "term": "トフ",
+      "count": 9
+    },
+    {
+      "term": "に対",
+      "count": 9
+    },
+    {
+      "term": "provenance",
+      "count": 9
+    },
+    {
+      "term": "アク",
+      "count": 9
+    },
+    {
+      "term": "のリ",
+      "count": 8
+    },
+    {
+      "term": "って",
+      "count": 8
+    },
+    {
+      "term": "本書",
+      "count": 8
+    },
+    {
+      "term": "スの",
+      "count": 8
+    },
+    {
+      "term": "トを",
+      "count": 8
+    },
+    {
+      "term": "共通",
       "count": 7
     },
     {
-      "term": "スト",
+      "term": "利用",
       "count": 7
     },
     {
-      "term": "ソフ",
+      "term": "対し",
       "count": 7
     },
     {
-      "term": "version",
+      "term": "略す",
       "count": 7
     },
     {
-      "term": "もの",
+      "term": "ークレッ",
       "count": 7
     },
     {
-      "term": "docker",
-      "count": 7
-    },
-    {
-      "term": "下の",
-      "count": 7
-    },
-    {
-      "term": "連携",
-      "count": 7
-    },
-    {
-      "term": "省略",
-      "count": 7
-    },
-    {
-      "term": "ポジ",
-      "count": 7
-    },
-    {
-      "term": "成 ",
+      "term": "ロバ",
       "count": 6
     },
     {
-      "term": "詳細",
-      "count": 6
-    },
-    {
-      "term": "保護",
+      "term": "等の",
       "count": 6
     },
     {
@@ -178,28 +150,56 @@
       "count": 6
     },
     {
-      "term": "プロバイ",
+      "term": "成果物の",
       "count": 6
     },
     {
-      "term": "アカ",
+      "term": "たコ",
       "count": 6
     },
     {
-      "term": "ジと",
+      "term": "ムに",
       "count": 6
     },
     {
-      "term": "複数",
+      "term": "用可",
       "count": 6
     },
     {
-      "term": "codebuild",
+      "term": "and",
       "count": 6
     },
     {
-      "term": "方法",
+      "term": "predicate",
       "count": 6
+    },
+    {
+      "term": "産管",
+      "count": 5
+    },
+    {
+      "term": "資産管理",
+      "count": 5
+    },
+    {
+      "term": "トは",
+      "count": 5
+    },
+    {
+      "term": "とす",
+      "count": 5
+    },
+    {
+      "term": "頼性",
+      "count": 5
+    },
+    {
+      "term": "ロー",
+      "count": 5
+    },
+    {
+      "term": "理す",
+      "count": 5
     }
   ],
   "meetings": [
