@@ -2,107 +2,99 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ール",
-      "count": 20
+      "term": "きる",
+      "count": 23
     },
     {
-      "term": "管理",
-      "count": 18
+      "term": "れる",
+      "count": 23
     },
     {
-      "term": "トリ",
-      "count": 15
+      "term": "ルド",
+      "count": 19
     },
     {
-      "term": "必要",
-      "count": 15
-    },
-    {
-      "term": "って",
-      "count": 14
-    },
-    {
-      "term": "スチ",
-      "count": 14
-    },
-    {
-      "term": "ルを",
-      "count": 14
-    },
-    {
-      "term": "生成",
-      "count": 13
+      "term": "aws",
+      "count": 17
     },
     {
       "term": "メタ",
+      "count": 15
+    },
+    {
+      "term": "いて",
+      "count": 14
+    },
+    {
+      "term": "に ",
+      "count": 14
+    },
+    {
+      "term": "があ",
+      "count": 14
+    },
+    {
+      "term": "中略",
+      "count": 14
+    },
+    {
+      "term": "ンを",
       "count": 13
     },
     {
-      "term": "id",
+      "term": "とで",
       "count": 13
     },
     {
-      "term": "えら",
-      "count": 11
+      "term": "クレ",
+      "count": 12
     },
     {
-      "term": "定す",
+      "term": "ファイル",
+      "count": 12
+    },
+    {
+      "term": "こで",
+      "count": 12
+    },
+    {
+      "term": "性を",
       "count": 10
     },
     {
-      "term": "git",
-      "count": 10
-    },
-    {
-      "term": "イメージ",
-      "count": 10
-    },
-    {
-      "term": "セス",
-      "count": 10
-    },
-    {
-      "term": "る具",
-      "count": 10
-    },
-    {
-      "term": "env",
-      "count": 10
-    },
-    {
-      "term": "に関",
+      "term": "性管",
       "count": 9
     },
     {
-      "term": "の制",
+      "term": "信頼",
       "count": 9
     },
     {
-      "term": "依存物の",
+      "term": "ェア",
       "count": 9
     },
     {
-      "term": "用す",
+      "term": "ンの",
       "count": 9
     },
     {
-      "term": "成さ",
+      "term": "そのため",
       "count": 9
     },
     {
-      "term": "への",
+      "term": "クを",
       "count": 9
     },
     {
-      "term": "テム",
+      "term": "リポ",
       "count": 8
     },
     {
-      "term": "用い",
+      "term": "書で",
       "count": 8
     },
     {
-      "term": "バイ",
+      "term": "るそ",
       "count": 8
     },
     {
@@ -110,95 +102,103 @@
       "count": 8
     },
     {
-      "term": "キャ",
+      "term": "メタデー",
       "count": 8
     },
     {
-      "term": "のよ",
-      "count": 8
-    },
-    {
-      "term": "outputs",
-      "count": 8
-    },
-    {
-      "term": "の漏",
+      "term": "システム",
       "count": 7
     },
     {
-      "term": "る主",
+      "term": "イナ",
       "count": 7
     },
     {
-      "term": "17",
+      "term": "ーテ",
       "count": 7
     },
     {
-      "term": "自動",
+      "term": "と同",
       "count": 7
     },
     {
-      "term": "物を",
-      "count": 7
-    },
-    {
-      "term": "囲の",
-      "count": 7
-    },
-    {
-      "term": "ップ",
-      "count": 7
-    },
-    {
-      "term": "省略",
-      "count": 7
-    },
-    {
-      "term": "い ",
-      "count": 7
-    },
-    {
-      "term": "図 ",
-      "count": 7
-    },
-    {
-      "term": "キュ",
+      "term": "ット情報",
       "count": 6
     },
     {
-      "term": "はa",
+      "term": "を示",
       "count": 6
     },
     {
-      "term": "における",
+      "term": "ロバ",
       "count": 6
     },
     {
-      "term": "バイナリ",
+      "term": "ムに",
       "count": 6
     },
     {
-      "term": "供す",
+      "term": "方法",
       "count": 6
     },
     {
-      "term": "および",
+      "term": "cosign",
       "count": 6
     },
     {
-      "term": "repository",
+      "term": "策に",
       "count": 6
     },
     {
-      "term": "など",
+      "term": "rule",
       "count": 6
     },
     {
-      "term": "同様",
+      "term": "ルに",
       "count": 6
     },
     {
-      "term": "た信",
+      "term": "リの",
+      "count": 6
+    },
+    {
+      "term": "を実",
+      "count": 6
+    },
+    {
+      "term": "のア",
+      "count": 6
+    },
+    {
+      "term": "tf",
+      "count": 6
+    },
+    {
+      "term": "えて",
+      "count": 6
+    },
+    {
+      "term": "資産管理",
+      "count": 5
+    },
+    {
+      "term": "ロー",
+      "count": 5
+    },
+    {
+      "term": "ード",
+      "count": 5
+    },
+    {
+      "term": "そし",
+      "count": 5
+    },
+    {
+      "term": "れに",
+      "count": 5
+    },
+    {
+      "term": "を想",
       "count": 5
     }
   ],
