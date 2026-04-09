@@ -2,99 +2,67 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 27
+      "term": "るこ",
+      "count": 22
     },
     {
-      "term": "イプ",
-      "count": 21
-    },
-    {
-      "term": "てい",
+      "term": "その",
       "count": 19
-    },
-    {
-      "term": "保護",
-      "count": 18
-    },
-    {
-      "term": "name",
-      "count": 17
-    },
-    {
-      "term": "実行",
-      "count": 16
     },
     {
       "term": "れた",
       "count": 16
     },
     {
-      "term": "弱性",
+      "term": "よび",
       "count": 15
-    },
-    {
-      "term": "イメ",
-      "count": 15
-    },
-    {
-      "term": "内容",
-      "count": 14
-    },
-    {
-      "term": "なる",
-      "count": 14
-    },
-    {
-      "term": "ント",
-      "count": 12
     },
     {
       "term": "での",
+      "count": 14
+    },
+    {
+      "term": "ーズ",
+      "count": 14
+    },
+    {
+      "term": "とが",
+      "count": 13
+    },
+    {
+      "term": "ータ",
       "count": 12
     },
     {
-      "term": "る必",
-      "count": 12
-    },
-    {
-      "term": "こで",
-      "count": 12
+      "term": "ズの",
+      "count": 11
     },
     {
       "term": "のc",
       "count": 11
     },
     {
-      "term": "trivy",
+      "term": "はな",
       "count": 11
     },
     {
-      "term": "情報",
+      "term": "検証",
       "count": 10
     },
     {
-      "term": "ード",
+      "term": "build",
       "count": 10
     },
     {
-      "term": "定す",
-      "count": 10
-    },
-    {
-      "term": "要が",
-      "count": 10
-    },
-    {
-      "term": "jobs",
-      "count": 10
-    },
-    {
-      "term": "ック",
+      "term": "ビルドフ",
       "count": 9
     },
     {
-      "term": "ラン",
+      "term": "ナリ",
+      "count": 9
+    },
+    {
+      "term": "た ",
       "count": 9
     },
     {
@@ -102,39 +70,71 @@
       "count": 9
     },
     {
-      "term": "に対",
+      "term": "com",
       "count": 9
     },
     {
-      "term": "アク",
-      "count": 9
-    },
-    {
-      "term": "to",
-      "count": 9
-    },
-    {
-      "term": "リス",
+      "term": "フェーズ",
       "count": 8
     },
     {
-      "term": "ャン",
+      "term": "スク",
+      "count": 8
+    },
+    {
+      "term": "キャ",
+      "count": 8
+    },
+    {
+      "term": "ーカ",
       "count": 7
     },
     {
-      "term": "provenance",
+      "term": "あり",
       "count": 7
     },
     {
-      "term": "チの",
+      "term": "記述",
+      "count": 7
+    },
+    {
+      "term": "および",
+      "count": 7
+    },
+    {
+      "term": "ーと",
+      "count": 7
+    },
+    {
+      "term": "とは",
+      "count": 7
+    },
+    {
+      "term": "仕組",
+      "count": 7
+    },
+    {
+      "term": "成 ",
       "count": 6
     },
     {
-      "term": "28",
+      "term": "ンに",
       "count": 6
     },
     {
-      "term": "ルと",
+      "term": "組織",
+      "count": 6
+    },
+    {
+      "term": "フォーム",
+      "count": 6
+    },
+    {
+      "term": "リポ",
+      "count": 6
+    },
+    {
+      "term": "の保護",
       "count": 6
     },
     {
@@ -142,63 +142,63 @@
       "count": 6
     },
     {
-      "term": "対す",
+      "term": "codebuild",
       "count": 6
     },
     {
-      "term": "ここでは",
+      "term": "ンテナイ",
       "count": 6
     },
     {
-      "term": "うこ",
+      "term": "クト",
       "count": 6
     },
     {
-      "term": "対し",
+      "term": "amazon",
       "count": 6
     },
     {
-      "term": "image",
+      "term": "保で",
       "count": 6
     },
     {
-      "term": "た場",
+      "term": "省略",
       "count": 6
     },
     {
-      "term": "scanners",
+      "term": "図 ",
       "count": 6
     },
     {
-      "term": "守 ",
+      "term": "file",
+      "count": 6
+    },
+    {
+      "term": "ることが",
+      "count": 6
+    },
+    {
+      "term": "17",
+      "count": 6
+    },
+    {
+      "term": "predicate",
+      "count": 6
+    },
+    {
+      "term": "用者",
       "count": 5
     },
     {
-      "term": "証跡",
+      "term": "の漏",
       "count": 5
     },
     {
-      "term": "限 ",
+      "term": "キュ",
       "count": 5
     },
     {
-      "term": "ムは",
-      "count": 5
-    },
-    {
-      "term": "を必",
-      "count": 5
-    },
-    {
-      "term": "ecr",
-      "count": 5
-    },
-    {
-      "term": "ァイ",
-      "count": 5
-    },
-    {
-      "term": "registry",
+      "term": "プラット",
       "count": 5
     }
   ],
