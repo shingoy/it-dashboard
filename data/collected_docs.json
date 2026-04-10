@@ -713,5 +713,16 @@
     "date": "2023-07-04",
     "collected_at": "2026-03-31T10:09:36.982138",
     "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/4e0f3292ef79fa1c44cbf950295ee76e.pdf"
+  },
+  {
+    "id": "a1fe094b09de591b091f6697693357f6",
+    "meeting": "AI戦略会議",
+    "agency": "内閣府・内閣官房",
+    "title": "令和８年度予算（PDF形式：684KB）",
+    "url": "https://www8.cao.go.jp/cstp/ai/yosan_8nendo.pdf",
+    "file_type": "pdf",
+    "date": "2026-04-10",
+    "collected_at": "2026-04-10T10:11:02.955509",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/a1fe094b09de591b091f6697693357f6.pdf"
   }
 ]

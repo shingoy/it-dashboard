@@ -100,6 +100,16 @@
     "chunks_count": 42
   },
   {
+    "doc_id": "a1fe094b09de591b091f6697693357f6",
+    "meeting": "AI戦略会議",
+    "agency": "内閣府・内閣官房",
+    "title": "令和８年度予算（PDF形式：684KB）",
+    "date": "2026-04-10",
+    "url": "https://www8.cao.go.jp/cstp/ai/yosan_8nendo.pdf",
+    "pages": 1,
+    "chunks_count": 2
+  },
+  {
     "doc_id": "d719d1022abcf50e0dc7c34c1983623f",
     "meeting": "デジタル社会推進標準ガイドライン",
     "agency": "デジタル庁",
