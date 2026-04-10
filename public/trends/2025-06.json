@@ -2,11 +2,15 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "する",
+      "term": "きる",
       "count": 23
     },
     {
-      "term": "成果",
+      "term": "パイプラ",
+      "count": 20
+    },
+    {
+      "term": "ルド",
       "count": 19
     },
     {
@@ -14,67 +18,79 @@
       "count": 18
     },
     {
-      "term": "ci",
-      "count": 17
+      "term": "ージ",
+      "count": 18
     },
     {
-      "term": "によ",
-      "count": 16
+      "term": "リポジト",
+      "count": 18
     },
     {
-      "term": "性の",
+      "term": "コー",
+      "count": 15
+    },
+    {
+      "term": "に ",
+      "count": 15
+    },
+    {
+      "term": "の保",
+      "count": 15
+    },
+    {
+      "term": "イル",
+      "count": 15
+    },
+    {
+      "term": "から",
+      "count": 15
+    },
+    {
+      "term": "安全",
+      "count": 15
+    },
+    {
+      "term": "ータ",
+      "count": 15
+    },
+    {
+      "term": "中略",
       "count": 14
     },
     {
-      "term": "この",
-      "count": 14
-    },
-    {
-      "term": "ルを",
-      "count": 13
-    },
-    {
-      "term": "場合",
-      "count": 13
-    },
-    {
-      "term": "変更",
+      "term": "情報",
       "count": 12
     },
     {
-      "term": "とで",
-      "count": 12
-    },
-    {
-      "term": "要が",
+      "term": "とす",
       "count": 11
     },
     {
-      "term": "えら",
+      "term": "での",
       "count": 11
     },
     {
-      "term": "メー",
+      "term": "バー",
       "count": 11
     },
     {
-      "term": "シークレ",
+      "term": "クを",
+      "count": 11
+    },
+    {
+      "term": "脆弱",
       "count": 10
     },
     {
-      "term": "10",
+      "term": "コンテナ",
       "count": 10
     },
     {
-      "term": "jobs",
+      "term": "sbom",
       "count": 10
     },
     {
-      "term": "脆弱性管",
-      "count": 9
-    },
-    {
-      "term": "的な",
+      "term": "の担",
       "count": 9
     },
     {
@@ -82,99 +98,91 @@
       "count": 9
     },
     {
-      "term": "トウ",
+      "term": "れて",
       "count": 9
     },
     {
-      "term": "ョン",
+      "term": "範囲の制",
       "count": 8
     },
     {
-      "term": "ンチ",
+      "term": "主体",
       "count": 8
     },
     {
-      "term": "定内",
+      "term": "有の",
       "count": 8
     },
     {
-      "term": "物を",
+      "term": "サービス",
       "count": 8
     },
     {
-      "term": "ド上",
+      "term": "キャ",
       "count": 8
     },
     {
-      "term": "らの",
+      "term": "作成",
       "count": 8
     },
     {
-      "term": "トを",
+      "term": "が考",
       "count": 8
     },
     {
-      "term": "ローカル",
+      "term": "com",
+      "count": 8
+    },
+    {
+      "term": "のよ",
+      "count": 8
+    },
+    {
+      "term": "パイ",
       "count": 7
     },
     {
-      "term": "示す",
+      "term": "バリ",
       "count": 7
     },
     {
-      "term": "システム",
+      "term": "ェア",
       "count": 7
     },
     {
-      "term": "の仕",
+      "term": "ジを",
       "count": 7
     },
     {
-      "term": "リポジト",
+      "term": "内で",
       "count": 7
     },
     {
-      "term": "図 ",
+      "term": "digest",
       "count": 7
     },
     {
-      "term": "とは",
-      "count": 7
-    },
-    {
-      "term": "ット情報",
+      "term": "ci",
       "count": 6
     },
     {
-      "term": "ード管理",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "よる",
+      "term": "の署",
       "count": 6
     },
     {
-      "term": "24",
+      "term": "定義",
       "count": 6
     },
     {
-      "term": "28",
+      "term": "うこ",
       "count": 6
     },
     {
-      "term": "ス ",
-      "count": 6
-    },
-    {
-      "term": "ンテナイ",
-      "count": 6
-    },
-    {
-      "term": "いた",
-      "count": 6
-    },
-    {
-      "term": "の利",
+      "term": "の変",
       "count": 6
     },
     {
@@ -182,23 +190,15 @@
       "count": 6
     },
     {
-      "term": "容を",
+      "term": "review",
       "count": 6
     },
     {
-      "term": "tf",
-      "count": 6
+      "term": "ド ",
+      "count": 5
     },
     {
-      "term": "るs",
-      "count": 6
-    },
-    {
-      "term": "い ",
-      "count": 6
-    },
-    {
-      "term": "頼性",
+      "term": "性管",
       "count": 5
     }
   ],
