@@ -2,195 +2,75 @@
   "month": "2026-04",
   "keywords": [
     {
-      "term": "算額",
+      "term": "活用",
       "count": 2
     },
     {
-      "term": "応の",
+      "term": "五入",
       "count": 2
     },
     {
-      "term": "推進",
+      "term": "額に",
       "count": 2
     },
     {
-      "term": "的計",
+      "term": "分類",
       "count": 2
     },
     {
-      "term": "な施",
+      "term": "予算",
       "count": 2
     },
     {
-      "term": "ほか",
+      "term": "月全面施",
       "count": 2
     },
     {
-      "term": "盤モ",
+      "term": "業の",
       "count": 2
     },
     {
-      "term": "関係",
+      "term": "けて",
       "count": 2
     },
     {
-      "term": "る場",
+      "term": "約８",
       "count": 2
     },
     {
-      "term": "針に関係",
+      "term": "デル",
       "count": 2
     },
     {
-      "term": "の信頼性",
+      "term": "針に",
+      "count": 2
+    },
+    {
+      "term": "注２",
+      "count": 2
+    },
+    {
+      "term": "進等",
+      "count": 2
+    },
+    {
+      "term": "基盤技術",
       "count": 1
     },
     {
-      "term": "の開発等",
+      "term": "11",
       "count": 1
     },
     {
-      "term": "経や",
+      "term": "総 ",
       "count": 1
     },
     {
-      "term": "ーティン",
+      "term": "共用",
       "count": 1
     },
     {
-      "term": "なi",
-      "count": 1
-    },
-    {
-      "term": "測シ",
-      "count": 1
-    },
-    {
-      "term": "バー",
-      "count": 1
-    },
-    {
-      "term": "ロボ",
-      "count": 1
-    },
-    {
-      "term": "協働",
-      "count": 1
-    },
-    {
-      "term": "育成にお",
-      "count": 1
-    },
-    {
-      "term": "代コ",
-      "count": 1
-    },
-    {
-      "term": "マン",
-      "count": 1
-    },
-    {
-      "term": "ータ",
-      "count": 1
-    },
-    {
-      "term": "について",
-      "count": 1
-    },
-    {
-      "term": "思決",
-      "count": 1
-    },
-    {
-      "term": "据え",
-      "count": 1
-    },
-    {
-      "term": "コンテナ",
-      "count": 1
-    },
-    {
-      "term": "在職",
-      "count": 1
-    },
-    {
-      "term": "パフ",
-      "count": 1
-    },
-    {
-      "term": "年度",
-      "count": 1
-    },
-    {
-      "term": "主導",
-      "count": 1
-    },
-    {
-      "term": "担軽減",
-      "count": 1
-    },
-    {
-      "term": "基金の積",
-      "count": 1
-    },
-    {
-      "term": "ンピ",
-      "count": 1
-    },
-    {
-      "term": "内約",
-      "count": 1
-    },
-    {
-      "term": "性確",
-      "count": 1
-    },
-    {
-      "term": "な推",
-      "count": 1
-    },
-    {
-      "term": "連施",
-      "count": 1
-    },
-    {
-      "term": "産性",
-      "count": 1
-    },
-    {
-      "term": "年1",
-      "count": 1
-    },
-    {
-      "term": "価技術の",
-      "count": 1
-    },
-    {
-      "term": "ないが",
-      "count": 1
-    },
-    {
-      "term": "発や",
-      "count": 1
-    },
-    {
-      "term": "その他",
-      "count": 1
-    },
-    {
-      "term": "が産",
-      "count": 1
-    },
-    {
-      "term": "情報",
-      "count": 1
-    },
-    {
-      "term": "立９",
-      "count": 1
-    },
-    {
-      "term": "注３",
+      "term": "薬タ",
       "count": 1
     },
     {
@@ -198,7 +78,127 @@
       "count": 1
     },
     {
-      "term": "モデルの",
+      "term": "機器",
+      "count": 1
+    },
+    {
+      "term": "能力",
+      "count": 1
+    },
+    {
+      "term": "駆動オフ",
+      "count": 1
+    },
+    {
+      "term": "の積",
+      "count": 1
+    },
+    {
+      "term": "ムに関す",
+      "count": 1
+    },
+    {
+      "term": "実に向け",
+      "count": 1
+    },
+    {
+      "term": "の他",
+      "count": 1
+    },
+    {
+      "term": "権制",
+      "count": 1
+    },
+    {
+      "term": "な変",
+      "count": 1
+    },
+    {
+      "term": "マン",
+      "count": 1
+    },
+    {
+      "term": "報通",
+      "count": 1
+    },
+    {
+      "term": "用文",
+      "count": 1
+    },
+    {
+      "term": "の育",
+      "count": 1
+    },
+    {
+      "term": "業訓",
+      "count": 1
+    },
+    {
+      "term": "新 ",
+      "count": 1
+    },
+    {
+      "term": "や医療従",
+      "count": 1
+    },
+    {
+      "term": "明性",
+      "count": 1
+    },
+    {
+      "term": "フィジカ",
+      "count": 1
+    },
+    {
+      "term": "た建",
+      "count": 1
+    },
+    {
+      "term": "対す",
+      "count": 1
+    },
+    {
+      "term": "助成",
+      "count": 1
+    },
+    {
+      "term": "探索",
+      "count": 1
+    },
+    {
+      "term": "ビスの充",
+      "count": 1
+    },
+    {
+      "term": "スコ",
+      "count": 1
+    },
+    {
+      "term": "シス",
+      "count": 1
+    },
+    {
+      "term": "議決",
+      "count": 1
+    },
+    {
+      "term": "盤b",
+      "count": 1
+    },
+    {
+      "term": "デジ",
+      "count": 1
+    },
+    {
+      "term": "創薬ター",
+      "count": 1
+    },
+    {
+      "term": "hpci",
+      "count": 1
+    },
+    {
+      "term": "ナル",
       "count": 1
     }
   ],

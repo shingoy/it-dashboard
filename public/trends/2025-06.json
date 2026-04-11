@@ -2,99 +2,75 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "きる",
-      "count": 23
+      "term": "ある",
+      "count": 25
     },
     {
-      "term": "パイプラ",
+      "term": "ポジ",
       "count": 20
     },
     {
-      "term": "ルド",
+      "term": "設定",
       "count": 19
     },
     {
-      "term": "ーム",
+      "term": "リポ",
       "count": 18
     },
     {
-      "term": "ージ",
+      "term": "とし",
       "count": 18
     },
     {
-      "term": "リポジト",
-      "count": 18
-    },
-    {
-      "term": "コー",
-      "count": 15
-    },
-    {
-      "term": "に ",
-      "count": 15
-    },
-    {
-      "term": "の保",
-      "count": 15
-    },
-    {
-      "term": "イル",
-      "count": 15
-    },
-    {
-      "term": "から",
-      "count": 15
-    },
-    {
-      "term": "安全",
-      "count": 15
-    },
-    {
-      "term": "ータ",
-      "count": 15
-    },
-    {
-      "term": "中略",
+      "term": "スコ",
       "count": 14
     },
     {
-      "term": "情報",
+      "term": "弱性",
+      "count": 14
+    },
+    {
+      "term": "ービ",
+      "count": 14
+    },
+    {
+      "term": "ci",
       "count": 12
     },
     {
-      "term": "とす",
+      "term": "を取",
+      "count": 12
+    },
+    {
+      "term": "プラット",
       "count": 11
     },
     {
-      "term": "での",
+      "term": "ン ",
       "count": 11
     },
     {
-      "term": "バー",
+      "term": "安全",
       "count": 11
     },
     {
-      "term": "クを",
+      "term": "生成",
       "count": 11
     },
     {
-      "term": "脆弱",
+      "term": "中略",
+      "count": 11
+    },
+    {
+      "term": "ンチ",
       "count": 10
     },
     {
-      "term": "コンテナ",
+      "term": "検証",
       "count": 10
     },
     {
-      "term": "sbom",
-      "count": 10
-    },
-    {
-      "term": "の担",
-      "count": 9
-    },
-    {
-      "term": "リバ",
+      "term": "情報",
       "count": 9
     },
     {
@@ -102,67 +78,83 @@
       "count": 9
     },
     {
+      "term": "の確",
+      "count": 8
+    },
+    {
+      "term": "確保",
+      "count": 8
+    },
+    {
+      "term": "ソフ",
+      "count": 8
+    },
+    {
+      "term": "の担",
+      "count": 8
+    },
+    {
+      "term": "の制",
+      "count": 8
+    },
+    {
+      "term": "キー",
+      "count": 7
+    },
+    {
+      "term": "シス",
+      "count": 7
+    },
+    {
       "term": "範囲の制",
-      "count": 8
-    },
-    {
-      "term": "主体",
-      "count": 8
-    },
-    {
-      "term": "有の",
-      "count": 8
-    },
-    {
-      "term": "サービス",
-      "count": 8
-    },
-    {
-      "term": "キャ",
-      "count": 8
-    },
-    {
-      "term": "作成",
-      "count": 8
-    },
-    {
-      "term": "が考",
-      "count": 8
-    },
-    {
-      "term": "com",
-      "count": 8
-    },
-    {
-      "term": "のよ",
-      "count": 8
-    },
-    {
-      "term": "パイ",
       "count": 7
     },
     {
-      "term": "バリ",
+      "term": "を確",
       "count": 7
     },
     {
-      "term": "ェア",
+      "term": "考えられ",
       "count": 7
     },
     {
-      "term": "ジを",
+      "term": "クセ",
       "count": 7
     },
     {
-      "term": "内で",
+      "term": "のs",
       "count": 7
     },
     {
-      "term": "digest",
+      "term": "のア",
       "count": 7
     },
     {
-      "term": "ci",
+      "term": "仕組",
+      "count": 7
+    },
+    {
+      "term": "成 ",
+      "count": 6
+    },
+    {
+      "term": "詳細",
+      "count": 6
+    },
+    {
+      "term": "具体的な",
+      "count": 6
+    },
+    {
+      "term": "ティ",
+      "count": 6
+    },
+    {
+      "term": "ージ",
+      "count": 6
+    },
+    {
+      "term": "リ時",
       "count": 6
     },
     {
@@ -170,36 +162,44 @@
       "count": 6
     },
     {
-      "term": "の署",
+      "term": "codebuild",
       "count": 6
     },
     {
-      "term": "定義",
+      "term": "対す",
       "count": 6
     },
     {
-      "term": "うこ",
+      "term": "ここでは",
       "count": 6
     },
     {
-      "term": "の変",
+      "term": "にて",
       "count": 6
     },
     {
-      "term": "secrets",
+      "term": "取り",
       "count": 6
     },
     {
-      "term": "review",
+      "term": "次に",
       "count": 6
     },
     {
-      "term": "ド ",
-      "count": 5
+      "term": "リの",
+      "count": 6
     },
     {
-      "term": "性管",
-      "count": 5
+      "term": "repository",
+      "count": 6
+    },
+    {
+      "term": "11",
+      "count": 6
+    },
+    {
+      "term": "イル",
+      "count": 6
     }
   ],
   "meetings": [
