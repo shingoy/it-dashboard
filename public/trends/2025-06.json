@@ -2,59 +2,63 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "成果",
+      "term": "github",
+      "count": 26
+    },
+    {
+      "term": "トリ",
       "count": 20
-    },
-    {
-      "term": "では",
-      "count": 19
-    },
-    {
-      "term": "こと",
-      "count": 19
     },
     {
       "term": "ーム",
       "count": 18
     },
     {
-      "term": "イル",
+      "term": "ージ",
       "count": 18
     },
     {
-      "term": "ェー",
+      "term": "とし",
       "count": 17
     },
     {
-      "term": "リポジト",
+      "term": "サー",
       "count": 16
     },
     {
-      "term": "に ",
+      "term": "ムチ",
       "count": 15
     },
     {
-      "term": "ンテ",
+      "term": "トフ",
       "count": 15
     },
     {
-      "term": "的な",
+      "term": "ァイ",
+      "count": 15
+    },
+    {
+      "term": "への",
+      "count": 15
+    },
+    {
+      "term": "る必",
       "count": 14
     },
     {
-      "term": "ンを",
+      "term": "にお",
       "count": 13
     },
     {
-      "term": "生成",
+      "term": "内容",
       "count": 13
     },
     {
-      "term": "レッ",
-      "count": 12
+      "term": "られ",
+      "count": 13
     },
     {
-      "term": "ドフ",
+      "term": "プロ",
       "count": 12
     },
     {
@@ -62,144 +66,140 @@
       "count": 11
     },
     {
-      "term": "上で",
-      "count": 11
-    },
-    {
-      "term": "範囲",
-      "count": 11
-    },
-    {
-      "term": "つい",
+      "term": "ブラ",
       "count": 10
     },
     {
-      "term": "およ",
+      "term": "クを",
       "count": 10
     },
     {
-      "term": "検証",
+      "term": "to",
       "count": 10
     },
     {
-      "term": "タデ",
-      "count": 10
-    },
-    {
-      "term": "護 ",
+      "term": "策 ",
       "count": 9
     },
     {
-      "term": "よび",
+      "term": "ドフ",
       "count": 9
     },
     {
-      "term": "の制",
+      "term": "の担",
       "count": 9
     },
     {
-      "term": "より",
+      "term": "本書",
       "count": 9
     },
     {
-      "term": "outputs",
+      "term": "actions",
       "count": 9
     },
     {
-      "term": "runs",
+      "term": "物の",
       "count": 9
     },
     {
-      "term": "及び",
+      "term": "るが",
+      "count": 9
+    },
+    {
+      "term": "ョン",
       "count": 8
     },
     {
-      "term": "パイプラ",
+      "term": "らの",
       "count": 8
     },
     {
-      "term": "ライ",
+      "term": "れら",
       "count": 8
     },
     {
-      "term": "の取",
-      "count": 8
-    },
-    {
-      "term": "スの",
-      "count": 8
-    },
-    {
-      "term": "があ",
-      "count": 8
-    },
-    {
-      "term": "関す",
+      "term": "ダー",
       "count": 7
     },
     {
-      "term": "ンの",
+      "term": "の ",
       "count": 7
     },
     {
-      "term": "自動",
+      "term": "git",
       "count": 7
     },
     {
-      "term": "次に",
+      "term": "registry",
       "count": 7
     },
     {
-      "term": "の管",
+      "term": "い ",
       "count": 7
     },
     {
-      "term": "login",
+      "term": "を実",
       "count": 7
     },
     {
-      "term": "とは",
+      "term": "ルに",
       "count": 7
     },
     {
-      "term": "を含",
+      "term": "図 ",
+      "count": 7
+    },
+    {
+      "term": "name",
+      "count": 7
+    },
+    {
+      "term": "テム",
       "count": 6
     },
     {
-      "term": "デリ",
+      "term": "ンを",
       "count": 6
     },
     {
-      "term": "ムに",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "はプ",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "ェッ",
+      "term": "省略する",
       "count": 6
     },
     {
-      "term": "取り",
+      "term": "rulesets",
       "count": 6
     },
     {
-      "term": "ジの",
-      "count": 6
+      "term": "をも",
+      "count": 5
     },
     {
-      "term": "secrets",
-      "count": 6
+      "term": "サプ",
+      "count": 5
     },
     {
-      "term": "push",
-      "count": 6
+      "term": "を想",
+      "count": 5
     },
     {
-      "term": "steps",
-      "count": 6
+      "term": "プ ",
+      "count": 5
+    },
+    {
+      "term": "ソフトウ",
+      "count": 5
+    },
+    {
+      "term": "用い",
+      "count": 5
     }
   ],
   "meetings": [
