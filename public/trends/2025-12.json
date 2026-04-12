@@ -2,95 +2,59 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "円の",
+      "term": "フィ",
       "count": 2
     },
     {
-      "term": "タ ",
+      "term": "ピュ",
       "count": 2
     },
     {
-      "term": "ーティン",
+      "term": "及び",
       "count": 2
     },
     {
-      "term": "beyond",
+      "term": "円 ",
       "count": 2
     },
     {
-      "term": "的評",
+      "term": "の安全性",
       "count": 2
     },
     {
-      "term": "等に",
+      "term": "インフラ",
+      "count": 2
+    },
+    {
+      "term": "高め",
+      "count": 2
+    },
+    {
+      "term": "生成",
+      "count": 2
+    },
+    {
+      "term": "億円",
+      "count": 2
+    },
+    {
+      "term": "スの",
+      "count": 2
+    },
+    {
+      "term": "ッド",
       "count": 1
     },
     {
-      "term": "関係",
+      "term": "年度",
       "count": 1
     },
     {
-      "term": "装の",
+      "term": "化対",
       "count": 1
     },
     {
-      "term": "金融",
-      "count": 1
-    },
-    {
-      "term": "502",
-      "count": 1
-    },
-    {
-      "term": "発新",
-      "count": 1
-    },
-    {
-      "term": "370",
-      "count": 1
-    },
-    {
-      "term": "ベッ",
-      "count": 1
-    },
-    {
-      "term": "ログ",
-      "count": 1
-    },
-    {
-      "term": "による科",
-      "count": 1
-    },
-    {
-      "term": "22",
-      "count": 1
-    },
-    {
-      "term": "針に",
-      "count": 1
-    },
-    {
-      "term": "は四",
-      "count": 1
-    },
-    {
-      "term": "機関",
-      "count": 1
-    },
-    {
-      "term": "力向",
-      "count": 1
-    },
-    {
-      "term": "上を目的",
-      "count": 1
-    },
-    {
-      "term": "学研",
-      "count": 1
-    },
-    {
-      "term": "合は",
+      "term": "for",
       "count": 1
     },
     {
@@ -98,79 +62,11 @@
       "count": 1
     },
     {
-      "term": "大規模オ",
+      "term": "い方",
       "count": 1
     },
     {
-      "term": "での",
-      "count": 1
-    },
-    {
-      "term": "のデ",
-      "count": 1
-    },
-    {
-      "term": "連施",
-      "count": 1
-    },
-    {
-      "term": "評価手法",
-      "count": 1
-    },
-    {
-      "term": "ョン",
-      "count": 1
-    },
-    {
-      "term": "策を",
-      "count": 1
-    },
-    {
-      "term": "デガ",
-      "count": 1
-    },
-    {
-      "term": "関の",
-      "count": 1
-    },
-    {
-      "term": "本計",
-      "count": 1
-    },
-    {
-      "term": "スの主導",
-      "count": 1
-    },
-    {
-      "term": "流動",
-      "count": 1
-    },
-    {
-      "term": "まえ",
-      "count": 1
-    },
-    {
-      "term": "ク対",
-      "count": 1
-    },
-    {
-      "term": "ち複数の",
-      "count": 1
-    },
-    {
-      "term": "化対策",
-      "count": 1
-    },
-    {
-      "term": "給加",
-      "count": 1
-    },
-    {
-      "term": "社会実装",
-      "count": 1
-    },
-    {
-      "term": "コンピュ",
+      "term": "場の",
       "count": 1
     },
     {
@@ -178,27 +74,131 @@
       "count": 1
     },
     {
-      "term": "築 ",
+      "term": "総信",
       "count": 1
     },
     {
-      "term": "いて",
+      "term": "額に",
       "count": 1
     },
     {
-      "term": "けた継続",
+      "term": "立に",
       "count": 1
     },
     {
-      "term": "デジタル",
+      "term": "ロボ",
       "count": 1
     },
     {
-      "term": "計画",
+      "term": "を実現す",
       "count": 1
     },
     {
-      "term": "ーシ",
+      "term": "地域にお",
+      "count": 1
+    },
+    {
+      "term": "につ",
+      "count": 1
+    },
+    {
+      "term": "た継",
+      "count": 1
+    },
+    {
+      "term": "のａ",
+      "count": 1
+    },
+    {
+      "term": "戦略的強",
+      "count": 1
+    },
+    {
+      "term": "イノ",
+      "count": 1
+    },
+    {
+      "term": "年度補正",
+      "count": 1
+    },
+    {
+      "term": "動運",
+      "count": 1
+    },
+    {
+      "term": "地域",
+      "count": 1
+    },
+    {
+      "term": "供給加速",
+      "count": 1
+    },
+    {
+      "term": "頭脳",
+      "count": 1
+    },
+    {
+      "term": "融機",
+      "count": 1
+    },
+    {
+      "term": "460",
+      "count": 1
+    },
+    {
+      "term": "スキリン",
+      "count": 1
+    },
+    {
+      "term": "は四",
+      "count": 1
+    },
+    {
+      "term": "労働",
+      "count": 1
+    },
+    {
+      "term": "活用",
+      "count": 1
+    },
+    {
+      "term": "進フ",
+      "count": 1
+    },
+    {
+      "term": "の抜",
+      "count": 1
+    },
+    {
+      "term": "五入",
+      "count": 1
+    },
+    {
+      "term": "術開",
+      "count": 1
+    },
+    {
+      "term": "速的",
+      "count": 1
+    },
+    {
+      "term": "的な",
+      "count": 1
+    },
+    {
+      "term": "ai",
+      "count": 1
+    },
+    {
+      "term": "ープ",
+      "count": 1
+    },
+    {
+      "term": "ルサ",
+      "count": 1
+    },
+    {
+      "term": "困難な施",
       "count": 1
     }
   ],

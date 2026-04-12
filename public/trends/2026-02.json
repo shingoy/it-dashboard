@@ -2,31 +2,35 @@
   "month": "2026-02",
   "keywords": [
     {
-      "term": "いて離職",
+      "term": "離職",
       "count": 2
     },
     {
-      "term": "関係",
+      "term": "い方",
       "count": 2
     },
     {
-      "term": "た額を記",
+      "term": "額に",
       "count": 2
     },
     {
-      "term": "成離",
+      "term": "のための",
       "count": 2
     },
     {
-      "term": "育成",
+      "term": "及び",
       "count": 2
     },
     {
-      "term": "針に",
+      "term": "円 ",
       "count": 2
     },
     {
-      "term": "職業",
+      "term": "練企",
+      "count": 2
+    },
+    {
+      "term": "億円",
       "count": 2
     },
     {
@@ -34,159 +38,51 @@
       "count": 2
     },
     {
-      "term": "発支援助",
+      "term": "活用",
       "count": 2
     },
     {
-      "term": "材育",
+      "term": "五入",
       "count": 2
     },
     {
-      "term": "合は",
+      "term": "た額を記",
       "count": 2
     },
     {
-      "term": "び在",
+      "term": "困難な施",
       "count": 2
     },
     {
-      "term": "策を",
+      "term": "関連予算",
       "count": 2
     },
     {
-      "term": "ため",
-      "count": 2
-    },
-    {
-      "term": "いが",
-      "count": 2
-    },
-    {
-      "term": "本計",
-      "count": 2
-    },
-    {
-      "term": "職業訓練",
-      "count": 2
-    },
-    {
-      "term": "いて",
-      "count": 2
-    },
-    {
-      "term": "等に",
+      "term": "開発等",
       "count": 1
     },
     {
-      "term": "セス",
+      "term": "ンテ",
       "count": 1
     },
     {
-      "term": "ーティン",
+      "term": "年度",
       "count": 1
     },
     {
-      "term": "て案",
+      "term": "機器",
       "count": 1
     },
     {
-      "term": "案 ",
+      "term": "たａ",
       "count": 1
     },
     {
-      "term": "ugv",
+      "term": "ーミ",
       "count": 1
     },
     {
-      "term": "的な変革",
-      "count": 1
-    },
-    {
-      "term": "車両",
-      "count": 1
-    },
-    {
-      "term": "発新",
-      "count": 1
-    },
-    {
-      "term": "営の",
-      "count": 1
-    },
-    {
-      "term": "見据",
-      "count": 1
-    },
-    {
-      "term": "ログ",
-      "count": 1
-    },
-    {
-      "term": "の製",
-      "count": 1
-    },
-    {
-      "term": "beyond",
-      "count": 1
-    },
-    {
-      "term": "ークサー",
-      "count": 1
-    },
-    {
-      "term": "学研",
-      "count": 1
-    },
-    {
-      "term": "の研究開",
-      "count": 1
-    },
-    {
-      "term": "地震",
-      "count": 1
-    },
-    {
-      "term": "シーズ探",
-      "count": 1
-    },
-    {
-      "term": "担軽減",
-      "count": 1
-    },
-    {
-      "term": "のデ",
-      "count": 1
-    },
-    {
-      "term": "基盤技術",
-      "count": 1
-    },
-    {
-      "term": "ハローワ",
-      "count": 1
-    },
-    {
-      "term": "ロボット",
-      "count": 1
-    },
-    {
-      "term": "連携型",
-      "count": 1
-    },
-    {
-      "term": "スの主導",
-      "count": 1
-    },
-    {
-      "term": "半導体及",
-      "count": 1
-    },
-    {
-      "term": "や介護テ",
-      "count": 1
-    },
-    {
-      "term": "コンピュ",
+      "term": "場の",
       "count": 1
     },
     {
@@ -194,11 +90,115 @@
       "count": 1
     },
     {
-      "term": "抜本的な",
+      "term": "フィ",
       "count": 1
     },
     {
-      "term": "けた継続",
+      "term": "ロボ",
+      "count": 1
+    },
+    {
+      "term": "営の高度",
+      "count": 1
+    },
+    {
+      "term": "技術の開",
+      "count": 1
+    },
+    {
+      "term": "ピュ",
+      "count": 1
+    },
+    {
+      "term": "動地",
+      "count": 1
+    },
+    {
+      "term": "インフラ",
+      "count": 1
+    },
+    {
+      "term": "高め",
+      "count": 1
+    },
+    {
+      "term": "につ",
+      "count": 1
+    },
+    {
+      "term": "た継",
+      "count": 1
+    },
+    {
+      "term": "生成",
+      "count": 1
+    },
+    {
+      "term": "戦略的強",
+      "count": 1
+    },
+    {
+      "term": "モデルの",
+      "count": 1
+    },
+    {
+      "term": "実に",
+      "count": 1
+    },
+    {
+      "term": "療従",
+      "count": 1
+    },
+    {
+      "term": "ムに",
+      "count": 1
+    },
+    {
+      "term": "スの",
+      "count": 1
+    },
+    {
+      "term": "の抜",
+      "count": 1
+    },
+    {
+      "term": "る技",
+      "count": 1
+    },
+    {
+      "term": "術開",
+      "count": 1
+    },
+    {
+      "term": "ドu",
+      "count": 1
+    },
+    {
+      "term": "的な",
+      "count": 1
+    },
+    {
+      "term": "進ａ",
+      "count": 1
+    },
+    {
+      "term": "げる",
+      "count": 1
+    },
+    {
+      "term": "に対する",
+      "count": 1
+    },
+    {
+      "term": "ター",
+      "count": 1
+    },
+    {
+      "term": "農業",
+      "count": 1
+    },
+    {
+      "term": "震活",
       "count": 1
     }
   ],
