@@ -2,71 +2,67 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "成果",
+      "term": "パイ",
       "count": 20
     },
     {
-      "term": "利用",
-      "count": 18
+      "term": "きる",
+      "count": 17
     },
     {
-      "term": "安全",
-      "count": 18
-    },
-    {
-      "term": "によ",
+      "term": "ソー",
       "count": 16
     },
     {
-      "term": "トリ",
-      "count": 16
-    },
-    {
-      "term": "ムチ",
+      "term": "トフ",
       "count": 15
     },
     {
-      "term": "よび",
+      "term": "必要",
       "count": 15
     },
     {
-      "term": "って",
-      "count": 15
-    },
-    {
-      "term": "テナ",
-      "count": 15
-    },
-    {
-      "term": "略 ",
+      "term": "ツー",
       "count": 14
     },
     {
-      "term": "シー",
+      "term": "った",
+      "count": 14
+    },
+    {
+      "term": "ける",
       "count": 13
     },
     {
-      "term": "用す",
+      "term": "担保",
       "count": 13
     },
     {
-      "term": "プロ",
+      "term": "的に",
       "count": 13
     },
     {
-      "term": "ライ",
+      "term": "tf",
+      "count": 13
+    },
+    {
+      "term": "おけ",
       "count": 12
     },
     {
-      "term": "この",
+      "term": "れら",
       "count": 12
     },
     {
-      "term": "のメ",
-      "count": 12
+      "term": "上で",
+      "count": 11
     },
     {
-      "term": "ステ",
+      "term": "状態",
+      "count": 11
+    },
+    {
+      "term": "取得",
       "count": 11
     },
     {
@@ -74,132 +70,136 @@
       "count": 11
     },
     {
-      "term": "えら",
+      "term": "を取",
       "count": 11
     },
     {
-      "term": "ecr",
+      "term": "はな",
       "count": 11
     },
     {
-      "term": "code",
+      "term": "チェ",
       "count": 10
     },
     {
-      "term": "を用",
-      "count": 10
-    },
-    {
-      "term": "コンテナ",
-      "count": 10
-    },
-    {
-      "term": "の担",
+      "term": "脆弱性管",
       "count": 9
     },
     {
-      "term": "action",
+      "term": "そのため",
       "count": 9
     },
     {
-      "term": "ムの",
+      "term": "ョン",
       "count": 8
     },
     {
-      "term": "範囲の制",
+      "term": "ビルド上",
       "count": 8
     },
     {
-      "term": "ド上",
+      "term": "リソ",
       "count": 8
     },
     {
-      "term": "性が",
+      "term": "リス",
       "count": 8
     },
     {
-      "term": "のよ",
+      "term": "ング",
       "count": 8
     },
     {
-      "term": "image",
+      "term": "キャ",
       "count": 8
     },
     {
-      "term": "考えられ",
+      "term": "スキ",
+      "count": 8
+    },
+    {
+      "term": "repository",
+      "count": 8
+    },
+    {
+      "term": "システム",
       "count": 7
     },
     {
-      "term": "トフォー",
+      "term": "での実行",
       "count": 7
     },
     {
-      "term": "to",
+      "term": "を確",
       "count": 7
     },
     {
-      "term": "とは",
+      "term": "plan",
       "count": 7
     },
     {
-      "term": "仕組",
+      "term": "る\n",
       "count": 7
     },
     {
-      "term": "ード管理",
+      "term": "ップ",
+      "count": 7
+    },
+    {
+      "term": "クセ",
+      "count": 7
+    },
+    {
+      "term": "場合",
+      "count": 7
+    },
+    {
+      "term": "name",
+      "count": 7
+    },
+    {
+      "term": "に加",
+      "count": 7
+    },
+    {
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "ート",
+      "term": "詳細",
       "count": 6
     },
     {
-      "term": "成 ",
+      "term": "的な",
       "count": 6
     },
     {
-      "term": "運用",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "カル",
+      "term": "たコ",
       "count": 6
     },
     {
-      "term": "保 ",
+      "term": "ルの",
       "count": 6
     },
     {
-      "term": "codebuild",
+      "term": "完全",
       "count": 6
     },
     {
-      "term": "cosign",
+      "term": "の変",
       "count": 6
     },
     {
-      "term": "な対",
+      "term": "影響",
       "count": 6
     },
     {
-      "term": "とも",
+      "term": "こで",
       "count": 6
-    },
-    {
-      "term": "される",
-      "count": 6
-    },
-    {
-      "term": "ても",
-      "count": 6
-    },
-    {
-      "term": "ることが",
-      "count": 6
-    },
-    {
-      "term": "用保",
-      "count": 5
     }
   ],
   "meetings": [
