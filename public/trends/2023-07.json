@@ -2,204 +2,204 @@
   "month": "2023-07",
   "keywords": [
     {
-      "term": "必要",
-      "count": 1164
+      "term": "なる",
+      "count": 1135
     },
     {
-      "term": "ける",
-      "count": 1097
+      "term": "い ",
+      "count": 1085
     },
     {
-      "term": "的に",
-      "count": 1067
+      "term": "プロ",
+      "count": 1003
     },
     {
-      "term": "等に",
-      "count": 1040
-    },
-    {
-      "term": "る場",
-      "count": 1023
-    },
-    {
-      "term": "おけ",
-      "count": 1016
-    },
-    {
-      "term": "システム",
-      "count": 972
-    },
-    {
-      "term": "おい",
-      "count": 892
-    },
-    {
-      "term": "を確",
-      "count": 782
-    },
-    {
-      "term": "った",
-      "count": 714
-    },
-    {
-      "term": "考え",
-      "count": 702
-    },
-    {
-      "term": "クセ",
-      "count": 599
-    },
-    {
-      "term": "評価",
-      "count": 565
-    },
-    {
-      "term": "上で",
-      "count": 542
-    },
-    {
-      "term": "はな",
-      "count": 501
-    },
-    {
-      "term": "開発",
-      "count": 497
-    },
-    {
-      "term": "影響",
-      "count": 471
-    },
-    {
-      "term": "リス",
-      "count": 435
-    },
-    {
-      "term": "れら",
-      "count": 427
-    },
-    {
-      "term": "留意",
-      "count": 425
-    },
-    {
-      "term": "なっ",
-      "count": 397
-    },
-    {
-      "term": "ョン",
-      "count": 397
-    },
-    {
-      "term": "守事",
-      "count": 376
-    },
-    {
-      "term": "レベ",
-      "count": 358
-    },
-    {
-      "term": "導入",
-      "count": 353
-    },
-    {
-      "term": "プロジェ",
-      "count": 347
-    },
-    {
-      "term": "能性",
-      "count": 341
-    },
-    {
-      "term": "の整",
-      "count": 331
-    },
-    {
-      "term": "ての",
-      "count": 330
-    },
-    {
-      "term": "ップ",
-      "count": 321
-    },
-    {
-      "term": "でな",
-      "count": 304
-    },
-    {
-      "term": "り扱",
-      "count": 303
-    },
-    {
-      "term": "性 ",
-      "count": 297
-    },
-    {
-      "term": "分析",
-      "count": 292
-    },
-    {
-      "term": "構築",
-      "count": 291
-    },
-    {
-      "term": "らか",
-      "count": 291
-    },
-    {
-      "term": "に実",
-      "count": 290
-    },
-    {
-      "term": "府省",
-      "count": 286
-    },
-    {
-      "term": "取得",
-      "count": 283
-    },
-    {
-      "term": "記録",
-      "count": 280
-    },
-    {
-      "term": "点か",
-      "count": 278
-    },
-    {
-      "term": "の変",
-      "count": 275
-    },
-    {
-      "term": "が求",
-      "count": 269
+      "term": "また",
+      "count": 977
     },
     {
       "term": "ュリ",
-      "count": 266
+      "count": 969
     },
     {
-      "term": "定に",
+      "term": "ビス",
+      "count": 938
+    },
+    {
+      "term": "への",
+      "count": 894
+    },
+    {
+      "term": "める",
+      "count": 874
+    },
+    {
+      "term": "トの",
+      "count": 782
+    },
+    {
+      "term": "管理",
+      "count": 768
+    },
+    {
+      "term": "など",
+      "count": 738
+    },
+    {
+      "term": "れた",
+      "count": 738
+    },
+    {
+      "term": "を実",
+      "count": 688
+    },
+    {
+      "term": "ータ",
+      "count": 650
+    },
+    {
+      "term": "ョン",
+      "count": 649
+    },
+    {
+      "term": "ト ",
+      "count": 623
+    },
+    {
+      "term": "ショ",
+      "count": 587
+    },
+    {
+      "term": "うこ",
+      "count": 576
+    },
+    {
+      "term": "政府",
+      "count": 531
+    },
+    {
+      "term": "参考",
+      "count": 487
+    },
+    {
+      "term": "ジタ",
+      "count": 472
+    },
+    {
+      "term": "解説",
+      "count": 470
+    },
+    {
+      "term": "めら",
+      "count": 469
+    },
+    {
+      "term": "サイ",
+      "count": 466
+    },
+    {
+      "term": "バー",
+      "count": 462
+    },
+    {
+      "term": "者は",
+      "count": 458
+    },
+    {
+      "term": "ェク",
+      "count": 446
+    },
+    {
+      "term": "えら",
+      "count": 440
+    },
+    {
+      "term": "定の",
+      "count": 436
+    },
+    {
+      "term": "十分",
+      "count": 396
+    },
+    {
+      "term": "組み",
+      "count": 392
+    },
+    {
+      "term": "か ",
+      "count": 365
+    },
+    {
+      "term": "シー",
+      "count": 348
+    },
+    {
+      "term": "方針",
+      "count": 344
+    },
+    {
+      "term": "実現",
+      "count": 325
+    },
+    {
+      "term": "推進",
+      "count": 317
+    },
+    {
+      "term": "分析",
+      "count": 316
+    },
+    {
+      "term": "も ",
+      "count": 314
+    },
+    {
+      "term": "の場",
+      "count": 310
+    },
+    {
+      "term": "が望",
+      "count": 296
+    },
+    {
+      "term": "てお",
+      "count": 295
+    },
+    {
+      "term": "以外",
+      "count": 288
+    },
+    {
+      "term": "き ",
+      "count": 270
+    },
+    {
+      "term": "及び",
+      "count": 270
+    },
+    {
+      "term": "がな",
+      "count": 270
+    },
+    {
+      "term": "ーション",
       "count": 265
     },
     {
-      "term": "ら ",
-      "count": 265
+      "term": "例 ",
+      "count": 261
     },
     {
-      "term": "合の",
-      "count": 253
+      "term": "いっ",
+      "count": 244
     },
     {
-      "term": "ロジ",
-      "count": 252
+      "term": "が生",
+      "count": 244
     },
     {
-      "term": "特定",
-      "count": 246
-    },
-    {
-      "term": "詳細",
-      "count": 245
+      "term": "やす",
+      "count": 231
     }
   ],
   "meetings": [

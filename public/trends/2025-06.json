@@ -2,91 +2,107 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "パイ",
-      "count": 20
+      "term": "リポジト",
+      "count": 18
     },
     {
-      "term": "きる",
+      "term": "パイプラ",
       "count": 17
     },
     {
-      "term": "ソー",
+      "term": "管理",
       "count": 16
     },
     {
-      "term": "トフ",
+      "term": "ビス",
+      "count": 16
+    },
+    {
+      "term": "信頼",
       "count": 15
     },
     {
-      "term": "必要",
+      "term": "ーズ",
       "count": 15
     },
     {
-      "term": "ツー",
+      "term": "また",
+      "count": 15
+    },
+    {
+      "term": "なる",
+      "count": 15
+    },
+    {
+      "term": "ータ",
+      "count": 15
+    },
+    {
+      "term": "への",
+      "count": 15
+    },
+    {
+      "term": "プロ",
       "count": 14
     },
     {
-      "term": "った",
+      "term": "れた",
       "count": 14
     },
     {
-      "term": "ける",
+      "term": "略 ",
+      "count": 14
+    },
+    {
+      "term": "シー",
       "count": 13
     },
     {
-      "term": "担保",
-      "count": 13
-    },
-    {
-      "term": "的に",
-      "count": 13
-    },
-    {
-      "term": "tf",
-      "count": 13
-    },
-    {
-      "term": "おけ",
+      "term": "トの",
       "count": 12
     },
     {
-      "term": "れら",
+      "term": "およ",
       "count": 12
     },
     {
-      "term": "上で",
+      "term": "こで",
+      "count": 12
+    },
+    {
+      "term": "チームの",
       "count": 11
     },
     {
-      "term": "状態",
+      "term": "terraform",
       "count": 11
     },
     {
-      "term": "取得",
+      "term": "バー",
       "count": 11
     },
     {
-      "term": "考え",
+      "term": "えら",
       "count": 11
     },
     {
-      "term": "を取",
-      "count": 11
-    },
-    {
-      "term": "はな",
-      "count": 11
-    },
-    {
-      "term": "チェ",
+      "term": "ここ",
       "count": 10
     },
     {
-      "term": "脆弱性管",
+      "term": "to",
+      "count": 10
+    },
+    {
+      "term": "理を",
       "count": 9
     },
     {
-      "term": "そのため",
+      "term": "定の",
+      "count": 9
+    },
+    {
+      "term": "いっ",
       "count": 9
     },
     {
@@ -94,83 +110,71 @@
       "count": 8
     },
     {
-      "term": "ビルド上",
+      "term": "ンチ",
       "count": 8
     },
     {
-      "term": "リソ",
+      "term": "ビルドフ",
       "count": 8
     },
     {
-      "term": "リス",
+      "term": "の信",
       "count": 8
     },
     {
-      "term": "ング",
+      "term": "以外",
       "count": 8
     },
     {
-      "term": "キャ",
+      "term": "を実",
       "count": 8
     },
     {
-      "term": "スキ",
+      "term": "る ",
       "count": 8
     },
     {
-      "term": "repository",
+      "term": "組み",
       "count": 8
     },
     {
-      "term": "システム",
+      "term": "ルで",
+      "count": 8
+    },
+    {
+      "term": "ルド",
       "count": 7
     },
     {
-      "term": "での実行",
+      "term": "本書",
       "count": 7
     },
     {
-      "term": "を確",
+      "term": "い ",
       "count": 7
     },
     {
-      "term": "plan",
+      "term": "など",
       "count": 7
     },
     {
-      "term": "る\n",
+      "term": "中略",
       "count": 7
     },
     {
-      "term": "ップ",
+      "term": "file",
       "count": 7
     },
     {
-      "term": "クセ",
-      "count": 7
-    },
-    {
-      "term": "場合",
-      "count": 7
-    },
-    {
-      "term": "name",
-      "count": 7
-    },
-    {
-      "term": "に加",
-      "count": 7
-    },
-    {
-      "term": "開発",
+      "term": "ュリ",
       "count": 6
     },
     {
-      "term": "詳細",
+      "term": "ショ",
       "count": 6
     },
     {
-      "term": "的な",
+      "term": "ット情報",
       "count": 6
     },
     {
@@ -178,27 +182,23 @@
       "count": 6
     },
     {
-      "term": "たコ",
+      "term": "の保護",
       "count": 6
     },
     {
-      "term": "ルの",
+      "term": "プロバイ",
       "count": 6
     },
     {
-      "term": "完全",
+      "term": "トウ",
       "count": 6
     },
     {
-      "term": "の変",
+      "term": "うこ",
       "count": 6
     },
     {
-      "term": "影響",
-      "count": 6
-    },
-    {
-      "term": "こで",
+      "term": "uses",
       "count": 6
     }
   ],
