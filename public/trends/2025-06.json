@@ -2,7 +2,19 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "パイ",
+      "term": "こと",
+      "count": 25
+    },
+    {
+      "term": "るこ",
+      "count": 23
+    },
+    {
+      "term": "ロー",
+      "count": 19
+    },
+    {
+      "term": "とし",
       "count": 18
     },
     {
@@ -10,111 +22,175 @@
       "count": 17
     },
     {
-      "term": "ージ",
+      "term": "サー",
+      "count": 17
+    },
+    {
+      "term": "ール",
+      "count": 17
+    },
+    {
+      "term": "ービ",
+      "count": 16
+    },
+    {
+      "term": "トフ",
       "count": 15
     },
     {
-      "term": "コン",
+      "term": "また",
       "count": 15
     },
     {
-      "term": "ーズ",
+      "term": "スコ",
       "count": 14
     },
     {
-      "term": "テナ",
+      "term": "ソースコ",
       "count": 13
     },
     {
-      "term": "ント",
+      "term": "ンを",
+      "count": 13
+    },
+    {
+      "term": "る図",
+      "count": 13
+    },
+    {
+      "term": "おけ",
       "count": 12
     },
     {
-      "term": "のc",
+      "term": "ン ",
       "count": 11
     },
     {
-      "term": "name",
+      "term": "10",
       "count": 11
     },
     {
-      "term": "on",
+      "term": "的に",
+      "count": 11
+    },
+    {
+      "term": "メン",
       "count": 10
     },
     {
-      "term": "ロー",
+      "term": "ント",
+      "count": 10
+    },
+    {
+      "term": "構成",
+      "count": 10
+    },
+    {
+      "term": "コンテナ",
+      "count": 10
+    },
+    {
+      "term": "ルの",
+      "count": 10
+    },
+    {
+      "term": "クを",
+      "count": 10
+    },
+    {
+      "term": "ubuntu",
+      "count": 10
+    },
+    {
+      "term": "ー ",
       "count": 9
     },
     {
-      "term": "の担",
+      "term": "を取",
       "count": 9
     },
     {
-      "term": "git",
+      "term": "リの",
       "count": 9
     },
     {
-      "term": "れた",
+      "term": "アク",
       "count": 9
     },
     {
-      "term": "とい",
+      "term": "github",
       "count": 9
     },
     {
-      "term": "主体",
+      "term": "有の",
       "count": 8
     },
     {
-      "term": "ド上",
+      "term": "書で",
       "count": 8
     },
     {
-      "term": "範囲の制",
+      "term": "docker",
       "count": 8
     },
     {
-      "term": "るそ",
+      "term": "要が",
       "count": 8
     },
     {
-      "term": "いっ",
+      "term": "yml",
       "count": 8
     },
     {
-      "term": "env",
+      "term": "uses",
       "count": 8
     },
     {
-      "term": "運用",
+      "term": "共通",
       "count": 7
     },
     {
-      "term": "ック",
+      "term": "関す",
       "count": 7
     },
     {
-      "term": "あり",
+      "term": "イナ",
       "count": 7
     },
     {
-      "term": "ジを",
+      "term": "定し",
       "count": 7
     },
     {
-      "term": "にな",
+      "term": "version",
       "count": 7
     },
     {
-      "term": "ル ",
+      "term": "ると",
       "count": 7
     },
     {
-      "term": "これ",
+      "term": "対し",
       "count": 7
     },
     {
-      "term": "に加",
+      "term": "省略",
+      "count": 7
+    },
+    {
+      "term": "ーと",
+      "count": 7
+    },
+    {
+      "term": "ある",
+      "count": 7
+    },
+    {
+      "term": "name",
+      "count": 7
+    },
+    {
+      "term": "図 ",
       "count": 7
     },
     {
@@ -122,84 +198,8 @@
       "count": 6
     },
     {
-      "term": "ュリ",
+      "term": "報の",
       "count": 6
-    },
-    {
-      "term": "フ ",
-      "count": 6
-    },
-    {
-      "term": "たが",
-      "count": 6
-    },
-    {
-      "term": "物と",
-      "count": 6
-    },
-    {
-      "term": "の利",
-      "count": 6
-    },
-    {
-      "term": "どの",
-      "count": 6
-    },
-    {
-      "term": "push",
-      "count": 6
-    },
-    {
-      "term": "to",
-      "count": 6
-    },
-    {
-      "term": "安全",
-      "count": 6
-    },
-    {
-      "term": "えて",
-      "count": 6
-    },
-    {
-      "term": "トは",
-      "count": 5
-    },
-    {
-      "term": "ド ",
-      "count": 5
-    },
-    {
-      "term": "産管",
-      "count": 5
-    },
-    {
-      "term": "運用保守",
-      "count": 5
-    },
-    {
-      "term": "キー",
-      "count": 5
-    },
-    {
-      "term": "レッ",
-      "count": 5
-    },
-    {
-      "term": "する",
-      "count": 5
-    },
-    {
-      "term": "理す",
-      "count": 5
-    },
-    {
-      "term": "そし",
-      "count": 5
-    },
-    {
-      "term": "のソ",
-      "count": 5
     }
   ],
   "meetings": [
