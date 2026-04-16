@@ -2,67 +2,35 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "る ",
-      "count": 28
+      "term": "こと",
+      "count": 22
     },
     {
       "term": "ある",
-      "count": 25
+      "count": 18
     },
     {
-      "term": "こと",
-      "count": 24
-    },
-    {
-      "term": "でき",
-      "count": 23
-    },
-    {
-      "term": "ット",
-      "count": 20
-    },
-    {
-      "term": "ード",
-      "count": 20
-    },
-    {
-      "term": "てい",
-      "count": 20
-    },
-    {
-      "term": "フェ",
+      "term": "ムチ",
       "count": 15
     },
     {
-      "term": "への",
-      "count": 15
+      "term": "ため",
+      "count": 13
     },
     {
-      "term": "スコ",
-      "count": 14
+      "term": "trivy",
+      "count": 13
     },
     {
-      "term": "スチ",
-      "count": 14
-    },
-    {
-      "term": "ント",
+      "term": "クレ",
       "count": 12
     },
     {
-      "term": "ポジ",
+      "term": "こで",
       "count": 12
     },
     {
-      "term": "はc",
-      "count": 11
-    },
-    {
-      "term": "cd",
-      "count": 11
-    },
-    {
-      "term": "に ",
+      "term": "プラット",
       "count": 11
     },
     {
@@ -70,91 +38,119 @@
       "count": 11
     },
     {
-      "term": "terraform",
+      "term": "用す",
       "count": 11
     },
     {
-      "term": "可能",
+      "term": "バー",
       "count": 11
     },
     {
-      "term": "メン",
+      "term": "ubuntu",
       "count": 10
     },
     {
-      "term": "し ",
-      "count": 10
+      "term": "によ",
+      "count": 9
     },
     {
-      "term": "ここ",
-      "count": 10
+      "term": "ンa",
+      "count": 9
     },
     {
-      "term": "env",
-      "count": 10
+      "term": "image",
+      "count": 9
+    },
+    {
+      "term": "定内",
+      "count": 8
+    },
+    {
+      "term": "シス",
+      "count": 8
+    },
+    {
+      "term": "ラン",
+      "count": 8
+    },
+    {
+      "term": "フェーズ",
+      "count": 8
+    },
+    {
+      "term": "行範",
+      "count": 8
+    },
+    {
+      "term": "リソ",
+      "count": 8
     },
     {
       "term": "ンの",
-      "count": 9
-    },
-    {
-      "term": "成さ",
-      "count": 9
-    },
-    {
-      "term": "の対",
-      "count": 9
-    },
-    {
-      "term": "ック",
       "count": 8
     },
     {
-      "term": "スの",
+      "term": "らの",
       "count": 8
     },
     {
-      "term": "の漏",
+      "term": "sbom",
+      "count": 8
+    },
+    {
+      "term": "への",
+      "count": 8
+    },
+    {
+      "term": "とい",
+      "count": 8
+    },
+    {
+      "term": "物の",
+      "count": 8
+    },
+    {
+      "term": "漏洩",
       "count": 7
     },
     {
-      "term": "バイナリ",
+      "term": "17",
       "count": 7
     },
     {
-      "term": "にな",
+      "term": "の仕",
       "count": 7
     },
     {
-      "term": "ル ",
+      "term": "など",
       "count": 7
     },
     {
-      "term": "事項",
+      "term": "図 ",
       "count": 7
     },
     {
-      "term": "省略",
-      "count": 7
-    },
-    {
-      "term": "ークレッ",
-      "count": 7
-    },
-    {
-      "term": "とな",
-      "count": 7
-    },
-    {
-      "term": "action",
-      "count": 7
-    },
-    {
-      "term": "成 ",
+      "term": "を示",
       "count": 6
     },
     {
-      "term": "洩対",
+      "term": "の保護",
+      "count": 6
+    },
+    {
+      "term": "フ ",
+      "count": 6
+    },
+    {
+      "term": "高い",
+      "count": 6
+    },
+    {
+      "term": "デリ",
+      "count": 6
+    },
+    {
+      "term": "の署",
       "count": 6
     },
     {
@@ -162,43 +158,47 @@
       "count": 6
     },
     {
-      "term": "運用保守",
-      "count": 5
+      "term": "ル ",
+      "count": 6
     },
     {
-      "term": "リオ",
-      "count": 5
+      "term": "生成",
+      "count": 6
     },
     {
-      "term": "用保",
-      "count": 5
+      "term": "影響",
+      "count": 6
     },
     {
-      "term": "トは",
-      "count": 5
+      "term": "いこ",
+      "count": 6
     },
     {
-      "term": "ラッ",
-      "count": 5
+      "term": "を必",
+      "count": 6
     },
     {
-      "term": "ロー",
-      "count": 5
+      "term": "は ",
+      "count": 6
     },
     {
-      "term": "の証",
-      "count": 5
+      "term": "and",
+      "count": 6
     },
     {
-      "term": "にも",
-      "count": 5
+      "term": "key",
+      "count": 6
     },
     {
-      "term": "安全性の",
-      "count": 5
+      "term": "えて",
+      "count": 6
     },
     {
-      "term": "述し",
+      "term": "checkout",
+      "count": 6
+    },
+    {
+      "term": "をも",
       "count": 5
     }
   ],
