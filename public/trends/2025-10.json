@@ -2,72 +2,104 @@
   "month": "2025-10",
   "keywords": [
     {
-      "term": "第1",
-      "count": 954
+      "term": "の ",
+      "count": 700
     },
     {
-      "term": "項 ",
-      "count": 625
+      "term": "要 ",
+      "count": 580
     },
     {
-      "term": "類型",
-      "count": 431
+      "term": "又は",
+      "count": 546
     },
     {
-      "term": "31",
-      "count": 316
+      "term": "施行",
+      "count": 513
     },
     {
-      "term": "省 ",
-      "count": 310
+      "term": "別表",
+      "count": 479
     },
     {
-      "term": "内容",
-      "count": 302
+      "term": "条の",
+      "count": 440
     },
     {
-      "term": "目視",
-      "count": 294
+      "term": "タル",
+      "count": 363
     },
     {
-      "term": "第9",
-      "count": 291
+      "term": "ける",
+      "count": 336
     },
     {
-      "term": "厚生",
-      "count": 288
+      "term": "こと",
+      "count": 299
     },
     {
-      "term": "見直後",
-      "count": 280
+      "term": "第2",
+      "count": 299
     },
     {
-      "term": "生労",
-      "count": 277
+      "term": "現在",
+      "count": 297
     },
     {
-      "term": "制等",
-      "count": 271
+      "term": "る ",
+      "count": 293
     },
     {
-      "term": "規 ",
-      "count": 264
+      "term": "厚生労働",
+      "count": 282
     },
     {
-      "term": "確保",
-      "count": 263
+      "term": "型 ",
+      "count": 281
     },
     {
-      "term": "及び",
-      "count": 262
+      "term": "第3",
+      "count": 278
     },
     {
-      "term": "通知",
-      "count": 253
+      "term": "共通",
+      "count": 273
     },
     {
-      "term": "めの",
-      "count": 239
+      "term": "の規",
+      "count": 270
+    },
+    {
+      "term": "イン",
+      "count": 266
+    },
+    {
+      "term": "名 ",
+      "count": 265
+    },
+    {
+      "term": "係る",
+      "count": 261
+    },
+    {
+      "term": "確認",
+      "count": 242
+    },
+    {
+      "term": "国土",
+      "count": 242
+    },
+    {
+      "term": "21",
+      "count": 238
+    },
+    {
+      "term": "目視規制",
+      "count": 233
+    },
+    {
+      "term": "指定",
+      "count": 232
     },
     {
       "term": "に関",
@@ -75,131 +107,99 @@
     },
     {
       "term": "にお",
-      "count": 231
+      "count": 230
     },
     {
-      "term": "検査",
+      "term": "成2",
+      "count": 221
+    },
+    {
+      "term": "オン",
       "count": 218
     },
     {
-      "term": "規則",
-      "count": 215
+      "term": "30",
+      "count": 213
     },
     {
-      "term": "則 ",
-      "count": 207
+      "term": "まで",
+      "count": 212
     },
     {
-      "term": "駐専",
-      "count": 202
+      "term": "法 ",
+      "count": 199
     },
     {
-      "term": "産業",
-      "count": 200
-    },
-    {
-      "term": "規制等の",
+      "term": "い ",
       "count": 196
     },
     {
-      "term": "月1",
-      "count": 188
-    },
-    {
-      "term": "土交",
-      "count": 188
-    },
-    {
-      "term": "職員",
+      "term": "安全",
       "count": 181
     },
     {
-      "term": "の3",
-      "count": 181
+      "term": "物の",
+      "count": 175
     },
     {
-      "term": "事項",
-      "count": 179
-    },
-    {
-      "term": "往訪",
-      "count": 170
-    },
-    {
-      "term": "訪閲",
+      "term": "令 ",
       "count": 169
     },
     {
-      "term": "準 ",
-      "count": 166
+      "term": "の基",
+      "count": 167
     },
     {
-      "term": "確化",
-      "count": 166
+      "term": "管理",
+      "count": 167
     },
     {
-      "term": "合の",
-      "count": 160
+      "term": "通知",
+      "count": 164
     },
     {
-      "term": "農林水産",
+      "term": "発第",
       "count": 158
     },
     {
-      "term": "通 ",
-      "count": 158
+      "term": "リスト",
+      "count": 157
     },
     {
-      "term": "によ",
-      "count": 154
-    },
-    {
-      "term": "期 ",
+      "term": "を定",
       "count": 153
     },
     {
-      "term": "基準",
+      "term": "号の",
       "count": 151
     },
     {
-      "term": "の常",
+      "term": "おけ",
       "count": 150
     },
     {
-      "term": "駐 ",
-      "count": 148
+      "term": "内容概要",
+      "count": 149
     },
     {
-      "term": "表 ",
-      "count": 146
+      "term": "業法",
+      "count": 149
     },
     {
-      "term": "特定",
+      "term": "昭和",
+      "count": 147
+    },
+    {
+      "term": "針 ",
       "count": 144
     },
     {
-      "term": "処理",
-      "count": 143
+      "term": "環境",
+      "count": 142
     },
     {
-      "term": "表第",
+      "term": "のた",
       "count": 139
-    },
-    {
-      "term": "には",
-      "count": 138
-    },
-    {
-      "term": "しを",
-      "count": 138
-    },
-    {
-      "term": "条項",
-      "count": 136
-    },
-    {
-      "term": "って",
-      "count": 136
     }
   ],
   "meetings": [
