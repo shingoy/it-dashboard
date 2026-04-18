@@ -2,67 +2,79 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "てい",
+      "term": "ール",
       "count": 20
     },
     {
-      "term": "その",
-      "count": 18
+      "term": "aws",
+      "count": 19
     },
     {
-      "term": "デー",
-      "count": 17
-    },
-    {
-      "term": "って",
-      "count": 16
-    },
-    {
-      "term": "信頼",
+      "term": "リポ",
       "count": 15
     },
     {
-      "term": "cat",
+      "term": "パイ",
+      "count": 15
+    },
+    {
+      "term": "図 ",
+      "count": 15
+    },
+    {
+      "term": "ータ",
+      "count": 15
+    },
+    {
+      "term": "れる",
       "count": 14
     },
     {
-      "term": "用す",
+      "term": "スコ",
       "count": 13
     },
     {
-      "term": "から",
+      "term": "イプ",
       "count": 13
     },
     {
-      "term": "とで",
+      "term": "担保",
+      "count": 13
+    },
+    {
+      "term": "脆弱",
       "count": 12
     },
     {
-      "term": "を取",
+      "term": "る必",
       "count": 12
     },
     {
-      "term": "フォーム",
+      "term": "取得",
       "count": 11
     },
     {
-      "term": "ジト",
-      "count": 11
-    },
-    {
-      "term": "制限",
-      "count": 11
-    },
-    {
-      "term": "ー ",
+      "term": "提供",
       "count": 10
     },
     {
-      "term": "terraform",
+      "term": "検証",
       "count": 10
     },
     {
-      "term": "た ",
+      "term": "git",
+      "count": 10
+    },
+    {
+      "term": "る具",
+      "count": 10
+    },
+    {
+      "term": "の確",
+      "count": 9
+    },
+    {
+      "term": "含む",
       "count": 9
     },
     {
@@ -70,15 +82,27 @@
       "count": 9
     },
     {
-      "term": "スの",
+      "term": "範囲",
+      "count": 9
+    },
+    {
+      "term": "シス",
       "count": 8
     },
     {
-      "term": "また",
+      "term": "リス",
       "count": 8
     },
     {
-      "term": "定義",
+      "term": "trivy",
+      "count": 8
+    },
+    {
+      "term": "洩対",
+      "count": 7
+    },
+    {
+      "term": "ウェ",
       "count": 7
     },
     {
@@ -86,51 +110,35 @@
       "count": 7
     },
     {
-      "term": "クセ",
-      "count": 7
-    },
-    {
-      "term": "rulesets",
-      "count": 7
-    },
-    {
-      "term": "可能であ",
-      "count": 7
-    },
-    {
-      "term": "加え",
-      "count": 7
-    },
-    {
-      "term": "共通",
+      "term": "たが",
       "count": 6
     },
     {
-      "term": "シークレ",
+      "term": "プロ",
       "count": 6
     },
     {
-      "term": "プロバイ",
+      "term": "ウン",
       "count": 6
     },
     {
-      "term": "体の",
+      "term": "ここでは",
       "count": 6
     },
     {
-      "term": "ーを",
+      "term": "策に",
       "count": 6
     },
     {
-      "term": "うこ",
+      "term": "secrets",
       "count": 6
     },
     {
-      "term": "の利",
+      "term": "ーと",
       "count": 6
     },
     {
-      "term": "の変",
+      "term": "とは",
       "count": 6
     },
     {
@@ -138,19 +146,35 @@
       "count": 6
     },
     {
-      "term": "守 ",
+      "term": "要と",
+      "count": 6
+    },
+    {
+      "term": "ubuntu",
+      "count": 6
+    },
+    {
+      "term": "とに",
       "count": 5
     },
     {
-      "term": "めの",
+      "term": "用者",
       "count": 5
     },
     {
-      "term": "した",
+      "term": "資産管理",
       "count": 5
     },
     {
-      "term": "ることを",
+      "term": "ドフ",
+      "count": 5
+    },
+    {
+      "term": "利用",
+      "count": 5
+    },
+    {
+      "term": "るし",
       "count": 5
     },
     {
@@ -158,11 +182,11 @@
       "count": 5
     },
     {
-      "term": "る主",
+      "term": "理下",
       "count": 5
     },
     {
-      "term": "配布",
+      "term": "で ",
       "count": 5
     },
     {
@@ -170,35 +194,11 @@
       "count": 5
     },
     {
-      "term": "の成果物",
+      "term": "sbom",
       "count": 5
     },
     {
-      "term": "対応",
-      "count": 5
-    },
-    {
-      "term": "とと",
-      "count": 5
-    },
-    {
-      "term": "本書",
-      "count": 5
-    },
-    {
-      "term": "うに",
-      "count": 5
-    },
-    {
-      "term": "定を",
-      "count": 5
-    },
-    {
-      "term": "この",
-      "count": 5
-    },
-    {
-      "term": "outputs",
+      "term": "承認",
       "count": 5
     }
   ],
