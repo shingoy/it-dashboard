@@ -2,163 +2,171 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ール",
-      "count": 20
+      "term": "する",
+      "count": 28
     },
     {
-      "term": "aws",
+      "term": "る ",
+      "count": 26
+    },
+    {
+      "term": "であ",
+      "count": 22
+    },
+    {
+      "term": "ァイ",
       "count": 19
     },
     {
-      "term": "リポ",
-      "count": 15
-    },
-    {
       "term": "パイ",
+      "count": 18
+    },
+    {
+      "term": "リポジト",
+      "count": 18
+    },
+    {
+      "term": "安全",
+      "count": 17
+    },
+    {
+      "term": "ない",
+      "count": 17
+    },
+    {
+      "term": "ムチ",
       "count": 15
     },
     {
-      "term": "図 ",
-      "count": 15
-    },
-    {
-      "term": "ータ",
-      "count": 15
-    },
-    {
-      "term": "れる",
+      "term": "デー",
       "count": 14
     },
     {
+      "term": "に ",
+      "count": 13
+    },
+    {
+      "term": "いる",
+      "count": 13
+    },
+    {
+      "term": "ンテ",
+      "count": 13
+    },
+    {
+      "term": "があ",
+      "count": 13
+    },
+    {
       "term": "スコ",
-      "count": 13
-    },
-    {
-      "term": "イプ",
-      "count": 13
-    },
-    {
-      "term": "担保",
-      "count": 13
-    },
-    {
-      "term": "脆弱",
       "count": 12
     },
     {
-      "term": "る必",
-      "count": 12
-    },
-    {
-      "term": "取得",
+      "term": "ズの",
       "count": 11
     },
     {
-      "term": "提供",
+      "term": "セス",
       "count": 10
     },
     {
-      "term": "検証",
-      "count": 10
-    },
-    {
-      "term": "git",
-      "count": 10
-    },
-    {
-      "term": "る具",
-      "count": 10
-    },
-    {
-      "term": "の確",
+      "term": "権限",
       "count": 9
     },
     {
-      "term": "含む",
+      "term": "指定",
       "count": 9
     },
     {
-      "term": "れて",
+      "term": "with",
       "count": 9
     },
     {
-      "term": "範囲",
+      "term": "uses",
       "count": 9
     },
     {
-      "term": "シス",
+      "term": "action",
+      "count": 9
+    },
+    {
+      "term": "及び",
       "count": 8
     },
     {
-      "term": "リス",
+      "term": "るそ",
       "count": 8
     },
     {
-      "term": "trivy",
-      "count": 8
-    },
-    {
-      "term": "洩対",
+      "term": "自動",
       "count": 7
     },
     {
-      "term": "ウェ",
+      "term": "ダー",
       "count": 7
     },
     {
-      "term": "アッ",
+      "term": "および",
       "count": 7
     },
     {
-      "term": "たが",
+      "term": "name",
+      "count": 7
+    },
+    {
+      "term": "digest",
+      "count": 7
+    },
+    {
+      "term": "混入",
+      "count": 7
+    },
+    {
+      "term": "ンに",
       "count": 6
     },
     {
-      "term": "プロ",
+      "term": "ュリ",
       "count": 6
     },
     {
-      "term": "ウン",
+      "term": "プロバイ",
       "count": 6
     },
     {
-      "term": "ここでは",
+      "term": "ス ",
       "count": 6
     },
     {
-      "term": "策に",
+      "term": "要がある",
       "count": 6
     },
     {
-      "term": "secrets",
+      "term": "ジを",
       "count": 6
     },
     {
-      "term": "ーと",
+      "term": "ついては",
       "count": 6
     },
     {
-      "term": "とは",
+      "term": "のg",
       "count": 6
     },
     {
-      "term": "true",
+      "term": "の事",
       "count": 6
     },
     {
-      "term": "要と",
+      "term": "能で",
       "count": 6
     },
     {
-      "term": "ubuntu",
+      "term": "合は",
       "count": 6
     },
     {
-      "term": "とに",
-      "count": 5
-    },
-    {
-      "term": "用者",
+      "term": "た信",
       "count": 5
     },
     {
@@ -166,39 +174,31 @@
       "count": 5
     },
     {
-      "term": "ドフ",
+      "term": "実装",
       "count": 5
     },
     {
-      "term": "利用",
+      "term": "をも",
       "count": 5
     },
     {
-      "term": "るし",
+      "term": "システム",
       "count": 5
     },
     {
-      "term": "想定",
+      "term": "ることを",
       "count": 5
     },
     {
-      "term": "理下",
+      "term": "はあ",
+      "count": 5
+    },
+    {
+      "term": "そし",
       "count": 5
     },
     {
       "term": "で ",
-      "count": 5
-    },
-    {
-      "term": "れは",
-      "count": 5
-    },
-    {
-      "term": "sbom",
-      "count": 5
-    },
-    {
-      "term": "承認",
       "count": 5
     }
   ],
