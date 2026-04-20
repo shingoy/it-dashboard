@@ -2,159 +2,131 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 25
+      "term": "る ",
+      "count": 28
     },
     {
-      "term": "でき",
-      "count": 23
-    },
-    {
-      "term": "きる",
-      "count": 23
-    },
-    {
-      "term": "ァイ",
+      "term": "トリ",
       "count": 19
     },
     {
-      "term": "の保",
+      "term": "ース",
+      "count": 17
+    },
+    {
+      "term": "から",
       "count": 15
     },
     {
-      "term": "るた",
-      "count": 15
-    },
-    {
-      "term": "よう",
-      "count": 15
-    },
-    {
-      "term": "ドフ",
+      "term": "タデ",
       "count": 14
     },
     {
-      "term": "いて",
-      "count": 14
-    },
-    {
-      "term": "られ",
-      "count": 14
-    },
-    {
-      "term": "ルを",
-      "count": 14
-    },
-    {
-      "term": "この",
-      "count": 14
-    },
-    {
-      "term": "ント",
+      "term": "への",
       "count": 12
     },
     {
-      "term": "れら",
-      "count": 12
-    },
-    {
-      "term": "steps",
-      "count": 12
-    },
-    {
-      "term": "はc",
+      "term": "制限",
       "count": 11
     },
     {
-      "term": "ジト",
+      "term": "成果物の",
       "count": 11
     },
     {
-      "term": "取得",
+      "term": "状態",
       "count": 11
     },
     {
-      "term": "る図",
+      "term": "イメ",
       "count": 11
     },
     {
-      "term": "確保",
+      "term": "理を",
       "count": 10
     },
     {
-      "term": "sbom",
+      "term": "つい",
       "count": 10
     },
     {
-      "term": "リバ",
+      "term": "ここ",
+      "count": 10
+    },
+    {
+      "term": "クを",
+      "count": 10
+    },
+    {
+      "term": "デリ",
       "count": 9
     },
     {
-      "term": "とし",
+      "term": "それ",
       "count": 9
     },
     {
-      "term": "行範",
+      "term": "ては",
+      "count": 9
+    },
+    {
+      "term": "ubuntu",
+      "count": 9
+    },
+    {
+      "term": "シス",
       "count": 8
     },
     {
-      "term": "書で",
+      "term": "護 ",
       "count": 8
     },
     {
-      "term": "スク",
+      "term": "その",
       "count": 8
     },
     {
-      "term": "の担",
+      "term": "スト",
       "count": 8
     },
     {
-      "term": "用し",
+      "term": "の取",
       "count": 8
     },
     {
-      "term": "能で",
+      "term": "確認",
       "count": 8
     },
     {
-      "term": "あり",
+      "term": "に対",
+      "count": 8
+    },
+    {
+      "term": "リ及",
       "count": 7
     },
     {
-      "term": "略す",
+      "term": "定 ",
       "count": 7
     },
     {
-      "term": "の管",
+      "term": "範囲",
       "count": 7
     },
     {
-      "term": "クセ",
+      "term": "では",
       "count": 7
     },
     {
-      "term": "ため",
+      "term": "いっ",
       "count": 7
     },
     {
-      "term": "ド設",
-      "count": 7
-    },
-    {
-      "term": "混入",
-      "count": 7
-    },
-    {
-      "term": "す ",
-      "count": 7
-    },
-    {
-      "term": "を示",
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "の漏洩対",
+      "term": "ド管",
       "count": 6
     },
     {
@@ -162,43 +134,71 @@
       "count": 6
     },
     {
-      "term": "等の",
+      "term": "ここでは",
       "count": 6
     },
     {
-      "term": "ルと",
+      "term": "および",
       "count": 6
     },
     {
-      "term": "ムは",
+      "term": "ジの",
       "count": 6
     },
     {
-      "term": "plan",
+      "term": "の変",
       "count": 6
     },
     {
-      "term": "とも",
+      "term": "される",
       "count": 6
     },
     {
-      "term": "レビ",
+      "term": "rulesets",
       "count": 6
     },
     {
-      "term": "リオ",
+      "term": "repository",
+      "count": 6
+    },
+    {
+      "term": "容を",
+      "count": 6
+    },
+    {
+      "term": "ても",
+      "count": 6
+    },
+    {
+      "term": "tf",
+      "count": 6
+    },
+    {
+      "term": "ることが",
+      "count": 6
+    },
+    {
+      "term": "合は",
+      "count": 6
+    },
+    {
+      "term": "要 ",
       "count": 5
     },
     {
-      "term": "運用",
+      "term": "む運",
       "count": 5
     },
     {
-      "term": "信頼でき",
+      "term": "守 ",
       "count": 5
     },
     {
-      "term": "限 ",
+      "term": "リポ",
+      "count": 5
+    },
+    {
+      "term": "てc",
       "count": 5
     }
   ],
