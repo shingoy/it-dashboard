@@ -2,171 +2,67 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "開発",
+      "term": "通信",
       "count": 2
     },
     {
-      "term": "文革",
+      "term": "文大",
       "count": 2
     },
     {
-      "term": "規模",
+      "term": "海底ケー",
       "count": 2
     },
     {
-      "term": "主導",
+      "term": "究 ",
       "count": 2
     },
     {
-      "term": "強化",
+      "term": "ュー",
       "count": 2
     },
     {
-      "term": "総海",
+      "term": "ィジ",
       "count": 2
     },
     {
-      "term": "beyond",
+      "term": "ガバ",
       "count": 2
     },
     {
-      "term": "スの主導",
+      "term": "内経",
       "count": 2
     },
     {
-      "term": "ai",
+      "term": "ーシ",
       "count": 2
     },
     {
-      "term": "等支援",
+      "term": "盤の",
       "count": 2
     },
     {
-      "term": "aisi",
+      "term": "資す",
       "count": 2
     },
     {
-      "term": "653",
+      "term": "実証",
+      "count": 2
+    },
+    {
+      "term": "進 ",
+      "count": 2
+    },
+    {
+      "term": "地方",
+      "count": 2
+    },
+    {
+      "term": "現す",
       "count": 1
     },
     {
-      "term": "た匿名",
-      "count": 1
-    },
-    {
-      "term": "深い",
-      "count": 1
-    },
-    {
-      "term": "シス",
-      "count": 1
-    },
-    {
-      "term": "の方",
-      "count": 1
-    },
-    {
-      "term": "域に",
-      "count": 1
-    },
-    {
-      "term": "を総",
-      "count": 1
-    },
-    {
-      "term": "に係",
-      "count": 1
-    },
-    {
-      "term": "析シ",
-      "count": 1
-    },
-    {
-      "term": "の戦",
-      "count": 1
-    },
-    {
-      "term": "科学",
-      "count": 1
-    },
-    {
-      "term": "ズに",
-      "count": 1
-    },
-    {
-      "term": "ム新",
-      "count": 1
-    },
-    {
-      "term": "変革",
-      "count": 1
-    },
-    {
-      "term": "に推",
-      "count": 1
-    },
-    {
-      "term": "ド構",
-      "count": 1
-    },
-    {
-      "term": "算額",
-      "count": 1
-    },
-    {
-      "term": "42",
-      "count": 1
-    },
-    {
-      "term": "日本",
-      "count": 1
-    },
-    {
-      "term": "算総",
-      "count": 1
-    },
-    {
-      "term": "文ａ",
-      "count": 1
-    },
-    {
-      "term": "発活",
-      "count": 1
-    },
-    {
-      "term": "介護",
-      "count": 1
-    },
-    {
-      "term": "スト",
-      "count": 1
-    },
-    {
-      "term": "戦略",
-      "count": 1
-    },
-    {
-      "term": "一部",
-      "count": 1
-    },
-    {
-      "term": "額を抽出",
-      "count": 1
-    },
-    {
-      "term": "月全面施",
-      "count": 1
-    },
-    {
-      "term": "脳循",
-      "count": 1
-    },
-    {
-      "term": "成立",
-      "count": 1
-    },
-    {
-      "term": "用支",
+      "term": "に向けて",
       "count": 1
     },
     {
@@ -174,31 +70,135 @@
       "count": 1
     },
     {
-      "term": "ロジ",
+      "term": "例 ",
       "count": 1
     },
     {
-      "term": "ラh",
+      "term": "の推進等",
       "count": 1
     },
     {
-      "term": "129",
+      "term": "融機",
       "count": 1
     },
     {
-      "term": "605",
+      "term": "実現",
       "count": 1
     },
     {
-      "term": "合は",
+      "term": "スク",
       "count": 1
     },
     {
-      "term": "に対",
+      "term": "信頼でき",
       "count": 1
     },
     {
-      "term": "究 ",
+      "term": "析シ",
+      "count": 1
+    },
+    {
+      "term": "経ａ",
+      "count": 1
+    },
+    {
+      "term": "的変",
+      "count": 1
+    },
+    {
+      "term": "383",
+      "count": 1
+    },
+    {
+      "term": "を抽",
+      "count": 1
+    },
+    {
+      "term": "に係る調",
+      "count": 1
+    },
+    {
+      "term": "利活用の",
+      "count": 1
+    },
+    {
+      "term": "入し",
+      "count": 1
+    },
+    {
+      "term": "評価手法",
+      "count": 1
+    },
+    {
+      "term": "する",
+      "count": 1
+    },
+    {
+      "term": "新 ",
+      "count": 1
+    },
+    {
+      "term": "ム新",
+      "count": 1
+    },
+    {
+      "term": "びリ",
+      "count": 1
+    },
+    {
+      "term": "活用支援",
+      "count": 1
+    },
+    {
+      "term": "月全",
+      "count": 1
+    },
+    {
+      "term": "を実",
+      "count": 1
+    },
+    {
+      "term": "まず",
+      "count": 1
+    },
+    {
+      "term": "年1",
+      "count": 1
+    },
+    {
+      "term": "経済対策",
+      "count": 1
+    },
+    {
+      "term": "場の生産",
+      "count": 1
+    },
+    {
+      "term": "査新",
+      "count": 1
+    },
+    {
+      "term": "の加",
+      "count": 1
+    },
+    {
+      "term": "社会に向",
+      "count": 1
+    },
+    {
+      "term": "の強",
+      "count": 1
+    },
+    {
+      "term": "いて",
+      "count": 1
+    },
+    {
+      "term": "含む",
+      "count": 1
+    },
+    {
+      "term": "フォ",
       "count": 1
     }
   ],
