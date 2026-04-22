@@ -2,43 +2,47 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "きる",
-      "count": 23
+      "term": "ある",
+      "count": 25
     },
     {
-      "term": "果物",
-      "count": 20
-    },
-    {
-      "term": "aws",
+      "term": "リポ",
       "count": 19
     },
     {
-      "term": "ージ",
+      "term": "では",
+      "count": 19
+    },
+    {
+      "term": "いる",
       "count": 18
     },
     {
-      "term": "ソー",
-      "count": 16
-    },
-    {
-      "term": "的な",
+      "term": "から",
       "count": 15
     },
     {
-      "term": "ナイ",
+      "term": "テナ",
       "count": 15
     },
     {
-      "term": "とな",
-      "count": 15
-    },
-    {
-      "term": "した",
+      "term": "ジト",
       "count": 14
     },
     {
-      "term": "必要",
+      "term": "るた",
+      "count": 14
+    },
+    {
+      "term": "ムの",
+      "count": 13
+    },
+    {
+      "term": "の安",
+      "count": 13
+    },
+    {
+      "term": "とが",
       "count": 13
     },
     {
@@ -46,83 +50,87 @@
       "count": 12
     },
     {
-      "term": "れら",
-      "count": 12
-    },
-    {
-      "term": "存物",
+      "term": "考え",
       "count": 11
     },
     {
-      "term": "ビルドフ",
+      "term": "可能",
+      "count": 11
+    },
+    {
+      "term": "保 ",
       "count": 10
     },
     {
-      "term": "はc",
+      "term": "クレ",
       "count": 10
-    },
-    {
-      "term": "ー ",
-      "count": 10
-    },
-    {
-      "term": "sbom",
-      "count": 10
-    },
-    {
-      "term": "につ",
-      "count": 9
-    },
-    {
-      "term": "image",
-      "count": 9
-    },
-    {
-      "term": "カル",
-      "count": 8
-    },
-    {
-      "term": "定内",
-      "count": 8
     },
     {
       "term": "ている",
+      "count": 10
+    },
+    {
+      "term": "build",
+      "count": 10
+    },
+    {
+      "term": "ける",
+      "count": 9
+    },
+    {
+      "term": "デリ",
+      "count": 9
+    },
+    {
+      "term": "より",
+      "count": 9
+    },
+    {
+      "term": "に対",
+      "count": 9
+    },
+    {
+      "term": "outputs",
+      "count": 9
+    },
+    {
+      "term": "トに",
       "count": 8
     },
     {
-      "term": "らの",
+      "term": "フェーズ",
       "count": 8
     },
     {
-      "term": "git",
+      "term": "トを",
       "count": 8
     },
     {
-      "term": "れた",
+      "term": "作成",
       "count": 8
     },
     {
-      "term": "共通",
+      "term": "commit",
+      "count": 8
+    },
+    {
+      "term": "内の",
       "count": 7
     },
     {
-      "term": "リ及",
+      "term": "デリバリ",
       "count": 7
     },
     {
-      "term": "イナ",
+      "term": "物を",
       "count": 7
     },
     {
-      "term": "ダー",
+      "term": "にな",
       "count": 7
     },
     {
-      "term": "れば",
-      "count": 7
-    },
-    {
-      "term": "ップ",
+      "term": "それ",
       "count": 7
     },
     {
@@ -130,63 +138,39 @@
       "count": 7
     },
     {
-      "term": "と同",
+      "term": "cat",
       "count": 7
     },
     {
-      "term": "に加",
-      "count": 7
-    },
-    {
-      "term": "開発",
+      "term": "ポジ",
       "count": 6
     },
     {
-      "term": "ソフトウ",
+      "term": "ロバ",
       "count": 6
     },
     {
-      "term": "等の",
+      "term": "フ ",
       "count": 6
     },
     {
-      "term": "定 ",
+      "term": "ここでは",
       "count": 6
     },
     {
-      "term": "リバ",
+      "term": "provenance",
       "count": 6
     },
     {
-      "term": "カウ",
+      "term": "クト",
       "count": 6
     },
     {
-      "term": "ムは",
+      "term": "影響",
       "count": 6
     },
     {
-      "term": "方法",
-      "count": 6
-    },
-    {
-      "term": "生成",
-      "count": 6
-    },
-    {
-      "term": "の連",
-      "count": 6
-    },
-    {
-      "term": "rule",
-      "count": 6
-    },
-    {
-      "term": "commit",
-      "count": 6
-    },
-    {
-      "term": "中略",
+      "term": "tf",
       "count": 6
     },
     {
@@ -194,11 +178,27 @@
       "count": 6
     },
     {
-      "term": "ード",
+      "term": "に加",
+      "count": 6
+    },
+    {
+      "term": "リオ",
       "count": 5
     },
     {
-      "term": "する",
+      "term": "ケー",
+      "count": 5
+    },
+    {
+      "term": "ショ",
+      "count": 5
+    },
+    {
+      "term": "脆弱性管",
+      "count": 5
+    },
+    {
+      "term": "ード",
       "count": 5
     }
   ],
