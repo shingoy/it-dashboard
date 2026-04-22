@@ -2,163 +2,187 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 28
+      "term": "きる",
+      "count": 23
     },
     {
-      "term": "github",
-      "count": 26
+      "term": "果物",
+      "count": 20
     },
     {
-      "term": "その",
-      "count": 21
-    },
-    {
-      "term": "ビル",
+      "term": "aws",
       "count": 19
     },
     {
-      "term": "物の",
-      "count": 17
+      "term": "ージ",
+      "count": 18
     },
     {
-      "term": "ポジ",
+      "term": "ソー",
       "count": 16
     },
     {
-      "term": "よび",
+      "term": "的な",
       "count": 15
     },
     {
-      "term": "って",
+      "term": "ナイ",
       "count": 15
     },
     {
-      "term": "テナ",
+      "term": "とな",
       "count": 15
     },
     {
-      "term": "ける",
+      "term": "した",
+      "count": 14
+    },
+    {
+      "term": "必要",
+      "count": 13
+    },
+    {
+      "term": "ソースコ",
       "count": 12
     },
     {
-      "term": "こで",
+      "term": "れら",
       "count": 12
     },
     {
-      "term": "加え",
+      "term": "存物",
       "count": 11
     },
     {
-      "term": "具体",
+      "term": "ビルドフ",
       "count": 10
     },
     {
-      "term": "検証",
+      "term": "はc",
       "count": 10
     },
     {
-      "term": "確認",
+      "term": "ー ",
       "count": 10
     },
     {
-      "term": "よう",
+      "term": "sbom",
       "count": 10
     },
     {
-      "term": "ブラ",
+      "term": "につ",
       "count": 9
     },
     {
-      "term": "のc",
+      "term": "image",
       "count": 9
     },
     {
-      "term": "フト",
-      "count": 9
-    },
-    {
-      "term": "とい",
-      "count": 9
-    },
-    {
-      "term": "yml",
-      "count": 9
-    },
-    {
-      "term": "ーカ",
+      "term": "カル",
       "count": 8
     },
     {
-      "term": "フェーズ",
+      "term": "定内",
       "count": 8
     },
     {
-      "term": "リソ",
+      "term": "ている",
       "count": 8
     },
     {
-      "term": "docker",
+      "term": "らの",
       "count": 8
     },
     {
-      "term": "repository",
+      "term": "git",
       "count": 8
     },
     {
-      "term": "のよ",
+      "term": "れた",
       "count": 8
     },
     {
-      "term": "関す",
+      "term": "共通",
       "count": 7
+    },
+    {
+      "term": "リ及",
+      "count": 7
+    },
+    {
+      "term": "イナ",
+      "count": 7
+    },
+    {
+      "term": "ダー",
+      "count": 7
+    },
+    {
+      "term": "れば",
+      "count": 7
+    },
+    {
+      "term": "ップ",
+      "count": 7
+    },
+    {
+      "term": "はg",
+      "count": 7
+    },
+    {
+      "term": "と同",
+      "count": 7
+    },
+    {
+      "term": "に加",
+      "count": 7
+    },
+    {
+      "term": "開発",
+      "count": 6
+    },
+    {
+      "term": "ソフトウ",
+      "count": 6
+    },
+    {
+      "term": "等の",
+      "count": 6
     },
     {
       "term": "定 ",
-      "count": 7
-    },
-    {
-      "term": "略す",
-      "count": 7
-    },
-    {
-      "term": "対し",
-      "count": 7
-    },
-    {
-      "term": "アッ",
-      "count": 7
-    },
-    {
-      "term": "ット情報",
       "count": 6
     },
     {
-      "term": "の署",
+      "term": "リバ",
       "count": 6
     },
     {
-      "term": "複数",
+      "term": "カウ",
       "count": 6
     },
     {
-      "term": "提供",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "書で",
+      "term": "方法",
       "count": 6
     },
     {
-      "term": "secrets",
+      "term": "生成",
       "count": 6
     },
     {
-      "term": "省略",
+      "term": "の連",
       "count": 6
     },
     {
-      "term": "など",
+      "term": "rule",
+      "count": 6
+    },
+    {
+      "term": "commit",
       "count": 6
     },
     {
@@ -166,39 +190,15 @@
       "count": 6
     },
     {
-      "term": "る ",
+      "term": "and",
       "count": 6
-    },
-    {
-      "term": "た場",
-      "count": 6
-    },
-    {
-      "term": "ている",
-      "count": 6
-    },
-    {
-      "term": "えて",
-      "count": 6
-    },
-    {
-      "term": "とに",
-      "count": 5
-    },
-    {
-      "term": "運用保守",
-      "count": 5
-    },
-    {
-      "term": "を含",
-      "count": 5
-    },
-    {
-      "term": "コー",
-      "count": 5
     },
     {
       "term": "ード",
+      "count": 5
+    },
+    {
+      "term": "する",
       "count": 5
     }
   ],
