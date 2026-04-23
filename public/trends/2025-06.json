@@ -6,63 +6,67 @@
       "count": 25
     },
     {
-      "term": "リポ",
-      "count": 19
+      "term": "する",
+      "count": 23
     },
     {
-      "term": "では",
-      "count": 19
+      "term": "てい",
+      "count": 20
     },
     {
-      "term": "いる",
+      "term": "管理",
       "count": 18
     },
     {
-      "term": "から",
+      "term": "には",
+      "count": 17
+    },
+    {
+      "term": "ビル",
+      "count": 16
+    },
+    {
+      "term": "信頼",
       "count": 15
     },
     {
-      "term": "テナ",
+      "term": "ロー",
       "count": 15
     },
     {
-      "term": "ジト",
+      "term": "また",
+      "count": 15
+    },
+    {
+      "term": "性の",
       "count": 14
     },
     {
-      "term": "るた",
+      "term": "スチ",
       "count": 14
     },
     {
-      "term": "ムの",
+      "term": "内容",
       "count": 13
     },
     {
-      "term": "の安",
-      "count": 13
-    },
-    {
-      "term": "とが",
-      "count": 13
-    },
-    {
-      "term": "ソースコ",
+      "term": "ーズ",
       "count": 12
     },
     {
-      "term": "考え",
+      "term": "構成",
+      "count": 12
+    },
+    {
+      "term": "ティ",
       "count": 11
     },
     {
-      "term": "可能",
+      "term": "上で",
       "count": 11
     },
     {
-      "term": "保 ",
-      "count": 10
-    },
-    {
-      "term": "クレ",
+      "term": "レッ",
       "count": 10
     },
     {
@@ -70,136 +74,132 @@
       "count": 10
     },
     {
-      "term": "build",
+      "term": "ー ",
       "count": 10
     },
     {
-      "term": "ける",
+      "term": "セス",
+      "count": 10
+    },
+    {
+      "term": "trivy",
+      "count": 10
+    },
+    {
+      "term": "on",
+      "count": 10
+    },
+    {
+      "term": "に関",
       "count": 9
     },
     {
-      "term": "デリ",
+      "term": "リバ",
       "count": 9
     },
     {
-      "term": "より",
+      "term": "れて",
       "count": 9
     },
     {
-      "term": "に対",
+      "term": "ーを",
       "count": 9
+    },
+    {
+      "term": "内で",
+      "count": 9
+    },
+    {
+      "term": "るが",
+      "count": 9
+    },
+    {
+      "term": "通し",
+      "count": 8
+    },
+    {
+      "term": "での実行",
+      "count": 8
+    },
+    {
+      "term": "フト",
+      "count": 8
+    },
+    {
+      "term": "書で",
+      "count": 8
+    },
+    {
+      "term": "ルー",
+      "count": 8
+    },
+    {
+      "term": "のよ",
+      "count": 8
     },
     {
       "term": "outputs",
-      "count": 9
-    },
-    {
-      "term": "トに",
       "count": 8
     },
     {
-      "term": "フェーズ",
-      "count": 8
-    },
-    {
-      "term": "トを",
-      "count": 8
-    },
-    {
-      "term": "作成",
-      "count": 8
-    },
-    {
-      "term": "commit",
-      "count": 8
-    },
-    {
-      "term": "内の",
+      "term": "バイナリ",
       "count": 7
     },
     {
-      "term": "デリバリ",
+      "term": "自動",
       "count": 7
     },
     {
-      "term": "物を",
+      "term": "考えられ",
       "count": 7
     },
     {
-      "term": "にな",
+      "term": "ると",
       "count": 7
     },
     {
-      "term": "それ",
+      "term": "定義",
       "count": 7
     },
     {
-      "term": "はg",
+      "term": "ル ",
       "count": 7
     },
     {
-      "term": "cat",
+      "term": "ンb",
       "count": 7
     },
     {
-      "term": "ポジ",
-      "count": 6
+      "term": "など",
+      "count": 7
     },
     {
-      "term": "ロバ",
-      "count": 6
+      "term": "があ",
+      "count": 7
     },
     {
-      "term": "フ ",
-      "count": 6
-    },
-    {
-      "term": "ここでは",
-      "count": 6
-    },
-    {
-      "term": "provenance",
-      "count": 6
-    },
-    {
-      "term": "クト",
-      "count": 6
-    },
-    {
-      "term": "影響",
-      "count": 6
-    },
-    {
-      "term": "tf",
-      "count": 6
-    },
-    {
-      "term": "and",
-      "count": 6
-    },
-    {
-      "term": "に加",
-      "count": 6
-    },
-    {
-      "term": "リオ",
-      "count": 5
-    },
-    {
-      "term": "ケー",
-      "count": 5
+      "term": "要と",
+      "count": 7
     },
     {
       "term": "ショ",
-      "count": 5
+      "count": 6
     },
     {
-      "term": "脆弱性管",
-      "count": 5
+      "term": "はa",
+      "count": 6
     },
     {
-      "term": "ード",
-      "count": 5
+      "term": "る主",
+      "count": 6
+    },
+    {
+      "term": "体の",
+      "count": 6
+    },
+    {
+      "term": "ムは",
+      "count": 6
     }
   ],
   "meetings": [
