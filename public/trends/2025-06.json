@@ -2,131 +2,183 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "る ",
-      "count": 28
+      "term": "され",
+      "count": 27
     },
     {
-      "term": "的な",
+      "term": "であ",
+      "count": 22
+    },
+    {
+      "term": "パイプラ",
+      "count": 20
+    },
+    {
+      "term": "ット",
+      "count": 20
+    },
+    {
+      "term": "ポジ",
+      "count": 20
+    },
+    {
+      "term": "とし",
+      "count": 17
+    },
+    {
+      "term": "るた",
       "count": 15
     },
     {
-      "term": "フォ",
+      "term": "なる",
       "count": 15
-    },
-    {
-      "term": "テナ",
-      "count": 15
-    },
-    {
-      "term": "ルド",
-      "count": 14
     },
     {
       "term": "必要",
+      "count": 15
+    },
+    {
+      "term": "ける",
       "count": 14
     },
     {
-      "term": "ータ",
+      "term": "での",
+      "count": 14
+    },
+    {
+      "term": "ンを",
       "count": 13
     },
     {
-      "term": "護 ",
+      "term": "にお",
+      "count": 13
+    },
+    {
+      "term": "の成",
+      "count": 13
+    },
+    {
+      "term": "的に",
+      "count": 13
+    },
+    {
+      "term": "確認",
+      "count": 13
+    },
+    {
+      "term": "対策",
       "count": 12
     },
     {
-      "term": "ント",
+      "term": "変更",
       "count": 12
     },
     {
-      "term": "全性",
+      "term": "てい",
       "count": 12
+    },
+    {
+      "term": "依存",
+      "count": 11
+    },
+    {
+      "term": "push",
+      "count": 11
+    },
+    {
+      "term": "とす",
+      "count": 10
+    },
+    {
+      "term": "に ",
+      "count": 10
+    },
+    {
+      "term": "ている",
+      "count": 10
+    },
+    {
+      "term": "trivy",
+      "count": 10
+    },
+    {
+      "term": "tf",
+      "count": 10
+    },
+    {
+      "term": "の担",
+      "count": 9
+    },
+    {
+      "term": "より",
+      "count": 9
+    },
+    {
+      "term": "安全",
+      "count": 9
+    },
+    {
+      "term": "uses",
+      "count": 9
+    },
+    {
+      "term": "行範",
+      "count": 8
+    },
+    {
+      "term": "本書",
+      "count": 8
+    },
+    {
+      "term": "用し",
+      "count": 8
+    },
+    {
+      "term": "の管",
+      "count": 8
     },
     {
       "term": "のメ",
-      "count": 12
-    },
-    {
-      "term": "フォーム",
-      "count": 11
-    },
-    {
-      "term": "体的",
-      "count": 11
-    },
-    {
-      "term": "ビス",
-      "count": 11
-    },
-    {
-      "term": "その",
-      "count": 10
-    },
-    {
-      "term": "内で",
-      "count": 10
-    },
-    {
-      "term": "なお",
-      "count": 9
-    },
-    {
-      "term": "の実",
-      "count": 9
-    },
-    {
-      "term": "run",
-      "count": 9
-    },
-    {
-      "term": "ウェ",
       "count": 8
     },
     {
-      "term": "ーに",
-      "count": 8
-    },
-    {
-      "term": "commit",
-      "count": 8
-    },
-    {
-      "term": "指定",
-      "count": 8
-    },
-    {
-      "term": "ubuntu",
-      "count": 8
-    },
-    {
-      "term": "システム",
+      "term": "リ及",
       "count": 7
     },
     {
-      "term": "を含",
+      "term": "関す",
       "count": 7
     },
     {
-      "term": "ムチ",
+      "term": "シークレ",
       "count": 7
     },
     {
-      "term": "17",
+      "term": "自動",
       "count": 7
     },
     {
-      "term": "るま",
+      "term": "サービス",
       "count": 7
     },
     {
-      "term": "イナ",
+      "term": "定義",
       "count": 7
     },
     {
-      "term": "記述",
+      "term": "plan",
       "count": 7
     },
     {
-      "term": "事項",
+      "term": "への",
+      "count": 7
+    },
+    {
+      "term": "を実",
+      "count": 7
+    },
+    {
+      "term": "name",
       "count": 7
     },
     {
@@ -134,72 +186,20 @@
       "count": 7
     },
     {
-      "term": "を示",
+      "term": "と同",
+      "count": 7
+    },
+    {
+      "term": "もの",
       "count": 6
     },
     {
-      "term": "開発",
+      "term": "ェッ",
       "count": 6
     },
     {
-      "term": "トウ",
+      "term": "用可",
       "count": 6
-    },
-    {
-      "term": "ファ",
-      "count": 6
-    },
-    {
-      "term": "codebuild",
-      "count": 6
-    },
-    {
-      "term": "カウ",
-      "count": 6
-    },
-    {
-      "term": "らな",
-      "count": 6
-    },
-    {
-      "term": "tf",
-      "count": 6
-    },
-    {
-      "term": "検出",
-      "count": 6
-    },
-    {
-      "term": "イメージ",
-      "count": 6
-    },
-    {
-      "term": "する",
-      "count": 5
-    },
-    {
-      "term": "理す",
-      "count": 5
-    },
-    {
-      "term": "ド環",
-      "count": 5
-    },
-    {
-      "term": "docker",
-      "count": 5
-    },
-    {
-      "term": "を使",
-      "count": 5
-    },
-    {
-      "term": "項で",
-      "count": 5
-    },
-    {
-      "term": "下の",
-      "count": 5
     }
   ],
   "meetings": [
