@@ -2,67 +2,31 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "され",
-      "count": 27
+      "term": "図 ",
+      "count": 28
     },
     {
-      "term": "であ",
-      "count": 22
-    },
-    {
-      "term": "パイプラ",
-      "count": 20
-    },
-    {
-      "term": "ット",
-      "count": 20
+      "term": "する",
+      "count": 28
     },
     {
       "term": "ポジ",
       "count": 20
     },
     {
-      "term": "とし",
-      "count": 17
+      "term": "ビス",
+      "count": 16
     },
     {
-      "term": "るた",
+      "term": "きる",
       "count": 15
     },
     {
-      "term": "なる",
-      "count": 15
-    },
-    {
-      "term": "必要",
-      "count": 15
-    },
-    {
-      "term": "ける",
+      "term": "ci",
       "count": 14
     },
     {
-      "term": "での",
-      "count": 14
-    },
-    {
-      "term": "ンを",
-      "count": 13
-    },
-    {
-      "term": "にお",
-      "count": 13
-    },
-    {
-      "term": "の成",
-      "count": 13
-    },
-    {
-      "term": "的に",
-      "count": 13
-    },
-    {
-      "term": "確認",
+      "term": "ため",
       "count": 13
     },
     {
@@ -70,115 +34,119 @@
       "count": 12
     },
     {
-      "term": "変更",
+      "term": "ては",
       "count": 12
     },
     {
-      "term": "てい",
+      "term": "可能",
       "count": 12
+    },
+    {
+      "term": "つい",
+      "count": 11
     },
     {
       "term": "依存",
       "count": 11
     },
     {
-      "term": "push",
+      "term": "環境",
       "count": 11
     },
     {
-      "term": "とす",
+      "term": "バー",
+      "count": 11
+    },
+    {
+      "term": "考え",
+      "count": 11
+    },
+    {
+      "term": "提供",
       "count": 10
     },
     {
-      "term": "に ",
+      "term": "sbom",
       "count": 10
     },
     {
-      "term": "ている",
+      "term": "中略",
       "count": 10
     },
     {
-      "term": "trivy",
+      "term": "る ",
       "count": 10
     },
     {
-      "term": "tf",
-      "count": 10
-    },
-    {
-      "term": "の担",
+      "term": "メン",
       "count": 9
     },
     {
-      "term": "より",
+      "term": "ムが",
       "count": 9
     },
     {
-      "term": "安全",
+      "term": "クを",
       "count": 9
     },
     {
-      "term": "uses",
+      "term": "https",
       "count": 9
     },
     {
-      "term": "行範",
+      "term": "outputs",
+      "count": 9
+    },
+    {
+      "term": "囲の",
       "count": 8
     },
     {
-      "term": "本書",
+      "term": "の信",
       "count": 8
     },
     {
-      "term": "用し",
+      "term": "ルー",
       "count": 8
     },
     {
-      "term": "の管",
+      "term": "メタデー",
       "count": 8
     },
     {
-      "term": "のメ",
+      "term": "のs",
       "count": 8
     },
     {
-      "term": "リ及",
+      "term": "システム",
       "count": 7
     },
     {
-      "term": "関す",
+      "term": "報の",
       "count": 7
     },
     {
-      "term": "シークレ",
+      "term": "フト",
       "count": 7
     },
     {
-      "term": "自動",
+      "term": "すべ",
       "count": 7
     },
     {
-      "term": "サービス",
+      "term": "ンb",
       "count": 7
     },
     {
-      "term": "定義",
+      "term": "ーテ",
       "count": 7
     },
     {
-      "term": "plan",
+      "term": "ップ",
       "count": 7
     },
     {
-      "term": "への",
-      "count": 7
-    },
-    {
-      "term": "を実",
-      "count": 7
-    },
-    {
-      "term": "name",
+      "term": "次に",
       "count": 7
     },
     {
@@ -186,20 +154,52 @@
       "count": 7
     },
     {
-      "term": "と同",
+      "term": "混入",
       "count": 7
     },
     {
-      "term": "もの",
+      "term": "チの",
       "count": 6
     },
     {
-      "term": "ェッ",
+      "term": "リテ",
       "count": 6
     },
     {
-      "term": "用可",
+      "term": "フ ",
       "count": 6
+    },
+    {
+      "term": "のた",
+      "count": 6
+    },
+    {
+      "term": "のg",
+      "count": 6
+    },
+    {
+      "term": "合は",
+      "count": 6
+    },
+    {
+      "term": "えて",
+      "count": 6
+    },
+    {
+      "term": "リオ",
+      "count": 5
+    },
+    {
+      "term": "とに",
+      "count": 5
+    },
+    {
+      "term": "脆弱性管",
+      "count": 5
+    },
+    {
+      "term": "に保",
+      "count": 5
     }
   ],
   "meetings": [
