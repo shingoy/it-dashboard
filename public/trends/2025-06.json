@@ -2,103 +2,139 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "であ",
-      "count": 22
+      "term": "サー",
+      "count": 17
     },
     {
-      "term": "こと",
-      "count": 21
+      "term": "ci",
+      "count": 16
     },
     {
-      "term": "ポジ",
-      "count": 20
+      "term": "ービ",
+      "count": 16
     },
     {
-      "term": "的な",
-      "count": 15
-    },
-    {
-      "term": "なる",
-      "count": 15
-    },
-    {
-      "term": "とな",
-      "count": 15
-    },
-    {
-      "term": "略 ",
+      "term": "での",
       "count": 14
     },
     {
-      "term": "用す",
+      "term": "る必",
+      "count": 14
+    },
+    {
+      "term": "ライ",
       "count": 13
     },
     {
-      "term": "また",
+      "term": "id",
       "count": 13
     },
     {
-      "term": "ール",
-      "count": 13
+      "term": "クレ",
+      "count": 12
     },
     {
-      "term": "terraform",
+      "term": "フォーム",
       "count": 11
-    },
-    {
-      "term": "定す",
-      "count": 11
-    },
-    {
-      "term": "えら",
-      "count": 11
-    },
-    {
-      "term": "ている",
-      "count": 10
-    },
-    {
-      "term": "ここ",
-      "count": 10
-    },
-    {
-      "term": "バリ",
-      "count": 9
-    },
-    {
-      "term": "ーを",
-      "count": 9
-    },
-    {
-      "term": "アク",
-      "count": 9
-    },
-    {
-      "term": "及び",
-      "count": 8
     },
     {
       "term": "にお",
+      "count": 11
+    },
+    {
+      "term": "ンテ",
+      "count": 11
+    },
+    {
+      "term": "があ",
+      "count": 11
+    },
+    {
+      "term": "必要",
+      "count": 11
+    },
+    {
+      "term": "具体",
+      "count": 10
+    },
+    {
+      "term": "ナリ",
+      "count": 10
+    },
+    {
+      "term": "る具",
+      "count": 10
+    },
+    {
+      "term": "策 ",
+      "count": 9
+    },
+    {
+      "term": "フト",
+      "count": 9
+    },
+    {
+      "term": "より",
+      "count": 9
+    },
+    {
+      "term": "定し",
+      "count": 9
+    },
+    {
+      "term": "に対",
+      "count": 9
+    },
+    {
+      "term": "リポジト",
+      "count": 9
+    },
+    {
+      "term": "ビルドフ",
       "count": 8
     },
     {
-      "term": "有の",
+      "term": "行範",
       "count": 8
     },
     {
-      "term": "リス",
+      "term": "ド上",
       "count": 8
     },
     {
-      "term": "メタデー",
+      "term": "た ",
       "count": 8
     },
     {
-      "term": "json",
+      "term": "を実",
       "count": 8
     },
     {
-      "term": "の確",
+      "term": "ーの",
+      "count": 8
+    },
+    {
+      "term": "ルで",
+      "count": 8
+    },
+    {
+      "term": "システム",
+      "count": 7
+    },
+    {
+      "term": "ト情",
+      "count": 7
+    },
+    {
+      "term": "ラッ",
+      "count": 7
+    },
+    {
+      "term": "デリバリ",
+      "count": 7
+    },
+    {
+      "term": "あり",
       "count": 7
     },
     {
@@ -106,99 +142,63 @@
       "count": 7
     },
     {
-      "term": "リバ",
+      "term": "ップ",
       "count": 7
     },
     {
-      "term": "フェーズ",
+      "term": "事項",
       "count": 7
     },
     {
-      "term": "ジを",
+      "term": "file",
       "count": 7
     },
     {
-      "term": "registry",
+      "term": "name",
       "count": 7
     },
     {
-      "term": "バー",
+      "term": "てい",
       "count": 7
     },
     {
-      "term": "と同",
-      "count": 7
-    },
-    {
-      "term": "ecr",
-      "count": 7
-    },
-    {
-      "term": "管理",
+      "term": "ンに",
       "count": 6
     },
     {
-      "term": "リ時",
+      "term": "理シ",
       "count": 6
     },
     {
-      "term": "ド上",
+      "term": "を示",
       "count": 6
     },
     {
-      "term": "ビルド上",
+      "term": "に関",
       "count": 6
     },
     {
-      "term": "タデータ",
+      "term": "おけ",
       "count": 6
     },
     {
-      "term": "略す",
+      "term": "の署",
       "count": 6
     },
     {
-      "term": "用可",
+      "term": "はプ",
       "count": 6
     },
     {
-      "term": "image",
+      "term": "and",
       "count": 6
     },
     {
-      "term": "た場",
+      "term": "要と",
       "count": 6
     },
     {
-      "term": "象と",
-      "count": 6
-    },
-    {
-      "term": "cat",
-      "count": 6
-    },
-    {
-      "term": "た信",
-      "count": 5
-    },
-    {
-      "term": "とす",
-      "count": 5
-    },
-    {
-      "term": "フェ",
-      "count": 5
-    },
-    {
-      "term": "めの",
-      "count": 5
-    },
-    {
-      "term": "ード",
-      "count": 5
-    },
-    {
-      "term": "イン特有",
+      "term": "infrastructure",
       "count": 5
     }
   ],
