@@ -2,7 +2,19 @@
   "month": "2026-04",
   "keywords": [
     {
-      "term": "関連予算",
+      "term": "リス",
+      "count": 2
+    },
+    {
+      "term": "対応",
+      "count": 2
+    },
+    {
+      "term": "応の",
+      "count": 2
+    },
+    {
+      "term": "推進",
       "count": 2
     },
     {
@@ -10,179 +22,83 @@
       "count": 2
     },
     {
-      "term": "方針",
+      "term": "業の",
       "count": 2
     },
     {
-      "term": "予算総額",
+      "term": "困難な施",
       "count": 2
     },
     {
-      "term": "ング",
+      "term": "連す",
       "count": 2
+    },
+    {
+      "term": "担軽減",
+      "count": 1
+    },
+    {
+      "term": "戦略的強",
+      "count": 1
+    },
+    {
+      "term": "た次世代",
+      "count": 1
+    },
+    {
+      "term": "5g",
+      "count": 1
+    },
+    {
+      "term": "営の",
+      "count": 1
+    },
+    {
+      "term": "モデルの",
+      "count": 1
+    },
+    {
+      "term": "化ａ",
+      "count": 1
     },
     {
       "term": "現場",
       "count": 1
     },
     {
-      "term": "や医",
+      "term": "た意",
       "count": 1
     },
     {
-      "term": "いて離職",
+      "term": "額の",
       "count": 1
     },
     {
-      "term": "定は",
+      "term": "設現",
       "count": 1
     },
     {
-      "term": "発等の推",
+      "term": "地震",
       "count": 1
     },
     {
-      "term": "特定",
+      "term": "がａ",
       "count": 1
     },
     {
-      "term": "に対する",
+      "term": "開発等",
       "count": 1
     },
     {
-      "term": "開発力の",
+      "term": "変革",
       "count": 1
     },
     {
-      "term": "革新",
+      "term": "セラ",
       "count": 1
     },
     {
-      "term": "者の",
-      "count": 1
-    },
-    {
-      "term": "迅速",
-      "count": 1
-    },
-    {
-      "term": "の他",
-      "count": 1
-    },
-    {
-      "term": "ジカ",
-      "count": 1
-    },
-    {
-      "term": "権制度運",
-      "count": 1
-    },
-    {
-      "term": "む ",
-      "count": 1
-    },
-    {
-      "term": "駆動オフ",
-      "count": 1
-    },
-    {
-      "term": "ル構",
-      "count": 1
-    },
-    {
-      "term": "クスの製",
-      "count": 1
-    },
-    {
-      "term": "約５",
-      "count": 1
-    },
-    {
-      "term": "導入",
-      "count": 1
-    },
-    {
-      "term": "を含",
-      "count": 1
-    },
-    {
-      "term": "戦略",
-      "count": 1
-    },
-    {
-      "term": "を高",
-      "count": 1
-    },
-    {
-      "term": "なａ",
-      "count": 1
-    },
-    {
-      "term": "の実",
-      "count": 1
-    },
-    {
-      "term": "人材の育",
-      "count": 1
-    },
-    {
-      "term": "事者",
-      "count": 1
-    },
-    {
-      "term": "ない",
-      "count": 1
-    },
-    {
-      "term": "を活用し",
-      "count": 1
-    },
-    {
-      "term": "度化",
-      "count": 1
-    },
-    {
-      "term": "バー",
-      "count": 1
-    },
-    {
-      "term": "育訓",
-      "count": 1
-    },
-    {
-      "term": "度予",
-      "count": 1
-    },
-    {
-      "term": "報通信基",
-      "count": 1
-    },
-    {
-      "term": "発等",
-      "count": 1
-    },
-    {
-      "term": "器開",
-      "count": 1
-    },
-    {
-      "term": "を総",
-      "count": 1
-    },
-    {
-      "term": "する",
-      "count": 1
-    },
-    {
-      "term": "11",
-      "count": 1
-    },
-    {
-      "term": "人工",
-      "count": 1
-    },
-    {
-      "term": "半導体及",
+      "term": "保に",
       "count": 1
     },
     {
@@ -190,15 +106,99 @@
       "count": 1
     },
     {
-      "term": "フィ",
+      "term": "約５",
       "count": 1
     },
     {
-      "term": "のための",
+      "term": "の育",
       "count": 1
     },
     {
-      "term": "開発等",
+      "term": "度運",
+      "count": 1
+    },
+    {
+      "term": "業訓",
+      "count": 1
+    },
+    {
+      "term": "プロ",
+      "count": 1
+    },
+    {
+      "term": "機器",
+      "count": 1
+    },
+    {
+      "term": "性信",
+      "count": 1
+    },
+    {
+      "term": "練 ",
+      "count": 1
+    },
+    {
+      "term": "たマルチ",
+      "count": 1
+    },
+    {
+      "term": "スマ",
+      "count": 1
+    },
+    {
+      "term": "ル構",
+      "count": 1
+    },
+    {
+      "term": "ない",
+      "count": 1
+    },
+    {
+      "term": "発支",
+      "count": 1
+    },
+    {
+      "term": "12",
+      "count": 1
+    },
+    {
+      "term": "決定",
+      "count": 1
+    },
+    {
+      "term": "継続",
+      "count": 1
+    },
+    {
+      "term": "クノ",
+      "count": 1
+    },
+    {
+      "term": "革ａ",
+      "count": 1
+    },
+    {
+      "term": "四捨",
+      "count": 1
+    },
+    {
+      "term": "ョン",
+      "count": 1
+    },
+    {
+      "term": "を抽",
+      "count": 1
+    },
+    {
+      "term": "テク",
+      "count": 1
+    },
+    {
+      "term": "は予",
+      "count": 1
+    },
+    {
+      "term": "モーダル",
       "count": 1
     }
   ],

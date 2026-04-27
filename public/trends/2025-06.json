@@ -2,19 +2,15 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "する",
-      "count": 28
+      "term": "され",
+      "count": 27
     },
     {
       "term": "ある",
       "count": 25
     },
     {
-      "term": "いる",
-      "count": 20
-    },
-    {
-      "term": "プラ",
+      "term": "ジト",
       "count": 18
     },
     {
@@ -22,184 +18,188 @@
       "count": 17
     },
     {
-      "term": "aws",
+      "term": "って",
       "count": 16
+    },
+    {
+      "term": "弱性",
+      "count": 15
+    },
+    {
+      "term": "ci",
+      "count": 15
     },
     {
       "term": "また",
       "count": 15
     },
     {
-      "term": "ソー",
+      "term": "メー",
+      "count": 15
+    },
+    {
+      "term": "プロ",
+      "count": 14
+    },
+    {
+      "term": "trivy",
       "count": 13
     },
     {
-      "term": "デー",
+      "term": "して",
       "count": 13
     },
     {
-      "term": "チー",
-      "count": 12
-    },
-    {
-      "term": "があ",
-      "count": 12
-    },
-    {
-      "term": "の実",
+      "term": "フォーム",
       "count": 11
     },
     {
-      "term": "バー",
+      "term": "イプ",
       "count": 11
     },
     {
-      "term": "https",
+      "term": "考え",
       "count": 11
     },
     {
-      "term": "を含",
+      "term": "成果物の",
       "count": 10
     },
     {
-      "term": "護 ",
-      "count": 10
-    },
-    {
-      "term": "シークレ",
-      "count": 10
-    },
-    {
-      "term": "検証",
-      "count": 10
-    },
-    {
-      "term": "脆弱性管",
+      "term": "の確",
       "count": 9
     },
     {
-      "term": "た ",
+      "term": "なお",
       "count": 9
     },
     {
-      "term": "れて",
+      "term": "それ",
       "count": 9
     },
     {
-      "term": "より",
+      "term": "そのため",
       "count": 9
     },
     {
-      "term": "いっ",
+      "term": "テナ",
       "count": 9
     },
     {
-      "term": "run",
-      "count": 9
-    },
-    {
-      "term": "ファイル",
-      "count": 9
-    },
-    {
-      "term": "ド上",
+      "term": "ョン",
       "count": 8
     },
     {
-      "term": "での実行",
+      "term": "スト",
       "count": 8
     },
     {
-      "term": "ング",
+      "term": "リス",
       "count": 8
     },
     {
-      "term": "ルー",
+      "term": "ソフ",
       "count": 8
     },
     {
-      "term": "作成",
+      "term": "バリ",
       "count": 8
     },
     {
-      "term": "sbom",
+      "term": "らの",
       "count": 8
     },
     {
-      "term": "with",
-      "count": 8
-    },
-    {
-      "term": "リテ",
+      "term": "ビルド上",
       "count": 7
     },
     {
-      "term": "ェーズの",
+      "term": "るプ",
       "count": 7
     },
     {
-      "term": "ci",
+      "term": "トフォー",
       "count": 7
     },
     {
-      "term": "ダー",
+      "term": "および",
       "count": 7
     },
     {
-      "term": "すべ",
+      "term": "と同",
       "count": 7
     },
     {
-      "term": "version",
+      "term": "type",
       "count": 7
     },
     {
-      "term": "はg",
-      "count": 7
-    },
-    {
-      "term": "ルに",
-      "count": 7
-    },
-    {
-      "term": "ットの保",
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "の保",
+      "term": "ュリ",
       "count": 6
     },
     {
-      "term": "たt",
+      "term": "関す",
       "count": 6
     },
     {
-      "term": "ンテナイ",
+      "term": "にて",
       "count": 6
     },
     {
-      "term": "ついては",
+      "term": "の利",
       "count": 6
     },
     {
-      "term": "ズで",
+      "term": "の変",
       "count": 6
     },
     {
-      "term": "される",
+      "term": "and",
       "count": 6
     },
     {
-      "term": "など",
-      "count": 6
+      "term": "運用保守",
+      "count": 5
     },
     {
-      "term": "11",
-      "count": 6
+      "term": "リフ",
+      "count": 5
     },
     {
-      "term": "github",
-      "count": 6
+      "term": "する",
+      "count": 5
+    },
+    {
+      "term": "ン特",
+      "count": 5
+    },
+    {
+      "term": "対応",
+      "count": 5
+    },
+    {
+      "term": "main",
+      "count": 5
+    },
+    {
+      "term": "これらの",
+      "count": 5
+    },
+    {
+      "term": "略 ",
+      "count": 5
+    },
+    {
+      "term": "ラー",
+      "count": 5
+    },
+    {
+      "term": "組み",
+      "count": 5
     }
   ],
   "meetings": [
