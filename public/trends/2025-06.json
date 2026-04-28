@@ -2,163 +2,187 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "され",
-      "count": 27
+      "term": "ライ",
+      "count": 23
     },
     {
-      "term": "イン",
-      "count": 22
+      "term": "ポジ",
+      "count": 20
     },
     {
-      "term": "github",
-      "count": 21
+      "term": "イプ",
+      "count": 20
     },
     {
-      "term": "ビル",
+      "term": "aws",
       "count": 19
     },
     {
-      "term": "いる",
-      "count": 19
+      "term": "する",
+      "count": 18
     },
     {
-      "term": "物の",
+      "term": "ジト",
       "count": 17
     },
     {
-      "term": "必要",
+      "term": "フェ",
       "count": 15
     },
     {
-      "term": "護 ",
-      "count": 12
+      "term": "ンテ",
+      "count": 15
     },
     {
-      "term": "ファイル",
-      "count": 12
+      "term": "での",
+      "count": 14
     },
     {
-      "term": "ティ",
-      "count": 11
+      "term": "的な",
+      "count": 14
     },
     {
-      "term": "範囲",
-      "count": 11
-    },
-    {
-      "term": "安全性の",
-      "count": 11
-    },
-    {
-      "term": "クを",
-      "count": 11
-    },
-    {
-      "term": "ブラ",
-      "count": 10
-    },
-    {
-      "term": "とで",
-      "count": 10
-    },
-    {
-      "term": "的に",
-      "count": 10
-    },
-    {
-      "term": "可能",
-      "count": 10
-    },
-    {
-      "term": "の担",
-      "count": 9
-    },
-    {
-      "term": "し ",
-      "count": 9
-    },
-    {
-      "term": "ーカ",
-      "count": 8
-    },
-    {
-      "term": "ナリ",
-      "count": 8
-    },
-    {
-      "term": "有の",
-      "count": 8
-    },
-    {
-      "term": "ャン",
-      "count": 8
-    },
-    {
-      "term": "が考",
-      "count": 8
-    },
-    {
-      "term": "のよ",
-      "count": 8
-    },
-    {
-      "term": "運用",
-      "count": 7
+      "term": "シー",
+      "count": 13
     },
     {
       "term": "ンを",
+      "count": 13
+    },
+    {
+      "term": "よる",
+      "count": 13
+    },
+    {
+      "term": "によ",
+      "count": 12
+    },
+    {
+      "term": "ーの",
+      "count": 12
+    },
+    {
+      "term": "れら",
+      "count": 12
+    },
+    {
+      "term": "フォーム",
+      "count": 11
+    },
+    {
+      "term": "プラット",
+      "count": 11
+    },
+    {
+      "term": "バー",
+      "count": 11
+    },
+    {
+      "term": "えら",
+      "count": 11
+    },
+    {
+      "term": "はな",
+      "count": 11
+    },
+    {
+      "term": "リポ",
+      "count": 10
+    },
+    {
+      "term": "の信",
+      "count": 10
+    },
+    {
+      "term": "の ",
+      "count": 10
+    },
+    {
+      "term": "定す",
+      "count": 10
+    },
+    {
+      "term": "を用",
+      "count": 10
+    },
+    {
+      "term": "10",
+      "count": 10
+    },
+    {
+      "term": "いた",
+      "count": 10
+    },
+    {
+      "term": "セス",
+      "count": 10
+    },
+    {
+      "term": "build",
+      "count": 10
+    },
+    {
+      "term": "ソフ",
+      "count": 8
+    },
+    {
+      "term": "らの",
+      "count": 8
+    },
+    {
+      "term": "クを",
+      "count": 8
+    },
+    {
+      "term": "組み",
+      "count": 8
+    },
+    {
+      "term": "env",
+      "count": 8
+    },
+    {
+      "term": "考えられ",
       "count": 7
     },
     {
-      "term": "ムチ",
+      "term": "がある",
       "count": 7
     },
     {
-      "term": "ルド",
+      "term": "アッ",
       "count": 7
     },
     {
-      "term": "ダー",
+      "term": "成果",
       "count": 7
     },
     {
-      "term": "ビルド上",
+      "term": "図 ",
       "count": 7
     },
     {
-      "term": "ムチーム",
+      "term": "とは",
       "count": 7
     },
     {
-      "term": "など",
+      "term": "json",
       "count": 7
     },
     {
-      "term": "い ",
+      "term": "runs",
       "count": 7
     },
     {
-      "term": "可能であ",
-      "count": 7
-    },
-    {
-      "term": "type",
-      "count": 7
-    },
-    {
-      "term": "ワー",
+      "term": "通し",
       "count": 6
     },
     {
-      "term": "キュ",
+      "term": "シス",
       "count": 6
     },
     {
-      "term": "を示",
-      "count": 6
-    },
-    {
-      "term": "ムの",
+      "term": "ーク",
       "count": 6
     },
     {
@@ -166,40 +190,16 @@
       "count": 6
     },
     {
-      "term": "定 ",
+      "term": "はa",
       "count": 6
     },
     {
-      "term": "ムに",
+      "term": "アカ",
       "count": 6
     },
     {
-      "term": "完全",
+      "term": "対す",
       "count": 6
-    },
-    {
-      "term": "対し",
-      "count": 6
-    },
-    {
-      "term": "容を",
-      "count": 6
-    },
-    {
-      "term": "はパ",
-      "count": 6
-    },
-    {
-      "term": "する",
-      "count": 5
-    },
-    {
-      "term": "ロー",
-      "count": 5
-    },
-    {
-      "term": "である",
-      "count": 5
     }
   ],
   "meetings": [
