@@ -2,59 +2,71 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 25
+      "term": "であ",
+      "count": 22
     },
     {
-      "term": "その",
+      "term": "され",
       "count": 21
     },
     {
-      "term": "の保",
-      "count": 16
+      "term": "aws",
+      "count": 19
     },
     {
-      "term": "コー",
+      "term": "する",
+      "count": 18
+    },
+    {
+      "term": "物の",
+      "count": 17
+    },
+    {
+      "term": "の保",
       "count": 15
     },
     {
-      "term": "とし",
+      "term": "必要",
+      "count": 15
+    },
+    {
+      "term": "よう",
+      "count": 15
+    },
+    {
+      "term": "スコ",
       "count": 14
     },
     {
-      "term": "体的",
+      "term": "全性",
+      "count": 14
+    },
+    {
+      "term": "なる",
       "count": 13
     },
     {
-      "term": "脆弱",
+      "term": "メー",
       "count": 12
     },
     {
-      "term": "ーの",
-      "count": 12
-    },
-    {
-      "term": "ーム",
+      "term": "えら",
       "count": 11
     },
     {
-      "term": "状態",
+      "term": "はな",
       "count": 11
     },
     {
-      "term": "とで",
-      "count": 11
-    },
-    {
-      "term": "バー",
-      "count": 11
-    },
-    {
-      "term": "内で",
+      "term": "ブラ",
       "count": 10
     },
     {
-      "term": "し ",
+      "term": "ー ",
+      "count": 10
+    },
+    {
+      "term": "ている",
       "count": 10
     },
     {
@@ -62,144 +74,132 @@
       "count": 10
     },
     {
-      "term": "への",
-      "count": 10
-    },
-    {
       "term": "性管",
       "count": 9
     },
     {
-      "term": "の確",
+      "term": "ナリ",
       "count": 9
     },
     {
-      "term": "ソースコ",
+      "term": "にも",
       "count": 9
     },
     {
-      "term": "ラッ",
+      "term": "フト",
       "count": 9
     },
     {
-      "term": "ジト",
+      "term": "より",
       "count": 9
     },
     {
-      "term": "れて",
+      "term": "git",
       "count": 9
     },
     {
-      "term": "定す",
+      "term": "ージ",
       "count": 9
     },
     {
-      "term": "with",
-      "count": 9
-    },
-    {
-      "term": "ョン",
+      "term": "フェーズ",
       "count": 8
     },
     {
-      "term": "制限",
+      "term": "での実行",
       "count": 8
     },
     {
-      "term": "メタデー",
+      "term": "ド上",
       "count": 8
     },
     {
-      "term": "のs",
+      "term": "用い",
       "count": 8
     },
     {
-      "term": "ーに",
+      "term": "を実",
       "count": 8
     },
     {
-      "term": "システム",
+      "term": "の管",
+      "count": 8
+    },
+    {
+      "term": "commit",
+      "count": 8
+    },
+    {
+      "term": "能で",
+      "count": 8
+    },
+    {
+      "term": "示す",
       "count": 7
     },
     {
-      "term": "運用",
+      "term": "る主",
       "count": 7
     },
     {
-      "term": "イル",
+      "term": "デリバリ",
       "count": 7
     },
     {
-      "term": "すべ",
+      "term": "ル ",
       "count": 7
     },
     {
-      "term": "provenance",
+      "term": "ンb",
       "count": 7
     },
     {
-      "term": "ルに",
+      "term": "sbom",
       "count": 7
     },
     {
-      "term": "to",
+      "term": "クセ",
       "count": 7
     },
     {
-      "term": "json",
+      "term": "す ",
       "count": 7
     },
     {
-      "term": "ド管",
+      "term": "on",
+      "count": 7
+    },
+    {
+      "term": "を示",
       "count": 6
     },
     {
-      "term": "ーカ",
+      "term": "理シ",
       "count": 6
     },
     {
-      "term": "内容",
+      "term": "関す",
       "count": 6
     },
     {
-      "term": "うこ",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "それ",
+      "term": "version",
       "count": 6
     },
     {
-      "term": "ビュ",
+      "term": "は３",
       "count": 6
     },
     {
-      "term": "repository",
+      "term": "amazon",
       "count": 6
     },
     {
-      "term": "対し",
+      "term": "とも",
       "count": 6
-    },
-    {
-      "term": "ることが",
-      "count": 6
-    },
-    {
-      "term": "をも",
-      "count": 5
-    },
-    {
-      "term": "トは",
-      "count": 5
-    },
-    {
-      "term": "およ",
-      "count": 5
-    },
-    {
-      "term": "ード",
-      "count": 5
     }
   ],
   "meetings": [

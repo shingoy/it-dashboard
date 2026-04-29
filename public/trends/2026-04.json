@@ -2,67 +2,63 @@
   "month": "2026-04",
   "keywords": [
     {
-      "term": "の両",
+      "term": "総額",
       "count": 2
     },
     {
-      "term": "閣議",
+      "term": "基本",
       "count": 2
     },
     {
-      "term": "費の",
+      "term": "一部等",
       "count": 2
     },
     {
-      "term": "算は",
+      "term": "ジタ",
       "count": 2
     },
     {
-      "term": "ョン",
+      "term": "年1",
       "count": 2
     },
     {
-      "term": "が深い方",
+      "term": "困難な施",
       "count": 2
     },
     {
-      "term": "年５",
+      "term": "向け",
       "count": 2
     },
     {
-      "term": "イノ",
+      "term": "経約",
       "count": 2
     },
     {
-      "term": "利活用の",
+      "term": "活用",
       "count": 2
     },
     {
-      "term": "オフ",
+      "term": "る主",
+      "count": 2
+    },
+    {
+      "term": "に推",
+      "count": 2
+    },
+    {
+      "term": "い方",
+      "count": 2
+    },
+    {
+      "term": "産業",
       "count": 1
     },
     {
-      "term": "強化",
+      "term": "を高",
       "count": 1
     },
     {
-      "term": "職者",
-      "count": 1
-    },
-    {
-      "term": "バー",
-      "count": 1
-    },
-    {
-      "term": "約２",
-      "count": 1
-    },
-    {
-      "term": "等厚",
-      "count": 1
-    },
-    {
-      "term": "企業向け",
+      "term": "等に",
       "count": 1
     },
     {
@@ -70,87 +66,11 @@
       "count": 1
     },
     {
-      "term": "セス",
+      "term": "めの研究",
       "count": 1
     },
     {
-      "term": "クノロジ",
-      "count": 1
-    },
-    {
-      "term": "が産",
-      "count": 1
-    },
-    {
-      "term": "担軽",
-      "count": 1
-    },
-    {
-      "term": "開発等",
-      "count": 1
-    },
-    {
-      "term": "の研",
-      "count": 1
-    },
-    {
-      "term": "調査",
-      "count": 1
-    },
-    {
-      "term": "共用",
-      "count": 1
-    },
-    {
-      "term": "データ活",
-      "count": 1
-    },
-    {
-      "term": "も実",
-      "count": 1
-    },
-    {
-      "term": "導ａ",
-      "count": 1
-    },
-    {
-      "term": "連携型",
-      "count": 1
-    },
-    {
-      "term": "材開",
-      "count": 1
-    },
-    {
-      "term": "その",
-      "count": 1
-    },
-    {
-      "term": "増し",
-      "count": 1
-    },
-    {
-      "term": "財産",
-      "count": 1
-    },
-    {
-      "term": "ピュ",
-      "count": 1
-    },
-    {
-      "term": "や医療従",
-      "count": 1
-    },
-    {
-      "term": "動地",
-      "count": 1
-    },
-    {
-      "term": "発等の推",
-      "count": 1
-    },
-    {
-      "term": "む ",
+      "term": "教育",
       "count": 1
     },
     {
@@ -158,39 +78,27 @@
       "count": 1
     },
     {
-      "term": "ガバナン",
+      "term": "用文",
       "count": 1
     },
     {
-      "term": "企業",
+      "term": "た無",
       "count": 1
     },
     {
-      "term": "に向",
+      "term": "について",
       "count": 1
     },
     {
-      "term": "査研",
+      "term": "用い",
       "count": 1
     },
     {
-      "term": "びリ",
+      "term": "セス",
       "count": 1
     },
     {
-      "term": "約７",
-      "count": 1
-    },
-    {
-      "term": "業向",
-      "count": 1
-    },
-    {
-      "term": "を含むデ",
-      "count": 1
-    },
-    {
-      "term": "設現",
+      "term": "見据",
       "count": 1
     },
     {
@@ -198,7 +106,99 @@
       "count": 1
     },
     {
-      "term": "パフ",
+      "term": "策も",
+      "count": 1
+    },
+    {
+      "term": "スコ",
+      "count": 1
+    },
+    {
+      "term": "場の生産",
+      "count": 1
+    },
+    {
+      "term": "使う",
+      "count": 1
+    },
+    {
+      "term": "ミッ",
+      "count": 1
+    },
+    {
+      "term": "進の",
+      "count": 1
+    },
+    {
+      "term": "たフ",
+      "count": 1
+    },
+    {
+      "term": "コンピュ",
+      "count": 1
+    },
+    {
+      "term": "一部",
+      "count": 1
+    },
+    {
+      "term": "円 ",
+      "count": 1
+    },
+    {
+      "term": "策を",
+      "count": 1
+    },
+    {
+      "term": "た意思決",
+      "count": 1
+    },
+    {
+      "term": "省エ",
+      "count": 1
+    },
+    {
+      "term": "性信",
+      "count": 1
+    },
+    {
+      "term": "他金",
+      "count": 1
+    },
+    {
+      "term": "関す",
+      "count": 1
+    },
+    {
+      "term": "主な",
+      "count": 1
+    },
+    {
+      "term": "面施",
+      "count": 1
+    },
+    {
+      "term": "費の",
+      "count": 1
+    },
+    {
+      "term": "成ａ",
+      "count": 1
+    },
+    {
+      "term": "透明",
+      "count": 1
+    },
+    {
+      "term": "農約",
+      "count": 1
+    },
+    {
+      "term": "設現",
+      "count": 1
+    },
+    {
+      "term": "けａ",
       "count": 1
     }
   ],
