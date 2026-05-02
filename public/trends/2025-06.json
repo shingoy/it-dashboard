@@ -3,122 +3,150 @@
   "keywords": [
     {
       "term": "る ",
-      "count": 28
+      "count": 24
     },
     {
-      "term": "ルド",
-      "count": 19
+      "term": "github",
+      "count": 23
     },
     {
-      "term": "ービ",
+      "term": "パイプラ",
+      "count": 20
+    },
+    {
+      "term": "イプ",
+      "count": 20
+    },
+    {
+      "term": "して",
+      "count": 20
+    },
+    {
+      "term": "れた",
       "count": 16
     },
     {
-      "term": "cd",
-      "count": 15
+      "term": "ンを",
+      "count": 13
     },
     {
-      "term": "信頼",
-      "count": 15
+      "term": "全性",
+      "count": 13
     },
     {
-      "term": "また",
-      "count": 14
+      "term": "とが",
+      "count": 13
     },
     {
-      "term": "った",
-      "count": 14
+      "term": "つい",
+      "count": 11
     },
     {
-      "term": "この",
-      "count": 14
+      "term": "ジト",
+      "count": 11
+    },
+    {
+      "term": "取得",
+      "count": 11
+    },
+    {
+      "term": "環境",
+      "count": 11
+    },
+    {
+      "term": "要が",
+      "count": 11
+    },
+    {
+      "term": "push",
+      "count": 11
+    },
+    {
+      "term": "理を",
+      "count": 10
+    },
+    {
+      "term": "プラット",
+      "count": 10
     },
     {
       "term": "コー",
-      "count": 13
+      "count": 10
+    },
+    {
+      "term": "存物",
+      "count": 10
+    },
+    {
+      "term": "git",
+      "count": 10
+    },
+    {
+      "term": "設定",
+      "count": 10
+    },
+    {
+      "term": "ubuntu",
+      "count": 10
     },
     {
       "term": "ーム",
-      "count": 13
-    },
-    {
-      "term": "可能",
-      "count": 12
-    },
-    {
-      "term": "弱性",
-      "count": 11
-    },
-    {
-      "term": "範囲",
-      "count": 11
-    },
-    {
-      "term": "加え",
-      "count": 11
-    },
-    {
-      "term": "性管",
       "count": 9
     },
     {
-      "term": "ェア",
+      "term": "ムが",
       "count": 9
     },
     {
-      "term": "よう",
+      "term": "の設",
       "count": 9
     },
     {
-      "term": "でき",
+      "term": "run",
       "count": 9
     },
     {
-      "term": "の確",
+      "term": "リバ",
       "count": 8
     },
     {
-      "term": "いっ",
+      "term": "用し",
       "count": 8
     },
     {
-      "term": "デー",
+      "term": "が考",
       "count": 8
     },
     {
-      "term": "漏洩",
+      "term": "リポ",
       "count": 7
     },
     {
-      "term": "スコ",
+      "term": "における",
       "count": 7
     },
     {
-      "term": "すべ",
+      "term": "そのため",
       "count": 7
     },
     {
-      "term": "キャ",
+      "term": "cosign",
       "count": 7
     },
     {
-      "term": "いこ",
+      "term": "トフォー",
       "count": 7
     },
     {
-      "term": "はg",
+      "term": "事項",
       "count": 7
     },
     {
-      "term": "ーと",
+      "term": "rulesets",
       "count": 7
     },
     {
-      "term": "成 ",
-      "count": 6
-    },
-    {
-      "term": "プロバイ",
+      "term": "ンに",
       "count": 6
     },
     {
@@ -126,79 +154,51 @@
       "count": 6
     },
     {
-      "term": "カウ",
+      "term": "たコ",
       "count": 6
     },
     {
-      "term": "策に",
+      "term": "のレ",
       "count": 6
     },
     {
-      "term": "の変",
+      "term": "組み",
       "count": 6
     },
     {
-      "term": "どの",
+      "term": "with",
       "count": 6
     },
     {
-      "term": "合は",
-      "count": 6
-    },
-    {
-      "term": "れて",
-      "count": 6
-    },
-    {
-      "term": "理を含む",
+      "term": "理 ",
       "count": 5
     },
     {
-      "term": "実装",
+      "term": "想定",
       "count": 5
     },
     {
-      "term": "リテ",
+      "term": "実現",
       "count": 5
     },
     {
-      "term": "ズの",
+      "term": "ンテ",
       "count": 5
     },
     {
-      "term": "頼で",
+      "term": "ルへ",
       "count": 5
     },
     {
-      "term": "うい",
+      "term": "ブランチ",
       "count": 5
     },
     {
-      "term": "にな",
+      "term": "者が",
       "count": 5
     },
     {
-      "term": "を使",
-      "count": 5
-    },
-    {
-      "term": "registry",
-      "count": 5
-    },
-    {
-      "term": "有効",
-      "count": 5
-    },
-    {
-      "term": "デリ",
-      "count": 5
-    },
-    {
-      "term": "成し",
-      "count": 5
-    },
-    {
-      "term": "workflows",
+      "term": "るため",
       "count": 5
     }
   ],
