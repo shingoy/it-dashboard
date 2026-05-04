@@ -2,79 +2,131 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "ーマ",
+      "term": "成新",
       "count": 2
     },
     {
-      "term": "円 ",
+      "term": "ーマンス",
       "count": 2
     },
     {
-      "term": "ジカ",
+      "term": "ショ",
       "count": 2
     },
     {
-      "term": "構築",
+      "term": "ラウ",
       "count": 2
     },
     {
-      "term": "強靱",
+      "term": "よる",
       "count": 2
     },
     {
-      "term": "援 ",
+      "term": "次世代情",
       "count": 2
     },
     {
-      "term": "の安全性",
+      "term": "を高",
       "count": 2
     },
     {
-      "term": "インフラ",
+      "term": "分散",
       "count": 2
     },
     {
-      "term": "発等",
+      "term": "の構築等",
       "count": 2
     },
     {
-      "term": "型犯",
+      "term": "の強靱化",
+      "count": 2
+    },
+    {
+      "term": "策は",
       "count": 1
     },
     {
-      "term": "小企",
+      "term": "導入等に",
       "count": 1
     },
     {
-      "term": "創る",
+      "term": "部等",
       "count": 1
     },
     {
-      "term": "ムの",
+      "term": "略的",
       "count": 1
     },
     {
-      "term": "施行",
+      "term": "注３",
       "count": 1
     },
     {
-      "term": "面施",
+      "term": "証新",
       "count": 1
     },
     {
-      "term": "地域金融",
+      "term": "月成",
       "count": 1
     },
     {
-      "term": "シス",
+      "term": "を実現す",
       "count": 1
     },
     {
-      "term": "分類",
+      "term": "事例",
       "count": 1
     },
     {
-      "term": "的計",
+      "term": "四捨",
+      "count": 1
+    },
+    {
+      "term": "析シ",
+      "count": 1
+    },
+    {
+      "term": "造業",
+      "count": 1
+    },
+    {
+      "term": "活用支援",
+      "count": 1
+    },
+    {
+      "term": "的ハ",
+      "count": 1
+    },
+    {
+      "term": "総海",
+      "count": 1
+    },
+    {
+      "term": "費の",
+      "count": 1
+    },
+    {
+      "term": "ステ",
+      "count": 1
+    },
+    {
+      "term": "強い",
+      "count": 1
+    },
+    {
+      "term": "イン",
+      "count": 1
+    },
+    {
+      "term": "は四捨五",
+      "count": 1
+    },
+    {
+      "term": "現す",
+      "count": 1
+    },
+    {
+      "term": "小項目ご",
       "count": 1
     },
     {
@@ -82,35 +134,47 @@
       "count": 1
     },
     {
+      "term": "む ",
+      "count": 1
+    },
+    {
+      "term": "報分",
+      "count": 1
+    },
+    {
+      "term": "シス",
+      "count": 1
+    },
+    {
+      "term": "立新",
+      "count": 1
+    },
+    {
+      "term": "ティ",
+      "count": 1
+    },
+    {
       "term": "積み",
       "count": 1
     },
     {
-      "term": "発力",
+      "term": "現場",
       "count": 1
     },
     {
-      "term": "ルサ",
+      "term": "実現",
       "count": 1
     },
     {
-      "term": "る場",
+      "term": "出困",
       "count": 1
     },
     {
-      "term": "係る",
+      "term": "場に",
       "count": 1
     },
     {
-      "term": "間での",
-      "count": 1
-    },
-    {
-      "term": "ウス",
-      "count": 1
-    },
-    {
-      "term": "令和",
+      "term": "策令",
       "count": 1
     },
     {
@@ -118,87 +182,23 @@
       "count": 1
     },
     {
-      "term": "強い経済",
+      "term": "域に",
       "count": 1
     },
     {
-      "term": "合的",
+      "term": "社会に向",
       "count": 1
     },
     {
-      "term": "内国",
+      "term": "会実",
       "count": 1
     },
     {
-      "term": "閣議",
+      "term": "応の",
       "count": 1
     },
     {
-      "term": "を踏まえ",
-      "count": 1
-    },
-    {
-      "term": "整備及び",
-      "count": 1
-    },
-    {
-      "term": "341",
-      "count": 1
-    },
-    {
-      "term": "新プログ",
-      "count": 1
-    },
-    {
-      "term": "フラ",
-      "count": 1
-    },
-    {
-      "term": "する",
-      "count": 1
-    },
-    {
-      "term": "月成立",
-      "count": 1
-    },
-    {
-      "term": "最も",
-      "count": 1
-    },
-    {
-      "term": "法令",
-      "count": 1
-    },
-    {
-      "term": "グロ",
-      "count": 1
-    },
-    {
-      "term": "383",
-      "count": 1
-    },
-    {
-      "term": "ット開発",
-      "count": 1
-    },
-    {
-      "term": "算は",
-      "count": 1
-    },
-    {
-      "term": "五入",
-      "count": 1
-    },
-    {
-      "term": "ラの",
-      "count": 1
-    },
-    {
-      "term": "画の",
-      "count": 1
-    },
-    {
-      "term": "テム",
+      "term": "スキリン",
       "count": 1
     }
   ],
