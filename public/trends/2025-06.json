@@ -2,79 +2,87 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "イン",
-      "count": 21
+      "term": "こと",
+      "count": 25
     },
     {
-      "term": "ルド",
-      "count": 19
-    },
-    {
-      "term": "チー",
-      "count": 18
-    },
-    {
-      "term": "ェー",
+      "term": "これ",
       "count": 17
     },
     {
-      "term": "ービ",
+      "term": "デー",
+      "count": 17
+    },
+    {
+      "term": "って",
       "count": 16
     },
     {
-      "term": "実行",
+      "term": "物の",
       "count": 16
     },
     {
-      "term": "コー",
+      "term": "ーム",
       "count": 15
     },
     {
-      "term": "cd",
-      "count": 15
+      "term": "内容",
+      "count": 14
     },
     {
-      "term": "よる",
-      "count": 13
-    },
-    {
-      "term": "に ",
-      "count": 13
-    },
-    {
-      "term": "tf",
-      "count": 13
-    },
-    {
-      "term": "シークレ",
+      "term": "トの",
       "count": 12
     },
     {
-      "term": "クレ",
+      "term": "変更",
       "count": 12
     },
     {
-      "term": "ステ",
+      "term": "護 ",
+      "count": 12
+    },
+    {
+      "term": "署名",
+      "count": 12
+    },
+    {
+      "term": "プラット",
       "count": 11
     },
     {
-      "term": "要が",
+      "term": "とす",
       "count": 11
     },
     {
-      "term": "加え",
+      "term": "状態",
       "count": 11
     },
     {
-      "term": "を含",
+      "term": "えら",
+      "count": 11
+    },
+    {
+      "term": "ンテ",
+      "count": 11
+    },
+    {
+      "term": "の ",
       "count": 10
     },
     {
-      "term": "ティ",
+      "term": "る\n",
       "count": 10
     },
     {
-      "term": "セス",
+      "term": "git",
+      "count": 10
+    },
+    {
+      "term": "jobs",
+      "count": 10
+    },
+    {
+      "term": "cat",
       "count": 10
     },
     {
@@ -82,103 +90,99 @@
       "count": 9
     },
     {
-      "term": "より",
+      "term": "ブラ",
       "count": 9
     },
     {
-      "term": "それ",
+      "term": "トウ",
       "count": 9
     },
     {
-      "term": "steps",
+      "term": "提供",
       "count": 9
     },
     {
-      "term": "トの",
+      "term": "リの",
+      "count": 9
+    },
+    {
+      "term": "体的",
       "count": 8
     },
     {
-      "term": "スコ",
+      "term": "フェーズ",
       "count": 8
     },
     {
-      "term": "有の",
+      "term": "範囲の制",
       "count": 8
     },
     {
-      "term": "docker",
+      "term": "スク",
       "count": 8
     },
     {
-      "term": "の管",
+      "term": "リス",
       "count": 8
     },
     {
-      "term": "組み",
+      "term": "依存物の",
       "count": 8
+    },
+    {
+      "term": "sbom",
+      "count": 8
+    },
+    {
+      "term": "リ及",
+      "count": 7
     },
     {
       "term": "示す",
       "count": 7
     },
     {
-      "term": "る主",
+      "term": "あり",
       "count": 7
     },
     {
-      "term": "特有",
+      "term": "トフォー",
       "count": 7
     },
     {
-      "term": "省略",
+      "term": "アク",
       "count": 7
     },
     {
-      "term": "アッ",
+      "term": "build",
       "count": 7
     },
     {
-      "term": "はg",
-      "count": 7
-    },
-    {
-      "term": "ショ",
+      "term": "24",
       "count": 6
     },
     {
-      "term": "シス",
+      "term": "供す",
       "count": 6
     },
     {
-      "term": "報の",
+      "term": "ここでは",
       "count": 6
     },
     {
-      "term": "はa",
+      "term": "るよ",
       "count": 6
     },
     {
-      "term": "高い",
+      "term": "とも",
       "count": 6
     },
     {
-      "term": "要がある",
+      "term": "らな",
       "count": 6
     },
     {
-      "term": "メタデー",
-      "count": 6
-    },
-    {
-      "term": "ジの",
-      "count": 6
-    },
-    {
-      "term": "review",
-      "count": 6
-    },
-    {
-      "term": "のよ",
+      "term": "tf",
       "count": 6
     },
     {
@@ -186,20 +190,16 @@
       "count": 6
     },
     {
+      "term": "を指",
+      "count": 6
+    },
+    {
       "term": "同様",
       "count": 6
     },
     {
-      "term": "13",
-      "count": 5
-    },
-    {
-      "term": "理を含む",
-      "count": 5
-    },
-    {
-      "term": "ュリ",
-      "count": 5
+      "term": "に加",
+      "count": 6
     }
   ],
   "meetings": [
