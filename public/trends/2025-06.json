@@ -2,167 +2,151 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 25
+      "term": "した",
+      "count": 24
     },
     {
-      "term": "イン",
-      "count": 22
+      "term": "れる",
+      "count": 21
     },
     {
-      "term": "ポジ",
-      "count": 20
+      "term": "ルド",
+      "count": 17
     },
     {
-      "term": "ード",
-      "count": 18
-    },
-    {
-      "term": "設定",
-      "count": 18
-    },
-    {
-      "term": "メタ",
-      "count": 15
-    },
-    {
-      "term": "る必",
-      "count": 14
-    },
-    {
-      "term": "略 ",
-      "count": 14
-    },
-    {
-      "term": "にお",
-      "count": 13
-    },
-    {
-      "term": "を取",
-      "count": 12
-    },
-    {
-      "term": "るこ",
-      "count": 12
-    },
-    {
-      "term": "フォーム",
-      "count": 11
-    },
-    {
-      "term": "脆弱",
-      "count": 11
+      "term": "して",
+      "count": 17
     },
     {
       "term": "管理",
+      "count": 16
+    },
+    {
+      "term": "実行",
+      "count": 16
+    },
+    {
+      "term": "フェ",
+      "count": 15
+    },
+    {
+      "term": "また",
+      "count": 15
+    },
+    {
+      "term": "イメ",
+      "count": 15
+    },
+    {
+      "term": "cat",
+      "count": 15
+    },
+    {
+      "term": "用す",
+      "count": 13
+    },
+    {
+      "term": "る図",
+      "count": 13
+    },
+    {
+      "term": "に ",
+      "count": 12
+    },
+    {
+      "term": "ソー",
+      "count": 12
+    },
+    {
+      "term": "ット",
+      "count": 12
+    },
+    {
+      "term": "によ",
+      "count": 12
+    },
+    {
+      "term": "った",
+      "count": 12
+    },
+    {
+      "term": "この",
+      "count": 12
+    },
+    {
+      "term": "上で",
       "count": 11
     },
     {
-      "term": "要が",
+      "term": "terraform",
       "count": 11
     },
     {
-      "term": "の設",
-      "count": 11
-    },
-    {
-      "term": "ナリ",
+      "term": "の信",
       "count": 10
     },
     {
-      "term": "ック",
+      "term": "スキ",
       "count": 10
     },
     {
-      "term": "範囲",
+      "term": "sbom",
       "count": 10
     },
     {
-      "term": "セス",
-      "count": 10
-    },
-    {
-      "term": "クを",
-      "count": 10
-    },
-    {
-      "term": "加え",
-      "count": 10
-    },
-    {
-      "term": "ェア",
+      "term": "策 ",
       "count": 9
     },
     {
-      "term": "にも",
+      "term": "ステ",
       "count": 9
     },
     {
-      "term": "ージ",
+      "term": "し ",
       "count": 9
     },
     {
-      "term": "イメージ",
-      "count": 9
-    },
-    {
-      "term": "権限",
-      "count": 9
-    },
-    {
-      "term": "ている",
+      "term": "ドフ",
       "count": 8
     },
     {
-      "term": "docker",
+      "term": "行範",
       "count": 8
     },
     {
-      "term": "メー",
+      "term": "下の",
       "count": 8
     },
     {
-      "term": "るが",
+      "term": "トを",
       "count": 8
     },
     {
-      "term": "のよ",
-      "count": 8
-    },
-    {
-      "term": "action",
-      "count": 8
-    },
-    {
-      "term": "関す",
-      "count": 7
-    },
-    {
-      "term": "の確",
-      "count": 7
-    },
-    {
-      "term": "plan",
-      "count": 7
-    },
-    {
-      "term": "キャ",
-      "count": 7
-    },
-    {
-      "term": "クセ",
+      "term": "リテ",
       "count": 7
     },
     {
       "term": "共通",
+      "count": 7
+    },
+    {
+      "term": "ーと",
+      "count": 7
+    },
+    {
+      "term": "name",
+      "count": 7
+    },
+    {
+      "term": "tf",
+      "count": 7
+    },
+    {
+      "term": "キュ",
       "count": 6
     },
     {
-      "term": "変更",
-      "count": 6
-    },
-    {
-      "term": "頼で",
+      "term": "ージ",
       "count": 6
     },
     {
@@ -170,35 +154,51 @@
       "count": 6
     },
     {
-      "term": "ビルド上",
+      "term": "ス ",
       "count": 6
     },
     {
-      "term": "果物",
+      "term": "の仕",
       "count": 6
     },
     {
-      "term": "合は",
+      "term": "のg",
       "count": 6
     },
     {
-      "term": "key",
+      "term": "ズで",
       "count": 6
     },
     {
-      "term": "理脆",
-      "count": 5
+      "term": "を実",
+      "count": 6
+    },
+    {
+      "term": "制限",
+      "count": 6
+    },
+    {
+      "term": "11",
+      "count": 6
+    },
+    {
+      "term": "ることが",
+      "count": 6
     },
     {
       "term": "理 ",
       "count": 5
     },
     {
-      "term": "ト ",
+      "term": "保守",
       "count": 5
     },
     {
-      "term": "の漏洩対",
+      "term": "する",
+      "count": 5
+    },
+    {
+      "term": "てc",
       "count": 5
     }
   ],

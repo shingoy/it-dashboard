@@ -2,31 +2,43 @@
   "month": "2026-02",
   "keywords": [
     {
-      "term": "基本",
+      "term": "した",
       "count": 2
     },
     {
-      "term": "額を抽出",
+      "term": "画の",
       "count": 2
     },
     {
-      "term": "にお",
+      "term": "部等",
       "count": 2
     },
     {
-      "term": "の方",
+      "term": "の施",
       "count": 2
     },
     {
-      "term": "注２",
+      "term": "出困",
       "count": 2
     },
     {
-      "term": "究開",
+      "term": "の人",
       "count": 2
     },
     {
-      "term": "基盤",
+      "term": "の推",
+      "count": 2
+    },
+    {
+      "term": "総額",
+      "count": 2
+    },
+    {
+      "term": "が深",
+      "count": 2
+    },
+    {
+      "term": "援助",
       "count": 2
     },
     {
@@ -34,151 +46,59 @@
       "count": 2
     },
     {
-      "term": "も関",
+      "term": "費の",
       "count": 2
     },
     {
-      "term": "職業訓練",
+      "term": "関連予算",
       "count": 2
     },
     {
-      "term": "係す",
+      "term": "職者",
       "count": 2
     },
     {
-      "term": "合は",
+      "term": "る主",
       "count": 2
     },
     {
-      "term": "な施策を",
+      "term": "ステ",
       "count": 2
     },
     {
-      "term": "に向",
+      "term": "の構築",
       "count": 2
     },
     {
-      "term": "イン",
+      "term": "額を抽出",
+      "count": 2
+    },
+    {
+      "term": "事業",
+      "count": 2
+    },
+    {
+      "term": "けの",
+      "count": 2
+    },
+    {
+      "term": "ット",
+      "count": 2
+    },
+    {
+      "term": "発文",
       "count": 1
     },
     {
-      "term": "なａ",
+      "term": "ー導",
       "count": 1
     },
     {
-      "term": "進農",
+      "term": "約６",
       "count": 1
     },
     {
-      "term": "度運",
-      "count": 1
-    },
-    {
-      "term": "産業財産",
-      "count": 1
-    },
-    {
-      "term": "ム医",
-      "count": 1
-    },
-    {
-      "term": "見据",
-      "count": 1
-    },
-    {
-      "term": "セス",
-      "count": 1
-    },
-    {
-      "term": "ーワ",
-      "count": 1
-    },
-    {
-      "term": "ック",
-      "count": 1
-    },
-    {
-      "term": "成確",
-      "count": 1
-    },
-    {
-      "term": "駆動",
-      "count": 1
-    },
-    {
-      "term": "半導",
-      "count": 1
-    },
-    {
-      "term": "hpci",
-      "count": 1
-    },
-    {
-      "term": "ーマンス",
-      "count": 1
-    },
-    {
-      "term": "入等",
-      "count": 1
-    },
-    {
-      "term": "創薬",
-      "count": 1
-    },
-    {
-      "term": "た無",
-      "count": 1
-    },
-    {
-      "term": "施新",
-      "count": 1
-    },
-    {
-      "term": "農業推進",
-      "count": 1
-    },
-    {
-      "term": "る技術開",
-      "count": 1
-    },
-    {
-      "term": "科学研究",
-      "count": 1
-    },
-    {
-      "term": "ミッ",
-      "count": 1
-    },
-    {
-      "term": "ーマ",
-      "count": 1
-    },
-    {
-      "term": "体及",
-      "count": 1
-    },
-    {
-      "term": "ロセ",
-      "count": 1
-    },
-    {
-      "term": "活用の実",
-      "count": 1
-    },
-    {
-      "term": "クス",
-      "count": 1
-    },
-    {
-      "term": "の負",
-      "count": 1
-    },
-    {
-      "term": "ナン",
-      "count": 1
-    },
-    {
-      "term": "関す",
+      "term": "評価",
       "count": 1
     },
     {
@@ -186,19 +106,99 @@
       "count": 1
     },
     {
-      "term": "に繋",
+      "term": "に対する",
       "count": 1
     },
     {
-      "term": "ゲット予",
+      "term": "スマ",
       "count": 1
     },
     {
-      "term": "額の",
+      "term": "実に向け",
       "count": 1
     },
     {
-      "term": "ビスの充",
+      "term": "11",
+      "count": 1
+    },
+    {
+      "term": "イパフォ",
+      "count": 1
+    },
+    {
+      "term": "等を",
+      "count": 1
+    },
+    {
+      "term": "の信",
+      "count": 1
+    },
+    {
+      "term": "ログ",
+      "count": 1
+    },
+    {
+      "term": "確保のた",
+      "count": 1
+    },
+    {
+      "term": "性向",
+      "count": 1
+    },
+    {
+      "term": "価技術の",
+      "count": 1
+    },
+    {
+      "term": "ズ探",
+      "count": 1
+    },
+    {
+      "term": "イパ",
+      "count": 1
+    },
+    {
+      "term": "変革",
+      "count": 1
+    },
+    {
+      "term": "他金",
+      "count": 1
+    },
+    {
+      "term": "調査",
+      "count": 1
+    },
+    {
+      "term": "ーダ",
+      "count": 1
+    },
+    {
+      "term": "実に",
+      "count": 1
+    },
+    {
+      "term": "定はでき",
+      "count": 1
+    },
+    {
+      "term": "モー",
+      "count": 1
+    },
+    {
+      "term": "産業",
+      "count": 1
+    },
+    {
+      "term": "上の",
+      "count": 1
+    },
+    {
+      "term": "対処",
+      "count": 1
+    },
+    {
+      "term": "会に",
       "count": 1
     }
   ],
