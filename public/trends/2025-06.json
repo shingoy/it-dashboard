@@ -2,179 +2,131 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 28
+      "term": "管理",
+      "count": 18
     },
     {
-      "term": "github",
-      "count": 25
+      "term": "ない",
+      "count": 17
     },
     {
-      "term": "ため",
-      "count": 21
-    },
-    {
-      "term": "イル",
-      "count": 20
-    },
-    {
-      "term": "トリ",
-      "count": 19
-    },
-    {
-      "term": "actions",
-      "count": 19
-    },
-    {
-      "term": "安全",
+      "term": "ビル",
       "count": 16
     },
     {
       "term": "きる",
-      "count": 16
-    },
-    {
-      "term": "信頼",
       "count": 15
     },
     {
-      "term": "に ",
+      "term": "署名",
       "count": 15
     },
     {
-      "term": "フェ",
+      "term": "コン",
       "count": 15
     },
     {
-      "term": "るた",
+      "term": "メタ",
       "count": 15
     },
     {
-      "term": "ール",
-      "count": 15
-    },
-    {
-      "term": "ムの",
+      "term": "って",
       "count": 14
     },
     {
-      "term": "から",
+      "term": "ツー",
       "count": 14
     },
     {
-      "term": "頼性",
-      "count": 13
-    },
-    {
-      "term": "があ",
-      "count": 13
+      "term": "なる",
+      "count": 14
     },
     {
       "term": "workflows",
+      "count": 14
+    },
+    {
+      "term": "tf",
       "count": 13
     },
     {
-      "term": "を取",
-      "count": 12
-    },
-    {
-      "term": "る図",
-      "count": 12
-    },
-    {
-      "term": "code",
+      "term": "セス",
       "count": 10
     },
     {
-      "term": "ォー",
-      "count": 10
-    },
-    {
-      "term": "の信",
-      "count": 10
-    },
-    {
-      "term": "の ",
-      "count": 10
-    },
-    {
-      "term": "内で",
-      "count": 10
-    },
-    {
-      "term": "build",
-      "count": 10
-    },
-    {
-      "term": "ズの",
+      "term": "本書",
       "count": 9
     },
     {
-      "term": "バリ",
+      "term": "git",
       "count": 9
     },
     {
-      "term": "指定",
+      "term": "リの",
       "count": 9
     },
     {
-      "term": "yml",
-      "count": 9
-    },
-    {
-      "term": "and",
-      "count": 9
-    },
-    {
-      "term": "jobs",
-      "count": 9
-    },
-    {
-      "term": "aws",
-      "count": 9
-    },
-    {
-      "term": "定内",
+      "term": "ブラ",
       "count": 8
     },
     {
-      "term": "ン ",
+      "term": "書で",
       "count": 8
     },
     {
-      "term": "メタデー",
+      "term": "ング",
       "count": 8
     },
     {
-      "term": "対象",
+      "term": "ecr",
       "count": 8
     },
     {
-      "term": "を実",
+      "term": "が考",
       "count": 8
     },
     {
-      "term": "トの",
+      "term": "組み",
+      "count": 8
+    },
+    {
+      "term": "json",
+      "count": 8
+    },
+    {
+      "term": "定 ",
       "count": 7
     },
     {
-      "term": "体の",
+      "term": "行範",
       "count": 7
     },
     {
-      "term": "れば",
+      "term": "考えられ",
       "count": 7
     },
     {
-      "term": "省略",
+      "term": "login",
       "count": 7
     },
     {
-      "term": "with",
-      "count": 7
+      "term": "トに",
+      "count": 6
     },
     {
-      "term": "確保",
+      "term": "示す",
+      "count": 6
+    },
+    {
+      "term": "パイ",
+      "count": 6
+    },
+    {
+      "term": "した",
+      "count": 6
+    },
+    {
+      "term": "ージ",
       "count": 6
     },
     {
@@ -182,24 +134,72 @@
       "count": 6
     },
     {
-      "term": "ロバ",
+      "term": "の取",
       "count": 6
     },
     {
-      "term": "供す",
+      "term": "ド上",
       "count": 6
     },
     {
-      "term": "物と",
+      "term": "にも",
       "count": 6
     },
     {
-      "term": "ここでは",
+      "term": "アカ",
       "count": 6
     },
     {
-      "term": "るよ",
+      "term": "うこ",
       "count": 6
+    },
+    {
+      "term": "方法",
+      "count": 6
+    },
+    {
+      "term": "トフォー",
+      "count": 6
+    },
+    {
+      "term": "ジの",
+      "count": 6
+    },
+    {
+      "term": "取り",
+      "count": 6
+    },
+    {
+      "term": "image",
+      "count": 6
+    },
+    {
+      "term": "ることが",
+      "count": 6
+    },
+    {
+      "term": "trivy",
+      "count": 6
+    },
+    {
+      "term": "シナ",
+      "count": 5
+    },
+    {
+      "term": "の漏洩対",
+      "count": 5
+    },
+    {
+      "term": "のソ",
+      "count": 5
+    },
+    {
+      "term": "公式",
+      "count": 5
+    },
+    {
+      "term": "を検",
+      "count": 5
     }
   ],
   "meetings": [
