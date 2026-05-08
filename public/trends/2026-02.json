@@ -2,171 +2,67 @@
   "month": "2026-02",
   "keywords": [
     {
-      "term": "材開",
+      "term": "育成にお",
       "count": 2
     },
     {
-      "term": "捨五",
+      "term": "離職者及",
       "count": 2
     },
     {
-      "term": "離職",
+      "term": "構築",
       "count": 2
     },
     {
-      "term": "企業",
+      "term": "合は",
       "count": 2
     },
     {
-      "term": "者向けの",
+      "term": "画の",
       "count": 2
     },
     {
-      "term": "るａ",
+      "term": "者及",
       "count": 2
     },
     {
-      "term": "は四",
+      "term": "部等",
       "count": 2
     },
     {
-      "term": "予算は四",
+      "term": "育成",
       "count": 2
     },
     {
-      "term": "まず",
+      "term": "にお",
       "count": 2
     },
     {
-      "term": "に向",
+      "term": "算総",
       "count": 2
     },
     {
-      "term": "な施策を",
+      "term": "けの",
       "count": 2
     },
     {
-      "term": "ーズ",
+      "term": "基盤",
       "count": 2
     },
     {
-      "term": "企業向け",
+      "term": "針に分類",
       "count": 2
     },
     {
-      "term": "他金",
+      "term": "策は",
+      "count": 2
+    },
+    {
+      "term": "円ス",
       "count": 1
     },
     {
-      "term": "究等の実",
-      "count": 1
-    },
-    {
-      "term": "事者の負",
-      "count": 1
-    },
-    {
-      "term": "造プロセ",
-      "count": 1
-    },
-    {
-      "term": "フラ",
-      "count": 1
-    },
-    {
-      "term": "発の推進",
-      "count": 1
-    },
-    {
-      "term": "ーワ",
-      "count": 1
-    },
-    {
-      "term": "ビス",
-      "count": 1
-    },
-    {
-      "term": "発支援",
-      "count": 1
-    },
-    {
-      "term": "法に",
-      "count": 1
-    },
-    {
-      "term": "制度",
-      "count": 1
-    },
-    {
-      "term": "性確",
-      "count": 1
-    },
-    {
-      "term": "性向",
-      "count": 1
-    },
-    {
-      "term": "共用",
-      "count": 1
-    },
-    {
-      "term": "19",
-      "count": 1
-    },
-    {
-      "term": "ー導",
-      "count": 1
-    },
-    {
-      "term": "チモ",
-      "count": 1
-    },
-    {
-      "term": "用い",
-      "count": 1
-    },
-    {
-      "term": "機器開発",
-      "count": 1
-    },
-    {
-      "term": "意思",
-      "count": 1
-    },
-    {
-      "term": "産業財産",
-      "count": 1
-    },
-    {
-      "term": "厚サ",
-      "count": 1
-    },
-    {
-      "term": "発や",
-      "count": 1
-    },
-    {
-      "term": "ロード",
-      "count": 1
-    },
-    {
-      "term": "実に",
-      "count": 1
-    },
-    {
-      "term": "ーティン",
-      "count": 1
-    },
-    {
-      "term": "定はでき",
-      "count": 1
-    },
-    {
-      "term": "ービ",
-      "count": 1
-    },
-    {
-      "term": "が産",
+      "term": "上の",
       "count": 1
     },
     {
@@ -174,31 +70,135 @@
       "count": 1
     },
     {
+      "term": "設現",
+      "count": 1
+    },
+    {
       "term": "た建設現",
       "count": 1
     },
     {
-      "term": "産権",
+      "term": "等 ",
       "count": 1
     },
     {
-      "term": "ラミ",
+      "term": "インフラ",
       "count": 1
     },
     {
-      "term": "データ活",
+      "term": "ター",
       "count": 1
     },
     {
-      "term": "定迅速化",
+      "term": "金額の特",
       "count": 1
     },
     {
-      "term": "的ハ",
+      "term": "携型",
       "count": 1
     },
     {
-      "term": "けた",
+      "term": "学研",
+      "count": 1
+    },
+    {
+      "term": "明性",
+      "count": 1
+    },
+    {
+      "term": "み増し分",
+      "count": 1
+    },
+    {
+      "term": "発の推進",
+      "count": 1
+    },
+    {
+      "term": "げる",
+      "count": 1
+    },
+    {
+      "term": "る技術開",
+      "count": 1
+    },
+    {
+      "term": "る ",
+      "count": 1
+    },
+    {
+      "term": "ル基",
+      "count": 1
+    },
+    {
+      "term": "共用",
+      "count": 1
+    },
+    {
+      "term": "ークサー",
+      "count": 1
+    },
+    {
+      "term": "めの研究",
+      "count": 1
+    },
+    {
+      "term": "なａ",
+      "count": 1
+    },
+    {
+      "term": "迅速",
+      "count": 1
+    },
+    {
+      "term": "案 ",
+      "count": 1
+    },
+    {
+      "term": "ック",
+      "count": 1
+    },
+    {
+      "term": "の透",
+      "count": 1
+    },
+    {
+      "term": "額1",
+      "count": 1
+    },
+    {
+      "term": "実に向け",
+      "count": 1
+    },
+    {
+      "term": "し分",
+      "count": 1
+    },
+    {
+      "term": "見据",
+      "count": 1
+    },
+    {
+      "term": "ーマンス",
+      "count": 1
+    },
+    {
+      "term": "フィ",
+      "count": 1
+    },
+    {
+      "term": "イパフォ",
+      "count": 1
+    },
+    {
+      "term": "の製",
+      "count": 1
+    },
+    {
+      "term": "027",
+      "count": 1
+    },
+    {
+      "term": "場の",
       "count": 1
     }
   ],
