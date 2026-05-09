@@ -2,39 +2,51 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "であ",
-      "count": 22
+      "term": "され",
+      "count": 26
     },
     {
-      "term": "って",
+      "term": "でき",
+      "count": 23
+    },
+    {
+      "term": "github",
+      "count": 19
+    },
+    {
+      "term": "ージ",
+      "count": 18
+    },
+    {
+      "term": "トリ",
+      "count": 17
+    },
+    {
+      "term": "利用",
       "count": 16
     },
     {
-      "term": "ータ",
+      "term": "ナイ",
       "count": 15
     },
     {
-      "term": "クレ",
+      "term": "メタ",
+      "count": 15
+    },
+    {
+      "term": "署名",
+      "count": 14
+    },
+    {
+      "term": "脆弱",
       "count": 12
     },
     {
-      "term": "ソースコ",
+      "term": "体的",
       "count": 12
     },
     {
-      "term": "とす",
-      "count": 11
-    },
-    {
-      "term": "よる",
-      "count": 11
-    },
-    {
-      "term": "上で",
-      "count": 11
-    },
-    {
-      "term": "チェ",
+      "term": "ある",
       "count": 11
     },
     {
@@ -42,67 +54,87 @@
       "count": 11
     },
     {
-      "term": "メン",
+      "term": "弱性",
       "count": 10
     },
     {
-      "term": "ック",
+      "term": "ライ",
       "count": 10
     },
     {
-      "term": "その",
+      "term": "ー ",
       "count": 10
     },
     {
-      "term": "定し",
+      "term": "git",
       "count": 10
     },
     {
-      "term": "検証",
+      "term": "れる",
       "count": 10
     },
     {
-      "term": "以外",
+      "term": "on",
+      "count": 10
+    },
+    {
+      "term": "含む",
       "count": 9
     },
     {
-      "term": "指定",
+      "term": "クレ",
       "count": 9
     },
     {
-      "term": "シス",
+      "term": "変更",
+      "count": 9
+    },
+    {
+      "term": "が ",
+      "count": 9
+    },
+    {
+      "term": "れて",
+      "count": 9
+    },
+    {
+      "term": "の対",
+      "count": 9
+    },
+    {
+      "term": "with",
+      "count": 9
+    },
+    {
+      "term": "ubuntu",
+      "count": 9
+    },
+    {
+      "term": "の担",
       "count": 8
     },
     {
-      "term": "定内",
+      "term": "作成",
       "count": 8
     },
     {
-      "term": "ルー",
+      "term": "ャン",
       "count": 8
     },
     {
-      "term": "るそ",
+      "term": "commit",
       "count": 8
     },
     {
-      "term": "ーに",
-      "count": 8
-    },
-    {
-      "term": "repository",
-      "count": 8
-    },
-    {
-      "term": "の漏",
+      "term": "資産",
       "count": 7
     },
     {
-      "term": "ブラ",
+      "term": "共通",
       "count": 7
     },
     {
-      "term": "体の",
+      "term": "キー",
       "count": 7
     },
     {
@@ -110,11 +142,7 @@
       "count": 7
     },
     {
-      "term": "の仕",
-      "count": 7
-    },
-    {
-      "term": "が ",
+      "term": "れば",
       "count": 7
     },
     {
@@ -122,23 +150,19 @@
       "count": 7
     },
     {
-      "term": "にす",
+      "term": "ンバ",
       "count": 7
     },
     {
-      "term": "クセ",
-      "count": 7
+      "term": "ット情報",
+      "count": 6
     },
     {
-      "term": "図 ",
-      "count": 7
+      "term": "脆弱性管",
+      "count": 6
     },
     {
-      "term": "と同",
-      "count": 7
-    },
-    {
-      "term": "24",
+      "term": "頼で",
       "count": 6
     },
     {
@@ -146,60 +170,36 @@
       "count": 6
     },
     {
-      "term": "プロ",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "スキ",
+      "term": "定す",
       "count": 6
     },
     {
-      "term": "トを",
+      "term": "得し",
       "count": 6
     },
     {
-      "term": "から",
+      "term": "複数",
       "count": 6
     },
     {
-      "term": "影響",
+      "term": "対す",
       "count": 6
     },
     {
-      "term": "らな",
+      "term": "ついては",
       "count": 6
     },
     {
-      "term": "場合",
+      "term": "to",
       "count": 6
     },
     {
-      "term": "でき",
+      "term": "象と",
       "count": 6
-    },
-    {
-      "term": "steps",
-      "count": 6
-    },
-    {
-      "term": "ることが",
-      "count": 6
-    },
-    {
-      "term": "checkout",
-      "count": 6
-    },
-    {
-      "term": "用者",
-      "count": 5
-    },
-    {
-      "term": "理脆",
-      "count": 5
-    },
-    {
-      "term": "28",
-      "count": 5
     }
   ],
   "meetings": [
