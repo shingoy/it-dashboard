@@ -2,31 +2,91 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "に ",
+      "term": "コン",
       "count": 3
     },
     {
-      "term": "ップ",
+      "term": "会 ",
       "count": 3
     },
     {
-      "term": "に対",
+      "term": "ロジ",
       "count": 3
     },
     {
-      "term": "した",
+      "term": "を活",
       "count": 3
     },
     {
-      "term": "対象",
+      "term": "しの",
       "count": 3
     },
     {
-      "term": "ベン",
+      "term": "やア",
       "count": 2
     },
     {
-      "term": "プカ",
+      "term": "らコンソ",
+      "count": 2
+    },
+    {
+      "term": "ード",
+      "count": 2
+    },
+    {
+      "term": "け ",
+      "count": 2
+    },
+    {
+      "term": "周知",
+      "count": 2
+    },
+    {
+      "term": "自らへの",
+      "count": 2
+    },
+    {
+      "term": "りま",
+      "count": 2
+    },
+    {
+      "term": "おけ",
+      "count": 2
+    },
+    {
+      "term": "につ",
+      "count": 2
+    },
+    {
+      "term": "明参",
+      "count": 2
+    },
+    {
+      "term": "らコ",
+      "count": 2
+    },
+    {
+      "term": "期待を把",
+      "count": 2
+    },
+    {
+      "term": "regtech",
+      "count": 2
+    },
+    {
+      "term": "ムや",
+      "count": 2
+    },
+    {
+      "term": "ィの",
+      "count": 2
+    },
+    {
+      "term": "技術カタ",
+      "count": 2
+    },
+    {
+      "term": "の期",
       "count": 2
     },
     {
@@ -34,51 +94,27 @@
       "count": 2
     },
     {
-      "term": "の募",
+      "term": "等の募集",
       "count": 2
     },
     {
-      "term": "呼び",
+      "term": "把握",
       "count": 2
     },
     {
-      "term": "勉強",
+      "term": "証状",
       "count": 2
     },
     {
-      "term": "待を",
+      "term": "握 ",
       "count": 2
     },
     {
-      "term": "集情",
+      "term": "イス",
       "count": 2
     },
     {
-      "term": "個別呼び",
-      "count": 2
-    },
-    {
-      "term": "説明",
-      "count": 2
-    },
-    {
-      "term": "けた",
-      "count": 2
-    },
-    {
-      "term": "の今",
-      "count": 2
-    },
-    {
-      "term": "ンソ",
-      "count": 2
-    },
-    {
-      "term": "発信",
-      "count": 2
-    },
-    {
-      "term": "ッチ",
+      "term": "直 ",
       "count": 2
     },
     {
@@ -86,119 +122,83 @@
       "count": 2
     },
     {
-      "term": "を広",
-      "count": 2
-    },
-    {
-      "term": "を通じた",
-      "count": 2
-    },
-    {
-      "term": "ピッチコ",
-      "count": 2
-    },
-    {
-      "term": "トの",
-      "count": 2
-    },
-    {
-      "term": "を共",
-      "count": 2
-    },
-    {
-      "term": "有 ",
-      "count": 2
-    },
-    {
-      "term": "ジの",
-      "count": 2
-    },
-    {
       "term": "タロ",
       "count": 2
     },
     {
-      "term": "グの",
+      "term": "成果を踏",
       "count": 2
     },
     {
-      "term": "果 ",
+      "term": "まえ保有",
       "count": 2
     },
     {
-      "term": "を踏",
+      "term": "ム ",
       "count": 2
     },
     {
-      "term": "況を",
+      "term": "催を",
       "count": 2
     },
     {
-      "term": "化す",
+      "term": "通じ",
+      "count": 2
+    },
+    {
+      "term": "術保",
+      "count": 2
+    },
+    {
+      "term": "学習",
       "count": 1
     },
     {
-      "term": "有の",
+      "term": "共有の場",
       "count": 1
     },
     {
-      "term": "更な",
+      "term": "捗状",
       "count": 1
     },
     {
-      "term": "機関がテ",
+      "term": "庁規",
       "count": 1
     },
     {
-      "term": "効果",
+      "term": "を有する",
       "count": 1
     },
     {
-      "term": "む ",
+      "term": "ベンチャ",
       "count": 1
     },
     {
-      "term": "ー効",
+      "term": "シアム活",
       "count": 1
     },
     {
-      "term": "体規",
+      "term": "術知",
       "count": 1
     },
     {
-      "term": "に期",
+      "term": "ィ関",
       "count": 1
     },
     {
-      "term": "共同",
+      "term": "上を",
       "count": 1
     },
     {
-      "term": "の目的や",
+      "term": "どの",
       "count": 1
     },
     {
-      "term": "会実",
+      "term": "の連携を",
       "count": 1
     },
     {
-      "term": "市場規模",
-      "count": 1
-    },
-    {
-      "term": "タス",
-      "count": 1
-    },
-    {
-      "term": "明ら",
-      "count": 1
-    },
-    {
-      "term": "継続",
-      "count": 1
-    },
-    {
-      "term": "関連団体",
+      "term": "地域版",
       "count": 1
     }
   ],
