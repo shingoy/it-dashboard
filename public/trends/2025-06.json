@@ -2,115 +2,111 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "され",
-      "count": 26
-    },
-    {
-      "term": "でき",
-      "count": 23
-    },
-    {
-      "term": "github",
-      "count": 19
-    },
-    {
-      "term": "ージ",
-      "count": 18
-    },
-    {
-      "term": "トリ",
-      "count": 17
+      "term": "した",
+      "count": 24
     },
     {
       "term": "利用",
-      "count": 16
+      "count": 20
     },
     {
-      "term": "ナイ",
+      "term": "イン",
+      "count": 19
+    },
+    {
+      "term": "aws",
+      "count": 19
+    },
+    {
+      "term": "とし",
+      "count": 18
+    },
+    {
+      "term": "に ",
       "count": 15
-    },
-    {
-      "term": "メタ",
-      "count": 15
-    },
-    {
-      "term": "署名",
-      "count": 14
-    },
-    {
-      "term": "脆弱",
-      "count": 12
-    },
-    {
-      "term": "体的",
-      "count": 12
     },
     {
       "term": "ある",
+      "count": 15
+    },
+    {
+      "term": "スチ",
+      "count": 14
+    },
+    {
+      "term": "ルを",
+      "count": 14
+    },
+    {
+      "term": "にお",
+      "count": 13
+    },
+    {
+      "term": "トの",
+      "count": 12
+    },
+    {
+      "term": "サービス",
+      "count": 12
+    },
+    {
+      "term": "ステ",
       "count": 11
     },
     {
-      "term": "要が",
+      "term": "性の",
       "count": 11
     },
     {
-      "term": "弱性",
+      "term": "依存",
+      "count": 11
+    },
+    {
+      "term": "の安",
+      "count": 11
+    },
+    {
+      "term": "コンテナ",
       "count": 10
     },
     {
-      "term": "ライ",
-      "count": 10
-    },
-    {
-      "term": "ー ",
-      "count": 10
-    },
-    {
-      "term": "git",
-      "count": 10
-    },
-    {
-      "term": "れる",
-      "count": 10
-    },
-    {
-      "term": "on",
-      "count": 10
-    },
-    {
-      "term": "含む",
+      "term": "保護",
       "count": 9
     },
     {
-      "term": "クレ",
+      "term": "イプ",
       "count": 9
     },
     {
-      "term": "変更",
+      "term": "に対",
       "count": 9
     },
     {
-      "term": "が ",
+      "term": "アク",
       "count": 9
     },
     {
-      "term": "れて",
+      "term": "るが",
       "count": 9
     },
     {
-      "term": "の対",
+      "term": "push",
       "count": 9
     },
     {
-      "term": "with",
+      "term": "よう",
       "count": 9
     },
     {
-      "term": "ubuntu",
-      "count": 9
+      "term": "ョン",
+      "count": 8
     },
     {
-      "term": "の担",
+      "term": "有の",
+      "count": 8
+    },
+    {
+      "term": "の構",
       "count": 8
     },
     {
@@ -118,35 +114,35 @@
       "count": 8
     },
     {
-      "term": "ャン",
+      "term": "対象",
       "count": 8
     },
     {
-      "term": "commit",
-      "count": 8
-    },
-    {
-      "term": "資産",
+      "term": "漏洩",
       "count": 7
     },
     {
-      "term": "共通",
+      "term": "示す",
       "count": 7
     },
     {
-      "term": "キー",
+      "term": "における",
       "count": 7
     },
     {
-      "term": "自動",
+      "term": "あり",
       "count": 7
     },
     {
-      "term": "れば",
+      "term": "定義",
       "count": 7
     },
     {
-      "term": "ムチーム",
+      "term": "ップ",
+      "count": 7
+    },
+    {
+      "term": "がある",
       "count": 7
     },
     {
@@ -154,27 +150,35 @@
       "count": 7
     },
     {
-      "term": "ット情報",
+      "term": "強制",
+      "count": 7
+    },
+    {
+      "term": "を示",
       "count": 6
     },
     {
-      "term": "脆弱性管",
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "頼で",
+      "term": "の確",
       "count": 6
     },
     {
-      "term": "ロバ",
+      "term": "信頼性の",
       "count": 6
     },
     {
-      "term": "高い",
+      "term": "ス ",
       "count": 6
     },
     {
-      "term": "定す",
+      "term": "の署",
+      "count": 6
+    },
+    {
+      "term": "codebuild",
       "count": 6
     },
     {
@@ -182,23 +186,19 @@
       "count": 6
     },
     {
-      "term": "複数",
+      "term": "チェ",
       "count": 6
     },
     {
-      "term": "対す",
+      "term": "ズで",
       "count": 6
     },
     {
-      "term": "ついては",
+      "term": "レビ",
       "count": 6
     },
     {
-      "term": "to",
-      "count": 6
-    },
-    {
-      "term": "象と",
+      "term": "10",
       "count": 6
     }
   ],
