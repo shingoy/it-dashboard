@@ -2,151 +2,159 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "して",
-      "count": 27
+      "term": "ある",
+      "count": 25
     },
     {
-      "term": "ポジ",
-      "count": 20
+      "term": "プラ",
+      "count": 19
     },
     {
-      "term": "サー",
+      "term": "aws",
+      "count": 19
+    },
+    {
+      "term": "とし",
+      "count": 18
+    },
+    {
+      "term": "ーム",
       "count": 17
     },
     {
-      "term": "いる",
-      "count": 17
+      "term": "脆弱",
+      "count": 15
+    },
+    {
+      "term": "メー",
+      "count": 15
+    },
+    {
+      "term": "署名",
+      "count": 15
+    },
+    {
+      "term": "プロ",
+      "count": 14
     },
     {
       "term": "があ",
       "count": 14
     },
     {
-      "term": "ンを",
+      "term": "必要",
+      "count": 14
+    },
+    {
+      "term": "にお",
       "count": 13
     },
     {
-      "term": "シー",
+      "term": "トリ",
       "count": 13
     },
     {
-      "term": "担保",
-      "count": 13
-    },
-    {
-      "term": "の安",
-      "count": 13
-    },
-    {
-      "term": "略 ",
-      "count": 13
-    },
-    {
-      "term": "ラン",
+      "term": "ファ",
       "count": 12
     },
     {
-      "term": "ン ",
+      "term": "よう",
+      "count": 12
+    },
+    {
+      "term": "依存物の",
       "count": 11
     },
     {
-      "term": "る図",
+      "term": "要が",
       "count": 11
     },
     {
-      "term": "ロー",
+      "term": "クを",
+      "count": 11
+    },
+    {
+      "term": "ecr",
+      "count": 11
+    },
+    {
+      "term": "ンチ",
       "count": 10
     },
     {
-      "term": "イメージ",
+      "term": "する",
       "count": 10
     },
     {
-      "term": "的な",
+      "term": "検証",
+      "count": 10
+    },
+    {
+      "term": "id",
+      "count": 10
+    },
+    {
+      "term": "本書",
       "count": 9
     },
     {
-      "term": "ォー",
+      "term": "アク",
       "count": 9
     },
     {
-      "term": "バリ",
+      "term": "uses",
       "count": 9
     },
     {
-      "term": "れて",
-      "count": 9
-    },
-    {
-      "term": "た ",
-      "count": 9
-    },
-    {
-      "term": "そのため",
-      "count": 9
-    },
-    {
-      "term": "での",
+      "term": "バイ",
       "count": 8
     },
     {
-      "term": "主体",
+      "term": "作成",
       "count": 8
     },
     {
-      "term": "ーに",
+      "term": "を実",
       "count": 8
+    },
+    {
+      "term": "洩対",
+      "count": 7
+    },
+    {
+      "term": "理を",
+      "count": 7
+    },
+    {
+      "term": "デリバリ",
+      "count": 7
+    },
+    {
+      "term": "version",
+      "count": 7
+    },
+    {
+      "term": "図 ",
+      "count": 7
+    },
+    {
+      "term": "login",
+      "count": 7
     },
     {
       "term": "組み",
-      "count": 8
-    },
-    {
-      "term": "env",
-      "count": 8
-    },
-    {
-      "term": "を含",
       "count": 7
     },
     {
-      "term": "ンの",
-      "count": 7
-    },
-    {
-      "term": "ワー",
+      "term": "ci",
       "count": 6
     },
     {
-      "term": "の漏洩対",
+      "term": "リ時",
       "count": 6
     },
     {
-      "term": "した",
-      "count": 6
-    },
-    {
-      "term": "の保護",
-      "count": 6
-    },
-    {
-      "term": "ス ",
-      "count": 6
-    },
-    {
-      "term": "たが",
-      "count": 6
-    },
-    {
-      "term": "プロバイ",
-      "count": 6
-    },
-    {
-      "term": "はa",
-      "count": 6
-    },
-    {
-      "term": "性が",
+      "term": "特有",
       "count": 6
     },
     {
@@ -158,47 +166,39 @@
       "count": 6
     },
     {
-      "term": "完全",
+      "term": "codebuild",
       "count": 6
     },
     {
-      "term": "能で",
+      "term": "の事",
       "count": 6
     },
     {
-      "term": "image",
+      "term": "容を",
       "count": 6
     },
     {
-      "term": "同様",
+      "term": "to",
       "count": 6
     },
     {
-      "term": "えて",
+      "term": "tf",
       "count": 6
     },
     {
-      "term": "on",
+      "term": "はパ",
       "count": 6
     },
     {
-      "term": "脆弱性管",
+      "term": "シナ",
       "count": 5
     },
     {
-      "term": "よる",
+      "term": "infrastructure",
       "count": 5
     },
     {
-      "term": "ード",
-      "count": 5
-    },
-    {
-      "term": "信頼でき",
-      "count": 5
-    },
-    {
-      "term": "に保",
+      "term": "13",
       "count": 5
     }
   ],
