@@ -2,203 +2,203 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "利用",
-      "count": 21
+      "term": "する",
+      "count": 22
     },
     {
-      "term": "name",
+      "term": "トリ",
+      "count": 20
+    },
+    {
+      "term": "図 ",
+      "count": 19
+    },
+    {
+      "term": "によ",
       "count": 16
     },
     {
-      "term": "ービ",
+      "term": "に ",
       "count": 15
     },
     {
-      "term": "での",
+      "term": "コー",
+      "count": 15
+    },
+    {
+      "term": "タデ",
       "count": 14
     },
     {
-      "term": "いて",
+      "term": "れた",
       "count": 14
     },
     {
-      "term": "スチ",
-      "count": 14
-    },
-    {
-      "term": "体的",
+      "term": "ラッ",
       "count": 13
     },
     {
-      "term": "にお",
+      "term": "って",
       "count": 13
-    },
-    {
-      "term": "的に",
-      "count": 13
-    },
-    {
-      "term": "steps",
-      "count": 12
-    },
-    {
-      "term": "のc",
-      "count": 11
-    },
-    {
-      "term": "プラット",
-      "count": 11
-    },
-    {
-      "term": "サービス",
-      "count": 11
-    },
-    {
-      "term": "考え",
-      "count": 11
-    },
-    {
-      "term": "クを",
-      "count": 11
-    },
-    {
-      "term": "ファ",
-      "count": 11
-    },
-    {
-      "term": "cat",
-      "count": 11
-    },
-    {
-      "term": "保 ",
-      "count": 10
-    },
-    {
-      "term": "を含",
-      "count": 10
-    },
-    {
-      "term": "定し",
-      "count": 10
-    },
-    {
-      "term": "git",
-      "count": 10
-    },
-    {
-      "term": "ーの",
-      "count": 10
-    },
-    {
-      "term": "jobs",
-      "count": 10
-    },
-    {
-      "term": "env",
-      "count": 10
-    },
-    {
-      "term": "に関",
-      "count": 9
-    },
-    {
-      "term": "ナイ",
-      "count": 9
-    },
-    {
-      "term": "フェーズ",
-      "count": 8
-    },
-    {
-      "term": "の取",
-      "count": 8
-    },
-    {
-      "term": "の構",
-      "count": 8
     },
     {
       "term": "の成",
-      "count": 8
+      "count": 13
     },
     {
-      "term": "ルで",
-      "count": 8
+      "term": "った",
+      "count": 13
     },
     {
-      "term": "組み",
-      "count": 8
+      "term": "cat",
+      "count": 13
     },
     {
       "term": "おけ",
-      "count": 7
+      "count": 12
     },
     {
-      "term": "ラン",
-      "count": 7
+      "term": "情報",
+      "count": 12
     },
     {
-      "term": "17",
-      "count": 7
+      "term": "体的",
+      "count": 12
     },
     {
-      "term": "ンの",
-      "count": 7
+      "term": "のメ",
+      "count": 12
     },
     {
-      "term": "リポジト",
-      "count": 7
+      "term": "terraform",
+      "count": 11
     },
     {
-      "term": "rulesets",
-      "count": 7
+      "term": "バー",
+      "count": 11
+    },
+    {
+      "term": "push",
+      "count": 11
+    },
+    {
+      "term": "com",
+      "count": 10
+    },
+    {
+      "term": "含む",
+      "count": 9
+    },
+    {
+      "term": "るこ",
+      "count": 9
+    },
+    {
+      "term": "し ",
+      "count": 9
+    },
+    {
+      "term": "保 ",
+      "count": 8
+    },
+    {
+      "term": "られ",
+      "count": 8
+    },
+    {
+      "term": "ービ",
+      "count": 8
+    },
+    {
+      "term": "下の",
+      "count": 8
+    },
+    {
+      "term": "トを",
+      "count": 8
+    },
+    {
+      "term": "commit",
+      "count": 8
     },
     {
       "term": "json",
+      "count": 8
+    },
+    {
+      "term": "ェーズの",
       "count": 7
     },
     {
-      "term": "ュリ",
+      "term": "共通",
+      "count": 7
+    },
+    {
+      "term": "およ",
+      "count": 7
+    },
+    {
+      "term": "た ",
+      "count": 7
+    },
+    {
+      "term": "plan",
+      "count": 7
+    },
+    {
+      "term": "対し",
+      "count": 7
+    },
+    {
+      "term": "はg",
+      "count": 7
+    },
+    {
+      "term": "ークレッ",
+      "count": 7
+    },
+    {
+      "term": "クセ",
+      "count": 7
+    },
+    {
+      "term": "と同",
+      "count": 7
+    },
+    {
+      "term": "uses",
+      "count": 7
+    },
+    {
+      "term": "護 ",
       "count": 6
     },
     {
-      "term": "成 ",
+      "term": "リ時",
       "count": 6
     },
     {
-      "term": "めに",
+      "term": "物と",
       "count": 6
     },
     {
-      "term": "フェ",
+      "term": "の署",
       "count": 6
     },
     {
-      "term": "高い",
+      "term": "イメージ",
       "count": 6
     },
     {
-      "term": "codebuild",
+      "term": "sbom",
       "count": 6
     },
     {
-      "term": "ムは",
+      "term": "の変",
       "count": 6
     },
     {
-      "term": "要がある",
-      "count": 6
-    },
-    {
-      "term": "もの",
-      "count": 6
-    },
-    {
-      "term": "ここでは",
-      "count": 6
-    },
-    {
-      "term": "amazon",
+      "term": "は ",
       "count": 6
     }
   ],
