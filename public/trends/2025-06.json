@@ -2,127 +2,175 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "され",
-      "count": 27
-    },
-    {
-      "term": "こと",
-      "count": 24
-    },
-    {
-      "term": "構成",
+      "term": "利用",
       "count": 21
     },
     {
-      "term": "およ",
+      "term": "name",
+      "count": 16
+    },
+    {
+      "term": "ービ",
       "count": 15
     },
     {
-      "term": "への",
-      "count": 15
+      "term": "での",
+      "count": 14
     },
     {
-      "term": "安全",
-      "count": 13
+      "term": "いて",
+      "count": 14
+    },
+    {
+      "term": "スチ",
+      "count": 14
     },
     {
       "term": "体的",
-      "count": 12
+      "count": 13
+    },
+    {
+      "term": "にお",
+      "count": 13
+    },
+    {
+      "term": "的に",
+      "count": 13
     },
     {
       "term": "steps",
       "count": 12
     },
     {
-      "term": "成果物の",
+      "term": "のc",
       "count": 11
     },
     {
-      "term": "取得",
+      "term": "プラット",
       "count": 11
     },
     {
-      "term": "はc",
+      "term": "サービス",
+      "count": 11
+    },
+    {
+      "term": "考え",
+      "count": 11
+    },
+    {
+      "term": "クを",
+      "count": 11
+    },
+    {
+      "term": "ファ",
+      "count": 11
+    },
+    {
+      "term": "cat",
+      "count": 11
+    },
+    {
+      "term": "保 ",
       "count": 10
     },
     {
-      "term": "的に",
+      "term": "を含",
       "count": 10
     },
     {
-      "term": "それ",
+      "term": "定し",
+      "count": 10
+    },
+    {
+      "term": "git",
+      "count": 10
+    },
+    {
+      "term": "ーの",
+      "count": 10
+    },
+    {
+      "term": "jobs",
+      "count": 10
+    },
+    {
+      "term": "env",
+      "count": 10
+    },
+    {
+      "term": "に関",
       "count": 9
     },
     {
-      "term": "ルの",
+      "term": "ナイ",
       "count": 9
     },
     {
-      "term": "れら",
-      "count": 9
-    },
-    {
-      "term": "場合",
-      "count": 9
-    },
-    {
-      "term": "通し",
+      "term": "フェーズ",
       "count": 8
     },
     {
-      "term": "スト",
+      "term": "の取",
       "count": 8
     },
     {
-      "term": "有の",
+      "term": "の構",
       "count": 8
     },
     {
-      "term": "書で",
+      "term": "の成",
       "count": 8
     },
     {
-      "term": "ング",
+      "term": "ルで",
       "count": 8
     },
     {
-      "term": "メー",
+      "term": "組み",
       "count": 8
     },
     {
-      "term": "キャ",
-      "count": 8
-    },
-    {
-      "term": "ンa",
-      "count": 8
-    },
-    {
-      "term": "らの",
+      "term": "おけ",
       "count": 7
     },
     {
-      "term": "など",
+      "term": "ラン",
       "count": 7
     },
     {
-      "term": "事項",
+      "term": "17",
       "count": 7
     },
     {
-      "term": "クセ",
+      "term": "ンの",
       "count": 7
     },
     {
-      "term": "につ",
+      "term": "リポジト",
+      "count": 7
+    },
+    {
+      "term": "rulesets",
+      "count": 7
+    },
+    {
+      "term": "json",
+      "count": 7
+    },
+    {
+      "term": "ュリ",
       "count": 6
     },
     {
-      "term": "ジト",
+      "term": "成 ",
       "count": 6
     },
     {
-      "term": "した",
+      "term": "めに",
+      "count": 6
+    },
+    {
+      "term": "フェ",
       "count": 6
     },
     {
@@ -130,76 +178,28 @@
       "count": 6
     },
     {
-      "term": "デリバリ",
-      "count": 6
-    },
-    {
-      "term": "内の",
-      "count": 6
-    },
-    {
       "term": "codebuild",
       "count": 6
     },
     {
-      "term": "のg",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "ても",
+      "term": "要がある",
       "count": 6
     },
     {
-      "term": "ることが",
+      "term": "もの",
       "count": 6
     },
     {
-      "term": "象と",
+      "term": "ここでは",
       "count": 6
     },
     {
-      "term": "用者",
-      "count": 5
-    },
-    {
-      "term": "13",
-      "count": 5
-    },
-    {
-      "term": "性管",
-      "count": 5
-    },
-    {
-      "term": "ンを",
-      "count": 5
-    },
-    {
-      "term": "ロー",
-      "count": 5
-    },
-    {
-      "term": "する",
-      "count": 5
-    },
-    {
-      "term": "ード",
-      "count": 5
-    },
-    {
-      "term": "のソ",
-      "count": 5
-    },
-    {
-      "term": "記述",
-      "count": 5
-    },
-    {
-      "term": "取り",
-      "count": 5
-    },
-    {
-      "term": "対応",
-      "count": 5
+      "term": "amazon",
+      "count": 6
     }
   ],
   "meetings": [
