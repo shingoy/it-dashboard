@@ -2,35 +2,59 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "こと",
-      "count": 25
+      "term": "いる",
+      "count": 20
     },
     {
-      "term": "ci",
+      "term": "aws",
+      "count": 19
+    },
+    {
+      "term": "actions",
+      "count": 19
+    },
+    {
+      "term": "ない",
       "count": 17
     },
     {
-      "term": "の保",
-      "count": 16
-    },
-    {
-      "term": "cd",
+      "term": "フォ",
       "count": 15
     },
     {
-      "term": "脆弱",
+      "term": "ーク",
       "count": 15
     },
     {
-      "term": "があ",
-      "count": 14
+      "term": "した",
+      "count": 15
     },
     {
-      "term": "略 ",
-      "count": 14
+      "term": "から",
+      "count": 15
     },
     {
-      "term": "およ",
+      "term": "署名",
+      "count": 15
+    },
+    {
+      "term": "よび",
+      "count": 13
+    },
+    {
+      "term": "担保",
+      "count": 13
+    },
+    {
+      "term": "とで",
+      "count": 13
+    },
+    {
+      "term": "ント",
+      "count": 12
+    },
+    {
+      "term": "を取",
       "count": 12
     },
     {
@@ -38,83 +62,71 @@
       "count": 11
     },
     {
-      "term": "コー",
+      "term": "つい",
       "count": 11
     },
     {
-      "term": "実行",
+      "term": "push",
       "count": 11
     },
     {
-      "term": "ブラ",
-      "count": 10
+      "term": "中略",
+      "count": 11
     },
     {
-      "term": "利用",
-      "count": 10
-    },
-    {
-      "term": "内で",
-      "count": 10
-    },
-    {
-      "term": "workflows",
-      "count": 10
-    },
-    {
-      "term": "バリ",
+      "term": "ンの",
       "count": 9
     },
     {
-      "term": "の担",
+      "term": "た ",
       "count": 9
     },
     {
-      "term": "本書",
+      "term": "ここ",
       "count": 9
     },
     {
-      "term": "provenance",
-      "count": 9
-    },
-    {
-      "term": "リの",
-      "count": 9
-    },
-    {
-      "term": "書で",
+      "term": "トの",
       "count": 8
     },
     {
-      "term": "用い",
+      "term": "スク",
       "count": 8
     },
     {
-      "term": "有の",
+      "term": "作成",
       "count": 8
     },
     {
-      "term": "らの",
+      "term": "ャン",
       "count": 8
     },
     {
-      "term": "commit",
+      "term": "的に",
       "count": 8
     },
     {
-      "term": "組み",
-      "count": 8
-    },
-    {
-      "term": "システム",
+      "term": "シス",
       "count": 7
     },
     {
-      "term": "資産",
+      "term": "プラ",
       "count": 7
     },
     {
-      "term": "フェーズ",
+      "term": "物を",
+      "count": 7
+    },
+    {
+      "term": "の仕",
+      "count": 7
+    },
+    {
+      "term": "るま",
+      "count": 7
+    },
+    {
+      "term": "ると",
       "count": 7
     },
     {
@@ -122,63 +134,63 @@
       "count": 7
     },
     {
-      "term": "ジを",
+      "term": "定す",
       "count": 7
     },
     {
-      "term": "ップ",
+      "term": "ーと",
       "count": 7
     },
     {
-      "term": "ecr",
+      "term": "ルを",
       "count": 7
     },
     {
-      "term": "に加",
+      "term": "とは",
       "count": 7
     },
     {
-      "term": "ド管",
+      "term": "混入",
+      "count": 7
+    },
+    {
+      "term": "キュ",
       "count": 6
     },
     {
-      "term": "成 ",
+      "term": "ビルドフ",
       "count": 6
     },
     {
-      "term": "ェーズの",
+      "term": "の署",
       "count": 6
     },
     {
-      "term": "リテ",
+      "term": "複数",
       "count": 6
     },
     {
-      "term": "ムは",
+      "term": "version",
       "count": 6
     },
     {
-      "term": "たt",
+      "term": "の利",
       "count": 6
     },
     {
-      "term": "供す",
+      "term": "ンバ",
       "count": 6
     },
     {
-      "term": "検証",
+      "term": "略す",
       "count": 6
     },
     {
-      "term": "キャ",
+      "term": "らな",
       "count": 6
     },
     {
-      "term": "secrets",
-      "count": 6
-    },
-    {
-      "term": "のレ",
+      "term": "い ",
       "count": 6
     },
     {
@@ -186,20 +198,8 @@
       "count": 6
     },
     {
-      "term": "と同",
+      "term": "メタ",
       "count": 6
-    },
-    {
-      "term": "守 ",
-      "count": 5
-    },
-    {
-      "term": "ド ",
-      "count": 5
-    },
-    {
-      "term": "ケー",
-      "count": 5
     }
   ],
   "meetings": [
