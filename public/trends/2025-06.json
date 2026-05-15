@@ -2,119 +2,99 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "する",
-      "count": 22
+      "term": "こと",
+      "count": 25
     },
     {
-      "term": "トリ",
-      "count": 20
+      "term": "ci",
+      "count": 17
     },
     {
-      "term": "図 ",
-      "count": 19
-    },
-    {
-      "term": "によ",
+      "term": "の保",
       "count": 16
     },
     {
-      "term": "に ",
+      "term": "cd",
       "count": 15
+    },
+    {
+      "term": "脆弱",
+      "count": 15
+    },
+    {
+      "term": "があ",
+      "count": 14
+    },
+    {
+      "term": "略 ",
+      "count": 14
+    },
+    {
+      "term": "およ",
+      "count": 12
+    },
+    {
+      "term": "とす",
+      "count": 11
     },
     {
       "term": "コー",
-      "count": 15
-    },
-    {
-      "term": "タデ",
-      "count": 14
-    },
-    {
-      "term": "れた",
-      "count": 14
-    },
-    {
-      "term": "ラッ",
-      "count": 13
-    },
-    {
-      "term": "って",
-      "count": 13
-    },
-    {
-      "term": "の成",
-      "count": 13
-    },
-    {
-      "term": "った",
-      "count": 13
-    },
-    {
-      "term": "cat",
-      "count": 13
-    },
-    {
-      "term": "おけ",
-      "count": 12
-    },
-    {
-      "term": "情報",
-      "count": 12
-    },
-    {
-      "term": "体的",
-      "count": 12
-    },
-    {
-      "term": "のメ",
-      "count": 12
-    },
-    {
-      "term": "terraform",
       "count": 11
     },
     {
-      "term": "バー",
+      "term": "実行",
       "count": 11
     },
     {
-      "term": "push",
-      "count": 11
-    },
-    {
-      "term": "com",
+      "term": "ブラ",
       "count": 10
     },
     {
-      "term": "含む",
+      "term": "利用",
+      "count": 10
+    },
+    {
+      "term": "内で",
+      "count": 10
+    },
+    {
+      "term": "workflows",
+      "count": 10
+    },
+    {
+      "term": "バリ",
       "count": 9
     },
     {
-      "term": "るこ",
+      "term": "の担",
       "count": 9
     },
     {
-      "term": "し ",
+      "term": "本書",
       "count": 9
     },
     {
-      "term": "保 ",
+      "term": "provenance",
+      "count": 9
+    },
+    {
+      "term": "リの",
+      "count": 9
+    },
+    {
+      "term": "書で",
       "count": 8
     },
     {
-      "term": "られ",
+      "term": "用い",
       "count": 8
     },
     {
-      "term": "ービ",
+      "term": "有の",
       "count": 8
     },
     {
-      "term": "下の",
-      "count": 8
-    },
-    {
-      "term": "トを",
+      "term": "らの",
       "count": 8
     },
     {
@@ -122,23 +102,19 @@
       "count": 8
     },
     {
-      "term": "json",
+      "term": "組み",
       "count": 8
     },
     {
-      "term": "ェーズの",
+      "term": "システム",
       "count": 7
     },
     {
-      "term": "共通",
+      "term": "資産",
       "count": 7
     },
     {
-      "term": "およ",
-      "count": 7
-    },
-    {
-      "term": "た ",
+      "term": "フェーズ",
       "count": 7
     },
     {
@@ -146,60 +122,84 @@
       "count": 7
     },
     {
-      "term": "対し",
+      "term": "ジを",
       "count": 7
     },
     {
-      "term": "はg",
+      "term": "ップ",
       "count": 7
     },
     {
-      "term": "ークレッ",
+      "term": "ecr",
       "count": 7
     },
     {
-      "term": "クセ",
+      "term": "に加",
       "count": 7
+    },
+    {
+      "term": "ド管",
+      "count": 6
+    },
+    {
+      "term": "成 ",
+      "count": 6
+    },
+    {
+      "term": "ェーズの",
+      "count": 6
+    },
+    {
+      "term": "リテ",
+      "count": 6
+    },
+    {
+      "term": "ムは",
+      "count": 6
+    },
+    {
+      "term": "たt",
+      "count": 6
+    },
+    {
+      "term": "供す",
+      "count": 6
+    },
+    {
+      "term": "検証",
+      "count": 6
+    },
+    {
+      "term": "キャ",
+      "count": 6
+    },
+    {
+      "term": "secrets",
+      "count": 6
+    },
+    {
+      "term": "のレ",
+      "count": 6
+    },
+    {
+      "term": "ビルド設",
+      "count": 6
     },
     {
       "term": "と同",
-      "count": 7
-    },
-    {
-      "term": "uses",
-      "count": 7
-    },
-    {
-      "term": "護 ",
       "count": 6
     },
     {
-      "term": "リ時",
-      "count": 6
+      "term": "守 ",
+      "count": 5
     },
     {
-      "term": "物と",
-      "count": 6
+      "term": "ド ",
+      "count": 5
     },
     {
-      "term": "の署",
-      "count": 6
-    },
-    {
-      "term": "イメージ",
-      "count": 6
-    },
-    {
-      "term": "sbom",
-      "count": 6
-    },
-    {
-      "term": "の変",
-      "count": 6
-    },
-    {
-      "term": "は ",
-      "count": 6
+      "term": "ケー",
+      "count": 5
     }
   ],
   "meetings": [
