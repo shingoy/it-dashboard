@@ -2,67 +2,91 @@
   "month": "2026-04",
   "keywords": [
     {
-      "term": "場合",
+      "term": "捨五入し",
       "count": 2
     },
     {
-      "term": "及びリス",
+      "term": "針に関係",
       "count": 2
     },
     {
-      "term": "含ま",
+      "term": "業費",
       "count": 2
     },
     {
-      "term": "が深",
+      "term": "促進",
       "count": 2
     },
     {
-      "term": "人工",
+      "term": "月閣",
       "count": 2
     },
     {
-      "term": "イノベー",
+      "term": "基盤モデ",
       "count": 2
     },
     {
-      "term": "予算総額",
+      "term": "一部等",
       "count": 2
     },
     {
-      "term": "に推",
+      "term": "人材",
       "count": 2
     },
     {
-      "term": "全面",
+      "term": "載複",
       "count": 2
     },
     {
-      "term": "産業財産",
+      "term": "てａ",
+      "count": 2
+    },
+    {
+      "term": "社会",
+      "count": 2
+    },
+    {
+      "term": "用し",
       "count": 1
     },
     {
-      "term": "活動",
+      "term": "ラム",
       "count": 1
     },
     {
-      "term": "権制度運",
+      "term": "創薬ター",
       "count": 1
     },
     {
-      "term": "度ａ",
+      "term": "る ",
       "count": 1
     },
     {
-      "term": "る技",
+      "term": "の抜",
       "count": 1
     },
     {
-      "term": "ドu",
+      "term": "ンセ",
       "count": 1
     },
     {
-      "term": "パフ",
+      "term": "保の",
+      "count": 1
+    },
+    {
+      "term": "発支",
+      "count": 1
+    },
+    {
+      "term": "の他",
+      "count": 1
+    },
+    {
+      "term": "向上",
+      "count": 1
+    },
+    {
+      "term": "事者",
       "count": 1
     },
     {
@@ -70,127 +94,15 @@
       "count": 1
     },
     {
-      "term": "材の",
+      "term": "企業向け",
       "count": 1
     },
     {
-      "term": "く調",
+      "term": "離職者及",
       "count": 1
     },
     {
-      "term": "ムに関す",
-      "count": 1
-    },
-    {
-      "term": "の研究",
-      "count": 1
-    },
-    {
-      "term": "ない",
-      "count": 1
-    },
-    {
-      "term": "に関する",
-      "count": 1
-    },
-    {
-      "term": "次世",
-      "count": 1
-    },
-    {
-      "term": "ゲッ",
-      "count": 1
-    },
-    {
-      "term": "化ａ",
-      "count": 1
-    },
-    {
-      "term": "や医",
-      "count": 1
-    },
-    {
-      "term": "震動",
-      "count": 1
-    },
-    {
-      "term": "職業",
-      "count": 1
-    },
-    {
-      "term": "新 ",
-      "count": 1
-    },
-    {
-      "term": "サー",
-      "count": 1
-    },
-    {
-      "term": "額の",
-      "count": 1
-    },
-    {
-      "term": "担軽減",
-      "count": 1
-    },
-    {
-      "term": "バナ",
-      "count": 1
-    },
-    {
-      "term": "フラ",
-      "count": 1
-    },
-    {
-      "term": "介護",
-      "count": 1
-    },
-    {
-      "term": "なi",
-      "count": 1
-    },
-    {
-      "term": "度化",
-      "count": 1
-    },
-    {
-      "term": "業財",
-      "count": 1
-    },
-    {
-      "term": "係が",
-      "count": 1
-    },
-    {
-      "term": "ベー",
-      "count": 1
-    },
-    {
-      "term": "担軽",
-      "count": 1
-    },
-    {
-      "term": "思決",
-      "count": 1
-    },
-    {
-      "term": "発事",
-      "count": 1
-    },
-    {
-      "term": "クノロジ",
-      "count": 1
-    },
-    {
-      "term": "を高",
-      "count": 1
-    },
-    {
-      "term": "練企",
-      "count": 1
-    },
-    {
-      "term": "などの施",
+      "term": "地震動評",
       "count": 1
     },
     {
@@ -198,7 +110,95 @@
       "count": 1
     },
     {
-      "term": "を使",
+      "term": "ークサー",
+      "count": 1
+    },
+    {
+      "term": "高度",
+      "count": 1
+    },
+    {
+      "term": "ロボ",
+      "count": 1
+    },
+    {
+      "term": "基金の積",
+      "count": 1
+    },
+    {
+      "term": "ー導入等",
+      "count": 1
+    },
+    {
+      "term": "型ａ",
+      "count": 1
+    },
+    {
+      "term": "027",
+      "count": 1
+    },
+    {
+      "term": "hpci",
+      "count": 1
+    },
+    {
+      "term": "のた",
+      "count": 1
+    },
+    {
+      "term": "ー導",
+      "count": 1
+    },
+    {
+      "term": "報通",
+      "count": 1
+    },
+    {
+      "term": "な施",
+      "count": 1
+    },
+    {
+      "term": "性を",
+      "count": 1
+    },
+    {
+      "term": "知能",
+      "count": 1
+    },
+    {
+      "term": "開発力の",
+      "count": 1
+    },
+    {
+      "term": "のための",
+      "count": 1
+    },
+    {
+      "term": "生成",
+      "count": 1
+    },
+    {
+      "term": "いて",
+      "count": 1
+    },
+    {
+      "term": "約３",
+      "count": 1
+    },
+    {
+      "term": "発力",
+      "count": 1
+    },
+    {
+      "term": "設現",
+      "count": 1
+    },
+    {
+      "term": "対す",
+      "count": 1
+    },
+    {
+      "term": "カル",
       "count": 1
     }
   ],
