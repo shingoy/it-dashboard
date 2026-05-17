@@ -2,59 +2,55 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "る ",
-      "count": 28
+      "term": "する",
+      "count": 27
     },
     {
-      "term": "github",
-      "count": 26
-    },
-    {
-      "term": "利用",
+      "term": "パイ",
       "count": 21
     },
     {
-      "term": "図 ",
-      "count": 20
+      "term": "では",
+      "count": 19
     },
     {
-      "term": "実行",
+      "term": "こと",
+      "count": 19
+    },
+    {
+      "term": "の保",
       "count": 16
     },
     {
-      "term": "脆弱",
+      "term": "物の",
+      "count": 16
+    },
+    {
+      "term": "よび",
       "count": 15
     },
     {
-      "term": "のた",
+      "term": "必要",
       "count": 15
     },
     {
-      "term": "でき",
-      "count": 15
-    },
-    {
-      "term": "いて",
+      "term": "での",
       "count": 14
     },
     {
-      "term": "があ",
+      "term": "中略",
       "count": 14
     },
     {
-      "term": "体的",
+      "term": "生成",
       "count": 13
     },
     {
-      "term": "る図",
-      "count": 12
-    },
-    {
-      "term": "はc",
+      "term": "範囲",
       "count": 11
     },
     {
-      "term": "actions",
+      "term": "状態",
       "count": 11
     },
     {
@@ -62,123 +58,79 @@
       "count": 11
     },
     {
-      "term": "生成",
+      "term": "可能",
       "count": 11
     },
     {
-      "term": "具体",
-      "count": 10
-    },
-    {
-      "term": "シー",
-      "count": 10
-    },
-    {
-      "term": "ビルドフ",
-      "count": 9
-    },
-    {
-      "term": "レッ",
-      "count": 9
-    },
-    {
       "term": "シークレ",
-      "count": 9
+      "count": 10
     },
     {
-      "term": "バリ",
-      "count": 9
-    },
-    {
-      "term": "本書",
-      "count": 9
-    },
-    {
-      "term": "ムが",
-      "count": 9
-    },
-    {
-      "term": "action",
-      "count": 9
-    },
-    {
-      "term": "トに",
-      "count": 8
-    },
-    {
-      "term": "定内",
-      "count": 8
-    },
-    {
-      "term": "ント",
-      "count": 8
-    },
-    {
-      "term": "るそ",
-      "count": 8
+      "term": "依存",
+      "count": 10
     },
     {
       "term": "性を",
+      "count": 10
+    },
+    {
+      "term": "ウェ",
+      "count": 9
+    },
+    {
+      "term": "全性",
+      "count": 9
+    },
+    {
+      "term": "に対",
+      "count": 9
+    },
+    {
+      "term": "リス",
       "count": 8
     },
     {
-      "term": "用し",
+      "term": "jobs",
       "count": 8
     },
     {
-      "term": "ャン",
-      "count": 8
-    },
-    {
-      "term": "示す",
+      "term": "利用",
       "count": 7
     },
     {
-      "term": "内の",
+      "term": "ビルド上",
       "count": 7
     },
     {
-      "term": "考えられ",
+      "term": "略す",
       "count": 7
     },
     {
-      "term": "らの",
-      "count": 7
-    },
-    {
-      "term": "いう",
-      "count": 7
-    },
-    {
-      "term": "rulesets",
-      "count": 7
-    },
-    {
-      "term": "file",
-      "count": 7
-    },
-    {
-      "term": "ド管",
+      "term": "めに",
       "count": 6
     },
     {
-      "term": "含む",
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "フェ",
+      "term": "ティ",
       "count": 6
     },
     {
-      "term": "デリ",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "るま",
+      "term": "アカ",
       "count": 6
     },
     {
-      "term": "が ",
+      "term": "codebuild",
+      "count": 6
+    },
+    {
+      "term": "ムに",
       "count": 6
     },
     {
@@ -186,20 +138,68 @@
       "count": 6
     },
     {
-      "term": "はプ",
+      "term": "の実",
       "count": 6
     },
     {
-      "term": "ここでは",
+      "term": "きる",
       "count": 6
     },
     {
-      "term": "の連",
+      "term": "はパ",
       "count": 6
     },
     {
-      "term": "られ",
-      "count": 6
+      "term": "実装",
+      "count": 5
+    },
+    {
+      "term": "産管",
+      "count": 5
+    },
+    {
+      "term": "ット情報",
+      "count": 5
+    },
+    {
+      "term": "セキ",
+      "count": 5
+    },
+    {
+      "term": "イン",
+      "count": 5
+    },
+    {
+      "term": "イン特有",
+      "count": 5
+    },
+    {
+      "term": "理す",
+      "count": 5
+    },
+    {
+      "term": "プ ",
+      "count": 5
+    },
+    {
+      "term": "はt",
+      "count": 5
+    },
+    {
+      "term": "これは",
+      "count": 5
+    },
+    {
+      "term": "イ ",
+      "count": 5
+    },
+    {
+      "term": "である",
+      "count": 5
+    },
+    {
+      "term": "るため",
+      "count": 5
     }
   ],
   "meetings": [
