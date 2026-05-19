@@ -2,39 +2,23 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 23
+      "term": "ため",
+      "count": 22
     },
     {
-      "term": "図 ",
+      "term": "てい",
       "count": 21
     },
     {
-      "term": "ジト",
-      "count": 20
-    },
-    {
-      "term": "設定",
+      "term": "aws",
       "count": 19
     },
     {
-      "term": "ージ",
-      "count": 18
+      "term": "デー",
+      "count": 17
     },
     {
-      "term": "よび",
-      "count": 15
-    },
-    {
-      "term": "cd",
-      "count": 15
-    },
-    {
-      "term": "ci",
-      "count": 15
-    },
-    {
-      "term": "必要",
+      "term": "フォ",
       "count": 15
     },
     {
@@ -42,43 +26,23 @@
       "count": 15
     },
     {
-      "term": "ツー",
-      "count": 14
+      "term": "メー",
+      "count": 15
     },
     {
-      "term": "シー",
-      "count": 13
+      "term": "必要",
+      "count": 15
     },
     {
-      "term": "プロ",
-      "count": 13
+      "term": "よう",
+      "count": 15
     },
     {
-      "term": "トの",
+      "term": "対策",
       "count": 12
     },
     {
-      "term": "ラン",
-      "count": 12
-    },
-    {
-      "term": "プラット",
-      "count": 11
-    },
-    {
-      "term": "イル",
-      "count": 11
-    },
-    {
-      "term": "安全性の",
-      "count": 11
-    },
-    {
-      "term": "状態",
-      "count": 11
-    },
-    {
-      "term": "えら",
+      "term": "中略",
       "count": 11
     },
     {
@@ -86,120 +50,156 @@
       "count": 10
     },
     {
+      "term": "メン",
+      "count": 10
+    },
+    {
       "term": "検証",
       "count": 10
     },
     {
-      "term": "セス",
+      "term": "要が",
       "count": 10
     },
     {
-      "term": "provenance",
-      "count": 10
-    },
-    {
-      "term": "code",
+      "term": "ーを",
       "count": 9
     },
     {
-      "term": "にも",
+      "term": "権限",
       "count": 9
+    },
+    {
+      "term": "トに",
+      "count": 8
+    },
+    {
+      "term": "確保",
+      "count": 8
+    },
+    {
+      "term": "トフ",
+      "count": 8
+    },
+    {
+      "term": "有の",
+      "count": 8
+    },
+    {
+      "term": "全性",
+      "count": 8
+    },
+    {
+      "term": "るそ",
+      "count": 8
+    },
+    {
+      "term": "用し",
+      "count": 8
+    },
+    {
+      "term": "組織",
+      "count": 7
+    },
+    {
+      "term": "漏洩",
+      "count": 7
+    },
+    {
+      "term": "キー",
+      "count": 7
+    },
+    {
+      "term": "のリ",
+      "count": 7
+    },
+    {
+      "term": "理を",
+      "count": 7
+    },
+    {
+      "term": "自動",
+      "count": 7
+    },
+    {
+      "term": "ると",
+      "count": 7
+    },
+    {
+      "term": "など",
+      "count": 7
+    },
+    {
+      "term": "仕組",
+      "count": 7
+    },
+    {
+      "term": "type",
+      "count": 7
+    },
+    {
+      "term": "定の",
+      "count": 7
+    },
+    {
+      "term": "理シ",
+      "count": 6
+    },
+    {
+      "term": "のc",
+      "count": 6
+    },
+    {
+      "term": "はa",
+      "count": 6
+    },
+    {
+      "term": "ルと",
+      "count": 6
+    },
+    {
+      "term": "を ",
+      "count": 6
+    },
+    {
+      "term": "定 ",
+      "count": 6
+    },
+    {
+      "term": "トウ",
+      "count": 6
+    },
+    {
+      "term": "バリ",
+      "count": 6
     },
     {
       "term": "れて",
-      "count": 9
-    },
-    {
-      "term": "アク",
-      "count": 9
-    },
-    {
-      "term": "ドフ",
-      "count": 8
-    },
-    {
-      "term": "性が",
-      "count": 8
-    },
-    {
-      "term": "ンの",
-      "count": 8
-    },
-    {
-      "term": "ャン",
-      "count": 8
-    },
-    {
-      "term": "が考",
-      "count": 8
-    },
-    {
-      "term": "バイナリ",
-      "count": 7
-    },
-    {
-      "term": "を確",
-      "count": 7
-    },
-    {
-      "term": "plan",
-      "count": 7
-    },
-    {
-      "term": "ては",
-      "count": 7
-    },
-    {
-      "term": "ド設",
-      "count": 7
-    },
-    {
-      "term": "管理",
       "count": 6
     },
     {
-      "term": "高い",
+      "term": "ウン",
       "count": 6
     },
     {
-      "term": "ンテナイ",
+      "term": "ここでは",
       "count": 6
     },
     {
-      "term": "して",
+      "term": "ズで",
       "count": 6
     },
     {
-      "term": "checkout",
+      "term": "の変",
       "count": 6
     },
     {
-      "term": "トは",
-      "count": 5
+      "term": "tf",
+      "count": 6
     },
     {
-      "term": "ェーズの",
-      "count": 5
-    },
-    {
-      "term": "体の",
-      "count": 5
-    },
-    {
-      "term": "り ",
-      "count": 5
-    },
-    {
-      "term": "有効",
-      "count": 5
-    },
-    {
-      "term": "まれ",
-      "count": 5
-    },
-    {
-      "term": "エラ",
-      "count": 5
+      "term": "true",
+      "count": 6
     }
   ],
   "meetings": [

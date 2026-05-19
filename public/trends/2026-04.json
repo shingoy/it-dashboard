@@ -2,19 +2,35 @@
   "month": "2026-04",
   "keywords": [
     {
-      "term": "ーシ",
+      "term": "総合",
       "count": 2
     },
     {
-      "term": "ほか",
+      "term": "を記",
       "count": 2
     },
     {
-      "term": "る場",
+      "term": "の推",
       "count": 2
     },
     {
-      "term": "人材",
+      "term": "針に関係",
+      "count": 2
+    },
+    {
+      "term": "基盤",
+      "count": 2
+    },
+    {
+      "term": "施策",
+      "count": 2
+    },
+    {
+      "term": "予算",
+      "count": 2
+    },
+    {
+      "term": "フォ",
       "count": 2
     },
     {
@@ -22,103 +38,35 @@
       "count": 2
     },
     {
-      "term": "困難",
-      "count": 2
-    },
-    {
-      "term": "額を抽出",
-      "count": 2
-    },
-    {
-      "term": "実施",
+      "term": "使う",
       "count": 1
     },
     {
-      "term": "発の推進",
+      "term": "デー",
       "count": 1
     },
     {
-      "term": "た研究開",
+      "term": "用し",
       "count": 1
     },
     {
-      "term": "職業",
+      "term": "明性",
       "count": 1
     },
     {
-      "term": "ーマンス",
+      "term": "高度",
       "count": 1
     },
     {
-      "term": "たプログ",
+      "term": "人戦",
       "count": 1
     },
     {
-      "term": "和8",
+      "term": "ーティン",
       "count": 1
     },
     {
-      "term": "建設",
-      "count": 1
-    },
-    {
-      "term": "金額",
-      "count": 1
-    },
-    {
-      "term": "セス",
-      "count": 1
-    },
-    {
-      "term": "イパ",
-      "count": 1
-    },
-    {
-      "term": "る技",
-      "count": 1
-    },
-    {
-      "term": "地震動評",
-      "count": 1
-    },
-    {
-      "term": "イバ",
-      "count": 1
-    },
-    {
-      "term": "シー",
-      "count": 1
-    },
-    {
-      "term": "究等の実",
-      "count": 1
-    },
-    {
-      "term": "離職者及",
-      "count": 1
-    },
-    {
-      "term": "保の",
-      "count": 1
-    },
-    {
-      "term": "術開",
-      "count": 1
-    },
-    {
-      "term": "びシステ",
-      "count": 1
-    },
-    {
-      "term": "の透",
-      "count": 1
-    },
-    {
-      "term": "経３",
-      "count": 1
-    },
-    {
-      "term": "を含",
+      "term": "産性",
       "count": 1
     },
     {
@@ -126,79 +74,131 @@
       "count": 1
     },
     {
-      "term": "携型",
+      "term": "ハロ",
       "count": 1
     },
     {
-      "term": "年度予算",
+      "term": "育成にお",
       "count": 1
     },
     {
-      "term": "に繋",
+      "term": "ナタ",
       "count": 1
     },
     {
-      "term": "支援",
+      "term": "ログ",
       "count": 1
     },
     {
-      "term": "ルａ",
+      "term": "の抜",
       "count": 1
     },
     {
-      "term": "モー",
+      "term": "信頼性確",
       "count": 1
     },
     {
-      "term": "度化",
+      "term": "基金",
       "count": 1
     },
     {
-      "term": "充実",
+      "term": "経３",
       "count": 1
     },
     {
-      "term": "金額の特",
+      "term": "駆動",
       "count": 1
     },
     {
-      "term": "開発等",
+      "term": "ム医",
       "count": 1
     },
     {
-      "term": "発や",
+      "term": "コンピュ",
       "count": 1
     },
     {
-      "term": "プロ",
+      "term": "法に",
       "count": 1
     },
     {
-      "term": "究等",
+      "term": "事者の負",
       "count": 1
     },
     {
-      "term": "ンの",
+      "term": "約１",
       "count": 1
     },
     {
-      "term": "創る",
+      "term": "を含",
       "count": 1
     },
     {
-      "term": "技術",
+      "term": "に推",
       "count": 1
     },
     {
-      "term": "他金",
+      "term": "調査",
       "count": 1
     },
     {
-      "term": "ィジ",
+      "term": "イパ",
       "count": 1
     },
     {
-      "term": "事者",
+      "term": "ュー",
+      "count": 1
+    },
+    {
+      "term": "など",
+      "count": 1
+    },
+    {
+      "term": "ため",
+      "count": 1
+    },
+    {
+      "term": "ナン",
+      "count": 1
+    },
+    {
+      "term": "の教",
+      "count": 1
+    },
+    {
+      "term": "びリ",
+      "count": 1
+    },
+    {
+      "term": "約８",
+      "count": 1
+    },
+    {
+      "term": "革新的ハ",
+      "count": 1
+    },
+    {
+      "term": "力確",
+      "count": 1
+    },
+    {
+      "term": "科学研究",
+      "count": 1
+    },
+    {
+      "term": "革新的な",
+      "count": 1
+    },
+    {
+      "term": "証厚",
+      "count": 1
+    },
+    {
+      "term": "変革",
+      "count": 1
+    },
+    {
+      "term": "た額",
       "count": 1
     }
   ],
