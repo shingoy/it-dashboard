@@ -3,74 +3,90 @@
   "keywords": [
     {
       "term": "ある",
-      "count": 22
+      "count": 23
     },
     {
-      "term": "いる",
+      "term": "図 ",
+      "count": 21
+    },
+    {
+      "term": "ジト",
       "count": 20
     },
     {
-      "term": "トフ",
+      "term": "設定",
+      "count": 19
+    },
+    {
+      "term": "ージ",
+      "count": 18
+    },
+    {
+      "term": "よび",
       "count": 15
     },
     {
-      "term": "cat",
+      "term": "cd",
       "count": 15
     },
     {
-      "term": "ける",
+      "term": "ci",
+      "count": 15
+    },
+    {
+      "term": "必要",
+      "count": 15
+    },
+    {
+      "term": "ナイ",
+      "count": 15
+    },
+    {
+      "term": "ツー",
       "count": 14
     },
     {
-      "term": "いて",
-      "count": 14
-    },
-    {
-      "term": "信頼",
-      "count": 14
-    },
-    {
-      "term": "スチ",
-      "count": 14
-    },
-    {
-      "term": "よう",
-      "count": 14
-    },
-    {
-      "term": "の成",
+      "term": "シー",
       "count": 13
     },
     {
-      "term": "れた",
+      "term": "プロ",
       "count": 13
     },
     {
-      "term": "ルを",
+      "term": "トの",
       "count": 12
     },
     {
-      "term": "があ",
+      "term": "ラン",
       "count": 12
     },
     {
-      "term": "につ",
+      "term": "プラット",
       "count": 11
     },
     {
-      "term": "ズの",
+      "term": "イル",
       "count": 11
     },
     {
-      "term": "クを",
+      "term": "安全性の",
       "count": 11
     },
     {
-      "term": "の実",
+      "term": "状態",
+      "count": 11
+    },
+    {
+      "term": "えら",
+      "count": 11
+    },
+    {
+      "term": "を含",
       "count": 10
     },
     {
-      "term": "る具",
+      "term": "検証",
       "count": 10
     },
     {
@@ -78,75 +94,59 @@
       "count": 10
     },
     {
-      "term": "理を",
+      "term": "provenance",
+      "count": 10
+    },
+    {
+      "term": "code",
       "count": 9
     },
     {
-      "term": "ンa",
+      "term": "にも",
       "count": 9
     },
     {
-      "term": "対象",
+      "term": "れて",
       "count": 9
     },
     {
-      "term": "push",
+      "term": "アク",
       "count": 9
     },
     {
-      "term": "レッ",
+      "term": "ドフ",
       "count": 8
     },
     {
-      "term": "バイ",
+      "term": "性が",
       "count": 8
     },
     {
-      "term": "docker",
+      "term": "ンの",
       "count": 8
     },
     {
-      "term": "メタデー",
+      "term": "ャン",
       "count": 8
     },
     {
-      "term": "メタ",
+      "term": "が考",
       "count": 8
     },
     {
-      "term": "能で",
-      "count": 8
-    },
-    {
-      "term": "るが",
-      "count": 8
-    },
-    {
-      "term": "のよ",
-      "count": 8
-    },
-    {
-      "term": "定内",
+      "term": "バイナリ",
       "count": 7
     },
     {
-      "term": "リバ",
+      "term": "を確",
       "count": 7
     },
     {
-      "term": "ツー",
+      "term": "plan",
       "count": 7
     },
     {
-      "term": "がある",
-      "count": 7
-    },
-    {
-      "term": "ンバ",
-      "count": 7
-    },
-    {
-      "term": "ルで",
+      "term": "ては",
       "count": 7
     },
     {
@@ -154,7 +154,7 @@
       "count": 7
     },
     {
-      "term": "ス ",
+      "term": "管理",
       "count": 6
     },
     {
@@ -162,43 +162,43 @@
       "count": 6
     },
     {
-      "term": "れて",
-      "count": 6
-    },
-    {
       "term": "ンテナイ",
       "count": 6
     },
     {
-      "term": "ムは",
+      "term": "して",
       "count": 6
     },
     {
-      "term": "とも",
+      "term": "checkout",
       "count": 6
     },
     {
-      "term": "ref",
-      "count": 6
-    },
-    {
-      "term": "steps",
-      "count": 6
-    },
-    {
-      "term": "要と",
-      "count": 6
-    },
-    {
-      "term": "13",
+      "term": "トは",
       "count": 5
     },
     {
-      "term": "組織",
+      "term": "ェーズの",
       "count": 5
     },
     {
-      "term": "ロー",
+      "term": "体の",
+      "count": 5
+    },
+    {
+      "term": "り ",
+      "count": 5
+    },
+    {
+      "term": "有効",
+      "count": 5
+    },
+    {
+      "term": "まれ",
+      "count": 5
+    },
+    {
+      "term": "エラ",
       "count": 5
     }
   ],
