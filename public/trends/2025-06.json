@@ -2,23 +2,19 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ため",
-      "count": 22
+      "term": "ある",
+      "count": 25
     },
     {
-      "term": "てい",
-      "count": 21
+      "term": "ット",
+      "count": 20
     },
     {
-      "term": "aws",
-      "count": 19
-    },
-    {
-      "term": "デー",
+      "term": "され",
       "count": 17
     },
     {
-      "term": "フォ",
+      "term": "ーズ",
       "count": 15
     },
     {
@@ -26,167 +22,143 @@
       "count": 15
     },
     {
-      "term": "メー",
-      "count": 15
+      "term": "ース",
+      "count": 14
     },
     {
-      "term": "必要",
-      "count": 15
+      "term": "構成",
+      "count": 14
     },
     {
-      "term": "よう",
-      "count": 15
+      "term": "trivy",
+      "count": 13
     },
     {
-      "term": "対策",
+      "term": "イメ",
       "count": 12
     },
     {
-      "term": "中略",
+      "term": "上で",
       "count": 11
     },
     {
-      "term": "を含",
+      "term": "範囲",
+      "count": 11
+    },
+    {
+      "term": "があ",
+      "count": 11
+    },
+    {
+      "term": "の ",
       "count": 10
     },
     {
-      "term": "メン",
+      "term": "提供",
       "count": 10
     },
     {
-      "term": "検証",
+      "term": "る具",
       "count": 10
-    },
-    {
-      "term": "要が",
-      "count": 10
-    },
-    {
-      "term": "ーを",
-      "count": 9
-    },
-    {
-      "term": "権限",
-      "count": 9
-    },
-    {
-      "term": "トに",
-      "count": 8
     },
     {
       "term": "確保",
+      "count": 9
+    },
+    {
+      "term": "ォー",
+      "count": 9
+    },
+    {
+      "term": "ンの",
+      "count": 9
+    },
+    {
+      "term": "た ",
+      "count": 9
+    },
+    {
+      "term": "フト",
+      "count": 9
+    },
+    {
+      "term": "それ",
+      "count": 9
+    },
+    {
+      "term": "では",
+      "count": 9
+    },
+    {
+      "term": "物の",
+      "count": 9
+    },
+    {
+      "term": "テム",
       "count": 8
     },
     {
-      "term": "トフ",
+      "term": "策 ",
       "count": 8
     },
     {
-      "term": "有の",
+      "term": "その",
       "count": 8
     },
     {
-      "term": "全性",
+      "term": "範囲の制",
       "count": 8
     },
     {
-      "term": "るそ",
+      "term": "の構",
       "count": 8
     },
     {
-      "term": "用し",
+      "term": "らの",
       "count": 8
     },
     {
-      "term": "組織",
+      "term": "作成",
+      "count": 8
+    },
+    {
+      "term": "いう",
+      "count": 8
+    },
+    {
+      "term": "ローカル",
       "count": 7
     },
     {
-      "term": "漏洩",
+      "term": "ロー",
       "count": 7
     },
     {
-      "term": "キー",
+      "term": "バイナリ",
       "count": 7
     },
     {
-      "term": "のリ",
+      "term": "考えられ",
       "count": 7
     },
     {
-      "term": "理を",
-      "count": 7
-    },
-    {
-      "term": "自動",
-      "count": 7
-    },
-    {
-      "term": "ると",
-      "count": 7
-    },
-    {
-      "term": "など",
-      "count": 7
-    },
-    {
-      "term": "仕組",
-      "count": 7
-    },
-    {
-      "term": "type",
-      "count": 7
-    },
-    {
-      "term": "定の",
-      "count": 7
-    },
-    {
-      "term": "理シ",
+      "term": "脆弱性管",
       "count": 6
     },
     {
-      "term": "のc",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "はa",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "ルと",
+      "term": "要がある",
       "count": 6
     },
     {
-      "term": "を ",
-      "count": 6
-    },
-    {
-      "term": "定 ",
-      "count": 6
-    },
-    {
-      "term": "トウ",
-      "count": 6
-    },
-    {
-      "term": "バリ",
-      "count": 6
-    },
-    {
-      "term": "れて",
-      "count": 6
-    },
-    {
-      "term": "ウン",
-      "count": 6
-    },
-    {
-      "term": "ここでは",
-      "count": 6
-    },
-    {
-      "term": "ズで",
+      "term": "うこ",
       "count": 6
     },
     {
@@ -194,12 +166,40 @@
       "count": 6
     },
     {
-      "term": "tf",
+      "term": "略す",
       "count": 6
     },
     {
-      "term": "true",
+      "term": "rule",
       "count": 6
+    },
+    {
+      "term": "なる",
+      "count": 6
+    },
+    {
+      "term": "slsa",
+      "count": 6
+    },
+    {
+      "term": "機能",
+      "count": 5
+    },
+    {
+      "term": "を想",
+      "count": 5
+    },
+    {
+      "term": "で ",
+      "count": 5
+    },
+    {
+      "term": "理下",
+      "count": 5
+    },
+    {
+      "term": "上の",
+      "count": 5
     }
   ],
   "meetings": [

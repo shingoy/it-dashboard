@@ -2,27 +2,7 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "デー",
-      "count": 2
-    },
-    {
-      "term": "データ",
-      "count": 2
-    },
-    {
-      "term": "の推",
-      "count": 2
-    },
-    {
-      "term": "ーティン",
-      "count": 2
-    },
-    {
-      "term": "基盤",
-      "count": 2
-    },
-    {
-      "term": "フォ",
+      "term": "の構",
       "count": 2
     },
     {
@@ -30,19 +10,47 @@
       "count": 2
     },
     {
-      "term": "資す",
+      "term": "によるデ",
       "count": 2
     },
     {
-      "term": "コンピュ",
+      "term": "の構築",
       "count": 2
     },
     {
-      "term": "創出",
+      "term": "推進",
+      "count": 2
+    },
+    {
+      "term": "タル",
+      "count": 2
+    },
+    {
+      "term": "の強靱化",
+      "count": 2
+    },
+    {
+      "term": "の地",
+      "count": 2
+    },
+    {
+      "term": "校現",
       "count": 1
     },
     {
-      "term": "使う",
+      "term": "ンの",
+      "count": 1
+    },
+    {
+      "term": "外日",
+      "count": 1
+    },
+    {
+      "term": "的と",
+      "count": 1
+    },
+    {
+      "term": "ス間",
       "count": 1
     },
     {
@@ -50,43 +58,95 @@
       "count": 1
     },
     {
-      "term": "造船ロボ",
+      "term": "機関の生",
       "count": 1
     },
     {
-      "term": "応え",
+      "term": "えａ",
       "count": 1
     },
     {
-      "term": "総合",
+      "term": "厚介",
       "count": 1
     },
     {
-      "term": "を記",
+      "term": "の向",
       "count": 1
     },
     {
-      "term": "用し",
+      "term": "テム",
       "count": 1
     },
     {
-      "term": "分析",
+      "term": "本計",
       "count": 1
     },
     {
-      "term": "自動",
+      "term": "犯罪",
       "count": 1
     },
     {
-      "term": "ド構",
+      "term": "み増し分",
       "count": 1
     },
     {
-      "term": "産性",
+      "term": "金の",
       "count": 1
     },
     {
-      "term": "文a",
+      "term": "のａ",
+      "count": 1
+    },
+    {
+      "term": "も関",
+      "count": 1
+    },
+    {
+      "term": "た ",
+      "count": 1
+    },
+    {
+      "term": "事業費の",
+      "count": 1
+    },
+    {
+      "term": "社会に向",
+      "count": 1
+    },
+    {
+      "term": "算総",
+      "count": 1
+    },
+    {
+      "term": "380",
+      "count": 1
+    },
+    {
+      "term": "事業",
+      "count": 1
+    },
+    {
+      "term": "関係",
+      "count": 1
+    },
+    {
+      "term": "導入支援",
+      "count": 1
+    },
+    {
+      "term": "性評",
+      "count": 1
+    },
+    {
+      "term": "算 ",
+      "count": 1
+    },
+    {
+      "term": "動型",
+      "count": 1
+    },
+    {
+      "term": "例 ",
       "count": 1
     },
     {
@@ -94,111 +154,51 @@
       "count": 1
     },
     {
+      "term": "総地",
+      "count": 1
+    },
+    {
+      "term": "ット",
+      "count": 1
+    },
+    {
+      "term": "場の生産",
+      "count": 1
+    },
+    {
+      "term": "開発力の",
+      "count": 1
+    },
+    {
+      "term": "促進及び",
+      "count": 1
+    },
+    {
+      "term": "ーマンス",
+      "count": 1
+    },
+    {
       "term": "370",
       "count": 1
     },
     {
-      "term": "小項目ご",
+      "term": "ーズ",
       "count": 1
     },
     {
-      "term": "評価手法",
+      "term": "との",
       "count": 1
     },
     {
-      "term": "戦略",
+      "term": "究 ",
       "count": 1
     },
     {
-      "term": "の推進",
+      "term": "評価",
       "count": 1
     },
     {
-      "term": "ズに",
-      "count": 1
-    },
-    {
-      "term": "予算",
-      "count": 1
-    },
-    {
-      "term": "ログ",
-      "count": 1
-    },
-    {
-      "term": "基金",
-      "count": 1
-    },
-    {
-      "term": "力向",
-      "count": 1
-    },
-    {
-      "term": "メー",
-      "count": 1
-    },
-    {
-      "term": "装に",
-      "count": 1
-    },
-    {
-      "term": "に推",
-      "count": 1
-    },
-    {
-      "term": "活用実証",
-      "count": 1
-    },
-    {
-      "term": "メン",
-      "count": 1
-    },
-    {
-      "term": "調査",
-      "count": 1
-    },
-    {
-      "term": "イパ",
-      "count": 1
-    },
-    {
-      "term": "対策",
-      "count": 1
-    },
-    {
-      "term": "ュー",
-      "count": 1
-    },
-    {
-      "term": "オー",
-      "count": 1
-    },
-    {
-      "term": "ち複数の",
-      "count": 1
-    },
-    {
-      "term": "ナン",
-      "count": 1
-    },
-    {
-      "term": "造業",
-      "count": 1
-    },
-    {
-      "term": "びリ",
-      "count": 1
-    },
-    {
-      "term": "の構築等",
-      "count": 1
-    },
-    {
-      "term": "革新的ハ",
-      "count": 1
-    },
-    {
-      "term": "上を",
+      "term": "グローバ",
       "count": 1
     }
   ],
