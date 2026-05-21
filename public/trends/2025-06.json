@@ -2,203 +2,203 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "る ",
-      "count": 28
-    },
-    {
-      "term": "利用",
-      "count": 21
-    },
-    {
-      "term": "イプ",
-      "count": 15
-    },
-    {
       "term": "ライ",
+      "count": 23
+    },
+    {
+      "term": "こと",
+      "count": 23
+    },
+    {
+      "term": "構成",
+      "count": 20
+    },
+    {
+      "term": "フェ",
       "count": 15
     },
     {
-      "term": "るた",
+      "term": "から",
       "count": 15
     },
     {
-      "term": "イメ",
+      "term": "への",
       "count": 15
     },
     {
-      "term": "があ",
+      "term": "内容",
       "count": 14
     },
     {
-      "term": "ソースコ",
+      "term": "での",
+      "count": 14
+    },
+    {
+      "term": "中略",
+      "count": 14
+    },
+    {
+      "term": "workflows",
+      "count": 14
+    },
+    {
+      "term": "頼性",
       "count": 13
     },
     {
-      "term": "ジト",
+      "term": "場合",
       "count": 13
     },
     {
-      "term": "実行",
-      "count": 13
-    },
-    {
-      "term": "確認",
-      "count": 13
-    },
-    {
-      "term": "id",
-      "count": 13
-    },
-    {
-      "term": "tf",
-      "count": 13
-    },
-    {
-      "term": "変更",
+      "term": "メー",
       "count": 12
     },
     {
-      "term": "的に",
+      "term": "のた",
       "count": 12
     },
     {
-      "term": "を取",
-      "count": 12
-    },
-    {
-      "term": "steps",
-      "count": 12
-    },
-    {
-      "term": "ティ",
+      "term": "はc",
       "count": 11
     },
     {
-      "term": "取得",
+      "term": "の実",
       "count": 11
     },
     {
-      "term": "えら",
+      "term": "安全",
       "count": 11
-    },
-    {
-      "term": "る必",
-      "count": 11
-    },
-    {
-      "term": "加え",
-      "count": 11
-    },
-    {
-      "term": "ー ",
-      "count": 10
-    },
-    {
-      "term": "sbom",
-      "count": 10
-    },
-    {
-      "term": "る具",
-      "count": 10
-    },
-    {
-      "term": "クを",
-      "count": 10
-    },
-    {
-      "term": "が ",
-      "count": 9
-    },
-    {
-      "term": "ムが",
-      "count": 9
-    },
-    {
-      "term": "の対",
-      "count": 9
-    },
-    {
-      "term": "シークレ",
-      "count": 8
-    },
-    {
-      "term": "用い",
-      "count": 8
-    },
-    {
-      "term": "いた",
-      "count": 8
-    },
-    {
-      "term": "署名",
-      "count": 8
-    },
-    {
-      "term": "ェーズの",
-      "count": 7
     },
     {
       "term": "ック",
+      "count": 10
+    },
+    {
+      "term": "メン",
+      "count": 10
+    },
+    {
+      "term": "安全性の",
+      "count": 10
+    },
+    {
+      "term": "ここ",
+      "count": 10
+    },
+    {
+      "term": "脆弱性管",
+      "count": 9
+    },
+    {
+      "term": "の制",
+      "count": 9
+    },
+    {
+      "term": "上で",
+      "count": 9
+    },
+    {
+      "term": "指定",
+      "count": 9
+    },
+    {
+      "term": "build",
+      "count": 9
+    },
+    {
+      "term": "定内",
+      "count": 8
+    },
+    {
+      "term": "及び",
+      "count": 8
+    },
+    {
+      "term": "特有",
+      "count": 8
+    },
+    {
+      "term": "ウェ",
+      "count": 8
+    },
+    {
+      "term": "git",
+      "count": 8
+    },
+    {
+      "term": "漏洩",
       "count": 7
     },
     {
-      "term": "る主",
+      "term": "運用",
       "count": 7
     },
     {
-      "term": "すべ",
+      "term": "トに",
       "count": 7
     },
     {
-      "term": "クセ",
+      "term": "のリ",
       "count": 7
     },
     {
-      "term": "ド設",
+      "term": "によ",
       "count": 7
     },
     {
-      "term": "type",
+      "term": "るま",
       "count": 7
     },
     {
-      "term": "メタ",
+      "term": "バイナリ",
       "count": 7
     },
     {
-      "term": "ージ",
+      "term": "アッ",
+      "count": 7
+    },
+    {
+      "term": "がある",
+      "count": 7
+    },
+    {
+      "term": "ンバ",
+      "count": 7
+    },
+    {
+      "term": "ーに",
+      "count": 7
+    },
+    {
+      "term": "ーと",
+      "count": 7
+    },
+    {
+      "term": "id",
+      "count": 7
+    },
+    {
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "等の",
+      "term": "スク",
       "count": 6
     },
     {
-      "term": "にて",
+      "term": "ル ",
       "count": 6
     },
     {
-      "term": "amazon",
+      "term": "を用",
       "count": 6
     },
     {
-      "term": "のレ",
+      "term": "な対",
       "count": 6
     },
     {
-      "term": "rule",
-      "count": 6
-    },
-    {
-      "term": "よう",
-      "count": 6
-    },
-    {
-      "term": "であ",
-      "count": 6
-    },
-    {
-      "term": "仕組",
+      "term": "とも",
       "count": 6
     }
   ],
