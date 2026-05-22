@@ -2,155 +2,187 @@
   "month": "2025-06",
   "keywords": [
     {
+      "term": "ある",
+      "count": 25
+    },
+    {
+      "term": "果物",
+      "count": 20
+    },
+    {
       "term": "ビル",
       "count": 19
     },
     {
-      "term": "ラッ",
+      "term": "設定",
+      "count": 19
+    },
+    {
+      "term": "ため",
+      "count": 18
+    },
+    {
+      "term": "ース",
+      "count": 17
+    },
+    {
+      "term": "ォー",
+      "count": 16
+    },
+    {
+      "term": "への",
       "count": 15
     },
     {
-      "term": "ーズ",
-      "count": 15
-    },
-    {
-      "term": "メー",
-      "count": 15
-    },
-    {
-      "term": "cat",
-      "count": 15
-    },
-    {
-      "term": "性の",
+      "term": "トフ",
       "count": 14
     },
     {
-      "term": "弱性",
+      "term": "ビス",
       "count": 14
     },
     {
-      "term": "略 ",
+      "term": "よる",
       "count": 13
     },
     {
-      "term": "ェー",
+      "term": "シー",
+      "count": 13
+    },
+    {
+      "term": "確認",
+      "count": 13
+    },
+    {
+      "term": "スチ",
+      "count": 13
+    },
+    {
+      "term": "情報",
       "count": 12
     },
     {
-      "term": "ない",
-      "count": 12
+      "term": "のc",
+      "count": 11
+    },
+    {
+      "term": "ラン",
+      "count": 11
     },
     {
       "term": "変更",
       "count": 11
     },
     {
-      "term": "ブラ",
-      "count": 10
+      "term": "ーズ",
+      "count": 11
+    },
+    {
+      "term": "制限",
+      "count": 11
+    },
+    {
+      "term": "クを",
+      "count": 11
+    },
+    {
+      "term": "の設",
+      "count": 11
     },
     {
       "term": "メン",
       "count": 10
     },
     {
-      "term": "提供",
+      "term": "保 ",
       "count": 10
     },
     {
-      "term": "の実",
-      "count": 10
-    },
-    {
-      "term": "定す",
-      "count": 10
-    },
-    {
-      "term": "また",
-      "count": 10
-    },
-    {
-      "term": "脆弱性管",
+      "term": "アク",
       "count": 9
     },
     {
-      "term": "code",
+      "term": "yml",
       "count": 9
     },
     {
-      "term": "依存物の",
+      "term": "outputs",
       "count": 9
     },
     {
-      "term": "生成",
+      "term": "jobs",
       "count": 9
     },
     {
-      "term": "この",
-      "count": 9
-    },
-    {
-      "term": "シス",
+      "term": "及び",
       "count": 8
     },
     {
-      "term": "ビルド上",
+      "term": "フェーズ",
       "count": 8
     },
     {
-      "term": "を用",
+      "term": "なお",
       "count": 8
     },
     {
-      "term": "デー",
+      "term": "下の",
       "count": 8
     },
     {
-      "term": "作成",
+      "term": "の構",
       "count": 8
     },
     {
-      "term": "組み",
+      "term": "のよ",
       "count": 8
     },
     {
-      "term": "資産",
+      "term": "る主",
       "count": 7
     },
     {
-      "term": "性管",
+      "term": "成果物の",
       "count": 7
     },
     {
-      "term": "情報",
+      "term": "ると",
       "count": 7
     },
     {
-      "term": "内の",
+      "term": "もの",
       "count": 7
     },
     {
-      "term": "タデ",
+      "term": "コンテナ",
       "count": 7
     },
     {
-      "term": "事項",
+      "term": "用す",
       "count": 7
     },
     {
-      "term": "はg",
+      "term": "および",
       "count": 7
     },
     {
-      "term": "ルに",
+      "term": "的に",
       "count": 7
     },
     {
-      "term": "ェーズの",
-      "count": 6
+      "term": "次に",
+      "count": 7
     },
     {
-      "term": "の保",
+      "term": "rulesets",
+      "count": 7
+    },
+    {
+      "term": "ーと",
+      "count": 7
+    },
+    {
+      "term": "運用",
       "count": 6
     },
     {
@@ -158,48 +190,16 @@
       "count": 6
     },
     {
-      "term": "イダ",
+      "term": "を ",
       "count": 6
     },
     {
-      "term": "得し",
+      "term": "では",
       "count": 6
     },
     {
-      "term": "供す",
+      "term": "rule",
       "count": 6
-    },
-    {
-      "term": "ジと",
-      "count": 6
-    },
-    {
-      "term": "考え",
-      "count": 6
-    },
-    {
-      "term": "レビ",
-      "count": 6
-    },
-    {
-      "term": "image",
-      "count": 6
-    },
-    {
-      "term": "トは",
-      "count": 5
-    },
-    {
-      "term": "用者",
-      "count": 5
-    },
-    {
-      "term": "む運",
-      "count": 5
-    },
-    {
-      "term": "イン特有",
-      "count": 5
     }
   ],
   "meetings": [
