@@ -845,5 +845,16 @@
     "date": "2026-04-10",
     "collected_at": "2026-04-10T10:11:02.955509",
     "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/a1fe094b09de591b091f6697693357f6.pdf"
+  },
+  "95082b225d2ff308ce1956b617a4374f": {
+    "id": "95082b225d2ff308ce1956b617a4374f",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "「政府機関等の対策基準策定のためのガイドライン（令和5年度版）（PDF）」",
+    "url": "https://www.cyber.go.jp/pdf/policy/general/guider5.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2026-05-22T11:48:11.352549",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/95082b225d2ff308ce1956b617a4374f.pdf"
   }
 }
