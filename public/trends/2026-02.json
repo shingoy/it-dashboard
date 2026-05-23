@@ -2,15 +2,51 @@
   "month": "2026-02",
   "keywords": [
     {
-      "term": "事業費の",
+      "term": "係す",
       "count": 2
     },
     {
-      "term": "者及",
+      "term": "厚な",
       "count": 2
     },
     {
-      "term": "に関",
+      "term": "訓練",
+      "count": 2
+    },
+    {
+      "term": "に含まず",
+      "count": 2
+    },
+    {
+      "term": "職業",
+      "count": 2
+    },
+    {
+      "term": "利活用の",
+      "count": 2
+    },
+    {
+      "term": "合は",
+      "count": 2
+    },
+    {
+      "term": "一部等",
+      "count": 2
+    },
+    {
+      "term": "な施",
+      "count": 2
+    },
+    {
+      "term": "含む",
+      "count": 2
+    },
+    {
+      "term": "離職",
+      "count": 2
+    },
+    {
+      "term": "援助",
       "count": 2
     },
     {
@@ -18,111 +54,27 @@
       "count": 2
     },
     {
-      "term": "企業",
+      "term": "成に",
       "count": 2
     },
     {
-      "term": "の方",
-      "count": 2
-    },
-    {
-      "term": "ング",
-      "count": 2
-    },
-    {
-      "term": "の職",
-      "count": 2
-    },
-    {
-      "term": "も関",
-      "count": 2
-    },
-    {
-      "term": "出困",
-      "count": 2
-    },
-    {
-      "term": "用の",
-      "count": 2
-    },
-    {
-      "term": "者向",
-      "count": 2
-    },
-    {
-      "term": "か ",
-      "count": 2
-    },
-    {
-      "term": "基本計画",
-      "count": 2
-    },
-    {
-      "term": "のための",
-      "count": 2
-    },
-    {
-      "term": "費の",
-      "count": 2
-    },
-    {
-      "term": "向け",
-      "count": 2
-    },
-    {
-      "term": "練企",
-      "count": 2
-    },
-    {
-      "term": "の推",
-      "count": 2
-    },
-    {
-      "term": "発の",
+      "term": "探索",
       "count": 1
     },
     {
-      "term": "テナ",
+      "term": "た建",
       "count": 1
     },
     {
-      "term": "た研究開",
+      "term": "円ス",
       "count": 1
     },
     {
-      "term": "省エ",
+      "term": "現場",
       "count": 1
     },
     {
-      "term": "ート",
-      "count": 1
-    },
-    {
-      "term": "等に",
-      "count": 1
-    },
-    {
-      "term": "げる",
-      "count": 1
-    },
-    {
-      "term": "内約",
-      "count": 1
-    },
-    {
-      "term": "に繋げる",
-      "count": 1
-    },
-    {
-      "term": "等厚",
-      "count": 1
-    },
-    {
-      "term": "ワー",
-      "count": 1
-    },
-    {
-      "term": "ム医",
+      "term": "次世",
       "count": 1
     },
     {
@@ -130,75 +82,123 @@
       "count": 1
     },
     {
-      "term": "約３",
+      "term": "入等",
       "count": 1
     },
     {
-      "term": "使う",
+      "term": "タ活",
       "count": 1
     },
     {
-      "term": "震動",
+      "term": "度運",
       "count": 1
     },
     {
-      "term": "シーズ探",
+      "term": "の製",
       "count": 1
     },
     {
-      "term": "ロード",
+      "term": "たマ",
       "count": 1
     },
     {
-      "term": "業推",
+      "term": "通信",
       "count": 1
     },
     {
-      "term": "動評",
+      "term": "ナタ",
       "count": 1
     },
     {
-      "term": "の透",
+      "term": "ロセ",
       "count": 1
     },
     {
-      "term": "用文",
+      "term": "ーテ",
       "count": 1
     },
     {
-      "term": "震活",
+      "term": "業財",
       "count": 1
     },
     {
-      "term": "開発等",
+      "term": "権制",
       "count": 1
     },
     {
-      "term": "革新的な",
+      "term": "と協",
       "count": 1
     },
     {
-      "term": "発や",
+      "term": "性向",
       "count": 1
     },
     {
-      "term": "会に",
+      "term": "制度",
       "count": 1
     },
     {
-      "term": "力の",
+      "term": "等に",
       "count": 1
     },
     {
-      "term": "く調",
+      "term": "ンセ",
       "count": 1
     },
     {
-      "term": "算案",
+      "term": "11",
       "count": 1
     },
     {
-      "term": "的ハ",
+      "term": "て案",
+      "count": 1
+    },
+    {
+      "term": "発共",
+      "count": 1
+    },
+    {
+      "term": "ード",
+      "count": 1
+    },
+    {
+      "term": "ータ",
+      "count": 1
+    },
+    {
+      "term": "予測",
+      "count": 1
+    },
+    {
+      "term": "セラミッ",
+      "count": 1
+    },
+    {
+      "term": "事者",
+      "count": 1
+    },
+    {
+      "term": "創薬",
+      "count": 1
+    },
+    {
+      "term": "と協働す",
+      "count": 1
+    },
+    {
+      "term": "対処",
+      "count": 1
+    },
+    {
+      "term": "フロ",
+      "count": 1
+    },
+    {
+      "term": "ターミナ",
+      "count": 1
+    },
+    {
+      "term": "抜本",
       "count": 1
     }
   ],
