@@ -2,123 +2,179 @@
   "month": "2026-02",
   "keywords": [
     {
+      "term": "事業費の",
+      "count": 2
+    },
+    {
+      "term": "者及",
+      "count": 2
+    },
+    {
+      "term": "に関",
+      "count": 2
+    },
+    {
+      "term": "企業向け",
+      "count": 2
+    },
+    {
+      "term": "企業",
+      "count": 2
+    },
+    {
+      "term": "の方",
+      "count": 2
+    },
+    {
+      "term": "ング",
+      "count": 2
+    },
+    {
       "term": "の職",
       "count": 2
     },
     {
-      "term": "算総",
+      "term": "も関",
       "count": 2
     },
     {
-      "term": "はで",
+      "term": "出困",
       "count": 2
     },
     {
-      "term": "の教",
+      "term": "用の",
       "count": 2
     },
     {
-      "term": "ォー",
+      "term": "者向",
       "count": 2
     },
     {
-      "term": "る主",
+      "term": "か ",
       "count": 2
     },
     {
-      "term": "タル",
+      "term": "基本計画",
       "count": 2
     },
     {
-      "term": "及び",
+      "term": "のための",
       "count": 2
     },
     {
-      "term": "の構",
+      "term": "費の",
       "count": 2
     },
     {
-      "term": "た額を記",
+      "term": "向け",
       "count": 2
     },
     {
-      "term": "約７",
+      "term": "練企",
       "count": 2
     },
     {
-      "term": "トフ",
+      "term": "の推",
       "count": 2
     },
     {
-      "term": "五入",
-      "count": 2
-    },
-    {
-      "term": "を記",
-      "count": 2
-    },
-    {
-      "term": "の事業の",
-      "count": 2
-    },
-    {
-      "term": "証厚",
+      "term": "発の",
       "count": 1
     },
     {
-      "term": "進文",
+      "term": "テナ",
       "count": 1
     },
     {
-      "term": "モーダル",
+      "term": "た研究開",
       "count": 1
     },
     {
-      "term": "通信",
+      "term": "省エ",
       "count": 1
     },
     {
-      "term": "ボッ",
+      "term": "ート",
       "count": 1
     },
     {
-      "term": "インフラ",
+      "term": "等に",
       "count": 1
     },
     {
-      "term": "シー",
+      "term": "げる",
       "count": 1
     },
     {
-      "term": "タ活",
+      "term": "内約",
       "count": 1
     },
     {
-      "term": "けた",
+      "term": "に繋げる",
       "count": 1
     },
     {
-      "term": "が産",
+      "term": "等厚",
       "count": 1
     },
     {
-      "term": "ターミナ",
+      "term": "ワー",
       "count": 1
     },
     {
-      "term": "ハイ",
+      "term": "ム医",
       "count": 1
     },
     {
-      "term": "beyond",
+      "term": "明性",
       "count": 1
     },
     {
-      "term": "情報",
+      "term": "約３",
       "count": 1
     },
     {
-      "term": "農業推進",
+      "term": "使う",
+      "count": 1
+    },
+    {
+      "term": "震動",
+      "count": 1
+    },
+    {
+      "term": "シーズ探",
+      "count": 1
+    },
+    {
+      "term": "ロード",
+      "count": 1
+    },
+    {
+      "term": "業推",
+      "count": 1
+    },
+    {
+      "term": "動評",
+      "count": 1
+    },
+    {
+      "term": "の透",
+      "count": 1
+    },
+    {
+      "term": "用文",
+      "count": 1
+    },
+    {
+      "term": "震活",
+      "count": 1
+    },
+    {
+      "term": "開発等",
+      "count": 1
+    },
+    {
+      "term": "革新的な",
       "count": 1
     },
     {
@@ -126,79 +182,23 @@
       "count": 1
     },
     {
-      "term": "保 ",
+      "term": "会に",
       "count": 1
     },
     {
-      "term": "の充",
+      "term": "力の",
       "count": 1
     },
     {
-      "term": "成確",
+      "term": "く調",
       "count": 1
     },
     {
-      "term": "る技",
+      "term": "算案",
       "count": 1
     },
     {
-      "term": "機器開発",
-      "count": 1
-    },
-    {
-      "term": "介護",
-      "count": 1
-    },
-    {
-      "term": "グラ",
-      "count": 1
-    },
-    {
-      "term": "戦略的強",
-      "count": 1
-    },
-    {
-      "term": "ビス",
-      "count": 1
-    },
-    {
-      "term": "革新",
-      "count": 1
-    },
-    {
-      "term": "ラム医療",
-      "count": 1
-    },
-    {
-      "term": "コンテナ",
-      "count": 1
-    },
-    {
-      "term": "なａ",
-      "count": 1
-    },
-    {
-      "term": "性信",
-      "count": 1
-    },
-    {
-      "term": "と協",
-      "count": 1
-    },
-    {
-      "term": "の主",
-      "count": 1
-    },
-    {
-      "term": "た地震活",
-      "count": 1
-    },
-    {
-      "term": "を見据え",
-      "count": 1
-    },
-    {
-      "term": "発等の推",
+      "term": "的ハ",
       "count": 1
     }
   ],

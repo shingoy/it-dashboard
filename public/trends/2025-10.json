@@ -2,204 +2,204 @@
   "month": "2025-10",
   "keywords": [
     {
-      "term": "及び",
-      "count": 855
+      "term": "に関",
+      "count": 790
     },
     {
-      "term": "条第",
-      "count": 819
+      "term": "等に",
+      "count": 637
+    },
+    {
+      "term": "要 ",
+      "count": 622
     },
     {
       "term": "よる",
       "count": 447
     },
     {
-      "term": "タル",
-      "count": 363
+      "term": "労働",
+      "count": 404
     },
     {
-      "term": "月1",
-      "count": 349
+      "term": "制 ",
+      "count": 362
     },
     {
-      "term": "ある",
+      "term": "改正",
+      "count": 345
+    },
+    {
+      "term": "目視",
       "count": 337
     },
     {
-      "term": "ため",
-      "count": 331
+      "term": "又は",
+      "count": 323
     },
     {
-      "term": "者の",
-      "count": 326
+      "term": "内容",
+      "count": 293
     },
     {
-      "term": "所管省庁",
-      "count": 326
+      "term": "通達",
+      "count": 284
     },
     {
-      "term": "成1",
-      "count": 299
+      "term": "18",
+      "count": 259
     },
     {
-      "term": "規制",
-      "count": 286
+      "term": "設備",
+      "count": 259
     },
     {
-      "term": "月３",
-      "count": 261
+      "term": "定に",
+      "count": 256
     },
     {
-      "term": "管理",
-      "count": 252
+      "term": "第6",
+      "count": 237
     },
     {
-      "term": "容概",
-      "count": 251
-    },
-    {
-      "term": "確認",
-      "count": 242
-    },
-    {
-      "term": "原則",
-      "count": 236
-    },
-    {
-      "term": "を行",
-      "count": 234
-    },
-    {
-      "term": "もの",
-      "count": 225
-    },
-    {
-      "term": "月ま",
-      "count": 222
-    },
-    {
-      "term": "検査",
-      "count": 221
-    },
-    {
-      "term": "に基",
-      "count": 217
-    },
-    {
-      "term": "する",
-      "count": 215
-    },
-    {
-      "term": "20",
-      "count": 210
-    },
-    {
-      "term": "成2",
-      "count": 207
-    },
-    {
-      "term": "見直後",
-      "count": 207
-    },
-    {
-      "term": "手続",
-      "count": 199
-    },
-    {
-      "term": "等の",
-      "count": 192
-    },
-    {
-      "term": "定め",
-      "count": 192
-    },
-    {
-      "term": "明確",
-      "count": 188
-    },
-    {
-      "term": "関 ",
-      "count": 187
-    },
-    {
-      "term": "告示",
-      "count": 185
-    },
-    {
-      "term": "情報",
-      "count": 183
-    },
-    {
-      "term": "検 ",
-      "count": 175
-    },
-    {
-      "term": "制の",
-      "count": 172
-    },
-    {
-      "term": "往訪",
-      "count": 170
-    },
-    {
-      "term": "農林",
-      "count": 161
-    },
-    {
-      "term": "農林水産",
-      "count": 158
-    },
-    {
-      "term": "を ",
-      "count": 155
-    },
-    {
-      "term": "第5",
-      "count": 152
-    },
-    {
-      "term": "基準",
-      "count": 151
+      "term": "にお",
+      "count": 231
     },
     {
       "term": "了済",
-      "count": 148
+      "count": 227
     },
     {
-      "term": "への",
+      "term": "程表",
+      "count": 226
+    },
+    {
+      "term": "い ",
+      "count": 221
+    },
+    {
+      "term": "における",
+      "count": 218
+    },
+    {
+      "term": "月まで",
+      "count": 218
+    },
+    {
+      "term": "厚生",
+      "count": 211
+    },
+    {
+      "term": "土交",
+      "count": 211
+    },
+    {
+      "term": "関す",
+      "count": 201
+    },
+    {
+      "term": "項の",
+      "count": 195
+    },
+    {
+      "term": "期検",
+      "count": 194
+    },
+    {
+      "term": "物の",
+      "count": 191
+    },
+    {
+      "term": "の確",
+      "count": 188
+    },
+    {
+      "term": "律 ",
+      "count": 184
+    },
+    {
+      "term": "を明",
+      "count": 180
+    },
+    {
+      "term": "ライ",
+      "count": 178
+    },
+    {
+      "term": "の方",
+      "count": 176
+    },
+    {
+      "term": "日付",
+      "count": 175
+    },
+    {
+      "term": "第5",
+      "count": 173
+    },
+    {
+      "term": "成1",
+      "count": 171
+    },
+    {
+      "term": "往訪閲覧",
+      "count": 168
+    },
+    {
+      "term": "共通",
+      "count": 168
+    },
+    {
+      "term": "行う",
+      "count": 165
+    },
+    {
+      "term": "を要",
+      "count": 162
+    },
+    {
+      "term": "見直",
+      "count": 159
+    },
+    {
+      "term": "知 ",
+      "count": 154
+    },
+    {
+      "term": "環境",
+      "count": 154
+    },
+    {
+      "term": "手続",
+      "count": 150
+    },
+    {
+      "term": "まえ",
+      "count": 150
+    },
+    {
+      "term": "査 ",
       "count": 146
     },
     {
-      "term": "づく",
-      "count": 145
-    },
-    {
-      "term": "の1",
+      "term": "見直しを",
       "count": 142
     },
     {
-      "term": "経済",
-      "count": 140
+      "term": "省 ",
+      "count": 139
     },
     {
-      "term": "継続検討",
-      "count": 136
+      "term": "見直し完",
+      "count": 138
     },
     {
-      "term": "条項",
-      "count": 136
+      "term": "33",
+      "count": 134
     },
     {
-      "term": "の設",
-      "count": 131
-    },
-    {
-      "term": "一覧",
-      "count": 131
-    },
-    {
-      "term": "所管",
-      "count": 131
+      "term": "行令",
+      "count": 133
     }
   ],
   "meetings": [
