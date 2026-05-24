@@ -2,155 +2,167 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 28
+      "term": "github",
+      "count": 26
     },
     {
-      "term": "果物",
+      "term": "れる",
+      "count": 23
+    },
+    {
+      "term": "リポ",
       "count": 20
     },
     {
-      "term": "ード",
-      "count": 19
+      "term": "安全",
+      "count": 18
     },
     {
-      "term": "ソー",
+      "term": "ービ",
       "count": 16
     },
     {
-      "term": "workflows",
+      "term": "コー",
+      "count": 15
+    },
+    {
+      "term": "フェ",
+      "count": 15
+    },
+    {
+      "term": "信頼",
+      "count": 15
+    },
+    {
+      "term": "図 ",
+      "count": 15
+    },
+    {
+      "term": "るた",
+      "count": 15
+    },
+    {
+      "term": "いる",
       "count": 14
     },
     {
-      "term": "での",
-      "count": 13
+      "term": "る必",
+      "count": 14
     },
     {
-      "term": "タデ",
-      "count": 13
+      "term": "ては",
+      "count": 14
     },
     {
-      "term": "ータ",
-      "count": 13
-    },
-    {
-      "term": "変更",
+      "term": "れら",
       "count": 12
     },
     {
-      "term": "ムの",
-      "count": 12
-    },
-    {
-      "term": "サービス",
+      "term": "つい",
       "count": 11
     },
     {
-      "term": "確認",
+      "term": "フォーム",
       "count": 11
     },
     {
-      "term": "クを",
+      "term": "につ",
       "count": 11
     },
     {
-      "term": "含む",
+      "term": "ラン",
+      "count": 11
+    },
+    {
+      "term": "環境",
+      "count": 11
+    },
+    {
+      "term": "の信",
+      "count": 10
+    },
+    {
+      "term": "いた",
+      "count": 10
+    },
+    {
+      "term": "ーを",
       "count": 9
     },
     {
-      "term": "デリ",
+      "term": "定の",
       "count": 9
     },
     {
-      "term": "本書",
+      "term": "権限",
       "count": 9
     },
     {
-      "term": "リの",
+      "term": "でき",
       "count": 9
     },
     {
-      "term": "ビルドフ",
+      "term": "範囲の制",
       "count": 8
     },
     {
-      "term": "特有",
+      "term": "囲の",
       "count": 8
     },
     {
-      "term": "バイ",
+      "term": "ソフ",
       "count": 8
     },
     {
-      "term": "リソ",
+      "term": "ェッ",
       "count": 8
     },
     {
-      "term": "上で",
+      "term": "run",
       "count": 8
     },
     {
-      "term": "以外",
-      "count": 8
-    },
-    {
-      "term": "要が",
-      "count": 8
-    },
-    {
-      "term": "github",
-      "count": 8
-    },
-    {
-      "term": "ubuntu",
-      "count": 8
-    },
-    {
-      "term": "キー",
+      "term": "ォー",
       "count": 7
     },
     {
-      "term": "漏洩",
+      "term": "内の",
       "count": 7
     },
     {
-      "term": "あり",
+      "term": "における",
       "count": 7
     },
     {
-      "term": "ーテ",
+      "term": "定 ",
       "count": 7
     },
     {
-      "term": "ード管理",
+      "term": "省略",
+      "count": 7
+    },
+    {
+      "term": "用し",
+      "count": 7
+    },
+    {
+      "term": "リス",
       "count": 6
     },
     {
-      "term": "に関",
+      "term": "より",
       "count": 6
     },
     {
-      "term": "管理",
+      "term": "たt",
       "count": 6
     },
     {
-      "term": "ス ",
+      "term": "ズで",
       "count": 6
     },
     {
-      "term": "の署",
-      "count": 6
-    },
-    {
-      "term": "ここ",
-      "count": 6
-    },
-    {
-      "term": "rule",
-      "count": 6
-    },
-    {
-      "term": "to",
+      "term": "これ",
       "count": 6
     },
     {
@@ -158,47 +170,35 @@
       "count": 6
     },
     {
-      "term": "た場",
+      "term": "ークレッ",
       "count": 6
     },
     {
-      "term": "合は",
+      "term": "trivy",
       "count": 6
     },
     {
-      "term": "シス",
+      "term": "象と",
+      "count": 6
+    },
+    {
+      "term": "検出",
+      "count": 6
+    },
+    {
+      "term": "ト ",
       "count": 5
     },
     {
-      "term": "時の",
+      "term": "ケー",
       "count": 5
     },
     {
-      "term": "る主",
+      "term": "観点",
       "count": 5
     },
     {
-      "term": "るプ",
-      "count": 5
-    },
-    {
-      "term": "ルへ",
-      "count": 5
-    },
-    {
-      "term": "を検",
-      "count": 5
-    },
-    {
-      "term": "実際",
-      "count": 5
-    },
-    {
-      "term": "ここでは",
-      "count": 5
-    },
-    {
-      "term": "ンa",
+      "term": "gitlab",
       "count": 5
     }
   ],
