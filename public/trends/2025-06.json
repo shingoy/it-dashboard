@@ -2,91 +2,83 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "github",
-      "count": 26
+      "term": "る ",
+      "count": 24
     },
     {
-      "term": "れる",
-      "count": 23
-    },
-    {
-      "term": "リポ",
+      "term": "ファ",
       "count": 20
     },
     {
-      "term": "安全",
-      "count": 18
+      "term": "物の",
+      "count": 17
     },
     {
-      "term": "ービ",
-      "count": 16
-    },
-    {
-      "term": "コー",
+      "term": "よび",
       "count": 15
     },
     {
-      "term": "フェ",
+      "term": "コン",
       "count": 15
     },
     {
-      "term": "信頼",
+      "term": "よう",
       "count": 15
     },
     {
-      "term": "図 ",
-      "count": 15
-    },
-    {
-      "term": "るた",
-      "count": 15
-    },
-    {
-      "term": "いる",
+      "term": "全性",
       "count": 14
     },
     {
-      "term": "る必",
+      "term": "ナイ",
       "count": 14
     },
     {
-      "term": "ては",
-      "count": 14
+      "term": "にお",
+      "count": 13
     },
     {
-      "term": "れら",
-      "count": 12
+      "term": "る図",
+      "count": 13
+    },
+    {
+      "term": "プラット",
+      "count": 11
     },
     {
       "term": "つい",
       "count": 11
     },
     {
-      "term": "フォーム",
+      "term": "上で",
       "count": 11
     },
     {
-      "term": "につ",
+      "term": "ecr",
       "count": 11
     },
     {
-      "term": "ラン",
+      "term": "はな",
       "count": 11
     },
     {
-      "term": "環境",
+      "term": "の設",
       "count": 11
     },
     {
-      "term": "の信",
+      "term": "確保",
       "count": 10
     },
     {
-      "term": "いた",
+      "term": "on",
       "count": 10
     },
     {
-      "term": "ーを",
+      "term": "脆弱",
+      "count": 9
+    },
+    {
+      "term": "によ",
       "count": 9
     },
     {
@@ -94,111 +86,119 @@
       "count": 9
     },
     {
-      "term": "権限",
+      "term": "必要",
       "count": 9
     },
     {
-      "term": "でき",
+      "term": "github",
       "count": 9
     },
     {
-      "term": "範囲の制",
+      "term": "通し",
       "count": 8
     },
     {
-      "term": "囲の",
+      "term": "に関",
       "count": 8
     },
     {
-      "term": "ソフ",
-      "count": 8
-    },
-    {
-      "term": "ェッ",
-      "count": 8
-    },
-    {
-      "term": "run",
-      "count": 8
-    },
-    {
-      "term": "ォー",
+      "term": "運用",
       "count": 7
     },
     {
-      "term": "内の",
+      "term": "存物",
       "count": 7
     },
     {
-      "term": "における",
+      "term": "制限",
       "count": 7
     },
     {
-      "term": "定 ",
+      "term": "次に",
       "count": 7
     },
     {
-      "term": "省略",
+      "term": "ンバ",
       "count": 7
     },
     {
-      "term": "用し",
+      "term": "ルに",
       "count": 7
     },
     {
-      "term": "リス",
+      "term": "キュ",
       "count": 6
     },
     {
-      "term": "より",
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "たt",
+      "term": "頼で",
       "count": 6
     },
     {
-      "term": "ズで",
+      "term": "ソフトウ",
       "count": 6
     },
     {
-      "term": "これ",
+      "term": "ジと",
       "count": 6
     },
     {
-      "term": "steps",
+      "term": "ここでは",
       "count": 6
     },
     {
-      "term": "ークレッ",
+      "term": "影響",
       "count": 6
     },
     {
-      "term": "trivy",
+      "term": "し ",
       "count": 6
     },
     {
-      "term": "象と",
+      "term": "key",
       "count": 6
     },
     {
-      "term": "検出",
+      "term": "high",
       "count": 6
     },
     {
-      "term": "ト ",
+      "term": "ubuntu",
+      "count": 6
+    },
+    {
+      "term": "理を含む",
       "count": 5
     },
     {
-      "term": "ケー",
+      "term": "証跡",
       "count": 5
     },
     {
-      "term": "観点",
+      "term": "ード",
       "count": 5
     },
     {
-      "term": "gitlab",
+      "term": "はあ",
+      "count": 5
+    },
+    {
+      "term": "てc",
+      "count": 5
+    },
+    {
+      "term": "を ",
+      "count": 5
+    },
+    {
+      "term": "用い",
+      "count": 5
+    },
+    {
+      "term": "複数",
       "count": 5
     }
   ],
