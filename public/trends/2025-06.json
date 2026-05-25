@@ -2,139 +2,147 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
+      "term": "プラ",
       "count": 25
     },
     {
-      "term": "した",
-      "count": 20
+      "term": "るこ",
+      "count": 24
     },
     {
-      "term": "ラッ",
+      "term": "てい",
+      "count": 21
+    },
+    {
+      "term": "設定",
+      "count": 19
+    },
+    {
+      "term": "保護",
+      "count": 18
+    },
+    {
+      "term": "サー",
+      "count": 17
+    },
+    {
+      "term": "とし",
+      "count": 17
+    },
+    {
+      "term": "ーズ",
       "count": 15
     },
     {
-      "term": "なる",
+      "term": "コン",
       "count": 15
     },
     {
-      "term": "必要",
+      "term": "メタ",
       "count": 15
     },
     {
-      "term": "性の",
+      "term": "タデ",
       "count": 14
     },
     {
-      "term": "ては",
+      "term": "中略",
       "count": 14
     },
     {
-      "term": "略 ",
-      "count": 14
-    },
-    {
-      "term": "スコ",
+      "term": "ビス",
       "count": 13
     },
     {
-      "term": "情報",
+      "term": "署名",
+      "count": 13
+    },
+    {
+      "term": "とな",
+      "count": 13
+    },
+    {
+      "term": "場合",
+      "count": 13
+    },
+    {
+      "term": "を取",
       "count": 12
     },
     {
-      "term": "用す",
-      "count": 12
+      "term": "とで",
+      "count": 11
     },
     {
       "term": "ビルドフ",
       "count": 10
     },
     {
-      "term": "ステ",
+      "term": "workflows",
       "count": 10
     },
     {
-      "term": "cd",
-      "count": 10
-    },
-    {
-      "term": "セス",
-      "count": 10
-    },
-    {
-      "term": "に関",
+      "term": "脆弱性管",
       "count": 9
     },
     {
-      "term": "ズの",
+      "term": "ロー",
       "count": 9
     },
     {
-      "term": "ント",
+      "term": "ーを",
       "count": 9
     },
     {
-      "term": "ウェ",
-      "count": 9
-    },
-    {
-      "term": "成さ",
-      "count": 9
-    },
-    {
-      "term": "ジト",
+      "term": "物の",
       "count": 8
     },
     {
-      "term": "主体",
+      "term": "スの",
       "count": 8
     },
     {
-      "term": "ド上",
+      "term": "下の",
       "count": 8
     },
     {
-      "term": "依存物の",
+      "term": "ェッ",
       "count": 8
     },
     {
-      "term": "を用",
+      "term": "メタデー",
       "count": 8
     },
     {
-      "term": "docker",
-      "count": 8
-    },
-    {
-      "term": "用し",
-      "count": 8
-    },
-    {
-      "term": "ーに",
-      "count": 8
-    },
-    {
-      "term": "漏洩",
+      "term": "の漏",
       "count": 7
     },
     {
-      "term": "示す",
+      "term": "ナリ",
       "count": 7
     },
     {
-      "term": "内の",
+      "term": "よび",
       "count": 7
     },
     {
-      "term": "デリバリ",
+      "term": "の仕",
       "count": 7
     },
     {
-      "term": "自動",
+      "term": "あり",
       "count": 7
     },
     {
-      "term": "れば",
+      "term": "のた",
+      "count": 7
+    },
+    {
+      "term": "を確",
+      "count": 7
+    },
+    {
+      "term": "るプ",
       "count": 7
     },
     {
@@ -142,23 +150,19 @@
       "count": 7
     },
     {
-      "term": "い ",
+      "term": "可能であ",
       "count": 7
     },
     {
-      "term": "ド設",
-      "count": 7
-    },
-    {
-      "term": "を示",
+      "term": "ド管",
       "count": 6
     },
     {
-      "term": "ローカル",
+      "term": "ーカ",
       "count": 6
     },
     {
-      "term": "のc",
+      "term": "する",
       "count": 6
     },
     {
@@ -166,40 +170,36 @@
       "count": 6
     },
     {
-      "term": "ェア",
+      "term": "24",
       "count": 6
     },
     {
-      "term": "タデータ",
+      "term": "ソフトウ",
       "count": 6
     },
     {
-      "term": "要がある",
+      "term": "供す",
       "count": 6
     },
     {
-      "term": "得し",
+      "term": "もの",
       "count": 6
     },
     {
-      "term": "ェッ",
+      "term": "はプ",
       "count": 6
     },
     {
-      "term": "の事",
+      "term": "ここでは",
       "count": 6
     },
     {
-      "term": "省略する",
+      "term": "cosign",
       "count": 6
     },
     {
-      "term": "steps",
+      "term": "ル ",
       "count": 6
-    },
-    {
-      "term": "infrastructure",
-      "count": 5
     }
   ],
   "meetings": [
