@@ -2,167 +2,159 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "プラ",
-      "count": 25
-    },
-    {
-      "term": "るこ",
-      "count": 24
-    },
-    {
-      "term": "てい",
+      "term": "図 ",
       "count": 21
     },
     {
-      "term": "設定",
-      "count": 19
+      "term": "プラ",
+      "count": 20
     },
     {
-      "term": "保護",
-      "count": 18
+      "term": "いる",
+      "count": 20
     },
     {
-      "term": "サー",
+      "term": "るこ",
+      "count": 20
+    },
+    {
+      "term": "ci",
+      "count": 17
+    },
+    {
+      "term": "デー",
       "count": 17
     },
     {
       "term": "とし",
-      "count": 17
+      "count": 16
     },
     {
-      "term": "ーズ",
-      "count": 15
-    },
-    {
-      "term": "コン",
-      "count": 15
-    },
-    {
-      "term": "メタ",
-      "count": 15
-    },
-    {
-      "term": "タデ",
+      "term": "ファ",
       "count": 14
     },
     {
-      "term": "中略",
+      "term": "ール",
       "count": 14
     },
     {
-      "term": "ビス",
+      "term": "った",
+      "count": 14
+    },
+    {
+      "term": "ソースコ",
       "count": 13
     },
     {
-      "term": "署名",
+      "term": "確認",
       "count": 13
     },
     {
-      "term": "とな",
-      "count": 13
-    },
-    {
-      "term": "場合",
-      "count": 13
-    },
-    {
-      "term": "を取",
+      "term": "変更",
       "count": 12
     },
     {
-      "term": "とで",
+      "term": "情報",
+      "count": 12
+    },
+    {
+      "term": "での",
+      "count": 12
+    },
+    {
+      "term": "よる",
+      "count": 12
+    },
+    {
+      "term": "パイ",
+      "count": 12
+    },
+    {
+      "term": "ルを",
+      "count": 12
+    },
+    {
+      "term": "れら",
+      "count": 12
+    },
+    {
+      "term": "依存",
       "count": 11
     },
     {
-      "term": "ビルドフ",
+      "term": "push",
+      "count": 11
+    },
+    {
+      "term": "保 ",
       "count": 10
     },
     {
-      "term": "workflows",
+      "term": "code",
       "count": 10
     },
     {
-      "term": "脆弱性管",
-      "count": 9
+      "term": "スキ",
+      "count": 10
     },
     {
-      "term": "ロー",
-      "count": 9
+      "term": "こで",
+      "count": 10
     },
     {
-      "term": "ーを",
-      "count": 9
-    },
-    {
-      "term": "物の",
+      "term": "カル",
       "count": 8
     },
     {
-      "term": "スの",
+      "term": "ラン",
       "count": 8
     },
     {
-      "term": "下の",
+      "term": "スク",
       "count": 8
     },
     {
-      "term": "ェッ",
+      "term": "特有",
       "count": 8
     },
     {
-      "term": "メタデー",
+      "term": "組み",
       "count": 8
     },
     {
-      "term": "の漏",
+      "term": "共通",
       "count": 7
     },
     {
-      "term": "ナリ",
+      "term": "トウ",
       "count": 7
     },
     {
-      "term": "よび",
+      "term": "ると",
       "count": 7
     },
     {
-      "term": "の仕",
+      "term": "トフォー",
       "count": 7
     },
     {
-      "term": "あり",
+      "term": "い ",
       "count": 7
     },
     {
-      "term": "のた",
+      "term": "クセ",
       "count": 7
     },
     {
-      "term": "を確",
-      "count": 7
-    },
-    {
-      "term": "るプ",
-      "count": 7
-    },
-    {
-      "term": "および",
-      "count": 7
-    },
-    {
-      "term": "可能であ",
-      "count": 7
-    },
-    {
-      "term": "ド管",
+      "term": "ショ",
       "count": 6
     },
     {
-      "term": "ーカ",
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "する",
+      "term": "ット情報",
       "count": 6
     },
     {
@@ -170,35 +162,43 @@
       "count": 6
     },
     {
-      "term": "24",
+      "term": "の保護",
       "count": 6
     },
     {
-      "term": "ソフトウ",
+      "term": "頼で",
       "count": 6
     },
     {
-      "term": "供す",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "もの",
+      "term": "イダ",
       "count": 6
     },
     {
-      "term": "はプ",
+      "term": "定 ",
       "count": 6
     },
     {
-      "term": "ここでは",
+      "term": "ウン",
       "count": 6
     },
     {
-      "term": "cosign",
+      "term": "ムに",
       "count": 6
     },
     {
-      "term": "ル ",
+      "term": "うこ",
+      "count": 6
+    },
+    {
+      "term": "対す",
+      "count": 6
+    },
+    {
+      "term": "完全",
       "count": 6
     }
   ],
