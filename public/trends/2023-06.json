@@ -2,24 +2,12 @@
   "month": "2023-06",
   "keywords": [
     {
-      "term": "第2",
-      "count": 906
-    },
-    {
-      "term": "則 ",
-      "count": 702
-    },
-    {
-      "term": "規則",
-      "count": 699
+      "term": "要 ",
+      "count": 606
     },
     {
       "term": "等の",
-      "count": 571
-    },
-    {
-      "term": "行規",
-      "count": 536
+      "count": 578
     },
     {
       "term": "関す",
@@ -27,179 +15,191 @@
     },
     {
       "term": "に関",
-      "count": 461
+      "count": 458
     },
     {
-      "term": "規制",
-      "count": 408
+      "term": "則 ",
+      "count": 419
     },
     {
-      "term": "し否",
-      "count": 360
+      "term": "正 ",
+      "count": 415
     },
     {
-      "term": "又は",
+      "term": "規則",
+      "count": 415
+    },
+    {
+      "term": "法令",
+      "count": 406
+    },
+    {
+      "term": "否 ",
+      "count": 398
+    },
+    {
+      "term": "通 ",
       "count": 356
     },
     {
-      "term": "タル",
-      "count": 331
+      "term": "る法",
+      "count": 327
+    },
+    {
+      "term": "月 ",
+      "count": 324
     },
     {
       "term": "の発",
       "count": 320
     },
     {
-      "term": "告示",
+      "term": "通達",
+      "count": 317
+    },
+    {
+      "term": "の発出又",
       "count": 315
     },
     {
       "term": "制 ",
-      "count": 312
-    },
-    {
-      "term": "事業",
-      "count": 303
-    },
-    {
-      "term": "施行",
-      "count": 291
-    },
-    {
-      "term": "見直",
-      "count": 290
-    },
-    {
-      "term": "及び",
-      "count": 285
-    },
-    {
-      "term": "いる",
-      "count": 281
-    },
-    {
-      "term": "省令改正",
-      "count": 272
-    },
-    {
-      "term": "す ",
-      "count": 263
-    },
-    {
-      "term": "令改",
-      "count": 260
-    },
-    {
-      "term": "は改",
-      "count": 232
-    },
-    {
-      "term": "点検対象",
-      "count": 222
-    },
-    {
-      "term": "期 ",
-      "count": 218
-    },
-    {
-      "term": "ル原",
-      "count": 217
-    },
-    {
-      "term": "知通",
-      "count": 207
-    },
-    {
-      "term": "労働",
-      "count": 206
-    },
-    {
-      "term": "グ規",
-      "count": 198
-    },
-    {
-      "term": "経済産業",
-      "count": 194
-    },
-    {
-      "term": "点検",
-      "count": 191
-    },
-    {
-      "term": "認済",
-      "count": 187
-    },
-    {
-      "term": "しを",
-      "count": 184
-    },
-    {
-      "term": "条項",
-      "count": 181
-    },
-    {
-      "term": "和5",
-      "count": 176
-    },
-    {
-      "term": "働省",
-      "count": 174
-    },
-    {
-      "term": "第9",
-      "count": 172
-    },
-    {
-      "term": "制等",
-      "count": 169
-    },
-    {
-      "term": "る法",
-      "count": 167
-    },
-    {
-      "term": "視ー",
-      "count": 165
-    },
-    {
-      "term": "管理",
-      "count": 165
-    },
-    {
-      "term": "の概",
-      "count": 165
-    },
-    {
-      "term": "内容",
-      "count": 162
-    },
-    {
-      "term": "名 ",
-      "count": 161
-    },
-    {
-      "term": "手続",
-      "count": 159
-    },
-    {
-      "term": "所管省庁",
-      "count": 158
+      "count": 309
     },
     {
       "term": "工程表",
+      "count": 296
+    },
+    {
+      "term": "和６",
+      "count": 295
+    },
+    {
+      "term": "告示",
+      "count": 271
+    },
+    {
+      "term": "表１",
+      "count": 269
+    },
+    {
+      "term": "業者",
+      "count": 267
+    },
+    {
+      "term": "法施",
+      "count": 260
+    },
+    {
+      "term": "改正",
+      "count": 245
+    },
+    {
+      "term": "済 ",
+      "count": 241
+    },
+    {
+      "term": "直し",
+      "count": 240
+    },
+    {
+      "term": "等に",
+      "count": 236
+    },
+    {
+      "term": "の4",
+      "count": 220
+    },
+    {
+      "term": "目視規制",
+      "count": 211
+    },
+    {
+      "term": "務省",
+      "count": 201
+    },
+    {
+      "term": "類型",
+      "count": 187
+    },
+    {
+      "term": "期 ",
+      "count": 187
+    },
+    {
+      "term": "項の",
+      "count": 184
+    },
+    {
+      "term": "規制等の",
+      "count": 180
+    },
+    {
+      "term": "指定",
+      "count": 178
+    },
+    {
+      "term": "の一",
+      "count": 177
+    },
+    {
+      "term": "は３",
+      "count": 175
+    },
+    {
+      "term": "見直",
+      "count": 173
+    },
+    {
+      "term": "す ",
+      "count": 172
+    },
+    {
+      "term": "ー ",
+      "count": 169
+    },
+    {
+      "term": "項第",
+      "count": 167
+    },
+    {
+      "term": "程表",
+      "count": 164
+    },
+    {
+      "term": "型 ",
+      "count": 163
+    },
+    {
+      "term": "時期",
+      "count": 160
+    },
+    {
+      "term": "等が",
+      "count": 159
+    },
+    {
+      "term": "通知",
+      "count": 159
+    },
+    {
+      "term": "方法",
       "count": 158
     },
     {
-      "term": "no",
-      "count": 157
+      "term": "でき",
+      "count": 155
     },
     {
-      "term": "月９",
+      "term": "業務",
       "count": 154
     },
     {
-      "term": "見直し",
-      "count": 150
+      "term": "別表",
+      "count": 152
+    },
+    {
+      "term": "記録",
+      "count": 151
     }
   ],
   "meetings": [
