@@ -2,11 +2,7 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "機関",
-      "count": 3
-    },
-    {
-      "term": "等を",
+      "term": "関係",
       "count": 3
     },
     {
@@ -14,23 +10,35 @@
       "count": 3
     },
     {
-      "term": "しの",
+      "term": "グの",
       "count": 3
     },
     {
-      "term": "ム ",
+      "term": "有機",
       "count": 3
     },
     {
-      "term": "する",
+      "term": "イメ",
+      "count": 3
+    },
+    {
+      "term": "共有",
+      "count": 3
+    },
+    {
+      "term": "ログ",
+      "count": 3
+    },
+    {
+      "term": "術保",
+      "count": 3
+    },
+    {
+      "term": "アム",
       "count": 2
     },
     {
-      "term": "目的",
-      "count": 2
-    },
-    {
-      "term": "体と",
+      "term": "を目",
       "count": 2
     },
     {
@@ -38,19 +46,43 @@
       "count": 2
     },
     {
-      "term": "個別",
+      "term": "等 ",
       "count": 2
     },
     {
-      "term": "day",
+      "term": "ィー",
       "count": 2
     },
     {
-      "term": "から",
+      "term": "報か",
       "count": 2
     },
     {
-      "term": "やh",
+      "term": "ムの今後",
+      "count": 2
+    },
+    {
+      "term": "ット",
+      "count": 2
+    },
+    {
+      "term": "目的",
+      "count": 2
+    },
+    {
+      "term": "コンソー",
+      "count": 2
+    },
+    {
+      "term": "グ規制の",
+      "count": 2
+    },
+    {
+      "term": "ンソ",
+      "count": 2
+    },
+    {
+      "term": "規制所管",
       "count": 2
     },
     {
@@ -58,35 +90,15 @@
       "count": 2
     },
     {
-      "term": "自らへの",
+      "term": "供 ",
       "count": 2
     },
     {
-      "term": "証結",
+      "term": "の具",
       "count": 2
     },
     {
-      "term": "企画への",
-      "count": 2
-    },
-    {
-      "term": "ジの",
-      "count": 2
-    },
-    {
-      "term": "を広",
-      "count": 2
-    },
-    {
-      "term": "の実証状",
-      "count": 2
-    },
-    {
-      "term": "の実",
-      "count": 2
-    },
-    {
-      "term": "を踏",
+      "term": "チコ",
       "count": 2
     },
     {
@@ -94,111 +106,99 @@
       "count": 2
     },
     {
-      "term": "アドバイ",
-      "count": 2
-    },
-    {
-      "term": "バイ",
-      "count": 2
-    },
-    {
-      "term": "化 ",
-      "count": 2
-    },
-    {
-      "term": "テクノロ",
-      "count": 2
-    },
-    {
-      "term": "技術検証",
-      "count": 2
-    },
-    {
       "term": "開催",
       "count": 2
     },
     {
-      "term": "結果等を",
+      "term": "把握",
       "count": 2
     },
     {
-      "term": "等の",
+      "term": "成果を踏",
       "count": 2
     },
     {
-      "term": "動スケジ",
+      "term": "ム開",
+      "count": 2
+    },
+    {
+      "term": "企画",
+      "count": 2
+    },
+    {
+      "term": "ピッチコ",
+      "count": 2
+    },
+    {
+      "term": "証状",
+      "count": 2
+    },
+    {
+      "term": "検証",
+      "count": 2
+    },
+    {
+      "term": "ポジ",
+      "count": 2
+    },
+    {
+      "term": "有技",
+      "count": 2
+    },
+    {
+      "term": "業の",
+      "count": 2
+    },
+    {
+      "term": "startup",
       "count": 1
     },
     {
-      "term": "省ス",
+      "term": "市場規模",
       "count": 1
     },
     {
-      "term": "会の",
+      "term": "を有する",
       "count": 1
     },
     {
-      "term": "報の主体",
+      "term": "動ス",
       "count": 1
     },
     {
-      "term": "を有",
+      "term": "の利",
       "count": 1
     },
     {
-      "term": "地域版",
+      "term": "を運",
       "count": 1
     },
     {
-      "term": "係者",
+      "term": "企業",
       "count": 1
     },
     {
-      "term": "市場",
+      "term": "報の",
       "count": 1
     },
     {
-      "term": "る技術情",
+      "term": "明ら",
       "count": 1
     },
     {
-      "term": "スケ",
+      "term": "の目",
       "count": 1
     },
     {
-      "term": "し技",
+      "term": "上を",
       "count": 1
     },
     {
-      "term": "プ新",
+      "term": "続的",
       "count": 1
     },
     {
-      "term": "取組",
-      "count": 1
-    },
-    {
-      "term": "る説",
-      "count": 1
-    },
-    {
-      "term": "クす",
-      "count": 1
-    },
-    {
-      "term": "力の",
-      "count": 1
-    },
-    {
-      "term": "を明",
-      "count": 1
-    },
-    {
-      "term": "先端",
-      "count": 1
-    },
-    {
-      "term": "シナ",
+      "term": "ログ等",
       "count": 1
     }
   ],
