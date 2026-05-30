@@ -2,175 +2,171 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ット",
+      "term": "ある",
+      "count": 25
+    },
+    {
+      "term": "パイ",
+      "count": 21
+    },
+    {
+      "term": "パイプラ",
       "count": 20
     },
     {
-      "term": "name",
-      "count": 17
+      "term": "てい",
+      "count": 20
     },
     {
-      "term": "ータ",
+      "term": "aws",
+      "count": 18
+    },
+    {
+      "term": "って",
+      "count": 16
+    },
+    {
+      "term": "弱性",
       "count": 15
+    },
+    {
+      "term": "ービ",
+      "count": 15
+    },
+    {
+      "term": "のた",
+      "count": 15
+    },
+    {
+      "term": "ドフ",
+      "count": 14
     },
     {
       "term": "った",
       "count": 14
     },
     {
-      "term": "シー",
+      "term": "この",
+      "count": 14
+    },
+    {
+      "term": "フォ",
       "count": 13
     },
     {
-      "term": "ポジ",
+      "term": "的に",
       "count": 13
     },
     {
-      "term": "変更",
-      "count": 12
-    },
-    {
-      "term": "ーの",
-      "count": 12
-    },
-    {
-      "term": "安全性の",
+      "term": "考え",
       "count": 11
     },
     {
-      "term": "要が",
-      "count": 11
-    },
-    {
-      "term": "場合",
-      "count": 11
-    },
-    {
-      "term": "イン",
+      "term": "ナリ",
       "count": 10
     },
     {
-      "term": "ー ",
+      "term": "につ",
       "count": 10
     },
     {
-      "term": "イメージ",
+      "term": "的な",
       "count": 10
     },
     {
-      "term": "タデ",
+      "term": "を用",
       "count": 10
     },
     {
-      "term": "env",
+      "term": "れら",
       "count": 10
     },
     {
-      "term": "の担",
-      "count": 9
-    },
-    {
-      "term": "ェア",
-      "count": 9
-    },
-    {
-      "term": "いっ",
-      "count": 9
-    },
-    {
-      "term": "イメ",
-      "count": 9
-    },
-    {
-      "term": "ここ",
-      "count": 9
-    },
-    {
-      "term": "権限",
-      "count": 9
+      "term": "trivy",
+      "count": 10
     },
     {
       "term": "の設",
+      "count": 10
+    },
+    {
+      "term": "com",
+      "count": 10
+    },
+    {
+      "term": "ウェ",
       "count": 9
     },
     {
-      "term": "定内",
-      "count": 8
-    },
-    {
-      "term": "ョン",
-      "count": 8
-    },
-    {
-      "term": "に ",
-      "count": 8
-    },
-    {
-      "term": "定し",
-      "count": 8
-    },
-    {
       "term": "にも",
+      "count": 9
+    },
+    {
+      "term": "ンa",
+      "count": 9
+    },
+    {
+      "term": "の取",
       "count": 8
     },
     {
-      "term": "検証",
+      "term": "用い",
       "count": 8
     },
     {
-      "term": "報の",
+      "term": "の管",
+      "count": 8
+    },
+    {
+      "term": "リテ",
       "count": 7
     },
     {
-      "term": "示す",
+      "term": "関す",
       "count": 7
     },
     {
-      "term": "る主",
+      "term": "ムチ",
       "count": 7
     },
     {
-      "term": "デリバリ",
+      "term": "イン",
       "count": 7
     },
     {
-      "term": "ダー",
+      "term": "ると",
       "count": 7
     },
     {
-      "term": "を確",
+      "term": "定義",
       "count": 7
     },
     {
-      "term": "トフォー",
+      "term": "ャン",
       "count": 7
+    },
+    {
+      "term": "はg",
+      "count": 7
+    },
+    {
+      "term": "頼で",
+      "count": 6
+    },
+    {
+      "term": "イダ",
+      "count": 6
+    },
+    {
+      "term": "複数",
+      "count": 6
     },
     {
       "term": "記述",
-      "count": 7
-    },
-    {
-      "term": "仕組",
-      "count": 7
-    },
-    {
-      "term": "を示",
       "count": 6
     },
     {
-      "term": "及び",
-      "count": 6
-    },
-    {
-      "term": "得し",
-      "count": 6
-    },
-    {
-      "term": "対す",
-      "count": 6
-    },
-    {
-      "term": "の利",
+      "term": "ジの",
       "count": 6
     },
     {
@@ -178,27 +174,31 @@
       "count": 6
     },
     {
-      "term": "ついては",
+      "term": "の利",
       "count": 6
     },
     {
-      "term": "強制",
+      "term": "次に",
       "count": 6
     },
     {
-      "term": "ても",
+      "term": "の事",
       "count": 6
     },
     {
-      "term": "ト ",
+      "term": "tf",
+      "count": 6
+    },
+    {
+      "term": "high",
+      "count": 6
+    },
+    {
+      "term": "理脆",
       "count": 5
     },
     {
-      "term": "ンに",
-      "count": 5
-    },
-    {
-      "term": "ムチ",
+      "term": "用保",
       "count": 5
     }
   ],
