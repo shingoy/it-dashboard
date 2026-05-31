@@ -2,135 +2,143 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "であ",
-      "count": 21
+      "term": "して",
+      "count": 23
     },
     {
-      "term": "トリ",
+      "term": "パイプラ",
       "count": 20
     },
     {
-      "term": "ット",
-      "count": 20
-    },
-    {
-      "term": "ファ",
-      "count": 20
-    },
-    {
-      "term": "きる",
+      "term": "では",
       "count": 19
     },
     {
-      "term": "ージ",
-      "count": 18
+      "term": "るこ",
+      "count": 19
     },
     {
-      "term": "cat",
+      "term": "物の",
+      "count": 17
+    },
+    {
+      "term": "ジト",
       "count": 15
     },
     {
-      "term": "この",
-      "count": 14
-    },
-    {
-      "term": "用す",
+      "term": "ェー",
       "count": 13
     },
     {
-      "term": "安全",
+      "term": "確認",
       "count": 13
     },
     {
-      "term": "なる",
-      "count": 13
-    },
-    {
-      "term": "生成",
-      "count": 13
-    },
-    {
-      "term": "護 ",
-      "count": 12
-    },
-    {
-      "term": "ける",
+      "term": "制限",
       "count": 11
     },
     {
-      "term": "の設",
-      "count": 11
-    },
-    {
-      "term": "https",
-      "count": 11
-    },
-    {
-      "term": "略 ",
-      "count": 11
-    },
-    {
-      "term": "保 ",
+      "term": "対策",
       "count": 10
-    },
-    {
-      "term": "terraform",
-      "count": 10
-    },
-    {
-      "term": "sbom",
-      "count": 10
-    },
-    {
-      "term": "に関",
-      "count": 9
-    },
-    {
-      "term": "ン ",
-      "count": 9
-    },
-    {
-      "term": "のア",
-      "count": 9
     },
     {
       "term": "com",
-      "count": 9
-    },
-    {
-      "term": "action",
-      "count": 9
-    },
-    {
-      "term": "下の",
-      "count": 8
-    },
-    {
-      "term": "でき",
-      "count": 8
-    },
-    {
-      "term": "ルで",
-      "count": 8
-    },
-    {
-      "term": "漏洩",
-      "count": 7
+      "count": 10
     },
     {
       "term": "脆弱性管",
+      "count": 9
+    },
+    {
+      "term": "ソー",
+      "count": 9
+    },
+    {
+      "term": "ェア",
+      "count": 9
+    },
+    {
+      "term": "取得",
+      "count": 9
+    },
+    {
+      "term": "以外",
+      "count": 9
+    },
+    {
+      "term": "yml",
+      "count": 9
+    },
+    {
+      "term": "id",
+      "count": 9
+    },
+    {
+      "term": "カル",
+      "count": 8
+    },
+    {
+      "term": "ョン",
+      "count": 8
+    },
+    {
+      "term": "ック",
+      "count": 8
+    },
+    {
+      "term": "での",
+      "count": 8
+    },
+    {
+      "term": "およ",
+      "count": 8
+    },
+    {
+      "term": "スの",
+      "count": 8
+    },
+    {
+      "term": "セス",
+      "count": 8
+    },
+    {
+      "term": "トに",
       "count": 7
     },
     {
-      "term": "略す",
+      "term": "イナ",
       "count": 7
     },
     {
-      "term": "のよ",
+      "term": "自動",
       "count": 7
     },
     {
-      "term": "的な",
+      "term": "ると",
+      "count": 7
+    },
+    {
+      "term": "ンb",
+      "count": 7
+    },
+    {
+      "term": "ーテ",
+      "count": 7
+    },
+    {
+      "term": "から",
+      "count": 7
+    },
+    {
+      "term": "ワー",
+      "count": 6
+    },
+    {
+      "term": "キュ",
+      "count": 6
+    },
+    {
+      "term": "ショ",
       "count": 6
     },
     {
@@ -138,27 +146,15 @@
       "count": 6
     },
     {
-      "term": "等の",
+      "term": "行範",
       "count": 6
     },
     {
-      "term": "関連",
+      "term": "の実",
       "count": 6
     },
     {
-      "term": "ンテナイ",
-      "count": 6
-    },
-    {
-      "term": "複数",
-      "count": 6
-    },
-    {
-      "term": "ムは",
-      "count": 6
-    },
-    {
-      "term": "うこ",
+      "term": "ェッ",
       "count": 6
     },
     {
@@ -170,7 +166,7 @@
       "count": 6
     },
     {
-      "term": "ref",
+      "term": "to",
       "count": 6
     },
     {
@@ -178,27 +174,31 @@
       "count": 6
     },
     {
-      "term": "えて",
+      "term": "図 ",
       "count": 6
     },
     {
-      "term": "26",
+      "term": "key",
+      "count": 6
+    },
+    {
+      "term": "predicate",
+      "count": 6
+    },
+    {
+      "term": "保守",
       "count": 5
     },
     {
-      "term": "ることを",
+      "term": "ド ",
       "count": 5
     },
     {
-      "term": "を想",
+      "term": "ラン",
       "count": 5
     },
     {
-      "term": "れば",
-      "count": 5
-    },
-    {
-      "term": "チームが",
+      "term": "信頼",
       "count": 5
     }
   ],
