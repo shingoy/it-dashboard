@@ -2,139 +2,143 @@
   "month": "2025-06",
   "keywords": [
     {
+      "term": "であ",
+      "count": 21
+    },
+    {
       "term": "トリ",
       "count": 20
     },
     {
-      "term": "成果",
+      "term": "ット",
       "count": 20
     },
     {
-      "term": "果物",
+      "term": "ファ",
       "count": 20
     },
     {
-      "term": "パイ",
+      "term": "きる",
+      "count": 19
+    },
+    {
+      "term": "ージ",
+      "count": 18
+    },
+    {
+      "term": "cat",
       "count": 15
     },
     {
-      "term": "スコ",
+      "term": "この",
       "count": 14
     },
     {
-      "term": "ドフ",
-      "count": 14
-    },
-    {
-      "term": "があ",
-      "count": 14
-    },
-    {
-      "term": "性の",
+      "term": "用す",
       "count": 13
     },
     {
-      "term": "ーク",
+      "term": "安全",
       "count": 13
     },
     {
-      "term": "ない",
+      "term": "なる",
       "count": 13
     },
     {
-      "term": "tf",
+      "term": "生成",
       "count": 13
     },
     {
-      "term": "ティ",
+      "term": "護 ",
+      "count": 12
+    },
+    {
+      "term": "ける",
       "count": 11
     },
     {
-      "term": "取得",
+      "term": "の設",
       "count": 11
     },
     {
-      "term": "要が",
+      "term": "https",
       "count": 11
     },
     {
-      "term": "検証",
+      "term": "略 ",
+      "count": 11
+    },
+    {
+      "term": "保 ",
       "count": 10
     },
     {
-      "term": "バリ",
+      "term": "terraform",
+      "count": 10
+    },
+    {
+      "term": "sbom",
+      "count": 10
+    },
+    {
+      "term": "に関",
       "count": 9
     },
     {
-      "term": "ウェ",
+      "term": "ン ",
       "count": 9
     },
     {
-      "term": "yml",
+      "term": "のア",
       "count": 9
     },
     {
-      "term": "runs",
+      "term": "com",
       "count": 9
     },
     {
-      "term": "ズの",
+      "term": "action",
+      "count": 9
+    },
+    {
+      "term": "下の",
       "count": 8
     },
     {
-      "term": "スト",
+      "term": "でき",
       "count": 8
     },
     {
-      "term": "ソフ",
+      "term": "ルで",
       "count": 8
     },
     {
-      "term": "メタデー",
-      "count": 8
-    },
-    {
-      "term": "における",
+      "term": "漏洩",
       "count": 7
     },
     {
-      "term": "の信",
+      "term": "脆弱性管",
       "count": 7
     },
     {
-      "term": "にな",
+      "term": "略す",
       "count": 7
     },
     {
-      "term": "スの",
+      "term": "のよ",
       "count": 7
     },
     {
-      "term": "ェッ",
-      "count": 7
-    },
-    {
-      "term": "図 ",
-      "count": 7
-    },
-    {
-      "term": "セキ",
+      "term": "的な",
       "count": 6
     },
     {
-      "term": "含む",
+      "term": "スを",
       "count": 6
     },
     {
-      "term": "具体",
-      "count": 6
-    },
-    {
-      "term": "よる",
-      "count": 6
-    },
-    {
-      "term": "ジと",
+      "term": "等の",
       "count": 6
     },
     {
@@ -142,63 +146,59 @@
       "count": 6
     },
     {
+      "term": "ンテナイ",
+      "count": 6
+    },
+    {
+      "term": "複数",
+      "count": 6
+    },
+    {
+      "term": "ムは",
+      "count": 6
+    },
+    {
+      "term": "うこ",
+      "count": 6
+    },
+    {
       "term": "完全",
       "count": 6
     },
     {
-      "term": "保で",
+      "term": "の連",
       "count": 6
     },
     {
-      "term": "のg",
+      "term": "ref",
       "count": 6
     },
     {
-      "term": "の変",
+      "term": "and",
       "count": 6
     },
     {
-      "term": "とし",
+      "term": "えて",
       "count": 6
     },
     {
-      "term": "合は",
-      "count": 6
-    },
-    {
-      "term": "に加",
-      "count": 6
-    },
-    {
-      "term": "実装",
+      "term": "26",
       "count": 5
     },
     {
-      "term": "運用保守",
+      "term": "ることを",
       "count": 5
     },
     {
-      "term": "クレ",
+      "term": "を想",
       "count": 5
     },
     {
-      "term": "ード",
+      "term": "れば",
       "count": 5
     },
     {
-      "term": "に保",
-      "count": 5
-    },
-    {
-      "term": "ンa",
-      "count": 5
-    },
-    {
-      "term": "にも",
-      "count": 5
-    },
-    {
-      "term": "態で",
+      "term": "チームが",
       "count": 5
     }
   ],
