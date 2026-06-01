@@ -735,5 +735,27 @@
     "date": "2023-07-04",
     "collected_at": "2026-05-22T11:48:11.352549",
     "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/95082b225d2ff308ce1956b617a4374f.pdf"
+  },
+  {
+    "id": "5b600e61af8b55db75e345ef9cfdd6a5",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "DS-671.1 ユーザビリティ導入ガイドブック（PDF／10,432KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a39265b7/20260601_introduction_to_usability.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2026-06-01T15:27:00.389533",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/5b600e61af8b55db75e345ef9cfdd6a5.pdf"
+  },
+  {
+    "id": "88f5df0a661f0812e0637ddd1ab9d5b3",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "DS-672.1 ウェブアクセシビリティ広報向けガイドブック（PDF／9,287KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/6090aefa/20260601_web_accessibility_guide_for_public_relations.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2026-06-01T15:27:00.389730",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/88f5df0a661f0812e0637ddd1ab9d5b3.pdf"
   }
 ]
