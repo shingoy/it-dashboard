@@ -2,175 +2,131 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "github",
-      "count": 24
+      "term": "する",
+      "count": 28
     },
     {
-      "term": "ある",
-      "count": 23
+      "term": "ため",
+      "count": 21
     },
     {
-      "term": "ビル",
+      "term": "図 ",
       "count": 19
     },
     {
-      "term": "した",
-      "count": 19
-    },
-    {
-      "term": "actions",
-      "count": 19
-    },
-    {
-      "term": "設定",
-      "count": 18
-    },
-    {
-      "term": "には",
+      "term": "物の",
       "count": 17
     },
     {
-      "term": "ない",
-      "count": 17
-    },
-    {
-      "term": "ーク",
+      "term": "また",
       "count": 15
     },
     {
-      "term": "ツー",
+      "term": "ルを",
       "count": 14
     },
     {
-      "term": "タデ",
-      "count": 14
-    },
-    {
-      "term": "られ",
+      "term": "ファ",
       "count": 13
     },
     {
-      "term": "のた",
+      "term": "ンテ",
       "count": 13
     },
     {
-      "term": "場合",
+      "term": "必要",
       "count": 13
     },
     {
-      "term": "パイプラ",
+      "term": "ファイル",
       "count": 12
     },
     {
-      "term": "存物",
+      "term": "れた",
+      "count": 12
+    },
+    {
+      "term": "steps",
+      "count": 12
+    },
+    {
+      "term": "につ",
       "count": 11
     },
     {
-      "term": "の実",
+      "term": "安全性の",
       "count": 11
-    },
-    {
-      "term": "ンを",
-      "count": 10
-    },
-    {
-      "term": "ci",
-      "count": 10
-    },
-    {
-      "term": "を用",
-      "count": 10
     },
     {
       "term": "push",
+      "count": 11
+    },
+    {
+      "term": "trivy",
       "count": 10
     },
     {
-      "term": "のリ",
+      "term": "は ",
+      "count": 10
+    },
+    {
+      "term": "体的",
       "count": 9
     },
     {
-      "term": "での",
+      "term": "バリ",
       "count": 9
     },
     {
-      "term": "の制",
+      "term": "た ",
       "count": 9
     },
     {
-      "term": "るが",
+      "term": "バー",
       "count": 9
     },
     {
-      "term": "action",
-      "count": 9
-    },
-    {
-      "term": "runs",
-      "count": 9
-    },
-    {
-      "term": "トに",
+      "term": "カル",
       "count": 8
     },
     {
-      "term": "主体",
+      "term": "リポ",
       "count": 8
     },
     {
-      "term": "フェーズ",
+      "term": "ング",
       "count": 8
     },
     {
-      "term": "書で",
+      "term": "のs",
       "count": 8
     },
     {
-      "term": "イメージ",
+      "term": "いう",
       "count": 8
     },
     {
-      "term": "用し",
-      "count": 8
-    },
-    {
-      "term": "メタデー",
-      "count": 8
-    },
-    {
-      "term": "にお",
+      "term": "依存物の",
       "count": 7
     },
     {
-      "term": "るま",
+      "term": "全性",
       "count": 7
     },
     {
-      "term": "ソフ",
+      "term": "定義",
       "count": 7
     },
     {
-      "term": "れて",
+      "term": "連携",
       "count": 7
     },
     {
-      "term": "docker",
+      "term": "がある",
       "count": 7
     },
     {
-      "term": "記述",
-      "count": 7
-    },
-    {
-      "term": "cosign",
-      "count": 7
-    },
-    {
-      "term": "rulesets",
-      "count": 7
-    },
-    {
-      "term": "to",
+      "term": "次に",
       "count": 7
     },
     {
@@ -178,7 +134,51 @@
       "count": 7
     },
     {
-      "term": "amazon",
+      "term": "uses",
+      "count": 7
+    },
+    {
+      "term": "通し",
+      "count": 6
+    },
+    {
+      "term": "フォ",
+      "count": 6
+    },
+    {
+      "term": "における",
+      "count": 6
+    },
+    {
+      "term": "行範",
+      "count": 6
+    },
+    {
+      "term": "たt",
+      "count": 6
+    },
+    {
+      "term": "たコ",
+      "count": 6
+    },
+    {
+      "term": "タデータ",
+      "count": 6
+    },
+    {
+      "term": "アカ",
+      "count": 6
+    },
+    {
+      "term": "ムに",
+      "count": 6
+    },
+    {
+      "term": "キャ",
+      "count": 6
+    },
+    {
+      "term": "るよ",
       "count": 6
     },
     {
@@ -186,20 +186,20 @@
       "count": 6
     },
     {
-      "term": "を必",
+      "term": "用可",
       "count": 6
     },
     {
-      "term": "権限",
-      "count": 6
+      "term": "産管",
+      "count": 5
     },
     {
-      "term": "る ",
-      "count": 6
+      "term": "をも",
+      "count": 5
     },
     {
-      "term": "steps",
-      "count": 6
+      "term": "イダ",
+      "count": 5
     }
   ],
   "meetings": [
