@@ -2,71 +2,71 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "れる",
-      "count": 23
+      "term": "ファ",
+      "count": 20
     },
     {
-      "term": "イン",
-      "count": 22
+      "term": "ライ",
+      "count": 19
     },
     {
-      "term": "パイ",
-      "count": 21
+      "term": "とし",
+      "count": 18
     },
     {
-      "term": "れた",
-      "count": 16
-    },
-    {
-      "term": "信頼",
+      "term": "に ",
       "count": 15
     },
     {
-      "term": "メタ",
+      "term": "フォ",
       "count": 15
     },
     {
-      "term": "プロ",
+      "term": "から",
+      "count": 15
+    },
+    {
+      "term": "略 ",
       "count": 14
     },
     {
-      "term": "ルを",
-      "count": 14
-    },
-    {
-      "term": "頼性",
+      "term": "にお",
       "count": 13
     },
     {
-      "term": "ータ",
-      "count": 13
-    },
-    {
-      "term": "場合",
-      "count": 13
-    },
-    {
-      "term": "的に",
+      "term": "シークレ",
       "count": 12
     },
     {
-      "term": "取得",
+      "term": "つい",
       "count": 11
     },
     {
-      "term": "具体",
+      "term": "成果物の",
+      "count": 11
+    },
+    {
+      "term": "よる",
       "count": 10
     },
     {
-      "term": "git",
+      "term": "スキ",
       "count": 10
     },
     {
-      "term": "ック",
+      "term": "いた",
+      "count": 10
+    },
+    {
+      "term": "メタ",
+      "count": 10
+    },
+    {
+      "term": "策 ",
       "count": 9
     },
     {
-      "term": "ロー",
+      "term": "に関",
       "count": 9
     },
     {
@@ -74,23 +74,27 @@
       "count": 9
     },
     {
-      "term": "それ",
+      "term": "より",
       "count": 9
     },
     {
-      "term": "アク",
+      "term": "とい",
       "count": 9
     },
     {
-      "term": "リス",
+      "term": "with",
+      "count": 9
+    },
+    {
+      "term": "での実行",
       "count": 8
     },
     {
-      "term": "るそ",
+      "term": "性が",
       "count": 8
     },
     {
-      "term": "が考",
+      "term": "ルで",
       "count": 8
     },
     {
@@ -98,108 +102,104 @@
       "count": 7
     },
     {
-      "term": "確保",
+      "term": "関す",
       "count": 7
     },
     {
-      "term": "る主",
+      "term": "ロー",
       "count": 7
     },
     {
-      "term": "すべ",
+      "term": "の仕",
       "count": 7
     },
     {
-      "term": "性が",
+      "term": "ド上",
       "count": 7
     },
     {
-      "term": "ンb",
+      "term": "特有",
       "count": 7
     },
     {
-      "term": "はg",
+      "term": "ると",
       "count": 7
     },
     {
-      "term": "クセ",
+      "term": "もの",
       "count": 7
     },
     {
-      "term": "name",
+      "term": "記述",
       "count": 7
     },
     {
-      "term": "定の",
+      "term": "ークレッ",
       "count": 7
     },
     {
-      "term": "加え",
+      "term": "rulesets",
       "count": 7
     },
     {
-      "term": "ート",
+      "term": "ーと",
+      "count": 7
+    },
+    {
+      "term": "図 ",
+      "count": 7
+    },
+    {
+      "term": "混入",
+      "count": 7
+    },
+    {
+      "term": "メン",
       "count": 6
     },
     {
-      "term": "28",
+      "term": "スコ",
       "count": 6
     },
     {
-      "term": "たコ",
+      "term": "24",
       "count": 6
     },
     {
-      "term": "ジを",
+      "term": "の取",
       "count": 6
     },
     {
-      "term": "ェッ",
+      "term": "要がある",
       "count": 6
     },
     {
-      "term": "策に",
+      "term": "にて",
       "count": 6
     },
     {
-      "term": "省略する",
+      "term": "はプ",
       "count": 6
     },
     {
-      "term": "される",
+      "term": "検証",
       "count": 6
     },
     {
-      "term": "ても",
+      "term": "ズで",
       "count": 6
     },
     {
-      "term": "tf",
+      "term": "可能",
       "count": 6
     },
     {
-      "term": "る ",
+      "term": "github",
       "count": 6
     },
     {
-      "term": "用者",
-      "count": 5
-    },
-    {
-      "term": "実装",
-      "count": 5
-    },
-    {
-      "term": "む運",
-      "count": 5
-    },
-    {
-      "term": "用保",
-      "count": 5
-    },
-    {
-      "term": "内容",
-      "count": 5
+      "term": "steps",
+      "count": 6
     }
   ],
   "meetings": [
