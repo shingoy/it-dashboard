@@ -2,51 +2,95 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ファ",
-      "count": 20
+      "term": "され",
+      "count": 27
     },
     {
-      "term": "ライ",
-      "count": 19
+      "term": "ある",
+      "count": 25
     },
     {
-      "term": "とし",
-      "count": 18
+      "term": "ーム",
+      "count": 17
     },
     {
-      "term": "に ",
+      "term": "cd",
       "count": 15
     },
     {
-      "term": "フォ",
+      "term": "とな",
       "count": 15
     },
     {
-      "term": "から",
+      "term": "ナイ",
       "count": 15
     },
     {
-      "term": "略 ",
+      "term": "イメ",
+      "count": 15
+    },
+    {
+      "term": "ない",
+      "count": 15
+    },
+    {
+      "term": "ルを",
       "count": 14
     },
     {
-      "term": "にお",
+      "term": "ース",
       "count": 13
     },
     {
-      "term": "シークレ",
+      "term": "があ",
+      "count": 13
+    },
+    {
+      "term": "にお",
       "count": 12
     },
     {
-      "term": "つい",
+      "term": "ーの",
+      "count": 12
+    },
+    {
+      "term": "ズの",
       "count": 11
     },
     {
-      "term": "成果物の",
+      "term": "チームの",
       "count": 11
     },
     {
-      "term": "よる",
+      "term": "ecr",
+      "count": 11
+    },
+    {
+      "term": "可能",
+      "count": 11
+    },
+    {
+      "term": "加え",
+      "count": 11
+    },
+    {
+      "term": "を含",
+      "count": 10
+    },
+    {
+      "term": "保 ",
+      "count": 10
+    },
+    {
+      "term": "クレ",
+      "count": 10
+    },
+    {
+      "term": "性を",
+      "count": 10
+    },
+    {
+      "term": "git",
       "count": 10
     },
     {
@@ -54,151 +98,107 @@
       "count": 10
     },
     {
-      "term": "いた",
+      "term": "でき",
       "count": 10
-    },
-    {
-      "term": "メタ",
-      "count": 10
-    },
-    {
-      "term": "策 ",
-      "count": 9
-    },
-    {
-      "term": "に関",
-      "count": 9
     },
     {
       "term": "トウ",
       "count": 9
     },
     {
-      "term": "より",
+      "term": "ービ",
       "count": 9
     },
     {
-      "term": "とい",
+      "term": "runs",
       "count": 9
+    },
+    {
+      "term": "ubuntu",
+      "count": 9
+    },
+    {
+      "term": "トを",
+      "count": 8
+    },
+    {
+      "term": "ェッ",
+      "count": 8
+    },
+    {
+      "term": "が考",
+      "count": 8
+    },
+    {
+      "term": "のメ",
+      "count": 8
+    },
+    {
+      "term": "して",
+      "count": 8
+    },
+    {
+      "term": "ムチ",
+      "count": 7
+    },
+    {
+      "term": "れば",
+      "count": 7
     },
     {
       "term": "with",
-      "count": 9
-    },
-    {
-      "term": "での実行",
-      "count": 8
-    },
-    {
-      "term": "性が",
-      "count": 8
-    },
-    {
-      "term": "ルで",
-      "count": 8
-    },
-    {
-      "term": "リ及",
       "count": 7
     },
     {
-      "term": "関す",
+      "term": "type",
       "count": 7
+    },
+    {
+      "term": "セキ",
+      "count": 6
+    },
+    {
+      "term": "ド管",
+      "count": 6
+    },
+    {
+      "term": "詳細",
+      "count": 6
+    },
+    {
+      "term": "ョン",
+      "count": 6
+    },
+    {
+      "term": "つい",
+      "count": 6
+    },
+    {
+      "term": "ード",
+      "count": 6
     },
     {
       "term": "ロー",
-      "count": 7
-    },
-    {
-      "term": "の仕",
-      "count": 7
-    },
-    {
-      "term": "ド上",
-      "count": 7
-    },
-    {
-      "term": "特有",
-      "count": 7
-    },
-    {
-      "term": "ると",
-      "count": 7
-    },
-    {
-      "term": "もの",
-      "count": 7
-    },
-    {
-      "term": "記述",
-      "count": 7
-    },
-    {
-      "term": "ークレッ",
-      "count": 7
-    },
-    {
-      "term": "rulesets",
-      "count": 7
-    },
-    {
-      "term": "ーと",
-      "count": 7
-    },
-    {
-      "term": "図 ",
-      "count": 7
-    },
-    {
-      "term": "混入",
-      "count": 7
-    },
-    {
-      "term": "メン",
       "count": 6
     },
     {
-      "term": "スコ",
+      "term": "フ ",
       "count": 6
     },
     {
-      "term": "24",
+      "term": "主体",
       "count": 6
     },
     {
-      "term": "の取",
+      "term": "とも",
       "count": 6
     },
     {
-      "term": "要がある",
+      "term": "and",
       "count": 6
     },
     {
-      "term": "にて",
-      "count": 6
-    },
-    {
-      "term": "はプ",
-      "count": 6
-    },
-    {
-      "term": "検証",
-      "count": 6
-    },
-    {
-      "term": "ズで",
-      "count": 6
-    },
-    {
-      "term": "可能",
-      "count": 6
-    },
-    {
-      "term": "github",
-      "count": 6
-    },
-    {
-      "term": "steps",
+      "term": "はパ",
       "count": 6
     }
   ],
