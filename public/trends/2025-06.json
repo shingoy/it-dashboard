@@ -2,119 +2,175 @@
   "month": "2025-06",
   "keywords": [
     {
+      "term": "る ",
+      "count": 27
+    },
+    {
+      "term": "した",
+      "count": 24
+    },
+    {
       "term": "るこ",
       "count": 24
     },
     {
-      "term": "イル",
+      "term": "ため",
       "count": 20
     },
     {
-      "term": "ビル",
-      "count": 19
+      "term": "構成",
+      "count": 17
     },
     {
-      "term": "に ",
+      "term": "デー",
+      "count": 17
+    },
+    {
+      "term": "プラ",
       "count": 15
     },
     {
-      "term": "イメ",
-      "count": 15
-    },
-    {
-      "term": "ンテ",
-      "count": 15
-    },
-    {
-      "term": "る必",
+      "term": "ーク",
       "count": 14
     },
     {
-      "term": "この",
+      "term": "全性",
       "count": 14
     },
     {
-      "term": "ある",
+      "term": "られ",
+      "count": 14
+    },
+    {
+      "term": "必要",
+      "count": 14
+    },
+    {
+      "term": "の成",
       "count": 13
     },
     {
-      "term": "シークレ",
+      "term": "場合",
+      "count": 13
+    },
+    {
+      "term": "これ",
       "count": 12
     },
     {
-      "term": "プラット",
+      "term": "スチ",
       "count": 11
     },
     {
-      "term": "依存",
-      "count": 11
-    },
-    {
-      "term": "https",
-      "count": 11
-    },
-    {
-      "term": "保 ",
+      "term": "ナイ",
       "count": 10
     },
     {
-      "term": "trivy",
+      "term": "こと",
       "count": 10
     },
     {
-      "term": "性管",
+      "term": "ソースコ",
       "count": 9
     },
     {
-      "term": "ズの",
+      "term": "の担",
       "count": 9
     },
     {
-      "term": "以外",
+      "term": "ーを",
       "count": 9
     },
     {
-      "term": "利用",
+      "term": "に関",
       "count": 8
     },
     {
-      "term": "スク",
+      "term": "の確",
       "count": 8
     },
     {
-      "term": "を取",
+      "term": "主体",
       "count": 8
+    },
+    {
+      "term": "有の",
+      "count": 8
+    },
+    {
+      "term": "バイ",
+      "count": 8
+    },
+    {
+      "term": "トを",
+      "count": 8
+    },
+    {
+      "term": "ubuntu",
+      "count": 8
+    },
+    {
+      "term": "リ及",
+      "count": 7
+    },
+    {
+      "term": "示す",
+      "count": 7
+    },
+    {
+      "term": "リテ",
+      "count": 7
     },
     {
       "term": "性が",
       "count": 7
     },
     {
-      "term": "行範",
+      "term": "version",
       "count": 7
     },
     {
-      "term": "ーを",
+      "term": "れば",
       "count": 7
     },
     {
-      "term": "registry",
+      "term": "がある",
       "count": 7
     },
     {
-      "term": "ため",
+      "term": "to",
       "count": 7
     },
     {
-      "term": "type",
+      "term": "とは",
       "count": 7
+    },
+    {
+      "term": "開発",
+      "count": 6
     },
     {
       "term": "詳細",
       "count": 6
     },
     {
-      "term": "供す",
+      "term": "ビルドフ",
+      "count": 6
+    },
+    {
+      "term": "ージ",
+      "count": 6
+    },
+    {
+      "term": "スを",
+      "count": 6
+    },
+    {
+      "term": "を ",
+      "count": 6
+    },
+    {
+      "term": "イダ",
       "count": 6
     },
     {
@@ -122,7 +178,15 @@
       "count": 6
     },
     {
-      "term": "はプ",
+      "term": "方法",
+      "count": 6
+    },
+    {
+      "term": "取り",
+      "count": 6
+    },
+    {
+      "term": "の連",
       "count": 6
     },
     {
@@ -130,76 +194,12 @@
       "count": 6
     },
     {
-      "term": "ンバ",
+      "term": "影響",
       "count": 6
     },
     {
-      "term": "レビ",
+      "term": "作成",
       "count": 6
-    },
-    {
-      "term": "ref",
-      "count": 6
-    },
-    {
-      "term": "image",
-      "count": 6
-    },
-    {
-      "term": "tf",
-      "count": 6
-    },
-    {
-      "term": "る ",
-      "count": 6
-    },
-    {
-      "term": "ビス",
-      "count": 6
-    },
-    {
-      "term": "format",
-      "count": 6
-    },
-    {
-      "term": "に加",
-      "count": 6
-    },
-    {
-      "term": "とに",
-      "count": 5
-    },
-    {
-      "term": "シナ",
-      "count": 5
-    },
-    {
-      "term": "する",
-      "count": 5
-    },
-    {
-      "term": "ロー",
-      "count": 5
-    },
-    {
-      "term": "とを",
-      "count": 5
-    },
-    {
-      "term": "を想",
-      "count": 5
-    },
-    {
-      "term": "イン特有",
-      "count": 5
-    },
-    {
-      "term": "頼で",
-      "count": 5
-    },
-    {
-      "term": "るサ",
-      "count": 5
     }
   ],
   "meetings": [
