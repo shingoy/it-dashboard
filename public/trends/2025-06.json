@@ -2,135 +2,115 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "る ",
-      "count": 27
-    },
-    {
-      "term": "した",
-      "count": 24
-    },
-    {
-      "term": "るこ",
-      "count": 24
-    },
-    {
-      "term": "ため",
+      "term": "リポ",
       "count": 20
     },
     {
-      "term": "構成",
-      "count": 17
+      "term": "実行",
+      "count": 16
     },
     {
-      "term": "デー",
-      "count": 17
+      "term": "れた",
+      "count": 16
     },
     {
-      "term": "プラ",
+      "term": "cd",
       "count": 15
     },
     {
-      "term": "ーク",
+      "term": "メタ",
+      "count": 15
+    },
+    {
+      "term": "によ",
       "count": 14
     },
     {
-      "term": "全性",
-      "count": 14
-    },
-    {
-      "term": "られ",
-      "count": 14
-    },
-    {
-      "term": "必要",
-      "count": 14
-    },
-    {
-      "term": "の成",
+      "term": "trivy",
       "count": 13
     },
     {
-      "term": "場合",
+      "term": "tf",
       "count": 13
     },
     {
-      "term": "これ",
+      "term": "コン",
       "count": 12
     },
     {
-      "term": "スチ",
-      "count": 11
-    },
-    {
-      "term": "ナイ",
+      "term": "対策",
       "count": 10
     },
     {
-      "term": "こと",
+      "term": "範囲",
       "count": 10
     },
     {
-      "term": "ソースコ",
+      "term": "スキ",
+      "count": 10
+    },
+    {
+      "term": "jobs",
+      "count": 10
+    },
+    {
+      "term": "ムチ",
       "count": 9
     },
     {
-      "term": "の担",
+      "term": "ービ",
       "count": 9
     },
     {
-      "term": "ーを",
+      "term": "ムが",
       "count": 9
     },
     {
-      "term": "に関",
+      "term": "る図",
+      "count": 9
+    },
+    {
+      "term": "シス",
       "count": 8
     },
     {
-      "term": "の確",
+      "term": "デリ",
       "count": 8
     },
     {
-      "term": "主体",
+      "term": "の取",
       "count": 8
     },
     {
-      "term": "有の",
+      "term": "下の",
       "count": 8
     },
     {
-      "term": "バイ",
+      "term": "作成",
       "count": 8
     },
     {
-      "term": "トを",
+      "term": "組み",
       "count": 8
     },
     {
-      "term": "ubuntu",
-      "count": 8
-    },
-    {
-      "term": "リ及",
+      "term": "トフ",
       "count": 7
     },
     {
-      "term": "示す",
+      "term": "イナ",
       "count": 7
     },
     {
-      "term": "リテ",
+      "term": "plan",
       "count": 7
     },
     {
-      "term": "性が",
+      "term": "コンテナ",
       "count": 7
     },
     {
-      "term": "version",
-      "count": 7
-    },
-    {
-      "term": "れば",
+      "term": "成さ",
       "count": 7
     },
     {
@@ -138,23 +118,27 @@
       "count": 7
     },
     {
-      "term": "to",
+      "term": "いこ",
       "count": 7
     },
     {
-      "term": "とは",
+      "term": "ーに",
       "count": 7
     },
     {
-      "term": "開発",
-      "count": 6
+      "term": "強制",
+      "count": 7
     },
     {
-      "term": "詳細",
-      "count": 6
+      "term": "push",
+      "count": 7
     },
     {
-      "term": "ビルドフ",
+      "term": "図 ",
+      "count": 7
+    },
+    {
+      "term": "ド成",
       "count": 6
     },
     {
@@ -162,44 +146,60 @@
       "count": 6
     },
     {
-      "term": "スを",
+      "term": "物と",
       "count": 6
     },
     {
-      "term": "を ",
+      "term": "記述",
       "count": 6
     },
     {
-      "term": "イダ",
+      "term": "なる",
       "count": 6
     },
     {
-      "term": "codebuild",
+      "term": "amazon",
       "count": 6
     },
     {
-      "term": "方法",
+      "term": "ても",
       "count": 6
     },
     {
-      "term": "取り",
+      "term": "steps",
       "count": 6
     },
     {
-      "term": "の連",
+      "term": "を指",
       "count": 6
     },
     {
-      "term": "の変",
+      "term": "えて",
       "count": 6
     },
     {
-      "term": "影響",
+      "term": "env",
       "count": 6
     },
     {
-      "term": "作成",
+      "term": "predicate",
       "count": 6
+    },
+    {
+      "term": "は３",
+      "count": 5
+    },
+    {
+      "term": "について",
+      "count": 5
+    },
+    {
+      "term": "有効",
+      "count": 5
+    },
+    {
+      "term": "チームが",
+      "count": 5
     }
   ],
   "meetings": [
