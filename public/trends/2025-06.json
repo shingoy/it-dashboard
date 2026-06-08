@@ -2,204 +2,204 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "プラ",
+      "term": "図 ",
       "count": 26
     },
     {
-      "term": "する",
-      "count": 24
-    },
-    {
-      "term": "構成",
-      "count": 21
-    },
-    {
-      "term": "パイプラ",
+      "term": "actions",
       "count": 19
     },
     {
-      "term": "ール",
-      "count": 18
+      "term": "aws",
+      "count": 19
     },
     {
-      "term": "ビル",
+      "term": "ービ",
       "count": 16
     },
     {
-      "term": "よう",
+      "term": "ムチ",
       "count": 15
     },
     {
-      "term": "ージ",
-      "count": 14
+      "term": "ロー",
+      "count": 15
     },
     {
-      "term": "メー",
+      "term": "ータ",
+      "count": 15
+    },
+    {
+      "term": "ソースコ",
+      "count": 13
+    },
+    {
+      "term": "中略",
+      "count": 13
+    },
+    {
+      "term": "ンを",
       "count": 12
     },
     {
-      "term": "安全性の",
+      "term": "とで",
+      "count": 12
+    },
+    {
+      "term": "確認",
+      "count": 12
+    },
+    {
+      "term": "内容",
       "count": 11
     },
     {
-      "term": "push",
-      "count": 11
-    },
-    {
-      "term": "ブラ",
+      "term": "取得",
       "count": 10
     },
     {
-      "term": "よる",
+      "term": "の安",
       "count": 10
     },
     {
-      "term": "し ",
+      "term": "スキ",
       "count": 10
     },
     {
-      "term": "的に",
-      "count": 10
-    },
-    {
-      "term": "env",
-      "count": 10
-    },
-    {
-      "term": "具体",
+      "term": "ズの",
       "count": 9
     },
     {
-      "term": "デリ",
+      "term": "およ",
       "count": 9
     },
     {
-      "term": "れて",
+      "term": "に対",
       "count": 9
     },
     {
-      "term": "以外",
-      "count": 9
-    },
-    {
-      "term": "ナイ",
-      "count": 9
-    },
-    {
-      "term": "ンa",
-      "count": 9
-    },
-    {
-      "term": "ョン",
+      "term": "での実行",
       "count": 8
     },
     {
-      "term": "定内",
+      "term": "囲の",
       "count": 8
     },
     {
-      "term": "での",
+      "term": "らの",
       "count": 8
     },
     {
-      "term": "スト",
+      "term": "下の",
       "count": 8
     },
     {
-      "term": "ウェ",
+      "term": "ング",
       "count": 8
     },
     {
-      "term": "作成",
+      "term": "trivy",
       "count": 8
     },
     {
-      "term": "こで",
+      "term": "ーに",
       "count": 8
     },
     {
-      "term": "が考",
-      "count": 8
-    },
-    {
-      "term": "強制",
-      "count": 8
-    },
-    {
-      "term": "設定",
-      "count": 8
-    },
-    {
-      "term": "組織",
+      "term": "考えられ",
       "count": 7
     },
     {
-      "term": "イナ",
+      "term": "ーテ",
       "count": 7
     },
     {
-      "term": "もの",
+      "term": "省略",
       "count": 7
     },
     {
-      "term": "plan",
+      "term": "ァイ",
       "count": 7
     },
     {
-      "term": "され",
+      "term": "とは",
       "count": 7
     },
     {
-      "term": "具体的な",
+      "term": "めに",
       "count": 6
     },
     {
-      "term": "を示",
+      "term": "よび",
       "count": 6
     },
     {
-      "term": "ォー",
+      "term": "スを",
       "count": 6
     },
     {
-      "term": "等の",
+      "term": "複数",
       "count": 6
     },
     {
-      "term": "内の",
+      "term": "方法",
       "count": 6
     },
     {
-      "term": "要がある",
+      "term": "クト",
       "count": 6
     },
     {
-      "term": "cosign",
+      "term": "る ",
       "count": 6
     },
     {
-      "term": "ジの",
+      "term": "tf",
       "count": 6
     },
     {
-      "term": "ない",
+      "term": "steps",
       "count": 6
     },
     {
-      "term": "image",
+      "term": "に加",
       "count": 6
     },
     {
-      "term": "られ",
-      "count": 6
+      "term": "とに",
+      "count": 5
     },
     {
-      "term": "ド設",
-      "count": 6
+      "term": "リテ",
+      "count": 5
     },
     {
-      "term": "predicate",
-      "count": 6
+      "term": "ード",
+      "count": 5
+    },
+    {
+      "term": "ることを",
+      "count": 5
+    },
+    {
+      "term": "を想",
+      "count": 5
+    },
+    {
+      "term": "べき",
+      "count": 5
+    },
+    {
+      "term": "配布",
+      "count": 5
+    },
+    {
+      "term": "の成果物",
+      "count": 5
+    },
+    {
+      "term": "は省",
+      "count": 5
     }
   ],
   "meetings": [
