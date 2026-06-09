@@ -2,67 +2,63 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "リポ",
+      "term": "プラ",
+      "count": 26
+    },
+    {
+      "term": "ジト",
       "count": 20
     },
     {
-      "term": "ため",
-      "count": 17
+      "term": "ァイ",
+      "count": 19
     },
     {
-      "term": "保護",
+      "term": "ール",
+      "count": 18
+    },
+    {
+      "term": "ービ",
       "count": 16
     },
     {
-      "term": "ビス",
+      "term": "れる",
       "count": 16
     },
     {
-      "term": "スコ",
-      "count": 14
+      "term": "ーム",
+      "count": 15
     },
     {
-      "term": "られ",
-      "count": 14
-    },
-    {
-      "term": "があ",
-      "count": 14
-    },
-    {
-      "term": "ては",
-      "count": 14
-    },
-    {
-      "term": "った",
-      "count": 14
-    },
-    {
-      "term": "いる",
-      "count": 13
-    },
-    {
-      "term": "る図",
-      "count": 13
-    },
-    {
-      "term": "id",
-      "count": 13
-    },
-    {
-      "term": "タデ",
+      "term": "レッ",
       "count": 12
     },
     {
-      "term": "可能",
+      "term": "対策",
       "count": 12
     },
     {
-      "term": "プラット",
+      "term": "ムチ",
+      "count": 12
+    },
+    {
+      "term": "はc",
       "count": 11
     },
     {
-      "term": "環境",
+      "term": "つい",
+      "count": 11
+    },
+    {
+      "term": "定す",
+      "count": 11
+    },
+    {
+      "term": "確認",
+      "count": 11
+    },
+    {
+      "term": "可能",
       "count": 11
     },
     {
@@ -70,107 +66,95 @@
       "count": 10
     },
     {
-      "term": "ナリ",
+      "term": "チェ",
       "count": 10
     },
     {
-      "term": "ー ",
+      "term": "を用",
       "count": 10
     },
     {
-      "term": "ファイル",
+      "term": "イメージ",
       "count": 10
     },
     {
-      "term": "trivy",
-      "count": 10
-    },
-    {
-      "term": "は ",
-      "count": 10
-    },
-    {
-      "term": "脆弱性管",
+      "term": "に関",
       "count": 9
     },
     {
-      "term": "対策",
+      "term": "ック",
       "count": 9
     },
     {
-      "term": "ムチ",
+      "term": "成さ",
       "count": 9
     },
     {
-      "term": "より",
+      "term": "リの",
       "count": 9
     },
     {
-      "term": "テナ",
-      "count": 9
-    },
-    {
-      "term": "含む",
+      "term": "ョン",
       "count": 8
     },
     {
-      "term": "ソフ",
+      "term": "ムの",
       "count": 8
     },
     {
-      "term": "特有",
+      "term": "スク",
       "count": 8
     },
     {
-      "term": "らの",
+      "term": "書で",
       "count": 8
     },
     {
-      "term": "の管",
+      "term": "ェッ",
       "count": 8
     },
     {
-      "term": "して",
+      "term": "いう",
       "count": 8
     },
     {
-      "term": "リテ",
+      "term": "com",
+      "count": 8
+    },
+    {
+      "term": "する",
+      "count": 8
+    },
+    {
+      "term": "自動",
       "count": 7
     },
     {
-      "term": "システム",
+      "term": "キャ",
       "count": 7
     },
     {
-      "term": "ダー",
+      "term": "ーと",
       "count": 7
     },
     {
-      "term": "ると",
-      "count": 7
+      "term": "開発",
+      "count": 6
     },
     {
-      "term": "トフォー",
-      "count": 7
+      "term": "ード管理",
+      "count": 6
     },
     {
-      "term": "ップ",
-      "count": 7
+      "term": "ト情",
+      "count": 6
     },
     {
-      "term": "はg",
-      "count": 7
+      "term": "詳細",
+      "count": 6
     },
     {
-      "term": "図 ",
-      "count": 7
-    },
-    {
-      "term": "name",
-      "count": 7
-    },
-    {
-      "term": "リ時",
+      "term": "運用",
       "count": 6
     },
     {
@@ -178,27 +162,43 @@
       "count": 6
     },
     {
-      "term": "はプ",
+      "term": "における",
       "count": 6
     },
     {
-      "term": "アッ",
+      "term": "ついては",
       "count": 6
     },
     {
-      "term": "省略する",
+      "term": "ップ",
       "count": 6
     },
     {
-      "term": "ーに",
+      "term": "以外",
       "count": 6
     },
     {
-      "term": "build",
+      "term": "でき",
       "count": 6
     },
     {
-      "term": "署名",
+      "term": "る ",
+      "count": 6
+    },
+    {
+      "term": "and",
+      "count": 6
+    },
+    {
+      "term": "合は",
+      "count": 6
+    },
+    {
+      "term": "検出",
+      "count": 6
+    },
+    {
+      "term": "えて",
       "count": 6
     }
   ],
