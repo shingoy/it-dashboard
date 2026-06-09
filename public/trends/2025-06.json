@@ -2,35 +2,27 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "てい",
-      "count": 21
-    },
-    {
-      "term": "果物",
+      "term": "リポ",
       "count": 20
     },
     {
-      "term": "ポジ",
-      "count": 19
-    },
-    {
-      "term": "して",
-      "count": 19
-    },
-    {
-      "term": "ース",
+      "term": "ため",
       "count": 17
     },
     {
-      "term": "物の",
-      "count": 17
-    },
-    {
-      "term": "ォー",
+      "term": "保護",
       "count": 16
     },
     {
-      "term": "ルを",
+      "term": "ビス",
+      "count": 16
+    },
+    {
+      "term": "スコ",
+      "count": 14
+    },
+    {
+      "term": "られ",
       "count": 14
     },
     {
@@ -38,39 +30,59 @@
       "count": 14
     },
     {
-      "term": "略 ",
+      "term": "ては",
       "count": 14
     },
     {
-      "term": "プロ",
+      "term": "った",
+      "count": 14
+    },
+    {
+      "term": "いる",
       "count": 13
     },
     {
-      "term": "とな",
+      "term": "る図",
       "count": 13
     },
     {
-      "term": "ラン",
+      "term": "id",
+      "count": 13
+    },
+    {
+      "term": "タデ",
       "count": 12
     },
     {
-      "term": "れら",
+      "term": "可能",
       "count": 12
     },
     {
-      "term": "つい",
+      "term": "プラット",
       "count": 11
     },
     {
-      "term": "を含",
+      "term": "環境",
+      "count": 11
+    },
+    {
+      "term": "code",
       "count": 10
     },
     {
-      "term": "ーズ",
+      "term": "ナリ",
       "count": 10
     },
     {
-      "term": "git",
+      "term": "ー ",
+      "count": 10
+    },
+    {
+      "term": "ファイル",
+      "count": 10
+    },
+    {
+      "term": "trivy",
       "count": 10
     },
     {
@@ -78,35 +90,35 @@
       "count": 10
     },
     {
-      "term": "とが",
-      "count": 10
-    },
-    {
-      "term": "のリ",
+      "term": "脆弱性管",
       "count": 9
     },
     {
-      "term": "おけ",
+      "term": "対策",
       "count": 9
     },
     {
-      "term": "そのため",
+      "term": "ムチ",
       "count": 9
     },
     {
-      "term": "ない",
+      "term": "より",
       "count": 9
     },
     {
-      "term": "ーカ",
+      "term": "テナ",
+      "count": 9
+    },
+    {
+      "term": "含む",
       "count": 8
     },
     {
-      "term": "テム",
+      "term": "ソフ",
       "count": 8
     },
     {
-      "term": "情報",
+      "term": "特有",
       "count": 8
     },
     {
@@ -118,35 +130,35 @@
       "count": 8
     },
     {
-      "term": "いう",
+      "term": "して",
       "count": 8
     },
     {
-      "term": "com",
-      "count": 8
-    },
-    {
-      "term": "ルで",
-      "count": 8
-    },
-    {
-      "term": "組み",
-      "count": 8
-    },
-    {
-      "term": "カル",
+      "term": "リテ",
       "count": 7
     },
     {
-      "term": "るま",
+      "term": "システム",
       "count": 7
     },
     {
-      "term": "を確",
+      "term": "ダー",
       "count": 7
     },
     {
-      "term": "いこ",
+      "term": "ると",
+      "count": 7
+    },
+    {
+      "term": "トフォー",
+      "count": 7
+    },
+    {
+      "term": "ップ",
+      "count": 7
+    },
+    {
+      "term": "はg",
       "count": 7
     },
     {
@@ -154,51 +166,39 @@
       "count": 7
     },
     {
-      "term": "混入",
+      "term": "name",
       "count": 7
     },
     {
-      "term": "ットの保",
+      "term": "リ時",
       "count": 6
     },
     {
-      "term": "詳細",
+      "term": "の保護",
       "count": 6
     },
     {
-      "term": "24",
+      "term": "はプ",
       "count": 6
     },
     {
-      "term": "信頼性の",
+      "term": "アッ",
       "count": 6
     },
     {
-      "term": "等の",
+      "term": "省略する",
       "count": 6
     },
     {
-      "term": "フ ",
+      "term": "ーに",
       "count": 6
     },
     {
-      "term": "ル ",
+      "term": "build",
       "count": 6
     },
     {
-      "term": "amazon",
-      "count": 6
-    },
-    {
-      "term": "影響",
-      "count": 6
-    },
-    {
-      "term": "ーと",
-      "count": 6
-    },
-    {
-      "term": "場合",
+      "term": "署名",
       "count": 6
     }
   ],

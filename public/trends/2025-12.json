@@ -2,151 +2,67 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "等の",
+      "term": "の抜",
       "count": 2
     },
     {
-      "term": "円の",
+      "term": "報通信基",
       "count": 2
     },
     {
-      "term": "の能動的",
+      "term": "スコ",
       "count": 2
     },
     {
-      "term": "グル",
+      "term": "ジタ",
+      "count": 2
+    },
+    {
+      "term": "推進",
+      "count": 2
+    },
+    {
+      "term": "ハイ",
+      "count": 2
+    },
+    {
+      "term": "ボの",
+      "count": 2
+    },
+    {
+      "term": "略的",
       "count": 1
     },
     {
-      "term": "地域",
+      "term": "を踏",
       "count": 1
     },
     {
-      "term": "価手",
+      "term": "リン",
       "count": 1
     },
     {
-      "term": "に係る調",
+      "term": "的推",
       "count": 1
     },
     {
-      "term": "供給加速",
+      "term": "針に分類",
       "count": 1
     },
     {
-      "term": "による科",
+      "term": "ニー",
       "count": 1
     },
     {
-      "term": "バメ",
+      "term": "と協働す",
       "count": 1
     },
     {
-      "term": "済を",
+      "term": "性向",
       "count": 1
     },
     {
-      "term": "を目",
-      "count": 1
-    },
-    {
-      "term": "出困",
-      "count": 1
-    },
-    {
-      "term": "速化",
-      "count": 1
-    },
-    {
-      "term": "総信",
-      "count": 1
-    },
-    {
-      "term": "地域金融",
-      "count": 1
-    },
-    {
-      "term": "502",
-      "count": 1
-    },
-    {
-      "term": "つい",
-      "count": 1
-    },
-    {
-      "term": "環等",
-      "count": 1
-    },
-    {
-      "term": "トベ",
-      "count": 1
-    },
-    {
-      "term": "ム新",
-      "count": 1
-    },
-    {
-      "term": "のデータ",
-      "count": 1
-    },
-    {
-      "term": "る総合経",
-      "count": 1
-    },
-    {
-      "term": "ごと",
-      "count": 1
-    },
-    {
-      "term": "る好",
-      "count": 1
-    },
-    {
-      "term": "テム",
-      "count": 1
-    },
-    {
-      "term": "代造",
-      "count": 1
-    },
-    {
-      "term": "部等",
-      "count": 1
-    },
-    {
-      "term": "が深い方",
-      "count": 1
-    },
-    {
-      "term": "犯罪",
-      "count": 1
-    },
-    {
-      "term": "ィン",
-      "count": 1
-    },
-    {
-      "term": "ル ",
-      "count": 1
-    },
-    {
-      "term": "内数",
-      "count": 1
-    },
-    {
-      "term": "総合",
-      "count": 1
-    },
-    {
-      "term": "えａ",
-      "count": 1
-    },
-    {
-      "term": "速的",
-      "count": 1
-    },
-    {
-      "term": "ォー",
+      "term": "四捨",
       "count": 1
     },
     {
@@ -154,43 +70,63 @@
       "count": 1
     },
     {
-      "term": "プロ",
+      "term": "基金の積",
       "count": 1
     },
     {
-      "term": "人材",
+      "term": "が深",
       "count": 1
     },
     {
-      "term": "創出",
+      "term": "ム新",
       "count": 1
     },
     {
-      "term": "カル",
+      "term": "の向",
       "count": 1
     },
     {
-      "term": "パフ",
+      "term": "製造業等",
       "count": 1
     },
     {
-      "term": "の労働生",
+      "term": "上を目的",
       "count": 1
     },
     {
-      "term": "面施",
+      "term": "化3",
       "count": 1
     },
     {
-      "term": "抽出",
+      "term": "な施",
       "count": 1
     },
     {
-      "term": "おけ",
+      "term": "協働",
       "count": 1
     },
     {
-      "term": "機関",
+      "term": "決定",
+      "count": 1
+    },
+    {
+      "term": "中小",
+      "count": 1
+    },
+    {
+      "term": "発促",
+      "count": 1
+    },
+    {
+      "term": "用実",
+      "count": 1
+    },
+    {
+      "term": "ロボ",
+      "count": 1
+    },
+    {
+      "term": "うａ",
       "count": 1
     },
     {
@@ -198,7 +134,71 @@
       "count": 1
     },
     {
-      "term": "けた継続",
+      "term": "aisi",
+      "count": 1
+    },
+    {
+      "term": "含む",
+      "count": 1
+    },
+    {
+      "term": "介護テク",
+      "count": 1
+    },
+    {
+      "term": "日本",
+      "count": 1
+    },
+    {
+      "term": "ラム",
+      "count": 1
+    },
+    {
+      "term": "経中",
+      "count": 1
+    },
+    {
+      "term": "クノ",
+      "count": 1
+    },
+    {
+      "term": "テク",
+      "count": 1
+    },
+    {
+      "term": "テストベ",
+      "count": 1
+    },
+    {
+      "term": "デガ",
+      "count": 1
+    },
+    {
+      "term": "入等",
+      "count": 1
+    },
+    {
+      "term": "の生",
+      "count": 1
+    },
+    {
+      "term": "605",
+      "count": 1
+    },
+    {
+      "term": "ウド",
+      "count": 1
+    },
+    {
+      "term": "の推進等",
+      "count": 1
+    },
+    {
+      "term": "インフラ",
+      "count": 1
+    },
+    {
+      "term": "建設",
       "count": 1
     }
   ],
