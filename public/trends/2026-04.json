@@ -2,179 +2,103 @@
   "month": "2026-04",
   "keywords": [
     {
-      "term": "スク",
+      "term": "議決",
       "count": 2
     },
     {
-      "term": "施策",
+      "term": "ションの",
       "count": 2
     },
     {
-      "term": "合的",
+      "term": "閣議",
       "count": 2
     },
     {
-      "term": "ず注",
+      "term": "まず",
       "count": 2
     },
     {
-      "term": "開発",
+      "term": "踏ま",
       "count": 2
     },
     {
-      "term": "活用",
-      "count": 2
-    },
-    {
-      "term": "予算総額",
-      "count": 2
-    },
-    {
-      "term": "事業費の",
-      "count": 2
-    },
-    {
-      "term": "関連予算",
-      "count": 2
-    },
-    {
-      "term": "行及",
-      "count": 2
-    },
-    {
-      "term": "に関",
-      "count": 2
-    },
-    {
-      "term": "令和",
-      "count": 2
-    },
-    {
-      "term": "ジタ",
-      "count": 2
-    },
-    {
-      "term": "モデ",
-      "count": 2
-    },
-    {
-      "term": "12",
-      "count": 2
-    },
-    {
-      "term": "いが",
+      "term": "的な",
       "count": 1
     },
     {
-      "term": "創薬",
+      "term": "社会に向",
       "count": 1
     },
     {
-      "term": "世代",
+      "term": "データ活",
       "count": 1
     },
     {
-      "term": "ルチ",
+      "term": "円革",
       "count": 1
     },
     {
-      "term": "高め",
+      "term": "クスの製",
       "count": 1
     },
     {
-      "term": "ロボット",
+      "term": "グイ",
       "count": 1
     },
     {
-      "term": "成確",
+      "term": "療機",
       "count": 1
     },
     {
-      "term": "盤モ",
+      "term": "クノロジ",
       "count": 1
     },
     {
-      "term": "護テ",
+      "term": "据え",
       "count": 1
     },
     {
-      "term": "スの開発",
+      "term": "ミッ",
       "count": 1
     },
     {
-      "term": "離職者及",
+      "term": "の育",
       "count": 1
     },
     {
-      "term": "練企",
+      "term": "はで",
       "count": 1
     },
     {
-      "term": "速化",
+      "term": "ノロ",
       "count": 1
     },
     {
-      "term": "発等の推",
+      "term": "通信",
       "count": 1
     },
     {
-      "term": "ァイ",
+      "term": "発等",
       "count": 1
     },
     {
-      "term": "活用の実",
+      "term": "いて",
       "count": 1
     },
     {
-      "term": "ーワ",
+      "term": "モー",
       "count": 1
     },
     {
-      "term": "画の",
+      "term": "盤b",
       "count": 1
     },
     {
-      "term": "野の人材",
+      "term": "等 ",
       "count": 1
     },
     {
-      "term": "基金の積",
-      "count": 1
-    },
-    {
-      "term": "ービ",
-      "count": 1
-    },
-    {
-      "term": "究向",
-      "count": 1
-    },
-    {
-      "term": "療従",
-      "count": 1
-    },
-    {
-      "term": "なａ",
-      "count": 1
-    },
-    {
-      "term": "施新",
-      "count": 1
-    },
-    {
-      "term": "つい",
-      "count": 1
-    },
-    {
-      "term": "産性",
-      "count": 1
-    },
-    {
-      "term": "い方",
-      "count": 1
-    },
-    {
-      "term": "ョン",
+      "term": "ークサー",
       "count": 1
     },
     {
@@ -182,23 +106,99 @@
       "count": 1
     },
     {
-      "term": "を用",
+      "term": "も実",
       "count": 1
     },
     {
-      "term": "ミナ",
+      "term": "たマ",
       "count": 1
     },
     {
-      "term": "予測",
+      "term": "ハローワ",
       "count": 1
     },
     {
-      "term": "ック",
+      "term": "ガバ",
       "count": 1
     },
     {
-      "term": "ーシ",
+      "term": "インフラ",
+      "count": 1
+    },
+    {
+      "term": "行及",
+      "count": 1
+    },
+    {
+      "term": "国約",
+      "count": 1
+    },
+    {
+      "term": "深い",
+      "count": 1
+    },
+    {
+      "term": "戦略的強",
+      "count": 1
+    },
+    {
+      "term": "権制度運",
+      "count": 1
+    },
+    {
+      "term": "ーマ",
+      "count": 1
+    },
+    {
+      "term": "社会",
+      "count": 1
+    },
+    {
+      "term": "協働",
+      "count": 1
+    },
+    {
+      "term": "利活用の",
+      "count": 1
+    },
+    {
+      "term": "含ま",
+      "count": 1
+    },
+    {
+      "term": "盤モ",
+      "count": 1
+    },
+    {
+      "term": "数の",
+      "count": 1
+    },
+    {
+      "term": "スの主導",
+      "count": 1
+    },
+    {
+      "term": "て離",
+      "count": 1
+    },
+    {
+      "term": "経約",
+      "count": 1
+    },
+    {
+      "term": "ず注",
+      "count": 1
+    },
+    {
+      "term": "在職",
+      "count": 1
+    },
+    {
+      "term": "連する主",
+      "count": 1
+    },
+    {
+      "term": "ベー",
       "count": 1
     }
   ],
