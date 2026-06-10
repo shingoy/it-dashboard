@@ -2,127 +2,123 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "して",
-      "count": 25
-    },
-    {
-      "term": "きる",
+      "term": "イン",
       "count": 22
     },
     {
-      "term": "こと",
-      "count": 22
-    },
-    {
-      "term": "トリ",
+      "term": "ール",
       "count": 20
     },
     {
-      "term": "ージ",
-      "count": 18
+      "term": "ビル",
+      "count": 19
     },
     {
-      "term": "リポ",
+      "term": "デー",
       "count": 17
     },
     {
-      "term": "的な",
-      "count": 15
+      "term": "によ",
+      "count": 16
     },
     {
-      "term": "いて",
+      "term": "また",
       "count": 14
     },
     {
-      "term": "られ",
+      "term": "よる",
       "count": 13
     },
     {
-      "term": "この",
-      "count": 13
-    },
-    {
-      "term": "対策",
+      "term": "ラン",
       "count": 12
     },
     {
-      "term": "ント",
+      "term": "れら",
       "count": 12
     },
     {
-      "term": "ファイル",
+      "term": "steps",
       "count": 12
     },
     {
-      "term": "はc",
+      "term": "チームの",
       "count": 11
     },
     {
-      "term": "ムチ",
+      "term": "のc",
       "count": 11
     },
     {
-      "term": "push",
+      "term": "取得",
       "count": 11
     },
     {
-      "term": "ー ",
+      "term": "る必",
+      "count": 11
+    },
+    {
+      "term": "およ",
       "count": 10
     },
     {
-      "term": "クを",
+      "term": "状態",
       "count": 10
     },
     {
-      "term": "サービス",
+      "term": "を取",
+      "count": 10
+    },
+    {
+      "term": "env",
+      "count": 10
+    },
+    {
+      "term": "バリ",
       "count": 9
     },
     {
-      "term": "アク",
+      "term": "成果物の",
       "count": 9
     },
     {
-      "term": "定内",
+      "term": "イメージ",
+      "count": 9
+    },
+    {
+      "term": "し ",
+      "count": 9
+    },
+    {
+      "term": "セス",
+      "count": 9
+    },
+    {
+      "term": "ロー",
       "count": 8
     },
     {
-      "term": "有の",
+      "term": "ビルド上",
       "count": 8
     },
     {
-      "term": "性が",
+      "term": "バイ",
       "count": 8
     },
     {
-      "term": "トを",
+      "term": "下の",
       "count": 8
     },
     {
-      "term": "強制",
-      "count": 8
-    },
-    {
-      "term": "commit",
-      "count": 8
-    },
-    {
-      "term": "リテ",
+      "term": "ローカル",
       "count": 7
     },
     {
-      "term": "ーム",
+      "term": "るま",
       "count": 7
     },
     {
-      "term": "ジト",
-      "count": 7
-    },
-    {
-      "term": "用す",
-      "count": 7
-    },
-    {
-      "term": "ーに",
+      "term": "こで",
       "count": 7
     },
     {
@@ -130,55 +126,71 @@
       "count": 7
     },
     {
-      "term": "が考",
+      "term": "とは",
       "count": 7
     },
     {
-      "term": "ステ",
+      "term": "仕組",
+      "count": 7
+    },
+    {
+      "term": "と同",
+      "count": 7
+    },
+    {
+      "term": "アカ",
       "count": 6
     },
     {
-      "term": "たが",
+      "term": "方法",
       "count": 6
     },
     {
-      "term": "タデータ",
+      "term": "repository",
       "count": 6
     },
     {
-      "term": "ここでは",
+      "term": "る ",
       "count": 6
     },
     {
-      "term": "こで",
+      "term": "ても",
       "count": 6
     },
     {
-      "term": "and",
+      "term": "を指",
       "count": 6
     },
     {
-      "term": "steps",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "predicate",
-      "count": 6
-    },
-    {
-      "term": "む運",
+      "term": "産管",
       "count": 5
     },
     {
-      "term": "リフ",
+      "term": "ト ",
       "count": 5
     },
     {
-      "term": "24",
+      "term": "トは",
       "count": 5
     },
     {
-      "term": "全性",
+      "term": "運用保守",
+      "count": 5
+    },
+    {
+      "term": "26",
+      "count": 5
+    },
+    {
+      "term": "理す",
+      "count": 5
+    },
+    {
+      "term": "ド成",
       "count": 5
     },
     {
@@ -186,19 +198,7 @@
       "count": 5
     },
     {
-      "term": "これは",
-      "count": 5
-    },
-    {
-      "term": "的に",
-      "count": 5
-    },
-    {
-      "term": "項で",
-      "count": 5
-    },
-    {
-      "term": "るg",
+      "term": "可能",
       "count": 5
     }
   ],
