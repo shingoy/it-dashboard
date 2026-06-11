@@ -2,55 +2,79 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "され",
-      "count": 27
-    },
-    {
-      "term": "イプ",
+      "term": "ード",
       "count": 21
     },
     {
-      "term": "ため",
+      "term": "管理",
       "count": 20
     },
     {
-      "term": "ファ",
+      "term": "ジト",
+      "count": 20
+    },
+    {
+      "term": "ポジ",
+      "count": 20
+    },
+    {
+      "term": "ァイ",
+      "count": 19
+    },
+    {
+      "term": "ール",
+      "count": 19
+    },
+    {
+      "term": "では",
+      "count": 19
+    },
+    {
+      "term": "保護",
       "count": 18
+    },
+    {
+      "term": "サー",
+      "count": 17
     },
     {
       "term": "name",
       "count": 17
     },
     {
-      "term": "パイプラ",
-      "count": 16
-    },
-    {
-      "term": "脆弱",
+      "term": "コー",
       "count": 15
     },
     {
-      "term": "フォ",
+      "term": "への",
       "count": 15
     },
     {
-      "term": "ライ",
+      "term": "内容",
       "count": 14
     },
     {
-      "term": "なる",
+      "term": "れる",
       "count": 14
     },
     {
-      "term": "ット",
-      "count": 13
+      "term": "こと",
+      "count": 14
     },
     {
-      "term": "trivy",
-      "count": 13
+      "term": "った",
+      "count": 14
     },
     {
-      "term": "レッ",
+      "term": "護 ",
+      "count": 12
+    },
+    {
+      "term": "に ",
+      "count": 12
+    },
+    {
+      "term": "があ",
       "count": 12
     },
     {
@@ -58,111 +82,107 @@
       "count": 11
     },
     {
-      "term": "構成",
+      "term": "存物",
       "count": 11
     },
     {
-      "term": "の実",
+      "term": "えら",
       "count": 11
     },
     {
-      "term": "取得",
-      "count": 11
-    },
-    {
-      "term": "ファイル",
-      "count": 11
-    },
-    {
-      "term": "の設",
-      "count": 11
-    },
-    {
-      "term": "push",
-      "count": 11
-    },
-    {
-      "term": "し ",
+      "term": "確保",
       "count": 10
     },
     {
-      "term": "スキ",
+      "term": "ファ",
       "count": 10
     },
     {
-      "term": "以外",
+      "term": "る\n",
+      "count": 10
+    },
+    {
+      "term": "は ",
+      "count": 10
+    },
+    {
+      "term": "に関",
       "count": 9
     },
     {
-      "term": "ド上",
+      "term": "チームの",
+      "count": 9
+    },
+    {
+      "term": "いっ",
+      "count": 9
+    },
+    {
+      "term": "image",
+      "count": 9
+    },
+    {
+      "term": "的な",
       "count": 8
     },
     {
-      "term": "スク",
+      "term": "より",
       "count": 8
     },
     {
-      "term": "リス",
+      "term": "ルー",
       "count": 8
     },
     {
-      "term": "docker",
+      "term": "イメージ",
       "count": 8
     },
     {
-      "term": "作成",
-      "count": 8
-    },
-    {
-      "term": "ルで",
-      "count": 8
-    },
-    {
-      "term": "報の",
+      "term": "自動",
       "count": 7
     },
     {
-      "term": "キー",
+      "term": "terraform",
       "count": 7
     },
     {
-      "term": "定 ",
+      "term": "省略",
       "count": 7
     },
     {
-      "term": "要が",
+      "term": "push",
       "count": 7
     },
     {
-      "term": "ここ",
-      "count": 7
-    },
-    {
-      "term": "がある",
-      "count": 7
-    },
-    {
-      "term": "めに",
+      "term": "漏洩",
       "count": 6
     },
     {
-      "term": "28",
+      "term": "性管",
       "count": 6
     },
     {
-      "term": "関連",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "ンテナイ",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "ここでは",
+      "term": "ロバ",
       "count": 6
     },
     {
-      "term": "クト",
+      "term": "ダー",
+      "count": 6
+    },
+    {
+      "term": "ムは",
+      "count": 6
+    },
+    {
+      "term": "codebuild",
       "count": 6
     },
     {
@@ -170,36 +190,16 @@
       "count": 6
     },
     {
-      "term": "ンバ",
+      "term": "省略する",
       "count": 6
     },
     {
-      "term": "のよ",
+      "term": "を必",
       "count": 6
     },
     {
-      "term": "and",
+      "term": "ref",
       "count": 6
-    },
-    {
-      "term": "17",
-      "count": 6
-    },
-    {
-      "term": "む運",
-      "count": 5
-    },
-    {
-      "term": "トは",
-      "count": 5
-    },
-    {
-      "term": "ブラ",
-      "count": 5
-    },
-    {
-      "term": "イル",
-      "count": 5
     }
   ],
   "meetings": [
