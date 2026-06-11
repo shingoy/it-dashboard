@@ -2,51 +2,67 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "イン",
-      "count": 22
+      "term": "され",
+      "count": 27
     },
     {
-      "term": "ール",
+      "term": "イプ",
+      "count": 21
+    },
+    {
+      "term": "ため",
       "count": 20
     },
     {
-      "term": "ビル",
-      "count": 19
+      "term": "ファ",
+      "count": 18
     },
     {
-      "term": "デー",
+      "term": "name",
       "count": 17
     },
     {
-      "term": "によ",
+      "term": "パイプラ",
       "count": 16
     },
     {
-      "term": "また",
+      "term": "脆弱",
+      "count": 15
+    },
+    {
+      "term": "フォ",
+      "count": 15
+    },
+    {
+      "term": "ライ",
       "count": 14
     },
     {
-      "term": "よる",
+      "term": "なる",
+      "count": 14
+    },
+    {
+      "term": "ット",
       "count": 13
     },
     {
-      "term": "ラン",
-      "count": 12
+      "term": "trivy",
+      "count": 13
     },
     {
-      "term": "れら",
+      "term": "レッ",
       "count": 12
-    },
-    {
-      "term": "steps",
-      "count": 12
-    },
-    {
-      "term": "チームの",
-      "count": 11
     },
     {
       "term": "のc",
+      "count": 11
+    },
+    {
+      "term": "構成",
+      "count": 11
+    },
+    {
+      "term": "の実",
       "count": 11
     },
     {
@@ -54,123 +70,123 @@
       "count": 11
     },
     {
-      "term": "る必",
+      "term": "ファイル",
       "count": 11
     },
     {
-      "term": "およ",
-      "count": 10
+      "term": "の設",
+      "count": 11
     },
     {
-      "term": "状態",
-      "count": 10
-    },
-    {
-      "term": "を取",
-      "count": 10
-    },
-    {
-      "term": "env",
-      "count": 10
-    },
-    {
-      "term": "バリ",
-      "count": 9
-    },
-    {
-      "term": "成果物の",
-      "count": 9
-    },
-    {
-      "term": "イメージ",
-      "count": 9
+      "term": "push",
+      "count": 11
     },
     {
       "term": "し ",
+      "count": 10
+    },
+    {
+      "term": "スキ",
+      "count": 10
+    },
+    {
+      "term": "以外",
       "count": 9
     },
     {
-      "term": "セス",
-      "count": 9
-    },
-    {
-      "term": "ロー",
+      "term": "ド上",
       "count": 8
     },
     {
-      "term": "ビルド上",
+      "term": "スク",
       "count": 8
     },
     {
-      "term": "バイ",
+      "term": "リス",
       "count": 8
     },
     {
-      "term": "下の",
+      "term": "docker",
       "count": 8
     },
     {
-      "term": "ローカル",
+      "term": "作成",
+      "count": 8
+    },
+    {
+      "term": "ルで",
+      "count": 8
+    },
+    {
+      "term": "報の",
       "count": 7
     },
     {
-      "term": "るま",
+      "term": "キー",
       "count": 7
     },
     {
-      "term": "こで",
+      "term": "定 ",
       "count": 7
     },
     {
-      "term": "name",
+      "term": "要が",
       "count": 7
     },
     {
-      "term": "とは",
+      "term": "ここ",
       "count": 7
     },
     {
-      "term": "仕組",
+      "term": "がある",
       "count": 7
     },
     {
-      "term": "と同",
-      "count": 7
-    },
-    {
-      "term": "アカ",
+      "term": "めに",
       "count": 6
     },
     {
-      "term": "方法",
+      "term": "28",
       "count": 6
     },
     {
-      "term": "repository",
+      "term": "関連",
       "count": 6
     },
     {
-      "term": "る ",
+      "term": "ンテナイ",
       "count": 6
     },
     {
-      "term": "ても",
+      "term": "ここでは",
       "count": 6
     },
     {
-      "term": "を指",
+      "term": "クト",
       "count": 6
     },
     {
-      "term": "ージ",
+      "term": "のg",
       "count": 6
     },
     {
-      "term": "産管",
-      "count": 5
+      "term": "ンバ",
+      "count": 6
     },
     {
-      "term": "ト ",
+      "term": "のよ",
+      "count": 6
+    },
+    {
+      "term": "and",
+      "count": 6
+    },
+    {
+      "term": "17",
+      "count": 6
+    },
+    {
+      "term": "む運",
       "count": 5
     },
     {
@@ -178,27 +194,11 @@
       "count": 5
     },
     {
-      "term": "運用保守",
+      "term": "ブラ",
       "count": 5
     },
     {
-      "term": "26",
-      "count": 5
-    },
-    {
-      "term": "理す",
-      "count": 5
-    },
-    {
-      "term": "ド成",
-      "count": 5
-    },
-    {
-      "term": "体的には",
-      "count": 5
-    },
-    {
-      "term": "可能",
+      "term": "イル",
       "count": 5
     }
   ],
