@@ -2,195 +2,43 @@
   "month": "2026-04",
   "keywords": [
     {
-      "term": "計画",
+      "term": "応の",
       "count": 2
     },
     {
-      "term": "的に",
+      "term": "面施",
       "count": 2
     },
     {
-      "term": "シス",
+      "term": "は四",
       "count": 2
     },
     {
-      "term": "ムの",
+      "term": "ため",
       "count": 2
     },
     {
-      "term": "に分",
+      "term": "基本計画",
       "count": 2
     },
     {
-      "term": "向け",
+      "term": "に含",
       "count": 2
     },
     {
-      "term": "複数の方",
+      "term": "関連",
       "count": 2
     },
     {
-      "term": "ショ",
-      "count": 2
-    },
-    {
-      "term": "が深い方",
-      "count": 2
-    },
-    {
-      "term": "を抽",
-      "count": 2
-    },
-    {
-      "term": "関連予算",
-      "count": 2
-    },
-    {
-      "term": "戦略的強",
+      "term": "を創",
       "count": 1
     },
     {
-      "term": "法に基づ",
+      "term": "ル基",
       "count": 1
     },
     {
-      "term": "の製",
-      "count": 1
-    },
-    {
-      "term": "的強",
-      "count": 1
-    },
-    {
-      "term": "の特",
-      "count": 1
-    },
-    {
-      "term": "導入",
-      "count": 1
-    },
-    {
-      "term": "ロセ",
-      "count": 1
-    },
-    {
-      "term": "価技",
-      "count": 1
-    },
-    {
-      "term": "円ス",
-      "count": 1
-    },
-    {
-      "term": "テク",
-      "count": 1
-    },
-    {
-      "term": "予測",
-      "count": 1
-    },
-    {
-      "term": "る技",
-      "count": 1
-    },
-    {
-      "term": "ハイ",
-      "count": 1
-    },
-    {
-      "term": "処能",
-      "count": 1
-    },
-    {
-      "term": "力確",
-      "count": 1
-    },
-    {
-      "term": "地震動評",
-      "count": 1
-    },
-    {
-      "term": "438",
-      "count": 1
-    },
-    {
-      "term": "ズ探",
-      "count": 1
-    },
-    {
-      "term": "た無人戦",
-      "count": 1
-    },
-    {
-      "term": "た無",
-      "count": 1
-    },
-    {
-      "term": "フラ",
-      "count": 1
-    },
-    {
-      "term": "産性",
-      "count": 1
-    },
-    {
-      "term": "モデルの",
-      "count": 1
-    },
-    {
-      "term": "施 ",
-      "count": 1
-    },
-    {
-      "term": "業推",
-      "count": 1
-    },
-    {
-      "term": "た次",
-      "count": 1
-    },
-    {
-      "term": "た意",
-      "count": 1
-    },
-    {
-      "term": "性信",
-      "count": 1
-    },
-    {
-      "term": "出困",
-      "count": 1
-    },
-    {
-      "term": "農業",
-      "count": 1
-    },
-    {
-      "term": "に含まず",
-      "count": 1
-    },
-    {
-      "term": "の４",
-      "count": 1
-    },
-    {
-      "term": "けた",
-      "count": 1
-    },
-    {
-      "term": "性を",
-      "count": 1
-    },
-    {
-      "term": "も実",
-      "count": 1
-    },
-    {
-      "term": "研究",
-      "count": 1
-    },
-    {
-      "term": "の事",
+      "term": "ト農",
       "count": 1
     },
     {
@@ -198,7 +46,159 @@
       "count": 1
     },
     {
-      "term": "軽減",
+      "term": "人材の育",
+      "count": 1
+    },
+    {
+      "term": "等を用い",
+      "count": 1
+    },
+    {
+      "term": "マー",
+      "count": 1
+    },
+    {
+      "term": "バー",
+      "count": 1
+    },
+    {
+      "term": "携型",
+      "count": 1
+    },
+    {
+      "term": "野の人材",
+      "count": 1
+    },
+    {
+      "term": "ない",
+      "count": 1
+    },
+    {
+      "term": "技術の開",
+      "count": 1
+    },
+    {
+      "term": "発文",
+      "count": 1
+    },
+    {
+      "term": "セラ",
+      "count": 1
+    },
+    {
+      "term": "クスの製",
+      "count": 1
+    },
+    {
+      "term": "て ",
+      "count": 1
+    },
+    {
+      "term": "その",
+      "count": 1
+    },
+    {
+      "term": "た地震活",
+      "count": 1
+    },
+    {
+      "term": "連する主",
+      "count": 1
+    },
+    {
+      "term": "経３",
+      "count": 1
+    },
+    {
+      "term": "イノベー",
+      "count": 1
+    },
+    {
+      "term": "継続",
+      "count": 1
+    },
+    {
+      "term": "信頼性確",
+      "count": 1
+    },
+    {
+      "term": "と協",
+      "count": 1
+    },
+    {
+      "term": "びリ",
+      "count": 1
+    },
+    {
+      "term": "た建設現",
+      "count": 1
+    },
+    {
+      "term": "月閣",
+      "count": 1
+    },
+    {
+      "term": "変革",
+      "count": 1
+    },
+    {
+      "term": "の事",
+      "count": 1
+    },
+    {
+      "term": "立に",
+      "count": 1
+    },
+    {
+      "term": "ォー",
+      "count": 1
+    },
+    {
+      "term": "は最",
+      "count": 1
+    },
+    {
+      "term": "のデ",
+      "count": 1
+    },
+    {
+      "term": "を活",
+      "count": 1
+    },
+    {
+      "term": "や医",
+      "count": 1
+    },
+    {
+      "term": "ラミ",
+      "count": 1
+    },
+    {
+      "term": "一部",
+      "count": 1
+    },
+    {
+      "term": "モデルの",
+      "count": 1
+    },
+    {
+      "term": "ード",
+      "count": 1
+    },
+    {
+      "term": "最も",
+      "count": 1
+    },
+    {
+      "term": "ジー",
+      "count": 1
+    },
+    {
+      "term": "略的",
+      "count": 1
+    },
+    {
+      "term": "ム医",
       "count": 1
     }
   ],
