@@ -757,5 +757,60 @@
     "date": "2023-07-04",
     "collected_at": "2026-06-01T15:27:00.389730",
     "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/88f5df0a661f0812e0637ddd1ab9d5b3.pdf"
+  },
+  {
+    "id": "c1b5f4ede19f33fec4dea73022c4c68c",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "DS-670.1 ユーザビリティガイドライン（PDF／8,729KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a0942cf4/20260612_usability_guidelines.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2026-06-12T12:23:13.844519",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/c1b5f4ede19f33fec4dea73022c4c68c.pdf"
+  },
+  {
+    "id": "e7b6f319c187ec59ae66a19d7d15b812",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／3,077KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/59054b35/20260612_resources_standard_guidelines_guideline_01.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2026-06-12T12:23:13.844728",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/e7b6f319c187ec59ae66a19d7d15b812.pdf"
+  },
+  {
+    "id": "6c8ff7e0dab9f9cc27e081e13c83bc83",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_行政の進化と革新のための AI政府調達・利活用ガイドラインの概要（PDF／1,443KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/f8e1c3b8/20260612_resources_standard_guidelines_guideline_03.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2026-06-12T12:23:13.844863",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/6c8ff7e0dab9f9cc27e081e13c83bc83.pdf"
+  },
+  {
+    "id": "781e91e91afdf57c8c306c54487104f2",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_ガイドラインの英語版（仮訳） Provisional Translation of “The Guideline for Japanese Governments’ Procurements and Utilizations of Generative AI for the sake of Evolution and Innovation of Public Administration”（PDF／2,223KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/47764804/20260612_resources_standard_guidelines_guideline_04.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2026-06-12T12:23:13.844994",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/781e91e91afdf57c8c306c54487104f2.pdf"
+  },
+  {
+    "id": "ca22bd5000f24bcc4810e632c9bff53c",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_ガイドラインの英語版の概要（仮訳）Provisional Translation of the abstract of the Guideline（PDF／864KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/cb914d19/20260612_resources_standard_guidelines_guideline_06.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2026-06-12T12:23:13.845123",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/ca22bd5000f24bcc4810e632c9bff53c.pdf"
   }
 ]
