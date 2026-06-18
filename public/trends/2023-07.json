@@ -2,115 +2,135 @@
   "month": "2023-07",
   "keywords": [
     {
-      "term": "につ",
-      "count": 2034
+      "term": "ある",
+      "count": 2200
     },
     {
       "term": "場合",
       "count": 1947
     },
     {
-      "term": "ける",
-      "count": 1688
+      "term": "シス",
+      "count": 1874
     },
     {
-      "term": "スク",
-      "count": 1185
+      "term": "リテ",
+      "count": 1747
     },
     {
-      "term": "プロ",
-      "count": 1091
+      "term": "的に",
+      "count": 1475
     },
     {
-      "term": "トの",
-      "count": 1046
+      "term": "管理",
+      "count": 1411
     },
     {
-      "term": "れる",
-      "count": 1025
+      "term": "もの",
+      "count": 1384
     },
     {
-      "term": "うに",
-      "count": 990
+      "term": "内容",
+      "count": 1111
+    },
+    {
+      "term": "ても",
+      "count": 1075
+    },
+    {
+      "term": "考え",
+      "count": 1032
+    },
+    {
+      "term": "対応",
+      "count": 935
+    },
+    {
+      "term": "等を",
+      "count": 919
     },
     {
       "term": "この",
-      "count": 888
+      "count": 909
     },
     {
-      "term": "報セ",
-      "count": 881
+      "term": "なく",
+      "count": 886
     },
     {
-      "term": "ウェ",
-      "count": 872
+      "term": "セキ",
+      "count": 810
     },
     {
-      "term": "目的",
-      "count": 861
+      "term": "において",
+      "count": 807
     },
     {
-      "term": "ト ",
-      "count": 854
+      "term": "ット",
+      "count": 782
     },
     {
-      "term": "定す",
-      "count": 848
+      "term": "クセ",
+      "count": 724
     },
     {
-      "term": "め ",
-      "count": 835
+      "term": "ード",
+      "count": 714
     },
     {
-      "term": "えら",
-      "count": 808
+      "term": "下の",
+      "count": 696
     },
     {
-      "term": "記載",
-      "count": 732
+      "term": "踏ま",
+      "count": 690
     },
     {
-      "term": "ワー",
-      "count": 722
+      "term": "いた",
+      "count": 687
     },
     {
-      "term": "作成",
-      "count": 661
+      "term": "うこ",
+      "count": 684
     },
     {
-      "term": "ること",
-      "count": 641
+      "term": "性の",
+      "count": 644
     },
     {
-      "term": "合 ",
-      "count": 638
+      "term": "クラ",
+      "count": 632
     },
     {
-      "term": "の機",
-      "count": 600
+      "term": "れら",
+      "count": 617
     },
     {
-      "term": "計画",
-      "count": 594
+      "term": "不正",
+      "count": 580
     },
     {
-      "term": "ング",
+      "term": "デジ",
+      "count": 573
+    },
+    {
+      "term": "えて",
+      "count": 571
+    },
+    {
+      "term": "組み",
       "count": 563
     },
     {
-      "term": "る際",
-      "count": 547
+      "term": "では",
+      "count": 562
     },
     {
-      "term": "要が",
-      "count": 542
+      "term": "導入",
+      "count": 548
     },
     {
-      "term": "業者",
-      "count": 541
-    },
-    {
-      "term": "体的",
+      "term": "of",
       "count": 534
     },
     {
@@ -119,87 +139,67 @@
     },
     {
       "term": "ージ",
-      "count": 502
+      "count": 500
     },
     {
-      "term": "だけ",
-      "count": 502
+      "term": "安全",
+      "count": 495
     },
     {
-      "term": "手順",
-      "count": 496
+      "term": "り扱",
+      "count": 491
     },
     {
-      "term": "システム",
-      "count": 485
-    },
-    {
-      "term": "まれ",
-      "count": 476
+      "term": "仕様",
+      "count": 484
     },
     {
       "term": "ai",
+      "count": 479
+    },
+    {
+      "term": "た情",
+      "count": 472
+    },
+    {
+      "term": "to",
+      "count": 470
+    },
+    {
+      "term": "ファ",
       "count": 466
     },
     {
-      "term": "わせ",
-      "count": 465
+      "term": "を講",
+      "count": 457
     },
     {
-      "term": "generative",
-      "count": 447
+      "term": "の構",
+      "count": 455
     },
     {
-      "term": "in",
+      "term": "生し",
+      "count": 445
+    },
+    {
+      "term": "報が",
       "count": 443
     },
     {
-      "term": "化し",
-      "count": 431
+      "term": "イバ",
+      "count": 439
     },
     {
-      "term": "の方",
-      "count": 431
+      "term": "for",
+      "count": 438
     },
     {
-      "term": "当た",
-      "count": 430
+      "term": "任者",
+      "count": 391
     },
     {
-      "term": "は以",
-      "count": 402
-    },
-    {
-      "term": "ます",
-      "count": 398
-    },
-    {
-      "term": "異な",
-      "count": 397
-    },
-    {
-      "term": "and",
-      "count": 393
-    },
-    {
-      "term": "とと",
-      "count": 386
-    },
-    {
-      "term": "おく",
-      "count": 386
-    },
-    {
-      "term": "下を",
-      "count": 365
-    },
-    {
-      "term": "を使",
-      "count": 361
-    },
-    {
-      "term": "行い",
-      "count": 358
+      "term": "ュー",
+      "count": 370
     }
   ],
   "meetings": [
