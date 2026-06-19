@@ -2,7 +2,11 @@
   "month": "2026-02",
   "keywords": [
     {
-      "term": "約８",
+      "term": "事業費の",
+      "count": 2
+    },
+    {
+      "term": "分野",
       "count": 2
     },
     {
@@ -10,167 +14,91 @@
       "count": 2
     },
     {
-      "term": "ため",
+      "term": "関連予算",
       "count": 2
     },
     {
-      "term": "基盤",
+      "term": "費の",
       "count": 2
     },
     {
-      "term": "ット",
+      "term": "ジタル分",
       "count": 2
     },
     {
-      "term": "に関",
+      "term": "が深い方",
       "count": 2
     },
     {
-      "term": "一部等",
+      "term": "るａ",
       "count": 2
     },
     {
-      "term": "な施策を",
+      "term": "針に分類",
       "count": 2
     },
     {
-      "term": "利活用の",
+      "term": "業の",
       "count": 2
     },
     {
-      "term": "た額を記",
+      "term": "の事",
       "count": 2
     },
     {
-      "term": "に含",
+      "term": "ほか",
       "count": 2
     },
     {
-      "term": "和７",
+      "term": "社会",
       "count": 2
     },
     {
-      "term": "算は",
+      "term": "画の",
       "count": 2
     },
     {
-      "term": "及び",
+      "term": "決定",
       "count": 2
     },
     {
-      "term": "業向",
+      "term": "タル",
       "count": 2
     },
     {
-      "term": "難な",
+      "term": "モデ",
       "count": 2
     },
     {
-      "term": "野の人材",
+      "term": "経約",
       "count": 2
     },
     {
-      "term": "インフラ",
+      "term": "データ活",
       "count": 1
     },
     {
-      "term": "ナル",
+      "term": "ー導",
       "count": 1
     },
     {
-      "term": "セラ",
+      "term": "額1",
       "count": 1
     },
     {
-      "term": "発新",
+      "term": "モデルの",
       "count": 1
     },
     {
-      "term": "導体",
+      "term": "法に基づ",
       "count": 1
     },
     {
-      "term": "的な変革",
+      "term": "027",
       "count": 1
     },
     {
-      "term": "軽減",
-      "count": 1
-    },
-    {
-      "term": "地震",
-      "count": 1
-    },
-    {
-      "term": "ラム医療",
-      "count": 1
-    },
-    {
-      "term": "減 ",
-      "count": 1
-    },
-    {
-      "term": "体及",
-      "count": 1
-    },
-    {
-      "term": "究新",
-      "count": 1
-    },
-    {
-      "term": "入等",
-      "count": 1
-    },
-    {
-      "term": "ティ",
-      "count": 1
-    },
-    {
-      "term": "等 ",
-      "count": 1
-    },
-    {
-      "term": "について",
-      "count": 1
-    },
-    {
-      "term": "ハイ",
-      "count": 1
-    },
-    {
-      "term": "の信頼性",
-      "count": 1
-    },
-    {
-      "term": "能力",
-      "count": 1
-    },
-    {
-      "term": "ロジ",
-      "count": 1
-    },
-    {
-      "term": "金額の特",
-      "count": 1
-    },
-    {
-      "term": "人戦",
-      "count": 1
-    },
-    {
-      "term": "金の",
-      "count": 1
-    },
-    {
-      "term": "透明性",
-      "count": 1
-    },
-    {
-      "term": "モー",
-      "count": 1
-    },
-    {
-      "term": "たフ",
+      "term": "ラh",
       "count": 1
     },
     {
@@ -178,27 +106,99 @@
       "count": 1
     },
     {
-      "term": "ラム",
+      "term": "サイバー",
       "count": 1
     },
     {
-      "term": "11",
+      "term": "を使",
       "count": 1
     },
     {
-      "term": "携型",
+      "term": "ゲット予",
       "count": 1
     },
     {
-      "term": "機器開発",
+      "term": "フィジカ",
       "count": 1
     },
     {
-      "term": "新防",
+      "term": "ルａ",
       "count": 1
     },
     {
-      "term": "づく",
+      "term": "生成",
+      "count": 1
+    },
+    {
+      "term": "厚約",
+      "count": 1
+    },
+    {
+      "term": "スマート",
+      "count": 1
+    },
+    {
+      "term": "マン",
+      "count": 1
+    },
+    {
+      "term": "たフ",
+      "count": 1
+    },
+    {
+      "term": "開発力の",
+      "count": 1
+    },
+    {
+      "term": "闘車",
+      "count": 1
+    },
+    {
+      "term": "ピュ",
+      "count": 1
+    },
+    {
+      "term": "金の",
+      "count": 1
+    },
+    {
+      "term": "基金の積",
+      "count": 1
+    },
+    {
+      "term": "円ス",
+      "count": 1
+    },
+    {
+      "term": "えた",
+      "count": 1
+    },
+    {
+      "term": "闘車両シ",
+      "count": 1
+    },
+    {
+      "term": "ハローワ",
+      "count": 1
+    },
+    {
+      "term": "559",
+      "count": 1
+    },
+    {
+      "term": "設現",
+      "count": 1
+    },
+    {
+      "term": "ァイ",
+      "count": 1
+    },
+    {
+      "term": "の戦",
+      "count": 1
+    },
+    {
+      "term": "その",
       "count": 1
     }
   ],
