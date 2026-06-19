@@ -2,47 +2,31 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "きる",
-      "count": 23
+      "term": "ため",
+      "count": 22
     },
     {
-      "term": "ロー",
-      "count": 19
+      "term": "ット",
+      "count": 20
     },
     {
-      "term": "ビル",
-      "count": 19
+      "term": "トリ",
+      "count": 20
     },
     {
-      "term": "設定",
-      "count": 19
+      "term": "管理",
+      "count": 20
     },
     {
-      "term": "ジト",
-      "count": 17
+      "term": "およ",
+      "count": 15
     },
     {
-      "term": "サー",
-      "count": 17
-    },
-    {
-      "term": "ない",
-      "count": 16
+      "term": "るた",
+      "count": 15
     },
     {
       "term": "から",
-      "count": 15
-    },
-    {
-      "term": "れる",
-      "count": 15
-    },
-    {
-      "term": "コン",
-      "count": 15
-    },
-    {
-      "term": "ータ",
       "count": 15
     },
     {
@@ -50,7 +34,11 @@
       "count": 15
     },
     {
-      "term": "体的",
+      "term": "よう",
+      "count": 15
+    },
+    {
+      "term": "ンを",
       "count": 13
     },
     {
@@ -58,148 +46,160 @@
       "count": 13
     },
     {
-      "term": "ンを",
+      "term": "略 ",
       "count": 13
     },
     {
-      "term": "ナイ",
+      "term": "id",
       "count": 13
     },
     {
-      "term": "クレ",
+      "term": "ラッ",
       "count": 12
     },
     {
-      "term": "のc",
+      "term": "とし",
+      "count": 12
+    },
+    {
+      "term": "タデ",
+      "count": 12
+    },
+    {
+      "term": "ティ",
       "count": 11
     },
     {
-      "term": "安全性の",
+      "term": "ール",
+      "count": 11
+    },
+    {
+      "term": "設定",
+      "count": 11
+    },
+    {
+      "term": "理を",
       "count": 10
     },
     {
-      "term": "スキ",
+      "term": "の ",
       "count": 10
     },
     {
-      "term": "であ",
+      "term": "定す",
       "count": 10
     },
     {
-      "term": "では",
+      "term": "内で",
       "count": 10
     },
     {
-      "term": "build",
+      "term": "イメージ",
       "count": 10
     },
     {
-      "term": "ムが",
+      "term": "に関",
       "count": 9
     },
     {
-      "term": "action",
+      "term": "ムの",
       "count": 9
     },
     {
-      "term": "イン",
-      "count": 8
+      "term": "ンの",
+      "count": 9
     },
     {
-      "term": "強制",
-      "count": 8
+      "term": "いっ",
+      "count": 9
     },
     {
-      "term": "run",
-      "count": 8
+      "term": "とが",
+      "count": 9
     },
     {
       "term": "runs",
+      "count": 9
+    },
+    {
+      "term": "トに",
       "count": 8
     },
     {
-      "term": "がある",
+      "term": "及び",
+      "count": 8
+    },
+    {
+      "term": "脆弱性管",
+      "count": 8
+    },
+    {
+      "term": "の確",
+      "count": 8
+    },
+    {
+      "term": "有の",
+      "count": 8
+    },
+    {
+      "term": "ツー",
+      "count": 8
+    },
+    {
+      "term": "場合",
+      "count": 8
+    },
+    {
+      "term": "アッ",
       "count": 7
     },
     {
-      "term": "ンバ",
+      "term": "成果",
       "count": 7
     },
     {
-      "term": "digest",
+      "term": "action",
       "count": 7
     },
     {
-      "term": "れた",
+      "term": "のた",
       "count": 7
     },
     {
-      "term": "した",
+      "term": "キー",
       "count": 6
     },
     {
-      "term": "等の",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "ロバ",
+      "term": "たが",
       "count": 6
     },
     {
-      "term": "フェーズ",
+      "term": "ンテナイ",
       "count": 6
     },
     {
-      "term": "ムは",
+      "term": "な対",
       "count": 6
     },
     {
-      "term": "要がある",
+      "term": "保で",
       "count": 6
     },
     {
-      "term": "方法",
+      "term": "ある",
       "count": 6
     },
     {
-      "term": "review",
+      "term": "を指",
       "count": 6
     },
     {
-      "term": "る ",
+      "term": "format",
       "count": 6
-    },
-    {
-      "term": "象と",
-      "count": 6
-    },
-    {
-      "term": "とに",
-      "count": 5
-    },
-    {
-      "term": "理脆",
-      "count": 5
-    },
-    {
-      "term": "リオ",
-      "count": 5
-    },
-    {
-      "term": "ドフ",
-      "count": 5
-    },
-    {
-      "term": "ード",
-      "count": 5
-    },
-    {
-      "term": "信頼でき",
-      "count": 5
-    },
-    {
-      "term": "サプ",
-      "count": 5
     }
   ],
   "meetings": [

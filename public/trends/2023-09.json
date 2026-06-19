@@ -2,27 +2,15 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "コン",
+      "term": "の ",
       "count": 3
     },
     {
-      "term": "術保",
+      "term": "グの",
       "count": 3
     },
     {
-      "term": "等の",
-      "count": 3
-    },
-    {
-      "term": "ロジ",
-      "count": 3
-    },
-    {
-      "term": "関係",
-      "count": 3
-    },
-    {
-      "term": "ジー",
+      "term": "イメージ",
       "count": 3
     },
     {
@@ -30,47 +18,15 @@
       "count": 3
     },
     {
-      "term": "ップ",
+      "term": "ロジ",
       "count": 3
     },
     {
-      "term": "規制所管",
-      "count": 2
-    },
-    {
-      "term": "期待を把",
-      "count": 2
-    },
-    {
-      "term": "ィの",
-      "count": 2
-    },
-    {
-      "term": "規制対象",
-      "count": 2
-    },
-    {
-      "term": "への参加",
-      "count": 2
-    },
-    {
-      "term": "向上",
-      "count": 2
+      "term": "や技",
+      "count": 3
     },
     {
       "term": "から",
-      "count": 2
-    },
-    {
-      "term": "個別呼び",
-      "count": 2
-    },
-    {
-      "term": "方法",
-      "count": 2
-    },
-    {
-      "term": "トコ",
       "count": 2
     },
     {
@@ -78,91 +34,163 @@
       "count": 2
     },
     {
+      "term": "ット",
+      "count": 2
+    },
+    {
+      "term": "regtech",
+      "count": 2
+    },
+    {
+      "term": "ティ",
+      "count": 2
+    },
+    {
+      "term": "プや",
+      "count": 2
+    },
+    {
+      "term": "等 ",
+      "count": 2
+    },
+    {
+      "term": "体会",
+      "count": 2
+    },
+    {
+      "term": "ュニ",
+      "count": 2
+    },
+    {
       "term": "ミュ",
       "count": 2
     },
     {
-      "term": "アナ",
+      "term": "等の募集",
       "count": 2
     },
     {
-      "term": "やh",
+      "term": "集情",
       "count": 2
     },
     {
-      "term": "と連",
+      "term": "ムへ",
       "count": 2
     },
     {
-      "term": "別呼",
+      "term": "バッ",
       "count": 2
     },
     {
-      "term": "しの実装",
+      "term": "法等",
       "count": 2
     },
     {
-      "term": "テストの",
+      "term": "周知",
       "count": 2
     },
     {
-      "term": "広く",
+      "term": "速報",
       "count": 2
     },
     {
-      "term": "況を把握",
+      "term": "改善",
       "count": 2
     },
     {
-      "term": "を広",
+      "term": "他省庁等",
       "count": 2
     },
     {
-      "term": "支援",
+      "term": "証成",
       "count": 2
     },
     {
-      "term": "ム開",
+      "term": "企画",
       "count": 2
     },
     {
-      "term": "築 ",
+      "term": "を共有",
       "count": 2
     },
     {
-      "term": "を踏",
+      "term": "チコ",
       "count": 2
     },
     {
-      "term": "クノ",
+      "term": "結果",
       "count": 2
     },
     {
-      "term": "の実",
+      "term": "実証",
       "count": 2
     },
     {
-      "term": "術開",
+      "term": "グに",
       "count": 2
     },
     {
-      "term": "経済",
+      "term": "技術検証",
+      "count": 2
+    },
+    {
+      "term": "プピ",
+      "count": 2
+    },
+    {
+      "term": "ーマ",
+      "count": 2
+    },
+    {
+      "term": "成果",
+      "count": 2
+    },
+    {
+      "term": "しの",
+      "count": 2
+    },
+    {
+      "term": "アッ",
       "count": 1
     },
     {
-      "term": "体的",
+      "term": "活用した",
       "count": 1
     },
     {
-      "term": "し関",
+      "term": "効果",
       "count": 1
     },
     {
-      "term": "案提",
+      "term": "の提案",
       "count": 1
     },
     {
-      "term": "な技術保",
+      "term": "明会",
+      "count": 1
+    },
+    {
+      "term": "ティ関係",
+      "count": 1
+    },
+    {
+      "term": "学習",
+      "count": 1
+    },
+    {
+      "term": "ジー効果",
+      "count": 1
+    },
+    {
+      "term": "等を継続",
+      "count": 1
+    },
+    {
+      "term": "に関",
+      "count": 1
+    },
+    {
+      "term": "でテ",
       "count": 1
     },
     {
@@ -170,35 +198,7 @@
       "count": 1
     },
     {
-      "term": "し技",
-      "count": 1
-    },
-    {
-      "term": "ィードバ",
-      "count": 1
-    },
-    {
-      "term": "等関",
-      "count": 1
-    },
-    {
-      "term": "済産",
-      "count": 1
-    },
-    {
-      "term": "る技術情",
-      "count": 1
-    },
-    {
-      "term": "省ス",
-      "count": 1
-    },
-    {
-      "term": "同での学",
-      "count": 1
-    },
-    {
-      "term": "状況や課",
+      "term": "タログ等",
       "count": 1
     }
   ],
