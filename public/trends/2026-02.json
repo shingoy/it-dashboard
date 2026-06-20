@@ -2,159 +2,87 @@
   "month": "2026-02",
   "keywords": [
     {
-      "term": "針に",
+      "term": "額に",
       "count": 2
     },
     {
-      "term": "利活用の",
+      "term": "開発",
       "count": 2
     },
     {
-      "term": "育訓練",
+      "term": "の構",
       "count": 2
     },
     {
-      "term": "予算総額",
+      "term": "類注",
       "count": 2
     },
     {
-      "term": "成離",
+      "term": "を含むデ",
       "count": 2
     },
     {
-      "term": "の構築",
+      "term": "連す",
       "count": 2
     },
     {
-      "term": "の事業の",
+      "term": "ング",
       "count": 2
     },
     {
-      "term": "ジタ",
+      "term": "けの",
       "count": 2
     },
     {
-      "term": "ーズ",
+      "term": "推進",
       "count": 2
     },
     {
-      "term": "文約",
+      "term": "構築",
       "count": 2
     },
     {
-      "term": "基本",
+      "term": "フォ",
       "count": 2
     },
     {
-      "term": "助成",
+      "term": "約７",
       "count": 2
     },
     {
-      "term": "ル分",
+      "term": "る主",
       "count": 2
     },
     {
-      "term": "いて離職",
+      "term": "を含",
       "count": 2
     },
     {
-      "term": "は最",
+      "term": "分野",
       "count": 2
     },
     {
-      "term": "のための",
+      "term": "デル",
       "count": 2
     },
     {
-      "term": "難な",
+      "term": "などの施",
       "count": 2
     },
     {
-      "term": "連する主",
-      "count": 2
-    },
-    {
-      "term": "生成",
+      "term": "人戦",
       "count": 1
     },
     {
-      "term": "革新",
+      "term": "た次",
       "count": 1
     },
     {
-      "term": "創る",
+      "term": "経や",
       "count": 1
     },
     {
-      "term": "の製",
-      "count": 1
-    },
-    {
-      "term": "サー",
-      "count": 1
-    },
-    {
-      "term": "の信頼性",
-      "count": 1
-    },
-    {
-      "term": "を活",
-      "count": 1
-    },
-    {
-      "term": "究新",
-      "count": 1
-    },
-    {
-      "term": "ロジ",
-      "count": 1
-    },
-    {
-      "term": "フラ",
-      "count": 1
-    },
-    {
-      "term": "抜本",
-      "count": 1
-    },
-    {
-      "term": "ート",
-      "count": 1
-    },
-    {
-      "term": "ファイン",
-      "count": 1
-    },
-    {
-      "term": "闘車",
-      "count": 1
-    },
-    {
-      "term": "協働",
-      "count": 1
-    },
-    {
-      "term": "実に向け",
-      "count": 1
-    },
-    {
-      "term": "ーゲ",
-      "count": 1
-    },
-    {
-      "term": "度化",
-      "count": 1
-    },
-    {
-      "term": "対す",
-      "count": 1
-    },
-    {
-      "term": "代コ",
-      "count": 1
-    },
-    {
-      "term": "タ活",
+      "term": "製造",
       "count": 1
     },
     {
@@ -162,43 +90,115 @@
       "count": 1
     },
     {
-      "term": "ティ",
+      "term": "性向上の",
       "count": 1
     },
     {
-      "term": "た意",
+      "term": "対処",
       "count": 1
     },
     {
-      "term": "た意思決",
+      "term": "分含",
       "count": 1
     },
     {
-      "term": "対処能力",
+      "term": "えた",
       "count": 1
     },
     {
-      "term": "新防",
+      "term": "スの主導",
       "count": 1
     },
     {
-      "term": "ー対",
+      "term": "た継",
       "count": 1
     },
     {
-      "term": "創薬ター",
+      "term": "実に",
       "count": 1
     },
     {
-      "term": "ロセ",
+      "term": "シー",
       "count": 1
     },
     {
-      "term": "報通",
+      "term": "た研究開",
       "count": 1
     },
     {
-      "term": "ピュ",
+      "term": "社会に向",
+      "count": 1
+    },
+    {
+      "term": "uav",
+      "count": 1
+    },
+    {
+      "term": "用の促進",
+      "count": 1
+    },
+    {
+      "term": "発等の推",
+      "count": 1
+    },
+    {
+      "term": "保に",
+      "count": 1
+    },
+    {
+      "term": "動地",
+      "count": 1
+    },
+    {
+      "term": "円ス",
+      "count": 1
+    },
+    {
+      "term": "ワー",
+      "count": 1
+    },
+    {
+      "term": "信頼性確",
+      "count": 1
+    },
+    {
+      "term": "測シ",
+      "count": 1
+    },
+    {
+      "term": "活用の実",
+      "count": 1
+    },
+    {
+      "term": "を見",
+      "count": 1
+    },
+    {
+      "term": "進ａ",
+      "count": 1
+    },
+    {
+      "term": "と協働す",
+      "count": 1
+    },
+    {
+      "term": "用文",
+      "count": 1
+    },
+    {
+      "term": "た建",
+      "count": 1
+    },
+    {
+      "term": "その",
+      "count": 1
+    },
+    {
+      "term": "ラム",
+      "count": 1
+    },
+    {
+      "term": "術開",
       "count": 1
     }
   ],

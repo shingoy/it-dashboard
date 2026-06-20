@@ -2,127 +2,147 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "成果",
+      "term": "され",
+      "count": 27
+    },
+    {
+      "term": "プラ",
+      "count": 26
+    },
+    {
+      "term": "して",
+      "count": 26
+    },
+    {
+      "term": "果物",
       "count": 20
     },
     {
-      "term": "きる",
-      "count": 20
-    },
-    {
-      "term": "ース",
+      "term": "その",
       "count": 17
     },
     {
-      "term": "サー",
+      "term": "安全",
       "count": 17
     },
     {
-      "term": "ーズ",
+      "term": "脆弱",
       "count": 15
     },
     {
-      "term": "なる",
+      "term": "弱性",
       "count": 15
     },
     {
-      "term": "る必",
+      "term": "フォ",
       "count": 14
     },
     {
-      "term": "生成",
+      "term": "スチ",
+      "count": 14
+    },
+    {
+      "term": "workflows",
+      "count": 14
+    },
+    {
+      "term": "シー",
       "count": 13
     },
     {
-      "term": "ラン",
-      "count": 12
-    },
-    {
-      "term": "シークレ",
-      "count": 12
-    },
-    {
-      "term": "プラット",
-      "count": 11
-    },
-    {
-      "term": "ント",
-      "count": 11
-    },
-    {
-      "term": "取得",
-      "count": 11
-    },
-    {
-      "term": "環境",
-      "count": 11
-    },
-    {
-      "term": "し ",
+      "term": "ブラ",
       "count": 10
     },
     {
-      "term": "クを",
+      "term": "ジト",
       "count": 10
     },
     {
-      "term": "は ",
+      "term": "メタ",
       "count": 10
     },
     {
-      "term": "ティ",
+      "term": "を含",
       "count": 9
     },
     {
-      "term": "デリ",
+      "term": "が ",
       "count": 9
     },
     {
-      "term": "全性",
+      "term": "きる",
       "count": 9
+    },
+    {
+      "term": "image",
+      "count": 9
+    },
+    {
+      "term": "ーカ",
+      "count": 8
+    },
+    {
+      "term": "での実行",
+      "count": 8
+    },
+    {
+      "term": "書で",
+      "count": 8
+    },
+    {
+      "term": "成果物の",
+      "count": 8
+    },
+    {
+      "term": "の構",
+      "count": 8
+    },
+    {
+      "term": "ング",
+      "count": 8
     },
     {
       "term": "それ",
-      "count": 9
-    },
-    {
-      "term": "そのため",
-      "count": 9
-    },
-    {
-      "term": "ョン",
       "count": 8
     },
     {
-      "term": "ルー",
+      "term": "が考",
       "count": 8
     },
     {
-      "term": "下の",
+      "term": "のよ",
       "count": 8
     },
     {
-      "term": "強制",
-      "count": 8
-    },
-    {
-      "term": "あり",
+      "term": "システム",
       "count": 7
     },
     {
-      "term": "フェーズ",
+      "term": "報の",
       "count": 7
     },
     {
-      "term": "スク",
+      "term": "リテ",
       "count": 7
     },
     {
-      "term": "ーに",
+      "term": "クレ",
       "count": 7
     },
     {
-      "term": "バー",
+      "term": "の取",
+      "count": 7
+    },
+    {
+      "term": "の ",
+      "count": 7
+    },
+    {
+      "term": "を確",
+      "count": 7
+    },
+    {
+      "term": "い ",
       "count": 7
     },
     {
@@ -130,11 +150,11 @@
       "count": 7
     },
     {
-      "term": "とは",
+      "term": "図 ",
       "count": 7
     },
     {
-      "term": "yml",
+      "term": "login",
       "count": 7
     },
     {
@@ -142,64 +162,44 @@
       "count": 7
     },
     {
-      "term": "ート",
+      "term": "と同",
+      "count": 7
+    },
+    {
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "情報",
+      "term": "ット情報",
       "count": 6
     },
     {
-      "term": "ージ",
+      "term": "ード管理",
       "count": 6
     },
     {
-      "term": "を ",
+      "term": "ワー",
       "count": 6
     },
     {
-      "term": "すべ",
+      "term": "の漏",
       "count": 6
     },
     {
-      "term": "対す",
+      "term": "たが",
       "count": 6
     },
     {
-      "term": "tf",
+      "term": "ソフトウ",
       "count": 6
     },
     {
-      "term": "るs",
+      "term": "る主",
       "count": 6
     },
     {
-      "term": "predicate",
+      "term": "な対",
       "count": 6
-    },
-    {
-      "term": "タデ",
-      "count": 6
-    },
-    {
-      "term": "はパ",
-      "count": 6
-    },
-    {
-      "term": "とに",
-      "count": 5
-    },
-    {
-      "term": "用者",
-      "count": 5
-    },
-    {
-      "term": "ード",
-      "count": 5
-    },
-    {
-      "term": "準拠",
-      "count": 5
     }
   ],
   "meetings": [
