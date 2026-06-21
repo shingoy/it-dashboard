@@ -2,67 +2,71 @@
   "month": "2023-06",
   "keywords": [
     {
-      "term": "否 ",
-      "count": 763
+      "term": "則 ",
+      "count": 702
     },
     {
-      "term": "要 ",
-      "count": 608
-    },
-    {
-      "term": "通知",
-      "count": 592
-    },
-    {
-      "term": "省 ",
-      "count": 553
-    },
-    {
-      "term": "告示",
-      "count": 542
-    },
-    {
-      "term": "第3",
-      "count": 524
-    },
-    {
-      "term": "等 ",
-      "count": 470
-    },
-    {
-      "term": "第5",
-      "count": 456
-    },
-    {
-      "term": "表 ",
-      "count": 405
-    },
-    {
-      "term": "別表",
-      "count": 378
+      "term": "は改",
+      "count": 563
     },
     {
       "term": "項 ",
-      "count": 365
+      "count": 551
     },
     {
-      "term": "月３",
-      "count": 345
+      "term": "第2",
+      "count": 549
+    },
+    {
+      "term": "改正",
+      "count": 498
+    },
+    {
+      "term": "する",
+      "count": 459
+    },
+    {
+      "term": "令改",
+      "count": 450
+    },
+    {
+      "term": "にお",
+      "count": 396
+    },
+    {
+      "term": "覧表",
+      "count": 383
+    },
+    {
+      "term": "度 ",
+      "count": 364
+    },
+    {
+      "term": "関す",
+      "count": 351
+    },
+    {
+      "term": "期 ",
+      "count": 348
     },
     {
       "term": "厚生労働",
       "count": 339
     },
     {
-      "term": "デジ",
-      "count": 329
+      "term": "第5",
+      "count": 321
     },
     {
-      "term": "生労",
-      "count": 329
+      "term": "係る",
+      "count": 318
     },
     {
-      "term": "知通",
+      "term": "の発",
+      "count": 318
+    },
+    {
+      "term": "示通",
       "count": 316
     },
     {
@@ -70,136 +74,132 @@
       "count": 315
     },
     {
-      "term": "通達等",
-      "count": 315
+      "term": "ける",
+      "count": 312
     },
     {
-      "term": "は改正",
-      "count": 314
+      "term": "こ ",
+      "count": 308
     },
     {
-      "term": "の ",
-      "count": 314
+      "term": "法律",
+      "count": 304
     },
     {
-      "term": "タル",
-      "count": 310
+      "term": "もデ",
+      "count": 291
     },
     {
-      "term": "示通",
-      "count": 305
+      "term": "の2",
+      "count": 274
     },
     {
-      "term": "類 ",
-      "count": 302
-    },
-    {
-      "term": "つ現",
-      "count": 293
-    },
-    {
-      "term": "検査",
-      "count": 281
-    },
-    {
-      "term": "済産",
-      "count": 278
-    },
-    {
-      "term": "phase",
+      "term": "制等",
       "count": 273
     },
     {
-      "term": "表１",
+      "term": "規則",
+      "count": 270
+    },
+    {
+      "term": "要さ",
       "count": 269
     },
     {
-      "term": "令名",
-      "count": 264
+      "term": "す ",
+      "count": 260
     },
     {
-      "term": "第6",
-      "count": 253
-    },
-    {
-      "term": "程表",
-      "count": 241
-    },
-    {
-      "term": "則 ",
-      "count": 241
-    },
-    {
-      "term": "和５",
-      "count": 238
-    },
-    {
-      "term": "規 ",
-      "count": 236
-    },
-    {
-      "term": "法令",
-      "count": 235
-    },
-    {
-      "term": "時期",
-      "count": 233
-    },
-    {
-      "term": "又は",
-      "count": 226
-    },
-    {
-      "term": "技術",
-      "count": 219
-    },
-    {
-      "term": "規制等の",
-      "count": 218
-    },
-    {
-      "term": "通 ",
-      "count": 214
-    },
-    {
-      "term": "正\n",
-      "count": 213
-    },
-    {
-      "term": "18",
-      "count": 197
+      "term": "見直しの",
+      "count": 258
     },
     {
       "term": "号 ",
-      "count": 196
+      "count": 255
     },
     {
-      "term": "点検",
+      "term": "項の",
+      "count": 249
+    },
+    {
+      "term": "手続",
+      "count": 246
+    },
+    {
+      "term": "ナログ規",
+      "count": 234
+    },
+    {
+      "term": "和６",
+      "count": 228
+    },
+    {
+      "term": "てい",
+      "count": 227
+    },
+    {
+      "term": "の4",
+      "count": 220
+    },
+    {
+      "term": "完了",
+      "count": 220
+    },
+    {
+      "term": "所管省庁",
+      "count": 219
+    },
+    {
+      "term": "15",
+      "count": 211
+    },
+    {
+      "term": "月６",
+      "count": 210
+    },
+    {
+      "term": "和５",
+      "count": 205
+    },
+    {
+      "term": "きて",
       "count": 193
     },
     {
-      "term": "アナ",
+      "term": "phase",
       "count": 191
     },
     {
-      "term": "媒体",
-      "count": 186
+      "term": "の概",
+      "count": 191
     },
     {
-      "term": "no",
-      "count": 186
+      "term": "点検",
+      "count": 191
     },
     {
-      "term": "律施",
-      "count": 185
+      "term": "の3",
+      "count": 190
     },
     {
-      "term": "条 ",
-      "count": 185
+      "term": "性が",
+      "count": 189
+    },
+    {
+      "term": "11",
+      "count": 187
     },
     {
       "term": "第8",
+      "count": 180
+    },
+    {
+      "term": "確保",
       "count": 179
+    },
+    {
+      "term": "指定",
+      "count": 178
     }
   ],
   "meetings": [

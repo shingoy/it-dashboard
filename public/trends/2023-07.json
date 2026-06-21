@@ -2,123 +2,143 @@
   "month": "2023-07",
   "keywords": [
     {
-      "term": "と ",
-      "count": 1641
+      "term": "いて",
+      "count": 2247
     },
     {
-      "term": "的に",
-      "count": 1475
+      "term": "にお",
+      "count": 2111
     },
     {
-      "term": "スク",
-      "count": 1187
+      "term": "ける",
+      "count": 1662
     },
     {
-      "term": "用者",
-      "count": 988
+      "term": "対策",
+      "count": 1583
     },
     {
-      "term": "が ",
-      "count": 927
+      "term": "的な",
+      "count": 1557
     },
     {
-      "term": "要で",
-      "count": 857
+      "term": "する",
+      "count": 1524
     },
     {
-      "term": "それ",
-      "count": 821
+      "term": "プロ",
+      "count": 1335
     },
     {
-      "term": "遵守",
-      "count": 770
+      "term": "す ",
+      "count": 1318
     },
     {
-      "term": "えば",
-      "count": 737
+      "term": "ービ",
+      "count": 1252
     },
     {
-      "term": "とい",
-      "count": 728
+      "term": "機能",
+      "count": 1203
     },
     {
-      "term": "トを",
-      "count": 709
+      "term": "るよ",
+      "count": 1058
     },
     {
-      "term": "下の",
-      "count": 698
+      "term": "セス",
+      "count": 1057
     },
     {
-      "term": "いた",
-      "count": 678
+      "term": "提供",
+      "count": 1054
     },
     {
-      "term": "際に",
-      "count": 650
+      "term": "業務",
+      "count": 987
     },
     {
-      "term": "技術",
-      "count": 631
+      "term": "取り",
+      "count": 892
+    },
+    {
+      "term": "発生",
+      "count": 847
+    },
+    {
+      "term": "係る",
+      "count": 820
+    },
+    {
+      "term": "トの",
+      "count": 782
+    },
+    {
+      "term": "記載",
+      "count": 732
+    },
+    {
+      "term": "セキ",
+      "count": 726
+    },
+    {
+      "term": "きな",
+      "count": 693
+    },
+    {
+      "term": "情報セキ",
+      "count": 648
+    },
+    {
+      "term": "ンの",
+      "count": 634
     },
     {
       "term": "めて",
       "count": 613
     },
     {
-      "term": "対す",
-      "count": 607
-    },
-    {
-      "term": "に基",
-      "count": 605
-    },
-    {
-      "term": "タル",
-      "count": 601
-    },
-    {
-      "term": "使用",
-      "count": 600
-    },
-    {
-      "term": "デジ",
-      "count": 573
-    },
-    {
-      "term": "用す",
-      "count": 555
+      "term": "計画",
+      "count": 594
     },
     {
       "term": "十分",
-      "count": 554
+      "count": 556
     },
     {
-      "term": "ェア",
-      "count": 531
+      "term": "を取",
+      "count": 555
     },
     {
-      "term": "である",
-      "count": 530
+      "term": "要な",
+      "count": 553
     },
     {
-      "term": "なり",
-      "count": 513
+      "term": "の管",
+      "count": 520
     },
     {
-      "term": "上の",
-      "count": 507
+      "term": "手続",
+      "count": 514
     },
     {
-      "term": "留意",
-      "count": 495
+      "term": "こ ",
+      "count": 505
     },
     {
       "term": "the",
-      "count": 488
+      "count": 479
     },
     {
-      "term": "記載",
+      "term": "シデ",
+      "count": 475
+    },
+    {
+      "term": "to",
+      "count": 470
+    },
+    {
+      "term": "シー",
       "count": 449
     },
     {
@@ -126,80 +146,60 @@
       "count": 448
     },
     {
-      "term": "in",
-      "count": 445
+      "term": "ロー",
+      "count": 438
     },
     {
-      "term": "of",
-      "count": 440
-    },
-    {
-      "term": "ai",
-      "count": 435
-    },
-    {
-      "term": "脆弱",
-      "count": 430
-    },
-    {
-      "term": "文書",
-      "count": 429
-    },
-    {
-      "term": "の方",
-      "count": 422
-    },
-    {
-      "term": "and",
-      "count": 415
-    },
-    {
-      "term": "のこ",
-      "count": 411
-    },
-    {
-      "term": "かに",
-      "count": 407
-    },
-    {
-      "term": "バイ",
-      "count": 397
-    },
-    {
-      "term": "のサ",
-      "count": 388
-    },
-    {
-      "term": "を提",
-      "count": 387
-    },
-    {
-      "term": "を定",
-      "count": 386
-    },
-    {
-      "term": "合の",
-      "count": 381
-    },
-    {
-      "term": "ウド",
-      "count": 364
-    },
-    {
-      "term": "の観",
-      "count": 357
+      "term": "化し",
+      "count": 433
     },
     {
       "term": "ベル",
-      "count": 355
+      "count": 430
+    },
+    {
+      "term": "を求",
+      "count": 429
+    },
+    {
+      "term": "象と",
+      "count": 426
+    },
+    {
+      "term": "にあ",
+      "count": 399
+    },
+    {
+      "term": "防止",
+      "count": 397
+    },
+    {
+      "term": "ます",
+      "count": 397
+    },
+    {
+      "term": "generative",
+      "count": 388
+    },
+    {
+      "term": "ュー",
+      "count": 364
+    },
+    {
+      "term": "テ ",
+      "count": 362
+    },
+    {
+      "term": "ソフトウ",
+      "count": 356
     },
     {
       "term": "ド ",
       "count": 354
     },
     {
-      "term": "るため",
-      "count": 348
+      "term": "ーション",
+      "count": 354
     }
   ],
   "meetings": [
