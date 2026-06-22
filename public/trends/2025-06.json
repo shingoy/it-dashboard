@@ -2,79 +2,71 @@
   "month": "2025-06",
   "keywords": [
     {
+      "term": "るこ",
+      "count": 22
+    },
+    {
+      "term": "イル",
+      "count": 20
+    },
+    {
       "term": "トリ",
       "count": 20
     },
     {
-      "term": "ビル",
+      "term": "ロー",
+      "count": 19
+    },
+    {
+      "term": "チー",
       "count": 18
     },
     {
-      "term": "サー",
+      "term": "構成",
+      "count": 18
+    },
+    {
+      "term": "物の",
       "count": 17
     },
     {
-      "term": "name",
+      "term": "設定",
       "count": 17
     },
     {
-      "term": "のた",
+      "term": "的な",
       "count": 15
     },
     {
-      "term": "から",
+      "term": "ビス",
       "count": 15
     },
     {
-      "term": "なる",
-      "count": 15
-    },
-    {
-      "term": "には",
-      "count": 14
-    },
-    {
-      "term": "用す",
+      "term": "ンを",
       "count": 13
     },
     {
-      "term": "の成",
+      "term": "id",
       "count": 13
     },
     {
-      "term": "的に",
+      "term": "tf",
       "count": 13
     },
     {
-      "term": "護 ",
-      "count": 12
-    },
-    {
-      "term": "を取",
-      "count": 12
-    },
-    {
-      "term": "る ",
-      "count": 12
-    },
-    {
-      "term": "する",
+      "term": "プラット",
       "count": 11
     },
     {
-      "term": "れら",
+      "term": "おけ",
       "count": 11
     },
     {
-      "term": "安全",
+      "term": "ァイ",
       "count": 11
     },
     {
-      "term": "https",
-      "count": 11
-    },
-    {
-      "term": "加え",
+      "term": "スチ",
       "count": 11
     },
     {
@@ -82,115 +74,123 @@
       "count": 10
     },
     {
-      "term": "プラット",
+      "term": "る\n",
       "count": 10
     },
     {
-      "term": "provenance",
-      "count": 10
-    },
-    {
-      "term": "workflows",
-      "count": 10
-    },
-    {
-      "term": "理を",
+      "term": "code",
       "count": 9
     },
     {
-      "term": "本書",
+      "term": "ズの",
       "count": 9
     },
     {
-      "term": "カル",
+      "term": "シー",
+      "count": 9
+    },
+    {
+      "term": "プラ",
+      "count": 9
+    },
+    {
+      "term": "ーを",
+      "count": 9
+    },
+    {
+      "term": "タデ",
+      "count": 9
+    },
+    {
+      "term": "ーカ",
       "count": 8
     },
     {
-      "term": "デリ",
+      "term": "主体",
       "count": 8
     },
     {
-      "term": "の制",
+      "term": "トを",
       "count": 8
     },
     {
-      "term": "ャン",
+      "term": "を実",
       "count": 8
     },
     {
-      "term": "ルで",
+      "term": "のs",
       "count": 8
     },
     {
-      "term": "共通",
+      "term": "のよ",
+      "count": 8
+    },
+    {
+      "term": "action",
+      "count": 8
+    },
+    {
+      "term": "こと",
       "count": 7
     },
     {
-      "term": "のリ",
+      "term": "にな",
       "count": 7
     },
     {
-      "term": "フェーズ",
+      "term": "ムチーム",
       "count": 7
     },
     {
-      "term": "能で",
+      "term": "略す",
       "count": 7
     },
     {
-      "term": "commit",
-      "count": 7
-    },
-    {
-      "term": "であ",
-      "count": 7
-    },
-    {
-      "term": "with",
-      "count": 7
-    },
-    {
-      "term": "キー",
+      "term": "ーズ",
       "count": 6
     },
     {
-      "term": "利用",
+      "term": "リポ",
       "count": 6
     },
     {
-      "term": "ソフトウ",
+      "term": "スを",
       "count": 6
     },
     {
-      "term": "format",
+      "term": "保で",
       "count": 6
     },
     {
-      "term": "key",
+      "term": "用可",
       "count": 6
     },
     {
-      "term": "はパ",
+      "term": "ref",
       "count": 6
     },
     {
-      "term": "運用",
+      "term": "critical",
+      "count": 6
+    },
+    {
+      "term": "えて",
+      "count": 6
+    },
+    {
+      "term": "ビルド設",
+      "count": 6
+    },
+    {
+      "term": "シナ",
       "count": 5
     },
     {
-      "term": "セキ",
+      "term": "26",
       "count": 5
     },
     {
-      "term": "観点",
-      "count": 5
-    },
-    {
-      "term": "機能",
-      "count": 5
-    },
-    {
-      "term": "複数",
+      "term": "定 ",
       "count": 5
     },
     {
@@ -198,7 +198,7 @@
       "count": 5
     },
     {
-      "term": "具 ",
+      "term": "テナ",
       "count": 5
     }
   ],
