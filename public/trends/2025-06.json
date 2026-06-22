@@ -2,19 +2,15 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "する",
-      "count": 23
+      "term": "トリ",
+      "count": 20
     },
     {
-      "term": "ロー",
-      "count": 19
-    },
-    {
-      "term": "リポジト",
+      "term": "ビル",
       "count": 18
     },
     {
-      "term": "物の",
+      "term": "サー",
       "count": 17
     },
     {
@@ -22,51 +18,35 @@
       "count": 17
     },
     {
-      "term": "実行",
-      "count": 16
-    },
-    {
-      "term": "ービ",
-      "count": 16
-    },
-    {
-      "term": "ファ",
-      "count": 16
-    },
-    {
-      "term": "よび",
+      "term": "のた",
       "count": 15
     },
     {
-      "term": "的な",
+      "term": "から",
       "count": 15
     },
     {
-      "term": "ける",
+      "term": "なる",
+      "count": 15
+    },
+    {
+      "term": "には",
       "count": 14
     },
     {
-      "term": "いて",
-      "count": 14
-    },
-    {
-      "term": "プロ",
-      "count": 14
-    },
-    {
-      "term": "シー",
+      "term": "用す",
       "count": 13
     },
     {
-      "term": "にお",
+      "term": "の成",
       "count": 13
     },
     {
-      "term": "対策",
-      "count": 12
+      "term": "的に",
+      "count": 13
     },
     {
-      "term": "およ",
+      "term": "護 ",
       "count": 12
     },
     {
@@ -74,83 +54,107 @@
       "count": 12
     },
     {
-      "term": "はc",
+      "term": "る ",
+      "count": 12
+    },
+    {
+      "term": "する",
       "count": 11
     },
     {
-      "term": "トの",
+      "term": "れら",
       "count": 11
     },
     {
-      "term": "保 ",
+      "term": "安全",
+      "count": 11
+    },
+    {
+      "term": "https",
+      "count": 11
+    },
+    {
+      "term": "加え",
+      "count": 11
+    },
+    {
+      "term": "確保",
       "count": 10
     },
     {
-      "term": "提供",
+      "term": "プラット",
       "count": 10
     },
     {
-      "term": "セス",
+      "term": "provenance",
       "count": 10
     },
     {
-      "term": "てい",
+      "term": "workflows",
       "count": 10
     },
     {
-      "term": "フォーム",
+      "term": "理を",
       "count": 9
     },
     {
-      "term": "ンの",
+      "term": "本書",
       "count": 9
     },
     {
-      "term": "チェ",
-      "count": 9
-    },
-    {
-      "term": "囲の",
+      "term": "カル",
       "count": 8
     },
     {
-      "term": "の担",
+      "term": "デリ",
       "count": 8
     },
     {
-      "term": "の管",
+      "term": "の制",
       "count": 8
     },
     {
-      "term": "リ及",
+      "term": "ャン",
+      "count": 8
+    },
+    {
+      "term": "ルで",
+      "count": 8
+    },
+    {
+      "term": "共通",
       "count": 7
     },
     {
-      "term": "なる",
+      "term": "のリ",
       "count": 7
     },
     {
-      "term": "cat",
+      "term": "フェーズ",
       "count": 7
     },
     {
-      "term": "す ",
+      "term": "能で",
       "count": 7
     },
     {
-      "term": "ubuntu",
+      "term": "commit",
       "count": 7
     },
     {
-      "term": "成 ",
+      "term": "であ",
+      "count": 7
+    },
+    {
+      "term": "with",
+      "count": 7
+    },
+    {
+      "term": "キー",
       "count": 6
     },
     {
-      "term": "組織",
-      "count": 6
-    },
-    {
-      "term": "資産",
+      "term": "利用",
       "count": 6
     },
     {
@@ -158,48 +162,44 @@
       "count": 6
     },
     {
-      "term": "アカ",
+      "term": "format",
       "count": 6
     },
     {
-      "term": "ウン",
+      "term": "key",
       "count": 6
     },
     {
-      "term": "provenance",
+      "term": "はパ",
       "count": 6
     },
     {
-      "term": "取り",
-      "count": 6
+      "term": "運用",
+      "count": 5
     },
     {
-      "term": "るよ",
-      "count": 6
+      "term": "セキ",
+      "count": 5
     },
     {
-      "term": "される",
-      "count": 6
+      "term": "観点",
+      "count": 5
     },
     {
-      "term": "image",
-      "count": 6
+      "term": "機能",
+      "count": 5
     },
     {
-      "term": "ることが",
-      "count": 6
+      "term": "複数",
+      "count": 5
     },
     {
-      "term": "ークレッ",
-      "count": 6
+      "term": "ド環",
+      "count": 5
     },
     {
-      "term": "象と",
-      "count": 6
-    },
-    {
-      "term": "scanners",
-      "count": 6
+      "term": "具 ",
+      "count": 5
     }
   ],
   "meetings": [
