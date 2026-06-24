@@ -2,111 +2,123 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "きる",
+      "term": "ため",
+      "count": 22
+    },
+    {
+      "term": "イプ",
       "count": 21
     },
     {
-      "term": "デー",
+      "term": "パイプラ",
+      "count": 20
+    },
+    {
+      "term": "ファ",
+      "count": 20
+    },
+    {
+      "term": "イン",
       "count": 17
     },
     {
-      "term": "コー",
+      "term": "のた",
       "count": 15
     },
     {
-      "term": "ーズ",
-      "count": 15
-    },
-    {
-      "term": "ラッ",
-      "count": 15
-    },
-    {
-      "term": "てい",
-      "count": 15
-    },
-    {
-      "term": "メー",
-      "count": 15
-    },
-    {
-      "term": "ナイ",
-      "count": 15
-    },
-    {
-      "term": "cat",
-      "count": 14
-    },
-    {
-      "term": "的な",
+      "term": "ソースコ",
       "count": 13
     },
     {
-      "term": "した",
+      "term": "の安",
       "count": 13
     },
     {
-      "term": "ルを",
+      "term": "trivy",
       "count": 13
     },
     {
-      "term": "弱性",
+      "term": "レッ",
       "count": 12
     },
     {
-      "term": "フォーム",
+      "term": "略 ",
+      "count": 12
+    },
+    {
+      "term": "cat",
+      "count": 12
+    },
+    {
+      "term": "につ",
       "count": 11
     },
     {
-      "term": "取得",
+      "term": "した",
       "count": 11
     },
     {
-      "term": "環境",
-      "count": 11
-    },
-    {
-      "term": "えら",
-      "count": 11
-    },
-    {
-      "term": "を含",
+      "term": "の ",
       "count": 10
     },
     {
-      "term": "イメージ",
-      "count": 10
-    },
-    {
-      "term": "は ",
-      "count": 10
-    },
-    {
-      "term": "に関",
+      "term": "ビルドフ",
       "count": 9
     },
     {
-      "term": "のリ",
+      "term": "ける",
       "count": 9
     },
     {
-      "term": "スコ",
+      "term": "本書",
       "count": 9
     },
     {
-      "term": "ウェ",
+      "term": "とで",
       "count": 9
     },
     {
-      "term": "run",
+      "term": "の対",
       "count": 9
     },
     {
-      "term": "ルで",
+      "term": "env",
+      "count": 9
+    },
+    {
+      "term": "カル",
       "count": 8
     },
     {
-      "term": "キー",
+      "term": "テム",
+      "count": 8
+    },
+    {
+      "term": "ド上",
+      "count": 8
+    },
+    {
+      "term": "存物",
+      "count": 8
+    },
+    {
+      "term": "の構",
+      "count": 8
+    },
+    {
+      "term": "トを",
+      "count": 8
+    },
+    {
+      "term": "のs",
+      "count": 8
+    },
+    {
+      "term": "組み",
+      "count": 8
+    },
+    {
+      "term": "資産",
       "count": 7
     },
     {
@@ -114,11 +126,11 @@
       "count": 7
     },
     {
-      "term": "漏洩",
+      "term": "での実行",
       "count": 7
     },
     {
-      "term": "すべ",
+      "term": "るプ",
       "count": 7
     },
     {
@@ -126,79 +138,67 @@
       "count": 7
     },
     {
-      "term": "にす",
+      "term": "にな",
       "count": 7
     },
     {
-      "term": "連携",
+      "term": "ング",
       "count": 7
     },
     {
-      "term": "ンb",
+      "term": "ルに",
       "count": 7
     },
     {
-      "term": "クセ",
+      "term": "す ",
       "count": 7
     },
     {
-      "term": "る図",
-      "count": 7
-    },
-    {
-      "term": "指定",
-      "count": 7
-    },
-    {
-      "term": "信頼性の",
+      "term": "cd",
       "count": 6
     },
     {
-      "term": "等の",
+      "term": "24",
       "count": 6
     },
     {
-      "term": "ムに",
+      "term": "ルと",
       "count": 6
     },
     {
-      "term": "にて",
+      "term": "関連",
       "count": 6
     },
     {
-      "term": "secrets",
+      "term": "うこ",
       "count": 6
     },
     {
-      "term": "のレ",
+      "term": "および",
       "count": 6
     },
     {
-      "term": "る ",
+      "term": "キャ",
       "count": 6
     },
     {
-      "term": "同様",
+      "term": "のg",
       "count": 6
     },
     {
-      "term": "とな",
+      "term": "ジの",
       "count": 6
     },
     {
-      "term": "保守",
-      "count": 5
+      "term": "image",
+      "count": 6
     },
     {
-      "term": "ット情報",
-      "count": 5
+      "term": "high",
+      "count": 6
     },
     {
-      "term": "リフ",
-      "count": 5
-    },
-    {
-      "term": "めの",
+      "term": "ート",
       "count": 5
     }
   ],
