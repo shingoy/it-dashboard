@@ -2,139 +2,123 @@
   "month": "2023-07",
   "keywords": [
     {
-      "term": "ため",
-      "count": 2182
+      "term": "は ",
+      "count": 1668
     },
     {
-      "term": "につ",
-      "count": 2030
+      "term": "おい",
+      "count": 1659
     },
     {
-      "term": "テム",
-      "count": 1957
+      "term": "サー",
+      "count": 1473
     },
     {
-      "term": "の ",
-      "count": 1477
+      "term": "とな",
+      "count": 1327
     },
     {
-      "term": "す ",
-      "count": 1313
+      "term": "プロ",
+      "count": 1302
     },
     {
-      "term": "の対",
-      "count": 1281
+      "term": "など",
+      "count": 1080
     },
     {
-      "term": "すること",
-      "count": 1086
+      "term": "セス",
+      "count": 1060
     },
     {
-      "term": "のた",
-      "count": 1053
+      "term": "用者",
+      "count": 988
     },
     {
-      "term": "者が",
-      "count": 1028
+      "term": "る必",
+      "count": 920
     },
     {
-      "term": "について",
-      "count": 1020
+      "term": "ト ",
+      "count": 856
     },
     {
-      "term": "イン",
-      "count": 924
+      "term": "遵守",
+      "count": 792
     },
     {
-      "term": "べき",
-      "count": 869
+      "term": "策を",
+      "count": 789
     },
     {
-      "term": "応じ",
-      "count": 831
+      "term": "ン ",
+      "count": 786
     },
     {
-      "term": "関連",
-      "count": 746
+      "term": "ット",
+      "count": 782
     },
     {
-      "term": "うこ",
-      "count": 745
+      "term": "り ",
+      "count": 708
     },
     {
-      "term": "踏ま",
-      "count": 711
+      "term": "時に",
+      "count": 705
     },
     {
-      "term": "トを",
-      "count": 709
+      "term": "の機",
+      "count": 621
     },
     {
-      "term": "にな",
-      "count": 681
+      "term": "ルの",
+      "count": 620
     },
     {
-      "term": "きな",
-      "count": 676
+      "term": "開発",
+      "count": 607
     },
     {
-      "term": "当該",
-      "count": 674
+      "term": "計画",
+      "count": 588
     },
     {
-      "term": "定義",
-      "count": 636
+      "term": "ソフ",
+      "count": 559
     },
     {
-      "term": "タル",
-      "count": 601
+      "term": "他の",
+      "count": 555
     },
     {
-      "term": "不正",
-      "count": 580
-    },
-    {
-      "term": "ける",
-      "count": 561
-    },
-    {
-      "term": "まで",
-      "count": 548
-    },
-    {
-      "term": "る際",
-      "count": 544
-    },
-    {
-      "term": "of",
-      "count": 537
-    },
-    {
-      "term": "対す",
+      "term": "説 ",
       "count": 523
     },
     {
-      "term": "おり",
-      "count": 517
+      "term": "るが",
+      "count": 520
     },
     {
-      "term": "の検",
-      "count": 514
+      "term": "ージ",
+      "count": 502
     },
     {
-      "term": "た上",
-      "count": 510
-    },
-    {
-      "term": "業者",
+      "term": "り扱",
       "count": 501
     },
     {
-      "term": "the",
-      "count": 482
+      "term": "供す",
+      "count": 499
     },
     {
-      "term": "仕様",
+      "term": "が発",
+      "count": 494
+    },
+    {
+      "term": "攻撃",
+      "count": 481
+    },
+    {
+      "term": "能な",
       "count": 481
     },
     {
@@ -142,64 +126,80 @@
       "count": 479
     },
     {
-      "term": "シデ",
-      "count": 477
-    },
-    {
-      "term": "適用",
-      "count": 476
-    },
-    {
-      "term": "かを",
-      "count": 475
-    },
-    {
-      "term": "組み",
-      "count": 474
-    },
-    {
-      "term": "の構",
-      "count": 469
-    },
-    {
-      "term": "の要",
+      "term": "ンテ",
       "count": 463
     },
     {
-      "term": "するため",
-      "count": 455
+      "term": "for",
+      "count": 448
     },
     {
-      "term": "も ",
-      "count": 455
+      "term": "generative",
+      "count": 447
     },
     {
-      "term": "ファ",
-      "count": 454
+      "term": "の設",
+      "count": 441
+    },
+    {
+      "term": "お ",
+      "count": 439
     },
     {
       "term": "ルに",
-      "count": 442
+      "count": 439
     },
     {
-      "term": "務の",
-      "count": 421
+      "term": "はそ",
+      "count": 435
     },
     {
-      "term": "置を",
-      "count": 416
+      "term": "クラウド",
+      "count": 431
     },
     {
-      "term": "for",
-      "count": 414
+      "term": "the",
+      "count": 420
     },
     {
-      "term": "者と",
-      "count": 403
+      "term": "しい",
+      "count": 413
     },
     {
-      "term": "は以",
+      "term": "クを",
+      "count": 409
+    },
+    {
+      "term": "にも",
+      "count": 407
+    },
+    {
+      "term": "変更",
       "count": 401
+    },
+    {
+      "term": "のこ",
+      "count": 358
+    },
+    {
+      "term": "です",
+      "count": 353
+    },
+    {
+      "term": "and",
+      "count": 352
+    },
+    {
+      "term": "書に",
+      "count": 335
+    },
+    {
+      "term": "状況",
+      "count": 327
+    },
+    {
+      "term": "よい",
+      "count": 323
     }
   ],
   "meetings": [
