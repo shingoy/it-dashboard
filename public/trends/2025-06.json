@@ -2,147 +2,135 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ット",
-      "count": 20
+      "term": "イプ",
+      "count": 21
     },
     {
-      "term": "ージ",
+      "term": "では",
+      "count": 19
+    },
+    {
+      "term": "保護",
       "count": 18
     },
     {
-      "term": "サー",
+      "term": "リポジト",
+      "count": 18
+    },
+    {
+      "term": "とし",
       "count": 17
     },
     {
-      "term": "成果",
+      "term": "ビス",
       "count": 16
     },
     {
-      "term": "およ",
-      "count": 15
-    },
-    {
-      "term": "ンテ",
-      "count": 15
-    },
-    {
-      "term": "イメ",
-      "count": 15
-    },
-    {
-      "term": "とな",
-      "count": 15
-    },
-    {
       "term": "信頼",
-      "count": 14
+      "count": 15
     },
     {
-      "term": "スチ",
-      "count": 14
+      "term": "よび",
+      "count": 15
     },
     {
-      "term": "プロ",
-      "count": 14
+      "term": "ビル",
+      "count": 15
     },
     {
-      "term": "タデ",
-      "count": 14
+      "term": "なる",
+      "count": 15
     },
     {
-      "term": "護 ",
+      "term": "cat",
+      "count": 15
+    },
+    {
+      "term": "シー",
+      "count": 13
+    },
+    {
+      "term": "クレ",
       "count": 12
     },
     {
-      "term": "物の",
+      "term": "フォ",
       "count": 12
     },
     {
-      "term": "る必",
+      "term": "ット",
       "count": 12
     },
     {
-      "term": "ン ",
+      "term": "を取",
+      "count": 12
+    },
+    {
+      "term": "つい",
       "count": 11
     },
     {
-      "term": "変更",
+      "term": "範囲",
       "count": 11
     },
     {
-      "term": "ルの",
+      "term": "env",
       "count": 10
     },
     {
-      "term": "セス",
-      "count": 10
-    },
-    {
-      "term": "ここ",
-      "count": 10
-    },
-    {
-      "term": "クを",
-      "count": 10
-    },
-    {
-      "term": "は ",
-      "count": 10
-    },
-    {
-      "term": "の設",
-      "count": 10
+      "term": "の制",
+      "count": 9
     },
     {
       "term": "本書",
       "count": 9
     },
     {
-      "term": "にも",
-      "count": 9
-    },
-    {
-      "term": "るが",
-      "count": 9
-    },
-    {
-      "term": "よび",
+      "term": "護 ",
       "count": 8
     },
     {
-      "term": "ソフ",
+      "term": "およ",
       "count": 8
     },
     {
-      "term": "を取",
+      "term": "るそ",
       "count": 8
     },
     {
-      "term": "commit",
+      "term": "ムが",
       "count": 8
     },
     {
-      "term": "カル",
+      "term": "ャン",
+      "count": 8
+    },
+    {
+      "term": "workflows",
+      "count": 8
+    },
+    {
+      "term": "漏洩",
       "count": 7
     },
     {
-      "term": "する",
+      "term": "デリバリ",
       "count": 7
     },
     {
-      "term": "の担",
+      "term": "あり",
       "count": 7
     },
     {
-      "term": "version",
+      "term": "プロ",
       "count": 7
     },
     {
-      "term": "るプ",
+      "term": "る具",
       "count": 7
     },
     {
-      "term": "registry",
+      "term": "次に",
       "count": 7
     },
     {
@@ -150,27 +138,15 @@
       "count": 7
     },
     {
-      "term": "ルに",
-      "count": 7
-    },
-    {
-      "term": "強制",
-      "count": 7
-    },
-    {
-      "term": "ド設",
-      "count": 7
-    },
-    {
-      "term": "保護",
+      "term": "チの",
       "count": 6
     },
     {
-      "term": "信頼性の",
+      "term": "ンに",
       "count": 6
     },
     {
-      "term": "たt",
+      "term": "定 ",
       "count": 6
     },
     {
@@ -178,15 +154,27 @@
       "count": 6
     },
     {
+      "term": "複数",
+      "count": 6
+    },
+    {
+      "term": "codebuild",
+      "count": 6
+    },
+    {
+      "term": "の署",
+      "count": 6
+    },
+    {
       "term": "ウン",
       "count": 6
     },
     {
-      "term": "ンテナイ",
+      "term": "にて",
       "count": 6
     },
     {
-      "term": "テナ",
+      "term": "の管",
       "count": 6
     },
     {
@@ -194,11 +182,23 @@
       "count": 6
     },
     {
-      "term": "のよ",
+      "term": "ても",
       "count": 6
     },
     {
-      "term": "ト ",
+      "term": "steps",
+      "count": 6
+    },
+    {
+      "term": "predicate",
+      "count": 6
+    },
+    {
+      "term": "slsa",
+      "count": 6
+    },
+    {
+      "term": "26",
       "count": 5
     }
   ],
