@@ -2,144 +2,128 @@
   "month": "2023-07",
   "keywords": [
     {
-      "term": "つい",
-      "count": 2001
+      "term": "管理",
+      "count": 1410
     },
     {
-      "term": "とし",
-      "count": 1830
+      "term": "ライ",
+      "count": 1231
     },
     {
-      "term": "なる",
-      "count": 1558
+      "term": "めの",
+      "count": 1188
     },
     {
-      "term": "を行",
-      "count": 1555
+      "term": "ける",
+      "count": 1150
     },
     {
-      "term": "ビス",
-      "count": 1257
+      "term": "リス",
+      "count": 1114
     },
     {
-      "term": "では",
-      "count": 1182
+      "term": "当該",
+      "count": 1045
     },
     {
-      "term": "など",
-      "count": 1080
+      "term": "とに",
+      "count": 1000
     },
     {
-      "term": "ても",
-      "count": 1076
+      "term": "ュリティ",
+      "count": 997
     },
     {
-      "term": "あり",
-      "count": 837
+      "term": "ード",
+      "count": 969
     },
     {
-      "term": "者は",
-      "count": 750
+      "term": "報セ",
+      "count": 879
     },
     {
-      "term": "認す",
-      "count": 650
+      "term": "を検",
+      "count": 845
+    },
+    {
+      "term": "施す",
+      "count": 823
+    },
+    {
+      "term": "係る",
+      "count": 820
+    },
+    {
+      "term": "の確",
+      "count": 726
     },
     {
       "term": "定 ",
+      "count": 713
+    },
+    {
+      "term": "トを",
+      "count": 709
+    },
+    {
+      "term": "関連",
+      "count": 669
+    },
+    {
+      "term": "ログ",
+      "count": 650
+    },
+    {
+      "term": "ること",
+      "count": 644
+    },
+    {
+      "term": "しい",
       "count": 643
     },
     {
-      "term": "基準",
-      "count": 630
+      "term": "活用",
+      "count": 636
     },
     {
-      "term": "の内",
-      "count": 625
-    },
-    {
-      "term": "に関する",
-      "count": 618
-    },
-    {
-      "term": "範囲",
-      "count": 609
-    },
-    {
-      "term": "させ",
-      "count": 570
-    },
-    {
-      "term": "観点",
-      "count": 564
-    },
-    {
-      "term": "を取",
-      "count": 555
-    },
-    {
-      "term": "報システ",
-      "count": 542
-    },
-    {
-      "term": "職員",
-      "count": 521
-    },
-    {
-      "term": "お ",
-      "count": 520
-    },
-    {
-      "term": "手続",
-      "count": 518
+      "term": "クラ",
+      "count": 636
     },
     {
       "term": "の機",
-      "count": 490
+      "count": 621
     },
     {
-      "term": "い場",
-      "count": 487
+      "term": "ス ",
+      "count": 601
     },
     {
-      "term": "of",
-      "count": 479
+      "term": "づき",
+      "count": 523
     },
     {
-      "term": "かを",
-      "count": 475
+      "term": "the",
+      "count": 511
     },
     {
-      "term": "わせ",
-      "count": 468
+      "term": "見直",
+      "count": 469
     },
     {
-      "term": "のセ",
+      "term": "推進",
       "count": 467
     },
     {
-      "term": "シー",
-      "count": 449
+      "term": "ーバ",
+      "count": 459
     },
     {
-      "term": "for",
-      "count": 448
+      "term": "も ",
+      "count": 455
     },
     {
-      "term": "の整",
-      "count": 447
-    },
-    {
-      "term": "ンに",
-      "count": 445
-    },
-    {
-      "term": "in",
-      "count": 442
-    },
-    {
-      "term": "や ",
-      "count": 437
+      "term": "性に",
+      "count": 450
     },
     {
       "term": "複数",
@@ -150,56 +134,72 @@
       "count": 430
     },
     {
+      "term": "認し",
+      "count": 423
+    },
+    {
+      "term": "ック",
+      "count": 422
+    },
+    {
       "term": "継続",
       "count": 416
     },
     {
-      "term": "のこ",
-      "count": 410
-    },
-    {
-      "term": "防止",
+      "term": "かに",
       "count": 407
     },
     {
-      "term": "の管",
-      "count": 402
+      "term": "to",
+      "count": 404
     },
     {
-      "term": "望ま",
+      "term": "取得",
+      "count": 401
+    },
+    {
+      "term": "バイ",
       "count": 397
     },
     {
-      "term": "じた",
-      "count": 396
+      "term": "て ",
+      "count": 387
     },
     {
-      "term": "プロ",
-      "count": 391
+      "term": "ェブ",
+      "count": 369
+    },
+    {
+      "term": "ることを",
+      "count": 363
+    },
+    {
+      "term": "適用",
+      "count": 359
     },
     {
       "term": "and",
-      "count": 381
+      "count": 359
     },
     {
-      "term": "デジタル",
-      "count": 377
+      "term": "を有",
+      "count": 358
     },
     {
-      "term": "ンプ",
-      "count": 360
+      "term": "特に",
+      "count": 344
     },
     {
-      "term": "点か",
-      "count": 354
+      "term": "発生",
+      "count": 342
     },
     {
-      "term": "の場",
-      "count": 352
+      "term": "by",
+      "count": 337
     },
     {
-      "term": "ムが",
-      "count": 347
+      "term": "れら",
+      "count": 332
     }
   ],
   "meetings": [
