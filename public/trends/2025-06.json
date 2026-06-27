@@ -2,175 +2,163 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "github",
-      "count": 26
+      "term": "こと",
+      "count": 25
     },
     {
-      "term": "イル",
-      "count": 20
+      "term": "構成",
+      "count": 21
     },
     {
-      "term": "aws",
+      "term": "ロー",
       "count": 19
     },
     {
-      "term": "管理",
+      "term": "リポ",
       "count": 18
     },
     {
-      "term": "name",
-      "count": 17
-    },
-    {
-      "term": "サー",
-      "count": 16
-    },
-    {
-      "term": "よび",
+      "term": "脆弱",
       "count": 15
     },
     {
-      "term": "の安",
-      "count": 13
-    },
-    {
-      "term": "メー",
-      "count": 13
-    },
-    {
-      "term": "trivy",
-      "count": 13
-    },
-    {
-      "term": "レッ",
-      "count": 12
-    },
-    {
-      "term": "ーの",
-      "count": 12
+      "term": "トフ",
+      "count": 15
     },
     {
       "term": "必要",
+      "count": 15
+    },
+    {
+      "term": "内容",
+      "count": 14
+    },
+    {
+      "term": "ては",
+      "count": 13
+    },
+    {
+      "term": "ント",
       "count": 12
     },
     {
-      "term": "環境",
+      "term": "スチ",
+      "count": 12
+    },
+    {
+      "term": "署名",
+      "count": 12
+    },
+    {
+      "term": "る ",
       "count": 11
     },
     {
-      "term": "terraform",
-      "count": 11
-    },
-    {
-      "term": "トフ",
+      "term": "成果物の",
       "count": 10
     },
     {
-      "term": "る必",
+      "term": "状態",
       "count": 10
-    },
-    {
-      "term": "れて",
-      "count": 9
-    },
-    {
-      "term": "ェア",
-      "count": 9
-    },
-    {
-      "term": "ンa",
-      "count": 9
-    },
-    {
-      "term": "runs",
-      "count": 9
-    },
-    {
-      "term": "ョン",
-      "count": 8
-    },
-    {
-      "term": "有の",
-      "count": 8
-    },
-    {
-      "term": "らの",
-      "count": 8
     },
     {
       "term": "性を",
+      "count": 10
+    },
+    {
+      "term": "とな",
+      "count": 10
+    },
+    {
+      "term": "sbom",
+      "count": 10
+    },
+    {
+      "term": "保 ",
+      "count": 9
+    },
+    {
+      "term": "変更",
+      "count": 9
+    },
+    {
+      "term": "定内",
       "count": 8
     },
     {
-      "term": "ェッ",
+      "term": "含む",
       "count": 8
     },
     {
-      "term": "トを",
+      "term": "ーズ",
       "count": 8
     },
     {
-      "term": "を実",
+      "term": "ビルド上",
       "count": 8
     },
     {
-      "term": "のs",
+      "term": "いう",
       "count": 8
     },
     {
-      "term": "json",
+      "term": "env",
       "count": 8
     },
     {
-      "term": "キー",
+      "term": "報の",
       "count": 7
     },
     {
-      "term": "る主",
+      "term": "示す",
       "count": 7
     },
     {
-      "term": "の取",
+      "term": "テム",
       "count": 7
     },
     {
-      "term": "定義",
+      "term": "対策",
       "count": 7
     },
     {
-      "term": "った",
+      "term": "17",
       "count": 7
     },
     {
-      "term": "ード管理",
+      "term": "ド上",
+      "count": 7
+    },
+    {
+      "term": "registry",
+      "count": 7
+    },
+    {
+      "term": "クセ",
+      "count": 7
+    },
+    {
+      "term": "id",
+      "count": 7
+    },
+    {
+      "term": "と同",
+      "count": 7
+    },
+    {
+      "term": "ンに",
       "count": 6
     },
     {
-      "term": "フ ",
+      "term": "ショ",
       "count": 6
     },
     {
-      "term": "ス ",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "たt",
-      "count": 6
-    },
-    {
-      "term": "そのため",
-      "count": 6
-    },
-    {
-      "term": "ここでは",
-      "count": 6
-    },
-    {
-      "term": "対す",
-      "count": 6
-    },
-    {
-      "term": "記述",
+      "term": "スト",
       "count": 6
     },
     {
@@ -178,27 +166,39 @@
       "count": 6
     },
     {
-      "term": "策に",
+      "term": "るこ",
       "count": 6
     },
     {
-      "term": "次に",
+      "term": "た場",
       "count": 6
     },
     {
-      "term": "review",
-      "count": 6
+      "term": "とに",
+      "count": 5
     },
     {
-      "term": "クセ",
-      "count": 6
+      "term": "ュリ",
+      "count": 5
     },
     {
-      "term": "scanners",
-      "count": 6
+      "term": "自体",
+      "count": 5
     },
     {
-      "term": "ンチ",
+      "term": "べき",
+      "count": 5
+    },
+    {
+      "term": "取得",
+      "count": 5
+    },
+    {
+      "term": "提供",
+      "count": 5
+    },
+    {
+      "term": "配布",
       "count": 5
     }
   ],
