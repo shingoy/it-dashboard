@@ -2,127 +2,107 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "する",
-      "count": 28
+      "term": "github",
+      "count": 26
     },
     {
-      "term": "ード",
-      "count": 21
-    },
-    {
-      "term": "ため",
-      "count": 21
-    },
-    {
-      "term": "ある",
-      "count": 21
-    },
-    {
-      "term": "ポジ",
+      "term": "イル",
       "count": 20
     },
     {
-      "term": "リポ",
-      "count": 20
-    },
-    {
-      "term": "る ",
+      "term": "aws",
       "count": 19
     },
     {
+      "term": "管理",
+      "count": 18
+    },
+    {
+      "term": "name",
+      "count": 17
+    },
+    {
       "term": "サー",
-      "count": 17
-    },
-    {
-      "term": "ない",
-      "count": 17
-    },
-    {
-      "term": "cd",
-      "count": 15
-    },
-    {
-      "term": "ラッ",
-      "count": 15
+      "count": 16
     },
     {
       "term": "よび",
       "count": 15
     },
     {
-      "term": "スチ",
-      "count": 14
-    },
-    {
-      "term": "体的",
+      "term": "の安",
       "count": 13
     },
     {
-      "term": "につ",
+      "term": "メー",
+      "count": 13
+    },
+    {
+      "term": "trivy",
+      "count": 13
+    },
+    {
+      "term": "レッ",
+      "count": 12
+    },
+    {
+      "term": "ーの",
+      "count": 12
+    },
+    {
+      "term": "必要",
+      "count": 12
+    },
+    {
+      "term": "環境",
       "count": 11
     },
     {
-      "term": "依存",
+      "term": "terraform",
       "count": 11
     },
     {
-      "term": "考え",
-      "count": 11
-    },
-    {
-      "term": "るこ",
-      "count": 11
-    },
-    {
-      "term": "ズの",
+      "term": "トフ",
       "count": 10
     },
     {
-      "term": "成果物の",
+      "term": "る必",
       "count": 10
     },
     {
-      "term": "イメージ",
-      "count": 10
-    },
-    {
-      "term": "る具",
-      "count": 10
-    },
-    {
-      "term": "の確",
+      "term": "れて",
       "count": 9
     },
     {
-      "term": "その",
+      "term": "ェア",
       "count": 9
     },
     {
-      "term": "ここ",
+      "term": "ンa",
       "count": 9
     },
     {
-      "term": "指定",
+      "term": "runs",
       "count": 9
-    },
-    {
-      "term": "定内",
-      "count": 8
     },
     {
       "term": "ョン",
       "count": 8
     },
     {
-      "term": "ド上",
+      "term": "有の",
       "count": 8
     },
     {
-      "term": "docker",
+      "term": "らの",
       "count": 8
     },
     {
-      "term": "キャ",
+      "term": "性を",
+      "count": 8
+    },
+    {
+      "term": "ェッ",
       "count": 8
     },
     {
@@ -130,35 +110,27 @@
       "count": 8
     },
     {
-      "term": "のよ",
+      "term": "を実",
       "count": 8
     },
     {
-      "term": "示す",
+      "term": "のs",
+      "count": 8
+    },
+    {
+      "term": "json",
+      "count": 8
+    },
+    {
+      "term": "キー",
       "count": 7
     },
     {
-      "term": "ト情",
+      "term": "る主",
       "count": 7
     },
     {
-      "term": "理を",
-      "count": 7
-    },
-    {
-      "term": "自動",
-      "count": 7
-    },
-    {
-      "term": "の仕",
-      "count": 7
-    },
-    {
-      "term": "ビルド上",
-      "count": 7
-    },
-    {
-      "term": "にな",
+      "term": "の取",
       "count": 7
     },
     {
@@ -166,40 +138,68 @@
       "count": 7
     },
     {
-      "term": "plan",
+      "term": "った",
       "count": 7
     },
     {
-      "term": "ーテ",
-      "count": 7
-    },
-    {
-      "term": "ルに",
-      "count": 7
-    },
-    {
-      "term": "図 ",
-      "count": 7
-    },
-    {
-      "term": "の保護",
+      "term": "ード管理",
       "count": 6
     },
     {
-      "term": "ージ",
+      "term": "フ ",
       "count": 6
     },
     {
-      "term": "対象",
+      "term": "ス ",
       "count": 6
     },
     {
-      "term": "スキ",
+      "term": "たt",
+      "count": 6
+    },
+    {
+      "term": "そのため",
+      "count": 6
+    },
+    {
+      "term": "ここでは",
+      "count": 6
+    },
+    {
+      "term": "対す",
+      "count": 6
+    },
+    {
+      "term": "記述",
+      "count": 6
+    },
+    {
+      "term": "ついては",
+      "count": 6
+    },
+    {
+      "term": "策に",
       "count": 6
     },
     {
       "term": "次に",
       "count": 6
+    },
+    {
+      "term": "review",
+      "count": 6
+    },
+    {
+      "term": "クセ",
+      "count": 6
+    },
+    {
+      "term": "scanners",
+      "count": 6
+    },
+    {
+      "term": "ンチ",
+      "count": 5
     }
   ],
   "meetings": [
