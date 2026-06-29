@@ -2,27 +2,35 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 28
+      "term": "プラ",
+      "count": 26
     },
     {
-      "term": "リポジト",
+      "term": "こと",
+      "count": 25
+    },
+    {
+      "term": "るこ",
+      "count": 24
+    },
+    {
+      "term": "aws",
+      "count": 19
+    },
+    {
+      "term": "ージ",
       "count": 18
     },
     {
-      "term": "利用",
+      "term": "とし",
+      "count": 18
+    },
+    {
+      "term": "ない",
       "count": 17
     },
     {
-      "term": "によ",
-      "count": 16
-    },
-    {
-      "term": "イル",
-      "count": 16
-    },
-    {
-      "term": "ービ",
+      "term": "の保",
       "count": 16
     },
     {
@@ -30,111 +38,95 @@
       "count": 16
     },
     {
-      "term": "テナ",
+      "term": "メタ",
       "count": 15
     },
     {
-      "term": "ンを",
-      "count": 13
+      "term": "での",
+      "count": 14
     },
     {
-      "term": "的に",
-      "count": 13
+      "term": "ドフ",
+      "count": 14
     },
     {
-      "term": "メー",
-      "count": 13
+      "term": "対策",
+      "count": 12
     },
     {
-      "term": "trivy",
-      "count": 13
-    },
-    {
-      "term": "workflows",
-      "count": 13
-    },
-    {
-      "term": "ン ",
+      "term": "タデ",
       "count": 11
     },
     {
-      "term": "につ",
-      "count": 11
-    },
-    {
-      "term": "10",
-      "count": 11
-    },
-    {
-      "term": "全性",
-      "count": 11
-    },
-    {
-      "term": "ァイ",
-      "count": 11
-    },
-    {
-      "term": "ティ",
+      "term": "理を",
       "count": 10
     },
     {
-      "term": "スコ",
+      "term": "ー ",
       "count": 10
     },
     {
-      "term": "ecr",
+      "term": "バー",
       "count": 10
     },
     {
-      "term": "の設",
+      "term": "jobs",
       "count": 10
     },
     {
-      "term": "トの",
+      "term": "のリ",
       "count": 9
     },
     {
-      "term": "にも",
+      "term": "ェア",
       "count": 9
     },
     {
-      "term": "本書",
+      "term": "れて",
       "count": 9
     },
     {
-      "term": "トウ",
+      "term": "terraform",
       "count": 9
     },
     {
-      "term": "それ",
+      "term": "る具",
       "count": 9
     },
     {
-      "term": "ルの",
+      "term": "の対",
       "count": 9
     },
     {
-      "term": "uses",
-      "count": 9
-    },
-    {
-      "term": "有の",
+      "term": "特有",
       "count": 8
     },
     {
-      "term": "の構",
+      "term": "書で",
       "count": 8
     },
     {
-      "term": "定内",
+      "term": "用し",
+      "count": 8
+    },
+    {
+      "term": "対象",
+      "count": 8
+    },
+    {
+      "term": "commit",
+      "count": 8
+    },
+    {
+      "term": "示す",
       "count": 7
     },
     {
-      "term": "シー",
+      "term": "主体",
       "count": 7
     },
     {
-      "term": "version",
+      "term": "リソ",
       "count": 7
     },
     {
@@ -142,64 +134,72 @@
       "count": 7
     },
     {
-      "term": "もの",
+      "term": "にな",
       "count": 7
     },
     {
-      "term": "るそ",
+      "term": "トフォー",
       "count": 7
     },
     {
-      "term": "キャ",
+      "term": "yml",
       "count": 7
     },
     {
-      "term": "のs",
+      "term": "uses",
       "count": 7
     },
     {
-      "term": "to",
-      "count": 7
-    },
-    {
-      "term": "とは",
-      "count": 7
-    },
-    {
-      "term": "具体的な",
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "るプ",
+      "term": "プロバイ",
       "count": 6
     },
     {
-      "term": "方法",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "策に",
+      "term": "関連",
       "count": 6
     },
     {
-      "term": "省略する",
+      "term": "ウン",
       "count": 6
     },
     {
-      "term": "クセ",
+      "term": "の利",
       "count": 6
     },
     {
-      "term": "対し",
+      "term": "の事",
       "count": 6
     },
     {
-      "term": "容を",
+      "term": "どの",
       "count": 6
     },
     {
-      "term": "github",
+      "term": "のレ",
       "count": 6
+    },
+    {
+      "term": "らな",
+      "count": 6
+    },
+    {
+      "term": "セキ",
+      "count": 5
+    },
+    {
+      "term": "する",
+      "count": 5
+    },
+    {
+      "term": "そし",
+      "count": 5
     }
   ],
   "meetings": [
