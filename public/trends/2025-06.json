@@ -2,159 +2,135 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "プラ",
-      "count": 26
+      "term": "イル",
+      "count": 20
     },
     {
-      "term": "こと",
-      "count": 25
+      "term": "成果",
+      "count": 20
     },
     {
-      "term": "るこ",
-      "count": 24
-    },
-    {
-      "term": "aws",
-      "count": 19
-    },
-    {
-      "term": "ージ",
-      "count": 18
-    },
-    {
-      "term": "とし",
-      "count": 18
-    },
-    {
-      "term": "ない",
-      "count": 17
-    },
-    {
-      "term": "の保",
-      "count": 16
-    },
-    {
-      "term": "物の",
-      "count": 16
-    },
-    {
-      "term": "メタ",
+      "term": "およ",
       "count": 15
     },
     {
-      "term": "での",
+      "term": "とな",
+      "count": 15
+    },
+    {
+      "term": "この",
       "count": 14
     },
     {
-      "term": "ドフ",
-      "count": 14
+      "term": "ーク",
+      "count": 13
     },
     {
-      "term": "対策",
-      "count": 12
+      "term": "用す",
+      "count": 13
     },
     {
-      "term": "タデ",
-      "count": 11
-    },
-    {
-      "term": "理を",
+      "term": "トの",
       "count": 10
     },
     {
-      "term": "ー ",
+      "term": "る\n",
       "count": 10
-    },
-    {
-      "term": "バー",
-      "count": 10
-    },
-    {
-      "term": "jobs",
-      "count": 10
-    },
-    {
-      "term": "のリ",
-      "count": 9
-    },
-    {
-      "term": "ェア",
-      "count": 9
-    },
-    {
-      "term": "れて",
-      "count": 9
-    },
-    {
-      "term": "terraform",
-      "count": 9
     },
     {
       "term": "る具",
+      "count": 10
+    },
+    {
+      "term": "るが",
       "count": 9
     },
     {
-      "term": "の対",
+      "term": "アク",
       "count": 9
     },
     {
-      "term": "特有",
+      "term": "ステ",
       "count": 8
     },
     {
-      "term": "書で",
+      "term": "よび",
       "count": 8
     },
     {
-      "term": "用し",
+      "term": "バイ",
       "count": 8
     },
     {
-      "term": "対象",
+      "term": "ウェ",
       "count": 8
     },
     {
-      "term": "commit",
+      "term": "定す",
       "count": 8
     },
     {
-      "term": "示す",
+      "term": "ルー",
+      "count": 8
+    },
+    {
+      "term": "git",
+      "count": 8
+    },
+    {
+      "term": "指定",
+      "count": 8
+    },
+    {
+      "term": "on",
+      "count": 8
+    },
+    {
+      "term": "内の",
       "count": 7
     },
     {
-      "term": "主体",
+      "term": "の仕",
       "count": 7
     },
     {
-      "term": "リソ",
+      "term": "ダー",
       "count": 7
     },
     {
-      "term": "ると",
+      "term": "るプ",
       "count": 7
     },
     {
-      "term": "にな",
+      "term": "ャン",
       "count": 7
     },
     {
-      "term": "トフォー",
+      "term": "対し",
       "count": 7
     },
     {
-      "term": "yml",
+      "term": "registry",
       "count": 7
     },
     {
-      "term": "uses",
+      "term": "ンバ",
       "count": 7
     },
     {
-      "term": "開発",
+      "term": "能で",
+      "count": 7
+    },
+    {
+      "term": "env",
+      "count": 7
+    },
+    {
+      "term": "ート",
       "count": 6
     },
     {
-      "term": "プロバイ",
+      "term": "通し",
       "count": 6
     },
     {
@@ -162,43 +138,67 @@
       "count": 6
     },
     {
-      "term": "関連",
+      "term": "た ",
       "count": 6
     },
     {
-      "term": "ウン",
+      "term": "たt",
       "count": 6
     },
     {
-      "term": "の利",
+      "term": "キャ",
       "count": 6
     },
     {
-      "term": "の事",
+      "term": "策に",
       "count": 6
     },
     {
-      "term": "どの",
+      "term": "など",
       "count": 6
     },
     {
-      "term": "のレ",
+      "term": "format",
       "count": 6
     },
     {
-      "term": "らな",
+      "term": "workflows",
       "count": 6
     },
     {
-      "term": "セキ",
+      "term": "slsa",
+      "count": 6
+    },
+    {
+      "term": "用者",
       "count": 5
     },
     {
-      "term": "する",
+      "term": "理脆",
       "count": 5
     },
     {
-      "term": "そし",
+      "term": "共通",
+      "count": 5
+    },
+    {
+      "term": "よっ",
+      "count": 5
+    },
+    {
+      "term": "サプ",
+      "count": 5
+    },
+    {
+      "term": "理下",
+      "count": 5
+    },
+    {
+      "term": "で ",
+      "count": 5
+    },
+    {
+      "term": "うい",
       "count": 5
     }
   ],
