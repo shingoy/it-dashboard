@@ -3,14 +3,26 @@
   "keywords": [
     {
       "term": "図 ",
-      "count": 26
+      "count": 27
     },
     {
-      "term": "トリ",
-      "count": 20
+      "term": "github",
+      "count": 25
     },
     {
-      "term": "パイプラ",
+      "term": "構成",
+      "count": 21
+    },
+    {
+      "term": "ルド",
+      "count": 19
+    },
+    {
+      "term": "イプ",
+      "count": 19
+    },
+    {
+      "term": "ci",
       "count": 17
     },
     {
@@ -22,115 +34,91 @@
       "count": 16
     },
     {
-      "term": "ービ",
+      "term": "ァイ",
       "count": 16
     },
     {
-      "term": "よび",
+      "term": "信頼",
       "count": 15
     },
     {
-      "term": "フェ",
+      "term": "ォー",
       "count": 15
     },
     {
-      "term": "ラッ",
+      "term": "なる",
       "count": 15
     },
     {
-      "term": "るた",
-      "count": 15
-    },
-    {
-      "term": "スコ",
-      "count": 14
-    },
-    {
-      "term": "る必",
-      "count": 14
-    },
-    {
-      "term": "とな",
-      "count": 14
-    },
-    {
-      "term": "必要",
-      "count": 14
-    },
-    {
-      "term": "中略",
-      "count": 14
-    },
-    {
-      "term": "パイ",
+      "term": "ルを",
       "count": 13
     },
     {
-      "term": "サービス",
+      "term": "署名",
       "count": 12
     },
     {
-      "term": "の実",
+      "term": "チームの",
       "count": 11
     },
     {
-      "term": "のた",
-      "count": 11
-    },
-    {
-      "term": "保 ",
+      "term": "状態",
       "count": 10
     },
     {
-      "term": "ブラ",
+      "term": "範囲",
       "count": 10
     },
     {
-      "term": "成果物の",
+      "term": "し ",
       "count": 10
     },
     {
-      "term": "のリ",
+      "term": "は ",
+      "count": 10
+    },
+    {
+      "term": "workflows",
+      "count": 10
+    },
+    {
+      "term": "の制",
       "count": 9
     },
     {
-      "term": "に対",
+      "term": "検証",
       "count": 9
     },
     {
-      "term": "ポジ",
+      "term": "セス",
+      "count": 9
+    },
+    {
+      "term": "uses",
+      "count": 9
+    },
+    {
+      "term": "プラ",
       "count": 8
     },
     {
-      "term": "の取",
+      "term": "リソ",
       "count": 8
     },
     {
-      "term": "ンの",
+      "term": "制限",
       "count": 8
     },
     {
-      "term": "にも",
+      "term": "commit",
       "count": 8
     },
     {
-      "term": "docker",
-      "count": 8
-    },
-    {
-      "term": "成さ",
-      "count": 8
-    },
-    {
-      "term": "共通",
+      "term": "組織",
       "count": 7
     },
     {
-      "term": "ジト",
-      "count": 7
-    },
-    {
-      "term": "ダー",
+      "term": "トに",
       "count": 7
     },
     {
@@ -138,68 +126,80 @@
       "count": 7
     },
     {
-      "term": "ド上",
+      "term": "with",
       "count": 7
     },
     {
-      "term": "いた",
-      "count": 7
-    },
-    {
-      "term": "ンバ",
-      "count": 7
-    },
-    {
-      "term": "digest",
-      "count": 7
-    },
-    {
-      "term": "チの",
+      "term": "ショ",
       "count": 6
     },
     {
-      "term": "策 ",
+      "term": "ワー",
       "count": 6
     },
     {
-      "term": "ージ",
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "における",
+      "term": "の保護",
       "count": 6
     },
     {
-      "term": "リバ",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "フト",
+      "term": "タデータ",
       "count": 6
     },
     {
-      "term": "ムは",
+      "term": "クト",
       "count": 6
     },
     {
-      "term": "ウン",
+      "term": "アッ",
       "count": 6
     },
     {
-      "term": "にて",
+      "term": "省略",
       "count": 6
     },
     {
-      "term": "本書",
+      "term": "ある",
       "count": 6
     },
     {
-      "term": "影響",
+      "term": "定し",
       "count": 6
     },
     {
-      "term": "secrets",
+      "term": "image",
       "count": 6
+    },
+    {
+      "term": "象と",
+      "count": 6
+    },
+    {
+      "term": "critical",
+      "count": 6
+    },
+    {
+      "term": "predicate",
+      "count": 6
+    },
+    {
+      "term": "む運",
+      "count": 5
+    },
+    {
+      "term": "理 ",
+      "count": 5
+    },
+    {
+      "term": "示す",
+      "count": 5
     }
   ],
   "meetings": [
