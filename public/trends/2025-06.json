@@ -2,95 +2,131 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "イル",
+      "term": "図 ",
+      "count": 26
+    },
+    {
+      "term": "トリ",
       "count": 20
     },
     {
-      "term": "成果",
-      "count": 20
+      "term": "パイプラ",
+      "count": 17
     },
     {
-      "term": "およ",
-      "count": 15
+      "term": "によ",
+      "count": 16
     },
     {
-      "term": "とな",
-      "count": 15
+      "term": "ソー",
+      "count": 16
     },
     {
-      "term": "この",
-      "count": 14
-    },
-    {
-      "term": "ーク",
-      "count": 13
-    },
-    {
-      "term": "用す",
-      "count": 13
-    },
-    {
-      "term": "トの",
-      "count": 10
-    },
-    {
-      "term": "る\n",
-      "count": 10
-    },
-    {
-      "term": "る具",
-      "count": 10
-    },
-    {
-      "term": "るが",
-      "count": 9
-    },
-    {
-      "term": "アク",
-      "count": 9
-    },
-    {
-      "term": "ステ",
-      "count": 8
+      "term": "ービ",
+      "count": 16
     },
     {
       "term": "よび",
+      "count": 15
+    },
+    {
+      "term": "フェ",
+      "count": 15
+    },
+    {
+      "term": "ラッ",
+      "count": 15
+    },
+    {
+      "term": "るた",
+      "count": 15
+    },
+    {
+      "term": "スコ",
+      "count": 14
+    },
+    {
+      "term": "る必",
+      "count": 14
+    },
+    {
+      "term": "とな",
+      "count": 14
+    },
+    {
+      "term": "必要",
+      "count": 14
+    },
+    {
+      "term": "中略",
+      "count": 14
+    },
+    {
+      "term": "パイ",
+      "count": 13
+    },
+    {
+      "term": "サービス",
+      "count": 12
+    },
+    {
+      "term": "の実",
+      "count": 11
+    },
+    {
+      "term": "のた",
+      "count": 11
+    },
+    {
+      "term": "保 ",
+      "count": 10
+    },
+    {
+      "term": "ブラ",
+      "count": 10
+    },
+    {
+      "term": "成果物の",
+      "count": 10
+    },
+    {
+      "term": "のリ",
+      "count": 9
+    },
+    {
+      "term": "に対",
+      "count": 9
+    },
+    {
+      "term": "ポジ",
       "count": 8
     },
     {
-      "term": "バイ",
+      "term": "の取",
       "count": 8
     },
     {
-      "term": "ウェ",
+      "term": "ンの",
       "count": 8
     },
     {
-      "term": "定す",
+      "term": "にも",
       "count": 8
     },
     {
-      "term": "ルー",
+      "term": "docker",
       "count": 8
     },
     {
-      "term": "git",
+      "term": "成さ",
       "count": 8
     },
     {
-      "term": "指定",
-      "count": 8
-    },
-    {
-      "term": "on",
-      "count": 8
-    },
-    {
-      "term": "内の",
+      "term": "共通",
       "count": 7
     },
     {
-      "term": "の仕",
+      "term": "ジト",
       "count": 7
     },
     {
@@ -98,19 +134,15 @@
       "count": 7
     },
     {
-      "term": "るプ",
+      "term": "すべ",
       "count": 7
     },
     {
-      "term": "ャン",
+      "term": "ド上",
       "count": 7
     },
     {
-      "term": "対し",
-      "count": 7
-    },
-    {
-      "term": "registry",
+      "term": "いた",
       "count": 7
     },
     {
@@ -118,88 +150,56 @@
       "count": 7
     },
     {
-      "term": "能で",
+      "term": "digest",
       "count": 7
     },
     {
-      "term": "env",
-      "count": 7
-    },
-    {
-      "term": "ート",
+      "term": "チの",
       "count": 6
     },
     {
-      "term": "通し",
+      "term": "策 ",
       "count": 6
     },
     {
-      "term": "高い",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "た ",
+      "term": "における",
       "count": 6
     },
     {
-      "term": "たt",
+      "term": "リバ",
       "count": 6
     },
     {
-      "term": "キャ",
+      "term": "フト",
       "count": 6
     },
     {
-      "term": "策に",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "など",
+      "term": "ウン",
       "count": 6
     },
     {
-      "term": "format",
+      "term": "にて",
       "count": 6
     },
     {
-      "term": "workflows",
+      "term": "本書",
       "count": 6
     },
     {
-      "term": "slsa",
+      "term": "影響",
       "count": 6
     },
     {
-      "term": "用者",
-      "count": 5
-    },
-    {
-      "term": "理脆",
-      "count": 5
-    },
-    {
-      "term": "共通",
-      "count": 5
-    },
-    {
-      "term": "よっ",
-      "count": 5
-    },
-    {
-      "term": "サプ",
-      "count": 5
-    },
-    {
-      "term": "理下",
-      "count": 5
-    },
-    {
-      "term": "で ",
-      "count": 5
-    },
-    {
-      "term": "うい",
-      "count": 5
+      "term": "secrets",
+      "count": 6
     }
   ],
   "meetings": [
