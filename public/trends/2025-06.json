@@ -2,67 +2,59 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 27
+      "term": "る ",
+      "count": 28
     },
     {
-      "term": "github",
-      "count": 25
+      "term": "でき",
+      "count": 23
     },
     {
       "term": "構成",
       "count": 21
     },
     {
-      "term": "ルド",
-      "count": 19
+      "term": "ット",
+      "count": 20
     },
     {
-      "term": "イプ",
-      "count": 19
+      "term": "トリ",
+      "count": 20
     },
     {
-      "term": "ci",
+      "term": "name",
       "count": 17
     },
     {
-      "term": "によ",
-      "count": 16
-    },
-    {
-      "term": "ソー",
-      "count": 16
-    },
-    {
-      "term": "ァイ",
-      "count": 16
-    },
-    {
-      "term": "信頼",
+      "term": "利用",
       "count": 15
     },
     {
-      "term": "ォー",
+      "term": "ービ",
       "count": 15
     },
     {
-      "term": "なる",
+      "term": "とな",
       "count": 15
     },
     {
-      "term": "ルを",
-      "count": 13
+      "term": "ータ",
+      "count": 15
     },
     {
-      "term": "署名",
-      "count": 12
+      "term": "全性",
+      "count": 14
     },
     {
-      "term": "チームの",
+      "term": "この",
+      "count": 14
+    },
+    {
+      "term": "存物",
       "count": 11
     },
     {
-      "term": "状態",
+      "term": "を含",
       "count": 10
     },
     {
@@ -70,47 +62,63 @@
       "count": 10
     },
     {
-      "term": "し ",
+      "term": "の成",
       "count": 10
     },
     {
-      "term": "は ",
+      "term": "可能",
       "count": 10
     },
     {
-      "term": "workflows",
-      "count": 10
-    },
-    {
-      "term": "の制",
+      "term": "含む",
       "count": 9
     },
     {
-      "term": "検証",
+      "term": "脆弱性管",
       "count": 9
     },
     {
-      "term": "セス",
+      "term": "た ",
       "count": 9
     },
     {
-      "term": "uses",
+      "term": "にも",
       "count": 9
     },
     {
-      "term": "プラ",
+      "term": "ーを",
+      "count": 9
+    },
+    {
+      "term": "runs",
+      "count": 9
+    },
+    {
+      "term": "ック",
       "count": 8
     },
     {
-      "term": "リソ",
+      "term": "code",
       "count": 8
     },
     {
-      "term": "制限",
+      "term": "スト",
       "count": 8
     },
     {
-      "term": "commit",
+      "term": "フェーズ",
+      "count": 8
+    },
+    {
+      "term": "提供",
+      "count": 8
+    },
+    {
+      "term": "の構",
+      "count": 8
+    },
+    {
+      "term": "それ",
       "count": 8
     },
     {
@@ -118,39 +126,55 @@
       "count": 7
     },
     {
-      "term": "トに",
+      "term": "運用",
       "count": 7
     },
     {
-      "term": "すべ",
+      "term": "カル",
       "count": 7
     },
     {
-      "term": "with",
+      "term": "保 ",
       "count": 7
     },
     {
-      "term": "ショ",
+      "term": "もの",
+      "count": 7
+    },
+    {
+      "term": "ンb",
+      "count": 7
+    },
+    {
+      "term": "アッ",
+      "count": 7
+    },
+    {
+      "term": "混入",
+      "count": 7
+    },
+    {
+      "term": "ットの保",
       "count": 6
     },
     {
-      "term": "ワー",
+      "term": "の漏洩対",
       "count": 6
     },
     {
-      "term": "具体的な",
+      "term": "ス ",
       "count": 6
     },
     {
-      "term": "の保護",
+      "term": "ルと",
       "count": 6
     },
     {
-      "term": "高い",
+      "term": "はプ",
       "count": 6
     },
     {
-      "term": "タデータ",
+      "term": "ジの",
       "count": 6
     },
     {
@@ -158,48 +182,24 @@
       "count": 6
     },
     {
-      "term": "アッ",
+      "term": "とも",
       "count": 6
     },
     {
-      "term": "省略",
+      "term": "はな",
       "count": 6
     },
     {
-      "term": "ある",
+      "term": "らな",
       "count": 6
     },
     {
-      "term": "定し",
+      "term": "に加",
       "count": 6
     },
     {
-      "term": "image",
+      "term": "るそ",
       "count": 6
-    },
-    {
-      "term": "象と",
-      "count": 6
-    },
-    {
-      "term": "critical",
-      "count": 6
-    },
-    {
-      "term": "predicate",
-      "count": 6
-    },
-    {
-      "term": "む運",
-      "count": 5
-    },
-    {
-      "term": "理 ",
-      "count": 5
-    },
-    {
-      "term": "示す",
-      "count": 5
     }
   ],
   "meetings": [
