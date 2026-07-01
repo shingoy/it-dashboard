@@ -2,191 +2,155 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "る ",
-      "count": 28
+      "term": "るこ",
+      "count": 24
     },
     {
-      "term": "でき",
-      "count": 23
+      "term": "物の",
+      "count": 16
     },
     {
-      "term": "構成",
-      "count": 21
-    },
-    {
-      "term": "ット",
-      "count": 20
-    },
-    {
-      "term": "トリ",
-      "count": 20
-    },
-    {
-      "term": "name",
-      "count": 17
-    },
-    {
-      "term": "利用",
-      "count": 15
-    },
-    {
-      "term": "ービ",
-      "count": 15
-    },
-    {
-      "term": "とな",
-      "count": 15
-    },
-    {
-      "term": "ータ",
-      "count": 15
-    },
-    {
-      "term": "全性",
+      "term": "ドフ",
       "count": 14
     },
     {
-      "term": "この",
-      "count": 14
+      "term": "るた",
+      "count": 13
     },
     {
-      "term": "存物",
+      "term": "生成",
+      "count": 13
+    },
+    {
+      "term": "対策",
+      "count": 12
+    },
+    {
+      "term": "フォーム",
       "count": 11
     },
     {
-      "term": "を含",
+      "term": "依存物の",
+      "count": 11
+    },
+    {
+      "term": "略 ",
+      "count": 11
+    },
+    {
+      "term": "確保",
       "count": 10
     },
     {
-      "term": "範囲",
+      "term": "クレ",
       "count": 10
     },
     {
-      "term": "の成",
+      "term": "ー ",
       "count": 10
-    },
-    {
-      "term": "可能",
-      "count": 10
-    },
-    {
-      "term": "含む",
-      "count": 9
-    },
-    {
-      "term": "脆弱性管",
-      "count": 9
-    },
-    {
-      "term": "た ",
-      "count": 9
-    },
-    {
-      "term": "にも",
-      "count": 9
-    },
-    {
-      "term": "ーを",
-      "count": 9
-    },
-    {
-      "term": "runs",
-      "count": 9
-    },
-    {
-      "term": "ック",
-      "count": 8
-    },
-    {
-      "term": "code",
-      "count": 8
-    },
-    {
-      "term": "スト",
-      "count": 8
-    },
-    {
-      "term": "フェーズ",
-      "count": 8
     },
     {
       "term": "提供",
+      "count": 10
+    },
+    {
+      "term": "依存",
+      "count": 10
+    },
+    {
+      "term": "10",
+      "count": 10
+    },
+    {
+      "term": "push",
+      "count": 10
+    },
+    {
+      "term": "ubuntu",
+      "count": 10
+    },
+    {
+      "term": "ーズ",
+      "count": 9
+    },
+    {
+      "term": "ムチ",
+      "count": 9
+    },
+    {
+      "term": "対象",
+      "count": 9
+    },
+    {
+      "term": "ンa",
+      "count": 9
+    },
+    {
+      "term": "trivy",
+      "count": 9
+    },
+    {
+      "term": "なる",
+      "count": 9
+    },
+    {
+      "term": "トを",
       "count": 8
     },
     {
-      "term": "の構",
+      "term": "能で",
       "count": 8
     },
     {
-      "term": "それ",
-      "count": 8
-    },
-    {
-      "term": "組織",
+      "term": "ソフ",
       "count": 7
     },
     {
-      "term": "運用",
+      "term": "る図",
       "count": 7
     },
     {
-      "term": "カル",
+      "term": "にす",
       "count": 7
     },
     {
-      "term": "保 ",
+      "term": "がある",
       "count": 7
     },
     {
-      "term": "もの",
+      "term": "ルで",
       "count": 7
     },
     {
-      "term": "ンb",
-      "count": 7
-    },
-    {
-      "term": "アッ",
-      "count": 7
-    },
-    {
-      "term": "混入",
-      "count": 7
-    },
-    {
-      "term": "ットの保",
+      "term": "ード管理",
       "count": 6
     },
     {
-      "term": "の漏洩対",
+      "term": "トに",
       "count": 6
     },
     {
-      "term": "ス ",
+      "term": "頼で",
       "count": 6
     },
     {
-      "term": "ルと",
+      "term": "ロバ",
       "count": 6
     },
     {
-      "term": "はプ",
+      "term": "フ ",
       "count": 6
     },
     {
-      "term": "ジの",
+      "term": "るそ",
       "count": 6
     },
     {
-      "term": "クト",
+      "term": "の利",
       "count": 6
     },
     {
-      "term": "とも",
-      "count": 6
-    },
-    {
-      "term": "はな",
+      "term": "また",
       "count": 6
     },
     {
@@ -194,12 +158,48 @@
       "count": 6
     },
     {
-      "term": "に加",
+      "term": "predicate",
       "count": 6
     },
     {
-      "term": "るそ",
-      "count": 6
+      "term": "リオ",
+      "count": 5
+    },
+    {
+      "term": "めの",
+      "count": 5
+    },
+    {
+      "term": "証跡",
+      "count": 5
+    },
+    {
+      "term": "の保護",
+      "count": 5
+    },
+    {
+      "term": "のソ",
+      "count": 5
+    },
+    {
+      "term": "実際",
+      "count": 5
+    },
+    {
+      "term": "者が",
+      "count": 5
+    },
+    {
+      "term": "対し",
+      "count": 5
+    },
+    {
+      "term": "なっ",
+      "count": 5
+    },
+    {
+      "term": "当該",
+      "count": 5
     }
   ],
   "meetings": [
