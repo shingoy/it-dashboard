@@ -2,95 +2,111 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "であ",
-      "count": 22
+      "term": "プラ",
+      "count": 25
     },
     {
-      "term": "イプ",
+      "term": "パイ",
       "count": 21
     },
     {
-      "term": "ース",
-      "count": 17
+      "term": "きる",
+      "count": 21
     },
     {
-      "term": "した",
-      "count": 17
+      "term": "成果",
+      "count": 20
     },
     {
-      "term": "ない",
-      "count": 17
-    },
-    {
-      "term": "って",
+      "term": "れた",
       "count": 16
     },
     {
-      "term": "のた",
+      "term": "るた",
       "count": 15
     },
     {
-      "term": "いて",
+      "term": "ビス",
+      "count": 15
+    },
+    {
+      "term": "られ",
       "count": 14
     },
     {
-      "term": "フェ",
+      "term": "workflows",
       "count": 14
     },
     {
-      "term": "プロ",
-      "count": 14
-    },
-    {
-      "term": "この",
-      "count": 14
-    },
-    {
-      "term": "構成",
+      "term": "生成",
       "count": 13
     },
     {
-      "term": "とで",
-      "count": 13
-    },
-    {
-      "term": "テナ",
+      "term": "ース",
       "count": 12
     },
     {
-      "term": "ズの",
+      "term": "こで",
+      "count": 12
+    },
+    {
+      "term": "フォーム",
       "count": 11
     },
     {
-      "term": "code",
+      "term": "はc",
+      "count": 11
+    },
+    {
+      "term": "範囲",
+      "count": 11
+    },
+    {
+      "term": "10",
+      "count": 11
+    },
+    {
+      "term": "ェー",
       "count": 10
     },
     {
-      "term": "シー",
+      "term": "ムチ",
       "count": 10
     },
     {
-      "term": "セス",
+      "term": "定し",
       "count": 10
     },
     {
-      "term": "on",
+      "term": "リポジト",
       "count": 10
     },
     {
-      "term": "ンの",
+      "term": "jobs",
+      "count": 10
+    },
+    {
+      "term": "リポ",
       "count": 9
     },
     {
-      "term": "run",
+      "term": "ェア",
       "count": 9
     },
     {
-      "term": "シス",
+      "term": "cat",
+      "count": 9
+    },
+    {
+      "term": "トに",
       "count": 8
     },
     {
-      "term": "通し",
+      "term": "ド上",
+      "count": 8
+    },
+    {
+      "term": "バイ",
       "count": 8
     },
     {
@@ -98,107 +114,91 @@
       "count": 8
     },
     {
+      "term": "作成",
+      "count": 8
+    },
+    {
+      "term": "組み",
+      "count": 8
+    },
+    {
+      "term": "システム",
+      "count": 7
+    },
+    {
+      "term": "の仕",
+      "count": 7
+    },
+    {
+      "term": "省略",
+      "count": 7
+    },
+    {
+      "term": "と同",
+      "count": 7
+    },
+    {
+      "term": "めに",
+      "count": 6
+    },
+    {
+      "term": "変更",
+      "count": 6
+    },
+    {
+      "term": "ジト",
+      "count": 6
+    },
+    {
+      "term": "ムに",
+      "count": 6
+    },
+    {
       "term": "それ",
-      "count": 8
-    },
-    {
-      "term": "メタデー",
-      "count": 8
-    },
-    {
-      "term": "漏洩",
-      "count": 7
-    },
-    {
-      "term": "確保",
-      "count": 7
-    },
-    {
-      "term": "に ",
-      "count": 7
-    },
-    {
-      "term": "バリ",
-      "count": 7
-    },
-    {
-      "term": "および",
-      "count": 7
-    },
-    {
-      "term": "digest",
-      "count": 7
-    },
-    {
-      "term": "混入",
-      "count": 7
-    },
-    {
-      "term": "トの",
       "count": 6
     },
     {
-      "term": "ージ",
+      "term": "とい",
       "count": 6
     },
     {
-      "term": "高い",
+      "term": "tf",
       "count": 6
     },
     {
-      "term": "性が",
+      "term": "format",
       "count": 6
     },
     {
-      "term": "リバ",
+      "term": "えて",
       "count": 6
     },
     {
-      "term": "にて",
-      "count": 6
-    },
-    {
-      "term": "能で",
-      "count": 6
-    },
-    {
-      "term": "and",
-      "count": 6
-    },
-    {
-      "term": "scanners",
-      "count": 6
-    },
-    {
-      "term": "トは",
+      "term": "用者",
       "count": 5
     },
     {
-      "term": "守 ",
+      "term": "実装",
       "count": 5
     },
     {
-      "term": "の漏",
+      "term": "ック",
       "count": 5
     },
     {
-      "term": "性管",
+      "term": "証跡",
       "count": 5
     },
     {
-      "term": "チームの",
+      "term": "ることを",
       "count": 5
     },
     {
-      "term": "のソ",
+      "term": "想定",
       "count": 5
     },
     {
-      "term": "はあ",
-      "count": 5
-    },
-    {
-      "term": "体の",
+      "term": "フ ",
       "count": 5
     }
   ],
