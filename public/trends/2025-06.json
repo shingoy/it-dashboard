@@ -2,123 +2,127 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 25
+      "term": "図 ",
+      "count": 28
     },
     {
-      "term": "した",
+      "term": "る ",
       "count": 24
     },
     {
-      "term": "実行",
-      "count": 16
+      "term": "利用",
+      "count": 21
     },
     {
-      "term": "ータ",
+      "term": "ァイ",
+      "count": 19
+    },
+    {
+      "term": "パイ",
       "count": 15
     },
     {
-      "term": "への",
+      "term": "コン",
       "count": 15
     },
     {
-      "term": "脆弱",
+      "term": "いて",
       "count": 14
     },
     {
-      "term": "よる",
+      "term": "によ",
+      "count": 14
+    },
+    {
+      "term": "ルを",
+      "count": 14
+    },
+    {
+      "term": "ツー",
+      "count": 14
+    },
+    {
+      "term": "ンを",
       "count": 13
     },
     {
-      "term": "シー",
+      "term": "とで",
       "count": 13
     },
     {
-      "term": "ソースコ",
+      "term": "ータ",
       "count": 13
     },
     {
-      "term": "を取",
-      "count": 12
+      "term": "trivy",
+      "count": 13
     },
     {
-      "term": "とが",
-      "count": 12
-    },
-    {
-      "term": "制限",
+      "term": "考え",
       "count": 11
     },
     {
-      "term": "確保",
+      "term": "com",
+      "count": 11
+    },
+    {
+      "term": "ック",
       "count": 10
     },
     {
-      "term": "って",
+      "term": "ここ",
       "count": 10
     },
     {
-      "term": "git",
-      "count": 10
-    },
-    {
-      "term": "スキ",
-      "count": 10
-    },
-    {
-      "term": "依存物の",
+      "term": "の確",
       "count": 9
     },
     {
-      "term": "依存",
+      "term": "提供",
       "count": 9
     },
     {
-      "term": "れた",
+      "term": "ファ",
       "count": 9
     },
     {
-      "term": "ーカ",
+      "term": "設定",
+      "count": 9
+    },
+    {
+      "term": "用い",
       "count": 8
     },
     {
-      "term": "ci",
+      "term": "のs",
       "count": 8
     },
     {
-      "term": "スト",
+      "term": "commit",
       "count": 8
     },
     {
-      "term": "リス",
+      "term": "ルで",
       "count": 8
     },
     {
-      "term": "作成",
-      "count": 8
+      "term": "リ及",
+      "count": 7
     },
     {
-      "term": "の管",
-      "count": 8
+      "term": "ト情",
+      "count": 7
     },
     {
-      "term": "いう",
-      "count": 8
+      "term": "ローカル",
+      "count": 7
     },
     {
-      "term": "のア",
-      "count": 8
+      "term": "脆弱性管",
+      "count": 7
     },
     {
-      "term": "指定",
-      "count": 8
-    },
-    {
-      "term": "jobs",
-      "count": 8
-    },
-    {
-      "term": "クレ",
+      "term": "デリバリ",
       "count": 7
     },
     {
@@ -126,39 +130,59 @@
       "count": 7
     },
     {
-      "term": "など",
+      "term": "バイナリ",
       "count": 7
     },
     {
-      "term": "ルに",
+      "term": "ング",
       "count": 7
     },
     {
-      "term": "とは",
+      "term": "ェッ",
       "count": 7
     },
     {
-      "term": "ショ",
+      "term": "registry",
+      "count": 7
+    },
+    {
+      "term": "ークレッ",
+      "count": 7
+    },
+    {
+      "term": "ド設",
+      "count": 7
+    },
+    {
+      "term": "タデ",
+      "count": 7
+    },
+    {
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "ード管理",
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "たが",
+      "term": "キー",
       "count": 6
     },
     {
-      "term": "における",
+      "term": "頼で",
       "count": 6
     },
     {
-      "term": "ムが",
+      "term": "フ ",
       "count": 6
     },
     {
-      "term": "どの",
+      "term": "タデータ",
+      "count": 6
+    },
+    {
+      "term": "image",
       "count": 6
     },
     {
@@ -166,39 +190,15 @@
       "count": 6
     },
     {
-      "term": "ることが",
+      "term": "high",
       "count": 6
     },
     {
-      "term": "predicate",
-      "count": 6
-    },
-    {
-      "term": "ュリ",
+      "term": "含む",
       "count": 5
     },
     {
-      "term": "る成",
-      "count": 5
-    },
-    {
-      "term": "時の",
-      "count": 5
-    },
-    {
-      "term": "サプ",
-      "count": 5
-    },
-    {
-      "term": "配布",
-      "count": 5
-    },
-    {
-      "term": "実現",
-      "count": 5
-    },
-    {
-      "term": "について",
+      "term": "実装",
       "count": 5
     }
   ],
