@@ -2,187 +2,175 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 28
+      "term": "れる",
+      "count": 23
     },
     {
-      "term": "る ",
-      "count": 24
+      "term": "るこ",
+      "count": 23
     },
     {
-      "term": "利用",
-      "count": 21
-    },
-    {
-      "term": "ァイ",
+      "term": "ジト",
       "count": 19
     },
     {
-      "term": "パイ",
-      "count": 15
+      "term": "ェー",
+      "count": 17
     },
     {
-      "term": "コン",
-      "count": 15
+      "term": "ない",
+      "count": 17
     },
     {
-      "term": "いて",
+      "term": "れた",
+      "count": 16
+    },
+    {
+      "term": "ムチ",
       "count": 14
-    },
-    {
-      "term": "によ",
-      "count": 14
-    },
-    {
-      "term": "ルを",
-      "count": 14
-    },
-    {
-      "term": "ツー",
-      "count": 14
-    },
-    {
-      "term": "ンを",
-      "count": 13
-    },
-    {
-      "term": "とで",
-      "count": 13
-    },
-    {
-      "term": "ータ",
-      "count": 13
-    },
-    {
-      "term": "trivy",
-      "count": 13
-    },
-    {
-      "term": "考え",
-      "count": 11
-    },
-    {
-      "term": "com",
-      "count": 11
-    },
-    {
-      "term": "ック",
-      "count": 10
-    },
-    {
-      "term": "ここ",
-      "count": 10
-    },
-    {
-      "term": "の確",
-      "count": 9
-    },
-    {
-      "term": "提供",
-      "count": 9
-    },
-    {
-      "term": "ファ",
-      "count": 9
-    },
-    {
-      "term": "設定",
-      "count": 9
-    },
-    {
-      "term": "用い",
-      "count": 8
-    },
-    {
-      "term": "のs",
-      "count": 8
-    },
-    {
-      "term": "commit",
-      "count": 8
-    },
-    {
-      "term": "ルで",
-      "count": 8
-    },
-    {
-      "term": "リ及",
-      "count": 7
-    },
-    {
-      "term": "ト情",
-      "count": 7
-    },
-    {
-      "term": "ローカル",
-      "count": 7
-    },
-    {
-      "term": "脆弱性管",
-      "count": 7
-    },
-    {
-      "term": "デリバリ",
-      "count": 7
-    },
-    {
-      "term": "るま",
-      "count": 7
-    },
-    {
-      "term": "バイナリ",
-      "count": 7
-    },
-    {
-      "term": "ング",
-      "count": 7
-    },
-    {
-      "term": "ェッ",
-      "count": 7
-    },
-    {
-      "term": "registry",
-      "count": 7
-    },
-    {
-      "term": "ークレッ",
-      "count": 7
-    },
-    {
-      "term": "ド設",
-      "count": 7
     },
     {
       "term": "タデ",
-      "count": 7
+      "count": 14
     },
     {
-      "term": "開発",
-      "count": 6
+      "term": "スコ",
+      "count": 13
     },
     {
-      "term": "具体的な",
-      "count": 6
+      "term": "id",
+      "count": 13
     },
     {
-      "term": "キー",
-      "count": 6
+      "term": "範囲",
+      "count": 11
     },
     {
-      "term": "頼で",
-      "count": 6
+      "term": "terraform",
+      "count": 11
     },
     {
-      "term": "フ ",
-      "count": 6
+      "term": "的な",
+      "count": 10
     },
     {
-      "term": "タデータ",
-      "count": 6
+      "term": "いた",
+      "count": 10
+    },
+    {
+      "term": "に関",
+      "count": 9
+    },
+    {
+      "term": "push",
+      "count": 9
     },
     {
       "term": "image",
+      "count": 9
+    },
+    {
+      "term": "uses",
+      "count": 9
+    },
+    {
+      "term": "の確",
+      "count": 8
+    },
+    {
+      "term": "トを",
+      "count": 8
+    },
+    {
+      "term": "ーに",
+      "count": 8
+    },
+    {
+      "term": "示す",
+      "count": 7
+    },
+    {
+      "term": "資産",
+      "count": 7
+    },
+    {
+      "term": "関す",
+      "count": 7
+    },
+    {
+      "term": "あり",
+      "count": 7
+    },
+    {
+      "term": "ソフ",
+      "count": 7
+    },
+    {
+      "term": "リバ",
+      "count": 7
+    },
+    {
+      "term": "るプ",
+      "count": 7
+    },
+    {
+      "term": "連携",
+      "count": 7
+    },
+    {
+      "term": "ンb",
+      "count": 7
+    },
+    {
+      "term": "ルに",
+      "count": 7
+    },
+    {
+      "term": "latest",
+      "count": 7
+    },
+    {
+      "term": "ュリ",
+      "count": 6
+    },
+    {
+      "term": "の保護",
+      "count": 6
+    },
+    {
+      "term": "ロバ",
+      "count": 6
+    },
+    {
+      "term": "等の",
+      "count": 6
+    },
+    {
+      "term": "の署",
+      "count": 6
+    },
+    {
+      "term": "ンテナイ",
+      "count": 6
+    },
+    {
+      "term": "にな",
+      "count": 6
+    },
+    {
+      "term": "用し",
+      "count": 6
+    },
+    {
+      "term": "るよ",
+      "count": 6
+    },
+    {
+      "term": "を必",
+      "count": 6
+    },
+    {
+      "term": "rule",
       "count": 6
     },
     {
@@ -190,15 +178,27 @@
       "count": 6
     },
     {
-      "term": "high",
+      "term": "ビルド設",
       "count": 6
     },
     {
-      "term": "含む",
+      "term": "login",
+      "count": 6
+    },
+    {
+      "term": "をも",
       "count": 5
     },
     {
-      "term": "実装",
+      "term": "資産管理",
+      "count": 5
+    },
+    {
+      "term": "限 ",
+      "count": 5
+    },
+    {
+      "term": "ード",
       "count": 5
     }
   ],
