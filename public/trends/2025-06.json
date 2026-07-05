@@ -2,95 +2,111 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "して",
-      "count": 27
-    },
-    {
-      "term": "てい",
-      "count": 21
-    },
-    {
-      "term": "aws",
-      "count": 19
-    },
-    {
-      "term": "ーム",
+      "term": "リポジト",
       "count": 18
+    },
+    {
+      "term": "ビス",
+      "count": 16
+    },
+    {
+      "term": "ーク",
+      "count": 15
     },
     {
       "term": "フェ",
       "count": 15
     },
     {
-      "term": "テナ",
+      "term": "では",
       "count": 15
     },
     {
-      "term": "よう",
+      "term": "ナイ",
       "count": 15
     },
     {
-      "term": "られ",
+      "term": "メタ",
+      "count": 15
+    },
+    {
+      "term": "イン",
       "count": 14
     },
     {
-      "term": "cat",
+      "term": "ツー",
       "count": 14
     },
     {
-      "term": "性の",
+      "term": "るた",
+      "count": 14
+    },
+    {
+      "term": "タデ",
+      "count": 14
+    },
+    {
+      "term": "ける",
       "count": 13
     },
     {
-      "term": "につ",
+      "term": "場合",
+      "count": 13
+    },
+    {
+      "term": "レッ",
+      "count": 12
+    },
+    {
+      "term": "ーの",
+      "count": 12
+    },
+    {
+      "term": "れら",
+      "count": 12
+    },
+    {
+      "term": "ステ",
       "count": 11
     },
     {
-      "term": "の安",
+      "term": "10",
       "count": 11
     },
     {
-      "term": "の設",
-      "count": 11
-    },
-    {
-      "term": "メン",
+      "term": "ubuntu",
       "count": 10
     },
     {
-      "term": "いた",
-      "count": 10
-    },
-    {
-      "term": "脆弱性管",
+      "term": "に関",
       "count": 9
     },
     {
-      "term": "ンを",
+      "term": "よび",
       "count": 9
     },
     {
-      "term": "チェ",
+      "term": "リバ",
       "count": 9
     },
     {
-      "term": "com",
+      "term": "ムが",
       "count": 9
     },
     {
-      "term": "定内",
-      "count": 8
+      "term": "るこ",
+      "count": 9
     },
     {
-      "term": "及び",
-      "count": 8
+      "term": "runs",
+      "count": 9
     },
     {
       "term": "ョン",
       "count": 8
     },
     {
-      "term": "ビルド上",
+      "term": "脆弱性管",
       "count": 8
     },
     {
@@ -98,31 +114,23 @@
       "count": 8
     },
     {
-      "term": "なる",
+      "term": "し ",
       "count": 8
     },
     {
-      "term": "組織",
+      "term": "確認",
+      "count": 8
+    },
+    {
+      "term": "リ及",
       "count": 7
     },
     {
-      "term": "示す",
+      "term": "る主",
       "count": 7
     },
     {
-      "term": "洩対",
-      "count": 7
-    },
-    {
-      "term": "策 ",
-      "count": 7
-    },
-    {
-      "term": "リス",
-      "count": 7
-    },
-    {
-      "term": "これ",
+      "term": "の担",
       "count": 7
     },
     {
@@ -130,76 +138,68 @@
       "count": 7
     },
     {
-      "term": "図 ",
+      "term": "ル ",
       "count": 7
     },
     {
-      "term": "ド設",
+      "term": "トフォー",
       "count": 7
     },
     {
-      "term": "めに",
+      "term": "ソフトウ",
       "count": 6
+    },
+    {
+      "term": "ロバ",
+      "count": 6
+    },
+    {
+      "term": "アカ",
+      "count": 6
+    },
+    {
+      "term": "secrets",
+      "count": 6
+    },
+    {
+      "term": "ても",
+      "count": 6
+    },
+    {
+      "term": "をも",
+      "count": 5
+    },
+    {
+      "term": "リオ",
+      "count": 5
+    },
+    {
+      "term": "定内",
+      "count": 5
+    },
+    {
+      "term": "ォー",
+      "count": 5
     },
     {
       "term": "ロー",
-      "count": 6
+      "count": 5
     },
     {
-      "term": "28",
-      "count": 6
+      "term": "26",
+      "count": 5
     },
     {
-      "term": "スを",
-      "count": 6
+      "term": "ン特",
+      "count": 5
     },
     {
-      "term": "プロバイ",
-      "count": 6
+      "term": "べき",
+      "count": 5
     },
     {
-      "term": "ド上",
-      "count": 6
-    },
-    {
-      "term": "codebuild",
-      "count": 6
-    },
-    {
-      "term": "タデータ",
-      "count": 6
-    },
-    {
-      "term": "要がある",
-      "count": 6
-    },
-    {
-      "term": "供す",
-      "count": 6
-    },
-    {
-      "term": "完全",
-      "count": 6
-    },
-    {
-      "term": "のレ",
-      "count": 6
-    },
-    {
-      "term": "る図",
-      "count": 6
-    },
-    {
-      "term": "るs",
-      "count": 6
-    },
-    {
-      "term": "象と",
-      "count": 6
-    },
-    {
-      "term": "slsa",
-      "count": 6
+      "term": "準拠",
+      "count": 5
     }
   ],
   "meetings": [
