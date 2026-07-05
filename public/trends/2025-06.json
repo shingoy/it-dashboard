@@ -2,91 +2,111 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "リポジト",
+      "term": "ある",
+      "count": 23
+    },
+    {
+      "term": "ード",
+      "count": 21
+    },
+    {
+      "term": "とし",
       "count": 18
     },
     {
-      "term": "ビス",
+      "term": "物の",
+      "count": 17
+    },
+    {
+      "term": "aws",
       "count": 16
     },
     {
-      "term": "ーク",
+      "term": "トフ",
       "count": 15
     },
     {
-      "term": "フェ",
+      "term": "ンテ",
       "count": 15
     },
     {
-      "term": "では",
+      "term": "への",
       "count": 15
-    },
-    {
-      "term": "ナイ",
-      "count": 15
-    },
-    {
-      "term": "メタ",
-      "count": 15
-    },
-    {
-      "term": "イン",
-      "count": 14
-    },
-    {
-      "term": "ツー",
-      "count": 14
-    },
-    {
-      "term": "るた",
-      "count": 14
-    },
-    {
-      "term": "タデ",
-      "count": 14
     },
     {
       "term": "ける",
+      "count": 14
+    },
+    {
+      "term": "およ",
+      "count": 14
+    },
+    {
+      "term": "全性",
+      "count": 14
+    },
+    {
+      "term": "メタ",
+      "count": 14
+    },
+    {
+      "term": "にお",
       "count": 13
     },
     {
-      "term": "場合",
-      "count": 13
-    },
-    {
-      "term": "レッ",
+      "term": "護 ",
       "count": 12
     },
     {
-      "term": "ーの",
+      "term": "フェ",
       "count": 12
     },
     {
-      "term": "れら",
+      "term": "ファイル",
       "count": 12
     },
     {
-      "term": "ステ",
+      "term": "はc",
       "count": 11
     },
     {
-      "term": "10",
+      "term": "ラッ",
       "count": 11
     },
     {
-      "term": "ubuntu",
+      "term": "依存物の",
+      "count": 11
+    },
+    {
+      "term": "ない",
+      "count": 11
+    },
+    {
+      "term": "定し",
       "count": 10
     },
     {
-      "term": "に関",
+      "term": "依存",
+      "count": 10
+    },
+    {
+      "term": "10",
+      "count": 10
+    },
+    {
+      "term": "コンテナ",
+      "count": 10
+    },
+    {
+      "term": "おけ",
       "count": 9
     },
     {
-      "term": "よび",
+      "term": "ウェ",
       "count": 9
     },
     {
-      "term": "リバ",
+      "term": "定の",
       "count": 9
     },
     {
@@ -94,43 +114,35 @@
       "count": 9
     },
     {
-      "term": "るこ",
+      "term": "run",
       "count": 9
     },
     {
-      "term": "runs",
+      "term": "push",
       "count": 9
     },
     {
-      "term": "ョン",
+      "term": "code",
       "count": 8
     },
     {
-      "term": "脆弱性管",
+      "term": "物を",
       "count": 8
     },
     {
-      "term": "なお",
+      "term": "provenance",
       "count": 8
     },
     {
-      "term": "し ",
-      "count": 8
-    },
-    {
-      "term": "確認",
-      "count": 8
-    },
-    {
-      "term": "リ及",
+      "term": "ェーズの",
       "count": 7
     },
     {
-      "term": "る主",
+      "term": "クレ",
       "count": 7
     },
     {
-      "term": "の担",
+      "term": "を確",
       "count": 7
     },
     {
@@ -138,67 +150,55 @@
       "count": 7
     },
     {
-      "term": "ル ",
+      "term": "略す",
       "count": 7
     },
     {
-      "term": "トフォー",
-      "count": 7
-    },
-    {
-      "term": "ソフトウ",
+      "term": "ドフ",
       "count": 6
     },
     {
-      "term": "ロバ",
+      "term": "ビル",
       "count": 6
     },
     {
-      "term": "アカ",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "secrets",
+      "term": "ス ",
       "count": 6
     },
     {
-      "term": "ても",
+      "term": "取り",
       "count": 6
     },
     {
-      "term": "をも",
+      "term": "安全",
+      "count": 6
+    },
+    {
+      "term": "検出",
+      "count": 6
+    },
+    {
+      "term": "理脆",
       "count": 5
     },
     {
-      "term": "リオ",
+      "term": "とに",
       "count": 5
     },
     {
-      "term": "定内",
+      "term": "イン特有",
       "count": 5
     },
     {
-      "term": "ォー",
+      "term": "に保",
       "count": 5
     },
     {
-      "term": "ロー",
-      "count": 5
-    },
-    {
-      "term": "26",
-      "count": 5
-    },
-    {
-      "term": "ン特",
-      "count": 5
-    },
-    {
-      "term": "べき",
-      "count": 5
-    },
-    {
-      "term": "準拠",
+      "term": "実際",
       "count": 5
     }
   ],
