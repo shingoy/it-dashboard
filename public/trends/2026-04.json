@@ -2,191 +2,43 @@
   "month": "2026-04",
   "keywords": [
     {
-      "term": "を記",
+      "term": "複数の方",
       "count": 2
     },
     {
-      "term": "画令",
+      "term": "に含",
       "count": 2
     },
     {
-      "term": "経約",
+      "term": "和７",
       "count": 2
     },
     {
-      "term": "トフ",
+      "term": "決定",
       "count": 2
     },
     {
-      "term": "係す",
+      "term": "は予",
       "count": 2
     },
     {
-      "term": "駆動",
+      "term": "及び",
+      "count": 2
+    },
+    {
+      "term": "針に分類",
+      "count": 2
+    },
+    {
+      "term": "データ活",
       "count": 1
     },
     {
-      "term": "ード",
+      "term": "経や",
       "count": 1
     },
     {
-      "term": "クス",
-      "count": 1
-    },
-    {
-      "term": "コンテナ",
-      "count": 1
-    },
-    {
-      "term": "離職者及",
-      "count": 1
-    },
-    {
-      "term": "ナン",
-      "count": 1
-    },
-    {
-      "term": "の教",
-      "count": 1
-    },
-    {
-      "term": "革新的な",
-      "count": 1
-    },
-    {
-      "term": "速化",
-      "count": 1
-    },
-    {
-      "term": "造プ",
-      "count": 1
-    },
-    {
-      "term": "ルの開発",
-      "count": 1
-    },
-    {
-      "term": "的な変革",
-      "count": 1
-    },
-    {
-      "term": "ノロ",
-      "count": 1
-    },
-    {
-      "term": "の生",
-      "count": 1
-    },
-    {
-      "term": "度運",
-      "count": 1
-    },
-    {
-      "term": "ンテ",
-      "count": 1
-    },
-    {
-      "term": "繋げ",
-      "count": 1
-    },
-    {
-      "term": "半導",
-      "count": 1
-    },
-    {
-      "term": "保に",
-      "count": 1
-    },
-    {
-      "term": "金額の特",
-      "count": 1
-    },
-    {
-      "term": "セラミッ",
-      "count": 1
-    },
-    {
-      "term": "使う",
-      "count": 1
-    },
-    {
-      "term": "関連施策",
-      "count": 1
-    },
-    {
-      "term": "けａ",
-      "count": 1
-    },
-    {
-      "term": "盤モ",
-      "count": 1
-    },
-    {
-      "term": "発力",
-      "count": 1
-    },
-    {
-      "term": "類注",
-      "count": 1
-    },
-    {
-      "term": "革新的ハ",
-      "count": 1
-    },
-    {
-      "term": "ィジ",
-      "count": 1
-    },
-    {
-      "term": "にお",
-      "count": 1
-    },
-    {
-      "term": "が産",
-      "count": 1
-    },
-    {
-      "term": "科学研究",
-      "count": 1
-    },
-    {
-      "term": "た額を記",
-      "count": 1
-    },
-    {
-      "term": "新 ",
-      "count": 1
-    },
-    {
-      "term": "者向けの",
-      "count": 1
-    },
-    {
-      "term": "構築",
-      "count": 1
-    },
-    {
-      "term": "人工",
-      "count": 1
-    },
-    {
-      "term": "記載",
-      "count": 1
-    },
-    {
-      "term": "ugv",
-      "count": 1
-    },
-    {
-      "term": "438",
-      "count": 1
-    },
-    {
-      "term": "を見据え",
-      "count": 1
-    },
-    {
-      "term": "た継",
+      "term": "強化",
       "count": 1
     },
     {
@@ -194,11 +46,159 @@
       "count": 1
     },
     {
-      "term": "向け",
+      "term": "導ａ",
       "count": 1
     },
     {
-      "term": "担軽減",
+      "term": "いた",
+      "count": 1
+    },
+    {
+      "term": "ー導",
+      "count": 1
+    },
+    {
+      "term": "サイ",
+      "count": 1
+    },
+    {
+      "term": "創る",
+      "count": 1
+    },
+    {
+      "term": "ゲッ",
+      "count": 1
+    },
+    {
+      "term": "の透",
+      "count": 1
+    },
+    {
+      "term": "次世代情",
+      "count": 1
+    },
+    {
+      "term": "用い",
+      "count": 1
+    },
+    {
+      "term": "的強",
+      "count": 1
+    },
+    {
+      "term": "創薬",
+      "count": 1
+    },
+    {
+      "term": "産業財産",
+      "count": 1
+    },
+    {
+      "term": "いが",
+      "count": 1
+    },
+    {
+      "term": "など",
+      "count": 1
+    },
+    {
+      "term": "発支",
+      "count": 1
+    },
+    {
+      "term": "連携",
+      "count": 1
+    },
+    {
+      "term": "充実",
+      "count": 1
+    },
+    {
+      "term": "策も",
+      "count": 1
+    },
+    {
+      "term": "施新",
+      "count": 1
+    },
+    {
+      "term": "向けの教",
+      "count": 1
+    },
+    {
+      "term": "職者",
+      "count": 1
+    },
+    {
+      "term": "新防",
+      "count": 1
+    },
+    {
+      "term": "年５",
+      "count": 1
+    },
+    {
+      "term": "の開",
+      "count": 1
+    },
+    {
+      "term": "一部等",
+      "count": 1
+    },
+    {
+      "term": "の高",
+      "count": 1
+    },
+    {
+      "term": "盤技",
+      "count": 1
+    },
+    {
+      "term": "ボッ",
+      "count": 1
+    },
+    {
+      "term": "用の促進",
+      "count": 1
+    },
+    {
+      "term": "価技",
+      "count": 1
+    },
+    {
+      "term": "業の",
+      "count": 1
+    },
+    {
+      "term": "ラミ",
+      "count": 1
+    },
+    {
+      "term": "関す",
+      "count": 1
+    },
+    {
+      "term": "uav",
+      "count": 1
+    },
+    {
+      "term": "た額",
+      "count": 1
+    },
+    {
+      "term": "発や",
+      "count": 1
+    },
+    {
+      "term": "進等",
+      "count": 1
+    },
+    {
+      "term": "ム医",
+      "count": 1
+    },
+    {
+      "term": "創薬ター",
       "count": 1
     }
   ],
