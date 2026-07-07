@@ -2,204 +2,204 @@
   "month": "2023-07",
   "keywords": [
     {
-      "term": "つい",
-      "count": 1754
+      "term": "に ",
+      "count": 1545
     },
     {
-      "term": "内容",
-      "count": 1186
+      "term": "行う",
+      "count": 1505
+    },
+    {
+      "term": "実施",
+      "count": 1485
+    },
+    {
+      "term": "て ",
+      "count": 1410
+    },
+    {
+      "term": "おけ",
+      "count": 1386
+    },
+    {
+      "term": "よる",
+      "count": 1243
+    },
+    {
+      "term": "つい",
+      "count": 1167
+    },
+    {
+      "term": "者の",
+      "count": 1067
+    },
+    {
+      "term": "提供",
+      "count": 1054
+    },
+    {
+      "term": "うに",
+      "count": 1042
+    },
+    {
+      "term": "この",
+      "count": 917
+    },
+    {
+      "term": "報の",
+      "count": 910
+    },
+    {
+      "term": "とも",
+      "count": 879
     },
     {
       "term": "トの",
-      "count": 1046
-    },
-    {
-      "term": "運用",
-      "count": 971
-    },
-    {
-      "term": "ても",
-      "count": 970
-    },
-    {
-      "term": "ータ",
-      "count": 857
-    },
-    {
-      "term": "スト",
-      "count": 845
-    },
-    {
-      "term": "しな",
       "count": 831
     },
     {
-      "term": "等 ",
-      "count": 817
+      "term": "応じ",
+      "count": 812
     },
     {
-      "term": "において",
-      "count": 807
+      "term": "ン ",
+      "count": 785
     },
     {
-      "term": "ット",
-      "count": 782
+      "term": "を含",
+      "count": 701
     },
     {
-      "term": "及び",
-      "count": 760
+      "term": "ので",
+      "count": 674
     },
     {
-      "term": "切な",
-      "count": 711
+      "term": "影響",
+      "count": 661
     },
     {
-      "term": "用い",
-      "count": 677
+      "term": "切に",
+      "count": 643
     },
     {
-      "term": "まえ",
-      "count": 666
+      "term": "のと",
+      "count": 618
     },
     {
-      "term": "情報セキ",
-      "count": 649
+      "term": "用す",
+      "count": 603
     },
     {
-      "term": "の内",
-      "count": 625
+      "term": "を取",
+      "count": 555
     },
     {
-      "term": "対す",
-      "count": 616
-    },
-    {
-      "term": "クト",
-      "count": 591
-    },
-    {
-      "term": "めて",
-      "count": 589
-    },
-    {
-      "term": "に係",
-      "count": 572
-    },
-    {
-      "term": "ai",
-      "count": 570
-    },
-    {
-      "term": "を利",
-      "count": 568
-    },
-    {
-      "term": "基本対策",
-      "count": 564
-    },
-    {
-      "term": "組み",
-      "count": 563
-    },
-    {
-      "term": "ムを",
-      "count": 552
+      "term": "外部",
+      "count": 547
     },
     {
       "term": "ンス",
       "count": 546
     },
     {
-      "term": "外部",
-      "count": 537
+      "term": "に当",
+      "count": 539
     },
     {
-      "term": "職員",
-      "count": 521
+      "term": "報 ",
+      "count": 535
     },
     {
-      "term": "の取",
+      "term": "特定",
+      "count": 517
+    },
+    {
+      "term": "の手",
+      "count": 509
+    },
+    {
+      "term": "全て",
+      "count": 505
+    },
+    {
+      "term": "える",
       "count": 502
     },
     {
-      "term": "り扱",
-      "count": 498
+      "term": "外の",
+      "count": 501
     },
     {
-      "term": "るの",
-      "count": 494
+      "term": "作成",
+      "count": 480
     },
     {
-      "term": "ンの",
-      "count": 488
+      "term": "of",
+      "count": 477
     },
     {
-      "term": "が求",
-      "count": 481
+      "term": "た情",
+      "count": 472
     },
     {
-      "term": "用さ",
+      "term": "ーバ",
+      "count": 463
+    },
+    {
+      "term": "スク",
       "count": 461
     },
     {
-      "term": "ップ",
-      "count": 458
+      "term": "策定",
+      "count": 455
     },
     {
-      "term": "ンを",
-      "count": 453
-    },
-    {
-      "term": "for",
-      "count": 448
-    },
-    {
-      "term": "generative",
-      "count": 447
-    },
-    {
-      "term": "の適",
-      "count": 441
-    },
-    {
-      "term": "を適",
-      "count": 440
-    },
-    {
-      "term": "to",
-      "count": 440
-    },
-    {
-      "term": "and",
-      "count": 439
+      "term": "結果",
+      "count": 450
     },
     {
       "term": "in",
-      "count": 427
+      "count": 450
     },
     {
-      "term": "要素",
+      "term": "まえ",
+      "count": 445
+    },
+    {
+      "term": "イバ",
+      "count": 439
+    },
+    {
+      "term": "10",
+      "count": 438
+    },
+    {
+      "term": "generative",
+      "count": 438
+    },
+    {
+      "term": "存在",
+      "count": 431
+    },
+    {
+      "term": "期的",
+      "count": 412
+    },
+    {
+      "term": "る対",
       "count": 410
     },
     {
-      "term": "防止",
-      "count": 407
+      "term": "者と",
+      "count": 404
     },
     {
-      "term": "にあ",
-      "count": 401
+      "term": "を指",
+      "count": 400
     },
     {
-      "term": "トが",
-      "count": 391
-    },
-    {
-      "term": "イト",
-      "count": 385
-    },
-    {
-      "term": "ずる",
-      "count": 377
+      "term": "バイ",
+      "count": 397
     }
   ],
   "meetings": [
