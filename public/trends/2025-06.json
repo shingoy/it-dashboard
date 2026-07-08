@@ -2,171 +2,171 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "パイプラ",
-      "count": 20
+      "term": "ある",
+      "count": 23
     },
     {
-      "term": "に ",
+      "term": "ライ",
+      "count": 22
+    },
+    {
+      "term": "され",
+      "count": 21
+    },
+    {
+      "term": "ビル",
+      "count": 19
+    },
+    {
+      "term": "物の",
+      "count": 17
+    },
+    {
+      "term": "の保",
+      "count": 16
+    },
+    {
+      "term": "テナ",
       "count": 15
     },
     {
-      "term": "この",
-      "count": 14
+      "term": "デー",
+      "count": 15
     },
     {
-      "term": "よる",
+      "term": "場合",
       "count": 13
     },
     {
-      "term": "スコ",
-      "count": 13
-    },
-    {
-      "term": "図 ",
-      "count": 13
-    },
-    {
-      "term": "おけ",
+      "term": "レッ",
       "count": 12
     },
     {
-      "term": "シー",
+      "term": "ンテ",
       "count": 12
     },
     {
-      "term": "用す",
-      "count": 12
-    },
-    {
-      "term": "ツー",
-      "count": 12
-    },
-    {
-      "term": "を取",
-      "count": 12
-    },
-    {
-      "term": "ーの",
-      "count": 12
-    },
-    {
-      "term": "略 ",
-      "count": 12
-    },
-    {
-      "term": "ン ",
+      "term": "プラット",
       "count": 11
     },
     {
-      "term": "トの",
+      "term": "terraform",
       "count": 11
     },
     {
-      "term": "つい",
+      "term": "workflows",
       "count": 11
     },
     {
-      "term": "存物",
-      "count": 11
-    },
-    {
-      "term": "10",
-      "count": 11
-    },
-    {
-      "term": "であ",
-      "count": 11
-    },
-    {
-      "term": "を含",
+      "term": "ルを",
       "count": 10
     },
     {
-      "term": "提供",
+      "term": "イメージ",
       "count": 10
     },
     {
-      "term": "ンa",
+      "term": "に関",
       "count": 9
     },
     {
-      "term": "with",
+      "term": "対象",
       "count": 9
     },
     {
-      "term": "tf",
+      "term": "アク",
       "count": 9
     },
     {
-      "term": "の確",
+      "term": "こと",
+      "count": 9
+    },
+    {
+      "term": "性が",
       "count": 8
     },
     {
-      "term": "物を",
+      "term": "特有",
       "count": 8
     },
     {
-      "term": "バイ",
+      "term": "の構",
       "count": 8
     },
     {
-      "term": "スク",
+      "term": "を実",
       "count": 8
     },
     {
-      "term": "作成",
-      "count": 8
-    },
-    {
-      "term": "outputs",
-      "count": 8
-    },
-    {
-      "term": "報の",
+      "term": "の漏",
       "count": 7
     },
     {
-      "term": "ェーズの",
+      "term": "内の",
       "count": 7
     },
     {
-      "term": "イナ",
+      "term": "あり",
       "count": 7
     },
     {
-      "term": "記述",
+      "term": "ジを",
       "count": 7
     },
     {
-      "term": "ョン",
+      "term": "要と",
+      "count": 7
+    },
+    {
+      "term": "env",
+      "count": 7
+    },
+    {
+      "term": "コン",
+      "count": 7
+    },
+    {
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "シークレ",
+      "term": "ワー",
       "count": 6
     },
     {
-      "term": "フェ",
+      "term": "及び",
       "count": 6
     },
     {
-      "term": "はa",
+      "term": "ド成",
       "count": 6
     },
     {
-      "term": "アカ",
+      "term": "リス",
       "count": 6
     },
     {
-      "term": "影響",
+      "term": "得し",
       "count": 6
     },
     {
-      "term": "とも",
+      "term": "codebuild",
       "count": 6
     },
     {
-      "term": "るs",
+      "term": "容を",
+      "count": 6
+    },
+    {
+      "term": "合は",
+      "count": 6
+    },
+    {
+      "term": "format",
+      "count": 6
+    },
+    {
+      "term": "ビルド設",
       "count": 6
     },
     {
@@ -174,31 +174,31 @@
       "count": 6
     },
     {
-      "term": "ポジ",
+      "term": "イプ",
       "count": 5
     },
     {
-      "term": "ード",
+      "term": "限 ",
       "count": 5
     },
     {
-      "term": "体的には",
+      "term": "とを",
       "count": 5
     },
     {
-      "term": "環境",
+      "term": "の保護",
       "count": 5
     },
     {
-      "term": "iam",
+      "term": "物を",
       "count": 5
     },
     {
-      "term": "うに",
+      "term": "たが",
       "count": 5
     },
     {
-      "term": "ァイ",
+      "term": "活用",
       "count": 5
     }
   ],
