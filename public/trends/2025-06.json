@@ -2,87 +2,115 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 23
+      "term": "して",
+      "count": 27
     },
     {
-      "term": "ライ",
-      "count": 22
+      "term": "チー",
+      "count": 18
     },
     {
-      "term": "され",
-      "count": 21
+      "term": "いる",
+      "count": 18
     },
     {
-      "term": "ビル",
-      "count": 19
-    },
-    {
-      "term": "物の",
-      "count": 17
-    },
-    {
-      "term": "の保",
+      "term": "ソー",
       "count": 16
     },
     {
-      "term": "テナ",
-      "count": 15
+      "term": "ービ",
+      "count": 16
     },
     {
-      "term": "デー",
-      "count": 15
+      "term": "れた",
+      "count": 16
     },
     {
-      "term": "場合",
+      "term": "るた",
+      "count": 14
+    },
+    {
+      "term": "的に",
       "count": 13
     },
     {
-      "term": "レッ",
+      "term": "果物",
       "count": 12
     },
     {
-      "term": "ンテ",
-      "count": 12
-    },
-    {
-      "term": "プラット",
+      "term": "定す",
       "count": 11
     },
     {
-      "term": "terraform",
+      "term": "ァイ",
       "count": 11
     },
     {
-      "term": "workflows",
-      "count": 11
-    },
-    {
-      "term": "ルを",
+      "term": "ック",
       "count": 10
     },
     {
-      "term": "イメージ",
+      "term": "具体",
       "count": 10
     },
     {
-      "term": "に関",
+      "term": "ンチ",
+      "count": 10
+    },
+    {
+      "term": "する",
+      "count": 10
+    },
+    {
+      "term": "を用",
+      "count": 10
+    },
+    {
+      "term": "内で",
+      "count": 10
+    },
+    {
+      "term": "provenance",
+      "count": 10
+    },
+    {
+      "term": "とが",
+      "count": 10
+    },
+    {
+      "term": "jobs",
+      "count": 10
+    },
+    {
+      "term": "脆弱性管",
       "count": 9
     },
     {
-      "term": "対象",
+      "term": "性管",
       "count": 9
     },
     {
-      "term": "アク",
+      "term": "バリ",
       "count": 9
     },
     {
-      "term": "こと",
+      "term": "以外",
       "count": 9
     },
     {
-      "term": "性が",
+      "term": "ンa",
+      "count": 9
+    },
+    {
+      "term": "指定",
+      "count": 9
+    },
+    {
+      "term": "action",
+      "count": 9
+    },
+    {
+      "term": "フェーズ",
       "count": 8
     },
     {
@@ -90,19 +118,27 @@
       "count": 8
     },
     {
-      "term": "の構",
+      "term": "リソ",
       "count": 8
     },
     {
-      "term": "を実",
+      "term": "の担",
       "count": 8
     },
     {
-      "term": "の漏",
+      "term": "るそ",
+      "count": 8
+    },
+    {
+      "term": "いう",
+      "count": 8
+    },
+    {
+      "term": "組織",
       "count": 7
     },
     {
-      "term": "内の",
+      "term": "漏洩",
       "count": 7
     },
     {
@@ -110,19 +146,31 @@
       "count": 7
     },
     {
-      "term": "ジを",
+      "term": "るま",
       "count": 7
     },
     {
-      "term": "要と",
+      "term": "を確",
       "count": 7
     },
     {
-      "term": "env",
+      "term": "連携",
       "count": 7
     },
     {
-      "term": "コン",
+      "term": "など",
+      "count": 7
+    },
+    {
+      "term": "図 ",
+      "count": 7
+    },
+    {
+      "term": "と同",
+      "count": 7
+    },
+    {
+      "term": "tf",
       "count": 7
     },
     {
@@ -130,76 +178,28 @@
       "count": 6
     },
     {
-      "term": "ワー",
+      "term": "の漏洩対",
       "count": 6
     },
     {
-      "term": "及び",
+      "term": "理シ",
       "count": 6
     },
     {
-      "term": "ド成",
+      "term": "リ及",
       "count": 6
     },
     {
-      "term": "リス",
+      "term": "含む",
       "count": 6
     },
     {
-      "term": "得し",
+      "term": "たt",
       "count": 6
     },
     {
-      "term": "codebuild",
+      "term": "定義",
       "count": 6
-    },
-    {
-      "term": "容を",
-      "count": 6
-    },
-    {
-      "term": "合は",
-      "count": 6
-    },
-    {
-      "term": "format",
-      "count": 6
-    },
-    {
-      "term": "ビルド設",
-      "count": 6
-    },
-    {
-      "term": "predicate",
-      "count": 6
-    },
-    {
-      "term": "イプ",
-      "count": 5
-    },
-    {
-      "term": "限 ",
-      "count": 5
-    },
-    {
-      "term": "とを",
-      "count": 5
-    },
-    {
-      "term": "の保護",
-      "count": 5
-    },
-    {
-      "term": "物を",
-      "count": 5
-    },
-    {
-      "term": "たが",
-      "count": 5
-    },
-    {
-      "term": "活用",
-      "count": 5
     }
   ],
   "meetings": [
