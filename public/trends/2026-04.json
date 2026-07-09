@@ -2,163 +2,67 @@
   "month": "2026-04",
   "keywords": [
     {
-      "term": "含ま",
+      "term": "合は",
       "count": 2
     },
     {
-      "term": "的に",
+      "term": "か ",
       "count": 2
     },
     {
-      "term": "閣議",
+      "term": "モデ",
       "count": 2
     },
     {
-      "term": "計画的に",
+      "term": "類注",
       "count": 2
     },
     {
-      "term": "開発",
+      "term": "困難",
       "count": 2
     },
     {
-      "term": "月成立",
+      "term": "のための",
       "count": 2
     },
     {
-      "term": "連す",
-      "count": 2
-    },
-    {
-      "term": "を活用し",
+      "term": "造プロセ",
       "count": 1
     },
     {
-      "term": "ック",
+      "term": "を創",
       "count": 1
     },
     {
-      "term": "ムに関す",
+      "term": "業推",
       "count": 1
     },
     {
-      "term": "評価",
+      "term": "施 ",
       "count": 1
     },
     {
-      "term": "農約",
+      "term": "進国",
       "count": 1
     },
     {
-      "term": "559",
+      "term": "産性",
       "count": 1
     },
     {
-      "term": "が産",
+      "term": "援厚",
       "count": 1
     },
     {
-      "term": "の製",
+      "term": "等厚",
       "count": 1
     },
     {
-      "term": "など",
+      "term": "材開",
       "count": 1
     },
     {
-      "term": "性向上の",
-      "count": 1
-    },
-    {
-      "term": "助成",
-      "count": 1
-    },
-    {
-      "term": "力確",
-      "count": 1
-    },
-    {
-      "term": "ー導",
-      "count": 1
-    },
-    {
-      "term": "に関する",
-      "count": 1
-    },
-    {
-      "term": "代情",
-      "count": 1
-    },
-    {
-      "term": "はで",
-      "count": 1
-    },
-    {
-      "term": "場の",
-      "count": 1
-    },
-    {
-      "term": "びシステ",
-      "count": 1
-    },
-    {
-      "term": "人材の育",
-      "count": 1
-    },
-    {
-      "term": "連携",
-      "count": 1
-    },
-    {
-      "term": "ジタ",
-      "count": 1
-    },
-    {
-      "term": "がａ",
-      "count": 1
-    },
-    {
-      "term": "向けの教",
-      "count": 1
-    },
-    {
-      "term": "ービ",
-      "count": 1
-    },
-    {
-      "term": "たプログ",
-      "count": 1
-    },
-    {
-      "term": "保の",
-      "count": 1
-    },
-    {
-      "term": "を含むデ",
-      "count": 1
-    },
-    {
-      "term": "究等の実",
-      "count": 1
-    },
-    {
-      "term": "次世代情",
-      "count": 1
-    },
-    {
-      "term": "議決",
-      "count": 1
-    },
-    {
-      "term": "づく",
-      "count": 1
-    },
-    {
-      "term": "策を",
-      "count": 1
-    },
-    {
-      "term": "向け",
+      "term": "金の",
       "count": 1
     },
     {
@@ -166,15 +70,7 @@
       "count": 1
     },
     {
-      "term": "戦闘",
-      "count": 1
-    },
-    {
-      "term": "る技術開",
-      "count": 1
-    },
-    {
-      "term": "含む",
+      "term": "者の",
       "count": 1
     },
     {
@@ -182,23 +78,127 @@
       "count": 1
     },
     {
-      "term": "算総",
+      "term": "評価",
       "count": 1
     },
     {
-      "term": "四捨",
+      "term": "シー",
       "count": 1
     },
     {
-      "term": "ク対応の",
+      "term": "訓練",
       "count": 1
     },
     {
-      "term": "盤技",
+      "term": "画の",
       "count": 1
     },
     {
-      "term": "闘車",
+      "term": "動評",
+      "count": 1
+    },
+    {
+      "term": "基盤技術",
+      "count": 1
+    },
+    {
+      "term": "権制",
+      "count": 1
+    },
+    {
+      "term": "策も",
+      "count": 1
+    },
+    {
+      "term": "ナル",
+      "count": 1
+    },
+    {
+      "term": "きな",
+      "count": 1
+    },
+    {
+      "term": "たマ",
+      "count": 1
+    },
+    {
+      "term": "ズ探",
+      "count": 1
+    },
+    {
+      "term": "たａ",
+      "count": 1
+    },
+    {
+      "term": "継続",
+      "count": 1
+    },
+    {
+      "term": "む ",
+      "count": 1
+    },
+    {
+      "term": "ショ",
+      "count": 1
+    },
+    {
+      "term": "的強",
+      "count": 1
+    },
+    {
+      "term": "経や",
+      "count": 1
+    },
+    {
+      "term": "シス",
+      "count": 1
+    },
+    {
+      "term": "発事",
+      "count": 1
+    },
+    {
+      "term": "技術",
+      "count": 1
+    },
+    {
+      "term": "テム",
+      "count": 1
+    },
+    {
+      "term": "進 ",
+      "count": 1
+    },
+    {
+      "term": "離職",
+      "count": 1
+    },
+    {
+      "term": "育成にお",
+      "count": 1
+    },
+    {
+      "term": "ム医",
+      "count": 1
+    },
+    {
+      "term": "ル構",
+      "count": 1
+    },
+    {
+      "term": "く調",
+      "count": 1
+    },
+    {
+      "term": "クスの製",
+      "count": 1
+    },
+    {
+      "term": "な推",
+      "count": 1
+    },
+    {
+      "term": "いが",
       "count": 1
     }
   ],
