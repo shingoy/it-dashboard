@@ -2,123 +2,43 @@
   "month": "2026-04",
   "keywords": [
     {
-      "term": "合は",
+      "term": "に含",
       "count": 2
     },
     {
-      "term": "か ",
+      "term": "的計",
       "count": 2
     },
     {
-      "term": "モデ",
+      "term": "ため",
       "count": 2
     },
     {
-      "term": "類注",
+      "term": "及びリス",
       "count": 2
     },
     {
-      "term": "困難",
+      "term": "額に",
       "count": 2
     },
     {
-      "term": "のための",
+      "term": "施行",
       "count": 2
     },
     {
-      "term": "造プロセ",
+      "term": "を踏まえ",
+      "count": 2
+    },
+    {
+      "term": "月閣議決",
+      "count": 2
+    },
+    {
+      "term": "セス",
       "count": 1
     },
     {
-      "term": "を創",
-      "count": 1
-    },
-    {
-      "term": "業推",
-      "count": 1
-    },
-    {
-      "term": "施 ",
-      "count": 1
-    },
-    {
-      "term": "進国",
-      "count": 1
-    },
-    {
-      "term": "産性",
-      "count": 1
-    },
-    {
-      "term": "援厚",
-      "count": 1
-    },
-    {
-      "term": "等厚",
-      "count": 1
-    },
-    {
-      "term": "材開",
-      "count": 1
-    },
-    {
-      "term": "金の",
-      "count": 1
-    },
-    {
-      "term": "を用",
-      "count": 1
-    },
-    {
-      "term": "者の",
-      "count": 1
-    },
-    {
-      "term": "地震",
-      "count": 1
-    },
-    {
-      "term": "評価",
-      "count": 1
-    },
-    {
-      "term": "シー",
-      "count": 1
-    },
-    {
-      "term": "訓練",
-      "count": 1
-    },
-    {
-      "term": "画の",
-      "count": 1
-    },
-    {
-      "term": "動評",
-      "count": 1
-    },
-    {
-      "term": "基盤技術",
-      "count": 1
-    },
-    {
-      "term": "権制",
-      "count": 1
-    },
-    {
-      "term": "策も",
-      "count": 1
-    },
-    {
-      "term": "ナル",
-      "count": 1
-    },
-    {
-      "term": "きな",
-      "count": 1
-    },
-    {
-      "term": "たマ",
+      "term": "産権",
       "count": 1
     },
     {
@@ -126,59 +46,47 @@
       "count": 1
     },
     {
-      "term": "たａ",
+      "term": "革ａ",
       "count": 1
     },
     {
-      "term": "継続",
+      "term": "発等の推",
       "count": 1
     },
     {
-      "term": "む ",
+      "term": "の特",
       "count": 1
     },
     {
-      "term": "ショ",
+      "term": "企業向け",
       "count": 1
     },
     {
-      "term": "的強",
+      "term": "の信",
       "count": 1
     },
     {
-      "term": "経や",
+      "term": "た次",
       "count": 1
     },
     {
-      "term": "シス",
+      "term": "代コ",
       "count": 1
     },
     {
-      "term": "発事",
+      "term": "た建",
       "count": 1
     },
     {
-      "term": "技術",
+      "term": "車両",
       "count": 1
     },
     {
-      "term": "テム",
+      "term": "策も実施",
       "count": 1
     },
     {
-      "term": "進 ",
-      "count": 1
-    },
-    {
-      "term": "離職",
-      "count": 1
-    },
-    {
-      "term": "育成にお",
-      "count": 1
-    },
-    {
-      "term": "ム医",
+      "term": "震活",
       "count": 1
     },
     {
@@ -186,19 +94,111 @@
       "count": 1
     },
     {
-      "term": "く調",
+      "term": "などの施",
       "count": 1
     },
     {
-      "term": "クスの製",
+      "term": "世代",
       "count": 1
     },
     {
-      "term": "な推",
+      "term": "の生",
       "count": 1
     },
     {
-      "term": "いが",
+      "term": "の研究",
+      "count": 1
+    },
+    {
+      "term": "ガバナン",
+      "count": 1
+    },
+    {
+      "term": "ーダ",
+      "count": 1
+    },
+    {
+      "term": "の戦",
+      "count": 1
+    },
+    {
+      "term": "ーワ",
+      "count": 1
+    },
+    {
+      "term": "導ａ",
+      "count": 1
+    },
+    {
+      "term": "法に",
+      "count": 1
+    },
+    {
+      "term": "力の",
+      "count": 1
+    },
+    {
+      "term": "本的",
+      "count": 1
+    },
+    {
+      "term": "グラ",
+      "count": 1
+    },
+    {
+      "term": "積み",
+      "count": 1
+    },
+    {
+      "term": "踏ま",
+      "count": 1
+    },
+    {
+      "term": "工知",
+      "count": 1
+    },
+    {
+      "term": "用の促進",
+      "count": 1
+    },
+    {
+      "term": "確保のた",
+      "count": 1
+    },
+    {
+      "term": "み増し分",
+      "count": 1
+    },
+    {
+      "term": "情報",
+      "count": 1
+    },
+    {
+      "term": "し分",
+      "count": 1
+    },
+    {
+      "term": "厚約",
+      "count": 1
+    },
+    {
+      "term": "438",
+      "count": 1
+    },
+    {
+      "term": "ル基",
+      "count": 1
+    },
+    {
+      "term": "進 ",
+      "count": 1
+    },
+    {
+      "term": "ーミ",
+      "count": 1
+    },
+    {
+      "term": "ションの",
       "count": 1
     }
   ],
