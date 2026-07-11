@@ -2,7 +2,15 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "月 ",
+      "term": "に ",
+      "count": 3
+    },
+    {
+      "term": "有機",
+      "count": 3
+    },
+    {
+      "term": "制対",
       "count": 3
     },
     {
@@ -10,71 +18,19 @@
       "count": 3
     },
     {
-      "term": "検討",
+      "term": "連携",
       "count": 3
     },
     {
-      "term": "テク",
-      "count": 3
-    },
-    {
-      "term": "術開",
-      "count": 3
-    },
-    {
-      "term": "実装",
-      "count": 3
-    },
-    {
-      "term": "省庁",
-      "count": 3
-    },
-    {
-      "term": "説明",
+      "term": "象機",
       "count": 2
     },
     {
-      "term": "らコンソ",
+      "term": "の連",
       "count": 2
     },
     {
-      "term": "りま",
-      "count": 2
-    },
-    {
-      "term": "の期",
-      "count": 2
-    },
-    {
-      "term": "アナログ",
-      "count": 2
-    },
-    {
-      "term": "regtech",
-      "count": 2
-    },
-    {
-      "term": "け ",
-      "count": 2
-    },
-    {
-      "term": "め ",
-      "count": 2
-    },
-    {
-      "term": "ベン",
-      "count": 2
-    },
-    {
-      "term": "の参",
-      "count": 2
-    },
-    {
-      "term": "集情",
-      "count": 2
-    },
-    {
-      "term": "情報か",
+      "term": "個別",
       "count": 2
     },
     {
@@ -82,55 +38,55 @@
       "count": 2
     },
     {
-      "term": "期待を把",
+      "term": "向コ",
       "count": 2
     },
     {
-      "term": "体会",
+      "term": "りま",
       "count": 2
     },
     {
-      "term": "者か",
+      "term": "コミュニ",
       "count": 2
     },
     {
-      "term": "利活",
+      "term": "ィの",
       "count": 2
     },
     {
-      "term": "い ",
+      "term": "regtech",
       "count": 2
     },
     {
-      "term": "技術検証",
+      "term": "員に",
       "count": 2
     },
     {
-      "term": "装イ",
+      "term": "ネットワ",
       "count": 2
     },
     {
-      "term": "グに",
+      "term": "制所",
       "count": 2
     },
     {
-      "term": "成果",
+      "term": "クと",
       "count": 2
     },
     {
-      "term": "の検",
+      "term": "証状",
       "count": 2
     },
     {
-      "term": "の具体化",
+      "term": "アドバイ",
       "count": 2
     },
     {
-      "term": "開催",
+      "term": "況を",
       "count": 2
     },
     {
-      "term": "まえ",
+      "term": "まえ保有",
       "count": 2
     },
     {
@@ -138,67 +94,111 @@
       "count": 2
     },
     {
-      "term": "検証",
+      "term": "結果",
       "count": 2
     },
     {
-      "term": "たな",
+      "term": "テス",
       "count": 2
     },
     {
-      "term": "を踏",
+      "term": "や連",
       "count": 2
     },
     {
-      "term": "連携団体",
+      "term": "証結",
+      "count": 2
+    },
+    {
+      "term": "成果を踏",
+      "count": 2
+    },
+    {
+      "term": "報を",
+      "count": 2
+    },
+    {
+      "term": "広く発信",
+      "count": 2
+    },
+    {
+      "term": "えた",
+      "count": 2
+    },
+    {
+      "term": "ーマ",
+      "count": 2
+    },
+    {
+      "term": "有 ",
+      "count": 2
+    },
+    {
+      "term": "アド",
+      "count": 2
+    },
+    {
+      "term": "果 ",
+      "count": 2
+    },
+    {
+      "term": "新た",
+      "count": 2
+    },
+    {
+      "term": "関係",
+      "count": 2
+    },
+    {
+      "term": "がテ",
       "count": 1
     },
     {
-      "term": "明会",
+      "term": "ュール",
       "count": 1
     },
     {
-      "term": "や中",
+      "term": "新市",
       "count": 1
     },
     {
-      "term": "直しに活",
+      "term": "社会実装",
       "count": 1
     },
     {
-      "term": "ることで",
+      "term": "討等",
       "count": 1
     },
     {
-      "term": "うな",
+      "term": "に加",
       "count": 1
     },
     {
-      "term": "しつ",
+      "term": "た取",
       "count": 1
     },
     {
-      "term": "しど",
+      "term": "こと",
       "count": 1
     },
     {
-      "term": "する施策",
+      "term": "のよ",
       "count": 1
     },
     {
-      "term": "サポート",
+      "term": "ュー",
       "count": 1
     },
     {
-      "term": "地方自治",
+      "term": "技術知見",
       "count": 1
     },
     {
-      "term": "プサ",
+      "term": "学習",
       "count": 1
     },
     {
-      "term": "業に",
+      "term": "や技術開",
       "count": 1
     }
   ],
