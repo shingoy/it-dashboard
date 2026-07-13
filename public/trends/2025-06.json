@@ -2,27 +2,43 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ファ",
+      "term": "であ",
+      "count": 22
+    },
+    {
+      "term": "構成",
+      "count": 21
+    },
+    {
+      "term": "ット",
       "count": 20
     },
     {
-      "term": "ソー",
+      "term": "ルド",
+      "count": 19
+    },
+    {
+      "term": "保護",
+      "count": 18
+    },
+    {
+      "term": "ーム",
+      "count": 18
+    },
+    {
+      "term": "ージ",
+      "count": 18
+    },
+    {
+      "term": "リポジト",
+      "count": 18
+    },
+    {
+      "term": "果物",
       "count": 16
     },
     {
-      "term": "する",
-      "count": 16
-    },
-    {
-      "term": "テナ",
-      "count": 15
-    },
-    {
-      "term": "必要",
-      "count": 15
-    },
-    {
-      "term": "署名",
+      "term": "トフ",
       "count": 15
     },
     {
@@ -30,175 +46,159 @@
       "count": 15
     },
     {
-      "term": "スコ",
+      "term": "メタ",
+      "count": 15
+    },
+    {
+      "term": "ツー",
       "count": 14
     },
     {
-      "term": "ルを",
+      "term": "workflows",
       "count": 14
-    },
-    {
-      "term": "られ",
-      "count": 13
-    },
-    {
-      "term": "ント",
-      "count": 12
-    },
-    {
-      "term": "変更",
-      "count": 12
-    },
-    {
-      "term": "を取",
-      "count": 12
-    },
-    {
-      "term": "ータ",
-      "count": 12
-    },
-    {
-      "term": "存物",
-      "count": 11
-    },
-    {
-      "term": "加え",
-      "count": 11
-    },
-    {
-      "term": "クを",
-      "count": 10
-    },
-    {
-      "term": "のリ",
-      "count": 9
-    },
-    {
-      "term": "情報",
-      "count": 9
-    },
-    {
-      "term": "ソースコ",
-      "count": 9
-    },
-    {
-      "term": "ルの",
-      "count": 9
-    },
-    {
-      "term": "image",
-      "count": 9
-    },
-    {
-      "term": "ーカ",
-      "count": 8
-    },
-    {
-      "term": "テム",
-      "count": 8
-    },
-    {
-      "term": "主体",
-      "count": 8
-    },
-    {
-      "term": "での実行",
-      "count": 8
-    },
-    {
-      "term": "書で",
-      "count": 8
-    },
-    {
-      "term": "を実",
-      "count": 8
-    },
-    {
-      "term": "組み",
-      "count": 8
-    },
-    {
-      "term": "リポ",
-      "count": 7
-    },
-    {
-      "term": "ジを",
-      "count": 7
-    },
-    {
-      "term": "に対",
-      "count": 7
-    },
-    {
-      "term": "ンバ",
-      "count": 7
-    },
-    {
-      "term": "はg",
-      "count": 7
-    },
-    {
-      "term": "name",
-      "count": 7
-    },
-    {
-      "term": "す ",
-      "count": 7
-    },
-    {
-      "term": "ョン",
-      "count": 6
-    },
-    {
-      "term": "的な",
-      "count": 6
-    },
-    {
-      "term": "24",
-      "count": 6
-    },
-    {
-      "term": "ルと",
-      "count": 6
-    },
-    {
-      "term": "有の",
-      "count": 6
-    },
-    {
-      "term": "docker",
-      "count": 6
-    },
-    {
-      "term": "ジの",
-      "count": 6
-    },
-    {
-      "term": "策に",
-      "count": 6
-    },
-    {
-      "term": "run",
-      "count": 6
-    },
-    {
-      "term": "11",
-      "count": 6
-    },
-    {
-      "term": "保守",
-      "count": 5
     },
     {
       "term": "内容",
+      "count": 13
+    },
+    {
+      "term": "id",
+      "count": 13
+    },
+    {
+      "term": "シークレ",
+      "count": 12
+    },
+    {
+      "term": "ーの",
+      "count": 12
+    },
+    {
+      "term": "よる",
+      "count": 11
+    },
+    {
+      "term": "ecr",
+      "count": 11
+    },
+    {
+      "term": "push",
+      "count": 11
+    },
+    {
+      "term": "状態",
+      "count": 9
+    },
+    {
+      "term": "run",
+      "count": 9
+    },
+    {
+      "term": "はc",
+      "count": 8
+    },
+    {
+      "term": "護 ",
+      "count": 8
+    },
+    {
+      "term": "ェッ",
+      "count": 8
+    },
+    {
+      "term": "の管",
+      "count": 8
+    },
+    {
+      "term": "関す",
+      "count": 7
+    },
+    {
+      "term": "いて",
+      "count": 7
+    },
+    {
+      "term": "内の",
+      "count": 7
+    },
+    {
+      "term": "での実行",
+      "count": 7
+    },
+    {
+      "term": "担保",
+      "count": 7
+    },
+    {
+      "term": "記述",
+      "count": 7
+    },
+    {
+      "term": "にす",
+      "count": 7
+    },
+    {
+      "term": "仕組",
+      "count": 7
+    },
+    {
+      "term": "信頼性の",
+      "count": 6
+    },
+    {
+      "term": "の保護",
+      "count": 6
+    },
+    {
+      "term": "ロバ",
+      "count": 6
+    },
+    {
+      "term": "プロバイ",
+      "count": 6
+    },
+    {
+      "term": "rule",
+      "count": 6
+    },
+    {
+      "term": "high",
+      "count": 6
+    },
+    {
+      "term": "ケー",
       "count": 5
     },
     {
-      "term": "信頼でき",
+      "term": "守 ",
       "count": 5
     },
     {
-      "term": "した",
+      "term": "脆弱",
+      "count": 5
+    },
+    {
+      "term": "リフ",
+      "count": 5
+    },
+    {
+      "term": "ビルド上",
+      "count": 5
+    },
+    {
+      "term": "で ",
+      "count": 5
+    },
+    {
+      "term": "イ ",
+      "count": 5
+    },
+    {
+      "term": "タ ",
+      "count": 5
+    },
+    {
+      "term": "を利",
       "count": 5
     }
   ],
