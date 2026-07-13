@@ -2,15 +2,19 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "であ",
-      "count": 22
+      "term": "図 ",
+      "count": 24
     },
     {
-      "term": "構成",
-      "count": 21
+      "term": "トリ",
+      "count": 20
     },
     {
-      "term": "ット",
+      "term": "パイプラ",
+      "count": 20
+    },
+    {
+      "term": "ため",
       "count": 20
     },
     {
@@ -18,139 +22,103 @@
       "count": 19
     },
     {
-      "term": "保護",
-      "count": 18
-    },
-    {
-      "term": "ーム",
-      "count": 18
-    },
-    {
-      "term": "ージ",
-      "count": 18
-    },
-    {
-      "term": "リポジト",
-      "count": 18
-    },
-    {
-      "term": "果物",
-      "count": 16
-    },
-    {
-      "term": "トフ",
-      "count": 15
-    },
-    {
-      "term": "なる",
-      "count": 15
-    },
-    {
-      "term": "メタ",
-      "count": 15
+      "term": "る ",
+      "count": 17
     },
     {
       "term": "ツー",
       "count": 14
     },
     {
-      "term": "workflows",
-      "count": 14
-    },
-    {
-      "term": "内容",
+      "term": "ドフ",
       "count": 13
-    },
-    {
-      "term": "id",
-      "count": 13
-    },
-    {
-      "term": "シークレ",
-      "count": 12
-    },
-    {
-      "term": "ーの",
-      "count": 12
-    },
-    {
-      "term": "よる",
-      "count": 11
-    },
-    {
-      "term": "ecr",
-      "count": 11
-    },
-    {
-      "term": "push",
-      "count": 11
-    },
-    {
-      "term": "状態",
-      "count": 9
-    },
-    {
-      "term": "run",
-      "count": 9
-    },
-    {
-      "term": "はc",
-      "count": 8
     },
     {
       "term": "護 ",
+      "count": 12
+    },
+    {
+      "term": "ファイル",
+      "count": 12
+    },
+    {
+      "term": "にお",
+      "count": 11
+    },
+    {
+      "term": "成果物の",
+      "count": 11
+    },
+    {
+      "term": "いた",
+      "count": 10
+    },
+    {
+      "term": "jobs",
+      "count": 10
+    },
+    {
+      "term": "性管",
+      "count": 9
+    },
+    {
+      "term": "パイ",
+      "count": 9
+    },
+    {
+      "term": "それ",
       "count": 8
     },
     {
-      "term": "ェッ",
-      "count": 8
-    },
-    {
-      "term": "の管",
-      "count": 8
-    },
-    {
-      "term": "関す",
+      "term": "洩対",
       "count": 7
     },
     {
-      "term": "いて",
+      "term": "及び",
       "count": 7
     },
     {
-      "term": "内の",
+      "term": "ムの",
       "count": 7
     },
     {
-      "term": "での実行",
+      "term": "の仕",
       "count": 7
     },
     {
-      "term": "担保",
+      "term": "すべ",
       "count": 7
     },
     {
-      "term": "記述",
+      "term": "性が",
       "count": 7
     },
     {
-      "term": "にす",
+      "term": "ップ",
       "count": 7
     },
     {
-      "term": "仕組",
+      "term": "ークレッ",
       "count": 7
     },
     {
-      "term": "信頼性の",
+      "term": "混入",
+      "count": 7
+    },
+    {
+      "term": "と同",
+      "count": 7
+    },
+    {
+      "term": "キュ",
       "count": 6
     },
     {
-      "term": "の保護",
+      "term": "信頼",
       "count": 6
     },
     {
-      "term": "ロバ",
+      "term": "ージ",
       "count": 6
     },
     {
@@ -158,47 +126,79 @@
       "count": 6
     },
     {
-      "term": "rule",
+      "term": "フ ",
       "count": 6
     },
     {
-      "term": "high",
+      "term": "リバ",
       "count": 6
     },
     {
-      "term": "ケー",
+      "term": "ムは",
+      "count": 6
+    },
+    {
+      "term": "ムチーム",
+      "count": 6
+    },
+    {
+      "term": "ャン",
+      "count": 6
+    },
+    {
+      "term": "provenance",
+      "count": 6
+    },
+    {
+      "term": "クト",
+      "count": 6
+    },
+    {
+      "term": "るよ",
+      "count": 6
+    },
+    {
+      "term": "いこ",
+      "count": 6
+    },
+    {
+      "term": "ライ",
+      "count": 6
+    },
+    {
+      "term": "yml",
+      "count": 6
+    },
+    {
+      "term": "13",
       "count": 5
     },
     {
-      "term": "守 ",
+      "term": "資産管理",
       "count": 5
     },
     {
-      "term": "脆弱",
+      "term": "ード管理",
       "count": 5
     },
     {
-      "term": "リフ",
+      "term": "体的",
       "count": 5
     },
     {
-      "term": "ビルド上",
+      "term": "がっ",
       "count": 5
     },
     {
-      "term": "で ",
+      "term": "自体",
       "count": 5
     },
     {
-      "term": "イ ",
+      "term": "gitlab",
       "count": 5
     },
     {
-      "term": "タ ",
-      "count": 5
-    },
-    {
-      "term": "を利",
+      "term": "配布",
       "count": 5
     }
   ],
