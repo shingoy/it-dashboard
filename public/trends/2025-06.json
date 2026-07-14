@@ -2,47 +2,63 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "る ",
-      "count": 28
+      "term": "actions",
+      "count": 18
     },
     {
-      "term": "こと",
-      "count": 25
-    },
-    {
-      "term": "るこ",
-      "count": 22
-    },
-    {
-      "term": "パイ",
-      "count": 21
-    },
-    {
-      "term": "構成",
-      "count": 20
-    },
-    {
-      "term": "に ",
+      "term": "フォ",
       "count": 15
     },
     {
-      "term": "のメ",
+      "term": "よび",
+      "count": 15
+    },
+    {
+      "term": "ーズ",
+      "count": 15
+    },
+    {
+      "term": "必要",
+      "count": 15
+    },
+    {
+      "term": "いて",
+      "count": 14
+    },
+    {
+      "term": "頼性",
+      "count": 13
+    },
+    {
+      "term": "担保",
+      "count": 13
+    },
+    {
+      "term": "の安",
+      "count": 13
+    },
+    {
+      "term": "ため",
+      "count": 13
+    },
+    {
+      "term": "略 ",
+      "count": 13
+    },
+    {
+      "term": "対策",
       "count": 12
     },
     {
-      "term": "プラット",
+      "term": "管理",
       "count": 11
     },
     {
-      "term": "とす",
+      "term": "上で",
       "count": 11
     },
     {
-      "term": "terraform",
-      "count": 11
-    },
-    {
-      "term": "可能",
+      "term": "考え",
       "count": 11
     },
     {
@@ -50,35 +66,23 @@
       "count": 10
     },
     {
-      "term": "ナリ",
+      "term": "定し",
       "count": 10
     },
     {
-      "term": "具体",
+      "term": "to",
       "count": 10
     },
     {
-      "term": "いて",
-      "count": 10
-    },
-    {
-      "term": "そのため",
+      "term": "with",
       "count": 9
     },
     {
-      "term": "いっ",
+      "term": "action",
       "count": 9
     },
     {
-      "term": "る\n",
-      "count": 9
-    },
-    {
-      "term": "ド上",
-      "count": 8
-    },
-    {
-      "term": "るそ",
+      "term": "シス",
       "count": 8
     },
     {
@@ -86,11 +90,27 @@
       "count": 8
     },
     {
-      "term": "トを",
+      "term": "ェッ",
       "count": 8
     },
     {
-      "term": "おけ",
+      "term": "repository",
+      "count": 8
+    },
+    {
+      "term": "ト情",
+      "count": 7
+    },
+    {
+      "term": "報の",
+      "count": 7
+    },
+    {
+      "term": "クレ",
+      "count": 7
+    },
+    {
+      "term": "トリ",
       "count": 7
     },
     {
@@ -98,79 +118,63 @@
       "count": 7
     },
     {
-      "term": "17",
-      "count": 7
-    },
-    {
       "term": "ダー",
       "count": 7
     },
     {
-      "term": "用い",
+      "term": "特有",
       "count": 7
     },
     {
-      "term": "い ",
+      "term": "環境",
       "count": 7
     },
     {
-      "term": "対し",
+      "term": "ると",
       "count": 7
     },
     {
-      "term": "いこ",
+      "term": "を確",
       "count": 7
     },
     {
-      "term": "図 ",
+      "term": "ムチーム",
       "count": 7
     },
     {
-      "term": "id",
+      "term": "クセ",
       "count": 7
     },
     {
-      "term": "理シ",
+      "term": "要と",
+      "count": 7
+    },
+    {
+      "term": "仕組",
+      "count": 7
+    },
+    {
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "詳細",
+      "term": "ナリ",
       "count": 6
     },
     {
-      "term": "要がある",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "ル ",
+      "term": "こで",
       "count": 6
     },
     {
-      "term": "策に",
+      "term": "るよ",
       "count": 6
     },
     {
-      "term": "のレ",
-      "count": 6
-    },
-    {
-      "term": "される",
-      "count": 6
-    },
-    {
-      "term": "とも",
-      "count": 6
-    },
-    {
-      "term": "象と",
-      "count": 6
-    },
-    {
-      "term": "えて",
-      "count": 6
-    },
-    {
-      "term": "ビルド設",
+      "term": "steps",
       "count": 6
     },
     {
@@ -178,27 +182,23 @@
       "count": 5
     },
     {
-      "term": "洩対",
+      "term": "ケー",
       "count": 5
     },
     {
-      "term": "ジト",
+      "term": "をも",
       "count": 5
     },
     {
-      "term": "限 ",
+      "term": "産管",
       "count": 5
     },
     {
-      "term": "する",
+      "term": "要 ",
       "count": 5
     },
     {
-      "term": "ージ",
-      "count": 5
-    },
-    {
-      "term": "がっ",
+      "term": "実装",
       "count": 5
     }
   ],
