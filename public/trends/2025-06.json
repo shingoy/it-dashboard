@@ -2,15 +2,35 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "actions",
-      "count": 18
+      "term": "プラ",
+      "count": 24
     },
     {
-      "term": "フォ",
-      "count": 15
+      "term": "きる",
+      "count": 23
     },
     {
-      "term": "よび",
+      "term": "その",
+      "count": 21
+    },
+    {
+      "term": "パイプラ",
+      "count": 20
+    },
+    {
+      "term": "ルド",
+      "count": 19
+    },
+    {
+      "term": "aws",
+      "count": 19
+    },
+    {
+      "term": "とし",
+      "count": 17
+    },
+    {
+      "term": "およ",
       "count": 15
     },
     {
@@ -18,75 +38,79 @@
       "count": 15
     },
     {
-      "term": "必要",
+      "term": "イル",
       "count": 15
     },
     {
-      "term": "いて",
+      "term": "いる",
       "count": 14
     },
     {
-      "term": "頼性",
+      "term": "とが",
       "count": 13
     },
     {
-      "term": "担保",
-      "count": 13
-    },
-    {
-      "term": "の安",
-      "count": 13
-    },
-    {
-      "term": "ため",
-      "count": 13
-    },
-    {
-      "term": "略 ",
-      "count": 13
-    },
-    {
-      "term": "対策",
-      "count": 12
-    },
-    {
-      "term": "管理",
+      "term": "ンを",
       "count": 11
     },
     {
-      "term": "上で",
-      "count": 11
-    },
-    {
-      "term": "考え",
-      "count": 11
-    },
-    {
-      "term": "ブラ",
+      "term": "的に",
       "count": 10
     },
     {
-      "term": "定し",
+      "term": "actions",
       "count": 10
     },
     {
-      "term": "to",
+      "term": "イメージ",
       "count": 10
     },
     {
-      "term": "with",
+      "term": "内で",
+      "count": 10
+    },
+    {
+      "term": "検証",
+      "count": 10
+    },
+    {
+      "term": "る具",
+      "count": 10
+    },
+    {
+      "term": "フェ",
       "count": 9
     },
     {
-      "term": "action",
+      "term": "の担",
       "count": 9
     },
     {
-      "term": "シス",
+      "term": "いっ",
+      "count": 9
+    },
+    {
+      "term": "権限",
+      "count": 9
+    },
+    {
+      "term": "えら",
+      "count": 9
+    },
+    {
+      "term": "image",
+      "count": 9
+    },
+    {
+      "term": "囲の",
       "count": 8
     },
     {
-      "term": "ーを",
+      "term": "ルー",
+      "count": 8
+    },
+    {
+      "term": "作成",
       "count": 8
     },
     {
@@ -94,23 +118,19 @@
       "count": 8
     },
     {
-      "term": "repository",
+      "term": "リの",
       "count": 8
     },
     {
-      "term": "ト情",
+      "term": "が考",
+      "count": 8
+    },
+    {
+      "term": "リ及",
       "count": 7
     },
     {
-      "term": "報の",
-      "count": 7
-    },
-    {
-      "term": "クレ",
-      "count": 7
-    },
-    {
-      "term": "トリ",
+      "term": "ェーズの",
       "count": 7
     },
     {
@@ -118,88 +138,68 @@
       "count": 7
     },
     {
-      "term": "ダー",
+      "term": "ンb",
       "count": 7
     },
     {
-      "term": "特有",
+      "term": "commit",
       "count": 7
     },
     {
-      "term": "環境",
+      "term": "図 ",
       "count": 7
     },
     {
-      "term": "ると",
+      "term": "混入",
       "count": 7
     },
     {
-      "term": "を確",
-      "count": 7
-    },
-    {
-      "term": "ムチーム",
-      "count": 7
-    },
-    {
-      "term": "クセ",
-      "count": 7
-    },
-    {
-      "term": "要と",
-      "count": 7
-    },
-    {
-      "term": "仕組",
-      "count": 7
-    },
-    {
-      "term": "開発",
+      "term": "テム",
       "count": 6
     },
     {
-      "term": "ナリ",
+      "term": "ラン",
       "count": 6
     },
     {
-      "term": "した",
+      "term": "24",
       "count": 6
     },
     {
-      "term": "こで",
+      "term": "たが",
       "count": 6
     },
     {
-      "term": "るよ",
+      "term": "物と",
       "count": 6
     },
     {
-      "term": "steps",
+      "term": "は３",
       "count": 6
     },
     {
-      "term": "とに",
-      "count": 5
+      "term": "secrets",
+      "count": 6
     },
     {
-      "term": "ケー",
-      "count": 5
+      "term": "and",
+      "count": 6
     },
     {
-      "term": "をも",
-      "count": 5
+      "term": "象と",
+      "count": 6
     },
     {
-      "term": "産管",
-      "count": 5
+      "term": "い ",
+      "count": 6
     },
     {
-      "term": "要 ",
-      "count": 5
+      "term": "cat",
+      "count": 6
     },
     {
-      "term": "実装",
-      "count": 5
+      "term": "env",
+      "count": 6
     }
   ],
   "meetings": [

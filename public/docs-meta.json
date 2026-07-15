@@ -120,6 +120,16 @@
     "chunks_count": 265
   },
   {
+    "doc_id": "f0f4b391d28765c40dbe8acf706bc7cc",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／8,599KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/50952dae/20260715_resources_standard_guidelines_guideline_03.pdf",
+    "pages": 322,
+    "chunks_count": 281
+  },
+  {
     "doc_id": "c010ee6e8f51b69e8d8b2b6c08316cb4",
     "meeting": "AI戦略会議",
     "agency": "内閣府・内閣官房",
@@ -298,6 +308,16 @@
     "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/93b24a4c/20250527_resources_standard_guidelines_guideline_03.pdf",
     "pages": 4,
     "chunks_count": 4
+  },
+  {
+    "doc_id": "6a040cec9a50569c17ab1b5ac89491b1",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／443KB）",
+    "date": "2023-07-04",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/bb231f8c/20260715_resources_standard_guidelines_glossary_01.pdf",
+    "pages": 20,
+    "chunks_count": 15
   },
   {
     "doc_id": "4e0f3292ef79fa1c44cbf950295ee76e",
