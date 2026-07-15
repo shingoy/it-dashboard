@@ -955,5 +955,16 @@
     "date": "2023-07-04",
     "collected_at": "2026-07-15T10:57:20.109734",
     "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/6a040cec9a50569c17ab1b5ac89491b1.pdf"
+  },
+  "67843bb15bb93c0551efaffa05526e60": {
+    "id": "67843bb15bb93c0551efaffa05526e60",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／2,295KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/54d8725e/20260715_resources_standard_guidelines_guideline_01.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2026-07-15T21:49:12.750111",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/67843bb15bb93c0551efaffa05526e60.pdf"
   }
 }
