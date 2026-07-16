@@ -2,43 +2,51 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "して",
-      "count": 27
-    },
-    {
-      "term": "る ",
-      "count": 25
-    },
-    {
-      "term": "ール",
+      "term": "るこ",
       "count": 20
     },
     {
-      "term": "デー",
+      "term": "ルド",
+      "count": 19
+    },
+    {
+      "term": "でき",
+      "count": 19
+    },
+    {
+      "term": "これ",
       "count": 17
     },
     {
-      "term": "また",
+      "term": "コン",
       "count": 15
     },
     {
-      "term": "ナイ",
-      "count": 15
+      "term": "利用",
+      "count": 14
     },
     {
-      "term": "ンを",
-      "count": 13
+      "term": "この",
+      "count": 14
+    },
+    {
+      "term": "中略",
+      "count": 14
     },
     {
       "term": "ラッ",
       "count": 13
     },
     {
-      "term": "場合",
+      "term": "的に",
       "count": 13
     },
     {
-      "term": "れら",
+      "term": "ーの",
+      "count": 12
+    },
+    {
+      "term": "略 ",
       "count": 12
     },
     {
@@ -46,103 +54,95 @@
       "count": 11
     },
     {
-      "term": "のc",
+      "term": "成果物の",
       "count": 11
     },
     {
-      "term": "おけ",
+      "term": "ecr",
       "count": 11
     },
     {
-      "term": "制限",
+      "term": "https",
       "count": 11
     },
     {
-      "term": "定す",
-      "count": 11
-    },
-    {
-      "term": "チェ",
-      "count": 11
-    },
-    {
-      "term": "保 ",
+      "term": "ナリ",
       "count": 10
     },
     {
-      "term": "ドフ",
+      "term": "取得",
       "count": 10
     },
     {
-      "term": "ース",
+      "term": "る具",
       "count": 10
     },
     {
-      "term": "イプ",
-      "count": 10
-    },
-    {
-      "term": "provenance",
-      "count": 10
-    },
-    {
-      "term": "ビルドフ",
+      "term": "の確",
       "count": 9
     },
     {
-      "term": "uses",
+      "term": "フト",
       "count": 9
     },
     {
-      "term": "及び",
+      "term": "に対",
+      "count": 9
+    },
+    {
+      "term": "スキ",
+      "count": 9
+    },
+    {
+      "term": "の設",
+      "count": 9
+    },
+    {
+      "term": "ビルド上",
       "count": 8
     },
     {
-      "term": "構成",
+      "term": "リス",
       "count": 8
     },
     {
-      "term": "以外",
+      "term": "特有",
       "count": 8
     },
     {
-      "term": "るそ",
+      "term": "docker",
       "count": 8
     },
     {
-      "term": "のs",
+      "term": "yml",
       "count": 8
     },
     {
-      "term": "build",
-      "count": 8
-    },
-    {
-      "term": "組み",
-      "count": 8
-    },
-    {
-      "term": "json",
-      "count": 8
-    },
-    {
-      "term": "キー",
+      "term": "リテ",
       "count": 7
     },
     {
-      "term": "るま",
+      "term": "漏洩",
       "count": 7
     },
     {
-      "term": "ンb",
+      "term": "ci",
       "count": 7
     },
     {
-      "term": "および",
+      "term": "10",
       "count": 7
     },
     {
-      "term": "など",
+      "term": "plan",
+      "count": 7
+    },
+    {
+      "term": "トフォー",
+      "count": 7
+    },
+    {
+      "term": "ンバ",
       "count": 7
     },
     {
@@ -150,56 +150,56 @@
       "count": 7
     },
     {
-      "term": "commit",
+      "term": "rulesets",
       "count": 7
     },
     {
-      "term": "きる",
+      "term": "仕組",
       "count": 7
     },
     {
-      "term": "変更",
+      "term": "ード管理",
       "count": 6
     },
     {
-      "term": "した",
+      "term": "ット情報",
       "count": 6
     },
     {
-      "term": "アカ",
+      "term": "ショ",
       "count": 6
     },
     {
-      "term": "な対",
+      "term": "28",
       "count": 6
     },
     {
-      "term": "secrets",
+      "term": "リ時",
       "count": 6
     },
     {
-      "term": "id",
+      "term": "フ ",
       "count": 6
     },
     {
-      "term": "検出",
+      "term": "たが",
       "count": 6
     },
     {
-      "term": "13",
-      "count": 5
+      "term": "たt",
+      "count": 6
     },
     {
-      "term": "ケー",
-      "count": 5
+      "term": "得し",
+      "count": 6
     },
     {
-      "term": "ci",
-      "count": 5
+      "term": "ムは",
+      "count": 6
     },
     {
-      "term": "ロー",
-      "count": 5
+      "term": "ンテナイ",
+      "count": 6
     }
   ],
   "meetings": [
