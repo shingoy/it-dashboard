@@ -2,23 +2,7 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "の安",
-      "count": 2
-    },
-    {
-      "term": "等支",
-      "count": 2
-    },
-    {
-      "term": "内数",
-      "count": 2
-    },
-    {
-      "term": "データ",
-      "count": 2
-    },
-    {
-      "term": "の地",
+      "term": "地方",
       "count": 2
     },
     {
@@ -26,123 +10,55 @@
       "count": 2
     },
     {
-      "term": "海底",
+      "term": "の信",
       "count": 2
     },
     {
-      "term": "パフ",
+      "term": "規模",
       "count": 2
     },
     {
-      "term": "開発",
+      "term": "築 ",
       "count": 2
     },
     {
-      "term": "形成",
+      "term": "本的",
       "count": 2
     },
     {
-      "term": "の抜本的",
-      "count": 2
-    },
-    {
-      "term": "テストベ",
+      "term": "ルサ",
       "count": 1
     },
     {
-      "term": "策を",
+      "term": "うａ",
       "count": 1
     },
     {
-      "term": "促進及び",
+      "term": "ベッ",
       "count": 1
     },
     {
-      "term": "成ａ",
+      "term": "ープ",
       "count": 1
     },
     {
-      "term": "月全",
+      "term": "に向",
       "count": 1
     },
     {
-      "term": "マー",
+      "term": "る総",
       "count": 1
     },
     {
-      "term": "転の",
+      "term": "向上",
       "count": 1
     },
     {
-      "term": "企業",
+      "term": "に向けて",
       "count": 1
     },
     {
-      "term": "22",
-      "count": 1
-    },
-    {
-      "term": "バメ",
-      "count": 1
-    },
-    {
-      "term": "用実",
-      "count": 1
-    },
-    {
-      "term": "リスク対",
-      "count": 1
-    },
-    {
-      "term": "を実現す",
-      "count": 1
-    },
-    {
-      "term": "産性",
-      "count": 1
-    },
-    {
-      "term": "つい",
-      "count": 1
-    },
-    {
-      "term": "化3",
-      "count": 1
-    },
-    {
-      "term": "金融",
-      "count": 1
-    },
-    {
-      "term": "略的",
-      "count": 1
-    },
-    {
-      "term": "に推",
-      "count": 1
-    },
-    {
-      "term": "うち",
-      "count": 1
-    },
-    {
-      "term": "経ａ",
-      "count": 1
-    },
-    {
-      "term": "上社",
-      "count": 1
-    },
-    {
-      "term": "た匿",
-      "count": 1
-    },
-    {
-      "term": "ロー",
-      "count": 1
-    },
-    {
-      "term": "額に",
+      "term": "化a",
       "count": 1
     },
     {
@@ -150,55 +66,139 @@
       "count": 1
     },
     {
-      "term": "テク",
+      "term": "ド構",
       "count": 1
     },
     {
-      "term": "針に分類",
+      "term": "きる",
       "count": 1
     },
     {
-      "term": "分類",
+      "term": "に係",
       "count": 1
     },
     {
-      "term": "上を",
+      "term": "施策",
       "count": 1
     },
     {
-      "term": "フォ",
+      "term": "い経",
       "count": 1
     },
     {
-      "term": "装の",
+      "term": "関連",
       "count": 1
     },
     {
-      "term": "内フ",
+      "term": "基金の積",
       "count": 1
     },
     {
-      "term": "築 ",
+      "term": "加速的推",
       "count": 1
     },
     {
-      "term": "革3",
+      "term": "金地",
       "count": 1
     },
     {
-      "term": "対する支",
+      "term": "ロー",
       "count": 1
     },
     {
-      "term": "次世代情",
+      "term": "化3",
       "count": 1
     },
     {
-      "term": "た額",
+      "term": "増し",
       "count": 1
     },
     {
-      "term": "ジー",
+      "term": "力向",
+      "count": 1
+    },
+    {
+      "term": "る好",
+      "count": 1
+    },
+    {
+      "term": "業技",
+      "count": 1
+    },
+    {
+      "term": "和７",
+      "count": 1
+    },
+    {
+      "term": "目ご",
+      "count": 1
+    },
+    {
+      "term": "開発力向",
+      "count": 1
+    },
+    {
+      "term": "の信頼性",
+      "count": 1
+    },
+    {
+      "term": "高め",
+      "count": 1
+    },
+    {
+      "term": "ル ",
+      "count": 1
+    },
+    {
+      "term": "を使",
+      "count": 1
+    },
+    {
+      "term": "額を",
+      "count": 1
+    },
+    {
+      "term": "画の",
+      "count": 1
+    },
+    {
+      "term": "社会に向",
+      "count": 1
+    },
+    {
+      "term": "にお",
+      "count": 1
+    },
+    {
+      "term": "化 ",
+      "count": 1
+    },
+    {
+      "term": "グの",
+      "count": 1
+    },
+    {
+      "term": "を高",
+      "count": 1
+    },
+    {
+      "term": "導入支援",
+      "count": 1
+    },
+    {
+      "term": "年５",
+      "count": 1
+    },
+    {
+      "term": "進製",
+      "count": 1
+    },
+    {
+      "term": "経済対策",
+      "count": 1
+    },
+    {
+      "term": "パフ",
       "count": 1
     }
   ],

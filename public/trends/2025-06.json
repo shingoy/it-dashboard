@@ -2,131 +2,119 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ルド",
-      "count": 19
+      "term": "きる",
+      "count": 23
+    },
+    {
+      "term": "であ",
+      "count": 22
     },
     {
       "term": "ロー",
       "count": 19
     },
     {
-      "term": "フォ",
+      "term": "では",
+      "count": 19
+    },
+    {
+      "term": "サー",
+      "count": 17
+    },
+    {
+      "term": "弱性",
       "count": 15
     },
     {
-      "term": "のた",
+      "term": "果物",
       "count": 15
     },
     {
-      "term": "の安",
-      "count": 13
-    },
-    {
-      "term": "ナイ",
-      "count": 13
+      "term": "があ",
+      "count": 14
     },
     {
       "term": "場合",
       "count": 13
     },
     {
-      "term": "変更",
+      "term": "レッ",
       "count": 12
     },
     {
-      "term": "steps",
-      "count": 12
-    },
-    {
-      "term": "workflows",
-      "count": 12
-    },
-    {
-      "term": "つい",
+      "term": "シークレ",
       "count": 11
     },
     {
-      "term": "えら",
-      "count": 11
-    },
-    {
-      "term": "クを",
-      "count": 11
-    },
-    {
-      "term": "https",
-      "count": 11
-    },
-    {
-      "term": "ci",
+      "term": "にお",
       "count": 10
     },
     {
-      "term": "ース",
+      "term": "信頼",
       "count": 10
     },
     {
-      "term": "ー ",
+      "term": "の信",
       "count": 10
     },
     {
-      "term": "の成",
+      "term": "to",
       "count": 10
     },
     {
-      "term": "git",
-      "count": 10
-    },
-    {
-      "term": "ント",
+      "term": "ン ",
       "count": 9
     },
     {
-      "term": "ラッ",
+      "term": "リバ",
       "count": 9
     },
     {
-      "term": "yml",
+      "term": "定の",
       "count": 9
+    },
+    {
+      "term": "権限",
+      "count": 9
+    },
+    {
+      "term": "リソ",
+      "count": 8
+    },
+    {
+      "term": "リ及",
+      "count": 7
+    },
+    {
+      "term": "共通",
+      "count": 7
     },
     {
       "term": "って",
-      "count": 8
-    },
-    {
-      "term": "担保",
-      "count": 8
-    },
-    {
-      "term": "し ",
-      "count": 8
-    },
-    {
-      "term": "が考",
-      "count": 8
-    },
-    {
-      "term": "の漏",
       "count": 7
     },
     {
-      "term": "に関",
+      "term": "すべ",
       "count": 7
     },
     {
-      "term": "にな",
+      "term": "考えられ",
       "count": 7
     },
     {
-      "term": "など",
+      "term": "plan",
       "count": 7
     },
     {
-      "term": "強制",
+      "term": "対し",
       "count": 7
     },
     {
-      "term": "とし",
+      "term": "はg",
+      "count": 7
+    },
+    {
+      "term": "name",
       "count": 7
     },
     {
@@ -134,71 +122,83 @@
       "count": 6
     },
     {
-      "term": "開発",
+      "term": "洩対",
       "count": 6
     },
     {
-      "term": "ード管理",
+      "term": "の保",
       "count": 6
     },
     {
-      "term": "チの",
+      "term": "構成",
       "count": 6
     },
     {
-      "term": "ンに",
+      "term": "ルと",
       "count": 6
     },
     {
-      "term": "おけ",
+      "term": "イダ",
       "count": 6
     },
     {
-      "term": "24",
+      "term": "ウン",
       "count": 6
     },
     {
-      "term": "カウ",
+      "term": "関連",
       "count": 6
     },
     {
-      "term": "方法",
+      "term": "ル ",
       "count": 6
     },
     {
-      "term": "トを",
+      "term": "記述",
       "count": 6
     },
     {
-      "term": "な対",
+      "term": "イメ",
       "count": 6
     },
     {
-      "term": "の変",
+      "term": "repository",
       "count": 6
     },
     {
-      "term": "される",
+      "term": "tf",
       "count": 6
     },
     {
-      "term": "えて",
+      "term": "ることが",
       "count": 6
     },
     {
-      "term": "公式",
+      "term": "検出",
+      "count": 6
+    },
+    {
+      "term": "シナ",
       "count": 5
     },
     {
-      "term": "これは",
+      "term": "ビルドフ",
       "count": 5
     },
     {
-      "term": "を検",
+      "term": "証跡",
       "count": 5
     },
     {
-      "term": "項で",
+      "term": "した",
+      "count": 5
+    },
+    {
+      "term": "ることを",
+      "count": 5
+    },
+    {
+      "term": "よっ",
       "count": 5
     }
   ],
