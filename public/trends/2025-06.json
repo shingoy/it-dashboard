@@ -2,204 +2,204 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 25
+      "term": "ーム",
+      "count": 18
     },
     {
-      "term": "管理",
-      "count": 20
-    },
-    {
-      "term": "リポ",
-      "count": 20
-    },
-    {
-      "term": "フォ",
+      "term": "利用",
       "count": 15
     },
     {
-      "term": "なる",
+      "term": "ナイ",
       "count": 15
     },
     {
-      "term": "での",
-      "count": 14
+      "term": "ソースコ",
+      "count": 13
     },
     {
-      "term": "ビス",
-      "count": 14
+      "term": "tf",
+      "count": 13
     },
     {
-      "term": "から",
-      "count": 14
-    },
-    {
-      "term": "れた",
-      "count": 14
-    },
-    {
-      "term": "ムチ",
+      "term": "変更",
       "count": 12
     },
     {
-      "term": "サービス",
+      "term": "弱性",
       "count": 12
     },
     {
-      "term": "ンを",
-      "count": 11
+      "term": "用す",
+      "count": 12
+    },
+    {
+      "term": "スチ",
+      "count": 12
     },
     {
       "term": "制限",
       "count": 11
     },
     {
-      "term": "とで",
-      "count": 11
+      "term": "code",
+      "count": 10
     },
     {
       "term": "具体",
       "count": 10
     },
     {
-      "term": "性を",
+      "term": "ージ",
       "count": 10
     },
     {
-      "term": "イメージ",
+      "term": "る\n",
       "count": 10
     },
     {
-      "term": "スキ",
+      "term": "内で",
       "count": 10
     },
     {
-      "term": "は ",
+      "term": "こと",
       "count": 10
     },
     {
-      "term": "とす",
+      "term": "に対",
       "count": 9
     },
     {
-      "term": "トリ",
+      "term": "れる",
       "count": 9
     },
     {
-      "term": "トウ",
-      "count": 9
-    },
-    {
-      "term": "ムが",
-      "count": 9
-    },
-    {
-      "term": "通し",
+      "term": "トに",
       "count": 8
     },
     {
-      "term": "を含",
+      "term": "書で",
       "count": 8
     },
     {
-      "term": "outputs",
+      "term": "るそ",
       "count": 8
     },
     {
-      "term": "ステ",
+      "term": "指定",
+      "count": 8
+    },
+    {
+      "term": "組み",
+      "count": 8
+    },
+    {
+      "term": "リ及",
       "count": 7
     },
     {
-      "term": "変更",
+      "term": "ト情",
       "count": 7
     },
     {
-      "term": "バイナリ",
+      "term": "示す",
       "count": 7
     },
     {
-      "term": "がある",
+      "term": "での",
       "count": 7
     },
     {
-      "term": "ーと",
+      "term": "って",
       "count": 7
     },
     {
-      "term": "のよ",
+      "term": "体の",
       "count": 7
     },
     {
-      "term": "ド設",
+      "term": "ンの",
       "count": 7
     },
     {
-      "term": "latest",
+      "term": "ップ",
       "count": 7
     },
     {
-      "term": "ット情報",
+      "term": "ーに",
+      "count": 7
+    },
+    {
+      "term": "rulesets",
+      "count": 7
+    },
+    {
+      "term": "repository",
+      "count": 7
+    },
+    {
+      "term": "workflows",
+      "count": 7
+    },
+    {
+      "term": "に加",
+      "count": 7
+    },
+    {
+      "term": "詳細",
       "count": 6
     },
     {
-      "term": "よび",
+      "term": "を ",
       "count": 6
     },
     {
-      "term": "ロバ",
+      "term": "フ ",
       "count": 6
     },
     {
-      "term": "secrets",
+      "term": "デリ",
       "count": 6
     },
     {
-      "term": "のレ",
+      "term": "ている",
       "count": 6
     },
     {
-      "term": "同様",
+      "term": "cosign",
       "count": 6
     },
     {
-      "term": "要と",
+      "term": "なる",
       "count": 6
     },
     {
-      "term": "テム",
-      "count": 5
+      "term": "取り",
+      "count": 6
     },
     {
-      "term": "スコ",
-      "count": 5
+      "term": "省略",
+      "count": 6
     },
     {
-      "term": "ード",
-      "count": 5
+      "term": "影響",
+      "count": 6
     },
     {
-      "term": "自体",
-      "count": 5
+      "term": "とも",
+      "count": 6
     },
     {
-      "term": "るし",
-      "count": 5
+      "term": "らな",
+      "count": 6
     },
     {
-      "term": "の信",
-      "count": 5
+      "term": "true",
+      "count": 6
     },
     {
-      "term": "配布",
-      "count": 5
-    },
-    {
-      "term": "なけ",
-      "count": 5
-    },
-    {
-      "term": "ルへ",
-      "count": 5
+      "term": "ビルド設",
+      "count": 6
     }
   ],
   "meetings": [
