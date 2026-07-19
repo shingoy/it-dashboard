@@ -2,131 +2,47 @@
   "month": "2026-04",
   "keywords": [
     {
-      "term": "最も関係",
+      "term": "を踏まえ",
       "count": 2
     },
     {
-      "term": "ング",
+      "term": "係が",
       "count": 2
     },
     {
-      "term": "知能",
+      "term": "人工知能",
       "count": 2
     },
     {
-      "term": "議決",
+      "term": "応の",
       "count": 2
     },
     {
-      "term": "ター",
+      "term": "画令",
+      "count": 2
+    },
+    {
+      "term": "合は",
+      "count": 2
+    },
+    {
+      "term": "利活",
+      "count": 2
+    },
+    {
+      "term": "を記",
+      "count": 2
+    },
+    {
+      "term": "は四",
+      "count": 2
+    },
+    {
+      "term": "ガバナン",
       "count": 1
     },
     {
-      "term": "テナ",
-      "count": 1
-    },
-    {
-      "term": "セス",
-      "count": 1
-    },
-    {
-      "term": "療従",
-      "count": 1
-    },
-    {
-      "term": "能力",
-      "count": 1
-    },
-    {
-      "term": "速化",
-      "count": 1
-    },
-    {
-      "term": "連携",
-      "count": 1
-    },
-    {
-      "term": "の人",
-      "count": 1
-    },
-    {
-      "term": "シーズ探",
-      "count": 1
-    },
-    {
-      "term": "エネ",
-      "count": 1
-    },
-    {
-      "term": "略的",
-      "count": 1
-    },
-    {
-      "term": "を含",
-      "count": 1
-    },
-    {
-      "term": "027",
-      "count": 1
-    },
-    {
-      "term": "ムに",
-      "count": 1
-    },
-    {
-      "term": "を使",
-      "count": 1
-    },
-    {
-      "term": "人戦",
-      "count": 1
-    },
-    {
-      "term": "信頼性確",
-      "count": 1
-    },
-    {
-      "term": "び在",
-      "count": 1
-    },
-    {
-      "term": "ジー",
-      "count": 1
-    },
-    {
-      "term": "ーダ",
-      "count": 1
-    },
-    {
-      "term": "産業",
-      "count": 1
-    },
-    {
-      "term": "革ａ",
-      "count": 1
-    },
-    {
-      "term": "ゲッ",
-      "count": 1
-    },
-    {
-      "term": "ット",
-      "count": 1
-    },
-    {
-      "term": "びリ",
-      "count": 1
-    },
-    {
-      "term": "医療",
-      "count": 1
-    },
-    {
-      "term": "合的",
-      "count": 1
-    },
-    {
-      "term": "変革",
+      "term": "闘車両シ",
       "count": 1
     },
     {
@@ -134,71 +50,155 @@
       "count": 1
     },
     {
-      "term": "は四",
+      "term": "beyond",
       "count": 1
     },
     {
-      "term": "省エネ",
+      "term": "ターミナ",
       "count": 1
     },
     {
-      "term": "を高める",
+      "term": "の生",
       "count": 1
     },
     {
-      "term": "進ａ",
+      "term": "クノロジ",
       "count": 1
     },
     {
-      "term": "計画",
+      "term": "報通信基",
       "count": 1
     },
     {
-      "term": "ジタ",
+      "term": "療機",
       "count": 1
     },
     {
-      "term": "ファイン",
+      "term": "の育",
       "count": 1
     },
     {
-      "term": "発の",
+      "term": "査研",
       "count": 1
     },
     {
-      "term": "部等",
+      "term": "の積",
       "count": 1
     },
     {
-      "term": "建設",
+      "term": "闘車",
       "count": 1
     },
     {
-      "term": "る研",
+      "term": "を高",
       "count": 1
     },
     {
-      "term": "造プ",
+      "term": "特定",
       "count": 1
     },
     {
-      "term": "ラh",
+      "term": "の高",
       "count": 1
     },
     {
-      "term": "の負",
+      "term": "法に",
       "count": 1
     },
     {
-      "term": "個々",
+      "term": "対処",
       "count": 1
     },
     {
-      "term": "の研究",
+      "term": "ict",
       "count": 1
     },
     {
-      "term": "社会に向",
+      "term": "ルの開発",
+      "count": 1
+    },
+    {
+      "term": "業経",
+      "count": 1
+    },
+    {
+      "term": "の教",
+      "count": 1
+    },
+    {
+      "term": "ト予",
+      "count": 1
+    },
+    {
+      "term": "産業",
+      "count": 1
+    },
+    {
+      "term": "ティ",
+      "count": 1
+    },
+    {
+      "term": "進の",
+      "count": 1
+    },
+    {
+      "term": "本的",
+      "count": 1
+    },
+    {
+      "term": "索ａ",
+      "count": 1
+    },
+    {
+      "term": "テク",
+      "count": 1
+    },
+    {
+      "term": "変革",
+      "count": 1
+    },
+    {
+      "term": "地震",
+      "count": 1
+    },
+    {
+      "term": "術開",
+      "count": 1
+    },
+    {
+      "term": "などの施",
+      "count": 1
+    },
+    {
+      "term": "けて",
+      "count": 1
+    },
+    {
+      "term": "けａ",
+      "count": 1
+    },
+    {
+      "term": "農業",
+      "count": 1
+    },
+    {
+      "term": "発事",
+      "count": 1
+    },
+    {
+      "term": "的に",
+      "count": 1
+    },
+    {
+      "term": "無人",
+      "count": 1
+    },
+    {
+      "term": "設現",
+      "count": 1
+    },
+    {
+      "term": "用し",
       "count": 1
     }
   ],
