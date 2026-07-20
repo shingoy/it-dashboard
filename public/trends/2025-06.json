@@ -2,159 +2,179 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 25
+      "term": "安全",
+      "count": 18
     },
     {
-      "term": "利用",
-      "count": 19
+      "term": "いる",
+      "count": 18
     },
     {
-      "term": "設定",
-      "count": 19
+      "term": "物の",
+      "count": 17
     },
     {
-      "term": "リポ",
-      "count": 16
-    },
-    {
-      "term": "署名",
+      "term": "ータ",
       "count": 15
     },
     {
-      "term": "性の",
+      "term": "的な",
       "count": 14
     },
     {
-      "term": "とが",
+      "term": "る ",
+      "count": 14
+    },
+    {
+      "term": "タデ",
+      "count": 14
+    },
+    {
+      "term": "る図",
       "count": 13
     },
     {
-      "term": "おけ",
+      "term": "トの",
       "count": 12
     },
     {
-      "term": "存物",
-      "count": 11
-    },
-    {
-      "term": "とで",
-      "count": 11
-    },
-    {
-      "term": "こと",
-      "count": 11
-    },
-    {
-      "term": "確保",
+      "term": "ンチ",
       "count": 10
     },
     {
-      "term": "workflows",
+      "term": "の ",
       "count": 10
     },
     {
-      "term": "脆弱性管",
+      "term": "への",
+      "count": 10
+    },
+    {
+      "term": "る具",
       "count": 9
     },
     {
-      "term": "ソー",
+      "term": "ンa",
       "count": 9
     },
     {
-      "term": "る\n",
+      "term": "クを",
       "count": 9
     },
     {
-      "term": "ルの",
+      "term": "は ",
       "count": 9
     },
     {
-      "term": "セス",
+      "term": "https",
       "count": 9
     },
     {
-      "term": "trivy",
-      "count": 9
+      "term": "の確",
+      "count": 8
     },
     {
-      "term": "yml",
-      "count": 9
+      "term": "シークレ",
+      "count": 8
     },
     {
       "term": "行範",
       "count": 8
     },
     {
-      "term": "repository",
+      "term": "れて",
       "count": 8
     },
     {
-      "term": "能で",
+      "term": "ている",
       "count": 8
     },
     {
-      "term": "action",
+      "term": "com",
       "count": 8
     },
     {
-      "term": "on",
+      "term": "image",
       "count": 8
     },
     {
-      "term": "ubuntu",
-      "count": 8
-    },
-    {
-      "term": "ト情",
+      "term": "資産",
       "count": 7
     },
     {
-      "term": "洩対",
+      "term": "運用",
       "count": 7
     },
     {
-      "term": "図 ",
+      "term": "の担",
       "count": 7
     },
     {
-      "term": "バイナリ",
+      "term": "連携",
       "count": 7
     },
     {
-      "term": "イナ",
+      "term": "略す",
       "count": 7
     },
     {
-      "term": "にも",
+      "term": "name",
       "count": 7
     },
     {
-      "term": "version",
+      "term": "file",
       "count": 7
     },
     {
-      "term": "省略",
+      "term": "混入",
       "count": 7
     },
     {
-      "term": "ード管理",
+      "term": "env",
+      "count": 7
+    },
+    {
+      "term": "詳細",
       "count": 6
     },
     {
-      "term": "ジト",
+      "term": "ート",
       "count": 6
     },
     {
-      "term": "等の",
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "はa",
+      "term": "おけ",
       "count": 6
     },
     {
-      "term": "はプ",
+      "term": "ラン",
+      "count": 6
+    },
+    {
+      "term": "ド成",
+      "count": 6
+    },
+    {
+      "term": "フ ",
+      "count": 6
+    },
+    {
+      "term": "たが",
+      "count": 6
+    },
+    {
+      "term": "ェア",
+      "count": 6
+    },
+    {
+      "term": "関連",
+      "count": 6
+    },
+    {
+      "term": "ムに",
       "count": 6
     },
     {
@@ -162,44 +182,24 @@
       "count": 6
     },
     {
-      "term": "成さ",
+      "term": "を必",
       "count": 6
     },
     {
-      "term": "ズで",
+      "term": "ビュ",
       "count": 6
     },
     {
-      "term": "ルを",
+      "term": "の管",
       "count": 6
     },
     {
-      "term": "保守",
-      "count": 5
+      "term": "これ",
+      "count": 6
     },
     {
-      "term": "トは",
-      "count": 5
-    },
-    {
-      "term": "理脆",
-      "count": 5
-    },
-    {
-      "term": "ード",
-      "count": 5
-    },
-    {
-      "term": "がっ",
-      "count": 5
-    },
-    {
-      "term": "とを",
-      "count": 5
-    },
-    {
-      "term": "る主",
-      "count": 5
+      "term": "tf",
+      "count": 6
     }
   ],
   "meetings": [
