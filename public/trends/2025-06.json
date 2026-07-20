@@ -2,15 +2,23 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "こと",
-      "count": 24
+      "term": "ある",
+      "count": 25
     },
     {
-      "term": "ポジ",
-      "count": 20
+      "term": "利用",
+      "count": 19
     },
     {
-      "term": "コー",
+      "term": "設定",
+      "count": 19
+    },
+    {
+      "term": "リポ",
+      "count": 16
+    },
+    {
+      "term": "署名",
       "count": 15
     },
     {
@@ -18,187 +26,179 @@
       "count": 14
     },
     {
-      "term": "プロ",
+      "term": "とが",
       "count": 13
-    },
-    {
-      "term": "メタ",
-      "count": 13
-    },
-    {
-      "term": "シー",
-      "count": 12
-    },
-    {
-      "term": "れら",
-      "count": 12
-    },
-    {
-      "term": "成果物の",
-      "count": 11
-    },
-    {
-      "term": "考え",
-      "count": 11
-    },
-    {
-      "term": "とな",
-      "count": 11
-    },
-    {
-      "term": "ecr",
-      "count": 11
-    },
-    {
-      "term": "はな",
-      "count": 11
-    },
-    {
-      "term": "com",
-      "count": 11
-    },
-    {
-      "term": "ット",
-      "count": 10
-    },
-    {
-      "term": "いた",
-      "count": 10
-    },
-    {
-      "term": "る具",
-      "count": 10
-    },
-    {
-      "term": "id",
-      "count": 10
-    },
-    {
-      "term": "の確",
-      "count": 9
-    },
-    {
-      "term": "デリ",
-      "count": 9
-    },
-    {
-      "term": "た ",
-      "count": 9
-    },
-    {
-      "term": "ムが",
-      "count": 9
-    },
-    {
-      "term": "策 ",
-      "count": 8
-    },
-    {
-      "term": "スク",
-      "count": 8
-    },
-    {
-      "term": "フト",
-      "count": 8
-    },
-    {
-      "term": "ーに",
-      "count": 8
-    },
-    {
-      "term": "push",
-      "count": 8
-    },
-    {
-      "term": "キー",
-      "count": 7
-    },
-    {
-      "term": "構成",
-      "count": 7
-    },
-    {
-      "term": "定 ",
-      "count": 7
-    },
-    {
-      "term": "にす",
-      "count": 7
-    },
-    {
-      "term": "メタデー",
-      "count": 7
-    },
-    {
-      "term": "digest",
-      "count": 7
-    },
-    {
-      "term": "name",
-      "count": 7
-    },
-    {
-      "term": "リ時",
-      "count": 6
-    },
-    {
-      "term": "行範",
-      "count": 6
-    },
-    {
-      "term": "の事",
-      "count": 6
-    },
-    {
-      "term": "の変",
-      "count": 6
-    },
-    {
-      "term": "レビ",
-      "count": 6
-    },
-    {
-      "term": "のレ",
-      "count": 6
-    },
-    {
-      "term": "ても",
-      "count": 6
-    },
-    {
-      "term": "と同",
-      "count": 6
-    },
-    {
-      "term": "checkout",
-      "count": 6
-    },
-    {
-      "term": "リオ",
-      "count": 5
-    },
-    {
-      "term": "シス",
-      "count": 5
-    },
-    {
-      "term": "セキ",
-      "count": 5
     },
     {
       "term": "おけ",
+      "count": 12
+    },
+    {
+      "term": "存物",
+      "count": 11
+    },
+    {
+      "term": "とで",
+      "count": 11
+    },
+    {
+      "term": "こと",
+      "count": 11
+    },
+    {
+      "term": "確保",
+      "count": 10
+    },
+    {
+      "term": "workflows",
+      "count": 10
+    },
+    {
+      "term": "脆弱性管",
+      "count": 9
+    },
+    {
+      "term": "ソー",
+      "count": 9
+    },
+    {
+      "term": "る\n",
+      "count": 9
+    },
+    {
+      "term": "ルの",
+      "count": 9
+    },
+    {
+      "term": "セス",
+      "count": 9
+    },
+    {
+      "term": "trivy",
+      "count": 9
+    },
+    {
+      "term": "yml",
+      "count": 9
+    },
+    {
+      "term": "行範",
+      "count": 8
+    },
+    {
+      "term": "repository",
+      "count": 8
+    },
+    {
+      "term": "能で",
+      "count": 8
+    },
+    {
+      "term": "action",
+      "count": 8
+    },
+    {
+      "term": "on",
+      "count": 8
+    },
+    {
+      "term": "ubuntu",
+      "count": 8
+    },
+    {
+      "term": "ト情",
+      "count": 7
+    },
+    {
+      "term": "洩対",
+      "count": 7
+    },
+    {
+      "term": "図 ",
+      "count": 7
+    },
+    {
+      "term": "バイナリ",
+      "count": 7
+    },
+    {
+      "term": "イナ",
+      "count": 7
+    },
+    {
+      "term": "にも",
+      "count": 7
+    },
+    {
+      "term": "version",
+      "count": 7
+    },
+    {
+      "term": "省略",
+      "count": 7
+    },
+    {
+      "term": "ード管理",
+      "count": 6
+    },
+    {
+      "term": "ジト",
+      "count": 6
+    },
+    {
+      "term": "等の",
+      "count": 6
+    },
+    {
+      "term": "はa",
+      "count": 6
+    },
+    {
+      "term": "はプ",
+      "count": 6
+    },
+    {
+      "term": "イメ",
+      "count": 6
+    },
+    {
+      "term": "成さ",
+      "count": 6
+    },
+    {
+      "term": "ズで",
+      "count": 6
+    },
+    {
+      "term": "ルを",
+      "count": 6
+    },
+    {
+      "term": "保守",
       "count": 5
     },
     {
-      "term": "なけ",
+      "term": "トは",
       "count": 5
     },
     {
-      "term": "実現",
+      "term": "理脆",
       "count": 5
     },
     {
-      "term": "にて",
+      "term": "ード",
+      "count": 5
+    },
+    {
+      "term": "がっ",
+      "count": 5
+    },
+    {
+      "term": "とを",
+      "count": 5
+    },
+    {
+      "term": "る主",
       "count": 5
     }
   ],
