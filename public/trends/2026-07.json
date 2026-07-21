@@ -2,111 +2,119 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "に係",
+      "term": "関す",
+      "count": 24
+    },
+    {
+      "term": "ジタ",
+      "count": 23
+    },
+    {
+      "term": "の利",
       "count": 22
     },
     {
-      "term": "こと",
-      "count": 20
+      "term": "は ",
+      "count": 18
     },
     {
-      "term": "スレ",
-      "count": 19
-    },
-    {
-      "term": "るこ",
-      "count": 19
-    },
-    {
-      "term": "政運",
-      "count": 19
+      "term": "動産",
+      "count": 17
     },
     {
       "term": "行政機関",
       "count": 17
     },
     {
-      "term": "等 ",
+      "term": "取組",
+      "count": 17
+    },
+    {
+      "term": "って",
+      "count": 16
+    },
+    {
+      "term": "機関",
       "count": 14
     },
     {
-      "term": "の省",
+      "term": "在地",
       "count": 14
     },
     {
-      "term": "公的",
+      "term": "備を",
+      "count": 14
+    },
+    {
+      "term": "に関する",
+      "count": 14
+    },
+    {
+      "term": "れて",
+      "count": 14
+    },
+    {
+      "term": "課題",
+      "count": 13
+    },
+    {
+      "term": "ない",
+      "count": 13
+    },
+    {
+      "term": "の ",
+      "count": 13
+    },
+    {
+      "term": "務省",
+      "count": 13
+    },
+    {
+      "term": "事項",
       "count": 12
     },
     {
-      "term": "進法",
+      "term": "上で",
       "count": 12
     },
     {
-      "term": "データベ",
+      "term": "る取",
       "count": 11
     },
     {
-      "term": "の確",
-      "count": 11
-    },
-    {
-      "term": "であ",
-      "count": 11
-    },
-    {
-      "term": "可能",
-      "count": 11
-    },
-    {
-      "term": "和８",
-      "count": 11
-    },
-    {
-      "term": "有等",
+      "term": "運営の効",
       "count": 10
     },
     {
-      "term": "とす",
+      "term": "とも",
       "count": 10
     },
     {
-      "term": "とと",
+      "term": "基づ",
       "count": 10
     },
     {
-      "term": "ット",
+      "term": "進 ",
       "count": 10
     },
     {
-      "term": "正確",
+      "term": "人登",
       "count": 9
     },
     {
-      "term": "用に",
+      "term": "るため",
       "count": 9
     },
     {
-      "term": "によ",
+      "term": "者 ",
       "count": 9
     },
     {
-      "term": "ル行",
-      "count": 9
-    },
-    {
-      "term": "のシ",
-      "count": 9
-    },
-    {
-      "term": "けて",
-      "count": 9
-    },
-    {
-      "term": "品質",
+      "term": "累計",
       "count": 8
     },
     {
-      "term": "別の",
+      "term": "力の",
       "count": 8
     },
     {
@@ -114,27 +122,31 @@
       "count": 8
     },
     {
-      "term": "他の",
+      "term": "トの",
       "count": 8
     },
     {
-      "term": "土地所有",
+      "term": "が存",
+      "count": 8
+    },
+    {
+      "term": "に係",
+      "count": 8
+    },
+    {
+      "term": "地関",
       "count": 7
     },
     {
-      "term": "の課",
+      "term": "状況",
       "count": 7
     },
     {
-      "term": "の公",
+      "term": "要と",
       "count": 7
     },
     {
-      "term": "おけ",
-      "count": 7
-    },
-    {
-      "term": "人の",
+      "term": "つつ",
       "count": 7
     },
     {
@@ -142,63 +154,51 @@
       "count": 7
     },
     {
-      "term": "項証",
+      "term": "への",
       "count": 7
     },
     {
-      "term": "iv",
+      "term": "ヘト",
       "count": 7
     },
     {
-      "term": "21",
-      "count": 7
-    },
-    {
-      "term": "関係行政",
+      "term": "係行",
       "count": 6
     },
     {
-      "term": "題に",
+      "term": "礎情",
       "count": 6
     },
     {
-      "term": "地所",
+      "term": "各システ",
       "count": 6
     },
     {
-      "term": "令和",
+      "term": "政手",
       "count": 6
     },
     {
-      "term": "を連",
+      "term": "更改",
       "count": 6
     },
     {
-      "term": "api",
+      "term": "次期",
       "count": 6
     },
     {
-      "term": "図面",
+      "term": "第５",
       "count": 6
     },
     {
-      "term": "を構",
-      "count": 5
+      "term": "後の",
+      "count": 6
     },
     {
-      "term": "とし",
-      "count": 5
+      "term": "図情",
+      "count": 6
     },
     {
-      "term": "る手",
-      "count": 5
-    },
-    {
-      "term": "年法律第",
-      "count": 5
-    },
-    {
-      "term": "管す",
+      "term": "今後整備",
       "count": 5
     }
   ],

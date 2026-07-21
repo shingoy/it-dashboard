@@ -2,204 +2,204 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "こと",
-      "count": 25
-    },
-    {
-      "term": "るこ",
-      "count": 24
-    },
-    {
-      "term": "であ",
-      "count": 21
-    },
-    {
-      "term": "ット",
+      "term": "果物",
       "count": 20
     },
     {
-      "term": "ァイ",
-      "count": 19
-    },
-    {
-      "term": "パイプラ",
-      "count": 18
-    },
-    {
-      "term": "aws",
+      "term": "ない",
       "count": 17
     },
     {
-      "term": "の保",
+      "term": "って",
       "count": 16
     },
     {
-      "term": "ナイ",
+      "term": "フォ",
       "count": 15
     },
     {
-      "term": "によ",
+      "term": "イメ",
+      "count": 15
+    },
+    {
+      "term": "メタ",
+      "count": 15
+    },
+    {
+      "term": "への",
+      "count": 15
+    },
+    {
+      "term": "ーム",
       "count": 14
     },
     {
-      "term": "とし",
-      "count": 14
-    },
-    {
-      "term": "ンを",
+      "term": "シー",
       "count": 13
+    },
+    {
+      "term": "トの",
+      "count": 12
     },
     {
       "term": "護 ",
       "count": 12
     },
     {
-      "term": "とす",
-      "count": 11
-    },
-    {
-      "term": "可能",
-      "count": 11
-    },
-    {
-      "term": "ンチ",
-      "count": 10
-    },
-    {
-      "term": "コンテナ",
-      "count": 10
-    },
-    {
-      "term": "いた",
-      "count": 10
-    },
-    {
-      "term": "への",
-      "count": 10
-    },
-    {
-      "term": "ubuntu",
-      "count": 10
-    },
-    {
-      "term": "脆弱性管",
-      "count": 9
-    },
-    {
-      "term": "メン",
-      "count": 9
-    },
-    {
-      "term": "の確",
-      "count": 9
-    },
-    {
-      "term": "おけ",
-      "count": 9
-    },
-    {
       "term": "cd",
+      "count": 12
+    },
+    {
+      "term": "弱性",
+      "count": 11
+    },
+    {
+      "term": "ムの",
+      "count": 11
+    },
+    {
+      "term": "上で",
+      "count": 11
+    },
+    {
+      "term": "com",
+      "count": 11
+    },
+    {
+      "term": "ブラ",
+      "count": 10
+    },
+    {
+      "term": "理を",
+      "count": 10
+    },
+    {
+      "term": "の ",
+      "count": 10
+    },
+    {
+      "term": "定す",
+      "count": 10
+    },
+    {
+      "term": "git",
+      "count": 10
+    },
+    {
+      "term": "スキ",
+      "count": 10
+    },
+    {
+      "term": "は ",
+      "count": 10
+    },
+    {
+      "term": "ック",
       "count": 9
     },
     {
-      "term": "outputs",
+      "term": "保 ",
       "count": 9
     },
     {
-      "term": "プラ",
+      "term": "れて",
+      "count": 9
+    },
+    {
+      "term": "ン ",
       "count": 8
     },
     {
-      "term": "ビルド上",
+      "term": "範囲の制",
       "count": 8
     },
     {
-      "term": "の成",
+      "term": "書で",
       "count": 8
     },
     {
-      "term": "スチ",
+      "term": "バイ",
       "count": 8
     },
     {
-      "term": "クを",
+      "term": "ルー",
       "count": 8
     },
     {
-      "term": "action",
-      "count": 8
-    },
-    {
-      "term": "シークレ",
+      "term": "関す",
       "count": 7
     },
     {
-      "term": "有の",
+      "term": "にお",
       "count": 7
     },
     {
-      "term": "にな",
+      "term": "事項",
       "count": 7
     },
     {
-      "term": "定義",
+      "term": "ークレッ",
       "count": 7
     },
     {
-      "term": "可能であ",
+      "term": "いる",
       "count": 7
     },
     {
-      "term": "図 ",
+      "term": "要と",
       "count": 7
     },
     {
-      "term": "ローカル",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "トリ",
+      "term": "るま",
       "count": 6
     },
     {
-      "term": "ド成",
+      "term": "る\n",
       "count": 6
     },
     {
-      "term": "ージ",
+      "term": "策に",
       "count": 6
     },
     {
-      "term": "得し",
+      "term": "の事",
       "count": 6
     },
     {
-      "term": "にて",
+      "term": "クト",
       "count": 6
     },
     {
-      "term": "メタデー",
+      "term": "の利",
       "count": 6
     },
     {
-      "term": "象と",
+      "term": "影響",
       "count": 6
     },
     {
-      "term": "predicate",
+      "term": "ズで",
       "count": 6
     },
     {
-      "term": "ト ",
-      "count": 5
+      "term": "とも",
+      "count": 6
     },
     {
-      "term": "26",
-      "count": 5
+      "term": "name",
+      "count": 6
     },
     {
-      "term": "ることを",
-      "count": 5
+      "term": "ることが",
+      "count": 6
+    },
+    {
+      "term": "provenance",
+      "count": 6
     }
   ],
   "meetings": [
