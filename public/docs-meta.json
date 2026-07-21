@@ -100,6 +100,16 @@
     "chunks_count": 4
   },
   {
+    "doc_id": "c0dca2f4e7598d71a9542194cd07ec64",
+    "meeting": "ベース・レジストリ",
+    "agency": "デジタル庁",
+    "title": "本文（PDF／970KB）",
+    "date": "2026-07-21",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/816ebeda-f081-4b18-b593-20fd12eb19a9/84275ee8/20260721_plan_for_development_and_improvement_of_public_basic_information_database_outline_03.pdf",
+    "pages": 28,
+    "chunks_count": 26
+  },
+  {
     "doc_id": "82852646d83bf4988ff6bfe641569236",
     "meeting": "デジタル社会推進標準ガイドライン",
     "agency": "デジタル庁",
@@ -148,6 +158,16 @@
     "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/7fefc9ee/20240206_resources_standard_guidelines_guidelines_01.pdf",
     "pages": 32,
     "chunks_count": 27
+  },
+  {
+    "doc_id": "948f4acd049b6709d87dd82f879429b5",
+    "meeting": "ベース・レジストリ",
+    "agency": "デジタル庁",
+    "title": "概要（PDF／610KB）",
+    "date": "2026-07-21",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/816ebeda-f081-4b18-b593-20fd12eb19a9/109b2ba0/20260721_plan_for_development_and_improvement_of_public_basic_information_database_outline_01.pdf",
+    "pages": 1,
+    "chunks_count": 2
   },
   {
     "doc_id": "3af0cf023dbe04081c43a9cd2102cb6a",

@@ -2,47 +2,75 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "安全",
+      "term": "こと",
+      "count": 25
+    },
+    {
+      "term": "るこ",
+      "count": 24
+    },
+    {
+      "term": "であ",
+      "count": 21
+    },
+    {
+      "term": "ット",
+      "count": 20
+    },
+    {
+      "term": "ァイ",
+      "count": 19
+    },
+    {
+      "term": "パイプラ",
       "count": 18
     },
     {
-      "term": "いる",
-      "count": 18
-    },
-    {
-      "term": "物の",
+      "term": "aws",
       "count": 17
     },
     {
-      "term": "ータ",
+      "term": "の保",
+      "count": 16
+    },
+    {
+      "term": "ナイ",
       "count": 15
     },
     {
-      "term": "的な",
+      "term": "によ",
       "count": 14
     },
     {
-      "term": "る ",
+      "term": "とし",
       "count": 14
     },
     {
-      "term": "タデ",
-      "count": 14
-    },
-    {
-      "term": "る図",
+      "term": "ンを",
       "count": 13
     },
     {
-      "term": "トの",
+      "term": "護 ",
       "count": 12
+    },
+    {
+      "term": "とす",
+      "count": 11
+    },
+    {
+      "term": "可能",
+      "count": 11
     },
     {
       "term": "ンチ",
       "count": 10
     },
     {
-      "term": "の ",
+      "term": "コンテナ",
+      "count": 10
+    },
+    {
+      "term": "いた",
       "count": 10
     },
     {
@@ -50,107 +78,87 @@
       "count": 10
     },
     {
-      "term": "る具",
+      "term": "ubuntu",
+      "count": 10
+    },
+    {
+      "term": "脆弱性管",
       "count": 9
     },
     {
-      "term": "ンa",
-      "count": 9
-    },
-    {
-      "term": "クを",
-      "count": 9
-    },
-    {
-      "term": "は ",
-      "count": 9
-    },
-    {
-      "term": "https",
+      "term": "メン",
       "count": 9
     },
     {
       "term": "の確",
+      "count": 9
+    },
+    {
+      "term": "おけ",
+      "count": 9
+    },
+    {
+      "term": "cd",
+      "count": 9
+    },
+    {
+      "term": "outputs",
+      "count": 9
+    },
+    {
+      "term": "プラ",
+      "count": 8
+    },
+    {
+      "term": "ビルド上",
+      "count": 8
+    },
+    {
+      "term": "の成",
+      "count": 8
+    },
+    {
+      "term": "スチ",
+      "count": 8
+    },
+    {
+      "term": "クを",
+      "count": 8
+    },
+    {
+      "term": "action",
       "count": 8
     },
     {
       "term": "シークレ",
-      "count": 8
-    },
-    {
-      "term": "行範",
-      "count": 8
-    },
-    {
-      "term": "れて",
-      "count": 8
-    },
-    {
-      "term": "ている",
-      "count": 8
-    },
-    {
-      "term": "com",
-      "count": 8
-    },
-    {
-      "term": "image",
-      "count": 8
-    },
-    {
-      "term": "資産",
       "count": 7
     },
     {
-      "term": "運用",
+      "term": "有の",
       "count": 7
     },
     {
-      "term": "の担",
+      "term": "にな",
       "count": 7
     },
     {
-      "term": "連携",
+      "term": "定義",
       "count": 7
     },
     {
-      "term": "略す",
+      "term": "可能であ",
       "count": 7
     },
     {
-      "term": "name",
+      "term": "図 ",
       "count": 7
     },
     {
-      "term": "file",
-      "count": 7
-    },
-    {
-      "term": "混入",
-      "count": 7
-    },
-    {
-      "term": "env",
-      "count": 7
-    },
-    {
-      "term": "詳細",
+      "term": "ローカル",
       "count": 6
     },
     {
-      "term": "ート",
-      "count": 6
-    },
-    {
-      "term": "セキ",
-      "count": 6
-    },
-    {
-      "term": "おけ",
-      "count": 6
-    },
-    {
-      "term": "ラン",
+      "term": "トリ",
       "count": 6
     },
     {
@@ -158,48 +166,40 @@
       "count": 6
     },
     {
-      "term": "フ ",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "たが",
+      "term": "得し",
       "count": 6
     },
     {
-      "term": "ェア",
+      "term": "にて",
       "count": 6
     },
     {
-      "term": "関連",
+      "term": "メタデー",
       "count": 6
     },
     {
-      "term": "ムに",
+      "term": "象と",
       "count": 6
     },
     {
-      "term": "イメ",
+      "term": "predicate",
       "count": 6
     },
     {
-      "term": "を必",
-      "count": 6
+      "term": "ト ",
+      "count": 5
     },
     {
-      "term": "ビュ",
-      "count": 6
+      "term": "26",
+      "count": 5
     },
     {
-      "term": "の管",
-      "count": 6
-    },
-    {
-      "term": "これ",
-      "count": 6
-    },
-    {
-      "term": "tf",
-      "count": 6
+      "term": "ることを",
+      "count": 5
     }
   ],
   "meetings": [

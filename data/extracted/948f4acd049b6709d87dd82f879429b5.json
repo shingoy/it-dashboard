@@ -1,0 +1,85 @@
+{
+  "doc_id": "948f4acd049b6709d87dd82f879429b5",
+  "metadata": {
+    "meeting": "ベース・レジストリ",
+    "agency": "デジタル庁",
+    "title": "概要（PDF／610KB）",
+    "date": "2026-07-21",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/816ebeda-f081-4b18-b593-20fd12eb19a9/109b2ba0/20260721_plan_for_development_and_improvement_of_public_basic_information_database_outline_01.pdf"
+  },
+  "pages": 1,
+  "chunks": [
+    {
+      "chunk_id": "948f4acd049b6709d87dd82f879429b5_c0",
+      "doc_id": "948f4acd049b6709d87dd82f879429b5",
+      "chunk_index": 0,
+      "text": "第１次公的基礎情報データベース整備改善計画（改訂版） 第１計画期間 第２基本的な方針 第３整備及び改善の内容及び実施時期 １．法人ベース・レジストリ ・実質的支配者情報を始めとした、登記情報以 外に今後整備すべき情報を検討 ２．不動産ベース・レジストリ ・令和9年度末に地図情報、令和10年度中頃 に登記情報の提供を目指し、整備を実施 ・「総合的対応策」※を踏まえ、土地所有等情 報に行政機関等や国民が適切にアクセスでき る仕組みについて令和11年度以降の提供を 目指し検討 ３．住所・所在地関係データベース （アドレス・ベース・レジストリ） ・町字より下位の情報について、住居表示業務 のシステム共通化に係る業務検証を実施 第４データの品質の確保に関する事項 第５国立印刷局／IPAの果たすべき役割 第６その他国の公的基礎情報データベース ※ 「外国人の受入れ・秩序ある共生のための総合的対応策」（令 和8年(2026年)1月23日外国人の受入れ・秩序ある共生社会実 現に関する関係閣僚会議決定） 全体概要 不動産ベース・レジストリ 4 • これまでの有識者会合における議論を踏まえ、今後の各ベース・レジストリの整備方針を具体化。 • 法人ベース・レジストリにおける実質的支配者情報等の整備や、不動産ベースレジストリにおける土地所有等情報の提供に向けた取組を検討。 利用目的・用途 政策効果 （５年間の合計） ①添付書面の省略 46.6億円 ② DBを利用した登記 情報の確認 302.7億円 ③ DBを利用した地図 ・図面情報の確認 59.4億円 計 408.7億円 １．整備スケジュール ３．土地所有等情報の実態把握における活用イメージ ※国籍情報へのアクセスは法令等で定める 事務の遂行のために必要な場合に限定 ユースケース R7年度 R8年度 R9年度 R10年度 R11年度 添付書面の省略 データベースを利用した 登記情報の確認 登記データセットの利用 土地所有等情報の把握等 データベース整備等（登記・地図） 順次提供・利用促進 データ整備 データベース整備等 （年次データ等を活用した分析） 第1弾リリース 予定(地図) 第2弾リリース 予定(登記) ２．政策効果 登記情報 システム 他の台帳 匿名化に配慮し、統計化した 土地所有等情報を公開 国民 行政機関等 不動産 BR ・・・・ アクセス（※） 国籍情報を含む 土地所有等情報を提供 国籍情報を含む 不動産登記情報を連携 不動産BRとの情報連携を検討 他の台帳",
+      "page_from": 1,
+      "page_to": 1,
+      "char_count": 1068,
+      "position": 0,
+      "meeting": "ベース・レジストリ",
+      "agency": "デジタル庁",
+      "title": "概要（PDF／610KB）",
+      "date": "2026-07-21",
+      "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/816ebeda-f081-4b18-b593-20fd12eb19a9/109b2ba0/20260721_plan_for_development_and_improvement_of_public_basic_information_database_outline_01.pdf"
+    },
+    {
+      "chunk_id": "948f4acd049b6709d87dd82f879429b5_c1",
+      "doc_id": "948f4acd049b6709d87dd82f879429b5",
+      "chunk_index": 1,
+      "text": "・・ アクセス（※） 国籍情報を含む 土地所有等情報を提供 国籍情報を含む 不動産登記情報を連携 不動産BRとの情報連携を検討 他の台帳",
+      "page_from": 1,
+      "page_to": 1,
+      "char_count": 68,
+      "position": 1000,
+      "meeting": "ベース・レジストリ",
+      "agency": "デジタル庁",
+      "title": "概要（PDF／610KB）",
+      "date": "2026-07-21",
+      "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/816ebeda-f081-4b18-b593-20fd12eb19a9/109b2ba0/20260721_plan_for_development_and_improvement_of_public_basic_information_database_outline_01.pdf"
+    }
+  ],
+  "keywords": [
+    {
+      "term": "レジスト",
+      "count": 6
+    },
+    {
+      "term": "土地所有",
+      "count": 5
+    },
+    {
+      "term": "年度",
+      "count": 5
+    },
+    {
+      "term": "億円",
+      "count": 4
+    },
+    {
+      "term": "登記情報",
+      "count": 3
+    },
+    {
+      "term": "不動産ベ",
+      "count": 3
+    },
+    {
+      "term": "ース",
+      "count": 3
+    },
+    {
+      "term": "令和",
+      "count": 3
+    },
+    {
+      "term": "ベース",
+      "count": 3
+    },
+    {
+      "term": "国籍情報",
+      "count": 3
+    }
+  ]
+}
