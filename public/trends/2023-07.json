@@ -2,204 +2,204 @@
   "month": "2023-07",
   "keywords": [
     {
-      "term": "ない",
-      "count": 2166
+      "term": "必要",
+      "count": 2320
     },
     {
-      "term": "って",
-      "count": 2078
+      "term": "であ",
+      "count": 1970
     },
     {
       "term": "は ",
       "count": 1834
     },
     {
-      "term": "の ",
-      "count": 1729
+      "term": "的な",
+      "count": 1819
     },
     {
-      "term": "事項",
-      "count": 1547
+      "term": "に ",
+      "count": 1770
     },
     {
-      "term": "関す",
-      "count": 1538
+      "term": "について",
+      "count": 1604
+    },
+    {
+      "term": "確認",
+      "count": 1601
     },
     {
       "term": "れて",
       "count": 1528
     },
     {
-      "term": "への",
-      "count": 1394
-    },
-    {
       "term": "トの",
-      "count": 1296
+      "count": 1294
     },
     {
-      "term": "の利",
-      "count": 1134
+      "term": "ュリ",
+      "count": 1196
     },
     {
-      "term": "キュ",
-      "count": 1104
-    },
-    {
-      "term": "とも",
-      "count": 1068
-    },
-    {
-      "term": "状況",
-      "count": 1015
+      "term": "とは",
+      "count": 1097
     },
     {
       "term": "基づ",
-      "count": 949
+      "count": 1060
     },
     {
-      "term": "定す",
-      "count": 910
+      "term": "等 ",
+      "count": 1011
     },
     {
-      "term": "上で",
+      "term": "これ",
+      "count": 952
+    },
+    {
+      "term": "セキ",
+      "count": 943
+    },
+    {
+      "term": "確保",
+      "count": 930
+    },
+    {
+      "term": "ので",
+      "count": 925
+    },
+    {
+      "term": "サイ",
+      "count": 911
+    },
+    {
+      "term": "での",
       "count": 908
     },
     {
-      "term": "評価",
-      "count": 902
+      "term": "ット",
+      "count": 834
     },
     {
-      "term": "クト",
-      "count": 876
+      "term": "とで",
+      "count": 834
     },
     {
-      "term": "機関",
-      "count": 871
+      "term": "任者",
+      "count": 813
     },
     {
-      "term": "ることが",
-      "count": 781
-    },
-    {
-      "term": "要と",
-      "count": 775
-    },
-    {
-      "term": "影響",
-      "count": 768
-    },
-    {
-      "term": "に関する",
-      "count": 757
-    },
-    {
-      "term": "特定",
-      "count": 712
-    },
-    {
-      "term": "ジタ",
-      "count": 703
-    },
-    {
-      "term": "ック",
-      "count": 696
-    },
-    {
-      "term": "時の",
-      "count": 669
+      "term": "参照",
+      "count": 803
     },
     {
       "term": "ン ",
-      "count": 658
+      "count": 795
     },
     {
-      "term": "ムの",
-      "count": 623
+      "term": "ェア",
+      "count": 733
     },
     {
-      "term": "にお",
-      "count": 603
+      "term": "ること",
+      "count": 715
     },
     {
-      "term": "アプ",
-      "count": 586
+      "term": "させ",
+      "count": 706
     },
     {
-      "term": "者 ",
-      "count": 524
+      "term": "づき",
+      "count": 678
+    },
+    {
+      "term": "である",
+      "count": 627
+    },
+    {
+      "term": "説 ",
+      "count": 620
+    },
+    {
+      "term": "認す",
+      "count": 619
+    },
+    {
+      "term": "決定",
+      "count": 616
+    },
+    {
+      "term": "策事",
+      "count": 604
+    },
+    {
+      "term": "するため",
+      "count": 572
+    },
+    {
+      "term": "され",
+      "count": 528
+    },
+    {
+      "term": "追加",
+      "count": 527
+    },
+    {
+      "term": "化し",
+      "count": 508
+    },
+    {
+      "term": "10",
+      "count": 491
     },
     {
       "term": "シー",
       "count": 489
     },
     {
+      "term": "りま",
+      "count": 475
+    },
+    {
+      "term": "はそ",
+      "count": 472
+    },
+    {
       "term": "期的",
-      "count": 467
+      "count": 469
     },
     {
-      "term": "ロセ",
-      "count": 464
-    },
-    {
-      "term": "理解",
-      "count": 459
-    },
-    {
-      "term": "き ",
-      "count": 448
-    },
-    {
-      "term": "置を",
-      "count": 442
+      "term": "想定",
+      "count": 456
     },
     {
       "term": "in",
-      "count": 442
+      "count": 450
     },
     {
-      "term": "フォ",
-      "count": 439
+      "term": "generative",
+      "count": 447
     },
     {
-      "term": "の事",
-      "count": 436
+      "term": "のリ",
+      "count": 428
     },
     {
-      "term": "for",
-      "count": 436
+      "term": "the",
+      "count": 424
     },
     {
-      "term": "載す",
-      "count": 430
+      "term": "トワ",
+      "count": 418
     },
     {
-      "term": "決定",
-      "count": 430
+      "term": "段階",
+      "count": 404
     },
     {
-      "term": "課題",
-      "count": 426
-    },
-    {
-      "term": "れている",
-      "count": 426
-    },
-    {
-      "term": "取扱",
-      "count": 420
-    },
-    {
-      "term": "操作",
-      "count": 416
-    },
-    {
-      "term": "バイ",
-      "count": 416
-    },
-    {
-      "term": "に係",
-      "count": 413
+      "term": "て定",
+      "count": 400
     }
   ],
   "meetings": [

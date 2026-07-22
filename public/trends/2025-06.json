@@ -2,35 +2,47 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "果物",
+      "term": "であ",
+      "count": 21
+    },
+    {
+      "term": "ット",
       "count": 20
     },
     {
-      "term": "ない",
+      "term": "され",
+      "count": 19
+    },
+    {
+      "term": "リポ",
+      "count": 18
+    },
+    {
+      "term": "パイプラ",
+      "count": 18
+    },
+    {
+      "term": "これ",
       "count": 17
     },
     {
-      "term": "って",
-      "count": 16
-    },
-    {
-      "term": "フォ",
+      "term": "的な",
       "count": 15
     },
     {
-      "term": "イメ",
+      "term": "ーズ",
       "count": 15
     },
     {
-      "term": "メタ",
+      "term": "に ",
       "count": 15
     },
     {
-      "term": "への",
+      "term": "必要",
       "count": 15
     },
     {
-      "term": "ーム",
+      "term": "での",
       "count": 14
     },
     {
@@ -38,27 +50,35 @@
       "count": 13
     },
     {
+      "term": "の成",
+      "count": 13
+    },
+    {
+      "term": "とで",
+      "count": 13
+    },
+    {
+      "term": "確認",
+      "count": 13
+    },
+    {
       "term": "トの",
       "count": 12
     },
     {
-      "term": "護 ",
+      "term": "全性",
       "count": 12
     },
     {
-      "term": "cd",
-      "count": 12
-    },
-    {
-      "term": "弱性",
+      "term": "依存物の",
       "count": 11
     },
     {
-      "term": "ムの",
+      "term": "10",
       "count": 11
     },
     {
-      "term": "上で",
+      "term": "への",
       "count": 11
     },
     {
@@ -66,27 +86,11 @@
       "count": 11
     },
     {
-      "term": "ブラ",
-      "count": 10
-    },
-    {
       "term": "理を",
       "count": 10
     },
     {
-      "term": "の ",
-      "count": 10
-    },
-    {
-      "term": "定す",
-      "count": 10
-    },
-    {
-      "term": "git",
-      "count": 10
-    },
-    {
-      "term": "スキ",
+      "term": "確保",
       "count": 10
     },
     {
@@ -94,11 +98,19 @@
       "count": 10
     },
     {
-      "term": "ック",
+      "term": "ン ",
       "count": 9
     },
     {
-      "term": "保 ",
+      "term": "はc",
+      "count": 9
+    },
+    {
+      "term": "ナリ",
+      "count": 9
+    },
+    {
+      "term": "デリ",
       "count": 9
     },
     {
@@ -106,47 +118,31 @@
       "count": 9
     },
     {
-      "term": "ン ",
+      "term": "ェア",
+      "count": 9
+    },
+    {
+      "term": "はな",
+      "count": 9
+    },
+    {
+      "term": "保護",
       "count": 8
     },
     {
-      "term": "範囲の制",
-      "count": 8
-    },
-    {
-      "term": "書で",
-      "count": 8
-    },
-    {
-      "term": "バイ",
-      "count": 8
-    },
-    {
-      "term": "ルー",
-      "count": 8
-    },
-    {
-      "term": "関す",
+      "term": "キー",
       "count": 7
     },
     {
-      "term": "にお",
+      "term": "のリ",
       "count": 7
     },
     {
-      "term": "事項",
+      "term": "とは",
       "count": 7
     },
     {
-      "term": "ークレッ",
-      "count": 7
-    },
-    {
-      "term": "いる",
-      "count": 7
-    },
-    {
-      "term": "要と",
+      "term": "runs",
       "count": 7
     },
     {
@@ -154,52 +150,56 @@
       "count": 6
     },
     {
-      "term": "るま",
+      "term": "頼で",
       "count": 6
     },
     {
-      "term": "る\n",
+      "term": "cosign",
       "count": 6
     },
     {
-      "term": "策に",
+      "term": "記述",
       "count": 6
     },
     {
-      "term": "の事",
+      "term": "の連",
       "count": 6
     },
     {
-      "term": "クト",
+      "term": "steps",
       "count": 6
     },
     {
-      "term": "の利",
+      "term": "file",
       "count": 6
     },
     {
-      "term": "影響",
+      "term": "slsa",
       "count": 6
     },
     {
-      "term": "ズで",
-      "count": 6
+      "term": "守 ",
+      "count": 5
     },
     {
-      "term": "とも",
-      "count": 6
+      "term": "をも",
+      "count": 5
     },
     {
-      "term": "name",
-      "count": 6
+      "term": "共通",
+      "count": 5
     },
     {
-      "term": "ることが",
-      "count": 6
+      "term": "ュリ",
+      "count": 5
     },
     {
-      "term": "provenance",
-      "count": 6
+      "term": "セキ",
+      "count": 5
+    },
+    {
+      "term": "ース",
+      "count": 5
     }
   ],
   "meetings": [
