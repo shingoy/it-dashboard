@@ -2,147 +2,135 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "必要",
-      "count": 18
+      "term": "レジスト",
+      "count": 21
     },
     {
-      "term": "は ",
-      "count": 18
+      "term": "ため",
+      "count": 20
     },
     {
-      "term": "的な",
+      "term": "こと",
+      "count": 20
+    },
+    {
+      "term": "おい",
+      "count": 19
+    },
+    {
+      "term": "スの",
+      "count": 16
+    },
+    {
+      "term": "るた",
+      "count": 16
+    },
+    {
+      "term": "不動産登",
       "count": 15
     },
     {
-      "term": "等 ",
-      "count": 15
-    },
-    {
-      "term": "について",
-      "count": 15
-    },
-    {
-      "term": "これ",
-      "count": 15
-    },
-    {
-      "term": "目指",
-      "count": 15
-    },
-    {
-      "term": "れて",
+      "term": "住所",
       "count": 14
     },
     {
-      "term": "続に",
+      "term": "いう",
+      "count": 14
+    },
+    {
+      "term": "的に",
+      "count": 14
+    },
+    {
+      "term": "省略",
+      "count": 14
+    },
+    {
+      "term": "なる",
       "count": 13
     },
     {
-      "term": "に ",
-      "count": 13
-    },
-    {
-      "term": "関の",
+      "term": "のデ",
       "count": 12
     },
     {
-      "term": "確認",
+      "term": "を検",
       "count": 12
     },
     {
-      "term": "産ベ",
+      "term": "た ",
       "count": 11
     },
     {
-      "term": "人ベ",
+      "term": "い ",
       "count": 11
     },
     {
-      "term": "とは",
+      "term": "とを",
       "count": 11
     },
     {
-      "term": "10",
+      "term": "法務",
+      "count": 11
+    },
+    {
+      "term": "ける",
       "count": 10
     },
     {
-      "term": "基づ",
+      "term": "受け",
       "count": 10
     },
     {
-      "term": "参照",
+      "term": "があ",
       "count": 10
     },
     {
-      "term": "ット",
+      "term": "いては",
       "count": 10
     },
     {
-      "term": "討 ",
+      "term": "政府",
       "count": 9
     },
     {
-      "term": "であ",
+      "term": "実現",
       "count": 9
     },
     {
-      "term": "化し",
+      "term": "まで",
       "count": 9
     },
     {
-      "term": "はデ",
+      "term": "は登",
       "count": 9
     },
     {
-      "term": "の省略",
+      "term": "ア ",
       "count": 9
     },
     {
-      "term": "号イ",
-      "count": 9
-    },
-    {
-      "term": "基礎情報",
+      "term": "地所",
       "count": 8
     },
     {
-      "term": "19",
+      "term": "じて",
       "count": 8
     },
     {
-      "term": "を進",
+      "term": "当該",
       "count": 8
     },
     {
-      "term": "とで",
+      "term": "こで",
       "count": 8
     },
     {
-      "term": "での",
+      "term": "の情",
       "count": 8
     },
     {
-      "term": "づき",
-      "count": 8
-    },
-    {
-      "term": "推進",
-      "count": 8
-    },
-    {
-      "term": "トの",
-      "count": 8
-    },
-    {
-      "term": "善に",
-      "count": 7
-    },
-    {
-      "term": "記関係デ",
-      "count": 7
-    },
-    {
-      "term": "国の行政",
+      "term": "関係デー",
       "count": 7
     },
     {
@@ -150,11 +138,11 @@
       "count": 7
     },
     {
-      "term": "21",
+      "term": "項証",
       "count": 7
     },
     {
-      "term": "た登",
+      "term": "年で",
       "count": 7
     },
     {
@@ -162,44 +150,56 @@
       "count": 7
     },
     {
-      "term": "針 ",
+      "term": "庁と",
+      "count": 7
+    },
+    {
+      "term": "対す",
       "count": 6
     },
     {
-      "term": "現状の課",
+      "term": "係デ",
       "count": 6
     },
     {
-      "term": "確保",
+      "term": "行っ",
       "count": 6
     },
     {
-      "term": "各シ",
+      "term": "ハニ",
       "count": 6
     },
     {
-      "term": "横断",
+      "term": "の次",
       "count": 6
     },
     {
-      "term": "ル社",
+      "term": "次期",
       "count": 6
     },
     {
-      "term": "である",
+      "term": "変更",
       "count": 6
     },
     {
-      "term": "ーズ",
+      "term": "用請",
       "count": 6
     },
     {
-      "term": "費用",
+      "term": "面情",
       "count": 6
     },
     {
-      "term": "関が",
-      "count": 6
+      "term": "所在",
+      "count": 5
+    },
+    {
+      "term": "具体的に",
+      "count": 5
+    },
+    {
+      "term": "れている",
+      "count": 5
     }
   ],
   "meetings": [

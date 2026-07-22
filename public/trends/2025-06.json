@@ -2,163 +2,191 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "であ",
-      "count": 21
+      "term": "こと",
+      "count": 25
     },
     {
-      "term": "ット",
-      "count": 20
+      "term": "ため",
+      "count": 22
     },
     {
-      "term": "され",
-      "count": 19
-    },
-    {
-      "term": "リポ",
-      "count": 18
-    },
-    {
-      "term": "パイプラ",
-      "count": 18
-    },
-    {
-      "term": "これ",
-      "count": 17
-    },
-    {
-      "term": "的な",
+      "term": "ーク",
       "count": 15
     },
     {
-      "term": "ーズ",
+      "term": "ビル",
       "count": 15
     },
     {
-      "term": "に ",
+      "term": "るた",
       "count": 15
     },
     {
-      "term": "必要",
+      "term": "なる",
       "count": 15
     },
     {
-      "term": "での",
-      "count": 14
+      "term": "的に",
+      "count": 13
+    },
+    {
+      "term": "があ",
+      "count": 13
+    },
+    {
+      "term": "id",
+      "count": 13
+    },
+    {
+      "term": "変更",
+      "count": 12
+    },
+    {
+      "term": "こで",
+      "count": 11
+    },
+    {
+      "term": "ンチ",
+      "count": 10
+    },
+    {
+      "term": "ブラ",
+      "count": 10
+    },
+    {
+      "term": "ける",
+      "count": 10
     },
     {
       "term": "シー",
-      "count": 13
+      "count": 10
     },
     {
-      "term": "の成",
-      "count": 13
+      "term": "terraform",
+      "count": 10
     },
     {
-      "term": "とで",
-      "count": 13
+      "term": "env",
+      "count": 10
     },
     {
-      "term": "確認",
-      "count": 13
+      "term": "コー",
+      "count": 9
     },
     {
-      "term": "トの",
-      "count": 12
+      "term": "信頼",
+      "count": 9
     },
     {
-      "term": "全性",
-      "count": 12
+      "term": "って",
+      "count": 9
     },
     {
-      "term": "依存物の",
-      "count": 11
-    },
-    {
-      "term": "10",
-      "count": 11
-    },
-    {
-      "term": "への",
-      "count": 11
+      "term": "た ",
+      "count": 9
     },
     {
       "term": "com",
-      "count": 11
-    },
-    {
-      "term": "理を",
-      "count": 10
-    },
-    {
-      "term": "確保",
-      "count": 10
-    },
-    {
-      "term": "は ",
-      "count": 10
-    },
-    {
-      "term": "ン ",
       "count": 9
     },
     {
-      "term": "はc",
+      "term": "with",
       "count": 9
     },
     {
-      "term": "ナリ",
-      "count": 9
-    },
-    {
-      "term": "デリ",
-      "count": 9
-    },
-    {
-      "term": "れて",
-      "count": 9
-    },
-    {
-      "term": "ェア",
-      "count": 9
-    },
-    {
-      "term": "はな",
-      "count": 9
-    },
-    {
-      "term": "保護",
+      "term": "定内",
       "count": 8
     },
     {
-      "term": "キー",
+      "term": "ーカ",
+      "count": 8
+    },
+    {
+      "term": "ムの",
+      "count": 8
+    },
+    {
+      "term": "バイ",
+      "count": 8
+    },
+    {
+      "term": "リソ",
+      "count": 8
+    },
+    {
+      "term": "スの",
+      "count": 8
+    },
+    {
+      "term": "ング",
+      "count": 8
+    },
+    {
+      "term": "いう",
+      "count": 8
+    },
+    {
+      "term": "ェーズの",
       "count": 7
     },
     {
-      "term": "のリ",
+      "term": "定義",
       "count": 7
     },
     {
-      "term": "とは",
+      "term": "ムが",
       "count": 7
     },
     {
-      "term": "runs",
+      "term": "トフォー",
       "count": 7
     },
     {
-      "term": "した",
+      "term": "い ",
+      "count": 7
+    },
+    {
+      "term": "省略",
+      "count": 7
+    },
+    {
+      "term": "略す",
+      "count": 7
+    },
+    {
+      "term": "と同",
+      "count": 7
+    },
+    {
+      "term": "ド管",
       "count": 6
     },
     {
-      "term": "頼で",
+      "term": "ている",
       "count": 6
     },
     {
-      "term": "cosign",
+      "term": "リス",
       "count": 6
     },
     {
-      "term": "記述",
+      "term": "物と",
+      "count": 6
+    },
+    {
+      "term": "の署",
+      "count": 6
+    },
+    {
+      "term": "docker",
+      "count": 6
+    },
+    {
+      "term": "対す",
+      "count": 6
+    },
+    {
+      "term": "および",
       "count": 6
     },
     {
@@ -166,40 +194,12 @@
       "count": 6
     },
     {
-      "term": "steps",
+      "term": "ref",
       "count": 6
     },
     {
-      "term": "file",
+      "term": "key",
       "count": 6
-    },
-    {
-      "term": "slsa",
-      "count": 6
-    },
-    {
-      "term": "守 ",
-      "count": 5
-    },
-    {
-      "term": "をも",
-      "count": 5
-    },
-    {
-      "term": "共通",
-      "count": 5
-    },
-    {
-      "term": "ュリ",
-      "count": 5
-    },
-    {
-      "term": "セキ",
-      "count": 5
-    },
-    {
-      "term": "ース",
-      "count": 5
     }
   ],
   "meetings": [

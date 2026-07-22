@@ -2,75 +2,19 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "ーマ",
+      "term": "ログ",
       "count": 3
     },
     {
-      "term": "に ",
+      "term": "の見",
       "count": 3
     },
     {
-      "term": "ン ",
-      "count": 3
-    },
-    {
-      "term": "た規",
-      "count": 3
-    },
-    {
-      "term": "討 ",
-      "count": 3
-    },
-    {
-      "term": "かけや",
+      "term": "の場",
       "count": 2
     },
     {
-      "term": "規制の見",
-      "count": 2
-    },
-    {
-      "term": "トワ",
-      "count": 2
-    },
-    {
-      "term": "的利",
-      "count": 2
-    },
-    {
-      "term": "等 ",
-      "count": 2
-    },
-    {
-      "term": "バックと",
-      "count": 2
-    },
-    {
-      "term": "ット",
-      "count": 2
-    },
-    {
-      "term": "コミ",
-      "count": 2
-    },
-    {
-      "term": "加を",
-      "count": 2
-    },
-    {
-      "term": "者か",
-      "count": 2
-    },
-    {
-      "term": "個別呼び",
-      "count": 2
-    },
-    {
-      "term": "10",
-      "count": 2
-    },
-    {
-      "term": "トコ",
+      "term": "regtech",
       "count": 2
     },
     {
@@ -78,127 +22,183 @@
       "count": 2
     },
     {
-      "term": "りま",
+      "term": "ムへ",
       "count": 2
     },
     {
-      "term": "目指",
+      "term": "加呼",
       "count": 2
     },
     {
-      "term": "知 ",
+      "term": "い ",
       "count": 2
     },
     {
-      "term": "て周知",
+      "term": "利活用方",
       "count": 2
     },
     {
-      "term": "ムや",
+      "term": "を検",
       "count": 2
     },
     {
-      "term": "フィ",
+      "term": "ける",
       "count": 2
     },
     {
-      "term": "ウム",
+      "term": "ムの",
       "count": 2
     },
     {
-      "term": "トの",
+      "term": "技術保有",
       "count": 2
     },
     {
-      "term": "の速",
+      "term": "期待",
       "count": 2
     },
     {
-      "term": "スや",
+      "term": "バイ",
       "count": 2
     },
     {
-      "term": "一体",
+      "term": "握 ",
       "count": 2
     },
     {
-      "term": "まえた規",
+      "term": "業の",
       "count": 2
     },
     {
-      "term": "を活",
+      "term": "スや連",
       "count": 2
     },
     {
-      "term": "への",
+      "term": "シン",
       "count": 2
     },
     {
-      "term": "信 ",
+      "term": "を共有",
       "count": 2
     },
     {
-      "term": "検討",
+      "term": "制対",
       "count": 2
     },
     {
-      "term": "ロジ",
+      "term": "築 ",
       "count": 2
     },
     {
-      "term": "体感",
+      "term": "グの",
       "count": 2
     },
     {
-      "term": "事業",
+      "term": "術開",
       "count": 2
     },
     {
-      "term": "地域版",
+      "term": "告会",
+      "count": 2
+    },
+    {
+      "term": "ン ",
+      "count": 2
+    },
+    {
+      "term": "タス",
       "count": 1
     },
     {
-      "term": "同で",
+      "term": "こと",
       "count": 1
     },
     {
-      "term": "民間含む",
+      "term": "なる",
       "count": 1
     },
     {
-      "term": "連団",
+      "term": "の利活用",
       "count": 1
     },
     {
-      "term": "的な",
+      "term": "るの",
       "count": 1
     },
     {
-      "term": "的や",
+      "term": "期待する",
       "count": 1
     },
     {
-      "term": "社会実装",
-      "count": 1
-    },
-    {
-      "term": "運営する",
-      "count": 1
-    },
-    {
-      "term": "や技術カ",
-      "count": 1
-    },
-    {
-      "term": "人日",
-      "count": 1
-    },
-    {
-      "term": "場を",
+      "term": "規制見直",
       "count": 1
     },
     {
       "term": "獲得",
+      "count": 1
+    },
+    {
+      "term": "体 ",
+      "count": 1
+    },
+    {
+      "term": "的に",
+      "count": 1
+    },
+    {
+      "term": "共同",
+      "count": 1
+    },
+    {
+      "term": "シアム概",
+      "count": 1
+    },
+    {
+      "term": "トア",
+      "count": 1
+    },
+    {
+      "term": "シアム活",
+      "count": 1
+    },
+    {
+      "term": "待す",
+      "count": 1
+    },
+    {
+      "term": "ーク",
+      "count": 1
+    },
+    {
+      "term": "装に",
+      "count": 1
+    },
+    {
+      "term": "新市場創",
+      "count": 1
+    },
+    {
+      "term": "タル協会",
+      "count": 1
+    },
+    {
+      "term": "ンチ",
+      "count": 1
+    },
+    {
+      "term": "省庁等に",
+      "count": 1
+    },
+    {
+      "term": "施策",
+      "count": 1
+    },
+    {
+      "term": "を目指す",
+      "count": 1
+    },
+    {
+      "term": "在するの",
       "count": 1
     }
   ],
