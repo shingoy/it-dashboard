@@ -6,139 +6,139 @@
       "count": 25
     },
     {
-      "term": "され",
-      "count": 25
-    },
-    {
-      "term": "ジト",
+      "term": "果物",
       "count": 20
     },
     {
-      "term": "コー",
-      "count": 15
+      "term": "いる",
+      "count": 20
     },
     {
-      "term": "ォー",
-      "count": 15
+      "term": "チー",
+      "count": 18
     },
     {
-      "term": "った",
-      "count": 14
-    },
-    {
-      "term": "性の",
-      "count": 13
-    },
-    {
-      "term": "担保",
-      "count": 13
-    },
-    {
-      "term": "る図",
-      "count": 13
-    },
-    {
-      "term": "およ",
-      "count": 12
-    },
-    {
-      "term": "を取",
-      "count": 12
-    },
-    {
-      "term": "プラット",
-      "count": 11
+      "term": "設定",
+      "count": 18
     },
     {
       "term": "ソー",
+      "count": 16
+    },
+    {
+      "term": "に ",
+      "count": 15
+    },
+    {
+      "term": "フェ",
+      "count": 15
+    },
+    {
+      "term": "よび",
+      "count": 15
+    },
+    {
+      "term": "の保",
+      "count": 15
+    },
+    {
+      "term": "必要",
+      "count": 15
+    },
+    {
+      "term": "ドフ",
+      "count": 14
+    },
+    {
+      "term": "いて",
+      "count": 14
+    },
+    {
+      "term": "る ",
+      "count": 14
+    },
+    {
+      "term": "られ",
+      "count": 13
+    },
+    {
+      "term": "よる",
+      "count": 12
+    },
+    {
+      "term": "可能",
+      "count": 12
+    },
+    {
+      "term": "の実",
       "count": 11
     },
     {
-      "term": "プラ",
-      "count": 11
-    },
-    {
-      "term": "存物",
-      "count": 11
-    },
-    {
-      "term": "状態",
-      "count": 11
-    },
-    {
-      "term": "要が",
-      "count": 11
-    },
-    {
-      "term": "ーの",
-      "count": 11
-    },
-    {
-      "term": "情報",
+      "term": "on",
       "count": 10
     },
     {
-      "term": "ルの",
-      "count": 10
+      "term": "とす",
+      "count": 9
     },
     {
-      "term": "いた",
-      "count": 10
+      "term": "パイプラ",
+      "count": 9
     },
     {
-      "term": "env",
-      "count": 10
+      "term": "outputs",
+      "count": 9
     },
     {
-      "term": "チームの",
+      "term": "build",
+      "count": 9
+    },
+    {
+      "term": "シス",
       "count": 8
     },
     {
-      "term": "での実行",
+      "term": "のよ",
       "count": 8
     },
     {
-      "term": "ソフ",
+      "term": "指定",
       "count": 8
     },
     {
-      "term": "作成",
+      "term": "json",
       "count": 8
     },
     {
-      "term": "commit",
-      "count": 8
-    },
-    {
-      "term": "とし",
-      "count": 8
-    },
-    {
-      "term": "共通",
+      "term": "リ及",
       "count": 7
     },
     {
-      "term": "る主",
+      "term": "運用",
       "count": 7
     },
     {
-      "term": "すべ",
+      "term": "ーム",
       "count": 7
     },
     {
-      "term": "る具",
+      "term": "plan",
       "count": 7
     },
     {
-      "term": "name",
+      "term": "い ",
       "count": 7
     },
     {
-      "term": "ワー",
-      "count": 6
+      "term": "クセ",
+      "count": 7
     },
     {
-      "term": "ンに",
+      "term": "要と",
+      "count": 7
+    },
+    {
+      "term": "詳細",
       "count": 6
     },
     {
@@ -146,59 +146,59 @@
       "count": 6
     },
     {
-      "term": "漏洩",
+      "term": "理を",
       "count": 6
     },
     {
-      "term": "ド成",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "24",
+      "term": "ス ",
       "count": 6
     },
     {
-      "term": "用い",
+      "term": "における",
       "count": 6
     },
     {
-      "term": "関連",
+      "term": "物と",
       "count": 6
     },
     {
-      "term": "にて",
+      "term": "うこ",
       "count": 6
     },
     {
-      "term": "のs",
+      "term": "策に",
       "count": 6
     },
     {
-      "term": "用可",
+      "term": "はパ",
       "count": 6
     },
     {
-      "term": "steps",
-      "count": 6
-    },
-    {
-      "term": "and",
-      "count": 6
-    },
-    {
-      "term": "合は",
-      "count": 6
-    },
-    {
-      "term": "predicate",
-      "count": 6
-    },
-    {
-      "term": "理を含む",
+      "term": "理 ",
       "count": 5
     },
     {
-      "term": "保守",
+      "term": "用保",
+      "count": 5
+    },
+    {
+      "term": "キー",
+      "count": 5
+    },
+    {
+      "term": "サプ",
+      "count": 5
+    },
+    {
+      "term": "公式",
+      "count": 5
+    },
+    {
+      "term": "上の",
       "count": 5
     }
   ],
