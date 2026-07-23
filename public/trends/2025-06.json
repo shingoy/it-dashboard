@@ -2,67 +2,87 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "こと",
+      "term": "ある",
       "count": 25
     },
     {
-      "term": "ため",
-      "count": 22
+      "term": "され",
+      "count": 25
     },
     {
-      "term": "ーク",
+      "term": "ジト",
+      "count": 20
+    },
+    {
+      "term": "コー",
       "count": 15
     },
     {
-      "term": "ビル",
+      "term": "ォー",
       "count": 15
     },
     {
-      "term": "るた",
-      "count": 15
+      "term": "った",
+      "count": 14
     },
     {
-      "term": "なる",
-      "count": 15
-    },
-    {
-      "term": "的に",
+      "term": "性の",
       "count": 13
     },
     {
-      "term": "があ",
+      "term": "担保",
       "count": 13
     },
     {
-      "term": "id",
+      "term": "る図",
       "count": 13
     },
     {
-      "term": "変更",
+      "term": "およ",
       "count": 12
     },
     {
-      "term": "こで",
+      "term": "を取",
+      "count": 12
+    },
+    {
+      "term": "プラット",
       "count": 11
     },
     {
-      "term": "ンチ",
+      "term": "ソー",
+      "count": 11
+    },
+    {
+      "term": "プラ",
+      "count": 11
+    },
+    {
+      "term": "存物",
+      "count": 11
+    },
+    {
+      "term": "状態",
+      "count": 11
+    },
+    {
+      "term": "要が",
+      "count": 11
+    },
+    {
+      "term": "ーの",
+      "count": 11
+    },
+    {
+      "term": "情報",
       "count": 10
     },
     {
-      "term": "ブラ",
+      "term": "ルの",
       "count": 10
     },
     {
-      "term": "ける",
-      "count": 10
-    },
-    {
-      "term": "シー",
-      "count": 10
-    },
-    {
-      "term": "terraform",
+      "term": "いた",
       "count": 10
     },
     {
@@ -70,136 +90,116 @@
       "count": 10
     },
     {
-      "term": "コー",
-      "count": 9
-    },
-    {
-      "term": "信頼",
-      "count": 9
-    },
-    {
-      "term": "って",
-      "count": 9
-    },
-    {
-      "term": "た ",
-      "count": 9
-    },
-    {
-      "term": "com",
-      "count": 9
-    },
-    {
-      "term": "with",
-      "count": 9
-    },
-    {
-      "term": "定内",
+      "term": "チームの",
       "count": 8
     },
     {
-      "term": "ーカ",
+      "term": "での実行",
       "count": 8
     },
     {
-      "term": "ムの",
+      "term": "ソフ",
       "count": 8
     },
     {
-      "term": "バイ",
+      "term": "作成",
       "count": 8
     },
     {
-      "term": "リソ",
+      "term": "commit",
       "count": 8
     },
     {
-      "term": "スの",
+      "term": "とし",
       "count": 8
     },
     {
-      "term": "ング",
-      "count": 8
-    },
-    {
-      "term": "いう",
-      "count": 8
-    },
-    {
-      "term": "ェーズの",
+      "term": "共通",
       "count": 7
     },
     {
-      "term": "定義",
+      "term": "る主",
       "count": 7
     },
     {
-      "term": "ムが",
+      "term": "すべ",
       "count": 7
     },
     {
-      "term": "トフォー",
+      "term": "る具",
       "count": 7
     },
     {
-      "term": "い ",
+      "term": "name",
       "count": 7
     },
     {
-      "term": "省略",
-      "count": 7
-    },
-    {
-      "term": "略す",
-      "count": 7
-    },
-    {
-      "term": "と同",
-      "count": 7
-    },
-    {
-      "term": "ド管",
+      "term": "ワー",
       "count": 6
     },
     {
-      "term": "ている",
+      "term": "ンに",
       "count": 6
     },
     {
-      "term": "リス",
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "物と",
+      "term": "漏洩",
       "count": 6
     },
     {
-      "term": "の署",
+      "term": "ド成",
       "count": 6
     },
     {
-      "term": "docker",
+      "term": "24",
       "count": 6
     },
     {
-      "term": "対す",
+      "term": "用い",
       "count": 6
     },
     {
-      "term": "および",
+      "term": "関連",
       "count": 6
     },
     {
-      "term": "の連",
+      "term": "にて",
       "count": 6
     },
     {
-      "term": "ref",
+      "term": "のs",
       "count": 6
     },
     {
-      "term": "key",
+      "term": "用可",
       "count": 6
+    },
+    {
+      "term": "steps",
+      "count": 6
+    },
+    {
+      "term": "and",
+      "count": 6
+    },
+    {
+      "term": "合は",
+      "count": 6
+    },
+    {
+      "term": "predicate",
+      "count": 6
+    },
+    {
+      "term": "理を含む",
+      "count": 5
+    },
+    {
+      "term": "保守",
+      "count": 5
     }
   ],
   "meetings": [

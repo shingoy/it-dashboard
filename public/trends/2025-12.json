@@ -2,47 +2,51 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "内数",
+      "term": "構築",
       "count": 2
     },
     {
-      "term": "スの",
+      "term": "強靱",
       "count": 2
     },
     {
-      "term": "に資",
+      "term": "ジタル",
       "count": 2
     },
     {
-      "term": "形成",
+      "term": "ートメー",
       "count": 2
     },
     {
-      "term": "の研究",
+      "term": "世代",
       "count": 2
     },
     {
-      "term": "ング",
+      "term": "の強",
       "count": 2
     },
     {
-      "term": "ロボ",
+      "term": "の構築等",
+      "count": 2
+    },
+    {
+      "term": "築 ",
+      "count": 2
+    },
+    {
+      "term": "基本",
       "count": 1
     },
     {
-      "term": "困難",
+      "term": "分析",
       "count": 1
     },
     {
-      "term": "給加",
+      "term": "基金の積",
       "count": 1
     },
     {
-      "term": "た ",
-      "count": 1
-    },
-    {
-      "term": "内フ",
+      "term": "小企",
       "count": 1
     },
     {
@@ -50,99 +54,35 @@
       "count": 1
     },
     {
-      "term": "の情",
+      "term": "関係",
       "count": 1
     },
     {
-      "term": "89",
+      "term": "的と",
       "count": 1
     },
     {
-      "term": "ベッ",
+      "term": "537",
       "count": 1
     },
     {
-      "term": "ログ",
+      "term": "的変革",
       "count": 1
     },
     {
-      "term": "的計",
+      "term": "リン",
       "count": 1
     },
     {
-      "term": "生産",
+      "term": "の促",
       "count": 1
     },
     {
-      "term": "対す",
+      "term": "22",
       "count": 1
     },
     {
-      "term": "的に",
-      "count": 1
-    },
-    {
-      "term": "業の",
-      "count": 1
-    },
-    {
-      "term": "含ま",
-      "count": 1
-    },
-    {
-      "term": "実現",
-      "count": 1
-    },
-    {
-      "term": "のデ",
-      "count": 1
-    },
-    {
-      "term": "を活用し",
-      "count": 1
-    },
-    {
-      "term": "ボッ",
-      "count": 1
-    },
-    {
-      "term": "装に",
-      "count": 1
-    },
-    {
-      "term": "強い",
-      "count": 1
-    },
-    {
-      "term": "経済対策",
-      "count": 1
-    },
-    {
-      "term": "上を目的",
-      "count": 1
-    },
-    {
-      "term": "の情報分",
-      "count": 1
-    },
-    {
-      "term": "施策",
-      "count": 1
-    },
-    {
-      "term": "る総",
-      "count": 1
-    },
-    {
-      "term": "関連予算",
-      "count": 1
-    },
-    {
-      "term": "うａ",
-      "count": 1
-    },
-    {
-      "term": "ト開",
+      "term": "用支",
       "count": 1
     },
     {
@@ -150,47 +90,19 @@
       "count": 1
     },
     {
-      "term": "導入等に",
+      "term": "校現",
       "count": 1
     },
     {
-      "term": "経ａ",
+      "term": "を踏",
       "count": 1
     },
     {
-      "term": "の構築等",
+      "term": "関連",
       "count": 1
     },
     {
-      "term": "評価手法",
-      "count": 1
-    },
-    {
-      "term": "策を",
-      "count": 1
-    },
-    {
-      "term": "ける",
-      "count": 1
-    },
-    {
-      "term": "た匿名",
-      "count": 1
-    },
-    {
-      "term": "供給加速",
-      "count": 1
-    },
-    {
-      "term": "融機",
-      "count": 1
-    },
-    {
-      "term": "入し",
-      "count": 1
-    },
-    {
-      "term": "ションの",
+      "term": "画的",
       "count": 1
     },
     {
@@ -198,7 +110,95 @@
       "count": 1
     },
     {
-      "term": "深い",
+      "term": "大規",
+      "count": 1
+    },
+    {
+      "term": "閣議",
+      "count": 1
+    },
+    {
+      "term": "的強",
+      "count": 1
+    },
+    {
+      "term": "ベー",
+      "count": 1
+    },
+    {
+      "term": "開発",
+      "count": 1
+    },
+    {
+      "term": "えａ",
+      "count": 1
+    },
+    {
+      "term": "促進",
+      "count": 1
+    },
+    {
+      "term": "分含",
+      "count": 1
+    },
+    {
+      "term": "加速",
+      "count": 1
+    },
+    {
+      "term": "マン",
+      "count": 1
+    },
+    {
+      "term": "ォー",
+      "count": 1
+    },
+    {
+      "term": "性の",
+      "count": 1
+    },
+    {
+      "term": "の情報分",
+      "count": 1
+    },
+    {
+      "term": "タ利",
+      "count": 1
+    },
+    {
+      "term": "円の",
+      "count": 1
+    },
+    {
+      "term": "事業",
+      "count": 1
+    },
+    {
+      "term": "性評",
+      "count": 1
+    },
+    {
+      "term": "情報",
+      "count": 1
+    },
+    {
+      "term": "高め",
+      "count": 1
+    },
+    {
+      "term": "困難",
+      "count": 1
+    },
+    {
+      "term": "業等",
+      "count": 1
+    },
+    {
+      "term": "びリ",
+      "count": 1
+    },
+    {
+      "term": "の構",
       "count": 1
     }
   ],
