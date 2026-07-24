@@ -2,47 +2,31 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 25
+      "term": "図 ",
+      "count": 24
     },
     {
-      "term": "果物",
-      "count": 20
+      "term": "イン",
+      "count": 22
     },
     {
-      "term": "いる",
-      "count": 20
+      "term": "ジト",
+      "count": 17
     },
     {
-      "term": "チー",
-      "count": 18
-    },
-    {
-      "term": "設定",
-      "count": 18
-    },
-    {
-      "term": "ソー",
-      "count": 16
-    },
-    {
-      "term": "に ",
+      "term": "ラッ",
       "count": 15
     },
     {
-      "term": "フェ",
+      "term": "信頼",
       "count": 15
     },
     {
-      "term": "よび",
+      "term": "ード",
       "count": 15
     },
     {
-      "term": "の保",
-      "count": 15
-    },
-    {
-      "term": "必要",
+      "term": "コン",
       "count": 15
     },
     {
@@ -50,67 +34,83 @@
       "count": 14
     },
     {
-      "term": "いて",
+      "term": "ルを",
       "count": 14
     },
     {
-      "term": "る ",
+      "term": "よう",
       "count": 14
     },
     {
-      "term": "られ",
-      "count": 13
-    },
-    {
-      "term": "よる",
+      "term": "ーズ",
       "count": 12
     },
     {
-      "term": "可能",
-      "count": 12
-    },
-    {
-      "term": "の実",
+      "term": "のc",
       "count": 11
     },
     {
-      "term": "on",
+      "term": "ン ",
+      "count": 11
+    },
+    {
+      "term": "安全性の",
       "count": 10
     },
     {
-      "term": "とす",
+      "term": "コンテナ",
+      "count": 10
+    },
+    {
+      "term": "sbom",
+      "count": 10
+    },
+    {
+      "term": "cd",
       "count": 9
     },
     {
-      "term": "パイプラ",
+      "term": "トウ",
       "count": 9
     },
     {
-      "term": "outputs",
+      "term": "的に",
       "count": 9
     },
     {
-      "term": "build",
+      "term": "に対",
       "count": 9
     },
     {
-      "term": "シス",
+      "term": "com",
+      "count": 9
+    },
+    {
+      "term": "with",
+      "count": 9
+    },
+    {
+      "term": "主体",
       "count": 8
     },
     {
-      "term": "のよ",
+      "term": "の取",
       "count": 8
     },
     {
-      "term": "指定",
+      "term": "いう",
       "count": 8
     },
     {
-      "term": "json",
+      "term": "アク",
       "count": 8
     },
     {
-      "term": "リ及",
+      "term": "action",
+      "count": 8
+    },
+    {
+      "term": "の漏",
       "count": 7
     },
     {
@@ -118,87 +118,87 @@
       "count": 7
     },
     {
-      "term": "ーム",
+      "term": "洩対",
       "count": 7
     },
     {
-      "term": "plan",
+      "term": "関す",
       "count": 7
     },
     {
-      "term": "い ",
+      "term": "るプ",
       "count": 7
     },
     {
-      "term": "クセ",
+      "term": "ると",
       "count": 7
     },
     {
-      "term": "要と",
+      "term": "はg",
       "count": 7
     },
     {
-      "term": "詳細",
+      "term": "ークレッ",
+      "count": 7
+    },
+    {
+      "term": "のア",
+      "count": 7
+    },
+    {
+      "term": "のよ",
+      "count": 7
+    },
+    {
+      "term": "ファ",
+      "count": 7
+    },
+    {
+      "term": "latest",
+      "count": 7
+    },
+    {
+      "term": "ブラ",
       "count": 6
     },
     {
-      "term": "開発",
+      "term": "定 ",
       "count": 6
     },
     {
-      "term": "理を",
+      "term": "供す",
       "count": 6
     },
     {
-      "term": "ージ",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "ス ",
+      "term": "要がある",
       "count": 6
     },
     {
-      "term": "における",
+      "term": "ジを",
       "count": 6
     },
     {
-      "term": "物と",
+      "term": "rule",
       "count": 6
     },
     {
-      "term": "うこ",
+      "term": "どの",
       "count": 6
     },
     {
-      "term": "策に",
+      "term": "る ",
       "count": 6
     },
     {
-      "term": "はパ",
+      "term": "えら",
       "count": 6
     },
     {
-      "term": "理 ",
-      "count": 5
-    },
-    {
-      "term": "用保",
-      "count": 5
-    },
-    {
-      "term": "キー",
-      "count": 5
-    },
-    {
-      "term": "サプ",
-      "count": 5
-    },
-    {
-      "term": "公式",
-      "count": 5
-    },
-    {
-      "term": "上の",
+      "term": "13",
       "count": 5
     }
   ],
