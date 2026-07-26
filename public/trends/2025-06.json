@@ -2,139 +2,151 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "github",
-      "count": 26
+      "term": "した",
+      "count": 21
     },
     {
-      "term": "イン",
-      "count": 22
-    },
-    {
-      "term": "安全",
+      "term": "チー",
       "count": 17
     },
     {
-      "term": "ビス",
+      "term": "ット",
       "count": 16
     },
     {
-      "term": "ムの",
-      "count": 15
-    },
-    {
-      "term": "フェ",
-      "count": 15
-    },
-    {
-      "term": "的な",
-      "count": 15
-    },
-    {
-      "term": "ため",
-      "count": 15
-    },
-    {
       "term": "ない",
+      "count": 16
+    },
+    {
+      "term": "コー",
       "count": 15
     },
     {
-      "term": "略 ",
+      "term": "スチ",
       "count": 14
     },
     {
-      "term": "cd",
+      "term": "ては",
+      "count": 14
+    },
+    {
+      "term": "場合",
       "count": 13
     },
     {
-      "term": "的に",
+      "term": "id",
       "count": 13
     },
     {
-      "term": "スコ",
-      "count": 12
+      "term": "情報",
+      "count": 11
     },
     {
-      "term": "ーの",
-      "count": 12
+      "term": "での",
+      "count": 11
+    },
+    {
+      "term": "チェ",
+      "count": 11
+    },
+    {
+      "term": "メタ",
+      "count": 11
+    },
+    {
+      "term": "push",
+      "count": 11
+    },
+    {
+      "term": "定し",
+      "count": 10
+    },
+    {
+      "term": "の ",
+      "count": 10
     },
     {
       "term": "制限",
-      "count": 11
-    },
-    {
-      "term": "ファイル",
-      "count": 11
-    },
-    {
-      "term": "具体",
       "count": 10
     },
     {
-      "term": "られ",
+      "term": "性を",
       "count": 10
     },
     {
-      "term": "し ",
+      "term": "cat",
       "count": 10
+    },
+    {
+      "term": "性管",
+      "count": 9
+    },
+    {
+      "term": "脆弱性管",
+      "count": 9
+    },
+    {
+      "term": "よる",
+      "count": 9
+    },
+    {
+      "term": "ンの",
+      "count": 9
+    },
+    {
+      "term": "ェア",
+      "count": 9
+    },
+    {
+      "term": "が ",
+      "count": 9
     },
     {
       "term": "本書",
       "count": 9
     },
     {
-      "term": "れて",
+      "term": "ubuntu",
       "count": 9
     },
     {
-      "term": "フト",
-      "count": 9
-    },
-    {
-      "term": "とい",
-      "count": 9
-    },
-    {
-      "term": "権限",
-      "count": 9
-    },
-    {
-      "term": "行範",
+      "term": "ョン",
       "count": 8
     },
     {
-      "term": "物を",
+      "term": "スク",
       "count": 8
     },
     {
-      "term": "また",
+      "term": "るそ",
       "count": 8
     },
     {
-      "term": "は ",
+      "term": "トを",
       "count": 8
     },
     {
-      "term": "ファ",
+      "term": "image",
       "count": 8
     },
     {
-      "term": "を確",
+      "term": "ト情",
       "count": 7
     },
     {
-      "term": "および",
+      "term": "関す",
       "count": 7
     },
     {
-      "term": "cosign",
+      "term": "資産",
       "count": 7
     },
     {
-      "term": "にす",
+      "term": "イル",
       "count": 7
     },
     {
-      "term": "ービ",
+      "term": "はg",
       "count": 7
     },
     {
@@ -142,11 +154,11 @@
       "count": 7
     },
     {
-      "term": "ルに",
+      "term": "ァイ",
       "count": 7
     },
     {
-      "term": "と同",
+      "term": "仕組",
       "count": 7
     },
     {
@@ -158,48 +170,36 @@
       "count": 7
     },
     {
-      "term": "ci",
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "ロバ",
+      "term": "ュリ",
       "count": 6
     },
     {
-      "term": "のg",
+      "term": "たが",
       "count": 6
     },
     {
-      "term": "format",
+      "term": "たt",
       "count": 6
     },
     {
-      "term": "保守",
-      "count": 5
+      "term": "関連",
+      "count": 6
     },
     {
-      "term": "ード",
-      "count": 5
+      "term": "物と",
+      "count": 6
     },
     {
-      "term": "26",
-      "count": 5
+      "term": "ここでは",
+      "count": 6
     },
     {
-      "term": "べき",
-      "count": 5
-    },
-    {
-      "term": "はあ",
-      "count": 5
-    },
-    {
-      "term": "なけ",
-      "count": 5
-    },
-    {
-      "term": "で ",
-      "count": 5
+      "term": "策に",
+      "count": 6
     }
   ],
   "meetings": [
