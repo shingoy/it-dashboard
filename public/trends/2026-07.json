@@ -2,135 +2,151 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "令和",
+      "term": "ベー",
+      "count": 26
+    },
+    {
+      "term": "関す",
+      "count": 24
+    },
+    {
+      "term": "テム",
+      "count": 22
+    },
+    {
+      "term": "関係",
       "count": 20
     },
     {
-      "term": "政機",
-      "count": 18
+      "term": "不動産登",
+      "count": 15
     },
     {
-      "term": "係る",
-      "count": 18
+      "term": "ける",
+      "count": 15
     },
     {
-      "term": "性向",
-      "count": 17
+      "term": "所管",
+      "count": 14
     },
     {
-      "term": "って",
-      "count": 16
+      "term": "に関する",
+      "count": 14
     },
     {
-      "term": "化を",
+      "term": "政推",
       "count": 13
     },
     {
-      "term": "添付",
+      "term": "して",
       "count": 13
     },
     {
-      "term": "基礎",
+      "term": "用す",
+      "count": 13
+    },
+    {
+      "term": "タベース",
       "count": 12
     },
     {
-      "term": "条第",
+      "term": "関の",
       "count": 12
     },
     {
-      "term": "時期",
+      "term": "所在",
+      "count": 12
+    },
+    {
+      "term": "和1",
       "count": 11
     },
     {
-      "term": "省庁",
-      "count": 11
-    },
-    {
-      "term": "所所",
-      "count": 11
-    },
-    {
-      "term": "第1",
-      "count": 11
-    },
-    {
-      "term": "る取",
-      "count": 11
-    },
-    {
-      "term": "もに",
+      "term": "係データ",
       "count": 10
     },
     {
-      "term": "業法",
+      "term": "管理",
+      "count": 10
+    },
+    {
+      "term": "リの",
+      "count": 10
+    },
+    {
+      "term": "にお",
+      "count": 10
+    },
+    {
+      "term": "ムを",
+      "count": 10
+    },
+    {
+      "term": "を実",
       "count": 9
     },
     {
-      "term": "礎情",
+      "term": "用に",
       "count": 9
     },
     {
-      "term": "ケー",
+      "term": "号イ",
       "count": 9
     },
     {
-      "term": "にも",
+      "term": "添付書面",
       "count": 9
     },
     {
-      "term": "認 ",
+      "term": "でい",
       "count": 9
     },
     {
-      "term": "及び行政",
-      "count": 9
-    },
-    {
-      "term": "基本",
+      "term": "基礎情報",
       "count": 8
     },
     {
-      "term": "役割",
+      "term": "以下",
       "count": 8
     },
     {
-      "term": "参考",
+      "term": "進す",
       "count": 8
     },
     {
-      "term": "と連",
+      "term": "関に",
       "count": 8
     },
     {
-      "term": "とか",
-      "count": 8
-    },
-    {
-      "term": "はデ",
-      "count": 8
-    },
-    {
-      "term": "国の行政",
+      "term": "期間",
       "count": 7
     },
     {
-      "term": "状況",
+      "term": "国の公的",
       "count": 7
     },
     {
-      "term": "しつ",
+      "term": "しな",
       "count": 7
     },
     {
-      "term": "ヘト",
+      "term": "を取",
       "count": 7
     },
     {
-      "term": "ニー",
+      "term": "けて",
+      "count": 7
+    },
+    {
+      "term": "下の",
+      "count": 7
+    },
+    {
+      "term": "する対応",
       "count": 6
     },
     {
-      "term": "国民の利",
+      "term": "後整",
       "count": 6
     },
     {
@@ -138,31 +154,31 @@
       "count": 6
     },
     {
-      "term": "請者",
+      "term": "年法律第",
       "count": 6
     },
     {
-      "term": "所を",
+      "term": "判所",
       "count": 6
     },
     {
-      "term": "公用",
+      "term": "それ",
       "count": 6
     },
     {
-      "term": "む ",
+      "term": "届出",
       "count": 6
     },
     {
-      "term": "効率",
+      "term": "度の",
       "count": 6
     },
     {
-      "term": "10",
-      "count": 5
+      "term": "度以",
+      "count": 6
     },
     {
-      "term": "ベース",
+      "term": "係行",
       "count": 5
     },
     {
@@ -174,31 +190,15 @@
       "count": 5
     },
     {
-      "term": "独立行政",
+      "term": "に当",
       "count": 5
     },
     {
-      "term": "点か",
+      "term": "は利",
       "count": 5
     },
     {
-      "term": "かつ",
-      "count": 5
-    },
-    {
-      "term": "観点",
-      "count": 5
-    },
-    {
-      "term": "しな",
-      "count": 5
-    },
-    {
-      "term": "る手",
-      "count": 5
-    },
-    {
-      "term": "ている",
+      "term": "実証",
       "count": 5
     }
   ],
