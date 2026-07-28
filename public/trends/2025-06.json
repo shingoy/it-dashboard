@@ -2,123 +2,95 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "プラ",
-      "count": 25
+      "term": "ジト",
+      "count": 20
     },
     {
-      "term": "ライ",
-      "count": 23
-    },
-    {
-      "term": "して",
-      "count": 22
-    },
-    {
-      "term": "構成",
-      "count": 21
-    },
-    {
-      "term": "ビル",
-      "count": 19
-    },
-    {
-      "term": "管理",
+      "term": "する",
       "count": 18
     },
     {
-      "term": "name",
+      "term": "ース",
       "count": 17
     },
     {
-      "term": "ォー",
+      "term": "その",
       "count": 16
     },
     {
-      "term": "ける",
-      "count": 14
+      "term": "ナイ",
+      "count": 15
     },
     {
-      "term": "ルを",
-      "count": 14
+      "term": "デー",
+      "count": 15
     },
     {
-      "term": "よび",
+      "term": "ソースコ",
       "count": 13
     },
     {
-      "term": "担保",
-      "count": 13
-    },
-    {
-      "term": "用す",
-      "count": 13
-    },
-    {
-      "term": "を取",
+      "term": "護 ",
       "count": 12
     },
     {
-      "term": "依存",
+      "term": "ーズ",
+      "count": 12
+    },
+    {
+      "term": "トリ",
+      "count": 12
+    },
+    {
+      "term": "プラット",
       "count": 11
     },
     {
-      "term": "定す",
+      "term": "ステ",
       "count": 11
-    },
-    {
-      "term": "考え",
-      "count": 11
-    },
-    {
-      "term": "push",
-      "count": 11
-    },
-    {
-      "term": "る\n",
-      "count": 10
-    },
-    {
-      "term": "検証",
-      "count": 10
-    },
-    {
-      "term": "にお",
-      "count": 9
-    },
-    {
-      "term": "それ",
-      "count": 9
-    },
-    {
-      "term": "リの",
-      "count": 9
-    },
-    {
-      "term": "https",
-      "count": 9
-    },
-    {
-      "term": "yml",
-      "count": 9
-    },
-    {
-      "term": "image",
-      "count": 9
-    },
-    {
-      "term": "テム",
-      "count": 8
     },
     {
       "term": "フォ",
-      "count": 8
+      "count": 11
     },
     {
-      "term": "スク",
-      "count": 8
+      "term": "よる",
+      "count": 11
     },
     {
-      "term": "の実",
+      "term": "チェ",
+      "count": 11
+    },
+    {
+      "term": "10",
+      "count": 11
+    },
+    {
+      "term": "し ",
+      "count": 10
+    },
+    {
+      "term": "デリ",
+      "count": 9
+    },
+    {
+      "term": "が ",
+      "count": 9
+    },
+    {
+      "term": "トウ",
+      "count": 9
+    },
+    {
+      "term": "そのため",
+      "count": 9
+    },
+    {
+      "term": "with",
+      "count": 9
+    },
+    {
+      "term": "ョン",
       "count": 8
     },
     {
@@ -126,80 +98,108 @@
       "count": 8
     },
     {
+      "term": "テナ",
+      "count": 8
+    },
+    {
+      "term": "ト情",
+      "count": 7
+    },
+    {
+      "term": "に関",
+      "count": 7
+    },
+    {
+      "term": "ポジ",
+      "count": 7
+    },
+    {
+      "term": "るま",
+      "count": 7
+    },
+    {
+      "term": "自動",
+      "count": 7
+    },
+    {
+      "term": "version",
+      "count": 7
+    },
+    {
+      "term": "対象",
+      "count": 7
+    },
+    {
       "term": "を実",
-      "count": 8
-    },
-    {
-      "term": "いる",
-      "count": 8
-    },
-    {
-      "term": "組み",
-      "count": 8
-    },
-    {
-      "term": "漏洩",
       "count": 7
     },
     {
-      "term": "関す",
+      "term": "ルで",
       "count": 7
     },
     {
-      "term": "組織",
-      "count": 7
-    },
-    {
-      "term": "体の",
-      "count": 7
-    },
-    {
-      "term": "にす",
-      "count": 7
-    },
-    {
-      "term": "ップ",
-      "count": 7
-    },
-    {
-      "term": "クセ",
-      "count": 7
-    },
-    {
-      "term": "図 ",
-      "count": 7
-    },
-    {
-      "term": "を示",
+      "term": "脆弱性管",
       "count": 6
     },
     {
-      "term": "およ",
+      "term": "関連",
       "count": 6
     },
     {
-      "term": "存物",
+      "term": "対す",
       "count": 6
     },
     {
-      "term": "物と",
+      "term": "ジの",
       "count": 6
     },
     {
-      "term": "要がある",
+      "term": "ルに",
       "count": 6
     },
     {
-      "term": "対し",
+      "term": "image",
       "count": 6
     },
     {
-      "term": "ビュ",
+      "term": "えて",
       "count": 6
     },
     {
-      "term": "の安",
+      "term": "ビルド設",
       "count": 6
+    },
+    {
+      "term": "用者",
+      "count": 5
+    },
+    {
+      "term": "シークレ",
+      "count": 5
+    },
+    {
+      "term": "26",
+      "count": 5
+    },
+    {
+      "term": "めの",
+      "count": 5
+    },
+    {
+      "term": "のソ",
+      "count": 5
+    },
+    {
+      "term": "はあ",
+      "count": 5
+    },
+    {
+      "term": "ェッ",
+      "count": 5
+    },
+    {
+      "term": "る具",
+      "count": 5
     }
   ],
   "meetings": [
