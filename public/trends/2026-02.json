@@ -2,27 +2,35 @@
   "month": "2026-02",
   "keywords": [
     {
-      "term": "基盤モデ",
+      "term": "基盤",
       "count": 2
     },
     {
-      "term": "算額",
+      "term": "基本計画",
       "count": 2
     },
     {
-      "term": "材育",
+      "term": "億円",
       "count": 2
     },
     {
-      "term": "推進",
+      "term": "開発",
       "count": 2
     },
     {
-      "term": "関連",
+      "term": "を含むデ",
       "count": 2
     },
     {
-      "term": "類注",
+      "term": "抽出",
+      "count": 2
+    },
+    {
+      "term": "にお",
+      "count": 2
+    },
+    {
+      "term": "額を抽出",
       "count": 2
     },
     {
@@ -30,15 +38,19 @@
       "count": 2
     },
     {
-      "term": "ステ",
+      "term": "個々",
       "count": 2
     },
     {
-      "term": "数の",
+      "term": "の推",
       "count": 2
     },
     {
-      "term": "最も",
+      "term": "策を",
+      "count": 2
+    },
+    {
+      "term": "の促",
       "count": 2
     },
     {
@@ -46,139 +58,55 @@
       "count": 2
     },
     {
-      "term": "に関",
+      "term": "ほか",
       "count": 2
     },
     {
-      "term": "ム医",
+      "term": "約８",
+      "count": 2
+    },
+    {
+      "term": "の４",
+      "count": 2
+    },
+    {
+      "term": "令和",
+      "count": 2
+    },
+    {
+      "term": "生成",
       "count": 1
     },
     {
-      "term": "略的",
+      "term": "価技術の",
       "count": 1
     },
     {
-      "term": "ジカ",
+      "term": "築文",
       "count": 1
     },
     {
-      "term": "ガバナン",
+      "term": "フィジカ",
       "count": 1
     },
     {
-      "term": "た次",
+      "term": "革ａ",
       "count": 1
     },
     {
-      "term": "ンス",
+      "term": "クスの製",
       "count": 1
     },
     {
-      "term": "びシ",
+      "term": "ラム",
       "count": 1
     },
     {
-      "term": "インフラ",
+      "term": "や医療従",
       "count": 1
     },
     {
-      "term": "入等",
-      "count": 1
-    },
-    {
-      "term": "ラミ",
-      "count": 1
-    },
-    {
-      "term": "モデルの",
-      "count": 1
-    },
-    {
-      "term": "設現",
-      "count": 1
-    },
-    {
-      "term": "の充",
-      "count": 1
-    },
-    {
-      "term": "に対する",
-      "count": 1
-    },
-    {
-      "term": "駆動",
-      "count": 1
-    },
-    {
-      "term": "額1",
-      "count": 1
-    },
-    {
-      "term": "国約",
-      "count": 1
-    },
-    {
-      "term": "革新",
-      "count": 1
-    },
-    {
-      "term": "ダル",
-      "count": 1
-    },
-    {
-      "term": "クノロジ",
-      "count": 1
-    },
-    {
-      "term": "対す",
-      "count": 1
-    },
-    {
-      "term": "ナタ",
-      "count": 1
-    },
-    {
-      "term": "の主",
-      "count": 1
-    },
-    {
-      "term": "シーズ探",
-      "count": 1
-    },
-    {
-      "term": "ピュ",
-      "count": 1
-    },
-    {
-      "term": "地震動評",
-      "count": 1
-    },
-    {
-      "term": "活動",
-      "count": 1
-    },
-    {
-      "term": "療従",
-      "count": 1
-    },
-    {
-      "term": "のデ",
-      "count": 1
-    },
-    {
-      "term": "が産",
-      "count": 1
-    },
-    {
-      "term": "ルの開発",
-      "count": 1
-    },
-    {
-      "term": "デー",
-      "count": 1
-    },
-    {
-      "term": "グラ",
+      "term": "コンテナ",
       "count": 1
     },
     {
@@ -186,19 +114,91 @@
       "count": 1
     },
     {
+      "term": "減 ",
+      "count": 1
+    },
+    {
+      "term": "高度化",
+      "count": 1
+    },
+    {
       "term": "使う",
       "count": 1
     },
     {
-      "term": "発支援",
+      "term": "対処能力",
       "count": 1
     },
     {
-      "term": "震活",
+      "term": "機器開発",
       "count": 1
     },
     {
-      "term": "実に",
+      "term": "た地震活",
+      "count": 1
+    },
+    {
+      "term": "クサ",
+      "count": 1
+    },
+    {
+      "term": "る技",
+      "count": 1
+    },
+    {
+      "term": "の信頼性",
+      "count": 1
+    },
+    {
+      "term": "イパ",
+      "count": 1
+    },
+    {
+      "term": "医療",
+      "count": 1
+    },
+    {
+      "term": "科学",
+      "count": 1
+    },
+    {
+      "term": "を活用し",
+      "count": 1
+    },
+    {
+      "term": "に関する",
+      "count": 1
+    },
+    {
+      "term": "進農",
+      "count": 1
+    },
+    {
+      "term": "透明",
+      "count": 1
+    },
+    {
+      "term": "の充",
+      "count": 1
+    },
+    {
+      "term": "ーク",
+      "count": 1
+    },
+    {
+      "term": "機器",
+      "count": 1
+    },
+    {
+      "term": "調査",
+      "count": 1
+    },
+    {
+      "term": "両シ",
+      "count": 1
+    },
+    {
+      "term": "発の",
       "count": 1
     }
   ],
