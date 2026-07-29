@@ -2,195 +2,187 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "れる",
-      "count": 23
-    },
-    {
-      "term": "これ",
-      "count": 17
-    },
-    {
-      "term": "よう",
-      "count": 15
-    },
-    {
-      "term": "ーク",
-      "count": 14
-    },
-    {
-      "term": "にお",
-      "count": 13
-    },
-    {
-      "term": "ーム",
-      "count": 13
-    },
-    {
-      "term": "の安",
-      "count": 13
-    },
-    {
-      "term": "的に",
-      "count": 13
-    },
-    {
-      "term": "る図",
-      "count": 13
-    },
-    {
-      "term": "生成",
-      "count": 13
-    },
-    {
-      "term": "workflows",
-      "count": 13
-    },
-    {
-      "term": "name",
-      "count": 13
-    },
-    {
-      "term": "また",
-      "count": 12
-    },
-    {
-      "term": "ファイル",
-      "count": 12
-    },
-    {
       "term": "イン",
-      "count": 11
-    },
-    {
-      "term": "上で",
-      "count": 11
-    },
-    {
-      "term": "環境",
-      "count": 11
-    },
-    {
-      "term": "steps",
-      "count": 11
-    },
-    {
-      "term": "ビルドフ",
-      "count": 10
-    },
-    {
-      "term": "コンテナ",
-      "count": 10
-    },
-    {
-      "term": "れら",
-      "count": 10
-    },
-    {
-      "term": "provenance",
-      "count": 10
-    },
-    {
-      "term": "to",
-      "count": 10
-    },
-    {
-      "term": "トに",
-      "count": 8
-    },
-    {
-      "term": "のc",
-      "count": 8
-    },
-    {
-      "term": "の取",
-      "count": 8
-    },
-    {
-      "term": "ルー",
-      "count": 8
-    },
-    {
-      "term": "策 ",
-      "count": 7
-    },
-    {
-      "term": "を確",
-      "count": 7
-    },
-    {
-      "term": "ンb",
-      "count": 7
-    },
-    {
-      "term": "のよ",
-      "count": 7
-    },
-    {
-      "term": "開発",
-      "count": 6
-    },
-    {
-      "term": "具体的な",
-      "count": 6
-    },
-    {
-      "term": "の保",
-      "count": 6
-    },
-    {
-      "term": "を ",
-      "count": 6
-    },
-    {
-      "term": "より",
-      "count": 6
-    },
-    {
-      "term": "は３",
-      "count": 6
-    },
-    {
-      "term": "の利",
-      "count": 6
-    },
-    {
-      "term": "ズで",
-      "count": 6
-    },
-    {
-      "term": "secrets",
-      "count": 6
-    },
-    {
-      "term": "17",
-      "count": 6
-    },
-    {
-      "term": "checkout",
-      "count": 6
-    },
-    {
-      "term": "産管",
-      "count": 5
-    },
-    {
-      "term": "資産管理",
-      "count": 5
-    },
-    {
-      "term": "運用",
-      "count": 5
-    },
-    {
-      "term": "ット情報",
-      "count": 5
-    },
-    {
-      "term": "めの",
-      "count": 5
+      "count": 20
     },
     {
       "term": "ージ",
+      "count": 18
+    },
+    {
+      "term": "安全",
+      "count": 18
+    },
+    {
+      "term": "って",
+      "count": 16
+    },
+    {
+      "term": "のた",
+      "count": 15
+    },
+    {
+      "term": "署名",
+      "count": 15
+    },
+    {
+      "term": "ーズ",
+      "count": 14
+    },
+    {
+      "term": "信頼",
+      "count": 14
+    },
+    {
+      "term": "また",
+      "count": 14
+    },
+    {
+      "term": "の成",
+      "count": 13
+    },
+    {
+      "term": "とが",
+      "count": 13
+    },
+    {
+      "term": "tf",
+      "count": 13
+    },
+    {
+      "term": "クレ",
+      "count": 12
+    },
+    {
+      "term": "弱性",
+      "count": 12
+    },
+    {
+      "term": "サー",
+      "count": 12
+    },
+    {
+      "term": "状態",
+      "count": 11
+    },
+    {
+      "term": "ている",
+      "count": 10
+    },
+    {
+      "term": "る具",
+      "count": 10
+    },
+    {
+      "term": "の設",
+      "count": 10
+    },
+    {
+      "term": "行範",
+      "count": 8
+    },
+    {
+      "term": "主体",
+      "count": 8
+    },
+    {
+      "term": "バイ",
+      "count": 8
+    },
+    {
+      "term": "有の",
+      "count": 8
+    },
+    {
+      "term": "リス",
+      "count": 8
+    },
+    {
+      "term": "ング",
+      "count": 8
+    },
+    {
+      "term": "定の",
+      "count": 8
+    },
+    {
+      "term": "を実",
+      "count": 8
+    },
+    {
+      "term": "権限",
+      "count": 8
+    },
+    {
+      "term": "洩対",
+      "count": 7
+    },
+    {
+      "term": "キー",
+      "count": 7
+    },
+    {
+      "term": "トフ",
+      "count": 7
+    },
+    {
+      "term": "定義",
+      "count": 7
+    },
+    {
+      "term": "対し",
+      "count": 7
+    },
+    {
+      "term": "事項",
+      "count": 7
+    },
+    {
+      "term": "name",
+      "count": 7
+    },
+    {
+      "term": "ド設",
+      "count": 7
+    },
+    {
+      "term": "複数",
+      "count": 6
+    },
+    {
+      "term": "な対",
+      "count": 6
+    },
+    {
+      "term": "image",
+      "count": 6
+    },
+    {
+      "term": "る ",
+      "count": 6
+    },
+    {
+      "term": "合は",
+      "count": 6
+    },
+    {
+      "term": "ケー",
+      "count": 5
+    },
+    {
+      "term": "実装",
+      "count": 5
+    },
+    {
+      "term": "ド ",
+      "count": 5
+    },
+    {
+      "term": "のc",
+      "count": 5
+    },
+    {
+      "term": "ェー",
       "count": 5
     },
     {
@@ -198,7 +190,15 @@
       "count": 5
     },
     {
-      "term": "がっ",
+      "term": "を ",
+      "count": 5
+    },
+    {
+      "term": "gitlab",
+      "count": 5
+    },
+    {
+      "term": "を検",
       "count": 5
     }
   ],
