@@ -2,83 +2,99 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "イン",
-      "count": 20
+      "term": "され",
+      "count": 27
     },
     {
-      "term": "ージ",
-      "count": 18
+      "term": "aws",
+      "count": 19
     },
     {
-      "term": "安全",
-      "count": 18
-    },
-    {
-      "term": "って",
+      "term": "によ",
       "count": 16
     },
     {
-      "term": "のた",
+      "term": "ォー",
+      "count": 16
+    },
+    {
+      "term": "ービ",
+      "count": 16
+    },
+    {
+      "term": "テナ",
       "count": 15
     },
     {
-      "term": "署名",
-      "count": 15
-    },
-    {
-      "term": "ーズ",
+      "term": "よう",
       "count": 14
     },
     {
-      "term": "信頼",
-      "count": 14
-    },
-    {
-      "term": "また",
-      "count": 14
-    },
-    {
-      "term": "の成",
+      "term": "シー",
       "count": 13
     },
     {
-      "term": "とが",
+      "term": "の安",
       "count": 13
     },
     {
-      "term": "tf",
-      "count": 13
-    },
-    {
-      "term": "クレ",
+      "term": "ドフ",
       "count": 12
     },
     {
-      "term": "弱性",
-      "count": 12
-    },
-    {
-      "term": "サー",
-      "count": 12
-    },
-    {
-      "term": "状態",
+      "term": "つい",
       "count": 11
     },
     {
-      "term": "ている",
+      "term": "ード",
+      "count": 11
+    },
+    {
+      "term": "プラ",
+      "count": 11
+    },
+    {
+      "term": "サービス",
+      "count": 11
+    },
+    {
+      "term": "の信",
       "count": 10
     },
     {
-      "term": "る具",
+      "term": "スキ",
       "count": 10
     },
     {
-      "term": "の設",
+      "term": "on",
       "count": 10
     },
     {
-      "term": "行範",
+      "term": "の確",
+      "count": 9
+    },
+    {
+      "term": "ズの",
+      "count": 9
+    },
+    {
+      "term": "トウ",
+      "count": 9
+    },
+    {
+      "term": "内で",
+      "count": 9
+    },
+    {
+      "term": "とい",
+      "count": 9
+    },
+    {
+      "term": "ムの",
+      "count": 8
+    },
+    {
+      "term": "での実行",
       "count": 8
     },
     {
@@ -86,51 +102,35 @@
       "count": 8
     },
     {
-      "term": "バイ",
+      "term": "より",
       "count": 8
     },
     {
-      "term": "有の",
+      "term": "対象",
       "count": 8
     },
     {
-      "term": "リス",
+      "term": "組み",
       "count": 8
     },
     {
-      "term": "ング",
+      "term": "ubuntu",
       "count": 8
-    },
-    {
-      "term": "定の",
-      "count": 8
-    },
-    {
-      "term": "を実",
-      "count": 8
-    },
-    {
-      "term": "権限",
-      "count": 8
-    },
-    {
-      "term": "洩対",
-      "count": 7
     },
     {
       "term": "キー",
       "count": 7
     },
     {
-      "term": "トフ",
+      "term": "すべ",
       "count": 7
     },
     {
-      "term": "定義",
+      "term": "考えられ",
       "count": 7
     },
     {
-      "term": "対し",
+      "term": "定の",
       "count": 7
     },
     {
@@ -138,31 +138,51 @@
       "count": 7
     },
     {
-      "term": "name",
+      "term": "クセ",
       "count": 7
     },
     {
-      "term": "ド設",
+      "term": "ーに",
       "count": 7
     },
     {
-      "term": "複数",
+      "term": "ルに",
+      "count": 7
+    },
+    {
+      "term": "図 ",
+      "count": 7
+    },
+    {
+      "term": "file",
+      "count": 7
+    },
+    {
+      "term": "を ",
       "count": 6
     },
     {
-      "term": "な対",
+      "term": "フ ",
       "count": 6
     },
     {
-      "term": "image",
+      "term": "イダ",
       "count": 6
     },
     {
-      "term": "る ",
+      "term": "供す",
       "count": 6
     },
     {
-      "term": "合は",
+      "term": "cosign",
+      "count": 6
+    },
+    {
+      "term": "amazon",
+      "count": 6
+    },
+    {
+      "term": "ップ",
       "count": 6
     },
     {
@@ -174,31 +194,11 @@
       "count": 5
     },
     {
-      "term": "ド ",
+      "term": "につ",
       "count": 5
     },
     {
-      "term": "のc",
-      "count": 5
-    },
-    {
-      "term": "ェー",
-      "count": 5
-    },
-    {
-      "term": "ード",
-      "count": 5
-    },
-    {
-      "term": "を ",
-      "count": 5
-    },
-    {
-      "term": "gitlab",
-      "count": 5
-    },
-    {
-      "term": "を検",
+      "term": "ロー",
       "count": 5
     }
   ],
