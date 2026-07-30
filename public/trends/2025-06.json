@@ -2,15 +2,15 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "イプ",
-      "count": 21
+      "term": "ジト",
+      "count": 20
     },
     {
-      "term": "きる",
-      "count": 21
+      "term": "リポ",
+      "count": 20
     },
     {
-      "term": "パイ",
+      "term": "果物",
       "count": 20
     },
     {
@@ -18,43 +18,47 @@
       "count": 19
     },
     {
-      "term": "ソー",
+      "term": "れた",
       "count": 16
     },
     {
-      "term": "ムチ",
+      "term": "弱性",
       "count": 15
     },
     {
-      "term": "ンテ",
+      "term": "フェ",
       "count": 15
     },
     {
-      "term": "なる",
+      "term": "から",
+      "count": 15
+    },
+    {
+      "term": "パイプラ",
       "count": 14
     },
     {
-      "term": "イメ",
+      "term": "った",
       "count": 14
     },
     {
-      "term": "の成",
+      "term": "的に",
       "count": 13
     },
     {
-      "term": "る図",
+      "term": "いる",
       "count": 13
     },
     {
-      "term": "tf",
+      "term": "id",
       "count": 13
     },
     {
-      "term": "対策",
+      "term": "クレ",
       "count": 12
     },
     {
-      "term": "この",
+      "term": "情報",
       "count": 12
     },
     {
@@ -62,127 +66,71 @@
       "count": 12
     },
     {
-      "term": "cat",
-      "count": 12
-    },
-    {
-      "term": "ン ",
+      "term": "制限",
       "count": 11
     },
     {
-      "term": "ブラ",
+      "term": "内で",
       "count": 10
     },
     {
-      "term": "スコ",
-      "count": 10
-    },
-    {
-      "term": "イメージ",
-      "count": 10
-    },
-    {
-      "term": "git",
-      "count": 10
-    },
-    {
-      "term": "の確",
+      "term": "きる",
       "count": 9
     },
     {
-      "term": "ビルドフ",
-      "count": 9
-    },
-    {
-      "term": "トリ",
-      "count": 9
-    },
-    {
-      "term": "の制",
-      "count": 9
-    },
-    {
-      "term": "定の",
-      "count": 9
-    },
-    {
-      "term": "に対",
-      "count": 9
-    },
-    {
-      "term": "runs",
-      "count": 9
-    },
-    {
-      "term": "ーカ",
+      "term": "主体",
       "count": 8
     },
     {
-      "term": "なお",
+      "term": "性が",
       "count": 8
     },
     {
-      "term": "ルを",
+      "term": "スキ",
       "count": 8
     },
     {
-      "term": "して",
+      "term": "いう",
       "count": 8
     },
     {
-      "term": "ubuntu",
+      "term": "の対",
       "count": 8
     },
     {
-      "term": "洩対",
+      "term": "ローカル",
       "count": 7
     },
     {
-      "term": "組織",
+      "term": "にな",
       "count": 7
     },
     {
-      "term": "定 ",
+      "term": "version",
       "count": 7
     },
     {
-      "term": "での実行",
+      "term": "cosign",
       "count": 7
     },
     {
-      "term": "自動",
+      "term": "事項",
       "count": 7
     },
     {
-      "term": "スト",
+      "term": "クセ",
       "count": 7
     },
     {
-      "term": "ーテ",
+      "term": "可能であ",
       "count": 7
     },
     {
-      "term": "はg",
+      "term": "図 ",
       "count": 7
     },
     {
-      "term": "るが",
-      "count": 7
-    },
-    {
-      "term": "ード管理",
-      "count": 6
-    },
-    {
-      "term": "運用",
-      "count": 6
-    },
-    {
-      "term": "ズの",
-      "count": 6
-    },
-    {
-      "term": "チー",
+      "term": "めに",
       "count": 6
     },
     {
@@ -190,7 +138,39 @@
       "count": 6
     },
     {
-      "term": "は３",
+      "term": "プロバイ",
+      "count": 6
+    },
+    {
+      "term": "定 ",
+      "count": 6
+    },
+    {
+      "term": "たコ",
+      "count": 6
+    },
+    {
+      "term": "トフォー",
+      "count": 6
+    },
+    {
+      "term": "る具",
+      "count": 6
+    },
+    {
+      "term": "のg",
+      "count": 6
+    },
+    {
+      "term": "取り",
+      "count": 6
+    },
+    {
+      "term": "省略する",
+      "count": 6
+    },
+    {
+      "term": "レビ",
       "count": 6
     },
     {
@@ -198,8 +178,28 @@
       "count": 6
     },
     {
-      "term": "同様",
+      "term": "image",
       "count": 6
+    },
+    {
+      "term": "ることが",
+      "count": 6
+    },
+    {
+      "term": "ド ",
+      "count": 5
+    },
+    {
+      "term": "リオ",
+      "count": 5
+    },
+    {
+      "term": "開発",
+      "count": 5
+    },
+    {
+      "term": "の漏",
+      "count": 5
     }
   ],
   "meetings": [

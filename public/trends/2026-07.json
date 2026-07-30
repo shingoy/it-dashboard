@@ -2,63 +2,79 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "係デ",
+      "term": "情報",
+      "count": 28
+    },
+    {
+      "term": "登記",
+      "count": 26
+    },
+    {
+      "term": "に係",
+      "count": 22
+    },
+    {
+      "term": "レジ",
+      "count": 21
+    },
+    {
+      "term": "政運",
+      "count": 19
+    },
+    {
+      "term": "から",
       "count": 18
     },
     {
-      "term": "スト",
-      "count": 18
-    },
-    {
-      "term": "効率",
-      "count": 18
-    },
-    {
-      "term": "利便",
-      "count": 18
-    },
-    {
-      "term": "目指",
-      "count": 15
-    },
-    {
-      "term": "る行",
+      "term": "事項",
       "count": 14
     },
     {
-      "term": "なる",
+      "term": "いう",
+      "count": 14
+    },
+    {
+      "term": "的に",
+      "count": 14
+    },
+    {
+      "term": "11",
+      "count": 14
+    },
+    {
+      "term": "課題",
       "count": 13
     },
     {
-      "term": "進法",
+      "term": "政推",
+      "count": 13
+    },
+    {
+      "term": "タベース",
       "count": 12
     },
     {
-      "term": "きる",
+      "term": "性向",
       "count": 12
     },
     {
-      "term": "に対",
+      "term": "データの",
       "count": 11
     },
     {
-      "term": "の確",
+      "term": "負担",
       "count": 11
     },
     {
-      "term": "行う",
+      "term": "を図",
       "count": 11
     },
     {
-      "term": "る取",
+      "term": "第２",
       "count": 11
     },
     {
-      "term": "条第",
-      "count": 11
-    },
-    {
-      "term": "運用",
+      "term": "所在",
       "count": 10
     },
     {
@@ -66,67 +82,43 @@
       "count": 10
     },
     {
-      "term": "異な",
-      "count": 10
-    },
-    {
-      "term": "で ",
-      "count": 10
-    },
-    {
       "term": "ジュ",
       "count": 10
     },
     {
-      "term": "まで",
-      "count": 9
-    },
-    {
-      "term": "する取組",
-      "count": 9
-    },
-    {
-      "term": "基本",
-      "count": 8
-    },
-    {
-      "term": "ユー",
-      "count": 8
-    },
-    {
-      "term": "もに",
-      "count": 8
-    },
-    {
-      "term": "定の",
-      "count": 8
-    },
-    {
-      "term": "共団",
-      "count": 8
-    },
-    {
-      "term": "力の",
-      "count": 8
-    },
-    {
-      "term": "イ ",
-      "count": 8
-    },
-    {
-      "term": "記関係デ",
-      "count": 7
+      "term": "ケジ",
+      "count": 10
     },
     {
       "term": "国の公的",
+      "count": 8
+    },
+    {
+      "term": "不動産ベ",
+      "count": 8
+    },
+    {
+      "term": "総合",
+      "count": 8
+    },
+    {
+      "term": "ii",
+      "count": 8
+    },
+    {
+      "term": "デ ",
+      "count": 8
+    },
+    {
+      "term": "土地所有",
       "count": 7
     },
     {
-      "term": "関し",
+      "term": "関係デー",
       "count": 7
     },
     {
-      "term": "の手",
+      "term": "れた",
       "count": 7
     },
     {
@@ -134,55 +126,43 @@
       "count": 7
     },
     {
-      "term": "目の",
+      "term": "った",
       "count": 7
     },
     {
-      "term": "に向",
-      "count": 7
-    },
-    {
-      "term": "務の",
-      "count": 7
-    },
-    {
-      "term": "16",
-      "count": 7
-    },
-    {
-      "term": "項 ",
+      "term": "各システ",
       "count": 6
     },
     {
-      "term": "な課",
+      "term": "庁 ",
       "count": 6
     },
     {
-      "term": "請等",
+      "term": "用途",
       "count": 6
     },
     {
-      "term": "の次期更",
+      "term": "添付",
       "count": 6
     },
     {
-      "term": "更改",
+      "term": "利用促進",
       "count": 6
     },
     {
-      "term": "タ連",
+      "term": "び裁",
       "count": 6
     },
     {
-      "term": "を確",
+      "term": "表示",
       "count": 6
     },
     {
-      "term": "ースを利",
+      "term": "な行",
       "count": 6
     },
     {
-      "term": "政法",
+      "term": "くわえて",
       "count": 5
     },
     {
@@ -190,15 +170,35 @@
       "count": 5
     },
     {
-      "term": "をい",
+      "term": "取り",
       "count": 5
     },
     {
-      "term": "の観",
+      "term": "いと",
       "count": 5
     },
     {
-      "term": "地情",
+      "term": "た行",
+      "count": 5
+    },
+    {
+      "term": "府全",
+      "count": 5
+    },
+    {
+      "term": "横断的な",
+      "count": 5
+    },
+    {
+      "term": "請等",
+      "count": 5
+    },
+    {
+      "term": "率化",
+      "count": 5
+    },
+    {
+      "term": "出し",
       "count": 5
     }
   ],
