@@ -2,115 +2,83 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "プラ",
-      "count": 26
+      "term": "こと",
+      "count": 25
     },
     {
-      "term": "トリ",
-      "count": 20
+      "term": "イン",
+      "count": 21
     },
     {
-      "term": "ロー",
+      "term": "設定",
       "count": 19
     },
     {
-      "term": "リポ",
-      "count": 19
-    },
-    {
-      "term": "aws",
-      "count": 19
-    },
-    {
-      "term": "ルド",
-      "count": 18
+      "term": "物の",
+      "count": 17
     },
     {
       "term": "これ",
       "count": 17
     },
     {
-      "term": "ービ",
-      "count": 16
-    },
-    {
-      "term": "cd",
+      "term": "cat",
       "count": 15
     },
     {
-      "term": "内容",
-      "count": 14
-    },
-    {
-      "term": "ージ",
-      "count": 14
-    },
-    {
-      "term": "タデ",
-      "count": 14
-    },
-    {
-      "term": "ソースコ",
+      "term": "よる",
       "count": 13
     },
     {
-      "term": "おけ",
+      "term": "に ",
+      "count": 13
+    },
+    {
+      "term": "信頼",
+      "count": 13
+    },
+    {
+      "term": "略 ",
+      "count": 13
+    },
+    {
+      "term": "情報",
       "count": 12
     },
     {
-      "term": "る必",
+      "term": "対策",
       "count": 12
     },
     {
-      "term": "てい",
+      "term": "性の",
       "count": 11
     },
     {
-      "term": "ブラ",
+      "term": "理を",
       "count": 10
     },
     {
-      "term": "成果物の",
+      "term": "ムチ",
       "count": 10
     },
     {
-      "term": "内で",
+      "term": "提供",
       "count": 10
     },
     {
-      "term": "env",
-      "count": 10
-    },
-    {
-      "term": "れて",
+      "term": "性管",
       "count": 9
     },
     {
-      "term": "クを",
+      "term": "ーム",
       "count": 9
     },
     {
-      "term": "コン",
+      "term": "に対",
       "count": 9
     },
     {
-      "term": "権限",
-      "count": 9
-    },
-    {
-      "term": "指定",
-      "count": 9
-    },
-    {
-      "term": "場合",
-      "count": 9
-    },
-    {
-      "term": "uses",
-      "count": 9
-    },
-    {
-      "term": "プラット",
+      "term": "につ",
       "count": 8
     },
     {
@@ -118,87 +86,119 @@
       "count": 8
     },
     {
-      "term": "ェッ",
+      "term": "るそ",
       "count": 8
     },
     {
-      "term": "のよ",
+      "term": "ーに",
       "count": 8
     },
     {
-      "term": "ローカル",
+      "term": "署名",
+      "count": 8
+    },
+    {
+      "term": "示す",
       "count": 7
     },
     {
-      "term": "イナ",
+      "term": "によ",
       "count": 7
     },
     {
-      "term": "行範",
+      "term": "17",
       "count": 7
     },
     {
-      "term": "registry",
+      "term": "plan",
       "count": 7
     },
     {
-      "term": "い ",
+      "term": "および",
       "count": 7
     },
     {
-      "term": "ド設",
+      "term": "ーテ",
       "count": 7
+    },
+    {
+      "term": "可能であ",
+      "count": 7
+    },
+    {
+      "term": "混入",
+      "count": 7
+    },
+    {
+      "term": "の漏洩対",
+      "count": 6
+    },
+    {
+      "term": "キュ",
+      "count": 6
+    },
+    {
+      "term": "セキ",
+      "count": 6
+    },
+    {
+      "term": "及び",
+      "count": 6
+    },
+    {
+      "term": "ス ",
+      "count": 6
+    },
+    {
+      "term": "フ ",
+      "count": 6
+    },
+    {
+      "term": "定 ",
+      "count": 6
+    },
+    {
+      "term": "ンテナイ",
+      "count": 6
+    },
+    {
+      "term": "の事",
+      "count": 6
+    },
+    {
+      "term": "のレ",
+      "count": 6
+    },
+    {
+      "term": "対し",
+      "count": 6
+    },
+    {
+      "term": "らな",
+      "count": 6
+    },
+    {
+      "term": "and",
+      "count": 6
+    },
+    {
+      "term": "を指",
+      "count": 6
     },
     {
       "term": "ンに",
-      "count": 6
-    },
-    {
-      "term": "脆弱性管",
-      "count": 6
-    },
-    {
-      "term": "頼で",
-      "count": 6
-    },
-    {
-      "term": "ソフトウ",
-      "count": 6
-    },
-    {
-      "term": "ソフ",
-      "count": 6
-    },
-    {
-      "term": "ここでは",
-      "count": 6
-    },
-    {
-      "term": "secrets",
-      "count": 6
-    },
-    {
-      "term": "ーと",
-      "count": 6
-    },
-    {
-      "term": "file",
-      "count": 6
-    },
-    {
-      "term": "true",
-      "count": 6
-    },
-    {
-      "term": "守 ",
       "count": 5
     },
     {
-      "term": "13",
+      "term": "に関",
       "count": 5
     },
     {
-      "term": "とに",
+      "term": "る成",
+      "count": 5
+    },
+    {
+      "term": "ウン",
       "count": 5
     }
   ],
