@@ -2,171 +2,183 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ライ",
-      "count": 23
+      "term": "でき",
+      "count": 22
     },
     {
-      "term": "てい",
-      "count": 20
+      "term": "して",
+      "count": 22
     },
     {
-      "term": "チー",
-      "count": 18
+      "term": "ビル",
+      "count": 19
     },
     {
-      "term": "ージ",
-      "count": 18
-    },
-    {
-      "term": "メー",
+      "term": "およ",
       "count": 15
     },
     {
-      "term": "コン",
-      "count": 15
-    },
-    {
-      "term": "信頼",
+      "term": "での",
       "count": 14
     },
     {
-      "term": "よう",
-      "count": 13
+      "term": "によ",
+      "count": 14
     },
     {
-      "term": "こで",
-      "count": 12
-    },
-    {
-      "term": "はc",
-      "count": 11
-    },
-    {
-      "term": "よび",
-      "count": 11
-    },
-    {
-      "term": "https",
-      "count": 11
-    },
-    {
-      "term": "こと",
-      "count": 11
-    },
-    {
-      "term": "内で",
-      "count": 10
-    },
-    {
-      "term": "push",
-      "count": 10
-    },
-    {
-      "term": "脆弱性管",
-      "count": 9
-    },
-    {
-      "term": "につ",
-      "count": 9
-    },
-    {
-      "term": "バリ",
-      "count": 9
-    },
-    {
-      "term": "ている",
-      "count": 9
+      "term": "パイ",
+      "count": 14
     },
     {
       "term": "があ",
-      "count": 9
+      "count": 14
     },
     {
-      "term": "ンa",
-      "count": 9
+      "term": "のた",
+      "count": 13
     },
     {
-      "term": "とい",
-      "count": 9
+      "term": "場合",
+      "count": 13
     },
     {
-      "term": "のア",
-      "count": 9
+      "term": "生成",
+      "count": 13
     },
     {
       "term": "workflows",
+      "count": 13
+    },
+    {
+      "term": "対策",
+      "count": 12
+    },
+    {
+      "term": "チームの",
+      "count": 11
+    },
+    {
+      "term": "につ",
+      "count": 11
+    },
+    {
+      "term": "チェ",
+      "count": 10
+    },
+    {
+      "term": "env",
+      "count": 10
+    },
+    {
+      "term": "理を",
       "count": 9
     },
     {
-      "term": "にも",
+      "term": "より",
+      "count": 9
+    },
+    {
+      "term": "なお",
+      "count": 9
+    },
+    {
+      "term": "対象",
+      "count": 9
+    },
+    {
+      "term": "outputs",
+      "count": 9
+    },
+    {
+      "term": "加え",
+      "count": 9
+    },
+    {
+      "term": "脆弱性管",
       "count": 8
     },
     {
-      "term": "の管",
+      "term": "用い",
       "count": 8
     },
     {
-      "term": "の漏",
+      "term": "リス",
+      "count": 8
+    },
+    {
+      "term": "書で",
+      "count": 8
+    },
+    {
+      "term": "内の",
       "count": 7
     },
     {
-      "term": "関す",
+      "term": "における",
       "count": 7
     },
     {
-      "term": "本書",
+      "term": "提供",
       "count": 7
     },
     {
-      "term": "ェッ",
+      "term": "るプ",
       "count": 7
     },
     {
-      "term": "registry",
+      "term": "を確",
       "count": 7
     },
     {
-      "term": "安全",
+      "term": "にす",
       "count": 7
     },
     {
-      "term": "と同",
+      "term": "キャ",
       "count": 7
     },
     {
-      "term": "ンに",
+      "term": "略す",
+      "count": 7
+    },
+    {
+      "term": "など",
+      "count": 7
+    },
+    {
+      "term": "を示",
       "count": 6
     },
     {
-      "term": "定内",
+      "term": "ショ",
       "count": 6
     },
     {
-      "term": "した",
+      "term": "ーム",
       "count": 6
     },
     {
-      "term": "頼で",
+      "term": "変更",
       "count": 6
     },
     {
-      "term": "イダ",
+      "term": "信頼性の",
       "count": 6
     },
     {
-      "term": "いっ",
+      "term": "の保護",
       "count": 6
     },
     {
-      "term": "ル ",
+      "term": "24",
       "count": 6
     },
     {
-      "term": "の連",
+      "term": "サービス",
       "count": 6
     },
     {
-      "term": "策に",
+      "term": "の署",
       "count": 6
     },
     {
@@ -174,32 +186,20 @@
       "count": 6
     },
     {
-      "term": "secrets",
+      "term": "rule",
       "count": 6
     },
     {
-      "term": "とも",
+      "term": "用可",
       "count": 6
     },
     {
-      "term": "レビ",
+      "term": "repository",
       "count": 6
     },
     {
-      "term": "ファ",
+      "term": "ない",
       "count": 6
-    },
-    {
-      "term": "uses",
-      "count": 6
-    },
-    {
-      "term": "用保",
-      "count": 5
-    },
-    {
-      "term": "ード",
-      "count": 5
     }
   ],
   "meetings": [
