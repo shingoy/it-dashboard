@@ -2,204 +2,204 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "でき",
+      "term": "る ",
+      "count": 28
+    },
+    {
+      "term": "ため",
       "count": 22
     },
     {
-      "term": "して",
-      "count": 22
-    },
-    {
-      "term": "ビル",
-      "count": 19
-    },
-    {
-      "term": "およ",
-      "count": 15
-    },
-    {
-      "term": "での",
-      "count": 14
-    },
-    {
-      "term": "によ",
-      "count": 14
+      "term": "利用",
+      "count": 21
     },
     {
       "term": "パイ",
+      "count": 21
+    },
+    {
+      "term": "イン",
+      "count": 21
+    },
+    {
+      "term": "物の",
+      "count": 17
+    },
+    {
+      "term": "デー",
+      "count": 17
+    },
+    {
+      "term": "って",
+      "count": 16
+    },
+    {
+      "term": "イプ",
+      "count": 15
+    },
+    {
+      "term": "スコ",
       "count": 14
     },
     {
-      "term": "があ",
+      "term": "全性",
       "count": 14
     },
     {
-      "term": "のた",
-      "count": 13
-    },
-    {
-      "term": "場合",
-      "count": 13
-    },
-    {
-      "term": "生成",
-      "count": 13
-    },
-    {
-      "term": "workflows",
-      "count": 13
-    },
-    {
-      "term": "対策",
+      "term": "れら",
       "count": 12
     },
     {
-      "term": "チームの",
+      "term": "つい",
       "count": 11
     },
     {
-      "term": "につ",
+      "term": "フォーム",
       "count": 11
     },
     {
-      "term": "チェ",
+      "term": "保護",
+      "count": 11
+    },
+    {
+      "term": "ンチ",
       "count": 10
     },
     {
-      "term": "env",
+      "term": "定し",
       "count": 10
     },
     {
-      "term": "理を",
+      "term": "name",
+      "count": 10
+    },
+    {
+      "term": "push",
       "count": 9
     },
     {
-      "term": "より",
-      "count": 9
-    },
-    {
-      "term": "なお",
-      "count": 9
-    },
-    {
-      "term": "対象",
-      "count": 9
-    },
-    {
-      "term": "outputs",
-      "count": 9
-    },
-    {
-      "term": "加え",
-      "count": 9
-    },
-    {
-      "term": "脆弱性管",
+      "term": "弱性",
       "count": 8
     },
     {
-      "term": "用い",
+      "term": "の管",
       "count": 8
-    },
-    {
-      "term": "リス",
-      "count": 8
-    },
-    {
-      "term": "書で",
-      "count": 8
-    },
-    {
-      "term": "内の",
-      "count": 7
     },
     {
       "term": "における",
       "count": 7
     },
     {
-      "term": "提供",
+      "term": "すべ",
       "count": 7
     },
     {
-      "term": "るプ",
+      "term": "にな",
       "count": 7
     },
     {
-      "term": "を確",
+      "term": "ービ",
       "count": 7
     },
     {
-      "term": "にす",
+      "term": "がある",
       "count": 7
     },
     {
-      "term": "キャ",
+      "term": "図 ",
       "count": 7
     },
     {
-      "term": "略す",
-      "count": 7
-    },
-    {
-      "term": "など",
-      "count": 7
-    },
-    {
-      "term": "を示",
+      "term": "ットの保",
       "count": 6
     },
     {
-      "term": "ショ",
+      "term": "詳細",
       "count": 6
     },
     {
-      "term": "ーム",
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "変更",
+      "term": "トの",
       "count": 6
     },
     {
-      "term": "信頼性の",
+      "term": "を ",
       "count": 6
     },
     {
-      "term": "の保護",
+      "term": "得し",
       "count": 6
     },
     {
-      "term": "24",
+      "term": "ジを",
       "count": 6
     },
     {
-      "term": "サービス",
+      "term": "ジの",
       "count": 6
     },
     {
-      "term": "の署",
+      "term": "省略する",
       "count": 6
     },
     {
-      "term": "amazon",
+      "term": "ルに",
       "count": 6
     },
     {
-      "term": "rule",
+      "term": "必要",
       "count": 6
     },
     {
-      "term": "用可",
+      "term": "らな",
       "count": 6
     },
     {
-      "term": "repository",
+      "term": "ref",
       "count": 6
     },
     {
-      "term": "ない",
+      "term": "た場",
       "count": 6
+    },
+    {
+      "term": "ることが",
+      "count": 6
+    },
+    {
+      "term": "はc",
+      "count": 5
+    },
+    {
+      "term": "情報",
+      "count": 5
+    },
+    {
+      "term": "ージ",
+      "count": 5
+    },
+    {
+      "term": "る成",
+      "count": 5
+    },
+    {
+      "term": "のソ",
+      "count": 5
+    },
+    {
+      "term": "プ ",
+      "count": 5
+    },
+    {
+      "term": "ド成",
+      "count": 5
+    },
+    {
+      "term": "ソフ",
+      "count": 5
     }
   ],
   "meetings": [

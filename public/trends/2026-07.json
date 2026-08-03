@@ -2,99 +2,63 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "につ",
-      "count": 22
+      "term": "デー",
+      "count": 27
     },
     {
-      "term": "データベ",
+      "term": "る ",
+      "count": 23
+    },
+    {
+      "term": "利用",
+      "count": 23
+    },
+    {
+      "term": "つい",
+      "count": 21
+    },
+    {
+      "term": "ため",
       "count": 20
     },
     {
-      "term": "令和",
-      "count": 20
-    },
-    {
-      "term": "スレ",
-      "count": 19
-    },
-    {
-      "term": "て整",
+      "term": "って",
       "count": 16
     },
     {
-      "term": "より",
+      "term": "手続",
       "count": 16
     },
     {
-      "term": "策効",
-      "count": 15
-    },
-    {
-      "term": "でき",
-      "count": 15
-    },
-    {
-      "term": "住所",
+      "term": "に関する",
       "count": 14
     },
     {
-      "term": "のた",
+      "term": "スケ",
       "count": 14
     },
     {
-      "term": "があ",
-      "count": 13
+      "term": "事務",
+      "count": 14
     },
     {
-      "term": "報シ",
-      "count": 13
-    },
-    {
-      "term": "係る",
+      "term": "関係",
       "count": 12
     },
     {
-      "term": "のデ",
+      "term": "進法",
       "count": 12
     },
     {
-      "term": "条第",
-      "count": 12
-    },
-    {
-      "term": "場合",
-      "count": 11
-    },
-    {
-      "term": "めの",
-      "count": 11
-    },
-    {
-      "term": "して",
-      "count": 11
-    },
-    {
-      "term": "法務",
-      "count": 11
-    },
-    {
-      "term": "存在",
-      "count": 11
-    },
-    {
-      "term": "所在",
+      "term": "すべ",
       "count": 10
     },
     {
-      "term": "基づ",
+      "term": "もに",
       "count": 10
     },
     {
-      "term": "図る",
-      "count": 10
-    },
-    {
-      "term": "異な",
+      "term": "上及",
       "count": 10
     },
     {
@@ -106,100 +70,136 @@
       "count": 10
     },
     {
-      "term": "進 ",
-      "count": 10
-    },
-    {
-      "term": "所所",
+      "term": "所在地関",
       "count": 9
     },
     {
-      "term": "24",
+      "term": "を ",
       "count": 9
-    },
-    {
-      "term": "便性向上",
-      "count": 9
-    },
-    {
-      "term": "者 ",
-      "count": 9
-    },
-    {
-      "term": "億円",
-      "count": 9
-    },
-    {
-      "term": "応策",
-      "count": 8
     },
     {
       "term": "における",
       "count": 8
     },
     {
-      "term": "タに",
+      "term": "参考",
       "count": 8
     },
     {
-      "term": "での",
+      "term": "でい",
       "count": 8
     },
     {
-      "term": "対象",
+      "term": "の情",
       "count": 8
     },
     {
-      "term": "文字",
-      "count": 8
-    },
-    {
-      "term": "項証",
+      "term": "国の行政",
       "count": 7
     },
     {
-      "term": "ニホ",
+      "term": "用で",
       "count": 7
     },
     {
-      "term": "本的",
+      "term": "ヘト",
+      "count": 7
+    },
+    {
+      "term": "務の",
+      "count": 7
+    },
+    {
+      "term": "状の",
       "count": 6
     },
     {
-      "term": "係行",
+      "term": "15",
       "count": 6
     },
     {
-      "term": "産ベ",
+      "term": "政手",
       "count": 6
     },
     {
-      "term": "登記",
+      "term": "リと",
       "count": 6
     },
     {
-      "term": "タの",
+      "term": "ニー",
       "count": 6
     },
     {
-      "term": "第５",
+      "term": "号に",
       "count": 6
     },
     {
-      "term": "にデ",
+      "term": "で利",
       "count": 6
     },
     {
-      "term": "を確",
+      "term": "処理",
       "count": 6
     },
     {
-      "term": "政事",
+      "term": "請者",
       "count": 6
     },
     {
-      "term": "庁と",
+      "term": "ジ ",
       "count": 6
+    },
+    {
+      "term": "情報の提",
+      "count": 6
+    },
+    {
+      "term": "面情",
+      "count": 6
+    },
+    {
+      "term": "立行",
+      "count": 5
+    },
+    {
+      "term": "体で",
+      "count": 5
+    },
+    {
+      "term": "に登",
+      "count": 5
+    },
+    {
+      "term": "各行",
+      "count": 5
+    },
+    {
+      "term": "電子",
+      "count": 5
+    },
+    {
+      "term": "一元",
+      "count": 5
+    },
+    {
+      "term": "各種",
+      "count": 5
+    },
+    {
+      "term": "国籍",
+      "count": 5
+    },
+    {
+      "term": "住居",
+      "count": 5
+    },
+    {
+      "term": "情報",
+      "count": 5
+    },
+    {
+      "term": "間 ",
+      "count": 4
     }
   ],
   "meetings": [
