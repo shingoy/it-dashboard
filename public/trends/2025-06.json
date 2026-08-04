@@ -2,43 +2,31 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "され",
-      "count": 27
+      "term": "きる",
+      "count": 23
     },
     {
-      "term": "ライ",
+      "term": "利用",
       "count": 21
     },
     {
-      "term": "てい",
-      "count": 21
+      "term": "aws",
+      "count": 19
     },
     {
-      "term": "ci",
-      "count": 17
-    },
-    {
-      "term": "ービ",
+      "term": "プラ",
       "count": 16
     },
     {
-      "term": "ムの",
-      "count": 15
-    },
-    {
-      "term": "実行",
-      "count": 15
-    },
-    {
-      "term": "る必",
+      "term": "での",
       "count": 14
     },
     {
-      "term": "ドフ",
+      "term": "シー",
       "count": 13
     },
     {
-      "term": "があ",
+      "term": "ムチ",
       "count": 13
     },
     {
@@ -46,127 +34,119 @@
       "count": 13
     },
     {
-      "term": "によ",
+      "term": "ポジ",
       "count": 12
     },
     {
-      "term": "ーの",
+      "term": "actions",
       "count": 12
     },
     {
-      "term": "れた",
+      "term": "こで",
       "count": 12
     },
     {
-      "term": "tf",
+      "term": "とが",
       "count": 12
     },
     {
-      "term": "につ",
+      "term": "担保",
       "count": 11
     },
     {
-      "term": "ティ",
-      "count": 11
+      "term": "ント",
+      "count": 10
+    },
+    {
+      "term": "ルの",
+      "count": 10
+    },
+    {
+      "term": "セス",
+      "count": 10
+    },
+    {
+      "term": "して",
+      "count": 10
+    },
+    {
+      "term": "ステ",
+      "count": 9
+    },
+    {
+      "term": "ムが",
+      "count": 9
+    },
+    {
+      "term": "とい",
+      "count": 9
+    },
+    {
+      "term": "yml",
+      "count": 9
+    },
+    {
+      "term": "steps",
+      "count": 9
+    },
+    {
+      "term": "スト",
+      "count": 8
+    },
+    {
+      "term": "行範",
+      "count": 8
     },
     {
       "term": "環境",
-      "count": 11
-    },
-    {
-      "term": "terraform",
-      "count": 11
-    },
-    {
-      "term": "を含",
-      "count": 10
-    },
-    {
-      "term": "の信",
-      "count": 10
-    },
-    {
-      "term": "コンテナ",
-      "count": 10
-    },
-    {
-      "term": "コン",
-      "count": 10
-    },
-    {
-      "term": "ubuntu",
-      "count": 10
-    },
-    {
-      "term": "cd",
-      "count": 9
-    },
-    {
-      "term": "の担",
-      "count": 9
-    },
-    {
-      "term": "する",
       "count": 8
     },
     {
-      "term": "フェーズ",
+      "term": "ェッ",
       "count": 8
     },
     {
-      "term": "有の",
+      "term": "るが",
       "count": 8
     },
     {
-      "term": "ソフ",
+      "term": "組み",
       "count": 8
     },
     {
-      "term": "キャ",
-      "count": 8
-    },
-    {
-      "term": "ャン",
-      "count": 8
-    },
-    {
-      "term": "対象",
-      "count": 8
-    },
-    {
-      "term": "ト情",
+      "term": "保 ",
       "count": 7
     },
     {
-      "term": "運用",
+      "term": "記述",
       "count": 7
     },
     {
-      "term": "る主",
+      "term": "ンb",
       "count": 7
     },
     {
-      "term": "など",
+      "term": "がある",
       "count": 7
     },
     {
-      "term": "クセ",
+      "term": "いこ",
       "count": 7
     },
     {
-      "term": "ーに",
+      "term": "は ",
       "count": 7
     },
     {
-      "term": "ルに",
+      "term": "outputs",
       "count": 7
     },
     {
-      "term": "指定",
-      "count": 7
+      "term": "具体的な",
+      "count": 6
     },
     {
-      "term": "理シ",
+      "term": "ード管理",
       "count": 6
     },
     {
@@ -174,15 +154,11 @@
       "count": 6
     },
     {
-      "term": "たが",
+      "term": "ムに",
       "count": 6
     },
     {
-      "term": "ウン",
-      "count": 6
-    },
-    {
-      "term": "影響",
+      "term": "な対",
       "count": 6
     },
     {
@@ -190,16 +166,40 @@
       "count": 6
     },
     {
-      "term": "る ",
+      "term": "provenance",
       "count": 6
     },
     {
-      "term": "象と",
-      "count": 6
+      "term": "実装",
+      "count": 5
     },
     {
-      "term": "steps",
-      "count": 6
+      "term": "要 ",
+      "count": 5
+    },
+    {
+      "term": "資産",
+      "count": 5
+    },
+    {
+      "term": "ット情報",
+      "count": 5
+    },
+    {
+      "term": "なけ",
+      "count": 5
+    },
+    {
+      "term": "配布",
+      "count": 5
+    },
+    {
+      "term": "これは",
+      "count": 5
+    },
+    {
+      "term": "境の",
+      "count": 5
     }
   ],
   "meetings": [
