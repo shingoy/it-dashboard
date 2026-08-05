@@ -2,83 +2,83 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "タベ",
+      "term": "登記",
       "count": 26
     },
     {
-      "term": "る ",
-      "count": 23
+      "term": "情報",
+      "count": 26
     },
     {
-      "term": "につ",
+      "term": "及び",
       "count": 22
     },
     {
-      "term": "され",
+      "term": "の利",
+      "count": 22
+    },
+    {
+      "term": "にお",
+      "count": 21
+    },
+    {
+      "term": "報の",
       "count": 18
     },
     {
-      "term": "ては",
-      "count": 18
-    },
-    {
-      "term": "ある",
-      "count": 17
-    },
-    {
-      "term": "性向",
-      "count": 17
-    },
-    {
-      "term": "等の",
+      "term": "法人",
       "count": 16
     },
     {
-      "term": "より",
+      "term": "て整",
       "count": 16
     },
     {
-      "term": "その",
+      "term": "して",
+      "count": 16
+    },
+    {
+      "term": "れて",
+      "count": 14
+    },
+    {
+      "term": "の効率化",
+      "count": 14
+    },
+    {
+      "term": "添付",
       "count": 13
     },
     {
-      "term": "化を",
-      "count": 13
-    },
-    {
-      "term": "手続",
-      "count": 13
-    },
-    {
-      "term": "タベース",
-      "count": 12
-    },
-    {
-      "term": "のデ",
-      "count": 12
-    },
-    {
-      "term": "条第",
-      "count": 12
-    },
-    {
-      "term": "産ベ",
+      "term": "内容",
       "count": 11
     },
     {
-      "term": "参照",
+      "term": "書面",
+      "count": 11
+    },
+    {
+      "term": "存在",
+      "count": 11
+    },
+    {
+      "term": "もに",
       "count": 10
     },
     {
-      "term": "ケジ",
+      "term": "図る",
       "count": 10
     },
     {
-      "term": "ット",
-      "count": 10
+      "term": "トリ",
+      "count": 9
     },
     {
-      "term": "商業",
+      "term": "の標",
+      "count": 9
+    },
+    {
+      "term": "ケー",
       "count": 9
     },
     {
@@ -86,31 +86,15 @@
       "count": 9
     },
     {
-      "term": "の省略",
-      "count": 9
-    },
-    {
-      "term": "携し",
-      "count": 9
-    },
-    {
-      "term": "号イ",
-      "count": 9
-    },
-    {
-      "term": "備す",
+      "term": "る基",
       "count": 8
     },
     {
-      "term": "基本",
+      "term": "る情",
       "count": 8
     },
     {
-      "term": "ころ",
-      "count": 8
-    },
-    {
-      "term": "共団",
+      "term": "が ",
       "count": 8
     },
     {
@@ -118,7 +102,15 @@
       "count": 8
     },
     {
-      "term": "入力",
+      "term": "ここ",
+      "count": 8
+    },
+    {
+      "term": "和 ",
+      "count": 8
+    },
+    {
+      "term": "応を",
       "count": 8
     },
     {
@@ -126,80 +118,88 @@
       "count": 8
     },
     {
-      "term": "まで",
+      "term": "割 ",
       "count": 7
     },
     {
-      "term": "とも",
+      "term": "第３",
       "count": 7
     },
     {
-      "term": "目的",
+      "term": "しな",
       "count": 7
     },
     {
-      "term": "の仕",
+      "term": "用途",
       "count": 7
     },
     {
-      "term": "しつ",
-      "count": 7
-    },
-    {
-      "term": "求め",
-      "count": 7
-    },
-    {
-      "term": "けた",
-      "count": 7
-    },
-    {
-      "term": "た登",
-      "count": 7
-    },
-    {
-      "term": "がで",
-      "count": 7
-    },
-    {
-      "term": "化の",
-      "count": 7
-    },
-    {
-      "term": "れら",
-      "count": 7
-    },
-    {
-      "term": "面の",
-      "count": 7
-    },
-    {
-      "term": "体で",
+      "term": "産登",
       "count": 6
     },
     {
-      "term": "年法",
+      "term": "の切",
       "count": 6
     },
     {
-      "term": "外に",
+      "term": "な課",
       "count": 6
     },
     {
-      "term": "の次",
+      "term": "所を",
       "count": 6
     },
     {
-      "term": "うこ",
+      "term": "ジ ",
       "count": 6
     },
     {
-      "term": "用請",
+      "term": "和６",
       "count": 6
     },
     {
-      "term": "る文",
+      "term": "度以",
       "count": 6
+    },
+    {
+      "term": "庁が",
+      "count": 6
+    },
+    {
+      "term": "地図情報",
+      "count": 6
+    },
+    {
+      "term": "政法",
+      "count": 5
+    },
+    {
+      "term": "観点",
+      "count": 5
+    },
+    {
+      "term": "をい",
+      "count": 5
+    },
+    {
+      "term": "現可",
+      "count": 5
+    },
+    {
+      "term": "実際",
+      "count": 5
+    },
+    {
+      "term": "でき",
+      "count": 5
+    },
+    {
+      "term": "シス",
+      "count": 5
+    },
+    {
+      "term": "も含",
+      "count": 5
     }
   ],
   "meetings": [

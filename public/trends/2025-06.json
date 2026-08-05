@@ -2,115 +2,107 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "る ",
-      "count": 28
+      "term": "して",
+      "count": 24
     },
     {
-      "term": "され",
-      "count": 27
-    },
-    {
-      "term": "ある",
-      "count": 25
-    },
-    {
-      "term": "ット",
+      "term": "果物",
       "count": 20
     },
     {
-      "term": "その",
-      "count": 19
-    },
-    {
-      "term": "保護",
-      "count": 18
-    },
-    {
-      "term": "るた",
-      "count": 14
-    },
-    {
-      "term": "ては",
-      "count": 14
-    },
-    {
-      "term": "頼性",
-      "count": 13
-    },
-    {
-      "term": "trivy",
-      "count": 13
-    },
-    {
-      "term": "ンを",
-      "count": 12
-    },
-    {
-      "term": "れら",
-      "count": 12
-    },
-    {
-      "term": "につ",
-      "count": 11
-    },
-    {
-      "term": "状態",
-      "count": 11
-    },
-    {
-      "term": "terraform",
-      "count": 11
-    },
-    {
-      "term": "com",
-      "count": 11
-    },
-    {
-      "term": "push",
-      "count": 11
+      "term": "でき",
+      "count": 20
     },
     {
       "term": "トリ",
+      "count": 16
+    },
+    {
+      "term": "ラッ",
+      "count": 15
+    },
+    {
+      "term": "ーク",
+      "count": 15
+    },
+    {
+      "term": "イメ",
+      "count": 15
+    },
+    {
+      "term": "内容",
+      "count": 14
+    },
+    {
+      "term": "よび",
+      "count": 14
+    },
+    {
+      "term": "る必",
+      "count": 14
+    },
+    {
+      "term": "があ",
+      "count": 14
+    },
+    {
+      "term": "この",
+      "count": 14
+    },
+    {
+      "term": "情報",
+      "count": 12
+    },
+    {
+      "term": "にお",
+      "count": 12
+    },
+    {
+      "term": "ルの",
       "count": 10
     },
     {
-      "term": "to",
+      "term": "ここ",
       "count": 10
     },
     {
-      "term": "確保",
+      "term": "クを",
+      "count": 10
+    },
+    {
+      "term": "が ",
       "count": 9
     },
     {
-      "term": "の担",
+      "term": "れて",
       "count": 9
     },
     {
-      "term": "より",
+      "term": "フト",
       "count": 9
     },
     {
-      "term": "and",
+      "term": "とい",
       "count": 9
     },
     {
-      "term": "ビルド上",
+      "term": "及び",
       "count": 8
     },
     {
-      "term": "フェーズ",
+      "term": "ブラ",
       "count": 8
     },
     {
-      "term": "の実",
+      "term": "バイ",
       "count": 8
     },
     {
-      "term": "作成",
+      "term": "docker",
       "count": 8
     },
     {
-      "term": "sbom",
+      "term": "の管",
       "count": 8
     },
     {
@@ -118,23 +110,35 @@
       "count": 8
     },
     {
-      "term": "の仕",
+      "term": "jobs",
+      "count": 8
+    },
+    {
+      "term": "報の",
       "count": 7
     },
     {
-      "term": "ている",
+      "term": "ーカ",
       "count": 7
     },
     {
-      "term": "れば",
+      "term": "はc",
       "count": 7
     },
     {
-      "term": "トフォー",
+      "term": "ェッ",
       "count": 7
     },
     {
-      "term": "ップ",
+      "term": "次に",
+      "count": 7
+    },
+    {
+      "term": "とは",
+      "count": 7
+    },
+    {
+      "term": "混入",
       "count": 7
     },
     {
@@ -142,63 +146,59 @@
       "count": 6
     },
     {
-      "term": "ド成",
+      "term": "漏洩",
       "count": 6
     },
     {
-      "term": "した",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "等の",
+      "term": "はa",
       "count": 6
     },
     {
-      "term": "うこ",
+      "term": "複数",
       "count": 6
     },
     {
-      "term": "ここでは",
+      "term": "の利",
       "count": 6
     },
     {
-      "term": "省略する",
+      "term": "保で",
       "count": 6
     },
     {
-      "term": "る図",
+      "term": "を必",
       "count": 6
     },
     {
-      "term": "tf",
+      "term": "rule",
       "count": 6
     },
     {
-      "term": "image",
-      "count": 6
+      "term": "ケー",
+      "count": 5
     },
     {
-      "term": "同様",
-      "count": 6
+      "term": "の確",
+      "count": 5
     },
     {
-      "term": "scanners",
-      "count": 6
+      "term": "ェーズの",
+      "count": 5
     },
     {
-      "term": "key",
-      "count": 6
+      "term": "時の",
+      "count": 5
     },
     {
-      "term": "検出",
-      "count": 6
+      "term": "観点",
+      "count": 5
     },
     {
-      "term": "イメージ",
-      "count": 6
-    },
-    {
-      "term": "資産管理",
+      "term": "実際",
       "count": 5
     }
   ],
