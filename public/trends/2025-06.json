@@ -2,55 +2,67 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "管理",
-      "count": 20
+      "term": "る ",
+      "count": 28
     },
     {
       "term": "ール",
       "count": 20
     },
     {
+      "term": "した",
+      "count": 19
+    },
+    {
+      "term": "プラ",
+      "count": 18
+    },
+    {
       "term": "ース",
       "count": 16
+    },
+    {
+      "term": "ーク",
+      "count": 15
     },
     {
       "term": "フェ",
       "count": 15
     },
     {
-      "term": "よう",
+      "term": "のた",
       "count": 15
     },
     {
-      "term": "スコ",
-      "count": 14
-    },
-    {
-      "term": "リポ",
-      "count": 14
+      "term": "コン",
+      "count": 15
     },
     {
       "term": "タデ",
       "count": 14
     },
     {
-      "term": "から",
+      "term": "担保",
       "count": 13
     },
     {
-      "term": "体的",
-      "count": 12
+      "term": "生成",
+      "count": 13
     },
     {
-      "term": "チームの",
+      "term": "ティ",
       "count": 11
     },
     {
-      "term": "の実",
+      "term": "サービス",
       "count": 11
     },
     {
-      "term": "を用",
+      "term": "ック",
+      "count": 10
+    },
+    {
+      "term": "ビルドフ",
       "count": 10
     },
     {
@@ -58,148 +70,136 @@
       "count": 10
     },
     {
-      "term": "場合",
-      "count": 10
-    },
-    {
-      "term": "を含",
+      "term": "の確",
       "count": 9
     },
     {
-      "term": "ンの",
+      "term": "つい",
       "count": 9
     },
     {
-      "term": "状態",
+      "term": "いっ",
       "count": 9
     },
     {
-      "term": "れて",
+      "term": "に対",
       "count": 9
     },
     {
-      "term": "そのため",
+      "term": "とい",
       "count": 9
     },
     {
-      "term": "yml",
+      "term": "のア",
       "count": 9
     },
     {
-      "term": "テム",
-      "count": 8
+      "term": "runs",
+      "count": 9
     },
     {
       "term": "ョン",
       "count": 8
     },
     {
-      "term": "有の",
+      "term": "の取",
       "count": 8
     },
     {
-      "term": "docker",
+      "term": "メタデー",
       "count": 8
     },
     {
-      "term": "ェッ",
-      "count": 8
-    },
-    {
-      "term": "のよ",
-      "count": 8
-    },
-    {
-      "term": "to",
-      "count": 8
-    },
-    {
-      "term": "on",
-      "count": 8
-    },
-    {
-      "term": "漏洩",
+      "term": "報の",
       "count": 7
     },
     {
-      "term": "関す",
+      "term": "チームの",
       "count": 7
     },
     {
-      "term": "ローカル",
+      "term": "るま",
       "count": 7
     },
     {
-      "term": "はc",
+      "term": "囲の",
       "count": 7
     },
     {
-      "term": "パイプラ",
+      "term": "れば",
       "count": 7
     },
     {
-      "term": "あり",
+      "term": "ンb",
       "count": 7
     },
     {
-      "term": "範囲の制",
+      "term": "ャン",
       "count": 7
     },
     {
-      "term": "plan",
+      "term": "省略",
       "count": 7
     },
     {
-      "term": "provenance",
+      "term": "ップ",
       "count": 7
     },
     {
-      "term": "考え",
+      "term": "とし",
       "count": 7
     },
     {
-      "term": "ット情報",
+      "term": "file",
+      "count": 7
+    },
+    {
+      "term": "キュ",
       "count": 6
     },
     {
-      "term": "めに",
+      "term": "code",
       "count": 6
     },
     {
-      "term": "ート",
+      "term": "リ時",
       "count": 6
     },
     {
-      "term": "ズの",
+      "term": "物と",
       "count": 6
     },
     {
-      "term": "した",
+      "term": "の署",
       "count": 6
     },
     {
-      "term": "デリバリ",
+      "term": "バー",
       "count": 6
     },
     {
-      "term": "ンテナイ",
+      "term": "にて",
       "count": 6
     },
     {
-      "term": "要がある",
+      "term": "どの",
       "count": 6
     },
     {
-      "term": "取り",
+      "term": "image",
       "count": 6
     },
     {
-      "term": "repository",
+      "term": "predicate",
       "count": 6
     },
     {
-      "term": "た場",
-      "count": 6
+      "term": "証跡",
+      "count": 5
+    },
+    {
+      "term": "理下",
+      "count": 5
     }
   ],
   "meetings": [
