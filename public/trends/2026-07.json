@@ -2,195 +2,183 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "ータ",
-      "count": 27
-    },
-    {
-      "term": "関す",
-      "count": 24
-    },
-    {
-      "term": "トリ",
-      "count": 21
-    },
-    {
-      "term": "係る",
-      "count": 21
-    },
-    {
-      "term": "関係",
+      "term": "ため",
       "count": 20
     },
     {
-      "term": "便性",
+      "term": "報の",
       "count": 18
     },
     {
-      "term": "手続",
+      "term": "ある",
+      "count": 17
+    },
+    {
+      "term": "等の",
       "count": 16
     },
     {
-      "term": "て整",
+      "term": "年度",
       "count": 16
     },
     {
-      "term": "ける",
+      "term": "目指",
       "count": 15
     },
     {
-      "term": "でき",
-      "count": 15
+      "term": "備を",
+      "count": 14
     },
     {
-      "term": "に ",
-      "count": 13
+      "term": "その",
+      "count": 14
     },
     {
-      "term": "法第",
+      "term": "事項",
+      "count": 14
+    },
+    {
+      "term": "報に",
+      "count": 14
+    },
+    {
+      "term": "機関",
       "count": 12
     },
     {
-      "term": "を検",
-      "count": 12
+      "term": "準化",
+      "count": 10
     },
     {
-      "term": "ータベー",
-      "count": 11
+      "term": "もに",
+      "count": 10
     },
     {
-      "term": "省庁",
-      "count": 11
+      "term": "具体",
+      "count": 10
+    },
+    {
+      "term": "とも",
+      "count": 10
+    },
+    {
+      "term": "用に",
+      "count": 9
     },
     {
       "term": "可能",
-      "count": 11
-    },
-    {
-      "term": "期 ",
-      "count": 10
-    },
-    {
-      "term": "運営の効",
-      "count": 10
-    },
-    {
-      "term": "の検",
       "count": 9
     },
     {
-      "term": "地関",
+      "term": "号 ",
       "count": 9
     },
     {
-      "term": "なる",
+      "term": "添付書面",
       "count": 9
     },
     {
-      "term": "けて",
+      "term": "地方",
       "count": 9
     },
     {
-      "term": "基礎情報",
+      "term": "携し",
+      "count": 9
+    },
+    {
+      "term": "向け",
+      "count": 9
+    },
+    {
+      "term": "を進",
       "count": 8
     },
     {
-      "term": "ースの整",
+      "term": "ころ",
       "count": 8
     },
     {
-      "term": "なデ",
+      "term": "行っ",
       "count": 8
     },
     {
-      "term": "のと",
+      "term": "とが",
       "count": 8
     },
     {
-      "term": "ースの利",
+      "term": "機能",
       "count": 8
     },
     {
-      "term": "商業",
+      "term": "施時",
       "count": 7
     },
     {
-      "term": "関し",
+      "term": "る対",
       "count": 7
     },
     {
-      "term": "を取",
+      "term": "行政",
       "count": 7
     },
     {
-      "term": "別に",
+      "term": "国の行政",
       "count": 7
     },
     {
-      "term": "項証",
+      "term": "要と",
       "count": 7
     },
     {
-      "term": "概要",
+      "term": "共通",
       "count": 7
     },
     {
-      "term": "り ",
+      "term": "求め",
       "count": 7
     },
     {
-      "term": "た登",
+      "term": "特定",
       "count": 7
-    },
-    {
-      "term": "たデ",
-      "count": 7
-    },
-    {
-      "term": "報関",
-      "count": 6
-    },
-    {
-      "term": "関係行政",
-      "count": 6
-    },
-    {
-      "term": "らか",
-      "count": 6
-    },
-    {
-      "term": "そのため",
-      "count": 6
-    },
-    {
-      "term": "更改",
-      "count": 6
-    },
-    {
-      "term": "請者",
-      "count": 6
-    },
-    {
-      "term": "それ",
-      "count": 6
-    },
-    {
-      "term": "了す",
-      "count": 6
-    },
-    {
-      "term": "度の",
-      "count": 6
-    },
-    {
-      "term": "携 ",
-      "count": 6
     },
     {
       "term": "った",
+      "count": 7
+    },
+    {
+      "term": "の関",
+      "count": 7
+    },
+    {
+      "term": "の切",
       "count": 6
     },
     {
-      "term": "めに",
+      "term": "えて",
+      "count": 6
+    },
+    {
+      "term": "体的",
+      "count": 6
+    },
+    {
+      "term": "を具",
+      "count": 6
+    },
+    {
+      "term": "関が",
+      "count": 6
+    },
+    {
+      "term": "期更",
+      "count": 6
+    },
+    {
+      "term": "国籍",
+      "count": 6
+    },
+    {
+      "term": "セス",
       "count": 6
     },
     {
@@ -198,7 +186,19 @@
       "count": 5
     },
     {
-      "term": "25",
+      "term": "個別の法",
+      "count": 5
+    },
+    {
+      "term": "名称",
+      "count": 5
+    },
+    {
+      "term": "令に",
+      "count": 5
+    },
+    {
+      "term": "れを",
       "count": 5
     }
   ],
