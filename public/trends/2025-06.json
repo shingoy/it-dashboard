@@ -6,199 +6,199 @@
       "count": 24
     },
     {
-      "term": "でき",
-      "count": 23
+      "term": "その",
+      "count": 21
     },
     {
-      "term": "ファ",
+      "term": "パイプラ",
       "count": 20
     },
     {
-      "term": "ルド",
+      "term": "リポ",
+      "count": 20
+    },
+    {
+      "term": "成果",
       "count": 19
     },
     {
-      "term": "イプ",
-      "count": 18
-    },
-    {
-      "term": "リポジト",
-      "count": 18
-    },
-    {
-      "term": "よび",
+      "term": "に ",
       "count": 15
     },
     {
-      "term": "ムの",
+      "term": "ーズ",
       "count": 15
     },
     {
-      "term": "のた",
+      "term": "信頼",
       "count": 15
+    },
+    {
+      "term": "る ",
+      "count": 15
+    },
+    {
+      "term": "コン",
+      "count": 15
+    },
+    {
+      "term": "よう",
+      "count": 14
     },
     {
       "term": "trivy",
       "count": 13
     },
     {
-      "term": "tf",
-      "count": 13
-    },
-    {
-      "term": "id",
+      "term": "テナ",
       "count": 12
     },
     {
-      "term": "クレ",
+      "term": "可能",
+      "count": 12
+    },
+    {
+      "term": "状態",
       "count": 11
     },
     {
-      "term": "テナ",
+      "term": "https",
       "count": 11
     },
     {
-      "term": "push",
-      "count": 11
-    },
-    {
-      "term": "確保",
+      "term": "ーク",
       "count": 10
     },
     {
-      "term": "理を",
+      "term": "イン",
       "count": 10
     },
     {
-      "term": "提供",
+      "term": "の実",
       "count": 10
     },
     {
-      "term": "terraform",
+      "term": "る\n",
       "count": 10
     },
     {
-      "term": "git",
+      "term": "ubuntu",
       "count": 10
     },
     {
-      "term": "脆弱性管",
+      "term": "のリ",
       "count": 9
     },
     {
-      "term": "トの",
+      "term": "バリ",
       "count": 9
     },
     {
-      "term": "デリ",
+      "term": "ンの",
       "count": 9
     },
     {
-      "term": "ェア",
+      "term": "本書",
       "count": 9
     },
     {
-      "term": "指定",
+      "term": "サービス",
       "count": 9
     },
     {
-      "term": "し ",
+      "term": "でき",
+      "count": 9
+    },
+    {
+      "term": "ティ",
       "count": 8
     },
     {
-      "term": "の管",
+      "term": "での実行",
       "count": 8
     },
     {
-      "term": "のs",
+      "term": "性が",
       "count": 8
     },
     {
-      "term": "json",
+      "term": "有の",
       "count": 8
     },
     {
-      "term": "での",
+      "term": "スク",
+      "count": 8
+    },
+    {
+      "term": "ャン",
+      "count": 8
+    },
+    {
+      "term": "sbom",
+      "count": 8
+    },
+    {
+      "term": "いう",
+      "count": 8
+    },
+    {
+      "term": "報の",
       "count": 7
     },
     {
-      "term": "の仕",
+      "term": "リテ",
       "count": 7
     },
     {
-      "term": "ージ",
+      "term": "ジを",
       "count": 7
     },
     {
-      "term": "図 ",
+      "term": "の対",
       "count": 7
     },
     {
-      "term": "要と",
+      "term": "rulesets",
       "count": 7
     },
     {
-      "term": "理シ",
+      "term": "とは",
+      "count": 7
+    },
+    {
+      "term": "混入",
+      "count": 7
+    },
+    {
+      "term": "す ",
+      "count": 7
+    },
+    {
+      "term": "の漏洩対",
       "count": 6
     },
     {
-      "term": "ショ",
+      "term": "詳細",
       "count": 6
     },
     {
-      "term": "成 ",
+      "term": "28",
       "count": 6
     },
     {
-      "term": "漏洩",
+      "term": "ス ",
       "count": 6
     },
     {
-      "term": "した",
+      "term": "の事",
       "count": 6
     },
     {
-      "term": "ルと",
+      "term": "amazon",
       "count": 6
     },
     {
-      "term": "ムは",
-      "count": 6
-    },
-    {
-      "term": "得し",
-      "count": 6
-    },
-    {
-      "term": "物と",
-      "count": 6
-    },
-    {
-      "term": "キャ",
-      "count": 6
-    },
-    {
-      "term": "策に",
-      "count": 6
-    },
-    {
-      "term": "クト",
-      "count": 6
-    },
-    {
-      "term": "事項",
-      "count": 6
-    },
-    {
-      "term": "ンバ",
-      "count": 6
-    },
-    {
-      "term": "steps",
-      "count": 6
-    },
-    {
-      "term": "and",
+      "term": "の変",
       "count": 6
     }
   ],
