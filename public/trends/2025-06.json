@@ -2,31 +2,35 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "る ",
-      "count": 28
+      "term": "るこ",
+      "count": 24
     },
     {
-      "term": "ール",
+      "term": "でき",
+      "count": 23
+    },
+    {
+      "term": "ファ",
       "count": 20
     },
     {
-      "term": "した",
+      "term": "ルド",
       "count": 19
     },
     {
-      "term": "プラ",
+      "term": "イプ",
       "count": 18
     },
     {
-      "term": "ース",
-      "count": 16
+      "term": "リポジト",
+      "count": 18
     },
     {
-      "term": "ーク",
+      "term": "よび",
       "count": 15
     },
     {
-      "term": "フェ",
+      "term": "ムの",
       "count": 15
     },
     {
@@ -34,135 +38,135 @@
       "count": 15
     },
     {
-      "term": "コン",
-      "count": 15
-    },
-    {
-      "term": "タデ",
-      "count": 14
-    },
-    {
-      "term": "担保",
+      "term": "trivy",
       "count": 13
     },
     {
-      "term": "生成",
+      "term": "tf",
       "count": 13
     },
     {
-      "term": "ティ",
+      "term": "id",
+      "count": 12
+    },
+    {
+      "term": "クレ",
       "count": 11
     },
     {
-      "term": "サービス",
+      "term": "テナ",
       "count": 11
     },
     {
-      "term": "ック",
+      "term": "push",
+      "count": 11
+    },
+    {
+      "term": "確保",
       "count": 10
     },
     {
-      "term": "ビルドフ",
+      "term": "理を",
       "count": 10
     },
     {
-      "term": "ここ",
+      "term": "提供",
       "count": 10
     },
     {
-      "term": "の確",
+      "term": "terraform",
+      "count": 10
+    },
+    {
+      "term": "git",
+      "count": 10
+    },
+    {
+      "term": "脆弱性管",
       "count": 9
     },
     {
-      "term": "つい",
+      "term": "トの",
       "count": 9
     },
     {
-      "term": "いっ",
+      "term": "デリ",
       "count": 9
     },
     {
-      "term": "に対",
+      "term": "ェア",
       "count": 9
     },
     {
-      "term": "とい",
+      "term": "指定",
       "count": 9
     },
     {
-      "term": "のア",
-      "count": 9
-    },
-    {
-      "term": "runs",
-      "count": 9
-    },
-    {
-      "term": "ョン",
+      "term": "し ",
       "count": 8
     },
     {
-      "term": "の取",
+      "term": "の管",
       "count": 8
     },
     {
-      "term": "メタデー",
+      "term": "のs",
       "count": 8
     },
     {
-      "term": "報の",
+      "term": "json",
+      "count": 8
+    },
+    {
+      "term": "での",
       "count": 7
     },
     {
-      "term": "チームの",
+      "term": "の仕",
       "count": 7
     },
     {
-      "term": "るま",
+      "term": "ージ",
       "count": 7
     },
     {
-      "term": "囲の",
+      "term": "図 ",
       "count": 7
     },
     {
-      "term": "れば",
+      "term": "要と",
       "count": 7
     },
     {
-      "term": "ンb",
-      "count": 7
-    },
-    {
-      "term": "ャン",
-      "count": 7
-    },
-    {
-      "term": "省略",
-      "count": 7
-    },
-    {
-      "term": "ップ",
-      "count": 7
-    },
-    {
-      "term": "とし",
-      "count": 7
-    },
-    {
-      "term": "file",
-      "count": 7
-    },
-    {
-      "term": "キュ",
+      "term": "理シ",
       "count": 6
     },
     {
-      "term": "code",
+      "term": "ショ",
       "count": 6
     },
     {
-      "term": "リ時",
+      "term": "成 ",
+      "count": 6
+    },
+    {
+      "term": "漏洩",
+      "count": 6
+    },
+    {
+      "term": "した",
+      "count": 6
+    },
+    {
+      "term": "ルと",
+      "count": 6
+    },
+    {
+      "term": "ムは",
+      "count": 6
+    },
+    {
+      "term": "得し",
       "count": 6
     },
     {
@@ -170,36 +174,32 @@
       "count": 6
     },
     {
-      "term": "の署",
+      "term": "キャ",
       "count": 6
     },
     {
-      "term": "バー",
+      "term": "策に",
       "count": 6
     },
     {
-      "term": "にて",
+      "term": "クト",
       "count": 6
     },
     {
-      "term": "どの",
+      "term": "事項",
       "count": 6
     },
     {
-      "term": "image",
+      "term": "ンバ",
       "count": 6
     },
     {
-      "term": "predicate",
+      "term": "steps",
       "count": 6
     },
     {
-      "term": "証跡",
-      "count": 5
-    },
-    {
-      "term": "理下",
-      "count": 5
+      "term": "and",
+      "count": 6
     }
   ],
   "meetings": [

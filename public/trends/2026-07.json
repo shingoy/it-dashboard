@@ -2,47 +2,35 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "ース",
-      "count": 25
-    },
-    {
-      "term": "る ",
-      "count": 23
-    },
-    {
-      "term": "レジ",
-      "count": 21
-    },
-    {
-      "term": "令和",
+      "term": "関係",
       "count": 20
     },
     {
-      "term": "を行",
+      "term": "登記",
+      "count": 20
+    },
+    {
+      "term": "提供",
       "count": 19
     },
     {
-      "term": "報の",
-      "count": 18
+      "term": "政運",
+      "count": 19
     },
     {
-      "term": "向上",
-      "count": 17
+      "term": "るこ",
+      "count": 19
     },
     {
-      "term": "て整",
+      "term": "ムの",
       "count": 16
     },
     {
-      "term": "取組",
-      "count": 16
-    },
-    {
-      "term": "産登",
+      "term": "ル庁",
       "count": 15
     },
     {
-      "term": "策効",
+      "term": "でき",
       "count": 15
     },
     {
@@ -50,27 +38,31 @@
       "count": 15
     },
     {
-      "term": "を目",
+      "term": "ジタ",
       "count": 15
     },
     {
-      "term": "不動産登",
+      "term": "実施",
       "count": 14
     },
     {
-      "term": "した",
+      "term": "事項",
       "count": 14
     },
     {
-      "term": "省略",
+      "term": "を利",
       "count": 14
     },
     {
-      "term": "報シ",
+      "term": "所管",
       "count": 13
     },
     {
-      "term": "タベース",
+      "term": "う ",
+      "count": 12
+    },
+    {
+      "term": "進法",
       "count": 12
     },
     {
@@ -78,128 +70,136 @@
       "count": 12
     },
     {
-      "term": "係データ",
+      "term": "書面",
       "count": 11
     },
     {
-      "term": "に対",
-      "count": 11
-    },
-    {
-      "term": "省庁",
-      "count": 11
-    },
-    {
-      "term": "の確",
-      "count": 11
-    },
-    {
-      "term": "負担",
-      "count": 11
-    },
-    {
-      "term": "の効",
+      "term": "進 ",
       "count": 10
     },
     {
-      "term": "の取",
-      "count": 10
-    },
-    {
-      "term": "ール",
-      "count": 10
-    },
-    {
-      "term": "つい",
-      "count": 10
-    },
-    {
-      "term": "まで",
+      "term": "所在地関",
       "count": 9
     },
     {
-      "term": "討す",
+      "term": "を指",
       "count": 9
     },
     {
-      "term": "化し",
-      "count": 9
-    },
-    {
-      "term": "する取組",
-      "count": 9
-    },
-    {
-      "term": "応策",
+      "term": "基本",
       "count": 8
     },
     {
-      "term": "在地",
+      "term": "備す",
       "count": 8
     },
     {
-      "term": "を進",
+      "term": "る情",
       "count": 8
     },
     {
-      "term": "行っ",
+      "term": "の法",
       "count": 8
     },
     {
-      "term": "ここ",
+      "term": "デ ",
       "count": 8
     },
     {
-      "term": "や ",
-      "count": 8
-    },
-    {
-      "term": "スに",
-      "count": 8
-    },
-    {
-      "term": "善に",
+      "term": "ス ",
       "count": 7
-    },
-    {
-      "term": "期間",
-      "count": 7
-    },
-    {
-      "term": "23",
-      "count": 7
-    },
-    {
-      "term": "るま",
-      "count": 7
-    },
-    {
-      "term": "トチ",
-      "count": 7
-    },
-    {
-      "term": "間の",
-      "count": 7
-    },
-    {
-      "term": "16",
-      "count": 7
-    },
-    {
-      "term": "務の",
-      "count": 7
-    },
-    {
-      "term": "び改",
-      "count": 6
     },
     {
       "term": "成す",
+      "count": 7
+    },
+    {
+      "term": "達成",
+      "count": 7
+    },
+    {
+      "term": "要と",
+      "count": 7
+    },
+    {
+      "term": "の仕",
+      "count": 7
+    },
+    {
+      "term": "用で",
+      "count": 7
+    },
+    {
+      "term": "体に",
+      "count": 7
+    },
+    {
+      "term": "関の",
       "count": 6
     },
     {
-      "term": "法 ",
+      "term": "確保",
       "count": 6
+    },
+    {
+      "term": "で利",
+      "count": 6
+    },
+    {
+      "term": "号イ",
+      "count": 6
+    },
+    {
+      "term": "に当",
+      "count": 5
+    },
+    {
+      "term": "リの整備",
+      "count": 5
+    },
+    {
+      "term": "ムと",
+      "count": 5
+    },
+    {
+      "term": "を所",
+      "count": 5
+    },
+    {
+      "term": "合に",
+      "count": 5
+    },
+    {
+      "term": "入力",
+      "count": 5
+    },
+    {
+      "term": "変更届出",
+      "count": 5
+    },
+    {
+      "term": "求の",
+      "count": 5
+    },
+    {
+      "term": "ステム",
+      "count": 5
+    },
+    {
+      "term": "登記デー",
+      "count": 5
+    },
+    {
+      "term": "更新",
+      "count": 5
+    },
+    {
+      "term": "存在",
+      "count": 5
+    },
+    {
+      "term": "記揺",
+      "count": 5
     }
   ],
   "meetings": [
