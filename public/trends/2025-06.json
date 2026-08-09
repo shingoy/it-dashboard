@@ -2,171 +2,147 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "るこ",
-      "count": 24
-    },
-    {
-      "term": "その",
-      "count": 21
-    },
-    {
-      "term": "パイプラ",
+      "term": "イル",
       "count": 20
     },
     {
-      "term": "リポ",
-      "count": 20
-    },
-    {
-      "term": "成果",
+      "term": "ビル",
       "count": 19
     },
     {
-      "term": "に ",
+      "term": "成果",
+      "count": 18
+    },
+    {
+      "term": "サー",
+      "count": 17
+    },
+    {
+      "term": "して",
+      "count": 17
+    },
+    {
+      "term": "によ",
+      "count": 16
+    },
+    {
+      "term": "脆弱",
       "count": 15
     },
     {
-      "term": "ーズ",
+      "term": "ムチ",
       "count": 15
     },
     {
-      "term": "信頼",
+      "term": "ァイ",
       "count": 15
     },
     {
-      "term": "る ",
+      "term": "メタ",
       "count": 15
     },
     {
-      "term": "コン",
-      "count": 15
-    },
-    {
-      "term": "よう",
+      "term": "トリ",
       "count": 14
     },
     {
-      "term": "trivy",
+      "term": "ンを",
       "count": 13
     },
     {
-      "term": "テナ",
+      "term": "対策",
       "count": 12
     },
     {
-      "term": "可能",
+      "term": "github",
       "count": 12
-    },
-    {
-      "term": "状態",
-      "count": 11
-    },
-    {
-      "term": "https",
-      "count": 11
-    },
-    {
-      "term": "ーク",
-      "count": 10
-    },
-    {
-      "term": "イン",
-      "count": 10
-    },
-    {
-      "term": "の実",
-      "count": 10
-    },
-    {
-      "term": "る\n",
-      "count": 10
-    },
-    {
-      "term": "ubuntu",
-      "count": 10
-    },
-    {
-      "term": "のリ",
-      "count": 9
-    },
-    {
-      "term": "バリ",
-      "count": 9
-    },
-    {
-      "term": "ンの",
-      "count": 9
-    },
-    {
-      "term": "本書",
-      "count": 9
-    },
-    {
-      "term": "サービス",
-      "count": 9
-    },
-    {
-      "term": "でき",
-      "count": 9
     },
     {
       "term": "ティ",
+      "count": 11
+    },
+    {
+      "term": "push",
+      "count": 11
+    },
+    {
+      "term": "ビルドフ",
+      "count": 10
+    },
+    {
+      "term": "プラット",
+      "count": 10
+    },
+    {
+      "term": "体的",
+      "count": 10
+    },
+    {
+      "term": "ー ",
+      "count": 10
+    },
+    {
+      "term": "を用",
+      "count": 10
+    },
+    {
+      "term": "内で",
+      "count": 10
+    },
+    {
+      "term": "バー",
+      "count": 10
+    },
+    {
+      "term": "チームの",
+      "count": 9
+    },
+    {
+      "term": "それ",
+      "count": 9
+    },
+    {
+      "term": "ムが",
+      "count": 9
+    },
+    {
+      "term": "行範",
       "count": 8
     },
     {
-      "term": "での実行",
+      "term": "ンの",
       "count": 8
     },
     {
-      "term": "性が",
+      "term": "のs",
       "count": 8
     },
     {
-      "term": "有の",
+      "term": "組み",
       "count": 8
     },
     {
-      "term": "スク",
-      "count": 8
-    },
-    {
-      "term": "ャン",
-      "count": 8
-    },
-    {
-      "term": "sbom",
-      "count": 8
-    },
-    {
-      "term": "いう",
-      "count": 8
-    },
-    {
-      "term": "報の",
+      "term": "トの",
       "count": 7
     },
     {
-      "term": "リテ",
+      "term": "定 ",
       "count": 7
     },
     {
-      "term": "ジを",
+      "term": "もの",
       "count": 7
     },
     {
-      "term": "の対",
+      "term": "および",
       "count": 7
     },
     {
-      "term": "rulesets",
+      "term": "記述",
       "count": 7
     },
     {
-      "term": "とは",
-      "count": 7
-    },
-    {
-      "term": "混入",
+      "term": "事項",
       "count": 7
     },
     {
@@ -174,32 +150,56 @@
       "count": 7
     },
     {
-      "term": "の漏洩対",
+      "term": "を示",
       "count": 6
     },
     {
-      "term": "詳細",
+      "term": "めに",
       "count": 6
     },
     {
-      "term": "28",
+      "term": "性管",
       "count": 6
     },
     {
-      "term": "ス ",
+      "term": "ルと",
       "count": 6
     },
     {
-      "term": "の事",
+      "term": "たが",
       "count": 6
     },
     {
-      "term": "amazon",
+      "term": "プロバイ",
+      "count": 6
+    },
+    {
+      "term": "ング",
       "count": 6
     },
     {
       "term": "の変",
       "count": 6
+    },
+    {
+      "term": "作成",
+      "count": 6
+    },
+    {
+      "term": "11",
+      "count": 6
+    },
+    {
+      "term": "aws",
+      "count": 6
+    },
+    {
+      "term": "む運",
+      "count": 5
+    },
+    {
+      "term": "用者",
+      "count": 5
     }
   ],
   "meetings": [
