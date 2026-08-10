@@ -2,63 +2,99 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "政機",
-      "count": 22
+      "term": "にお",
+      "count": 23
     },
     {
-      "term": "に係",
-      "count": 22
-    },
-    {
-      "term": "行う",
+      "term": "必要",
       "count": 19
     },
     {
-      "term": "るこ",
+      "term": "向上",
       "count": 19
     },
     {
-      "term": "記情",
-      "count": 19
-    },
-    {
-      "term": "報を",
+      "term": "ス ",
       "count": 17
     },
     {
-      "term": "係データ",
+      "term": "踏ま",
+      "count": 17
+    },
+    {
+      "term": "係デ",
+      "count": 16
+    },
+    {
+      "term": "スを",
+      "count": 16
+    },
+    {
+      "term": "等 ",
+      "count": 15
+    },
+    {
+      "term": "を目",
+      "count": 15
+    },
+    {
+      "term": "るデ",
+      "count": 14
+    },
+    {
+      "term": "スケ",
+      "count": 14
+    },
+    {
+      "term": "所在",
+      "count": 13
+    },
+    {
+      "term": "行政推進",
+      "count": 13
+    },
+    {
+      "term": "の ",
+      "count": 13
+    },
+    {
+      "term": "動産",
+      "count": 12
+    },
+    {
+      "term": "データの",
       "count": 11
     },
     {
-      "term": "の行",
+      "term": "負担",
+      "count": 11
+    },
+    {
+      "term": "書面",
+      "count": 11
+    },
+    {
+      "term": "土地",
       "count": 10
     },
     {
-      "term": "運営の効",
+      "term": "期 ",
       "count": 10
     },
     {
-      "term": "和1",
+      "term": "政機関等",
       "count": 10
     },
     {
-      "term": "ール",
-      "count": 10
-    },
-    {
-      "term": "で ",
-      "count": 10
-    },
-    {
-      "term": "ット",
-      "count": 10
-    },
-    {
-      "term": "産登",
+      "term": "正確",
       "count": 9
     },
     {
-      "term": "22",
+      "term": "実現",
+      "count": 9
+    },
+    {
+      "term": "も ",
       "count": 9
     },
     {
@@ -66,55 +102,55 @@
       "count": 9
     },
     {
-      "term": "けて",
+      "term": "法令",
       "count": 9
     },
     {
-      "term": "の内",
-      "count": 8
+      "term": "を指",
+      "count": 9
+    },
+    {
+      "term": "億円",
+      "count": 9
+    },
+    {
+      "term": "データを",
+      "count": 9
     },
     {
       "term": "以下",
       "count": 8
     },
     {
-      "term": "とで",
+      "term": "社会",
       "count": 8
     },
     {
-      "term": "の法",
+      "term": "記情",
       "count": 8
     },
     {
-      "term": "現状",
+      "term": "力の",
+      "count": 8
+    },
+    {
+      "term": "機能",
+      "count": 8
+    },
+    {
+      "term": "うち",
+      "count": 8
+    },
+    {
+      "term": "応を",
+      "count": 8
+    },
+    {
+      "term": "トチ",
       "count": 7
     },
     {
-      "term": "切替",
-      "count": 7
-    },
-    {
-      "term": "化し",
-      "count": 7
-    },
-    {
-      "term": "体に",
-      "count": 7
-    },
-    {
-      "term": "以降",
-      "count": 7
-    },
-    {
-      "term": "下の",
-      "count": 7
-    },
-    {
-      "term": "連携",
-      "count": 7
-    },
-    {
-      "term": "省略",
+      "term": "けた",
       "count": 7
     },
     {
@@ -122,51 +158,19 @@
       "count": 6
     },
     {
-      "term": "な方",
+      "term": "えて",
       "count": 6
     },
     {
-      "term": "な課",
+      "term": "とこ",
       "count": 6
     },
     {
-      "term": "体化",
+      "term": "それ",
       "count": 6
     },
     {
-      "term": "よう",
-      "count": 6
-    },
-    {
-      "term": "律第",
-      "count": 6
-    },
-    {
-      "term": "用目",
-      "count": 6
-    },
-    {
-      "term": "了す",
-      "count": 6
-    },
-    {
-      "term": "対し",
-      "count": 6
-    },
-    {
-      "term": "な行",
-      "count": 6
-    },
-    {
-      "term": "度に",
-      "count": 6
-    },
-    {
-      "term": "て登",
-      "count": 6
-    },
-    {
-      "term": "度以",
+      "term": "も踏",
       "count": 6
     },
     {
@@ -174,31 +178,27 @@
       "count": 6
     },
     {
-      "term": "基本",
+      "term": "む ",
+      "count": 6
+    },
+    {
+      "term": "理す",
+      "count": 6
+    },
+    {
+      "term": "策の",
       "count": 5
     },
     {
-      "term": "データベ",
+      "term": "備及び改",
       "count": 5
     },
     {
-      "term": "ベー",
+      "term": "係データ",
       "count": 5
     },
     {
-      "term": "スベ",
-      "count": 5
-    },
-    {
-      "term": "政法",
-      "count": 5
-    },
-    {
-      "term": "30",
-      "count": 5
-    },
-    {
-      "term": "25",
+      "term": "すべ",
       "count": 5
     }
   ],
