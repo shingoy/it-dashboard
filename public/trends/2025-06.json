@@ -2,139 +2,135 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "る ",
-      "count": 24
+      "term": "ライ",
+      "count": 22
     },
     {
-      "term": "利用",
-      "count": 21
-    },
-    {
-      "term": "るこ",
-      "count": 20
-    },
-    {
-      "term": "aws",
-      "count": 19
-    },
-    {
-      "term": "ーム",
+      "term": "ポジ",
       "count": 18
     },
     {
-      "term": "プラ",
-      "count": 18
-    },
-    {
-      "term": "サー",
+      "term": "ェー",
       "count": 17
     },
     {
-      "term": "ムチ",
-      "count": 15
+      "term": "パイ",
+      "count": 17
     },
     {
-      "term": "的な",
-      "count": 15
+      "term": "ある",
+      "count": 16
     },
     {
-      "term": "トフ",
+      "term": "に ",
       "count": 15
-    },
-    {
-      "term": "スコ",
-      "count": 14
     },
     {
       "term": "全性",
       "count": 14
     },
     {
-      "term": "イメ",
-      "count": 14
+      "term": "ソースコ",
+      "count": 13
     },
     {
-      "term": "タデ",
-      "count": 14
+      "term": "ンを",
+      "count": 13
     },
     {
-      "term": "情報",
+      "term": "頼性",
       "count": 12
     },
     {
-      "term": "ロー",
+      "term": "テナ",
       "count": 12
     },
     {
-      "term": "steps",
-      "count": 12
+      "term": "はc",
+      "count": 11
+    },
+    {
+      "term": "ォー",
+      "count": 11
+    },
+    {
+      "term": "担保",
+      "count": 11
     },
     {
       "term": "の設",
       "count": 11
     },
     {
-      "term": "ている",
+      "term": "確保",
       "count": 10
     },
     {
-      "term": "ムの",
+      "term": "安全性の",
+      "count": 10
+    },
+    {
+      "term": "内で",
+      "count": 10
+    },
+    {
+      "term": "com",
+      "count": 10
+    },
+    {
+      "term": "デリ",
       "count": 9
     },
     {
-      "term": "トウ",
+      "term": "に対",
       "count": 9
     },
     {
-      "term": "ムが",
+      "term": "アク",
       "count": 9
     },
     {
-      "term": "テム",
+      "term": "run",
+      "count": 9
+    },
+    {
+      "term": "イン",
       "count": 8
     },
     {
-      "term": "はc",
+      "term": "スト",
       "count": 8
-    },
-    {
-      "term": "物を",
-      "count": 8
-    },
-    {
-      "term": "jobs",
-      "count": 8
-    },
-    {
-      "term": "洩対",
-      "count": 7
-    },
-    {
-      "term": "あり",
-      "count": 7
     },
     {
       "term": "書で",
+      "count": 8
+    },
+    {
+      "term": "の制",
+      "count": 8
+    },
+    {
+      "term": "ェーズの",
       "count": 7
     },
     {
-      "term": "plan",
+      "term": "キー",
       "count": 7
     },
     {
-      "term": "考えられ",
+      "term": "テム",
       "count": 7
     },
     {
-      "term": "略す",
+      "term": "ド上",
       "count": 7
     },
     {
-      "term": "がある",
+      "term": "もの",
       "count": 7
     },
     {
-      "term": "commit",
+      "term": "対し",
       "count": 7
     },
     {
@@ -142,64 +138,68 @@
       "count": 7
     },
     {
-      "term": "とは",
-      "count": 7
-    },
-    {
       "term": "仕組",
       "count": 7
     },
     {
-      "term": "混入",
-      "count": 7
-    },
-    {
-      "term": "uses",
-      "count": 7
-    },
-    {
-      "term": "ット情報",
+      "term": "ド成",
       "count": 6
     },
     {
-      "term": "イル",
+      "term": "たが",
       "count": 6
     },
     {
-      "term": "した",
+      "term": "のレ",
       "count": 6
     },
     {
-      "term": "イダ",
+      "term": "の管",
       "count": 6
     },
     {
-      "term": "はa",
+      "term": "ルを",
       "count": 6
     },
     {
-      "term": "ジと",
+      "term": "tf",
       "count": 6
     },
     {
-      "term": "方法",
-      "count": 6
+      "term": "infrastructure",
+      "count": 5
     },
     {
-      "term": "対す",
-      "count": 6
+      "term": "ットの保",
+      "count": 5
     },
     {
-      "term": "ジの",
-      "count": 6
+      "term": "変更",
+      "count": 5
     },
     {
-      "term": "の変",
-      "count": 6
+      "term": "したがっ",
+      "count": 5
     },
     {
-      "term": "など",
-      "count": 6
+      "term": "べき",
+      "count": 5
+    },
+    {
+      "term": "となる",
+      "count": 5
+    },
+    {
+      "term": "イ ",
+      "count": 5
+    },
+    {
+      "term": "とと",
+      "count": 5
+    },
+    {
+      "term": "有効",
+      "count": 5
     }
   ],
   "meetings": [
