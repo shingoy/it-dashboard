@@ -2,43 +2,51 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "実装",
+      "term": "た規",
       "count": 3
     },
     {
-      "term": "に ",
+      "term": "情報",
       "count": 3
     },
     {
-      "term": "グの",
+      "term": "した",
       "count": 3
     },
     {
-      "term": "共有",
+      "term": "開発",
       "count": 3
     },
     {
-      "term": "勉強",
+      "term": "の見",
+      "count": 3
+    },
+    {
+      "term": "テクノロ",
+      "count": 3
+    },
+    {
+      "term": "と連",
       "count": 2
     },
     {
-      "term": "集情",
+      "term": "等の募集",
       "count": 2
     },
     {
-      "term": "提供",
+      "term": "との",
       "count": 2
     },
     {
-      "term": "おける",
+      "term": "に対して",
       "count": 2
     },
     {
-      "term": "にお",
+      "term": "アム",
       "count": 2
     },
     {
-      "term": "ナロ",
+      "term": "管省",
       "count": 2
     },
     {
@@ -46,143 +54,91 @@
       "count": 2
     },
     {
-      "term": "ソー",
+      "term": "regtech",
       "count": 2
     },
     {
-      "term": "と ",
+      "term": "見直しに",
       "count": 2
     },
     {
-      "term": "の期",
+      "term": "ネッ",
       "count": 2
     },
     {
-      "term": "加を",
+      "term": "団体会員",
       "count": 2
     },
     {
-      "term": "具体",
+      "term": "て周知",
       "count": 2
     },
     {
-      "term": "チコ",
+      "term": "員に",
       "count": 2
     },
     {
-      "term": "企画への",
+      "term": "アナ",
       "count": 2
     },
     {
-      "term": "スや",
+      "term": "フィード",
       "count": 2
     },
     {
-      "term": "果等",
+      "term": "発信",
       "count": 2
     },
     {
-      "term": "保有",
+      "term": "新た",
       "count": 2
     },
     {
-      "term": "対象",
+      "term": "踏ま",
       "count": 2
     },
     {
-      "term": "一体",
+      "term": "を共有",
       "count": 2
     },
     {
-      "term": "のア",
+      "term": "画へ",
       "count": 2
     },
     {
-      "term": "ポジ",
+      "term": "術検",
       "count": 2
     },
     {
-      "term": "テクノロ",
+      "term": "制見直",
       "count": 2
     },
     {
-      "term": "シナ",
+      "term": "他省",
+      "count": 2
+    },
+    {
+      "term": "えた",
+      "count": 2
+    },
+    {
+      "term": "関係",
+      "count": 2
+    },
+    {
+      "term": "携 ",
+      "count": 2
+    },
+    {
+      "term": "クす",
       "count": 1
     },
     {
-      "term": "体規",
+      "term": "る施",
       "count": 1
     },
     {
-      "term": "を運",
-      "count": 1
-    },
-    {
-      "term": "ジュ",
-      "count": 1
-    },
-    {
-      "term": "期待する",
-      "count": 1
-    },
-    {
-      "term": "や課",
-      "count": 1
-    },
-    {
-      "term": "模資",
-      "count": 1
-    },
-    {
-      "term": "に活",
-      "count": 1
-    },
-    {
-      "term": "供し",
-      "count": 1
-    },
-    {
-      "term": "民間",
-      "count": 1
-    },
-    {
-      "term": "しコ",
-      "count": 1
-    },
-    {
-      "term": "や中",
-      "count": 1
-    },
-    {
-      "term": "見や",
-      "count": 1
-    },
-    {
-      "term": "創出",
-      "count": 1
-    },
-    {
-      "term": "間含",
-      "count": 1
-    },
-    {
-      "term": "伴う",
-      "count": 1
-    },
-    {
-      "term": "係者",
-      "count": 1
-    },
-    {
-      "term": "促進",
-      "count": 1
-    },
-    {
-      "term": "フォ",
-      "count": 1
-    },
-    {
-      "term": "直しに関",
+      "term": "どの",
       "count": 1
     },
     {
@@ -190,15 +146,59 @@
       "count": 1
     },
     {
-      "term": "クす",
+      "term": "案提",
       "count": 1
     },
     {
-      "term": "情 ",
+      "term": "治体",
       "count": 1
     },
     {
-      "term": "更な",
+      "term": "地方自治",
+      "count": 1
+    },
+    {
+      "term": "中小",
+      "count": 1
+    },
+    {
+      "term": "向け",
+      "count": 1
+    },
+    {
+      "term": "知見",
+      "count": 1
+    },
+    {
+      "term": "ジュ",
+      "count": 1
+    },
+    {
+      "term": "でテ",
+      "count": 1
+    },
+    {
+      "term": "ックする",
+      "count": 1
+    },
+    {
+      "term": "らか",
+      "count": 1
+    },
+    {
+      "term": "企業",
+      "count": 1
+    },
+    {
+      "term": "の更",
+      "count": 1
+    },
+    {
+      "term": "うな",
+      "count": 1
+    },
+    {
+      "term": "タル協会",
       "count": 1
     }
   ],
