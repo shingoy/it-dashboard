@@ -2,99 +2,103 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "れる",
+      "term": "して",
+      "count": 24
+    },
+    {
+      "term": "構成",
       "count": 21
     },
     {
-      "term": "ーム",
-      "count": 18
-    },
-    {
-      "term": "ース",
-      "count": 17
-    },
-    {
-      "term": "安全",
-      "count": 17
+      "term": "イル",
+      "count": 20
     },
     {
       "term": "ライ",
+      "count": 19
+    },
+    {
+      "term": "ci",
+      "count": 17
+    },
+    {
+      "term": "物の",
       "count": 16
     },
     {
-      "term": "ービ",
+      "term": "ない",
+      "count": 16
+    },
+    {
+      "term": "フェ",
       "count": 15
     },
     {
-      "term": "メタ",
-      "count": 15
+      "term": "いて",
+      "count": 14
     },
     {
-      "term": "よる",
+      "term": "ラッ",
+      "count": 14
+    },
+    {
+      "term": "れた",
       "count": 13
     },
     {
-      "term": "cat",
+      "term": "id",
       "count": 13
     },
     {
-      "term": "護 ",
+      "term": "クレ",
       "count": 12
     },
     {
-      "term": "担保",
-      "count": 12
-    },
-    {
-      "term": "こで",
-      "count": 12
-    },
-    {
-      "term": "につ",
+      "term": "脆弱",
       "count": 11
     },
     {
-      "term": "はc",
+      "term": "ムの",
       "count": 11
     },
     {
-      "term": "範囲",
-      "count": 11
-    },
-    {
-      "term": "name",
-      "count": 11
-    },
-    {
-      "term": "env",
+      "term": "のc",
       "count": 10
     },
     {
-      "term": "の確",
+      "term": "を用",
+      "count": 10
+    },
+    {
+      "term": "サービス",
+      "count": 10
+    },
+    {
+      "term": "サー",
+      "count": 10
+    },
+    {
+      "term": "可能",
+      "count": 10
+    },
+    {
+      "term": "体的",
       "count": 9
     },
     {
-      "term": "ソー",
+      "term": "そのため",
       "count": 9
     },
     {
-      "term": "デリ",
+      "term": "とい",
       "count": 9
     },
     {
-      "term": "コン",
+      "term": "yml",
       "count": 9
     },
     {
-      "term": "ョン",
-      "count": 8
-    },
-    {
-      "term": "リソ",
-      "count": 8
-    },
-    {
-      "term": "の構",
+      "term": "及び",
       "count": 8
     },
     {
@@ -102,35 +106,43 @@
       "count": 8
     },
     {
-      "term": "キャ",
+      "term": "トを",
       "count": 8
     },
     {
-      "term": "組織",
+      "term": "を実",
+      "count": 8
+    },
+    {
+      "term": "はな",
+      "count": 8
+    },
+    {
+      "term": "強制",
+      "count": 8
+    },
+    {
+      "term": "commit",
+      "count": 8
+    },
+    {
+      "term": "の漏",
       "count": 7
     },
     {
-      "term": "ローカル",
+      "term": "フェーズ",
       "count": 7
     },
     {
-      "term": "17",
+      "term": "署名",
       "count": 7
     },
     {
-      "term": "行範",
+      "term": "クセ",
       "count": 7
     },
     {
-      "term": "version",
-      "count": 7
-    },
-    {
-      "term": "る具",
-      "count": 7
-    },
-    {
-      "term": "registry",
+      "term": "はg",
       "count": 7
     },
     {
@@ -138,68 +150,56 @@
       "count": 7
     },
     {
+      "term": "権限",
+      "count": 7
+    },
+    {
+      "term": "可能であ",
+      "count": 7
+    },
+    {
       "term": "ーと",
       "count": 7
     },
     {
-      "term": "図 ",
+      "term": "定の",
       "count": 7
     },
     {
-      "term": "with",
+      "term": "す ",
       "count": 7
     },
     {
-      "term": "確認",
-      "count": 7
-    },
-    {
-      "term": "の漏洩対",
+      "term": "ード管理",
       "count": 6
     },
     {
-      "term": "ットの保",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "ムに",
+      "term": "タデータ",
       "count": 6
     },
     {
-      "term": "策に",
+      "term": "アカ",
       "count": 6
     },
     {
-      "term": "らな",
+      "term": "クト",
       "count": 6
     },
     {
-      "term": "ァイ",
+      "term": "の連",
       "count": 6
     },
     {
-      "term": "to",
+      "term": "アッ",
       "count": 6
     },
     {
-      "term": "を指",
+      "term": "を必",
       "count": 6
-    },
-    {
-      "term": "runs",
-      "count": 6
-    },
-    {
-      "term": "infrastructure",
-      "count": 5
-    },
-    {
-      "term": "をも",
-      "count": 5
-    },
-    {
-      "term": "よっ",
-      "count": 5
     }
   ],
   "meetings": [
