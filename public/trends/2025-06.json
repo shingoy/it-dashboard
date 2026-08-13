@@ -2,75 +2,79 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 25
-    },
-    {
-      "term": "した",
-      "count": 24
-    },
-    {
-      "term": "イル",
-      "count": 20
-    },
-    {
-      "term": "きる",
-      "count": 19
+      "term": "れる",
+      "count": 21
     },
     {
       "term": "ーム",
       "count": 18
     },
     {
-      "term": "ため",
-      "count": 18
+      "term": "ース",
+      "count": 17
     },
     {
-      "term": "name",
+      "term": "安全",
+      "count": 17
+    },
+    {
+      "term": "ライ",
       "count": 16
     },
     {
-      "term": "脆弱",
+      "term": "ービ",
       "count": 15
+    },
+    {
+      "term": "メタ",
+      "count": 15
+    },
+    {
+      "term": "よる",
+      "count": 13
     },
     {
       "term": "cat",
-      "count": 15
+      "count": 13
     },
     {
-      "term": "タデ",
-      "count": 14
-    },
-    {
-      "term": "情報",
+      "term": "護 ",
       "count": 12
     },
     {
-      "term": "上で",
+      "term": "担保",
+      "count": 12
+    },
+    {
+      "term": "こで",
+      "count": 12
+    },
+    {
+      "term": "につ",
       "count": 11
     },
     {
-      "term": "可能",
+      "term": "はc",
       "count": 11
     },
     {
-      "term": "チェ",
+      "term": "範囲",
+      "count": 11
+    },
+    {
+      "term": "name",
+      "count": 11
+    },
+    {
+      "term": "env",
       "count": 10
     },
     {
-      "term": "git",
-      "count": 10
+      "term": "の確",
+      "count": 9
     },
     {
-      "term": "sbom",
-      "count": 10
-    },
-    {
-      "term": "ここ",
-      "count": 10
-    },
-    {
-      "term": "策 ",
+      "term": "ソー",
       "count": 9
     },
     {
@@ -78,15 +82,7 @@
       "count": 9
     },
     {
-      "term": "こで",
-      "count": 9
-    },
-    {
-      "term": "るが",
-      "count": 9
-    },
-    {
-      "term": "outputs",
+      "term": "コン",
       "count": 9
     },
     {
@@ -94,111 +90,115 @@
       "count": 8
     },
     {
-      "term": "チームの",
+      "term": "リソ",
       "count": 8
+    },
+    {
+      "term": "の構",
+      "count": 8
+    },
+    {
+      "term": "るそ",
+      "count": 8
+    },
+    {
+      "term": "キャ",
+      "count": 8
+    },
+    {
+      "term": "組織",
+      "count": 7
+    },
+    {
+      "term": "ローカル",
+      "count": 7
+    },
+    {
+      "term": "17",
+      "count": 7
     },
     {
       "term": "行範",
-      "count": 8
-    },
-    {
-      "term": "ド上",
-      "count": 8
-    },
-    {
-      "term": "書で",
-      "count": 8
-    },
-    {
-      "term": "組み",
-      "count": 8
-    },
-    {
-      "term": "リテ",
       "count": 7
     },
     {
-      "term": "示す",
+      "term": "version",
       "count": 7
     },
     {
-      "term": "内の",
+      "term": "る具",
       "count": 7
     },
     {
-      "term": "成さ",
+      "term": "registry",
       "count": 7
     },
     {
-      "term": "次に",
+      "term": "rulesets",
       "count": 7
     },
     {
-      "term": "運用",
+      "term": "ーと",
+      "count": 7
+    },
+    {
+      "term": "図 ",
+      "count": 7
+    },
+    {
+      "term": "with",
+      "count": 7
+    },
+    {
+      "term": "確認",
+      "count": 7
+    },
+    {
+      "term": "の漏洩対",
       "count": 6
     },
     {
-      "term": "高い",
+      "term": "ットの保",
       "count": 6
     },
     {
-      "term": "は３",
+      "term": "ムに",
       "count": 6
     },
     {
-      "term": "記述",
+      "term": "策に",
       "count": 6
     },
     {
-      "term": "な対",
+      "term": "らな",
       "count": 6
     },
     {
-      "term": "のg",
+      "term": "ァイ",
       "count": 6
     },
     {
-      "term": "どの",
+      "term": "to",
       "count": 6
     },
     {
-      "term": "ても",
+      "term": "を指",
       "count": 6
     },
     {
-      "term": "image",
+      "term": "runs",
       "count": 6
     },
     {
-      "term": "た場",
-      "count": 6
-    },
-    {
-      "term": "検出",
-      "count": 6
-    },
-    {
-      "term": "要 ",
+      "term": "infrastructure",
       "count": 5
     },
     {
-      "term": "運用保守",
+      "term": "をも",
       "count": 5
     },
     {
-      "term": "キュ",
-      "count": 5
-    },
-    {
-      "term": "開発",
-      "count": 5
-    },
-    {
-      "term": "ラン",
-      "count": 5
-    },
-    {
-      "term": "限 ",
+      "term": "よっ",
       "count": 5
     }
   ],
