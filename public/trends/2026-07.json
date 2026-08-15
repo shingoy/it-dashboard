@@ -2,23 +2,35 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "とし",
-      "count": 21
+      "term": "する",
+      "count": 24
+    },
+    {
+      "term": "に関",
+      "count": 24
     },
     {
       "term": "レジスト",
-      "count": 19
+      "count": 21
     },
     {
-      "term": "情報",
-      "count": 19
+      "term": "検討",
+      "count": 18
     },
     {
-      "term": "取組",
+      "term": "不動",
       "count": 17
     },
     {
-      "term": "等の",
+      "term": "動産",
+      "count": 17
+    },
+    {
+      "term": "より",
+      "count": 16
+    },
+    {
+      "term": "法人",
       "count": 16
     },
     {
@@ -26,179 +38,167 @@
       "count": 16
     },
     {
-      "term": "に関",
+      "term": "スの",
       "count": 16
     },
     {
-      "term": "を目",
+      "term": "営の",
+      "count": 16
+    },
+    {
+      "term": "について",
       "count": 15
     },
     {
-      "term": "ル庁",
-      "count": 15
-    },
-    {
-      "term": "報に",
+      "term": "事務",
       "count": 14
     },
     {
-      "term": "その",
+      "term": "るも",
       "count": 14
     },
     {
-      "term": "ない",
+      "term": "用 ",
       "count": 13
     },
     {
-      "term": "改善",
-      "count": 12
+      "term": "管理",
+      "count": 13
     },
     {
-      "term": "上で",
-      "count": 12
-    },
-    {
-      "term": "省庁",
+      "term": "の実",
       "count": 11
     },
     {
-      "term": "ジュ",
+      "term": "12",
+      "count": 11
+    },
+    {
+      "term": "め ",
+      "count": 11
+    },
+    {
+      "term": "の行",
       "count": 10
     },
     {
-      "term": "10",
+      "term": "基づ",
       "count": 10
     },
     {
-      "term": "概要",
-      "count": 10
-    },
-    {
-      "term": "ー ",
-      "count": 10
-    },
-    {
-      "term": "向け",
+      "term": "ケー",
       "count": 9
     },
     {
-      "term": "社会",
+      "term": "政府",
       "count": 9
     },
     {
-      "term": "正確",
+      "term": "番号",
       "count": 9
     },
     {
-      "term": "も ",
-      "count": 9
-    },
-    {
-      "term": "おり",
-      "count": 9
-    },
-    {
-      "term": "ースの整",
+      "term": "進す",
       "count": 8
     },
     {
-      "term": "こで",
+      "term": "ここでい",
       "count": 8
     },
     {
-      "term": "デ ",
+      "term": "対象",
       "count": 8
     },
     {
-      "term": "の品",
+      "term": "要で",
       "count": 7
     },
     {
-      "term": "請項",
+      "term": "状況",
       "count": 7
     },
     {
-      "term": "がで",
+      "term": "とで",
       "count": 7
+    },
+    {
+      "term": "項証",
+      "count": 7
+    },
+    {
+      "term": "ら ",
+      "count": 7
+    },
+    {
+      "term": "スで",
+      "count": 6
     },
     {
       "term": "地図情報",
       "count": 6
     },
     {
-      "term": "度以",
+      "term": "針 ",
       "count": 6
     },
     {
-      "term": "及び改善",
+      "term": "用促",
       "count": 6
     },
     {
-      "term": "能な",
+      "term": "用途",
       "count": 6
     },
     {
-      "term": "な課",
+      "term": "後整",
       "count": 6
     },
     {
-      "term": "性向",
+      "term": "データに",
       "count": 6
     },
     {
-      "term": "リの整備",
+      "term": "を促",
+      "count": 6
+    },
+    {
+      "term": "ル社",
+      "count": 6
+    },
+    {
+      "term": "くわ",
+      "count": 6
+    },
+    {
+      "term": "ーズ",
+      "count": 6
+    },
+    {
+      "term": "法律",
+      "count": 6
+    },
+    {
+      "term": "の入力の",
+      "count": 6
+    },
+    {
+      "term": "請求",
+      "count": 6
+    },
+    {
+      "term": "度の",
+      "count": 6
+    },
+    {
+      "term": "に登",
       "count": 5
     },
     {
-      "term": "報データ",
+      "term": "登記デー",
       "count": 5
     },
     {
-      "term": "かつ",
-      "count": 5
-    },
-    {
-      "term": "要と",
-      "count": 5
-    },
-    {
-      "term": "る必",
-      "count": 5
-    },
-    {
-      "term": "討を",
-      "count": 5
-    },
-    {
-      "term": "も含",
-      "count": 5
-    },
-    {
-      "term": "リとして",
-      "count": 5
-    },
-    {
-      "term": "各行",
-      "count": 5
-    },
-    {
-      "term": "略を",
-      "count": 5
-    },
-    {
-      "term": "変更届出",
-      "count": 5
-    },
-    {
-      "term": "象と",
-      "count": 5
-    },
-    {
-      "term": "行っ",
-      "count": 5
-    },
-    {
-      "term": "関か",
+      "term": "令等",
       "count": 5
     }
   ],
