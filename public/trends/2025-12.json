@@ -2,63 +2,179 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "する",
+      "term": "価基",
       "count": 2
     },
     {
-      "term": "ング",
+      "term": "化 ",
       "count": 2
     },
     {
-      "term": "スの",
+      "term": "技術",
       "count": 2
     },
     {
-      "term": "ケー",
+      "term": "の能",
       "count": 2
     },
     {
-      "term": "ーティン",
+      "term": "評価",
       "count": 2
     },
     {
-      "term": "341",
+      "term": "散に",
       "count": 2
     },
     {
-      "term": "革新的ハ",
+      "term": "の安",
       "count": 2
     },
     {
-      "term": "能動",
+      "term": "るデ",
       "count": 2
     },
     {
-      "term": "の強靱化",
+      "term": "ボの",
       "count": 2
     },
     {
-      "term": "e2e",
+      "term": "装に",
       "count": 1
     },
     {
-      "term": "の実",
+      "term": "89",
       "count": 1
     },
     {
-      "term": "入し",
+      "term": "捨五",
       "count": 1
     },
     {
-      "term": "ット開発",
+      "term": "造船ロボ",
       "count": 1
     },
     {
-      "term": "警ａ",
+      "term": "に係る調",
       "count": 1
     },
     {
-      "term": "た次世代",
+      "term": "手法",
+      "count": 1
+    },
+    {
+      "term": "トベ",
+      "count": 1
+    },
+    {
+      "term": "の促",
+      "count": 1
+    },
+    {
+      "term": "関係",
+      "count": 1
+    },
+    {
+      "term": "中小",
+      "count": 1
+    },
+    {
+      "term": "築新",
+      "count": 1
+    },
+    {
+      "term": "る総合経",
+      "count": 1
+    },
+    {
+      "term": "困難な施",
+      "count": 1
+    },
+    {
+      "term": "ズに",
+      "count": 1
+    },
+    {
+      "term": "605",
+      "count": 1
+    },
+    {
+      "term": "事例",
+      "count": 1
+    },
+    {
+      "term": "学研究革",
+      "count": 1
+    },
+    {
+      "term": "の労働生",
+      "count": 1
+    },
+    {
+      "term": "いて",
+      "count": 1
+    },
+    {
+      "term": "現場",
+      "count": 1
+    },
+    {
+      "term": "対す",
+      "count": 1
+    },
+    {
+      "term": "る実",
+      "count": 1
+    },
+    {
+      "term": "現す",
+      "count": 1
+    },
+    {
+      "term": "基金",
+      "count": 1
+    },
+    {
+      "term": "入した額",
+      "count": 1
+    },
+    {
+      "term": "性を",
+      "count": 1
+    },
+    {
+      "term": "情報",
+      "count": 1
+    },
+    {
+      "term": "し分",
+      "count": 1
+    },
+    {
+      "term": "融機",
+      "count": 1
+    },
+    {
+      "term": "の抜",
+      "count": 1
+    },
+    {
+      "term": "の構築",
+      "count": 1
+    },
+    {
+      "term": "内フ",
+      "count": 1
+    },
+    {
+      "term": "給加",
+      "count": 1
+    },
+    {
+      "term": "に対",
+      "count": 1
+    },
+    {
+      "term": "ごと",
       "count": 1
     },
     {
@@ -66,139 +182,23 @@
       "count": 1
     },
     {
-      "term": "33",
+      "term": "み増し分",
       "count": 1
     },
     {
-      "term": "に関",
+      "term": "ィン",
       "count": 1
     },
     {
-      "term": "学校現場",
+      "term": "査新",
       "count": 1
     },
     {
-      "term": "済対",
+      "term": "金地",
       "count": 1
     },
     {
-      "term": "370",
-      "count": 1
-    },
-    {
-      "term": "総額",
-      "count": 1
-    },
-    {
-      "term": "金の",
-      "count": 1
-    },
-    {
-      "term": "例 ",
-      "count": 1
-    },
-    {
-      "term": "関連",
-      "count": 1
-    },
-    {
-      "term": "44",
-      "count": 1
-    },
-    {
-      "term": "380",
-      "count": 1
-    },
-    {
-      "term": "進及",
-      "count": 1
-    },
-    {
-      "term": "ープ",
-      "count": 1
-    },
-    {
-      "term": "産性",
-      "count": 1
-    },
-    {
-      "term": "自動運転",
-      "count": 1
-    },
-    {
-      "term": "金融",
-      "count": 1
-    },
-    {
-      "term": "ノロ",
-      "count": 1
-    },
-    {
-      "term": "社会実装",
-      "count": 1
-    },
-    {
-      "term": "方針に関",
-      "count": 1
-    },
-    {
-      "term": "ーズ",
-      "count": 1
-    },
-    {
-      "term": "グの",
-      "count": 1
-    },
-    {
-      "term": "導入等に",
-      "count": 1
-    },
-    {
-      "term": "出推",
-      "count": 1
-    },
-    {
-      "term": "た匿",
-      "count": 1
-    },
-    {
-      "term": "ーブ",
-      "count": 1
-    },
-    {
-      "term": "42",
-      "count": 1
-    },
-    {
-      "term": "進フ",
-      "count": 1
-    },
-    {
-      "term": "閣議",
-      "count": 1
-    },
-    {
-      "term": "における",
-      "count": 1
-    },
-    {
-      "term": "537",
-      "count": 1
-    },
-    {
-      "term": "基本計画",
-      "count": 1
-    },
-    {
-      "term": "による科",
-      "count": 1
-    },
-    {
-      "term": "脳循",
-      "count": 1
-    },
-    {
-      "term": "を踏まえ",
+      "term": "の信",
       "count": 1
     }
   ],
