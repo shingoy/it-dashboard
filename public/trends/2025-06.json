@@ -2,203 +2,203 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "るこ",
-      "count": 24
-    },
-    {
-      "term": "ァイ",
-      "count": 18
-    },
-    {
-      "term": "って",
-      "count": 16
-    },
-    {
-      "term": "実行",
-      "count": 16
-    },
-    {
-      "term": "フェ",
-      "count": 15
-    },
-    {
-      "term": "よう",
-      "count": 15
-    },
-    {
-      "term": "いて",
-      "count": 14
-    },
-    {
-      "term": "られ",
-      "count": 14
-    },
-    {
-      "term": "シー",
-      "count": 13
-    },
-    {
-      "term": "の安",
-      "count": 13
-    },
-    {
-      "term": "確認",
-      "count": 13
-    },
-    {
-      "term": "とが",
-      "count": 13
-    },
-    {
-      "term": "的な",
-      "count": 12
-    },
-    {
-      "term": "サービス",
-      "count": 12
-    },
-    {
-      "term": "用す",
-      "count": 12
-    },
-    {
-      "term": "プラット",
-      "count": 11
-    },
-    {
-      "term": "情報",
-      "count": 11
-    },
-    {
-      "term": "範囲",
-      "count": 11
-    },
-    {
-      "term": "依存",
-      "count": 11
-    },
-    {
-      "term": "10",
-      "count": 11
-    },
-    {
-      "term": "えら",
-      "count": 11
-    },
-    {
-      "term": "クを",
-      "count": 11
-    },
-    {
-      "term": "はな",
-      "count": 11
-    },
-    {
-      "term": "に対",
-      "count": 9
-    },
-    {
-      "term": "ェア",
-      "count": 8
-    },
-    {
-      "term": "性を",
-      "count": 8
-    },
-    {
-      "term": "トを",
-      "count": 8
-    },
-    {
-      "term": "リ及",
-      "count": 7
-    },
-    {
-      "term": "るま",
-      "count": 7
-    },
-    {
-      "term": "ビルド上",
-      "count": 7
-    },
-    {
-      "term": "の信",
-      "count": 7
-    },
-    {
-      "term": "の仕",
-      "count": 7
-    },
-    {
-      "term": "にな",
-      "count": 7
-    },
-    {
-      "term": "への",
-      "count": 7
-    },
-    {
-      "term": "仕組",
-      "count": 7
-    },
-    {
-      "term": "ワー",
-      "count": 6
+      "term": "イン",
+      "count": 22
     },
     {
       "term": "した",
+      "count": 22
+    },
+    {
+      "term": "ポジ",
+      "count": 20
+    },
+    {
+      "term": "トリ",
+      "count": 20
+    },
+    {
+      "term": "成果",
+      "count": 20
+    },
+    {
+      "term": "ため",
+      "count": 19
+    },
+    {
+      "term": "プラ",
+      "count": 18
+    },
+    {
+      "term": "デー",
+      "count": 17
+    },
+    {
+      "term": "よび",
+      "count": 15
+    },
+    {
+      "term": "実行",
+      "count": 14
+    },
+    {
+      "term": "ール",
+      "count": 14
+    },
+    {
+      "term": "用す",
+      "count": 13
+    },
+    {
+      "term": "いて",
+      "count": 12
+    },
+    {
+      "term": "を取",
+      "count": 12
+    },
+    {
+      "term": "のメ",
+      "count": 12
+    },
+    {
+      "term": "クレ",
+      "count": 11
+    },
+    {
+      "term": "ンチ",
+      "count": 10
+    },
+    {
+      "term": "確保",
+      "count": 10
+    },
+    {
+      "term": "性を",
+      "count": 10
+    },
+    {
+      "term": "on",
+      "count": 10
+    },
+    {
+      "term": "のc",
+      "count": 9
+    },
+    {
+      "term": "信頼",
+      "count": 9
+    },
+    {
+      "term": "ット",
+      "count": 9
+    },
+    {
+      "term": "れて",
+      "count": 9
+    },
+    {
+      "term": "依存",
+      "count": 9
+    },
+    {
+      "term": "トに",
+      "count": 8
+    },
+    {
+      "term": "バリ",
+      "count": 8
+    },
+    {
+      "term": "ャン",
+      "count": 8
+    },
+    {
+      "term": "が考",
+      "count": 8
+    },
+    {
+      "term": "能で",
+      "count": 8
+    },
+    {
+      "term": "システム",
+      "count": 7
+    },
+    {
+      "term": "ローカル",
+      "count": 7
+    },
+    {
+      "term": "もの",
+      "count": 7
+    },
+    {
+      "term": "json",
+      "count": 7
+    },
+    {
+      "term": "ート",
       "count": 6
     },
     {
-      "term": "の担",
+      "term": "リ時",
       "count": 6
     },
     {
-      "term": "terraform",
+      "term": "スト",
       "count": 6
     },
     {
-      "term": "うこ",
+      "term": "自動",
       "count": 6
     },
     {
-      "term": "対す",
+      "term": "secrets",
       "count": 6
     },
     {
-      "term": "を必",
+      "term": "どの",
       "count": 6
     },
     {
-      "term": "同様",
+      "term": "とな",
       "count": 6
     },
     {
-      "term": "ることが",
+      "term": "critical",
       "count": 6
     },
     {
-      "term": "env",
+      "term": "はパ",
       "count": 6
     },
     {
-      "term": "産管",
+      "term": "とに",
       "count": 5
     },
     {
-      "term": "ード",
+      "term": "キュ",
       "count": 5
     },
     {
-      "term": "ス ",
+      "term": "ラン",
       "count": 5
     },
     {
-      "term": "gitlab",
+      "term": "する",
       "count": 5
     },
     {
-      "term": "ルへ",
+      "term": "サプ",
+      "count": 5
+    },
+    {
+      "term": "に保",
+      "count": 5
+    },
+    {
+      "term": "公式",
       "count": 5
     }
   ],
