@@ -2,179 +2,195 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "成果",
+      "term": "こと",
+      "count": 25
+    },
+    {
+      "term": "パイプラ",
       "count": 20
     },
     {
-      "term": "その",
-      "count": 19
+      "term": "物の",
+      "count": 17
     },
     {
-      "term": "ーズ",
+      "term": "ない",
+      "count": 17
+    },
+    {
+      "term": "ci",
+      "count": 16
+    },
+    {
+      "term": "的な",
       "count": 15
     },
     {
-      "term": "脆弱",
-      "count": 15
+      "term": "スコ",
+      "count": 14
     },
     {
-      "term": "ナイ",
-      "count": 15
+      "term": "内容",
+      "count": 14
+    },
+    {
+      "term": "実行",
+      "count": 14
     },
     {
       "term": "必要",
-      "count": 15
+      "count": 14
     },
     {
-      "term": "メタ",
-      "count": 15
+      "term": "ては",
+      "count": 14
     },
     {
-      "term": "体的",
+      "term": "ェー",
       "count": 13
     },
     {
-      "term": "ソースコ",
-      "count": 13
+      "term": "フォ",
+      "count": 12
     },
     {
-      "term": "の安",
+      "term": "ファイル",
+      "count": 12
+    },
+    {
+      "term": "おけ",
       "count": 11
     },
     {
-      "term": "ecr",
-      "count": 11
-    },
-    {
-      "term": "範囲",
+      "term": "性を",
       "count": 10
     },
     {
-      "term": "trivy",
+      "term": "ナイ",
       "count": 10
     },
     {
-      "term": "てい",
+      "term": "リポジト",
       "count": 10
-    },
-    {
-      "term": "のリ",
-      "count": 9
-    },
-    {
-      "term": "の対",
-      "count": 9
-    },
-    {
-      "term": "ョン",
-      "count": 8
-    },
-    {
-      "term": "ーカ",
-      "count": 8
-    },
-    {
-      "term": "脆弱性管",
-      "count": 8
-    },
-    {
-      "term": "以外",
-      "count": 8
-    },
-    {
-      "term": "トを",
-      "count": 8
-    },
-    {
-      "term": "対象",
-      "count": 8
-    },
-    {
-      "term": "action",
-      "count": 8
-    },
-    {
-      "term": "範囲の制",
-      "count": 7
-    },
-    {
-      "term": "ド上",
-      "count": 7
-    },
-    {
-      "term": "version",
-      "count": 7
-    },
-    {
-      "term": "にす",
-      "count": 7
-    },
-    {
-      "term": "連携",
-      "count": 7
-    },
-    {
-      "term": "ャン",
-      "count": 7
-    },
-    {
-      "term": "用し",
-      "count": 7
-    },
-    {
-      "term": "い ",
-      "count": 7
-    },
-    {
-      "term": "ーと",
-      "count": 7
-    },
-    {
-      "term": "要と",
-      "count": 7
-    },
-    {
-      "term": "latest",
-      "count": 7
-    },
-    {
-      "term": "ットの保",
-      "count": 6
-    },
-    {
-      "term": "めに",
-      "count": 6
-    },
-    {
-      "term": "報の",
-      "count": 6
-    },
-    {
-      "term": "の保護",
-      "count": 6
-    },
-    {
-      "term": "高い",
-      "count": 6
-    },
-    {
-      "term": "ンバ",
-      "count": 6
-    },
-    {
-      "term": "とも",
-      "count": 6
     },
     {
       "term": "る ",
+      "count": 10
+    },
+    {
+      "term": "策 ",
+      "count": 9
+    },
+    {
+      "term": "ック",
+      "count": 9
+    },
+    {
+      "term": "が ",
+      "count": 9
+    },
+    {
+      "term": "用す",
+      "count": 9
+    },
+    {
+      "term": "以外",
+      "count": 9
+    },
+    {
+      "term": "ムが",
+      "count": 9
+    },
+    {
+      "term": "to",
+      "count": 9
+    },
+    {
+      "term": "ン ",
+      "count": 8
+    },
+    {
+      "term": "主体",
+      "count": 8
+    },
+    {
+      "term": "ビルド上",
+      "count": 8
+    },
+    {
+      "term": "メタ",
+      "count": 8
+    },
+    {
+      "term": "を実",
+      "count": 8
+    },
+    {
+      "term": "ある",
+      "count": 8
+    },
+    {
+      "term": "に ",
+      "count": 7
+    },
+    {
+      "term": "17",
+      "count": 7
+    },
+    {
+      "term": "および",
+      "count": 7
+    },
+    {
+      "term": "trivy",
+      "count": 7
+    },
+    {
+      "term": "事項",
+      "count": 7
+    },
+    {
+      "term": "id",
+      "count": 7
+    },
+    {
+      "term": "成 ",
       "count": 6
     },
     {
-      "term": "file",
+      "term": "ート",
       "count": 6
     },
     {
-      "term": "scanners",
+      "term": "理シ",
+      "count": 6
+    },
+    {
+      "term": "トの",
+      "count": 6
+    },
+    {
+      "term": "24",
+      "count": 6
+    },
+    {
+      "term": "ージ",
+      "count": 6
+    },
+    {
+      "term": "アカ",
+      "count": 6
+    },
+    {
+      "term": "次に",
+      "count": 6
+    },
+    {
+      "term": "ズで",
+      "count": 6
+    },
+    {
+      "term": "tf",
       "count": 6
     },
     {
@@ -182,23 +198,7 @@
       "count": 6
     },
     {
-      "term": "要 ",
-      "count": 5
-    },
-    {
-      "term": "れに",
-      "count": 5
-    },
-    {
-      "term": "るし",
-      "count": 5
-    },
-    {
-      "term": "リ時",
-      "count": 5
-    },
-    {
-      "term": "者が",
+      "term": "とに",
       "count": 5
     }
   ],
