@@ -2,35 +2,19 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "する",
-      "count": 25
+      "term": "成果",
+      "count": 20
     },
     {
-      "term": "とし",
-      "count": 18
+      "term": "その",
+      "count": 19
     },
     {
-      "term": "る ",
-      "count": 18
-    },
-    {
-      "term": "ソー",
-      "count": 16
-    },
-    {
-      "term": "ビス",
-      "count": 16
-    },
-    {
-      "term": "には",
-      "count": 16
-    },
-    {
-      "term": "的な",
+      "term": "ーズ",
       "count": 15
     },
     {
-      "term": "メー",
+      "term": "脆弱",
       "count": 15
     },
     {
@@ -38,119 +22,131 @@
       "count": 15
     },
     {
-      "term": "いて",
+      "term": "必要",
+      "count": 15
+    },
+    {
+      "term": "メタ",
+      "count": 15
+    },
+    {
+      "term": "体的",
       "count": 13
     },
     {
-      "term": "的に",
+      "term": "ソースコ",
       "count": 13
     },
     {
-      "term": "全性",
-      "count": 13
-    },
-    {
-      "term": "ては",
-      "count": 13
-    },
-    {
-      "term": "でき",
-      "count": 13
-    },
-    {
-      "term": "バー",
+      "term": "の安",
       "count": 11
     },
     {
-      "term": "ナリ",
+      "term": "ecr",
+      "count": 11
+    },
+    {
+      "term": "範囲",
       "count": 10
     },
     {
-      "term": "を含",
+      "term": "trivy",
       "count": 10
     },
     {
-      "term": "メン",
+      "term": "てい",
       "count": 10
     },
     {
-      "term": "では",
-      "count": 10
-    },
-    {
-      "term": "はな",
-      "count": 10
-    },
-    {
-      "term": "リバ",
+      "term": "のリ",
       "count": 9
     },
     {
-      "term": "ウェ",
+      "term": "の対",
       "count": 9
     },
     {
-      "term": "そのため",
-      "count": 9
-    },
-    {
-      "term": "and",
-      "count": 9
-    },
-    {
-      "term": "uses",
-      "count": 9
-    },
-    {
-      "term": "定内",
+      "term": "ョン",
       "count": 8
     },
     {
-      "term": "性が",
+      "term": "ーカ",
       "count": 8
     },
     {
-      "term": "の構",
+      "term": "脆弱性管",
       "count": 8
     },
     {
-      "term": "作成",
+      "term": "以外",
       "count": 8
     },
     {
-      "term": "自動",
+      "term": "トを",
+      "count": 8
+    },
+    {
+      "term": "対象",
+      "count": 8
+    },
+    {
+      "term": "action",
+      "count": 8
+    },
+    {
+      "term": "範囲の制",
       "count": 7
     },
     {
-      "term": "ダー",
+      "term": "ド上",
       "count": 7
     },
     {
-      "term": "ビルド上",
+      "term": "version",
       "count": 7
     },
     {
-      "term": "れば",
+      "term": "にす",
       "count": 7
     },
     {
-      "term": "など",
+      "term": "連携",
       "count": 7
     },
     {
-      "term": "こと",
+      "term": "ャン",
       "count": 7
     },
     {
-      "term": "とは",
+      "term": "用し",
       "count": 7
     },
     {
-      "term": "ード管理",
+      "term": "い ",
+      "count": 7
+    },
+    {
+      "term": "ーと",
+      "count": 7
+    },
+    {
+      "term": "要と",
+      "count": 7
+    },
+    {
+      "term": "latest",
+      "count": 7
+    },
+    {
+      "term": "ットの保",
       "count": 6
     },
     {
-      "term": "ート",
+      "term": "めに",
+      "count": 6
+    },
+    {
+      "term": "報の",
       "count": 6
     },
     {
@@ -158,48 +154,52 @@
       "count": 6
     },
     {
-      "term": "した",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "プロバイ",
+      "term": "ンバ",
       "count": 6
     },
     {
-      "term": "定 ",
+      "term": "とも",
       "count": 6
     },
     {
-      "term": "タデータ",
+      "term": "る ",
       "count": 6
     },
     {
-      "term": "ウン",
+      "term": "file",
       "count": 6
     },
     {
-      "term": "物と",
+      "term": "scanners",
       "count": 6
     },
     {
-      "term": "トを",
+      "term": "ビルド設",
       "count": 6
     },
     {
-      "term": "steps",
-      "count": 6
+      "term": "要 ",
+      "count": 5
     },
     {
-      "term": "output",
-      "count": 6
+      "term": "れに",
+      "count": 5
     },
     {
-      "term": "name",
-      "count": 6
+      "term": "るし",
+      "count": 5
     },
     {
-      "term": "id",
-      "count": 6
+      "term": "リ時",
+      "count": 5
+    },
+    {
+      "term": "者が",
+      "count": 5
     }
   ],
   "meetings": [
