@@ -2,75 +2,39 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ライ",
-      "count": 23
+      "term": "図 ",
+      "count": 28
     },
     {
-      "term": "ため",
-      "count": 22
+      "term": "るこ",
+      "count": 24
     },
     {
       "term": "イル",
-      "count": 20
+      "count": 18
     },
     {
-      "term": "ビル",
-      "count": 19
-    },
-    {
-      "term": "ci",
-      "count": 17
-    },
-    {
-      "term": "デー",
-      "count": 17
-    },
-    {
-      "term": "チー",
-      "count": 16
-    },
-    {
-      "term": "であ",
+      "term": "トフ",
       "count": 15
     },
     {
-      "term": "なる",
+      "term": "るた",
       "count": 15
     },
     {
-      "term": "必要",
-      "count": 15
-    },
-    {
-      "term": "ける",
-      "count": 14
-    },
-    {
-      "term": "workflows",
-      "count": 14
+      "term": "頼性",
+      "count": 12
     },
     {
       "term": "担保",
-      "count": 13
+      "count": 12
     },
     {
-      "term": "があ",
-      "count": 13
-    },
-    {
-      "term": "とが",
-      "count": 13
-    },
-    {
-      "term": "トの",
+      "term": "ティ",
       "count": 11
     },
     {
-      "term": "制限",
-      "count": 11
-    },
-    {
-      "term": "クを",
+      "term": "ース",
       "count": 11
     },
     {
@@ -78,127 +42,163 @@
       "count": 11
     },
     {
-      "term": "セス",
-      "count": 10
-    },
-    {
-      "term": "to",
+      "term": "保 ",
       "count": 10
     },
     {
       "term": "確保",
+      "count": 10
+    },
+    {
+      "term": "理を",
+      "count": 10
+    },
+    {
+      "term": "デリ",
       "count": 9
     },
     {
-      "term": "ウェ",
+      "term": "バリ",
       "count": 9
     },
     {
-      "term": "本書",
+      "term": "リバ",
       "count": 9
     },
     {
-      "term": "を用",
+      "term": "outputs",
       "count": 9
     },
     {
-      "term": "それ",
-      "count": 9
-    },
-    {
-      "term": "いっ",
-      "count": 9
-    },
-    {
-      "term": "これ",
-      "count": 9
-    },
-    {
-      "term": "com",
-      "count": 9
-    },
-    {
-      "term": "uses",
-      "count": 9
-    },
-    {
-      "term": "トに",
+      "term": "ーカ",
       "count": 8
     },
     {
-      "term": "ンチ",
+      "term": "って",
       "count": 8
     },
     {
-      "term": "性が",
+      "term": "用し",
       "count": 8
     },
     {
-      "term": "10",
+      "term": "の管",
       "count": 8
     },
     {
-      "term": "ンb",
+      "term": "能で",
+      "count": 8
+    },
+    {
+      "term": "ファ",
+      "count": 8
+    },
+    {
+      "term": "組織",
       "count": 7
     },
     {
-      "term": "push",
+      "term": "リソ",
       "count": 7
     },
     {
-      "term": "頼性",
+      "term": "考えられ",
+      "count": 7
+    },
+    {
+      "term": "記述",
+      "count": 7
+    },
+    {
+      "term": "ては",
+      "count": 7
+    },
+    {
+      "term": "省略",
+      "count": 7
+    },
+    {
+      "term": "ーと",
+      "count": 7
+    },
+    {
+      "term": "の漏洩対",
       "count": 6
     },
     {
-      "term": "リ時",
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "ス ",
+      "term": "フォーム",
       "count": 6
     },
     {
-      "term": "プロバイ",
+      "term": "シー",
       "count": 6
     },
     {
-      "term": "対す",
+      "term": "はa",
       "count": 6
     },
     {
-      "term": "とも",
+      "term": "ソフトウ",
       "count": 6
     },
     {
-      "term": "される",
+      "term": "ンテナイ",
       "count": 6
     },
     {
-      "term": "では",
+      "term": "複数",
       "count": 6
     },
     {
-      "term": "ビス",
+      "term": "trivy",
       "count": 6
     },
     {
-      "term": "資産管理",
+      "term": "ーテ",
+      "count": 6
+    },
+    {
+      "term": "影響",
+      "count": 6
+    },
+    {
+      "term": "の仕",
+      "count": 6
+    },
+    {
+      "term": "ても",
+      "count": 6
+    },
+    {
+      "term": "output",
+      "count": 6
+    },
+    {
+      "term": "digest",
+      "count": 6
+    },
+    {
+      "term": "理を含む",
       "count": 5
     },
     {
-      "term": "た信",
+      "term": "キュ",
       "count": 5
     },
     {
-      "term": "トは",
+      "term": "護 ",
       "count": 5
     },
     {
-      "term": "ケー",
+      "term": "ロー",
       "count": 5
     },
     {
-      "term": "具体",
+      "term": "のソ",
       "count": 5
     }
   ],
