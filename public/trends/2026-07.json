@@ -2,55 +2,31 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "行政",
-      "count": 26
-    },
-    {
-      "term": "整備",
-      "count": 24
-    },
-    {
-      "term": "レジスト",
-      "count": 21
-    },
-    {
-      "term": "関係",
-      "count": 20
-    },
-    {
-      "term": "るこ",
+      "term": "ため",
       "count": 19
     },
     {
-      "term": "向上",
+      "term": "ムの",
       "count": 19
     },
     {
-      "term": "の効",
+      "term": "年度",
       "count": 18
     },
     {
-      "term": "行政機関",
-      "count": 17
+      "term": "され",
+      "count": 18
     },
     {
-      "term": "タの",
-      "count": 16
+      "term": "記情",
+      "count": 15
     },
     {
-      "term": "関等",
-      "count": 16
-    },
-    {
-      "term": "るた",
-      "count": 16
-    },
-    {
-      "term": "省略",
+      "term": "るデ",
       "count": 14
     },
     {
-      "term": "の省",
+      "term": "タを",
       "count": 14
     },
     {
@@ -58,71 +34,59 @@
       "count": 13
     },
     {
-      "term": "スを",
-      "count": 13
-    },
-    {
       "term": "政推",
       "count": 13
     },
     {
-      "term": "用し",
-      "count": 12
+      "term": "た ",
+      "count": 11
     },
     {
-      "term": "まえ",
-      "count": 12
+      "term": "サー",
+      "count": 11
     },
     {
-      "term": "行政運営",
-      "count": 12
+      "term": "随時",
+      "count": 11
     },
     {
-      "term": "ース",
+      "term": "る取",
+      "count": 11
+    },
+    {
+      "term": "討 ",
       "count": 10
     },
     {
-      "term": "び行",
+      "term": "とも",
       "count": 10
     },
     {
-      "term": "異な",
+      "term": "受け",
       "count": 10
     },
     {
-      "term": "係データ",
+      "term": "では",
+      "count": 10
+    },
+    {
+      "term": "不動",
       "count": 9
     },
     {
-      "term": "ても",
+      "term": "ロハ",
       "count": 9
     },
     {
-      "term": "整理",
+      "term": "地方",
       "count": 9
     },
     {
-      "term": "タ連",
-      "count": 9
-    },
-    {
-      "term": "リ ",
+      "term": "における",
       "count": 8
     },
     {
-      "term": "ユー",
-      "count": 8
-    },
-    {
-      "term": "23",
-      "count": 8
-    },
-    {
-      "term": "る事",
-      "count": 8
-    },
-    {
-      "term": "参考",
+      "term": "共通",
       "count": 8
     },
     {
@@ -130,75 +94,111 @@
       "count": 8
     },
     {
-      "term": "ここでい",
+      "term": "が ",
       "count": 8
     },
     {
-      "term": "ア ",
+      "term": "スケジュ",
       "count": 8
     },
     {
-      "term": "けた",
+      "term": "率化に関",
+      "count": 8
+    },
+    {
+      "term": "イ ",
+      "count": 8
+    },
+    {
+      "term": "記デ",
       "count": 7
     },
     {
-      "term": "べき",
+      "term": "第2",
       "count": 7
     },
     {
-      "term": "礎情",
+      "term": "可能",
       "count": 7
     },
     {
-      "term": "状況",
+      "term": "明書",
       "count": 7
     },
     {
-      "term": "基づ",
+      "term": "証明",
       "count": 7
     },
     {
-      "term": "随時",
-      "count": 7
+      "term": "指し",
+      "count": 6
     },
     {
-      "term": "り ",
-      "count": 7
+      "term": "リに",
+      "count": 6
     },
     {
-      "term": "たデ",
-      "count": 7
+      "term": "た登",
+      "count": 6
     },
     {
-      "term": "スに",
-      "count": 7
+      "term": "の確",
+      "count": 6
+    },
+    {
+      "term": "対す",
+      "count": 6
+    },
+    {
+      "term": "データに",
+      "count": 6
+    },
+    {
+      "term": "各シ",
+      "count": 6
+    },
+    {
+      "term": "い ",
+      "count": 6
+    },
+    {
+      "term": "律第",
+      "count": 6
+    },
+    {
+      "term": "よう",
+      "count": 6
+    },
+    {
+      "term": "裁判",
+      "count": 6
+    },
+    {
+      "term": "更改",
+      "count": 6
+    },
+    {
+      "term": "期更",
+      "count": 6
+    },
+    {
+      "term": "対し",
+      "count": 6
+    },
+    {
+      "term": "記に",
+      "count": 6
     },
     {
       "term": "確保",
-      "count": 6
-    },
-    {
-      "term": "後整",
-      "count": 6
-    },
-    {
-      "term": "務の",
-      "count": 6
-    },
-    {
-      "term": "及び改善",
-      "count": 6
-    },
-    {
-      "term": "能な",
-      "count": 6
-    },
-    {
-      "term": "ム ",
       "count": 5
     },
     {
-      "term": "立行",
+      "term": "は利",
+      "count": 5
+    },
+    {
+      "term": "年で累計",
       "count": 5
     }
   ],
