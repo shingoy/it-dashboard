@@ -2,43 +2,63 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "いて",
-      "count": 24
+      "term": "情報",
+      "count": 28
     },
     {
-      "term": "化に",
-      "count": 21
-    },
-    {
-      "term": "ムの",
+      "term": "を行",
       "count": 19
     },
     {
-      "term": "スを",
+      "term": "おい",
+      "count": 19
+    },
+    {
+      "term": "踏ま",
       "count": 17
     },
     {
-      "term": "ル庁",
+      "term": "の整",
+      "count": 16
+    },
+    {
+      "term": "を踏",
+      "count": 16
+    },
+    {
+      "term": "等に",
+      "count": 16
+    },
+    {
+      "term": "るた",
+      "count": 16
+    },
+    {
+      "term": "手続",
+      "count": 16
+    },
+    {
+      "term": "について",
       "count": 15
     },
     {
-      "term": "備を",
+      "term": "等を",
+      "count": 15
+    },
+    {
+      "term": "産登",
+      "count": 15
+    },
+    {
+      "term": "デジタル",
+      "count": 15
+    },
+    {
+      "term": "要な",
       "count": 14
     },
     {
-      "term": "用し",
-      "count": 14
-    },
-    {
-      "term": "ると",
-      "count": 14
-    },
-    {
-      "term": "るも",
-      "count": 14
-    },
-    {
-      "term": "政策効果",
+      "term": "用 ",
       "count": 13
     },
     {
@@ -46,123 +66,127 @@
       "count": 12
     },
     {
-      "term": "タを",
-      "count": 12
-    },
-    {
-      "term": "進法",
+      "term": "内容",
       "count": 11
     },
     {
-      "term": "とも",
+      "term": "つい",
+      "count": 11
+    },
+    {
+      "term": "負担",
+      "count": 11
+    },
+    {
+      "term": "号 ",
+      "count": 11
+    },
+    {
+      "term": "法務",
+      "count": 11
+    },
+    {
+      "term": "準化",
       "count": 10
     },
     {
-      "term": "上及",
+      "term": "図る",
       "count": 10
     },
     {
-      "term": "関 ",
+      "term": "イロ",
       "count": 10
     },
     {
-      "term": "添付書面",
+      "term": "基盤",
       "count": 9
     },
     {
-      "term": "業法",
+      "term": "には",
       "count": 9
     },
     {
-      "term": "及び行政",
+      "term": "とは",
       "count": 9
+    },
+    {
+      "term": "不動産ベ",
+      "count": 8
+    },
+    {
+      "term": "基本",
+      "count": 8
+    },
+    {
+      "term": "る事",
+      "count": 8
+    },
+    {
+      "term": "省庁",
+      "count": 8
+    },
+    {
+      "term": "なデ",
+      "count": 8
+    },
+    {
+      "term": "のと",
+      "count": 8
+    },
+    {
+      "term": "けて",
+      "count": 8
     },
     {
       "term": "めに",
-      "count": 8
-    },
-    {
-      "term": "他の",
-      "count": 8
-    },
-    {
-      "term": "ースの整",
-      "count": 8
-    },
-    {
-      "term": "進す",
-      "count": 8
-    },
-    {
-      "term": "る情",
-      "count": 8
-    },
-    {
-      "term": "データを",
-      "count": 8
-    },
-    {
-      "term": "づき",
-      "count": 8
-    },
-    {
-      "term": "た登",
       "count": 7
     },
     {
-      "term": "間の",
+      "term": "登記事項",
       "count": 7
     },
     {
-      "term": "社会",
+      "term": "り ",
       "count": 7
     },
     {
-      "term": "役割",
+      "term": "21",
       "count": 7
     },
     {
-      "term": "17",
+      "term": "力の",
       "count": 7
     },
     {
-      "term": "庁と",
+      "term": "として整",
       "count": 7
     },
     {
-      "term": "図情",
+      "term": "期間",
       "count": 6
     },
     {
-      "term": "体化",
+      "term": "第2",
       "count": 6
     },
     {
-      "term": "組み",
+      "term": "係行",
       "count": 6
     },
     {
-      "term": "産登",
+      "term": "えて",
       "count": 6
     },
     {
-      "term": "ル社",
+      "term": "横断",
       "count": 6
     },
     {
-      "term": "ニー",
+      "term": "要と",
       "count": 6
     },
     {
-      "term": "号に",
-      "count": 6
-    },
-    {
-      "term": "関が",
-      "count": 6
-    },
-    {
-      "term": "を取",
+      "term": "令に",
       "count": 6
     },
     {
@@ -170,36 +194,12 @@
       "count": 6
     },
     {
-      "term": "の次期更",
+      "term": "求め",
       "count": 6
     },
     {
-      "term": "字の",
+      "term": "度に",
       "count": 6
-    },
-    {
-      "term": "に向",
-      "count": 5
-    },
-    {
-      "term": "出の",
-      "count": 5
-    },
-    {
-      "term": "かつ",
-      "count": 5
-    },
-    {
-      "term": "て利",
-      "count": 5
-    },
-    {
-      "term": "れを",
-      "count": 5
-    },
-    {
-      "term": "る行",
-      "count": 5
     }
   ],
   "meetings": [
