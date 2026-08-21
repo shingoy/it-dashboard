@@ -2,47 +2,55 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "利用",
-      "count": 21
+      "term": "され",
+      "count": 23
     },
     {
-      "term": "ット",
+      "term": "管理",
+      "count": 20
+    },
+    {
+      "term": "ビル",
       "count": 19
     },
     {
-      "term": "aws",
-      "count": 19
-    },
-    {
-      "term": "ci",
-      "count": 17
-    },
-    {
-      "term": "ーム",
-      "count": 17
-    },
-    {
-      "term": "ライ",
-      "count": 17
+      "term": "ール",
+      "count": 18
     },
     {
       "term": "成果",
       "count": 17
     },
     {
-      "term": "ドフ",
+      "term": "って",
+      "count": 16
+    },
+    {
+      "term": "トフ",
+      "count": 15
+    },
+    {
+      "term": "メタ",
+      "count": 15
+    },
+    {
+      "term": "内容",
       "count": 14
     },
     {
-      "term": "る必",
+      "term": "ージ",
       "count": 14
     },
     {
-      "term": "よる",
+      "term": "の成",
       "count": 13
     },
     {
-      "term": "ント",
+      "term": "護 ",
+      "count": 12
+    },
+    {
+      "term": "サービス",
       "count": 12
     },
     {
@@ -54,152 +62,144 @@
       "count": 11
     },
     {
+      "term": "ティ",
+      "count": 11
+    },
+    {
       "term": "依存物の",
       "count": 11
     },
     {
-      "term": "範囲",
+      "term": "ナイ",
       "count": 11
+    },
+    {
+      "term": "確保",
+      "count": 10
+    },
+    {
+      "term": "ポジ",
+      "count": 10
+    },
+    {
+      "term": "の信",
+      "count": 10
     },
     {
       "term": "ている",
       "count": 10
     },
     {
-      "term": "イメージ",
+      "term": "ンテ",
       "count": 10
     },
     {
-      "term": "git",
+      "term": "セス",
       "count": 10
     },
     {
-      "term": "jobs",
-      "count": 10
-    },
-    {
-      "term": "保護",
+      "term": "code",
       "count": 9
     },
     {
-      "term": "リバ",
+      "term": "バリ",
       "count": 9
     },
     {
-      "term": "サービス",
+      "term": "アク",
       "count": 9
     },
     {
-      "term": "ビス",
+      "term": "るが",
       "count": 9
     },
     {
-      "term": "リの",
+      "term": "るこ",
       "count": 9
     },
     {
-      "term": "ョン",
+      "term": "通し",
       "count": 8
     },
     {
-      "term": "トフ",
+      "term": "ソースコ",
       "count": 8
     },
     {
-      "term": "書で",
+      "term": "リス",
       "count": 8
     },
     {
-      "term": "作成",
+      "term": "用い",
       "count": 8
     },
     {
-      "term": "強制",
+      "term": "ルで",
       "count": 8
     },
     {
-      "term": "outputs",
-      "count": 8
-    },
-    {
-      "term": "運用",
+      "term": "ローカル",
       "count": 7
     },
     {
-      "term": "すべ",
+      "term": "漏洩",
       "count": 7
     },
     {
-      "term": "にな",
+      "term": "ン ",
       "count": 7
     },
     {
-      "term": "ル ",
+      "term": "トウ",
       "count": 7
     },
     {
-      "term": "ークレッ",
+      "term": "事項",
       "count": 7
     },
     {
-      "term": "name",
+      "term": "ンバ",
       "count": 7
     },
     {
-      "term": "開発",
-      "count": 6
+      "term": "ーと",
+      "count": 7
     },
     {
       "term": "具体的な",
       "count": 6
     },
     {
-      "term": "より",
+      "term": "利用",
       "count": 6
     },
     {
-      "term": "なお",
+      "term": "イナ",
       "count": 6
     },
     {
-      "term": "ンテナイ",
+      "term": "codebuild",
       "count": 6
     },
     {
-      "term": "ール",
+      "term": "の署",
       "count": 6
     },
     {
-      "term": "た場",
+      "term": "ズで",
       "count": 6
     },
     {
-      "term": "同様",
+      "term": "いる",
       "count": 6
     },
     {
-      "term": "混入",
+      "term": "ークレッ",
       "count": 6
     },
     {
-      "term": "ロー",
-      "count": 5
-    },
-    {
-      "term": "する",
-      "count": 5
-    },
-    {
-      "term": "を想",
-      "count": 5
-    },
-    {
-      "term": "で ",
-      "count": 5
-    },
-    {
-      "term": "main",
-      "count": 5
+      "term": "checkout",
+      "count": 6
     }
   ],
   "meetings": [
