@@ -2,67 +2,99 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "情報",
-      "count": 27
+      "term": "行政",
+      "count": 26
     },
     {
-      "term": "に関",
-      "count": 24
+      "term": "レジ",
+      "count": 21
     },
     {
-      "term": "から",
-      "count": 18
+      "term": "関係",
+      "count": 20
     },
     {
-      "term": "用す",
+      "term": "システム",
+      "count": 19
+    },
+    {
+      "term": "運営",
+      "count": 19
+    },
+    {
+      "term": "いる",
+      "count": 16
+    },
+    {
+      "term": "政策",
+      "count": 15
+    },
+    {
+      "term": "11",
+      "count": 15
+    },
+    {
+      "term": "る行",
       "count": 14
     },
     {
+      "term": "添付",
+      "count": 13
+    },
+    {
+      "term": "報に",
+      "count": 13
+    },
+    {
+      "term": "礎情",
+      "count": 12
+    },
+    {
       "term": "人ベ",
+      "count": 11
+    },
+    {
+      "term": "面の",
+      "count": 11
+    },
+    {
+      "term": "サー",
+      "count": 11
+    },
+    {
+      "term": "ケジ",
       "count": 10
     },
     {
-      "term": "もに",
+      "term": "運用",
       "count": 10
     },
     {
-      "term": "参照",
+      "term": "異な",
       "count": 10
     },
     {
-      "term": "関 ",
+      "term": "受け",
       "count": 10
     },
     {
-      "term": "イロ",
-      "count": 10
-    },
-    {
-      "term": "の省略",
+      "term": "要な",
       "count": 9
     },
     {
-      "term": "社会",
+      "term": "の標",
       "count": 9
     },
     {
-      "term": "向け",
+      "term": "基盤",
       "count": 9
     },
     {
-      "term": "現在",
+      "term": "進め",
       "count": 9
     },
     {
-      "term": "行 ",
-      "count": 9
-    },
-    {
-      "term": "データを",
-      "count": 9
-    },
-    {
-      "term": "おり",
+      "term": "でい",
       "count": 9
     },
     {
@@ -70,135 +102,103 @@
       "count": 8
     },
     {
-      "term": "23",
+      "term": "ユー",
       "count": 8
     },
     {
-      "term": "地所",
+      "term": "ころ",
       "count": 8
     },
     {
-      "term": "ここでい",
+      "term": "性向",
       "count": 8
     },
     {
-      "term": "特定",
-      "count": 8
-    },
-    {
-      "term": "づき",
-      "count": 8
-    },
-    {
-      "term": "基本",
+      "term": "以降",
       "count": 7
     },
     {
-      "term": "第1",
+      "term": "地図",
       "count": 7
     },
     {
-      "term": "省庁",
+      "term": "ール",
       "count": 7
     },
     {
-      "term": "の手",
+      "term": "記関係デ",
       "count": 7
     },
     {
-      "term": "項証",
+      "term": "そのため",
       "count": 7
     },
     {
-      "term": "14",
+      "term": "ここ",
       "count": 7
     },
     {
-      "term": "な行",
+      "term": "とか",
       "count": 7
     },
     {
-      "term": "下の",
+      "term": "がで",
       "count": 7
-    },
-    {
-      "term": "面情",
-      "count": 6
     },
     {
       "term": "む ",
       "count": 6
     },
     {
-      "term": "ため",
+      "term": "報等",
       "count": 6
     },
     {
-      "term": "11",
+      "term": "後の",
       "count": 6
     },
     {
-      "term": "わえ",
+      "term": "年度以降",
       "count": 6
     },
     {
-      "term": "次期",
+      "term": "地図情報",
       "count": 6
     },
     {
-      "term": "ここ",
+      "term": "進法",
       "count": 6
     },
     {
-      "term": "変更",
+      "term": "可能",
       "count": 6
     },
     {
-      "term": "る文",
+      "term": "で利",
       "count": 6
     },
     {
-      "term": "の連",
+      "term": "が ",
       "count": 6
     },
     {
-      "term": "も踏",
+      "term": "それ",
       "count": 6
     },
     {
-      "term": "デジ",
+      "term": "これらの",
       "count": 6
     },
     {
-      "term": "の提",
+      "term": "省 ",
+      "count": 6
+    },
+    {
+      "term": "タ等",
       "count": 5
     },
     {
-      "term": "策 ",
-      "count": 5
-    },
-    {
-      "term": "備及び改",
-      "count": 5
-    },
-    {
-      "term": "立行",
-      "count": 5
-    },
-    {
-      "term": "現可",
-      "count": 5
-    },
-    {
-      "term": "報データ",
-      "count": 5
-    },
-    {
-      "term": "がら",
-      "count": 5
-    },
-    {
-      "term": "実際",
+      "term": "登記デー",
       "count": 5
     }
   ],
