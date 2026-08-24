@@ -2,151 +2,127 @@
   "month": "2023-07",
   "keywords": [
     {
-      "term": "いる",
-      "count": 2098
+      "term": "テム",
+      "count": 2349
+    },
+    {
+      "term": "と ",
+      "count": 1836
     },
     {
       "term": "サー",
       "count": 1726
     },
     {
-      "term": "システム",
-      "count": 1568
+      "term": "内容",
+      "count": 1509
     },
     {
-      "term": "運用",
-      "count": 1421
+      "term": "もの",
+      "count": 1488
     },
     {
-      "term": "ライ",
-      "count": 1373
+      "term": "より",
+      "count": 1477
     },
     {
-      "term": "要な",
-      "count": 1268
+      "term": "めに",
+      "count": 1301
     },
     {
-      "term": "可能",
-      "count": 1037
+      "term": "た ",
+      "count": 1224
+    },
+    {
+      "term": "の利",
+      "count": 1131
+    },
+    {
+      "term": "った",
+      "count": 1096
+    },
+    {
+      "term": "とも",
+      "count": 1068
+    },
+    {
+      "term": "は ",
+      "count": 1058
     },
     {
       "term": "それ",
       "count": 1015
     },
     {
-      "term": "ール",
-      "count": 1014
+      "term": "状況",
+      "count": 873
     },
     {
-      "term": "アク",
-      "count": 976
+      "term": "るな",
+      "count": 826
     },
     {
-      "term": "が ",
-      "count": 974
+      "term": "ケー",
+      "count": 813
     },
     {
-      "term": "関係",
-      "count": 880
+      "term": "切な",
+      "count": 802
     },
     {
-      "term": "遵守",
-      "count": 821
+      "term": "想定",
+      "count": 779
     },
     {
-      "term": "ック",
-      "count": 783
+      "term": "きな",
+      "count": 764
     },
     {
-      "term": "いた",
-      "count": 759
+      "term": "タル",
+      "count": 737
     },
     {
-      "term": "受け",
-      "count": 751
+      "term": "対す",
+      "count": 723
     },
     {
-      "term": "キュリテ",
-      "count": 714
+      "term": "を受",
+      "count": 683
     },
     {
-      "term": "がで",
-      "count": 714
+      "term": "に関する",
+      "count": 662
     },
     {
-      "term": "基準",
-      "count": 708
+      "term": "の管",
+      "count": 657
     },
     {
-      "term": "理 ",
-      "count": 682
+      "term": "ュー",
+      "count": 628
     },
     {
-      "term": "他の",
-      "count": 655
+      "term": "等の",
+      "count": 574
     },
     {
-      "term": "把握",
-      "count": 648
+      "term": "特に",
+      "count": 548
     },
     {
-      "term": "があ",
-      "count": 627
-    },
-    {
-      "term": "策定",
-      "count": 549
-    },
-    {
-      "term": "の特",
+      "term": "構築",
       "count": 540
     },
     {
-      "term": "行政",
-      "count": 539
+      "term": "施 ",
+      "count": 524
     },
     {
-      "term": "を適",
-      "count": 533
-    },
-    {
-      "term": "象と",
-      "count": 514
-    },
-    {
-      "term": "認し",
-      "count": 514
-    },
-    {
-      "term": "が望",
-      "count": 509
-    },
-    {
-      "term": "含め",
-      "count": 503
-    },
-    {
-      "term": "ユー",
-      "count": 495
-    },
-    {
-      "term": "ガイ",
-      "count": 493
-    },
-    {
-      "term": "検証",
+      "term": "10",
       "count": 491
     },
     {
-      "term": "攻撃",
-      "count": 491
-    },
-    {
-      "term": "次の",
-      "count": 483
-    },
-    {
-      "term": "あり",
+      "term": "指す",
       "count": 465
     },
     {
@@ -154,52 +130,76 @@
       "count": 450
     },
     {
-      "term": "異な",
-      "count": 444
-    },
-    {
-      "term": "in",
-      "count": 443
-    },
-    {
-      "term": "合わ",
-      "count": 439
+      "term": "for",
+      "count": 448
     },
     {
       "term": "generative",
+      "count": 447
+    },
+    {
+      "term": "ンを",
+      "count": 439
+    },
+    {
+      "term": "トが",
       "count": 438
     },
     {
       "term": "のセ",
-      "count": 430
+      "count": 438
     },
     {
-      "term": "生じ",
-      "count": 425
+      "term": "in",
+      "count": 426
     },
     {
-      "term": "ずる",
-      "count": 411
+      "term": "に留",
+      "count": 412
     },
     {
-      "term": "に情",
-      "count": 394
+      "term": "が発",
+      "count": 403
     },
     {
-      "term": "の保",
+      "term": "て定",
+      "count": 400
+    },
+    {
+      "term": "ムが",
+      "count": 395
+    },
+    {
+      "term": "に従",
+      "count": 390
+    },
+    {
+      "term": "時間",
+      "count": 387
+    },
+    {
+      "term": "とか",
       "count": 385
     },
     {
-      "term": "趣旨",
-      "count": 383
-    },
-    {
-      "term": "定さ",
-      "count": 378
+      "term": "あ ",
+      "count": 382
     },
     {
       "term": "前提",
-      "count": 372
+      "count": 376
+    },
+    {
+      "term": "定さ",
+      "count": 373
+    },
+    {
+      "term": "ビリ",
+      "count": 371
+    },
+    {
+      "term": "理を",
+      "count": 367
     }
   ],
   "meetings": [

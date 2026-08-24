@@ -2,79 +2,79 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ライ",
-      "count": 23
+      "term": "イプ",
+      "count": 21
     },
     {
-      "term": "いる",
+      "term": "トリ",
       "count": 20
-    },
-    {
-      "term": "ール",
-      "count": 19
     },
     {
       "term": "サー",
       "count": 17
     },
     {
-      "term": "の保",
-      "count": 15
+      "term": "内容",
+      "count": 14
     },
     {
-      "term": "パイ",
+      "term": "ポジ",
+      "count": 14
+    },
+    {
+      "term": "った",
+      "count": 14
+    },
+    {
+      "term": "担保",
       "count": 13
     },
     {
-      "term": "シークレ",
-      "count": 12
+      "term": "trivy",
+      "count": 13
     },
     {
       "term": "護 ",
       "count": 12
     },
     {
-      "term": "があ",
-      "count": 12
-    },
-    {
-      "term": "脆弱",
+      "term": "ンを",
       "count": 11
     },
     {
-      "term": "での",
+      "term": "存物",
       "count": 11
     },
     {
-      "term": "com",
+      "term": "10",
       "count": 11
     },
     {
-      "term": "可能",
+      "term": "こで",
       "count": 11
     },
     {
-      "term": "ック",
+      "term": "理を",
       "count": 10
     },
     {
-      "term": "検証",
+      "term": "sbom",
       "count": 10
     },
     {
-      "term": "いた",
-      "count": 10
-    },
-    {
-      "term": "ここ",
-      "count": 10
-    },
-    {
-      "term": "が ",
+      "term": "した",
       "count": 9
     },
     {
-      "term": "そのため",
+      "term": "バリ",
+      "count": 9
+    },
+    {
+      "term": "より",
+      "count": 9
+    },
+    {
+      "term": "た ",
       "count": 9
     },
     {
@@ -82,75 +82,99 @@
       "count": 9
     },
     {
-      "term": "アク",
+      "term": "ムが",
       "count": 9
     },
     {
-      "term": "運用",
+      "term": "は ",
+      "count": 9
+    },
+    {
+      "term": "テム",
+      "count": 8
+    },
+    {
+      "term": "ンチ",
+      "count": 8
+    },
+    {
+      "term": "の管",
+      "count": 8
+    },
+    {
+      "term": "json",
+      "count": 8
+    },
+    {
+      "term": "フェーズ",
       "count": 7
     },
     {
-      "term": "ローカル",
+      "term": "もの",
       "count": 7
     },
     {
-      "term": "リ及",
+      "term": "ンa",
       "count": 7
     },
     {
-      "term": "システム",
+      "term": "イメ",
       "count": 7
     },
     {
-      "term": "頼性",
-      "count": 7
-    },
-    {
-      "term": "内の",
-      "count": 7
-    },
-    {
-      "term": "あり",
-      "count": 7
-    },
-    {
-      "term": "アッ",
-      "count": 7
-    },
-    {
-      "term": "し ",
-      "count": 7
-    },
-    {
-      "term": "図 ",
-      "count": 7
-    },
-    {
-      "term": "混入",
-      "count": 7
-    },
-    {
-      "term": "latest",
-      "count": 7
-    },
-    {
-      "term": "のc",
+      "term": "めに",
       "count": 6
     },
     {
-      "term": "リ時",
+      "term": "チの",
       "count": 6
     },
     {
-      "term": "的に",
+      "term": "通し",
       "count": 6
     },
     {
-      "term": "ムは",
+      "term": "ド成",
       "count": 6
     },
     {
-      "term": "11",
+      "term": "ド上",
+      "count": 6
+    },
+    {
+      "term": "codebuild",
+      "count": 6
+    },
+    {
+      "term": "たt",
+      "count": 6
+    },
+    {
+      "term": "対す",
+      "count": 6
+    },
+    {
+      "term": "スキ",
+      "count": 6
+    },
+    {
+      "term": "の利",
+      "count": 6
+    },
+    {
+      "term": "の連",
+      "count": 6
+    },
+    {
+      "term": "省略する",
+      "count": 6
+    },
+    {
+      "term": "とも",
+      "count": 6
+    },
+    {
+      "term": "steps",
       "count": 6
     },
     {
@@ -158,47 +182,23 @@
       "count": 6
     },
     {
-      "term": "tf",
+      "term": "ることが",
       "count": 6
     },
     {
-      "term": "象と",
+      "term": "scanners",
       "count": 6
     },
     {
-      "term": "た信",
+      "term": "ケー",
       "count": 5
     },
     {
-      "term": "リオ",
+      "term": "の証",
       "count": 5
     },
     {
-      "term": "理 ",
-      "count": 5
-    },
-    {
-      "term": "開発",
-      "count": 5
-    },
-    {
-      "term": "した",
-      "count": 5
-    },
-    {
-      "term": "を想",
-      "count": 5
-    },
-    {
-      "term": "の保護",
-      "count": 5
-    },
-    {
-      "term": "要がある",
-      "count": 5
-    },
-    {
-      "term": "承認",
+      "term": "想定",
       "count": 5
     }
   ],

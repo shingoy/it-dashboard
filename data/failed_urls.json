@@ -1,32 +1,247 @@
 [
   {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/7f6adee4/20230314_policies_digital-extraordinary-administrative-research-committee_outline_01.pdf",
+    "error": "HTTPSConnectionPool(host='www.digital.go.jp', port=443): Read timed out. (read timeout=30)",
+    "timestamp": "2026-08-24T09:52:40.730398"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/5d7f0bd3/20230314_policies_digital-extraordinary-administrative-research-committee_outline_02.pdf",
+    "error": "HTTPSConnectionPool(host='www.digital.go.jp', port=443): Read timed out. (read timeout=30)",
+    "timestamp": "2026-08-24T09:53:10.793536"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/64e5c919/20230314_policies_digital-extraordinary-administrative-research-committee_list_03.pdf",
+    "error": "HTTPSConnectionPool(host='www.digital.go.jp', port=443): Read timed out. (read timeout=30)",
+    "timestamp": "2026-08-24T09:53:40.959550"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/0c5f6d94/20230314_policies_digital-extraordinary-administrative-research-committee_list_05.pdf",
+    "error": "HTTPSConnectionPool(host='www.digital.go.jp', port=443): Read timed out. (read timeout=30)",
+    "timestamp": "2026-08-24T09:54:11.019722"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/1c54acda/20230621_policies_digital-extraordinary-administrative-research-committee_itinerary_01.pdf",
+    "error": "504 Server Error: Gateway Time-out for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/1c54acda/20230621_policies_digital-extraordinary-administrative-research-committee_itinerary_01.pdf",
+    "timestamp": "2026-08-24T09:54:22.025330"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/24217e04-5169-44de-90fe-135b314e6d45/b7466797/20230613_meeting_administrative_research_outline_13.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/24217e04-5169-44de-90fe-135b314e6d45/b7466797/20230613_meeting_administrative_research_outline_13.pdf",
+    "timestamp": "2026-08-24T09:54:22.527136"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/9d9aab96/20230613_policies_digital-extraordinary-administrative-research-committee_list_14.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/9d9aab96/20230613_policies_digital-extraordinary-administrative-research-committee_list_14.pdf",
+    "timestamp": "2026-08-24T09:54:22.993741"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/24217e04-5169-44de-90fe-135b314e6d45/f733bb70/20230613_meeting_administrative_research_outline_17.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/24217e04-5169-44de-90fe-135b314e6d45/f733bb70/20230613_meeting_administrative_research_outline_17.pdf",
+    "timestamp": "2026-08-24T09:54:23.441931"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/4328c7fd/20230613_meeting_administrative_research_outline_15.pdf",
+    "error": "504 Server Error: Gateway Time-out for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/4328c7fd/20230613_meeting_administrative_research_outline_15.pdf",
+    "timestamp": "2026-08-24T09:54:33.630458"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/f1709e5a/20230825_policies_digital-extraordinary-administrative-research-committee_list_01.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/f1709e5a/20230825_policies_digital-extraordinary-administrative-research-committee_list_01.pdf",
+    "timestamp": "2026-08-24T09:54:33.820768"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/8f469664/20230913_policies_regtechconsortium_outline_01.pdf",
+    "error": "504 Server Error: Gateway Time-out for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/8f469664/20230913_policies_regtechconsortium_outline_01.pdf",
+    "timestamp": "2026-08-24T09:54:44.303502"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/d4e68a9b/20250619_resources_standard_guidelines_guideline_01.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/d4e68a9b/20250619_resources_standard_guidelines_guideline_01.pdf",
+    "timestamp": "2026-08-24T09:54:44.779162"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/573c839f/20250619_resources_standard_guidelines_guideline_03.pdf",
+    "error": "504 Server Error: Gateway Time-out for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/573c839f/20250619_resources_standard_guidelines_guideline_03.pdf",
+    "timestamp": "2026-08-24T09:54:55.267399"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/150a60b4/20220422_resources_standard_guidelines_guidebook_01.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/150a60b4/20220422_resources_standard_guidelines_guidebook_01.pdf",
+    "timestamp": "2026-08-24T09:54:55.742521"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/2c39df54/20250619_resources_standard_guidelines_glossary_01.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/2c39df54/20250619_resources_standard_guidelines_glossary_01.pdf",
+    "timestamp": "2026-08-24T09:54:56.204422"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/67d846da/20220509_resources_standard_guidelines_guideline_07.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/67d846da/20220509_resources_standard_guidelines_guideline_07.pdf",
+    "timestamp": "2026-08-24T09:54:56.662409"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/7e3e30b9/20240131_resources_standard_guidelines_guidelines_01.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/7e3e30b9/20240131_resources_standard_guidelines_guidelines_01.pdf",
+    "timestamp": "2026-08-24T09:54:57.117221"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/1b65a1dc/20230411_resources_standard_guidelines_guideline_01.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/1b65a1dc/20230411_resources_standard_guidelines_guideline_01.pdf",
+    "timestamp": "2026-08-24T09:54:57.601771"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/33f31336/20240329_resources_standard_guidelines_guideline_01.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/33f31336/20240329_resources_standard_guidelines_guideline_01.pdf",
+    "timestamp": "2026-08-24T09:54:58.073121"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/ac4b2432/20230714_policies_digital-extraordinary-administrative-research-committee_outline_01.pdf",
+    "error": "504 Server Error: Gateway Time-out for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/ac4b2432/20230714_policies_digital-extraordinary-administrative-research-committee_outline_01.pdf",
+    "timestamp": "2026-08-24T09:55:08.258607"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/2aa40167/20250630_resources_standard_guidelines_technical_report_02.pdf",
+    "error": "504 Server Error: Gateway Time-out for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/2aa40167/20250630_resources_standard_guidelines_technical_report_02.pdf",
+    "timestamp": "2026-08-24T09:55:18.727454"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a547f9a6/20250630_resources_standard_guidelines_technical_report_01.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a547f9a6/20250630_resources_standard_guidelines_technical_report_01.pdf",
+    "timestamp": "2026-08-24T09:55:19.349568"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/5efa5c3b/20220630_resources_standard_guidelines_guidelines_04.pdf",
+    "error": "504 Server Error: Gateway Time-out for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/5efa5c3b/20220630_resources_standard_guidelines_guidelines_04.pdf",
+    "timestamp": "2026-08-24T09:55:29.817622"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ef841b43/20240131_resources_standard_guidelines_guidelines_03.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ef841b43/20240131_resources_standard_guidelines_guidelines_03.pdf",
+    "timestamp": "2026-08-24T09:55:30.268726"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/e5b49450/20230411_resources_standard_guidelines_guideline_03.pdf",
+    "error": "504 Server Error: Gateway Time-out for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/e5b49450/20230411_resources_standard_guidelines_guideline_03.pdf",
+    "timestamp": "2026-08-24T09:55:40.723769"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/6cc40812/20230411_resources_standard_guidelines_glossary_01.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/6cc40812/20230411_resources_standard_guidelines_glossary_01.pdf",
+    "timestamp": "2026-08-24T09:55:41.175817"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a67d3e47/20230411_resources_standard_guidelines_glossary_02.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a67d3e47/20230411_resources_standard_guidelines_glossary_02.pdf",
+    "timestamp": "2026-08-24T09:55:41.636165"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a84dbb17/20230411_resources_standard_guidelines_guideline_05.pdf",
+    "error": "HTTPSConnectionPool(host='www.digital.go.jp', port=443): Read timed out. (read timeout=30)",
+    "timestamp": "2026-08-24T09:56:11.695384"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/7fefc9ee/20240206_resources_standard_guidelines_guidelines_01.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/7fefc9ee/20240206_resources_standard_guidelines_guidelines_01.pdf",
+    "timestamp": "2026-08-24T09:56:12.179572"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/9f746654/20230411_resources_standard_guidelines_guideline_07.pdf",
+    "error": "HTTPSConnectionPool(host='www.digital.go.jp', port=443): Read timed out. (read timeout=30)",
+    "timestamp": "2026-08-24T09:56:42.262780"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/0bb1ca1b/20250930_resources_standard_guideline_trustidentityoverview_01.pdf",
+    "error": "HTTPSConnectionPool(host='www.digital.go.jp', port=443): Read timed out. (read timeout=30)",
+    "timestamp": "2026-08-24T09:57:17.427400"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/de38e250/20230629_resources_standard_guidelines_outline_01.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/de38e250/20230629_resources_standard_guidelines_outline_01.pdf",
+    "timestamp": "2026-08-24T09:57:18.191971"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/d4b9a4a6/20250401_resources_standard_guidelines_outline_01.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/d4b9a4a6/20250401_resources_standard_guidelines_outline_01.pdf",
+    "timestamp": "2026-08-24T09:57:18.653652"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/c5eb2fcc/20240617_resources_standard_guidelines_glossary_01.pdf",
+    "error": "HTTPSConnectionPool(host='www.digital.go.jp', port=443): Read timed out. (read timeout=30)",
+    "timestamp": "2026-08-24T09:57:48.941254"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ae914e95/20230411_resources_standard_guidelines_glossary_03.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ae914e95/20230411_resources_standard_guidelines_glossary_03.pdf",
+    "timestamp": "2026-08-24T09:57:49.684186"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/37043d44/20251016_how_to_use_and_find_service_design_resources.pdf",
+    "error": "HTTPSConnectionPool(host='www.digital.go.jp', port=443): Read timed out. (read timeout=30)",
+    "timestamp": "2026-08-24T09:58:19.824836"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ae97c671/20250930_usability_guidelines.pdf",
+    "error": "HTTPSConnectionPool(host='www.digital.go.jp', port=443): Read timed out. (read timeout=30)",
+    "timestamp": "2026-08-24T09:58:49.994673"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/91365885/20251016_introduction_to_usability.pdf",
+    "error": "HTTPSConnectionPool(host='www.digital.go.jp', port=443): Read timed out. (read timeout=30)",
+    "timestamp": "2026-08-24T09:59:20.263418"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/6fdabcfb/20251016_web_accessibility_guide_for_public_relations.pdf",
+    "error": "HTTPSConnectionPool(host='www.digital.go.jp', port=443): Read timed out. (read timeout=30)",
+    "timestamp": "2026-08-24T09:59:50.367401"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ad6c9451/20251016_content_checklist_for_public_relations.pdf",
+    "error": "HTTPSConnectionPool(host='www.digital.go.jp', port=443): Read timed out. (read timeout=30)",
+    "timestamp": "2026-08-24T10:00:20.518982"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/80419aea/20250527_resources_standard_guidelines_guideline_01.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/80419aea/20250527_resources_standard_guidelines_guideline_01.pdf",
+    "timestamp": "2026-08-24T10:00:42.265718"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/56fe9fb8/20250527_resources_standard_guidelines_guideline_06.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/56fe9fb8/20250527_resources_standard_guidelines_guideline_06.pdf",
+    "timestamp": "2026-08-24T10:00:44.095195"
+  },
+  {
     "url": "https://www8.cao.go.jp/cstp/ai/yosan_8nendo_draft.pdf",
     "error": "404 Client Error: Not Found for url: https://www8.cao.go.jp/cstp/ai/yosan_8nendo_draft.pdf",
-    "timestamp": "2026-08-23T21:12:20.784040"
+    "timestamp": "2026-08-24T10:00:47.232133"
   },
   {
-    "url": "https://www8.cao.go.jp/cstp/togo/index.html",
-    "error": "404 Client Error: Not Found for url: https://www8.cao.go.jp/cstp/togo/index.html",
-    "timestamp": "2026-08-23T21:12:27.749662"
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/fc5cbe4a/20260224_resources_standard_guideline_trustidentityoverview_01.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/fc5cbe4a/20260224_resources_standard_guideline_trustidentityoverview_01.pdf",
+    "timestamp": "2026-08-24T10:00:47.467060"
   },
   {
-    "url": "https://www.meti.go.jp/shingikai/mono_info_service/digital_sangyo/index.html",
-    "error": "403 Client Error: Forbidden for url: https://www.meti.go.jp/shingikai/mono_info_service/digital_sangyo/index.html",
-    "timestamp": "2026-08-23T21:12:33.149109"
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a24cce33/20260224_resources_standard_guideline_identityverification_2.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a24cce33/20260224_resources_standard_guideline_identityverification_2.pdf",
+    "timestamp": "2026-08-24T10:00:48.816058"
   },
   {
-    "url": "https://www.meti.go.jp/policy/it_policy/dx/index.html",
-    "error": "403 Client Error: Forbidden for url: https://www.meti.go.jp/policy/it_policy/dx/index.html",
-    "timestamp": "2026-08-23T21:12:35.708527"
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/444f02f0/20260331_resources_standard_guidelines_technical_report_01.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/444f02f0/20260331_resources_standard_guidelines_technical_report_01.pdf",
+    "timestamp": "2026-08-24T10:00:49.043708"
   },
   {
-    "url": "https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_00002.html",
-    "error": "404 Client Error: Not Found for url: https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_00002.html",
-    "timestamp": "2026-08-23T21:12:39.467482"
+    "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/47764804/20260612_resources_standard_guidelines_guideline_04.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/47764804/20260612_resources_standard_guidelines_guideline_04.pdf",
+    "timestamp": "2026-08-24T10:00:56.232239"
   },
   {
-    "url": "https://cio.go.jp/",
-    "error": "HTTPSConnectionPool(host='cio.go.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='cio.go.jp', port=443): Failed to resolve 'cio.go.jp' ([Errno -2] Name or service not known)\"))",
-    "timestamp": "2026-08-23T21:12:42.725315"
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/50952dae/20260715_resources_standard_guidelines_guideline_03.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/50952dae/20260715_resources_standard_guidelines_guideline_03.pdf",
+    "timestamp": "2026-08-24T10:00:56.974470"
+  },
+  {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/816ebeda-f081-4b18-b593-20fd12eb19a9/109b2ba0/20260721_plan_for_development_and_improvement_of_public_basic_information_database_outline_01.pdf",
+    "error": "502 Server Error: Bad Gateway for url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/816ebeda-f081-4b18-b593-20fd12eb19a9/109b2ba0/20260721_plan_for_development_and_improvement_of_public_basic_information_database_outline_01.pdf",
+    "timestamp": "2026-08-24T10:00:58.640027"
   }
 ]

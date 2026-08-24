@@ -2,80 +2,104 @@
   "month": "2023-06",
   "keywords": [
     {
-      "term": "則 ",
-      "count": 702
+      "term": "改正",
+      "count": 835
     },
     {
-      "term": "省 ",
-      "count": 636
+      "term": "10",
+      "count": 663
     },
     {
-      "term": "達等",
-      "count": 575
+      "term": "ー共",
+      "count": 586
     },
     {
-      "term": "告示",
-      "count": 573
+      "term": "項 ",
+      "count": 553
     },
     {
       "term": "等 ",
       "count": 470
     },
     {
-      "term": "条の",
-      "count": 456
+      "term": "第4",
+      "count": 457
     },
     {
-      "term": "の2",
-      "count": 400
+      "term": "令改",
+      "count": 452
     },
     {
-      "term": "いる",
-      "count": 393
+      "term": "否 ",
+      "count": 438
+    },
+    {
+      "term": "点検対象",
+      "count": 387
     },
     {
       "term": "別表",
       "count": 378
     },
     {
-      "term": "所管省庁",
-      "count": 371
-    },
-    {
-      "term": "法令名",
+      "term": "等の",
       "count": 370
     },
     {
-      "term": "ー共",
-      "count": 361
+      "term": "に関",
+      "count": 346
     },
     {
-      "term": "の発",
+      "term": "厚生労働",
+      "count": 339
+    },
+    {
+      "term": "条の",
+      "count": 334
+    },
+    {
+      "term": "の2",
+      "count": 332
+    },
+    {
+      "term": "タル",
+      "count": 329
+    },
+    {
+      "term": "内容",
+      "count": 325
+    },
+    {
+      "term": "アナ",
+      "count": 322
+    },
+    {
+      "term": "項第",
       "count": 320
     },
     {
-      "term": "概要",
-      "count": 311
+      "term": "知通",
+      "count": 316
     },
     {
-      "term": "11",
-      "count": 308
+      "term": "は改正",
+      "count": 314
     },
     {
-      "term": "とを確認",
+      "term": "通達等",
       "count": 306
     },
     {
-      "term": "則適合性",
-      "count": 303
+      "term": "とも",
+      "count": 305
     },
     {
-      "term": "目視",
-      "count": 281
+      "term": "分類",
+      "count": 285
     },
     {
-      "term": "和６",
-      "count": 273
+      "term": "さずとも",
+      "count": 277
     },
     {
       "term": "表１",
@@ -83,123 +107,99 @@
     },
     {
       "term": "る法",
-      "count": 266
+      "count": 269
     },
     {
-      "term": "法令",
-      "count": 253
-    },
-    {
-      "term": "し完",
-      "count": 251
-    },
-    {
-      "term": "新規",
-      "count": 246
-    },
-    {
-      "term": "基準",
+      "term": "令和",
       "count": 242
     },
     {
-      "term": "行政",
-      "count": 212
+      "term": "に関する",
+      "count": 231
+    },
+    {
+      "term": "容概",
+      "count": 226
     },
     {
       "term": "省令",
-      "count": 208
-    },
-    {
-      "term": "見直後",
-      "count": 205
-    },
-    {
-      "term": "関係",
-      "count": 202
-    },
-    {
-      "term": "発出",
-      "count": 201
-    },
-    {
-      "term": "にお",
-      "count": 199
-    },
-    {
-      "term": "厚生",
-      "count": 197
-    },
-    {
-      "term": "の3",
-      "count": 191
-    },
-    {
-      "term": "する法律",
-      "count": 187
-    },
-    {
-      "term": "項目のア",
-      "count": 187
-    },
-    {
-      "term": "登録",
-      "count": 187
-    },
-    {
-      "term": "現在",
-      "count": 182
-    },
-    {
-      "term": "要さ",
-      "count": 177
+      "count": 222
     },
     {
       "term": "見直",
-      "count": 173
+      "count": 220
     },
     {
-      "term": "は３",
+      "term": "規制等の",
+      "count": 215
+    },
+    {
+      "term": "業者",
+      "count": 214
+    },
+    {
+      "term": "産業",
+      "count": 214
+    },
+    {
+      "term": "目視規制",
+      "count": 212
+    },
+    {
+      "term": "no",
+      "count": 211
+    },
+    {
+      "term": "業省",
+      "count": 196
+    },
+    {
+      "term": "交通",
+      "count": 186
+    },
+    {
+      "term": "項の",
+      "count": 182
+    },
+    {
+      "term": "る省",
+      "count": 181
+    },
+    {
+      "term": "目視",
+      "count": 181
+    },
+    {
+      "term": "記録媒体",
+      "count": 179
+    },
+    {
+      "term": "の一",
+      "count": 178
+    },
+    {
+      "term": "が確保で",
+      "count": 176
+    },
+    {
+      "term": "和５",
       "count": 172
     },
     {
-      "term": "直し",
-      "count": 170
+      "term": "経済",
+      "count": 171
     },
     {
-      "term": "の保",
-      "count": 165
+      "term": "事業",
+      "count": 163
     },
     {
-      "term": "視ー",
-      "count": 162
+      "term": "しの",
+      "count": 161
     },
     {
-      "term": "を確",
+      "term": "時期",
       "count": 160
-    },
-    {
-      "term": "国土交通",
-      "count": 160
-    },
-    {
-      "term": "済 ",
-      "count": 154
-    },
-    {
-      "term": "る ",
-      "count": 154
-    },
-    {
-      "term": "型 ",
-      "count": 151
-    },
-    {
-      "term": "規則",
-      "count": 150
-    },
-    {
-      "term": "録媒",
-      "count": 146
     }
   ],
   "meetings": [

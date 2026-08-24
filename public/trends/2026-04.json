@@ -2,7 +2,19 @@
   "month": "2026-04",
   "keywords": [
     {
-      "term": "面施",
+      "term": "タル",
+      "count": 2
+    },
+    {
+      "term": "困難",
+      "count": 2
+    },
+    {
+      "term": "知能",
+      "count": 2
+    },
+    {
+      "term": "の促",
       "count": 2
     },
     {
@@ -10,107 +22,27 @@
       "count": 2
     },
     {
-      "term": "個々",
+      "term": "るａ",
       "count": 2
     },
     {
-      "term": "係す",
+      "term": "テム",
       "count": 2
     },
     {
-      "term": "運営",
+      "term": "を総合的",
       "count": 2
     },
     {
-      "term": "基盤",
+      "term": "分類",
       "count": 2
     },
     {
-      "term": "ク対",
+      "term": "に含",
       "count": 2
     },
     {
-      "term": "む ",
-      "count": 1
-    },
-    {
-      "term": "や医療従",
-      "count": 1
-    },
-    {
-      "term": "農約",
-      "count": 1
-    },
-    {
-      "term": "の人材開",
-      "count": 1
-    },
-    {
-      "term": "法に基づ",
-      "count": 1
-    },
-    {
-      "term": "の特",
-      "count": 1
-    },
-    {
-      "term": "と協働す",
-      "count": 1
-    },
-    {
-      "term": "いた",
-      "count": 1
-    },
-    {
-      "term": "フィジカ",
-      "count": 1
-    },
-    {
-      "term": "び在職者",
-      "count": 1
-    },
-    {
-      "term": "確保のた",
-      "count": 1
-    },
-    {
-      "term": "訓練",
-      "count": 1
-    },
-    {
-      "term": "ハイ",
-      "count": 1
-    },
-    {
-      "term": "11",
-      "count": 1
-    },
-    {
-      "term": "発共",
-      "count": 1
-    },
-    {
-      "term": "ドu",
-      "count": 1
-    },
-    {
-      "term": "科学",
-      "count": 1
-    },
-    {
-      "term": "療従",
-      "count": 1
-    },
-    {
-      "term": "の研究開",
-      "count": 1
-    },
-    {
-      "term": "マー",
-      "count": 1
-    },
-    {
-      "term": "次世",
+      "term": "対す",
       "count": 1
     },
     {
@@ -118,79 +50,35 @@
       "count": 1
     },
     {
-      "term": "動地",
+      "term": "ーマ",
       "count": 1
     },
     {
-      "term": "軽減",
+      "term": "施 ",
       "count": 1
     },
     {
-      "term": "能力",
+      "term": "進文",
       "count": 1
     },
     {
-      "term": "築文",
+      "term": "者及",
       "count": 1
     },
     {
-      "term": "た意",
+      "term": "ュー",
       "count": 1
     },
     {
-      "term": "の製",
+      "term": "新内",
       "count": 1
     },
     {
-      "term": "ック",
+      "term": "導体",
       "count": 1
     },
     {
-      "term": "関係",
-      "count": 1
-    },
-    {
-      "term": "充実",
-      "count": 1
-    },
-    {
-      "term": "化文",
-      "count": 1
-    },
-    {
-      "term": "助成",
-      "count": 1
-    },
-    {
-      "term": "する場合",
-      "count": 1
-    },
-    {
-      "term": "薬タ",
-      "count": 1
-    },
-    {
-      "term": "議決",
-      "count": 1
-    },
-    {
-      "term": "ンピ",
-      "count": 1
-    },
-    {
-      "term": "イノ",
-      "count": 1
-    },
-    {
-      "term": "タ活",
-      "count": 1
-    },
-    {
-      "term": "性向",
-      "count": 1
-    },
-    {
-      "term": "信基",
+      "term": "練 ",
       "count": 1
     },
     {
@@ -198,7 +86,119 @@
       "count": 1
     },
     {
-      "term": "年1",
+      "term": "従事",
+      "count": 1
+    },
+    {
+      "term": "営の",
+      "count": 1
+    },
+    {
+      "term": "ーワ",
+      "count": 1
+    },
+    {
+      "term": "むデ",
+      "count": 1
+    },
+    {
+      "term": "新防",
+      "count": 1
+    },
+    {
+      "term": "材開",
+      "count": 1
+    },
+    {
+      "term": "ゲット予",
+      "count": 1
+    },
+    {
+      "term": "クノ",
+      "count": 1
+    },
+    {
+      "term": "きな",
+      "count": 1
+    },
+    {
+      "term": "進ａ",
+      "count": 1
+    },
+    {
+      "term": "国約",
+      "count": 1
+    },
+    {
+      "term": "革新的ハ",
+      "count": 1
+    },
+    {
+      "term": "たマ",
+      "count": 1
+    },
+    {
+      "term": "たプログ",
+      "count": 1
+    },
+    {
+      "term": "構築",
+      "count": 1
+    },
+    {
+      "term": "実に",
+      "count": 1
+    },
+    {
+      "term": "索ａ",
+      "count": 1
+    },
+    {
+      "term": "成立",
+      "count": 1
+    },
+    {
+      "term": "盤b",
+      "count": 1
+    },
+    {
+      "term": "な施",
+      "count": 1
+    },
+    {
+      "term": "成確",
+      "count": 1
+    },
+    {
+      "term": "発共",
+      "count": 1
+    },
+    {
+      "term": "モーダル",
+      "count": 1
+    },
+    {
+      "term": "ゲッ",
+      "count": 1
+    },
+    {
+      "term": "一部",
+      "count": 1
+    },
+    {
+      "term": "約５",
+      "count": 1
+    },
+    {
+      "term": "に関する",
+      "count": 1
+    },
+    {
+      "term": "複数",
+      "count": 1
+    },
+    {
+      "term": "続的",
       "count": 1
     }
   ],
