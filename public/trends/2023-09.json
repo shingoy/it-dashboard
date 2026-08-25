@@ -2,67 +2,35 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "タロ",
+      "term": "機関",
       "count": 3
     },
     {
-      "term": "連携",
+      "term": "や技",
       "count": 3
     },
     {
-      "term": "化 ",
+      "term": "に対",
       "count": 3
     },
     {
-      "term": "加を",
+      "term": "見直",
+      "count": 3
+    },
+    {
+      "term": "て周知",
       "count": 2
     },
     {
-      "term": "の提",
+      "term": "期待",
       "count": 2
     },
     {
-      "term": "バックと",
+      "term": "して",
       "count": 2
     },
     {
-      "term": "ック",
-      "count": 2
-    },
-    {
-      "term": "ける",
-      "count": 2
-    },
-    {
-      "term": "団体",
-      "count": 2
-    },
-    {
-      "term": "ムや",
-      "count": 2
-    },
-    {
-      "term": "に対して",
-      "count": 2
-    },
-    {
-      "term": "所管",
-      "count": 2
-    },
-    {
-      "term": "regtech",
-      "count": 2
-    },
-    {
-      "term": "day",
-      "count": 2
-    },
-    {
-      "term": "ーシアム",
-      "count": 2
-    },
-    {
-      "term": "目的",
+      "term": "を目",
       "count": 2
     },
     {
@@ -70,51 +38,31 @@
       "count": 2
     },
     {
-      "term": "コンソー",
+      "term": "加呼",
       "count": 2
     },
     {
-      "term": "規制対象",
+      "term": "加を",
       "count": 2
     },
     {
-      "term": "果等",
+      "term": "のフ",
       "count": 2
     },
     {
-      "term": "ピッチコ",
+      "term": "る課",
       "count": 2
     },
     {
-      "term": "まえた規",
+      "term": "体会",
       "count": 2
     },
     {
-      "term": "ウム",
+      "term": "10",
       "count": 2
     },
     {
-      "term": "広く発信",
-      "count": 2
-    },
-    {
-      "term": "シンポジ",
-      "count": 2
-    },
-    {
-      "term": "技術の",
-      "count": 2
-    },
-    {
-      "term": "じた",
-      "count": 2
-    },
-    {
-      "term": "況を把握",
-      "count": 2
-    },
-    {
-      "term": "アドバイ",
+      "term": "シア",
       "count": 2
     },
     {
@@ -122,15 +70,15 @@
       "count": 2
     },
     {
-      "term": "築 ",
+      "term": "を通じた",
       "count": 2
     },
     {
-      "term": "スや",
+      "term": "成果を踏",
       "count": 2
     },
     {
-      "term": "まえ",
+      "term": "術検",
       "count": 2
     },
     {
@@ -138,55 +86,43 @@
       "count": 2
     },
     {
-      "term": "イメ",
+      "term": "の結",
       "count": 2
     },
     {
-      "term": "しど",
+      "term": "握 ",
+      "count": 2
+    },
+    {
+      "term": "活用",
+      "count": 2
+    },
+    {
+      "term": "に ",
+      "count": 2
+    },
+    {
+      "term": "グに",
+      "count": 2
+    },
+    {
+      "term": "開催",
+      "count": 2
+    },
+    {
+      "term": "在す",
       "count": 1
     },
     {
-      "term": "に期",
+      "term": "本ベ",
       "count": 1
     },
     {
-      "term": "体的",
+      "term": "規制見直",
       "count": 1
     },
     {
-      "term": "クノロジ",
-      "count": 1
-    },
-    {
-      "term": "の位",
-      "count": 1
-    },
-    {
-      "term": "タログ等",
-      "count": 1
-    },
-    {
-      "term": "スタート",
-      "count": 1
-    },
-    {
-      "term": "う関",
-      "count": 1
-    },
-    {
-      "term": "シアムへ",
-      "count": 1
-    },
-    {
-      "term": "体 ",
-      "count": 1
-    },
-    {
-      "term": "用可能な",
-      "count": 1
-    },
-    {
-      "term": "ムを",
+      "term": "等関",
       "count": 1
     },
     {
@@ -194,11 +130,75 @@
       "count": 1
     },
     {
-      "term": "関が",
+      "term": "業に",
       "count": 1
     },
     {
-      "term": "シアムの",
+      "term": "案提",
+      "count": 1
+    },
+    {
+      "term": "なる",
+      "count": 1
+    },
+    {
+      "term": "る大",
+      "count": 1
+    },
+    {
+      "term": "業や",
+      "count": 1
+    },
+    {
+      "term": "ケジ",
+      "count": 1
+    },
+    {
+      "term": "に活",
+      "count": 1
+    },
+    {
+      "term": "営開",
+      "count": 1
+    },
+    {
+      "term": "での",
+      "count": 1
+    },
+    {
+      "term": "しつ",
+      "count": 1
+    },
+    {
+      "term": "る向",
+      "count": 1
+    },
+    {
+      "term": "を有",
+      "count": 1
+    },
+    {
+      "term": "の連携を",
+      "count": 1
+    },
+    {
+      "term": "ート",
+      "count": 1
+    },
+    {
+      "term": "続的",
+      "count": 1
+    },
+    {
+      "term": "等を継続",
+      "count": 1
+    },
+    {
+      "term": "検討等を",
+      "count": 1
+    },
+    {
+      "term": "を高",
       "count": 1
     }
   ],
