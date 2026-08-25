@@ -2,15 +2,19 @@
   "month": "2026-02",
   "keywords": [
     {
-      "term": "な施策を",
+      "term": "厚な",
       "count": 2
     },
     {
-      "term": "主な",
+      "term": "事業費の",
       "count": 2
     },
     {
-      "term": "ル分",
+      "term": "実施",
+      "count": 2
+    },
+    {
+      "term": "注３",
       "count": 2
     },
     {
@@ -18,115 +22,83 @@
       "count": 2
     },
     {
-      "term": "離職者及",
+      "term": "材開",
       "count": 2
     },
     {
-      "term": "四捨",
+      "term": "研究",
       "count": 2
     },
     {
-      "term": "に含まず",
+      "term": "複数の方",
       "count": 2
     },
     {
-      "term": "ムの",
+      "term": "ほか",
       "count": 2
     },
     {
-      "term": "び在職者",
+      "term": "分野",
       "count": 2
     },
     {
-      "term": "予算は四",
+      "term": "基本計画",
       "count": 2
     },
     {
-      "term": "関係",
+      "term": "困難な施",
       "count": 2
     },
     {
-      "term": "盤モ",
+      "term": "令和",
       "count": 2
     },
     {
-      "term": "出困",
+      "term": "成に",
       "count": 2
     },
     {
-      "term": "定は",
-      "count": 2
-    },
-    {
-      "term": "いて離職",
-      "count": 2
-    },
-    {
-      "term": "策も",
-      "count": 2
-    },
-    {
-      "term": "の人材開",
-      "count": 2
-    },
-    {
-      "term": "業向",
-      "count": 2
-    },
-    {
-      "term": "に関",
-      "count": 2
-    },
-    {
-      "term": "に向",
-      "count": 2
-    },
-    {
-      "term": "業経",
+      "term": "ーワ",
       "count": 1
     },
     {
-      "term": "の積",
+      "term": "びシステ",
       "count": 1
     },
     {
-      "term": "連携型",
+      "term": "算案",
       "count": 1
     },
     {
-      "term": "調査",
+      "term": "事者の負",
       "count": 1
     },
     {
-      "term": "ル構築の",
+      "term": "クノロジ",
       "count": 1
     },
     {
-      "term": "フラ",
+      "term": "ルの",
       "count": 1
     },
     {
-      "term": "める",
+      "term": "経や",
       "count": 1
     },
     {
-      "term": "減 ",
+      "term": "に繋",
       "count": 1
     },
     {
-      "term": "進国",
+      "term": "に基",
       "count": 1
     },
     {
-      "term": "を創る",
+      "term": "や介護テ",
       "count": 1
     },
     {
-      "term": "ークサー",
-      "count": 1
-    },
-    {
-      "term": "5g",
+      "term": "の開発等",
       "count": 1
     },
     {
@@ -134,55 +106,11 @@
       "count": 1
     },
     {
-      "term": "ル構",
+      "term": "ルａ",
       "count": 1
     },
     {
-      "term": "ターミナ",
-      "count": 1
-    },
-    {
-      "term": "フィジカ",
-      "count": 1
-    },
-    {
-      "term": "実に",
-      "count": 1
-    },
-    {
-      "term": "438",
-      "count": 1
-    },
-    {
-      "term": "使う",
-      "count": 1
-    },
-    {
-      "term": "繋げ",
-      "count": 1
-    },
-    {
-      "term": "開発等",
-      "count": 1
-    },
-    {
-      "term": "案額",
-      "count": 1
-    },
-    {
-      "term": "ター",
-      "count": 1
-    },
-    {
-      "term": "ロジ",
-      "count": 1
-    },
-    {
-      "term": "進ａ",
-      "count": 1
-    },
-    {
-      "term": "ロー",
+      "term": "対処能力",
       "count": 1
     },
     {
@@ -190,15 +118,87 @@
       "count": 1
     },
     {
-      "term": "新経",
+      "term": "権制",
       "count": 1
     },
     {
-      "term": "発事業",
+      "term": "た研究開",
       "count": 1
     },
     {
-      "term": "車両",
+      "term": "連携",
+      "count": 1
+    },
+    {
+      "term": "建設",
+      "count": 1
+    },
+    {
+      "term": "透明",
+      "count": 1
+    },
+    {
+      "term": "約２",
+      "count": 1
+    },
+    {
+      "term": "ック",
+      "count": 1
+    },
+    {
+      "term": "フィジカ",
+      "count": 1
+    },
+    {
+      "term": "027",
+      "count": 1
+    },
+    {
+      "term": "を高",
+      "count": 1
+    },
+    {
+      "term": "迅速",
+      "count": 1
+    },
+    {
+      "term": "担軽",
+      "count": 1
+    },
+    {
+      "term": "性を",
+      "count": 1
+    },
+    {
+      "term": "強化",
+      "count": 1
+    },
+    {
+      "term": "介護",
+      "count": 1
+    },
+    {
+      "term": "けた継続",
+      "count": 1
+    },
+    {
+      "term": "の育",
+      "count": 1
+    },
+    {
+      "term": "ルチ",
+      "count": 1
+    },
+    {
+      "term": "度運",
+      "count": 1
+    },
+    {
+      "term": "人材の育",
+      "count": 1
+    },
+    {
+      "term": "る ",
       "count": 1
     }
   ],
