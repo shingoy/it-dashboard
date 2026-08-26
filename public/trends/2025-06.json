@@ -2,63 +2,47 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "る ",
-      "count": 28
+      "term": "成果",
+      "count": 20
     },
     {
-      "term": "して",
-      "count": 27
+      "term": "保護",
+      "count": 18
     },
     {
-      "term": "では",
-      "count": 19
+      "term": "ージ",
+      "count": 18
     },
     {
-      "term": "actions",
+      "term": "ェー",
       "count": 17
     },
     {
-      "term": "実行",
+      "term": "によ",
       "count": 16
     },
     {
-      "term": "なる",
-      "count": 15
+      "term": "これ",
+      "count": 16
     },
     {
-      "term": "での",
-      "count": 14
-    },
-    {
-      "term": "ラッ",
-      "count": 14
-    },
-    {
-      "term": "全性",
-      "count": 14
-    },
-    {
-      "term": "の成",
+      "term": "場合",
       "count": 13
     },
     {
-      "term": "id",
-      "count": 13
-    },
-    {
-      "term": "ント",
-      "count": 12
-    },
-    {
-      "term": "安全",
-      "count": 12
-    },
-    {
-      "term": "いて",
+      "term": "ティ",
       "count": 11
     },
     {
-      "term": "考え",
+      "term": "とす",
+      "count": 11
+    },
+    {
+      "term": "につ",
+      "count": 11
+    },
+    {
+      "term": "のc",
       "count": 11
     },
     {
@@ -66,7 +50,7 @@
       "count": 10
     },
     {
-      "term": "10",
+      "term": "制限",
       "count": 10
     },
     {
@@ -74,131 +58,147 @@
       "count": 10
     },
     {
-      "term": "name",
+      "term": "com",
       "count": 10
     },
     {
-      "term": "パイプラ",
+      "term": "理を",
       "count": 9
     },
     {
-      "term": "に ",
-      "count": 9
-    },
-    {
-      "term": "イル",
-      "count": 9
-    },
-    {
-      "term": "に対",
-      "count": 9
-    },
-    {
-      "term": "ては",
-      "count": 9
-    },
-    {
-      "term": "フェーズ",
+      "term": "ソースコ",
       "count": 8
     },
     {
-      "term": "書で",
+      "term": "また",
       "count": 8
     },
     {
-      "term": "なお",
+      "term": "らの",
       "count": 8
     },
     {
-      "term": "定の",
+      "term": "env",
       "count": 8
+    },
+    {
+      "term": "デリバリ",
+      "count": 7
+    },
+    {
+      "term": "17",
+      "count": 7
+    },
+    {
+      "term": "plan",
+      "count": 7
+    },
+    {
+      "term": "定義",
+      "count": 7
     },
     {
       "term": "を実",
-      "count": 8
-    },
-    {
-      "term": "commit",
-      "count": 8
-    },
-    {
-      "term": "run",
-      "count": 8
-    },
-    {
-      "term": "指定",
-      "count": 8
-    },
-    {
-      "term": "json",
-      "count": 8
-    },
-    {
-      "term": "キー",
       "count": 7
     },
     {
-      "term": "リポジト",
+      "term": "きる",
       "count": 7
     },
     {
-      "term": "digest",
+      "term": "yml",
       "count": 7
     },
     {
-      "term": "仕組",
+      "term": "組み",
       "count": 7
     },
     {
-      "term": "ナイ",
+      "term": "type",
       "count": 7
     },
     {
-      "term": "ート",
+      "term": "の保護",
       "count": 6
     },
     {
-      "term": "ンに",
+      "term": "特有",
       "count": 6
     },
     {
-      "term": "セキ",
+      "term": "の署",
       "count": 6
     },
     {
-      "term": "ステ",
+      "term": "はプ",
       "count": 6
     },
     {
-      "term": "たが",
+      "term": "完全",
       "count": 6
     },
     {
-      "term": "ムは",
+      "term": "は ",
       "count": 6
     },
     {
-      "term": "カウ",
+      "term": "steps",
       "count": 6
     },
     {
-      "term": "は３",
-      "count": 6
-    },
-    {
-      "term": "この",
-      "count": 6
-    },
-    {
-      "term": "はパ",
-      "count": 6
-    },
-    {
-      "term": "シス",
+      "term": "産管",
       "count": 5
     },
     {
-      "term": "公式",
+      "term": "運用保守",
+      "count": 5
+    },
+    {
+      "term": "つい",
+      "count": 5
+    },
+    {
+      "term": "ブラ",
+      "count": 5
+    },
+    {
+      "term": "26",
+      "count": 5
+    },
+    {
+      "term": "活用",
+      "count": 5
+    },
+    {
+      "term": "体的には",
+      "count": 5
+    },
+    {
+      "term": "を検",
+      "count": 5
+    },
+    {
+      "term": "上の",
+      "count": 5
+    },
+    {
+      "term": "り ",
+      "count": 5
+    },
+    {
+      "term": "となる",
+      "count": 5
+    },
+    {
+      "term": "判断",
+      "count": 5
+    },
+    {
+      "term": "行す",
+      "count": 5
+    },
+    {
+      "term": "るため",
       "count": 5
     }
   ],
