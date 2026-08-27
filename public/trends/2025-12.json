@@ -2,127 +2,91 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "グ ",
+      "term": "ドラ",
       "count": 2
     },
     {
-      "term": "デジ",
+      "term": "総次",
       "count": 2
     },
     {
-      "term": "上の",
+      "term": "模オ",
       "count": 2
     },
     {
-      "term": "化 ",
+      "term": "ウド",
       "count": 2
     },
     {
-      "term": "ティ",
+      "term": "びａ",
       "count": 2
     },
     {
-      "term": "によ",
+      "term": "革新",
       "count": 2
     },
     {
-      "term": "ブル等の",
-      "count": 2
-    },
-    {
-      "term": "主導",
-      "count": 2
-    },
-    {
-      "term": "beyond",
-      "count": 2
-    },
-    {
-      "term": "は予",
+      "term": "える",
       "count": 1
     },
     {
-      "term": "ト開",
+      "term": "成立",
       "count": 1
     },
     {
-      "term": "活用",
+      "term": "両立",
       "count": 1
     },
     {
-      "term": "デジタル",
+      "term": "装の",
       "count": 1
     },
     {
-      "term": "機関の生",
+      "term": "を活",
       "count": 1
     },
     {
-      "term": "トａ",
+      "term": "犯罪",
       "count": 1
     },
     {
-      "term": "内国",
+      "term": "罪グルー",
       "count": 1
     },
     {
-      "term": "働す",
+      "term": "針に分類",
       "count": 1
     },
     {
-      "term": "を踏",
+      "term": "し分",
       "count": 1
     },
     {
-      "term": "外日",
+      "term": "に係る調",
       "count": 1
     },
     {
-      "term": "決定",
+      "term": "の戦",
       "count": 1
     },
     {
-      "term": "場合",
+      "term": "法令",
       "count": 1
     },
     {
-      "term": "み増",
+      "term": "業の",
       "count": 1
     },
     {
-      "term": "けた継続",
+      "term": "ープ",
       "count": 1
     },
     {
-      "term": "入した額",
+      "term": "クノ",
       "count": 1
     },
     {
-      "term": "ず ",
-      "count": 1
-    },
-    {
-      "term": "デガ",
-      "count": 1
-    },
-    {
-      "term": "に係",
-      "count": 1
-    },
-    {
-      "term": "グの",
-      "count": 1
-    },
-    {
-      "term": "基本",
-      "count": 1
-    },
-    {
-      "term": "場の",
-      "count": 1
-    },
-    {
-      "term": "605",
+      "term": "令和",
       "count": 1
     },
     {
@@ -130,67 +94,39 @@
       "count": 1
     },
     {
-      "term": "利用に関",
+      "term": "策を",
       "count": 1
     },
     {
-      "term": "立に",
+      "term": "ニーズに",
       "count": 1
     },
     {
-      "term": "算 ",
+      "term": "ー導",
       "count": 1
     },
     {
-      "term": "基金の積",
+      "term": "基本計画",
       "count": 1
     },
     {
-      "term": "につ",
+      "term": "供給加速",
       "count": 1
     },
     {
-      "term": "の形",
+      "term": "イノベー",
       "count": 1
     },
     {
-      "term": "等 ",
+      "term": "の労働生",
       "count": 1
     },
     {
-      "term": "抽出",
+      "term": "五入",
       "count": 1
     },
     {
-      "term": "業技",
-      "count": 1
-    },
-    {
-      "term": "た匿",
-      "count": 1
-    },
-    {
-      "term": "注３",
-      "count": 1
-    },
-    {
-      "term": "ーシ",
-      "count": 1
-    },
-    {
-      "term": "マン",
-      "count": 1
-    },
-    {
-      "term": "を実",
-      "count": 1
-    },
-    {
-      "term": "バナ",
-      "count": 1
-    },
-    {
-      "term": "開発力の",
+      "term": "基盤",
       "count": 1
     },
     {
@@ -198,7 +134,71 @@
       "count": 1
     },
     {
-      "term": "造業",
+      "term": "動型",
+      "count": 1
+    },
+    {
+      "term": "ーテ",
+      "count": 1
+    },
+    {
+      "term": "リン",
+      "count": 1
+    },
+    {
+      "term": "支援",
+      "count": 1
+    },
+    {
+      "term": "部等",
+      "count": 1
+    },
+    {
+      "term": "的強",
+      "count": 1
+    },
+    {
+      "term": "が深",
+      "count": 1
+    },
+    {
+      "term": "援に",
+      "count": 1
+    },
+    {
+      "term": "を踏まえ",
+      "count": 1
+    },
+    {
+      "term": "ナン",
+      "count": 1
+    },
+    {
+      "term": "おけ",
+      "count": 1
+    },
+    {
+      "term": "ションの",
+      "count": 1
+    },
+    {
+      "term": "ブル等の",
+      "count": 1
+    },
+    {
+      "term": "ンピ",
+      "count": 1
+    },
+    {
+      "term": "ーバ",
+      "count": 1
+    },
+    {
+      "term": "オー",
+      "count": 1
+    },
+    {
+      "term": "によ",
       "count": 1
     }
   ],
