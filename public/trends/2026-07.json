@@ -2,111 +2,75 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "令和",
-      "count": 20
+      "term": "デジ",
+      "count": 22
     },
     {
       "term": "ベース",
       "count": 19
     },
     {
-      "term": "の効",
-      "count": 18
+      "term": "を行",
+      "count": 19
     },
     {
-      "term": "動産",
+      "term": "行政機関",
       "count": 17
     },
     {
-      "term": "報を",
+      "term": "便性",
       "count": 17
     },
     {
-      "term": "るた",
-      "count": 16
+      "term": "不動産登",
+      "count": 15
     },
     {
-      "term": "事項",
+      "term": "係デ",
       "count": 14
     },
     {
-      "term": "申請",
+      "term": "タを",
       "count": 14
     },
     {
-      "term": "政推",
+      "term": "課題",
       "count": 13
     },
     {
-      "term": "に ",
+      "term": "管理",
       "count": 13
+    },
+    {
+      "term": "条第",
+      "count": 12
     },
     {
       "term": "第２",
-      "count": 12
-    },
-    {
-      "term": "られ",
-      "count": 12
-    },
-    {
-      "term": "法令",
       "count": 11
     },
     {
-      "term": "とは",
+      "term": "において",
       "count": 11
     },
     {
-      "term": "であ",
-      "count": 11
-    },
-    {
-      "term": "負担",
-      "count": 11
-    },
-    {
-      "term": "存在",
-      "count": 11
-    },
-    {
-      "term": "る法",
+      "term": "要 ",
       "count": 10
     },
     {
-      "term": "すること",
+      "term": "もに",
       "count": 10
     },
     {
-      "term": "化し",
+      "term": "備及",
       "count": 9
     },
     {
-      "term": "めの",
+      "term": "まで",
       "count": 9
     },
     {
-      "term": "おけ",
-      "count": 9
-    },
-    {
-      "term": "基盤",
-      "count": 9
-    },
-    {
-      "term": "も ",
-      "count": 9
-    },
-    {
-      "term": "団体",
-      "count": 9
-    },
-    {
-      "term": "データを",
-      "count": 9
-    },
-    {
-      "term": "タ連",
+      "term": "号イ",
       "count": 9
     },
     {
@@ -114,15 +78,15 @@
       "count": 9
     },
     {
+      "term": "所有",
+      "count": 8
+    },
+    {
       "term": "23",
       "count": 8
     },
     {
-      "term": "時期",
-      "count": 8
-    },
-    {
-      "term": "なデ",
+      "term": "処理",
       "count": 8
     },
     {
@@ -130,59 +94,63 @@
       "count": 8
     },
     {
-      "term": "用者",
+      "term": "和 ",
       "count": 8
     },
     {
-      "term": "入力",
+      "term": "や ",
       "count": 8
     },
     {
-      "term": "を踏まえ",
+      "term": "状況",
       "count": 7
     },
     {
-      "term": "所在",
+      "term": "21",
       "count": 7
     },
     {
-      "term": "るも",
-      "count": 7
-    },
-    {
-      "term": "便性",
-      "count": 7
-    },
-    {
-      "term": "明書",
-      "count": 7
-    },
-    {
-      "term": "の入",
-      "count": 7
-    },
-    {
-      "term": "たデ",
-      "count": 7
-    },
-    {
-      "term": "った",
-      "count": 7
-    },
-    {
-      "term": "横断",
+      "term": "地図情報",
       "count": 6
     },
     {
-      "term": "又は",
+      "term": "面情",
       "count": 6
     },
     {
-      "term": "次期",
+      "term": "地関",
       "count": 6
     },
     {
-      "term": "度に",
+      "term": "た登",
+      "count": 6
+    },
+    {
+      "term": "スの",
+      "count": 6
+    },
+    {
+      "term": "法 ",
+      "count": 6
+    },
+    {
+      "term": "ニー",
+      "count": 6
+    },
+    {
+      "term": "体で",
+      "count": 6
+    },
+    {
+      "term": "るよ",
+      "count": 6
+    },
+    {
+      "term": "ついては",
+      "count": 6
+    },
+    {
+      "term": "うこ",
       "count": 6
     },
     {
@@ -190,15 +158,47 @@
       "count": 6
     },
     {
-      "term": "タセ",
+      "term": "組を",
       "count": 5
     },
     {
-      "term": "の利用",
+      "term": "連携",
       "count": 5
     },
     {
-      "term": "の総",
+      "term": "動産",
+      "count": 5
+    },
+    {
+      "term": "ス ",
+      "count": 5
+    },
+    {
+      "term": "状の",
+      "count": 5
+    },
+    {
+      "term": "用可",
+      "count": 5
+    },
+    {
+      "term": "現可",
+      "count": 5
+    },
+    {
+      "term": "れに",
+      "count": 5
+    },
+    {
+      "term": "リとして",
+      "count": 5
+    },
+    {
+      "term": "を所",
+      "count": 5
+    },
+    {
+      "term": "けて",
       "count": 5
     }
   ],
