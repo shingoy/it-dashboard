@@ -2,163 +2,127 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "管理",
-      "count": 20
+      "term": "こと",
+      "count": 25
     },
     {
-      "term": "ファ",
-      "count": 20
-    },
-    {
-      "term": "ルド",
-      "count": 19
-    },
-    {
-      "term": "保護",
-      "count": 18
-    },
-    {
-      "term": "設定",
-      "count": 16
-    },
-    {
-      "term": "フォ",
-      "count": 15
-    },
-    {
-      "term": "署名",
-      "count": 15
-    },
-    {
-      "term": "性の",
-      "count": 14
-    },
-    {
-      "term": "ツー",
-      "count": 14
-    },
-    {
-      "term": "中略",
-      "count": 14
-    },
-    {
-      "term": "イメ",
-      "count": 13
-    },
-    {
-      "term": "生成",
-      "count": 13
-    },
-    {
-      "term": "コン",
-      "count": 11
-    },
-    {
-      "term": "ビルドフ",
-      "count": 10
-    },
-    {
-      "term": "レッ",
-      "count": 10
-    },
-    {
-      "term": "を用",
-      "count": 10
-    },
-    {
-      "term": "内で",
-      "count": 10
-    },
-    {
-      "term": "この",
-      "count": 10
-    },
-    {
-      "term": "name",
-      "count": 10
-    },
-    {
-      "term": "ubuntu",
-      "count": 10
-    },
-    {
-      "term": "リバ",
-      "count": 9
-    },
-    {
-      "term": "ンの",
-      "count": 9
-    },
-    {
-      "term": "ービ",
-      "count": 9
-    },
-    {
-      "term": "ファイル",
-      "count": 9
-    },
-    {
-      "term": "るこ",
-      "count": 9
-    },
-    {
-      "term": "指定",
-      "count": 9
+      "term": "れる",
+      "count": 23
     },
     {
       "term": "ポジ",
-      "count": 8
+      "count": 20
     },
     {
-      "term": "有の",
-      "count": 8
+      "term": "では",
+      "count": 19
     },
     {
-      "term": "らの",
-      "count": 8
+      "term": "した",
+      "count": 18
     },
     {
-      "term": "ャン",
-      "count": 8
+      "term": "actions",
+      "count": 18
     },
     {
-      "term": "組織",
-      "count": 7
+      "term": "信頼",
+      "count": 15
     },
     {
-      "term": "ェア",
-      "count": 7
+      "term": "ラッ",
+      "count": 15
     },
     {
-      "term": "れば",
-      "count": 7
+      "term": "に ",
+      "count": 15
     },
     {
-      "term": "plan",
-      "count": 7
+      "term": "メー",
+      "count": 15
     },
     {
-      "term": "強制",
-      "count": 7
+      "term": "いて",
+      "count": 14
     },
     {
-      "term": "steps",
-      "count": 7
+      "term": "る必",
+      "count": 14
     },
     {
-      "term": "詳細",
-      "count": 6
+      "term": "体的",
+      "count": 13
     },
     {
-      "term": "ェーズの",
-      "count": 6
-    },
-    {
-      "term": "キュ",
-      "count": 6
+      "term": "id",
+      "count": 13
     },
     {
       "term": "対策",
+      "count": 12
+    },
+    {
+      "term": "のc",
+      "count": 11
+    },
+    {
+      "term": "る\n",
+      "count": 10
+    },
+    {
+      "term": "脆弱性管",
+      "count": 9
+    },
+    {
+      "term": "頼性",
+      "count": 9
+    },
+    {
+      "term": "およ",
+      "count": 9
+    },
+    {
+      "term": "及び",
+      "count": 8
+    },
+    {
+      "term": "囲の",
+      "count": 8
+    },
+    {
+      "term": "以外",
+      "count": 8
+    },
+    {
+      "term": "が考",
+      "count": 8
+    },
+    {
+      "term": "きる",
+      "count": 8
+    },
+    {
+      "term": "漏洩",
+      "count": 7
+    },
+    {
+      "term": "ェーズの",
+      "count": 7
+    },
+    {
+      "term": "事項",
+      "count": 7
+    },
+    {
+      "term": "rulesets",
+      "count": 7
+    },
+    {
+      "term": "ード",
+      "count": 6
+    },
+    {
+      "term": "信頼性の",
       "count": 6
     },
     {
@@ -166,15 +130,7 @@
       "count": 6
     },
     {
-      "term": "はa",
-      "count": 6
-    },
-    {
-      "term": "での実行",
-      "count": 6
-    },
-    {
-      "term": "ウン",
+      "term": "を ",
       "count": 6
     },
     {
@@ -182,24 +138,68 @@
       "count": 6
     },
     {
-      "term": "うこ",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "にて",
+      "term": "カウ",
       "count": 6
     },
     {
-      "term": "連携",
+      "term": "docker",
       "count": 6
     },
     {
-      "term": "るよ",
+      "term": "ここでは",
       "count": 6
     },
     {
-      "term": "ついては",
+      "term": "ムチーム",
       "count": 6
+    },
+    {
+      "term": "省略する",
+      "count": 6
+    },
+    {
+      "term": "影響",
+      "count": 6
+    },
+    {
+      "term": "ーに",
+      "count": 6
+    },
+    {
+      "term": "true",
+      "count": 6
+    },
+    {
+      "term": "要と",
+      "count": 6
+    },
+    {
+      "term": "テナ",
+      "count": 6
+    },
+    {
+      "term": "checkout",
+      "count": 6
+    },
+    {
+      "term": "13",
+      "count": 5
+    },
+    {
+      "term": "ード管理",
+      "count": 5
+    },
+    {
+      "term": "証跡",
+      "count": 5
+    },
+    {
+      "term": "観点",
+      "count": 5
     }
   ],
   "meetings": [

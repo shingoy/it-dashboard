@@ -2,19 +2,39 @@
   "month": "2026-02",
   "keywords": [
     {
-      "term": "針に",
+      "term": "いて",
       "count": 2
     },
     {
-      "term": "ル分",
+      "term": "抽出",
       "count": 2
     },
     {
-      "term": "た額",
+      "term": "予算",
       "count": 2
     },
     {
-      "term": "費の",
+      "term": "信頼",
+      "count": 2
+    },
+    {
+      "term": "おい",
+      "count": 2
+    },
+    {
+      "term": "及び",
+      "count": 2
+    },
+    {
+      "term": "含ま",
+      "count": 2
+    },
+    {
+      "term": "のための",
+      "count": 2
+    },
+    {
+      "term": "者及",
       "count": 2
     },
     {
@@ -22,159 +42,35 @@
       "count": 2
     },
     {
-      "term": "方針に関",
+      "term": "係が",
       "count": 2
     },
     {
-      "term": "フォ",
+      "term": "業の",
       "count": 2
     },
     {
-      "term": "業訓",
+      "term": "一部等",
       "count": 2
     },
     {
-      "term": "等ａ",
+      "term": "施 ",
       "count": 2
     },
     {
-      "term": "デジ",
+      "term": "した",
       "count": 2
     },
     {
-      "term": "決定",
+      "term": "個々",
       "count": 2
     },
     {
-      "term": "捨五",
-      "count": 2
-    },
-    {
-      "term": "発支援助",
-      "count": 2
-    },
-    {
-      "term": "分類",
-      "count": 2
-    },
-    {
-      "term": "連予",
-      "count": 2
-    },
-    {
-      "term": "ミッ",
+      "term": "戦略",
       "count": 1
     },
     {
-      "term": "ないが",
-      "count": 1
-    },
-    {
-      "term": "学研",
-      "count": 1
-    },
-    {
-      "term": "約３",
-      "count": 1
-    },
-    {
-      "term": "定迅速化",
-      "count": 1
-    },
-    {
-      "term": "者の",
-      "count": 1
-    },
-    {
-      "term": "を使",
-      "count": 1
-    },
-    {
-      "term": "生成",
-      "count": 1
-    },
-    {
-      "term": "ーゲ",
-      "count": 1
-    },
-    {
-      "term": "革新的な",
-      "count": 1
-    },
-    {
-      "term": "モデルの",
-      "count": 1
-    },
-    {
-      "term": "探索",
-      "count": 1
-    },
-    {
-      "term": "進農",
-      "count": 1
-    },
-    {
-      "term": "づく",
-      "count": 1
-    },
-    {
-      "term": "く調査研",
-      "count": 1
-    },
-    {
-      "term": "増し",
-      "count": 1
-    },
-    {
-      "term": "サイ",
-      "count": 1
-    },
-    {
-      "term": "究等",
-      "count": 1
-    },
-    {
-      "term": "迅速",
-      "count": 1
-    },
-    {
-      "term": "動オ",
-      "count": 1
-    },
-    {
-      "term": "ルの開発",
-      "count": 1
-    },
-    {
-      "term": "ファ",
-      "count": 1
-    },
-    {
-      "term": "グラ",
-      "count": 1
-    },
-    {
-      "term": "発新",
-      "count": 1
-    },
-    {
-      "term": "働す",
-      "count": 1
-    },
-    {
-      "term": "の戦",
-      "count": 1
-    },
-    {
-      "term": "コン",
-      "count": 1
-    },
-    {
-      "term": "を用",
-      "count": 1
-    },
-    {
-      "term": "て案",
+      "term": "ラム",
       "count": 1
     },
     {
@@ -182,23 +78,127 @@
       "count": 1
     },
     {
-      "term": "ムに関す",
+      "term": "ラミ",
       "count": 1
     },
     {
-      "term": "が産",
+      "term": "の積",
       "count": 1
     },
     {
-      "term": "人材の育",
+      "term": "繋げ",
       "count": 1
     },
     {
-      "term": "ーミ",
+      "term": "透明性",
       "count": 1
     },
     {
-      "term": "ドu",
+      "term": "究向",
+      "count": 1
+    },
+    {
+      "term": "金の",
+      "count": 1
+    },
+    {
+      "term": "う ",
+      "count": 1
+    },
+    {
+      "term": "迅速",
+      "count": 1
+    },
+    {
+      "term": "や医療従",
+      "count": 1
+    },
+    {
+      "term": "進農",
+      "count": 1
+    },
+    {
+      "term": "し分",
+      "count": 1
+    },
+    {
+      "term": "モーダル",
+      "count": 1
+    },
+    {
+      "term": "発支援",
+      "count": 1
+    },
+    {
+      "term": "ズ探",
+      "count": 1
+    },
+    {
+      "term": "産業財産",
+      "count": 1
+    },
+    {
+      "term": "科学研究",
+      "count": 1
+    },
+    {
+      "term": "価技",
+      "count": 1
+    },
+    {
+      "term": "み増し分",
+      "count": 1
+    },
+    {
+      "term": "約３",
+      "count": 1
+    },
+    {
+      "term": "フィジカ",
+      "count": 1
+    },
+    {
+      "term": "介護",
+      "count": 1
+    },
+    {
+      "term": "エネ",
+      "count": 1
+    },
+    {
+      "term": "年度予算",
+      "count": 1
+    },
+    {
+      "term": "変革",
+      "count": 1
+    },
+    {
+      "term": "を見",
+      "count": 1
+    },
+    {
+      "term": "導体",
+      "count": 1
+    },
+    {
+      "term": "地震",
+      "count": 1
+    },
+    {
+      "term": "たプ",
+      "count": 1
+    },
+    {
+      "term": "ル基",
+      "count": 1
+    },
+    {
+      "term": "イバ",
+      "count": 1
+    },
+    {
+      "term": "た意",
       "count": 1
     }
   ],
