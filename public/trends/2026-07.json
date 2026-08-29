@@ -2,163 +2,139 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "情報",
-      "count": 28
-    },
-    {
-      "term": "ータ",
-      "count": 27
-    },
-    {
-      "term": "タベ",
-      "count": 26
-    },
-    {
-      "term": "関す",
-      "count": 24
-    },
-    {
-      "term": "タル",
+      "term": "る ",
       "count": 23
     },
     {
-      "term": "レジ",
+      "term": "係る",
       "count": 21
     },
     {
-      "term": "スレ",
+      "term": "令和",
+      "count": 20
+    },
+    {
+      "term": "るこ",
       "count": 19
     },
     {
-      "term": "法人",
+      "term": "効果",
       "count": 16
-    },
-    {
-      "term": "手続",
-      "count": 16
-    },
-    {
-      "term": "目指",
-      "count": 15
-    },
-    {
-      "term": "す ",
-      "count": 15
-    },
-    {
-      "term": "用し",
-      "count": 14
-    },
-    {
-      "term": "討 ",
-      "count": 13
-    },
-    {
-      "term": "民の",
-      "count": 13
-    },
-    {
-      "term": "基礎",
-      "count": 12
-    },
-    {
-      "term": "られ",
-      "count": 12
-    },
-    {
-      "term": "の公",
-      "count": 11
-    },
-    {
-      "term": "省庁",
-      "count": 11
-    },
-    {
-      "term": "において",
-      "count": 11
-    },
-    {
-      "term": "い ",
-      "count": 11
-    },
-    {
-      "term": "が必",
-      "count": 10
-    },
-    {
-      "term": "る法",
-      "count": 10
-    },
-    {
-      "term": "の ",
-      "count": 10
-    },
-    {
-      "term": "に向",
-      "count": 9
-    },
-    {
-      "term": "化し",
-      "count": 9
-    },
-    {
-      "term": "の実",
-      "count": 9
-    },
-    {
-      "term": "面の",
-      "count": 9
-    },
-    {
-      "term": "法人登記",
-      "count": 9
-    },
-    {
-      "term": "ロハ",
-      "count": 9
-    },
-    {
-      "term": "トの",
-      "count": 8
-    },
-    {
-      "term": "タに",
-      "count": 8
-    },
-    {
-      "term": "のと",
-      "count": 8
-    },
-    {
-      "term": "を進",
-      "count": 8
-    },
-    {
-      "term": "の効",
-      "count": 8
-    },
-    {
-      "term": "利用する",
-      "count": 8
     },
     {
       "term": "ル庁",
+      "count": 15
+    },
+    {
+      "term": "備 ",
+      "count": 14
+    },
+    {
+      "term": "事項",
+      "count": 14
+    },
+    {
+      "term": "国の",
+      "count": 14
+    },
+    {
+      "term": "所在",
+      "count": 13
+    },
+    {
+      "term": "ない",
+      "count": 13
+    },
+    {
+      "term": "確認",
+      "count": 12
+    },
+    {
+      "term": "ュー",
+      "count": 12
+    },
+    {
+      "term": "礎情",
+      "count": 12
+    },
+    {
+      "term": "に基",
+      "count": 11
+    },
+    {
+      "term": "負担",
+      "count": 11
+    },
+    {
+      "term": "に関する",
+      "count": 11
+    },
+    {
+      "term": "法第",
+      "count": 11
+    },
+    {
+      "term": "具体",
+      "count": 10
+    },
+    {
+      "term": "を検",
+      "count": 10
+    },
+    {
+      "term": "運用",
+      "count": 10
+    },
+    {
+      "term": "ー ",
+      "count": 10
+    },
+    {
+      "term": "いては",
+      "count": 10
+    },
+    {
+      "term": "で ",
+      "count": 10
+    },
+    {
+      "term": "ても",
+      "count": 9
+    },
+    {
+      "term": "役割",
       "count": 8
     },
     {
-      "term": "果 ",
+      "term": "地所",
+      "count": 8
+    },
+    {
+      "term": "にお",
+      "count": 8
+    },
+    {
+      "term": "続等",
+      "count": 8
+    },
+    {
+      "term": "ここ",
+      "count": 8
+    },
+    {
+      "term": "応を",
+      "count": 8
+    },
+    {
+      "term": "地図",
       "count": 7
     },
     {
-      "term": "土地所有",
+      "term": "公的",
       "count": 7
     },
     {
-      "term": "11",
-      "count": 7
-    },
-    {
-      "term": "国の行政",
+      "term": "現状",
       "count": 7
     },
     {
@@ -166,40 +142,64 @@
       "count": 7
     },
     {
-      "term": "がで",
+      "term": "別に",
       "count": 7
     },
     {
-      "term": "のう",
+      "term": "ついては",
       "count": 7
     },
     {
-      "term": "添付書面",
+      "term": "年で",
+      "count": 7
+    },
+    {
+      "term": "な行",
+      "count": 7
+    },
+    {
+      "term": "るそ",
+      "count": 7
+    },
+    {
+      "term": "公開",
       "count": 6
     },
     {
-      "term": "係行",
+      "term": "供を",
       "count": 6
     },
     {
-      "term": "体的",
+      "term": "の登",
       "count": 6
     },
     {
-      "term": "法 ",
+      "term": "ハニ",
       "count": 6
     },
     {
-      "term": "び裁",
+      "term": "度の",
       "count": 6
     },
     {
-      "term": "変更",
-      "count": 6
+      "term": "の総",
+      "count": 5
     },
     {
-      "term": "の連",
-      "count": 6
+      "term": "と対",
+      "count": 5
+    },
+    {
+      "term": "実際",
+      "count": 5
+    },
+    {
+      "term": "くわえて",
+      "count": 5
+    },
+    {
+      "term": "手続等に",
+      "count": 5
     }
   ],
   "meetings": [
