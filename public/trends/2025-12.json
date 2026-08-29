@@ -2,159 +2,71 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "ジタル",
+      "term": "盤の",
       "count": 2
     },
     {
-      "term": "内経",
+      "term": "の抜本的",
       "count": 2
     },
     {
-      "term": "報通信基",
+      "term": "の研究",
       "count": 2
     },
     {
-      "term": "抜本",
+      "term": "ーティン",
       "count": 2
     },
     {
-      "term": "大規模オ",
+      "term": "情報",
       "count": 2
     },
     {
-      "term": "計画",
+      "term": "ガバナン",
+      "count": 2
+    },
+    {
+      "term": "ブル",
+      "count": 2
+    },
+    {
+      "term": "的ハ",
+      "count": 2
+    },
+    {
+      "term": "タル",
+      "count": 2
+    },
+    {
+      "term": "の強",
+      "count": 2
+    },
+    {
+      "term": "ータ",
+      "count": 2
+    },
+    {
+      "term": "てａ",
       "count": 1
     },
     {
-      "term": "含む",
+      "term": "に向",
       "count": 1
     },
     {
-      "term": "労働",
+      "term": "を総合的",
       "count": 1
     },
     {
-      "term": "力の",
+      "term": "バル",
       "count": 1
     },
     {
-      "term": "和７",
+      "term": "のう",
       "count": 1
     },
     {
-      "term": "運転",
-      "count": 1
-    },
-    {
-      "term": "略的",
-      "count": 1
-    },
-    {
-      "term": "のデータ",
-      "count": 1
-    },
-    {
-      "term": "全面",
-      "count": 1
-    },
-    {
-      "term": "内フ",
-      "count": 1
-    },
-    {
-      "term": "の方",
-      "count": 1
-    },
-    {
-      "term": "材 ",
-      "count": 1
-    },
-    {
-      "term": "いて",
-      "count": 1
-    },
-    {
-      "term": "関す",
-      "count": 1
-    },
-    {
-      "term": "頭脳",
-      "count": 1
-    },
-    {
-      "term": "に分",
-      "count": 1
-    },
-    {
-      "term": "ォー",
-      "count": 1
-    },
-    {
-      "term": "済を",
-      "count": 1
-    },
-    {
-      "term": "数の",
-      "count": 1
-    },
-    {
-      "term": "の安全性",
-      "count": 1
-    },
-    {
-      "term": "本グ",
-      "count": 1
-    },
-    {
-      "term": "グの",
-      "count": 1
-    },
-    {
-      "term": "出困",
-      "count": 1
-    },
-    {
-      "term": "装の",
-      "count": 1
-    },
-    {
-      "term": "基本",
-      "count": 1
-    },
-    {
-      "term": "も関",
-      "count": 1
-    },
-    {
-      "term": "ス間",
-      "count": 1
-    },
-    {
-      "term": "月全",
-      "count": 1
-    },
-    {
-      "term": "ごと",
-      "count": 1
-    },
-    {
-      "term": "析シ",
-      "count": 1
-    },
-    {
-      "term": "踏ま",
-      "count": 1
-    },
-    {
-      "term": "つい",
-      "count": 1
-    },
-    {
-      "term": "ーマンス",
-      "count": 1
-    },
-    {
-      "term": "評価",
+      "term": "国ａ",
       "count": 1
     },
     {
@@ -162,43 +74,131 @@
       "count": 1
     },
     {
-      "term": "総合",
+      "term": "創出推進",
       "count": 1
     },
     {
-      "term": "算は",
+      "term": "査新",
       "count": 1
     },
     {
-      "term": "む ",
+      "term": "239",
       "count": 1
     },
     {
-      "term": "生成",
+      "term": "介護テク",
       "count": 1
     },
     {
-      "term": "入等",
+      "term": "報分",
       "count": 1
     },
     {
-      "term": "ンフ",
+      "term": "用し",
       "count": 1
     },
     {
-      "term": "年1",
+      "term": "動運",
       "count": 1
     },
     {
-      "term": "る科",
+      "term": "イノ",
       "count": 1
     },
     {
-      "term": "応え",
+      "term": "発供",
       "count": 1
     },
     {
-      "term": "校現",
+      "term": "速化",
+      "count": 1
+    },
+    {
+      "term": "業技",
+      "count": 1
+    },
+    {
+      "term": "評価手法",
+      "count": 1
+    },
+    {
+      "term": "一部等",
+      "count": 1
+    },
+    {
+      "term": "ジー",
+      "count": 1
+    },
+    {
+      "term": "農ス",
+      "count": 1
+    },
+    {
+      "term": "場の生産",
+      "count": 1
+    },
+    {
+      "term": "製造業等",
+      "count": 1
+    },
+    {
+      "term": "金の",
+      "count": 1
+    },
+    {
+      "term": "関す",
+      "count": 1
+    },
+    {
+      "term": "ムの構築",
+      "count": 1
+    },
+    {
+      "term": "困難な施",
+      "count": 1
+    },
+    {
+      "term": "る実",
+      "count": 1
+    },
+    {
+      "term": "の実",
+      "count": 1
+    },
+    {
+      "term": "策 ",
+      "count": 1
+    },
+    {
+      "term": "を高める",
+      "count": 1
+    },
+    {
+      "term": "築新",
+      "count": 1
+    },
+    {
+      "term": "造業",
+      "count": 1
+    },
+    {
+      "term": "針に",
+      "count": 1
+    },
+    {
+      "term": "イノベー",
+      "count": 1
+    },
+    {
+      "term": "定を",
+      "count": 1
+    },
+    {
+      "term": "補正",
+      "count": 1
+    },
+    {
+      "term": "化対策",
       "count": 1
     }
   ],
