@@ -1,37 +1,32 @@
 [
   {
-    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/34a225ed-03be-4408-b00d-f9b88a5a2543/7f6adee4/20230314_policies_digital-extraordinary-administrative-research-committee_outline_01.pdf",
-    "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
-    "timestamp": "2026-08-28T20:46:36.925199"
-  },
-  {
     "url": "https://www8.cao.go.jp/cstp/ai/yosan_8nendo_draft.pdf",
     "error": "404 Client Error: Not Found for url: https://www8.cao.go.jp/cstp/ai/yosan_8nendo_draft.pdf",
-    "timestamp": "2026-08-28T20:47:27.641525"
+    "timestamp": "2026-08-29T02:57:27.532270"
   },
   {
     "url": "https://www8.cao.go.jp/cstp/togo/index.html",
     "error": "404 Client Error: Not Found for url: https://www8.cao.go.jp/cstp/togo/index.html",
-    "timestamp": "2026-08-28T20:47:52.164599"
+    "timestamp": "2026-08-29T02:57:55.755008"
   },
   {
     "url": "https://www.meti.go.jp/shingikai/mono_info_service/digital_sangyo/index.html",
     "error": "403 Client Error: Forbidden for url: https://www.meti.go.jp/shingikai/mono_info_service/digital_sangyo/index.html",
-    "timestamp": "2026-08-28T20:47:57.330725"
+    "timestamp": "2026-08-29T02:58:00.140305"
   },
   {
     "url": "https://www.meti.go.jp/policy/it_policy/dx/index.html",
     "error": "403 Client Error: Forbidden for url: https://www.meti.go.jp/policy/it_policy/dx/index.html",
-    "timestamp": "2026-08-28T20:48:00.144141"
+    "timestamp": "2026-08-29T02:58:02.843511"
   },
   {
     "url": "https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_00002.html",
     "error": "404 Client Error: Not Found for url: https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_00002.html",
-    "timestamp": "2026-08-28T20:48:04.007655"
+    "timestamp": "2026-08-29T02:58:06.381001"
   },
   {
     "url": "https://cio.go.jp/",
     "error": "HTTPSConnectionPool(host='cio.go.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='cio.go.jp', port=443): Failed to resolve 'cio.go.jp' ([Errno -2] Name or service not known)\"))",
-    "timestamp": "2026-08-28T20:48:07.397923"
+    "timestamp": "2026-08-29T02:58:09.406089"
   }
 ]

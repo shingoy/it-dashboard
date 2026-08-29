@@ -2,87 +2,79 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "れる",
-      "count": 23
+      "term": "るこ",
+      "count": 22
     },
     {
-      "term": "ビル",
-      "count": 19
+      "term": "ci",
+      "count": 17
     },
     {
-      "term": "イル",
-      "count": 18
-    },
-    {
-      "term": "ビス",
+      "term": "ォー",
       "count": 16
     },
     {
-      "term": "実行",
+      "term": "ない",
       "count": 16
     },
     {
-      "term": "フェ",
+      "term": "これ",
       "count": 15
     },
     {
-      "term": "の保",
+      "term": "いて",
       "count": 14
     },
     {
-      "term": "ァイ",
+      "term": "る必",
       "count": 14
     },
     {
-      "term": "った",
-      "count": 14
-    },
-    {
-      "term": "され",
-      "count": 14
-    },
-    {
-      "term": "シー",
+      "term": "ソースコ",
       "count": 13
     },
     {
-      "term": "トの",
+      "term": "の成",
+      "count": 13
+    },
+    {
+      "term": "ファイル",
       "count": 12
     },
     {
-      "term": "環境",
+      "term": "つい",
       "count": 11
     },
     {
-      "term": "全性",
+      "term": "定す",
       "count": 11
     },
     {
-      "term": "10",
+      "term": "terraform",
       "count": 11
     },
     {
-      "term": "考え",
-      "count": 11
-    },
-    {
-      "term": "ecr",
-      "count": 11
-    },
-    {
-      "term": "安全性の",
+      "term": "保護",
       "count": 10
     },
     {
-      "term": "いた",
-      "count": 10
-    },
-    {
-      "term": "利用",
+      "term": "含む",
       "count": 9
     },
     {
-      "term": "ている",
+      "term": "ック",
+      "count": 9
+    },
+    {
+      "term": "変更",
+      "count": 9
+    },
+    {
+      "term": "バリ",
+      "count": 9
+    },
+    {
+      "term": "デリ",
       "count": 9
     },
     {
@@ -90,43 +82,23 @@
       "count": 9
     },
     {
-      "term": "の確",
+      "term": "and",
+      "count": 9
+    },
+    {
+      "term": "パイ",
       "count": 8
     },
     {
-      "term": "トリ",
+      "term": "行範",
       "count": 8
     },
     {
-      "term": "状態",
+      "term": "生成",
       "count": 8
     },
     {
-      "term": "ルー",
-      "count": 8
-    },
-    {
-      "term": "定の",
-      "count": 8
-    },
-    {
-      "term": "作成",
-      "count": 8
-    },
-    {
-      "term": "commit",
-      "count": 8
-    },
-    {
-      "term": "には",
-      "count": 8
-    },
-    {
-      "term": "組み",
-      "count": 8
-    },
-    {
-      "term": "システム",
+      "term": "ト情",
       "count": 7
     },
     {
@@ -134,72 +106,100 @@
       "count": 7
     },
     {
-      "term": "洩対",
+      "term": "シークレ",
       "count": 7
     },
     {
-      "term": "る主",
+      "term": "ビルドフ",
       "count": 7
     },
     {
-      "term": "れば",
+      "term": "護 ",
       "count": 7
     },
     {
-      "term": "ムが",
+      "term": "レッ",
       "count": 7
     },
     {
-      "term": "および",
+      "term": "version",
       "count": 7
     },
     {
-      "term": "対し",
+      "term": "トフォー",
       "count": 7
     },
     {
-      "term": "とい",
+      "term": "成さ",
       "count": 7
     },
     {
-      "term": "クセ",
+      "term": "事項",
       "count": 7
+    },
+    {
+      "term": "略す",
+      "count": 7
+    },
+    {
+      "term": "リの",
+      "count": 7
+    },
+    {
+      "term": "はg",
+      "count": 7
+    },
+    {
+      "term": "図 ",
+      "count": 7
+    },
+    {
+      "term": "フ ",
+      "count": 6
+    },
+    {
+      "term": "定義",
+      "count": 6
+    },
+    {
+      "term": "され",
+      "count": 6
+    },
+    {
+      "term": "を指",
+      "count": 6
+    },
+    {
+      "term": "critical",
+      "count": 6
+    },
+    {
+      "term": "象と",
+      "count": 6
+    },
+    {
+      "term": "えて",
+      "count": 6
+    },
+    {
+      "term": "はパ",
+      "count": 6
+    },
+    {
+      "term": "シナ",
+      "count": 5
     },
     {
       "term": "ュリ",
-      "count": 6
+      "count": 5
     },
     {
-      "term": "詳細",
-      "count": 6
+      "term": "ロー",
+      "count": 5
     },
     {
-      "term": "ラッ",
-      "count": 6
-    },
-    {
-      "term": "ス ",
-      "count": 6
-    },
-    {
-      "term": "方法",
-      "count": 6
-    },
-    {
-      "term": "策に",
-      "count": 6
-    },
-    {
-      "term": "の変",
-      "count": 6
-    },
-    {
-      "term": "を必",
-      "count": 6
-    },
-    {
-      "term": "らな",
-      "count": 6
+      "term": "べき",
+      "count": 5
     }
   ],
   "meetings": [
