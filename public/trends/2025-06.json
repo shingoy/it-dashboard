@@ -2,143 +2,131 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "であ",
-      "count": 22
-    },
-    {
-      "term": "ード",
-      "count": 21
+      "term": "して",
+      "count": 23
     },
     {
       "term": "イプ",
       "count": 21
     },
     {
-      "term": "果物",
+      "term": "リポ",
       "count": 20
     },
     {
-      "term": "actions",
+      "term": "ため",
+      "count": 20
+    },
+    {
+      "term": "構成",
       "count": 19
     },
     {
-      "term": "ポジ",
-      "count": 18
-    },
-    {
-      "term": "デー",
+      "term": "ット",
       "count": 17
     },
     {
-      "term": "ービ",
-      "count": 16
-    },
-    {
-      "term": "ジト",
+      "term": "cd",
       "count": 15
     },
     {
-      "term": "スチ",
+      "term": "脆弱",
+      "count": 15
+    },
+    {
+      "term": "内容",
       "count": 14
     },
     {
-      "term": "頼性",
+      "term": "パイ",
+      "count": 14
+    },
+    {
+      "term": "てい",
+      "count": 14
+    },
+    {
+      "term": "テナ",
       "count": 13
     },
     {
-      "term": "での",
+      "term": "略 ",
       "count": 13
     },
     {
-      "term": "とで",
-      "count": 13
-    },
-    {
-      "term": "情報",
+      "term": "体的",
       "count": 12
     },
     {
-      "term": "チームの",
+      "term": "のメ",
+      "count": 12
+    },
+    {
+      "term": "定す",
       "count": 11
     },
     {
-      "term": "ズの",
+      "term": "加え",
       "count": 11
     },
     {
-      "term": "担保",
-      "count": 11
-    },
-    {
-      "term": "考え",
-      "count": 11
-    },
-    {
-      "term": "バー",
-      "count": 11
-    },
-    {
-      "term": "制限",
+      "term": "ビルドフ",
       "count": 10
     },
     {
-      "term": "ン ",
+      "term": "確保",
       "count": 9
     },
     {
-      "term": "の制",
+      "term": "が ",
       "count": 9
     },
     {
-      "term": "チェ",
+      "term": "れて",
       "count": 9
     },
     {
-      "term": "リソ",
+      "term": "トウ",
+      "count": 9
+    },
+    {
+      "term": "ーを",
+      "count": 9
+    },
+    {
+      "term": "ビルド上",
       "count": 8
     },
     {
-      "term": "を実",
+      "term": "メタデー",
       "count": 8
     },
     {
-      "term": "ルを",
+      "term": "ここ",
       "count": 8
     },
     {
-      "term": "リ及",
+      "term": "with",
+      "count": 8
+    },
+    {
+      "term": "json",
+      "count": 8
+    },
+    {
+      "term": "すべ",
       "count": 7
     },
     {
-      "term": "イナ",
+      "term": "事項",
       "count": 7
     },
     {
-      "term": "バリ",
+      "term": "ービ",
       "count": 7
     },
     {
-      "term": "略す",
-      "count": 7
-    },
-    {
-      "term": "クセ",
-      "count": 7
-    },
-    {
-      "term": "rulesets",
-      "count": 7
-    },
-    {
-      "term": "ーと",
-      "count": 7
-    },
-    {
-      "term": "す ",
-      "count": 7
-    },
-    {
-      "term": "jobs",
+      "term": "on",
       "count": 7
     },
     {
@@ -146,59 +134,71 @@
       "count": 6
     },
     {
-      "term": "を示",
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "の署",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "ンテナイ",
+      "term": "等の",
       "count": 6
     },
     {
-      "term": "にて",
+      "term": "バリ",
       "count": 6
     },
     {
-      "term": "方法",
+      "term": "たコ",
       "count": 6
     },
     {
-      "term": "容を",
+      "term": "rule",
       "count": 6
     },
     {
-      "term": "ァイ",
+      "term": "どの",
       "count": 6
     },
     {
-      "term": "こと",
+      "term": "image",
       "count": 6
     },
     {
-      "term": "った",
+      "term": "format",
       "count": 6
     },
     {
-      "term": "true",
-      "count": 6
-    },
-    {
-      "term": "env",
-      "count": 6
-    },
-    {
-      "term": "predicate",
-      "count": 6
-    },
-    {
-      "term": "要 ",
+      "term": "チの",
       "count": 5
     },
     {
-      "term": "13",
+      "term": "リフ",
+      "count": 5
+    },
+    {
+      "term": "限 ",
+      "count": 5
+    },
+    {
+      "term": "理下",
+      "count": 5
+    },
+    {
+      "term": "なけ",
+      "count": 5
+    },
+    {
+      "term": "項で",
+      "count": 5
+    },
+    {
+      "term": "ァイ",
+      "count": 5
+    },
+    {
+      "term": "され",
       "count": 5
     }
   ],
