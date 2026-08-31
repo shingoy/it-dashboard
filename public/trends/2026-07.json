@@ -2,67 +2,63 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "タベ",
-      "count": 25
-    },
-    {
-      "term": "記情",
-      "count": 19
+      "term": "につ",
+      "count": 22
     },
     {
       "term": "向上",
       "count": 19
     },
     {
-      "term": "ため",
+      "term": "ベース",
+      "count": 18
+    },
+    {
+      "term": "民の",
       "count": 17
     },
     {
-      "term": "等の",
-      "count": 16
+      "term": "てい",
+      "count": 17
     },
     {
-      "term": "不動",
-      "count": 16
-    },
-    {
-      "term": "等を",
-      "count": 15
-    },
-    {
-      "term": "る国",
-      "count": 15
-    },
-    {
-      "term": "事項",
+      "term": "11",
       "count": 14
     },
     {
-      "term": "るデ",
+      "term": "ル行",
       "count": 14
     },
     {
-      "term": "れて",
-      "count": 14
+      "term": "ュー",
+      "count": 12
     },
     {
-      "term": "して",
-      "count": 14
+      "term": "進法",
+      "count": 12
     },
     {
-      "term": "係データ",
+      "term": "めの",
       "count": 11
     },
     {
-      "term": "すべ",
+      "term": "和1",
+      "count": 11
+    },
+    {
+      "term": "提供",
+      "count": 11
+    },
+    {
+      "term": "便性向上",
+      "count": 11
+    },
+    {
+      "term": "リの",
       "count": 10
     },
     {
-      "term": "内容",
-      "count": 10
-    },
-    {
-      "term": "ット",
+      "term": "参照",
       "count": 10
     },
     {
@@ -70,31 +66,23 @@
       "count": 10
     },
     {
-      "term": "略 ",
+      "term": "いては",
+      "count": 10
+    },
+    {
+      "term": "ジュ",
       "count": 9
     },
     {
-      "term": "の検",
+      "term": "業法",
       "count": 9
     },
     {
-      "term": "進め",
-      "count": 9
-    },
-    {
-      "term": "は登",
-      "count": 9
-    },
-    {
-      "term": "報シ",
-      "count": 9
-    },
-    {
-      "term": "計画",
+      "term": "進 ",
       "count": 8
     },
     {
-      "term": "第２",
+      "term": "なデ",
       "count": 8
     },
     {
@@ -102,63 +90,87 @@
       "count": 8
     },
     {
-      "term": "スケジュ",
+      "term": "とで",
       "count": 8
     },
     {
-      "term": "入力",
+      "term": "タ ",
       "count": 8
     },
     {
-      "term": "のう",
-      "count": 8
-    },
-    {
-      "term": "土地所有",
+      "term": "地図",
       "count": 7
     },
     {
-      "term": "がで",
+      "term": "動産",
       "count": 7
     },
     {
-      "term": "用目",
+      "term": "関係デー",
+      "count": 7
+    },
+    {
+      "term": "法人登記",
+      "count": 7
+    },
+    {
+      "term": "切替",
+      "count": 7
+    },
+    {
+      "term": "iv",
+      "count": 7
+    },
+    {
+      "term": "庁と",
+      "count": 7
+    },
+    {
+      "term": "民が",
       "count": 6
     },
     {
-      "term": "のシステ",
+      "term": "表示",
       "count": 6
     },
     {
-      "term": "地図情報",
+      "term": "必要",
       "count": 6
     },
     {
-      "term": "現状の課",
+      "term": "機関の役",
       "count": 6
     },
     {
-      "term": "る基",
+      "term": "記関係デ",
       "count": 6
     },
     {
-      "term": "なが",
+      "term": "る場",
       "count": 6
     },
     {
-      "term": "進す",
+      "term": "よう",
       "count": 6
     },
     {
-      "term": "で利",
+      "term": "年法",
       "count": 6
     },
     {
-      "term": "年度まで",
+      "term": "度ま",
       "count": 6
     },
     {
-      "term": "も踏",
+      "term": "やデ",
+      "count": 6
+    },
+    {
+      "term": "にデ",
+      "count": 6
+    },
+    {
+      "term": "字の",
       "count": 6
     },
     {
@@ -166,39 +178,27 @@
       "count": 5
     },
     {
-      "term": "の利用",
+      "term": "住居",
       "count": 5
     },
     {
-      "term": "ム ",
+      "term": "合に",
       "count": 5
     },
     {
-      "term": "度 ",
+      "term": "居表",
       "count": 5
     },
     {
-      "term": "や行",
+      "term": "在地",
       "count": 5
     },
     {
-      "term": "体的",
+      "term": "の省略",
       "count": 5
     },
     {
-      "term": "留意",
-      "count": 5
-    },
-    {
-      "term": "が必",
-      "count": 5
-    },
-    {
-      "term": "外字",
-      "count": 5
-    },
-    {
-      "term": "リとして",
+      "term": "観点",
       "count": 5
     }
   ],
