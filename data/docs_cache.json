@@ -988,5 +988,16 @@
     "date": "2026-07-21",
     "collected_at": "2026-07-21T11:12:08.561352",
     "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/c0dca2f4e7598d71a9542194cd07ec64.pdf"
+  },
+  "f1f45dcac5bf5ff8c9768cab793fec90": {
+    "id": "f1f45dcac5bf5ff8c9768cab793fec90",
+    "meeting": "デジタル社会推進標準ガイドライン",
+    "agency": "デジタル庁",
+    "title": "参考資料_「処分通知等のデジタル化に係る基本的な考え方」Q&A（PDF／173KB）",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/6eff4827/20230411_resources_standard_guidelines_glossary_03.pdf",
+    "file_type": "pdf",
+    "date": "2023-07-04",
+    "collected_at": "2026-09-01T14:03:08.194012",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/f1f45dcac5bf5ff8c9768cab793fec90.pdf"
   }
 }

@@ -2,91 +2,131 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "検討",
-      "count": 19
+      "term": "つい",
+      "count": 22
     },
     {
-      "term": "運営",
-      "count": 19
+      "term": "に係",
+      "count": 21
     },
     {
-      "term": "報を",
+      "term": "ため",
+      "count": 20
+    },
+    {
+      "term": "利便",
+      "count": 18
+    },
+    {
+      "term": "踏ま",
       "count": 17
     },
     {
-      "term": "を行",
+      "term": "おい",
       "count": 17
     },
     {
-      "term": "促進",
-      "count": 16
-    },
-    {
-      "term": "スの",
-      "count": 16
-    },
-    {
-      "term": "れる",
-      "count": 16
-    },
-    {
-      "term": "不動産登",
-      "count": 15
-    },
-    {
-      "term": "等を",
-      "count": 13
-    },
-    {
-      "term": "登記情報",
-      "count": 12
-    },
-    {
-      "term": "第1",
-      "count": 11
-    },
-    {
-      "term": "め ",
-      "count": 11
-    },
-    {
-      "term": "当該",
-      "count": 10
-    },
-    {
-      "term": "現在",
-      "count": 9
-    },
-    {
-      "term": "要 ",
-      "count": 8
+      "term": "事務",
+      "count": 14
     },
     {
       "term": "ると",
+      "count": 14
+    },
+    {
+      "term": "用 ",
+      "count": 13
+    },
+    {
+      "term": "必要",
+      "count": 13
+    },
+    {
+      "term": "し ",
+      "count": 13
+    },
+    {
+      "term": "基礎",
+      "count": 12
+    },
+    {
+      "term": "タベース",
+      "count": 12
+    },
+    {
+      "term": "上で",
+      "count": 12
+    },
+    {
+      "term": "条第",
+      "count": 12
+    },
+    {
+      "term": "において",
+      "count": 11
+    },
+    {
+      "term": "略 ",
+      "count": 10
+    },
+    {
+      "term": "スト",
+      "count": 10
+    },
+    {
+      "term": "記関",
+      "count": 10
+    },
+    {
+      "term": "を受",
+      "count": 10
+    },
+    {
+      "term": "等と",
+      "count": 10
+    },
+    {
+      "term": "土地",
+      "count": 9
+    },
+    {
+      "term": "スの",
+      "count": 9
+    },
+    {
+      "term": "管省",
+      "count": 9
+    },
+    {
+      "term": "参照",
+      "count": 9
+    },
+    {
+      "term": "者 ",
+      "count": 9
+    },
+    {
+      "term": "化し",
       "count": 8
     },
     {
-      "term": "ここ",
+      "term": "具体",
       "count": 8
     },
     {
-      "term": "スケジュ",
+      "term": "19",
       "count": 8
     },
     {
-      "term": "施時",
+      "term": "とが",
+      "count": 8
+    },
+    {
+      "term": "項 ",
       "count": 7
     },
     {
-      "term": "た登",
-      "count": 7
-    },
-    {
-      "term": "第2",
-      "count": 7
-    },
-    {
-      "term": "関係デー",
+      "term": "の課",
       "count": 7
     },
     {
@@ -94,111 +134,71 @@
       "count": 7
     },
     {
-      "term": "果の",
+      "term": "国の公的",
       "count": 7
     },
     {
-      "term": "性を",
+      "term": "切替",
       "count": 7
     },
     {
-      "term": "なデ",
+      "term": "そのため",
       "count": 7
     },
     {
-      "term": "要が",
+      "term": "登記事項",
       "count": 7
     },
     {
-      "term": "用で",
+      "term": "iv",
       "count": 7
     },
     {
-      "term": "で ",
+      "term": "とか",
       "count": 7
     },
     {
-      "term": "り ",
+      "term": "請項",
       "count": 7
     },
     {
-      "term": "え ",
+      "term": "とな",
       "count": 7
     },
     {
-      "term": "たデ",
-      "count": 7
-    },
-    {
-      "term": "セス",
+      "term": "針を",
       "count": 6
     },
     {
-      "term": "ユー",
+      "term": "めの",
       "count": 6
     },
     {
-      "term": "題に",
+      "term": "和1",
       "count": 6
     },
     {
-      "term": "ル社",
+      "term": "状の",
       "count": 6
     },
     {
-      "term": "能な",
+      "term": "の役",
       "count": 6
     },
     {
-      "term": "わえ",
+      "term": "法 ",
       "count": 6
     },
     {
-      "term": "令に",
+      "term": "又は",
       "count": 6
     },
     {
-      "term": "体の",
+      "term": "の登",
       "count": 6
     },
     {
-      "term": "成1",
-      "count": 6
-    },
-    {
-      "term": "の次期更",
-      "count": 6
-    },
-    {
-      "term": "記に",
-      "count": 6
-    },
-    {
-      "term": "理す",
-      "count": 6
-    },
-    {
-      "term": "通化",
-      "count": 5
-    },
-    {
-      "term": "内容",
-      "count": 5
-    },
-    {
-      "term": "た行",
-      "count": 5
-    },
-    {
-      "term": "な手",
-      "count": 5
-    },
-    {
-      "term": "を目指す",
-      "count": 5
-    },
-    {
-      "term": "イン",
+      "term": "以降",
       "count": 5
     }
   ],

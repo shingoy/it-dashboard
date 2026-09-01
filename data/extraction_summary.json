@@ -1,8 +1,8 @@
 {
-  "total_documents": 79,
+  "total_documents": 80,
   "already_processed": 78,
-  "batch_size": 1,
-  "successful": 0,
+  "batch_size": 2,
+  "successful": 1,
   "already_processed_in_batch": 0,
   "failed": 1,
   "timeout": 0,
@@ -12,6 +12,13 @@
       "doc_id": "ae79b1961cf12e71c6aa25f1ae4a9157",
       "success": false,
       "error": "Failed to open file '/home/runner/work/it-dashboard/it-dashboard/data/cache/ae79b1961cf12e71c6aa25f1ae4a9157.pdf'."
+    },
+    {
+      "doc_id": "f1f45dcac5bf5ff8c9768cab793fec90",
+      "success": true,
+      "chunks_count": 4,
+      "keywords_count": 10,
+      "processing_time": 0.062332868576049805
     }
   ]
 }
