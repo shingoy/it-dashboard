@@ -2,179 +2,183 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ため",
-      "count": 22
+      "term": "リポ",
+      "count": 20
     },
     {
-      "term": "ージ",
-      "count": 17
+      "term": "ール",
+      "count": 20
     },
     {
-      "term": "デー",
-      "count": 17
-    },
-    {
-      "term": "ビス",
-      "count": 16
-    },
-    {
-      "term": "脆弱",
-      "count": 15
-    },
-    {
-      "term": "から",
-      "count": 15
-    },
-    {
-      "term": "ける",
-      "count": 14
-    },
-    {
-      "term": "があ",
-      "count": 14
-    },
-    {
-      "term": "workflows",
-      "count": 14
-    },
-    {
-      "term": "cat",
-      "count": 14
-    },
-    {
-      "term": "に ",
-      "count": 13
+      "term": "いる",
+      "count": 20
     },
     {
       "term": "ファ",
+      "count": 17
+    },
+    {
+      "term": "ソー",
+      "count": 16
+    },
+    {
+      "term": "ラッ",
+      "count": 15
+    },
+    {
+      "term": "タデ",
+      "count": 14
+    },
+    {
+      "term": "る必",
+      "count": 14
+    },
+    {
+      "term": "場合",
       "count": 13
     },
     {
-      "term": "につ",
+      "term": "取得",
       "count": 11
     },
     {
-      "term": "範囲",
+      "term": "環境",
+      "count": 11
+    },
+    {
+      "term": "考え",
+      "count": 11
+    },
+    {
+      "term": "https",
+      "count": 11
+    },
+    {
+      "term": "ビルドフ",
       "count": 10
     },
     {
-      "term": "on",
+      "term": "のた",
       "count": 10
     },
     {
-      "term": "and",
+      "term": "クを",
+      "count": 10
+    },
+    {
+      "term": "の確",
       "count": 9
     },
     {
-      "term": "用い",
+      "term": "スク",
       "count": 8
     },
     {
-      "term": "push",
+      "term": "特有",
       "count": 8
     },
     {
-      "term": "の仕",
+      "term": "た ",
+      "count": 8
+    },
+    {
+      "term": "以外",
+      "count": 8
+    },
+    {
+      "term": "よう",
+      "count": 8
+    },
+    {
+      "term": "体の",
       "count": 7
     },
     {
-      "term": "記述",
+      "term": "および",
       "count": 7
     },
     {
-      "term": "ンb",
+      "term": "対し",
       "count": 7
     },
     {
-      "term": "など",
+      "term": "ンバ",
       "count": 7
     },
     {
-      "term": "ーテ",
+      "term": "でき",
       "count": 7
     },
     {
-      "term": "はな",
+      "term": "とは",
       "count": 7
     },
     {
-      "term": "with",
-      "count": 7
-    },
-    {
-      "term": "ード管理",
+      "term": "トフ",
       "count": 6
     },
     {
-      "term": "信頼性の",
+      "term": "ンテナイ",
       "count": 6
     },
     {
-      "term": "ソフトウ",
+      "term": "たコ",
       "count": 6
     },
     {
-      "term": "ルと",
+      "term": "複数",
       "count": 6
     },
     {
-      "term": "保で",
+      "term": "はプ",
       "count": 6
     },
     {
-      "term": "ても",
+      "term": "ref",
       "count": 6
     },
     {
-      "term": "らな",
+      "term": "tf",
       "count": 6
     },
     {
-      "term": "具体的な",
-      "count": 5
+      "term": "る ",
+      "count": 6
     },
     {
-      "term": "する",
-      "count": 5
+      "term": "るs",
+      "count": 6
+    },
+    {
+      "term": "trivy",
+      "count": 6
+    },
+    {
+      "term": "predicate",
+      "count": 6
     },
     {
       "term": "はあ",
       "count": 5
     },
     {
-      "term": "てc",
+      "term": "トウ",
       "count": 5
     },
     {
-      "term": "自体",
+      "term": "はt",
       "count": 5
     },
     {
-      "term": "ンテナイ",
+      "term": "ル ",
       "count": 5
     },
     {
-      "term": "り ",
+      "term": "境の",
       "count": 5
     },
     {
-      "term": "これは",
-      "count": 5
-    },
-    {
-      "term": "連携",
-      "count": 5
-    },
-    {
-      "term": "run",
-      "count": 5
-    },
-    {
-      "term": "はg",
-      "count": 5
-    },
-    {
-      "term": "repository",
+      "term": "となる",
       "count": 5
     },
     {
@@ -182,7 +186,7 @@
       "count": 5
     },
     {
-      "term": "ァイ",
+      "term": "うに",
       "count": 5
     },
     {
@@ -190,15 +194,11 @@
       "count": 5
     },
     {
-      "term": "to",
+      "term": "ァイ",
       "count": 5
     },
     {
       "term": "yml",
-      "count": 5
-    },
-    {
-      "term": "digest",
       "count": 5
     }
   ],
