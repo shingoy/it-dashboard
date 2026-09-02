@@ -2,167 +2,183 @@
   "month": "2023-06",
   "keywords": [
     {
-      "term": "令和",
-      "count": 953
+      "term": "条第",
+      "count": 945
+    },
+    {
+      "term": "ー共",
+      "count": 587
+    },
+    {
+      "term": "の発出又",
+      "count": 570
+    },
+    {
+      "term": "省 ",
+      "count": 523
+    },
+    {
+      "term": "知通",
+      "count": 517
     },
     {
       "term": "する",
-      "count": 857
+      "count": 493
     },
     {
-      "term": "関す",
-      "count": 821
+      "term": "等 ",
+      "count": 470
     },
     {
-      "term": "規制",
-      "count": 689
-    },
-    {
-      "term": "告示",
-      "count": 573
-    },
-    {
-      "term": "第3",
-      "count": 539
-    },
-    {
-      "term": "度 ",
-      "count": 459
-    },
-    {
-      "term": "制 ",
-      "count": 403
+      "term": "見直",
+      "count": 416
     },
     {
       "term": "の一",
-      "count": 402
-    },
-    {
-      "term": "程表",
-      "count": 391
-    },
-    {
-      "term": "改正",
-      "count": 388
-    },
-    {
-      "term": "工程表",
-      "count": 384
-    },
-    {
-      "term": "型 ",
-      "count": 364
-    },
-    {
-      "term": "第 ",
-      "count": 359
-    },
-    {
-      "term": "通 ",
-      "count": 356
-    },
-    {
-      "term": "共通",
-      "count": 313
-    },
-    {
-      "term": "事業",
-      "count": 304
-    },
-    {
-      "term": "は見",
-      "count": 298
-    },
-    {
-      "term": "庁名",
-      "count": 297
-    },
-    {
-      "term": "査 ",
-      "count": 285
-    },
-    {
-      "term": "は改正",
-      "count": 283
+      "count": 416
     },
     {
       "term": "検査",
-      "count": 276
+      "count": 392
+    },
+    {
+      "term": "条の",
+      "count": 386
+    },
+    {
+      "term": "ける",
+      "count": 370
     },
     {
       "term": "法施",
-      "count": 275
+      "count": 345
     },
     {
-      "term": "し否",
-      "count": 270
+      "term": "生労",
+      "count": 345
     },
     {
-      "term": "点検対象",
-      "count": 267
+      "term": "省庁",
+      "count": 342
     },
     {
-      "term": "国土",
-      "count": 266
+      "term": "規制",
+      "count": 328
     },
     {
-      "term": "項の",
-      "count": 259
+      "term": "デジタル",
+      "count": 325
     },
     {
-      "term": "産業",
-      "count": 215
+      "term": "告示",
+      "count": 313
     },
     {
-      "term": "方法",
-      "count": 213
+      "term": "見直し完",
+      "count": 304
     },
     {
-      "term": "管省",
-      "count": 212
+      "term": "保で",
+      "count": 302
     },
     {
-      "term": "労働",
-      "count": 206
+      "term": "制 ",
+      "count": 302
     },
     {
-      "term": "等に",
-      "count": 198
+      "term": "法 ",
+      "count": 301
     },
     {
-      "term": "厚生",
-      "count": 197
+      "term": "名 ",
+      "count": 290
     },
     {
-      "term": "行政",
-      "count": 196
+      "term": "月６",
+      "count": 284
     },
     {
-      "term": "項目",
-      "count": 185
+      "term": "了 ",
+      "count": 281
     },
     {
-      "term": "条 ",
-      "count": 185
+      "term": "者の",
+      "count": 279
     },
     {
-      "term": "し要",
-      "count": 184
+      "term": "行規則",
+      "count": 273
     },
     {
-      "term": "直しを要",
-      "count": 183
+      "term": "ナロ",
+      "count": 260
+    },
+    {
+      "term": "法令",
+      "count": 254
+    },
+    {
+      "term": "第5",
+      "count": 253
+    },
+    {
+      "term": "書の",
+      "count": 240
     },
     {
       "term": "省令",
-      "count": 183
+      "count": 239
     },
     {
-      "term": "月３",
-      "count": 177
+      "term": "る法",
+      "count": 217
     },
     {
-      "term": "第2",
+      "term": "規 ",
+      "count": 210
+    },
+    {
+      "term": "象条",
+      "count": 207
+    },
+    {
+      "term": "働省",
+      "count": 198
+    },
+    {
+      "term": "ため",
+      "count": 196
+    },
+    {
+      "term": "見直し",
+      "count": 194
+    },
+    {
+      "term": "厚生労働",
+      "count": 194
+    },
+    {
+      "term": "達等",
+      "count": 190
+    },
+    {
+      "term": "業省",
+      "count": 190
+    },
+    {
+      "term": "の概",
+      "count": 189
+    },
+    {
+      "term": "律 ",
+      "count": 187
+    },
+    {
+      "term": "さず",
+      "count": 184
+    },
+    {
+      "term": "和5",
       "count": 176
     },
     {
@@ -171,34 +187,18 @@
     },
     {
       "term": "完了",
-      "count": 170
+      "count": 171
     },
     {
-      "term": "令改",
-      "count": 168
+      "term": "工程",
+      "count": 166
     },
     {
-      "term": "象条",
-      "count": 162
-    },
-    {
-      "term": "項第",
-      "count": 162
-    },
-    {
-      "term": "名 ",
-      "count": 161
-    },
-    {
-      "term": "を確",
-      "count": 161
-    },
-    {
-      "term": "等が",
+      "term": "厚生",
       "count": 159
     },
     {
-      "term": "ジタ",
+      "term": "設備",
       "count": 159
     }
   ],
