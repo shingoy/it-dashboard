@@ -2,115 +2,59 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "ジー",
+      "term": "機関",
       "count": 3
     },
     {
-      "term": "開発",
+      "term": "テクノロ",
       "count": 3
     },
     {
-      "term": "情報か",
+      "term": "共有",
+      "count": 3
+    },
+    {
+      "term": "ロジ",
+      "count": 3
+    },
+    {
+      "term": "ベン",
       "count": 2
     },
     {
-      "term": "術カ",
+      "term": "制所",
       "count": 2
     },
     {
-      "term": "団体",
+      "term": "待を",
       "count": 2
     },
     {
-      "term": "期待を把",
+      "term": "おける",
       "count": 2
     },
     {
-      "term": "の活",
+      "term": "らへ",
       "count": 2
     },
     {
-      "term": "ムへ",
+      "term": "する",
       "count": 2
     },
     {
-      "term": "技術カタ",
+      "term": "加 ",
       "count": 2
     },
     {
-      "term": "目指",
+      "term": "と ",
       "count": 2
     },
     {
-      "term": "直し動向",
+      "term": "ード",
       "count": 2
     },
     {
-      "term": "やア",
-      "count": 2
-    },
-    {
-      "term": "供 ",
-      "count": 2
-    },
-    {
-      "term": "プや",
-      "count": 2
-    },
-    {
-      "term": "やh",
-      "count": 2
-    },
-    {
-      "term": "別呼",
-      "count": 2
-    },
-    {
-      "term": "ーシアム",
-      "count": 2
-    },
-    {
-      "term": "トコ",
-      "count": 2
-    },
-    {
-      "term": "プカ",
-      "count": 2
-    },
-    {
-      "term": "築 ",
-      "count": 2
-    },
-    {
-      "term": "まえ",
-      "count": 2
-    },
-    {
-      "term": "ピッチコ",
-      "count": 2
-    },
-    {
-      "term": "発信",
-      "count": 2
-    },
-    {
-      "term": "検証",
-      "count": 2
-    },
-    {
-      "term": "ピッ",
-      "count": 2
-    },
-    {
-      "term": "成果を踏",
-      "count": 2
-    },
-    {
-      "term": "スや",
-      "count": 2
-    },
-    {
-      "term": "技術検証",
+      "term": "感 ",
       "count": 2
     },
     {
@@ -118,11 +62,19 @@
       "count": 2
     },
     {
-      "term": "改善",
+      "term": "を広",
       "count": 2
     },
     {
-      "term": "を活",
+      "term": "発の",
+      "count": 2
+    },
+    {
+      "term": "事業",
+      "count": 2
+    },
+    {
+      "term": "や連",
       "count": 2
     },
     {
@@ -130,7 +82,11 @@
       "count": 2
     },
     {
-      "term": "ノロ",
+      "term": "アドバイ",
+      "count": 2
+    },
+    {
+      "term": "を共有",
       "count": 2
     },
     {
@@ -138,67 +94,111 @@
       "count": 2
     },
     {
-      "term": "把握",
+      "term": "構築",
       "count": 2
     },
     {
-      "term": "ャピ",
+      "term": "業の",
+      "count": 2
+    },
+    {
+      "term": "事業の速",
+      "count": 2
+    },
+    {
+      "term": "広く発信",
+      "count": 2
+    },
+    {
+      "term": "した",
+      "count": 2
+    },
+    {
+      "term": "自ら",
+      "count": 2
+    },
+    {
+      "term": "フォ",
       "count": 1
     },
     {
-      "term": "る技術情",
+      "term": "係者",
       "count": 1
     },
     {
-      "term": "ログ等",
+      "term": "有し",
       "count": 1
     },
     {
-      "term": "動スケジ",
+      "term": "に活",
       "count": 1
     },
     {
-      "term": "ピタ",
+      "term": "明会や勉",
       "count": 1
     },
     {
-      "term": "ンチ",
+      "term": "アッ",
       "count": 1
     },
     {
-      "term": "庁 ",
+      "term": "シアム",
       "count": 1
     },
     {
-      "term": "直しに活",
+      "term": "見や",
       "count": 1
     },
     {
-      "term": "でア",
+      "term": "プサ",
       "count": 1
     },
     {
-      "term": "関係者間",
+      "term": "かにし",
       "count": 1
     },
     {
-      "term": "有機関",
+      "term": "し関",
       "count": 1
     },
     {
-      "term": "運営開始",
+      "term": "域版",
       "count": 1
     },
     {
-      "term": "の位",
+      "term": "アップ",
       "count": 1
     },
     {
-      "term": "施策",
+      "term": "的継",
       "count": 1
     },
     {
-      "term": "に期",
+      "term": "や中",
+      "count": 1
+    },
+    {
+      "term": "が存",
+      "count": 1
+    },
+    {
+      "term": "端テ",
+      "count": 1
+    },
+    {
+      "term": "る大",
+      "count": 1
+    },
+    {
+      "term": "関し",
+      "count": 1
+    },
+    {
+      "term": "体的",
+      "count": 1
+    },
+    {
+      "term": "地方",
       "count": 1
     }
   ],

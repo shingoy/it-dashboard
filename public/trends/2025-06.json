@@ -2,203 +2,203 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 25
+      "term": "する",
+      "count": 28
     },
     {
-      "term": "ため",
-      "count": 22
+      "term": "安全",
+      "count": 18
     },
     {
-      "term": "構成",
-      "count": 21
-    },
-    {
-      "term": "ロー",
-      "count": 19
-    },
-    {
-      "term": "サー",
+      "term": "ード",
       "count": 17
     },
     {
-      "term": "ない",
-      "count": 17
+      "term": "フォ",
+      "count": 15
     },
     {
-      "term": "ォー",
-      "count": 16
+      "term": "よう",
+      "count": 15
     },
     {
-      "term": "のた",
-      "count": 14
-    },
-    {
-      "term": "タデ",
-      "count": 14
-    },
-    {
-      "term": "担保",
+      "term": "aws",
       "count": 13
     },
     {
-      "term": "とが",
+      "term": "生成",
+      "count": 13
+    },
+    {
+      "term": "体的",
       "count": 12
     },
     {
-      "term": "プラット",
+      "term": "ける",
+      "count": 12
+    },
+    {
+      "term": "フォーム",
       "count": 11
     },
     {
-      "term": "ソースコ",
+      "term": "クレ",
       "count": 11
     },
     {
-      "term": "環境",
+      "term": "確認",
       "count": 11
     },
     {
-      "term": "状態",
-      "count": 11
-    },
-    {
-      "term": "的に",
-      "count": 11
-    },
-    {
-      "term": "ナリ",
+      "term": "を用",
       "count": 10
     },
     {
-      "term": "ンチ",
+      "term": "sbom",
       "count": 10
     },
     {
-      "term": "はc",
-      "count": 10
-    },
-    {
-      "term": "ビス",
-      "count": 10
-    },
-    {
-      "term": "検証",
-      "count": 10
-    },
-    {
-      "term": "内で",
-      "count": 10
-    },
-    {
-      "term": "する",
+      "term": "シー",
       "count": 9
     },
     {
-      "term": "から",
+      "term": "した",
       "count": 9
     },
     {
-      "term": "それ",
+      "term": "し ",
       "count": 9
     },
     {
-      "term": "いた",
+      "term": "成さ",
       "count": 9
     },
     {
-      "term": "リの",
+      "term": "アク",
       "count": 9
     },
     {
-      "term": "image",
+      "term": "outputs",
       "count": 9
     },
     {
-      "term": "行範",
+      "term": "ソフ",
       "count": 8
+    },
+    {
+      "term": "リス",
+      "count": 8
+    },
+    {
+      "term": "制限",
+      "count": 8
+    },
+    {
+      "term": "物の",
+      "count": 8
+    },
+    {
+      "term": "ーに",
+      "count": 8
+    },
+    {
+      "term": "github",
+      "count": 8
+    },
+    {
+      "term": "キー",
+      "count": 7
+    },
+    {
+      "term": "体の",
+      "count": 7
+    },
+    {
+      "term": "plan",
+      "count": 7
+    },
+    {
+      "term": "アッ",
+      "count": 7
     },
     {
       "term": "を実",
-      "count": 8
-    },
-    {
-      "term": "強制",
-      "count": 8
-    },
-    {
-      "term": "push",
-      "count": 8
-    },
-    {
-      "term": "組み",
-      "count": 8
-    },
-    {
-      "term": "次に",
       "count": 7
-    },
-    {
-      "term": "はg",
-      "count": 7
-    },
-    {
-      "term": "with",
-      "count": 7
-    },
-    {
-      "term": "uses",
-      "count": 7
-    },
-    {
-      "term": "開発",
-      "count": 6
     },
     {
       "term": "ュリ",
       "count": 6
     },
     {
-      "term": "ンに",
+      "term": "めに",
       "count": 6
     },
     {
-      "term": "ジト",
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "リポ",
+      "term": "スを",
       "count": 6
     },
     {
-      "term": "ソフ",
+      "term": "フ ",
       "count": 6
     },
     {
-      "term": "アカ",
+      "term": "ついては",
       "count": 6
     },
     {
-      "term": "git",
+      "term": "ジの",
       "count": 6
     },
     {
-      "term": "ビュ",
+      "term": "ズで",
       "count": 6
     },
     {
-      "term": "review",
+      "term": "省略する",
       "count": 6
     },
     {
-      "term": "ref",
+      "term": "のメ",
       "count": 6
     },
     {
-      "term": "容を",
+      "term": "and",
       "count": 6
     },
     {
-      "term": "の漏洩対",
+      "term": "predicate",
+      "count": 6
+    },
+    {
+      "term": "runs",
+      "count": 6
+    },
+    {
+      "term": "リオ",
+      "count": 5
+    },
+    {
+      "term": "リフ",
+      "count": 5
+    },
+    {
+      "term": "時の",
+      "count": 5
+    },
+    {
+      "term": "したがっ",
+      "count": 5
+    },
+    {
+      "term": "うい",
+      "count": 5
+    },
+    {
+      "term": "る\n",
       "count": 5
     }
   ],
