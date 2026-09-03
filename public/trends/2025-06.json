@@ -2,43 +2,55 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "リポ",
-      "count": 20
+      "term": "ある",
+      "count": 25
     },
     {
-      "term": "ール",
-      "count": 20
+      "term": "ため",
+      "count": 22
     },
     {
-      "term": "いる",
-      "count": 20
+      "term": "構成",
+      "count": 21
     },
     {
-      "term": "ファ",
+      "term": "ロー",
+      "count": 19
+    },
+    {
+      "term": "サー",
       "count": 17
     },
     {
-      "term": "ソー",
+      "term": "ない",
+      "count": 17
+    },
+    {
+      "term": "ォー",
       "count": 16
     },
     {
-      "term": "ラッ",
-      "count": 15
+      "term": "のた",
+      "count": 14
     },
     {
       "term": "タデ",
       "count": 14
     },
     {
-      "term": "る必",
-      "count": 14
-    },
-    {
-      "term": "場合",
+      "term": "担保",
       "count": 13
     },
     {
-      "term": "取得",
+      "term": "とが",
+      "count": 12
+    },
+    {
+      "term": "プラット",
+      "count": 11
+    },
+    {
+      "term": "ソースコ",
       "count": 11
     },
     {
@@ -46,91 +58,135 @@
       "count": 11
     },
     {
-      "term": "考え",
+      "term": "状態",
       "count": 11
     },
     {
-      "term": "https",
+      "term": "的に",
       "count": 11
     },
     {
-      "term": "ビルドフ",
+      "term": "ナリ",
       "count": 10
     },
     {
-      "term": "のた",
+      "term": "ンチ",
       "count": 10
     },
     {
-      "term": "クを",
+      "term": "はc",
       "count": 10
     },
     {
-      "term": "の確",
+      "term": "ビス",
+      "count": 10
+    },
+    {
+      "term": "検証",
+      "count": 10
+    },
+    {
+      "term": "内で",
+      "count": 10
+    },
+    {
+      "term": "する",
       "count": 9
     },
     {
-      "term": "スク",
+      "term": "から",
+      "count": 9
+    },
+    {
+      "term": "それ",
+      "count": 9
+    },
+    {
+      "term": "いた",
+      "count": 9
+    },
+    {
+      "term": "リの",
+      "count": 9
+    },
+    {
+      "term": "image",
+      "count": 9
+    },
+    {
+      "term": "行範",
       "count": 8
     },
     {
-      "term": "特有",
+      "term": "を実",
       "count": 8
     },
     {
-      "term": "た ",
+      "term": "強制",
       "count": 8
     },
     {
-      "term": "以外",
+      "term": "push",
       "count": 8
     },
     {
-      "term": "よう",
+      "term": "組み",
       "count": 8
     },
     {
-      "term": "体の",
+      "term": "次に",
       "count": 7
     },
     {
-      "term": "および",
+      "term": "はg",
       "count": 7
     },
     {
-      "term": "対し",
+      "term": "with",
       "count": 7
     },
     {
-      "term": "ンバ",
+      "term": "uses",
       "count": 7
     },
     {
-      "term": "でき",
-      "count": 7
-    },
-    {
-      "term": "とは",
-      "count": 7
-    },
-    {
-      "term": "トフ",
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "ンテナイ",
+      "term": "ュリ",
       "count": 6
     },
     {
-      "term": "たコ",
+      "term": "ンに",
       "count": 6
     },
     {
-      "term": "複数",
+      "term": "ジト",
       "count": 6
     },
     {
-      "term": "はプ",
+      "term": "リポ",
+      "count": 6
+    },
+    {
+      "term": "ソフ",
+      "count": 6
+    },
+    {
+      "term": "アカ",
+      "count": 6
+    },
+    {
+      "term": "git",
+      "count": 6
+    },
+    {
+      "term": "ビュ",
+      "count": 6
+    },
+    {
+      "term": "review",
       "count": 6
     },
     {
@@ -138,67 +194,11 @@
       "count": 6
     },
     {
-      "term": "tf",
+      "term": "容を",
       "count": 6
     },
     {
-      "term": "る ",
-      "count": 6
-    },
-    {
-      "term": "るs",
-      "count": 6
-    },
-    {
-      "term": "trivy",
-      "count": 6
-    },
-    {
-      "term": "predicate",
-      "count": 6
-    },
-    {
-      "term": "はあ",
-      "count": 5
-    },
-    {
-      "term": "トウ",
-      "count": 5
-    },
-    {
-      "term": "はt",
-      "count": 5
-    },
-    {
-      "term": "ル ",
-      "count": 5
-    },
-    {
-      "term": "境の",
-      "count": 5
-    },
-    {
-      "term": "となる",
-      "count": 5
-    },
-    {
-      "term": "でc",
-      "count": 5
-    },
-    {
-      "term": "うに",
-      "count": 5
-    },
-    {
-      "term": "registry",
-      "count": 5
-    },
-    {
-      "term": "ァイ",
-      "count": 5
-    },
-    {
-      "term": "yml",
+      "term": "の漏洩対",
       "count": 5
     }
   ],
