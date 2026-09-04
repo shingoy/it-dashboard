@@ -6,147 +6,159 @@
       "count": 28
     },
     {
-      "term": "安全",
+      "term": "イン",
+      "count": 22
+    },
+    {
+      "term": "であ",
+      "count": 22
+    },
+    {
+      "term": "パイプラ",
+      "count": 20
+    },
+    {
+      "term": "成果",
+      "count": 20
+    },
+    {
+      "term": "チー",
       "count": 18
     },
     {
-      "term": "ード",
+      "term": "イプ",
       "count": 17
     },
     {
-      "term": "フォ",
+      "term": "コン",
       "count": 15
     },
     {
-      "term": "よう",
+      "term": "ンテ",
       "count": 15
     },
     {
-      "term": "aws",
-      "count": 13
-    },
-    {
-      "term": "生成",
-      "count": 13
-    },
-    {
-      "term": "体的",
-      "count": 12
-    },
-    {
-      "term": "ける",
-      "count": 12
-    },
-    {
-      "term": "フォーム",
-      "count": 11
+      "term": "ラッ",
+      "count": 14
     },
     {
       "term": "クレ",
+      "count": 12
+    },
+    {
+      "term": "ムチ",
+      "count": 12
+    },
+    {
+      "term": "トの",
       "count": 11
     },
     {
-      "term": "確認",
+      "term": "取得",
       "count": 11
     },
     {
-      "term": "を用",
+      "term": "るこ",
+      "count": 11
+    },
+    {
+      "term": "性を",
       "count": 10
     },
     {
-      "term": "sbom",
+      "term": "は ",
       "count": 10
     },
     {
-      "term": "シー",
+      "term": "脆弱性管",
       "count": 9
     },
     {
-      "term": "した",
+      "term": "シークレ",
       "count": 9
     },
     {
-      "term": "し ",
+      "term": "バリ",
       "count": 9
     },
     {
-      "term": "成さ",
+      "term": "ウェ",
       "count": 9
     },
     {
-      "term": "アク",
+      "term": "の対",
       "count": 9
     },
     {
-      "term": "outputs",
+      "term": "name",
       "count": 9
     },
     {
-      "term": "ソフ",
+      "term": "ーカ",
       "count": 8
     },
     {
-      "term": "リス",
+      "term": "カル",
       "count": 8
     },
     {
-      "term": "制限",
+      "term": "物を",
       "count": 8
     },
     {
-      "term": "物の",
+      "term": "スク",
       "count": 8
     },
     {
-      "term": "ーに",
+      "term": "下の",
       "count": 8
     },
     {
-      "term": "github",
+      "term": "commit",
       "count": 8
     },
     {
-      "term": "キー",
+      "term": "デー",
+      "count": 8
+    },
+    {
+      "term": "共通",
       "count": 7
     },
     {
-      "term": "体の",
+      "term": "示す",
       "count": 7
     },
     {
-      "term": "plan",
+      "term": "デリバリ",
       "count": 7
     },
     {
-      "term": "アッ",
+      "term": "対し",
       "count": 7
     },
     {
-      "term": "を実",
-      "count": 7
-    },
-    {
-      "term": "ュリ",
+      "term": "ット情報",
       "count": 6
     },
     {
-      "term": "めに",
+      "term": "有の",
       "count": 6
     },
     {
-      "term": "具体的な",
+      "term": "範囲の制",
       "count": 6
     },
     {
-      "term": "スを",
+      "term": "アカ",
       "count": 6
     },
     {
-      "term": "フ ",
+      "term": "方法",
       "count": 6
     },
     {
-      "term": "ついては",
+      "term": "ここでは",
       "count": 6
     },
     {
@@ -154,51 +166,39 @@
       "count": 6
     },
     {
-      "term": "ズで",
+      "term": "の連",
       "count": 6
     },
     {
-      "term": "省略する",
+      "term": "される",
       "count": 6
     },
     {
-      "term": "のメ",
+      "term": "image",
       "count": 6
     },
     {
-      "term": "and",
+      "term": "成さ",
       "count": 6
     },
     {
-      "term": "predicate",
+      "term": "に加",
       "count": 6
     },
     {
-      "term": "runs",
+      "term": "はパ",
       "count": 6
     },
     {
-      "term": "リオ",
+      "term": "ド環",
       "count": 5
     },
     {
-      "term": "リフ",
+      "term": "るg",
       "count": 5
     },
     {
-      "term": "時の",
-      "count": 5
-    },
-    {
-      "term": "したがっ",
-      "count": 5
-    },
-    {
-      "term": "うい",
-      "count": 5
-    },
-    {
-      "term": "る\n",
+      "term": "のレ",
       "count": 5
     }
   ],
