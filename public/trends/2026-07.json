@@ -2,43 +2,31 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "テム",
-      "count": 22
+      "term": "情報",
+      "count": 26
     },
     {
-      "term": "係る",
+      "term": "する",
+      "count": 24
+    },
+    {
+      "term": "に関",
+      "count": 24
+    },
+    {
+      "term": "とし",
       "count": 21
     },
     {
-      "term": "レジスト",
-      "count": 21
+      "term": "ため",
+      "count": 20
     },
     {
-      "term": "ては",
-      "count": 18
+      "term": "政運",
+      "count": 19
     },
     {
-      "term": "タの",
-      "count": 16
-    },
-    {
-      "term": "を目",
-      "count": 15
-    },
-    {
-      "term": "討 ",
-      "count": 14
-    },
-    {
-      "term": "要な",
-      "count": 14
-    },
-    {
-      "term": "れて",
-      "count": 14
-    },
-    {
-      "term": "の効率化",
+      "term": "用す",
       "count": 14
     },
     {
@@ -46,143 +34,163 @@
       "count": 13
     },
     {
-      "term": "おけ",
+      "term": "務省",
       "count": 13
     },
     {
-      "term": "化を",
-      "count": 13
+      "term": "タベース",
+      "count": 12
     },
     {
-      "term": "時期",
+      "term": "公的",
       "count": 11
     },
     {
-      "term": "た ",
+      "term": "手続",
       "count": 11
     },
     {
-      "term": "12",
-      "count": 11
-    },
-    {
-      "term": "タル",
-      "count": 11
-    },
-    {
-      "term": "リの",
+      "term": "参照",
       "count": 10
     },
     {
-      "term": "ケジ",
+      "term": "政機関等",
       "count": 10
     },
     {
-      "term": "10",
-      "count": 10
-    },
-    {
-      "term": "に対",
-      "count": 10
-    },
-    {
-      "term": "運営の効",
-      "count": 10
-    },
-    {
-      "term": "等が",
-      "count": 10
-    },
-    {
-      "term": "等を",
+      "term": "添付書面",
       "count": 9
     },
     {
-      "term": "号イ",
+      "term": "22",
       "count": 9
     },
     {
-      "term": "率化に関",
-      "count": 9
-    },
-    {
-      "term": "公開",
+      "term": "品質",
       "count": 8
     },
     {
-      "term": "24",
+      "term": "における",
       "count": 8
     },
     {
-      "term": "iii",
+      "term": "ースの整",
       "count": 8
     },
     {
-      "term": "ここでい",
+      "term": "処理",
       "count": 8
     },
     {
-      "term": "仕組",
+      "term": "じて",
+      "count": 8
+    },
+    {
+      "term": "とが",
+      "count": 8
+    },
+    {
+      "term": "行っ",
+      "count": 8
+    },
+    {
+      "term": "利用する",
+      "count": 8
+    },
+    {
+      "term": "ここ",
+      "count": 8
+    },
+    {
+      "term": "べき",
       "count": 7
     },
     {
-      "term": "要が",
+      "term": "ル ",
       "count": 7
     },
     {
-      "term": "度以",
+      "term": "17",
+      "count": 7
+    },
+    {
+      "term": "要で",
+      "count": 7
+    },
+    {
+      "term": "れた",
+      "count": 7
+    },
+    {
+      "term": "を指",
+      "count": 7
+    },
+    {
+      "term": "化の",
+      "count": 7
+    },
+    {
+      "term": "れら",
+      "count": 7
+    },
+    {
+      "term": "活用",
       "count": 6
     },
     {
-      "term": "第５",
+      "term": "組み",
       "count": 6
     },
     {
-      "term": "の他",
+      "term": "国籍",
       "count": 6
     },
     {
-      "term": "備及",
+      "term": "検討",
       "count": 6
     },
     {
-      "term": "地関",
+      "term": "わえ",
       "count": 6
     },
     {
-      "term": "庁 ",
+      "term": "進す",
       "count": 6
     },
     {
-      "term": "所在地情",
+      "term": "るよ",
       "count": 6
     },
     {
-      "term": "了す",
+      "term": "庁が",
       "count": 6
     },
     {
-      "term": "がで",
-      "count": 6
-    },
-    {
-      "term": "令等",
+      "term": "の総",
       "count": 5
     },
     {
-      "term": "る共",
+      "term": "リの整備",
       "count": 5
     },
     {
-      "term": "に当",
+      "term": "るデータ",
       "count": 5
     },
     {
-      "term": "スや",
+      "term": "年３",
       "count": 5
     },
     {
-      "term": "を所",
+      "term": "にも",
+      "count": 5
+    },
+    {
+      "term": "ている",
+      "count": 5
+    },
+    {
+      "term": "れを",
       "count": 5
     },
     {
@@ -190,15 +198,7 @@
       "count": 5
     },
     {
-      "term": "な手",
-      "count": 5
-    },
-    {
-      "term": "出し",
-      "count": 5
-    },
-    {
-      "term": "法人番号",
+      "term": "年で累計",
       "count": 5
     }
   ],
