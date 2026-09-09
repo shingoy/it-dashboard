@@ -2,123 +2,119 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "イプ",
+      "term": "github",
+      "count": 26
+    },
+    {
+      "term": "して",
       "count": 21
     },
     {
-      "term": "てい",
-      "count": 21
-    },
-    {
-      "term": "aws",
+      "term": "ァイ",
       "count": 19
     },
     {
-      "term": "ソー",
+      "term": "安全",
+      "count": 18
+    },
+    {
+      "term": "る ",
+      "count": 17
+    },
+    {
+      "term": "ポジ",
       "count": 16
     },
     {
-      "term": "トフ",
+      "term": "ムチ",
       "count": 15
     },
     {
-      "term": "とな",
+      "term": "フェ",
+      "count": 15
+    },
+    {
+      "term": "では",
+      "count": 15
+    },
+    {
+      "term": "中略",
       "count": 14
     },
     {
-      "term": "必要",
-      "count": 14
+      "term": "trivy",
+      "count": 13
     },
     {
-      "term": "ては",
-      "count": 14
-    },
-    {
-      "term": "略 ",
-      "count": 14
-    },
-    {
-      "term": "トの",
+      "term": "クレ",
       "count": 12
     },
     {
-      "term": "れら",
+      "term": "があ",
       "count": 12
     },
     {
-      "term": "name",
-      "count": 12
-    },
-    {
-      "term": "信頼",
+      "term": "定す",
       "count": 11
     },
     {
-      "term": "パイ",
+      "term": "はな",
       "count": 11
     },
     {
-      "term": "の実",
+      "term": "可能",
       "count": 11
     },
     {
-      "term": "った",
-      "count": 11
-    },
-    {
-      "term": "https",
-      "count": 11
-    },
-    {
-      "term": "確保",
+      "term": "ビルドフ",
       "count": 10
     },
     {
-      "term": "コンテナ",
+      "term": "内で",
       "count": 10
     },
     {
-      "term": "イメージ",
+      "term": "スキ",
       "count": 10
     },
     {
-      "term": "ここ",
+      "term": "の設",
       "count": 10
     },
     {
-      "term": "to",
-      "count": 10
-    },
-    {
-      "term": "権限",
+      "term": "およ",
       "count": 9
-    },
-    {
-      "term": "yml",
-      "count": 9
-    },
-    {
-      "term": "スク",
-      "count": 8
-    },
-    {
-      "term": "とで",
-      "count": 8
     },
     {
       "term": "定の",
+      "count": 9
+    },
+    {
+      "term": "性が",
       "count": 8
     },
     {
-      "term": "作成",
+      "term": "書で",
       "count": 8
     },
     {
-      "term": "運用",
+      "term": "バイ",
+      "count": 8
+    },
+    {
+      "term": "json",
+      "count": 8
+    },
+    {
+      "term": "漏洩",
       "count": 7
     },
     {
-      "term": "カル",
+      "term": "示す",
+      "count": 7
+    },
+    {
+      "term": "シークレ",
       "count": 7
     },
     {
@@ -126,27 +122,15 @@
       "count": 7
     },
     {
-      "term": "すべ",
+      "term": "るま",
       "count": 7
     },
     {
-      "term": "定 ",
+      "term": "略す",
       "count": 7
     },
     {
-      "term": "ービ",
-      "count": 7
-    },
-    {
-      "term": "るプ",
-      "count": 7
-    },
-    {
-      "term": "記述",
-      "count": 7
-    },
-    {
-      "term": "ーテ",
+      "term": "ーに",
       "count": 7
     },
     {
@@ -154,23 +138,11 @@
       "count": 7
     },
     {
-      "term": "rulesets",
-      "count": 7
-    },
-    {
-      "term": "要と",
-      "count": 7
-    },
-    {
-      "term": "ュリ",
+      "term": "洩対",
       "count": 6
     },
     {
-      "term": "に関",
-      "count": 6
-    },
-    {
-      "term": "する",
+      "term": "リ及",
       "count": 6
     },
     {
@@ -178,28 +150,56 @@
       "count": 6
     },
     {
-      "term": "ェア",
+      "term": "の保護",
       "count": 6
     },
     {
-      "term": "ムは",
+      "term": "クト",
       "count": 6
     },
     {
-      "term": "ここでは",
+      "term": "保で",
       "count": 6
     },
     {
-      "term": "用可",
+      "term": "の利",
       "count": 6
     },
     {
-      "term": "を必",
+      "term": "secrets",
       "count": 6
     },
     {
-      "term": "される",
+      "term": "ても",
       "count": 6
+    },
+    {
+      "term": "17",
+      "count": 6
+    },
+    {
+      "term": "uses",
+      "count": 6
+    },
+    {
+      "term": "運用保守",
+      "count": 5
+    },
+    {
+      "term": "トは",
+      "count": 5
+    },
+    {
+      "term": "ロー",
+      "count": 5
+    },
+    {
+      "term": "ることを",
+      "count": 5
+    },
+    {
+      "term": "観点",
+      "count": 5
     }
   ],
   "meetings": [
