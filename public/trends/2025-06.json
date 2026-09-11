@@ -2,119 +2,119 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "github",
-      "count": 26
-    },
-    {
-      "term": "ット",
-      "count": 20
+      "term": "ード",
+      "count": 21
     },
     {
       "term": "パイプラ",
-      "count": 19
-    },
-    {
-      "term": "ドフ",
-      "count": 14
-    },
-    {
-      "term": "おけ",
-      "count": 12
-    },
-    {
-      "term": "トの",
-      "count": 12
-    },
-    {
-      "term": "体的",
-      "count": 12
-    },
-    {
-      "term": "イメ",
-      "count": 12
+      "count": 20
     },
     {
       "term": "果物",
+      "count": 20
+    },
+    {
+      "term": "ci",
+      "count": 17
+    },
+    {
+      "term": "ォー",
+      "count": 16
+    },
+    {
+      "term": "デー",
+      "count": 16
+    },
+    {
+      "term": "フェ",
+      "count": 15
+    },
+    {
+      "term": "脆弱",
+      "count": 15
+    },
+    {
+      "term": "した",
+      "count": 15
+    },
+    {
+      "term": "スコ",
+      "count": 14
+    },
+    {
+      "term": "に ",
+      "count": 14
+    },
+    {
+      "term": "とで",
+      "count": 13
+    },
+    {
+      "term": "シークレ",
       "count": 12
     },
     {
-      "term": "シー",
-      "count": 11
+      "term": "可能",
+      "count": 12
     },
     {
-      "term": "サー",
-      "count": 11
+      "term": "して",
+      "count": 12
     },
     {
-      "term": "com",
-      "count": 11
-    },
-    {
-      "term": "https",
-      "count": 11
-    },
-    {
-      "term": "定す",
+      "term": "理を",
       "count": 10
     },
     {
-      "term": "検証",
+      "term": "ドフ",
       "count": 10
     },
     {
-      "term": "ここ",
-      "count": 10
-    },
-    {
-      "term": "provenance",
-      "count": 10
-    },
-    {
-      "term": "バリ",
+      "term": "プラット",
       "count": 9
     },
     {
-      "term": "が ",
+      "term": "依存",
       "count": 9
     },
     {
-      "term": "ド上",
-      "count": 8
+      "term": "ーを",
+      "count": 9
     },
     {
-      "term": "スト",
-      "count": 8
-    },
-    {
-      "term": "の取",
-      "count": 8
+      "term": "ムが",
+      "count": 9
     },
     {
       "term": "リソ",
       "count": 8
     },
     {
-      "term": "スク",
+      "term": "書で",
       "count": 8
     },
     {
-      "term": "のよ",
+      "term": "なお",
       "count": 8
     },
     {
-      "term": "組み",
+      "term": "用し",
       "count": 8
     },
     {
-      "term": "on",
+      "term": "を実",
       "count": 8
     },
     {
-      "term": "シス",
+      "term": "repository",
+      "count": 8
+    },
+    {
+      "term": "システム",
       "count": 7
     },
     {
-      "term": "アッ",
+      "term": "示す",
       "count": 7
     },
     {
@@ -122,51 +122,39 @@
       "count": 7
     },
     {
-      "term": "なお",
+      "term": "が考",
       "count": 7
     },
     {
-      "term": "めに",
+      "term": "ルに",
+      "count": 7
+    },
+    {
+      "term": "digest",
+      "count": 7
+    },
+    {
+      "term": "ュリ",
       "count": 6
     },
     {
-      "term": "運用",
+      "term": "を示",
       "count": 6
     },
     {
-      "term": "ショ",
+      "term": "タデータ",
       "count": 6
     },
     {
-      "term": "ワー",
+      "term": "の事",
       "count": 6
     },
     {
-      "term": "ージ",
+      "term": "る必",
       "count": 6
     },
     {
-      "term": "リ時",
-      "count": 6
-    },
-    {
-      "term": "スキ",
-      "count": 6
-    },
-    {
-      "term": "るよ",
-      "count": 6
-    },
-    {
-      "term": "な対",
-      "count": 6
-    },
-    {
-      "term": "これ",
-      "count": 6
-    },
-    {
-      "term": "れる",
+      "term": "ref",
       "count": 6
     },
     {
@@ -174,31 +162,43 @@
       "count": 6
     },
     {
-      "term": "ることが",
+      "term": "steps",
       "count": 6
     },
     {
-      "term": "保守",
+      "term": "合は",
+      "count": 6
+    },
+    {
+      "term": "シナ",
       "count": 5
     },
     {
-      "term": "ット情報",
+      "term": "ショ",
       "count": 5
     },
     {
-      "term": "する",
+      "term": "の証",
       "count": 5
     },
     {
-      "term": "リフ",
+      "term": "スを",
       "count": 5
     },
     {
-      "term": "のソ",
+      "term": "たコ",
       "count": 5
     },
     {
-      "term": "理す",
+      "term": "境の",
+      "count": 5
+    },
+    {
+      "term": "ュー",
+      "count": 5
+    },
+    {
+      "term": "を必",
       "count": 5
     }
   ],
