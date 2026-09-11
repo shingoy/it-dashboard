@@ -68,8 +68,7 @@
     </div>
     <div class="hidden justify-center items-center md:flex gap-4">
       <p class="underline cursor-pointer underline-offset-2 hover:text-nisc-link-hover" id="mb-move-content">本文へ</p>
-      <div class="flex w-[1px] h-[1rem] bg-gray-300"></div><a
-        class="underline underline-offset-2 hover:text-nisc-link-hover" href="/eng/index.html">English </a>
+      <div class="flex w-[1px] h-[1rem] bg-gray-300"></div><a class="underline underline-offset-2 hover:text-nisc-link-hover" href="/eng/index.html">English </a>
         <div class="hidden md:flex w-[1px] h-[1rem] bg-gray-300"></div><a class="hidden md:flex underline underline-offset-2 hover:text-nisc-link-hover" href="/search-result">検索 </a>
     </div>
     <div class="hidden fixed top-0 right-0 w-screen h-screen bg-white z-[999]" id="mobileMenu">
@@ -112,6 +111,10 @@
       <div class="flex gap-[2rem] md:flex-col">
         <div class="flex-1">
           <h2 class="heading1">国家サイバー統括室（NCO）を騙った不審な電話等にご注意ください</h2>
+          <div class="flex flex-col gap-2 px-2 my-4">
+            <div class="flex gap-2 text-nisc-primary items-center"><i class="triangle-block-free"></i><a class="link" style="color: #BF1E33;"
+                target="_blank" href="https://www.digital.go.jp/news/2026-0911-01">国家サイバー統括室（NCO）の名を騙った、不審なメール等にご注意ください。</a></div>
+          </div>
           <div class="flex flex-col gap-2 px-2 my-4">
             <div class="flex gap-2 text-nisc-primary items-center"><i class="triangle-block-free"></i><a class="link"
                 target="_blank" href="/news/20231120.html">国家サイバー統括室（NCO）、NISCの名を騙り、金銭を要求する不審な電話が確認されています。</a></div>

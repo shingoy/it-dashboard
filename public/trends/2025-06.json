@@ -2,179 +2,143 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "する",
-      "count": 28
+      "term": "github",
+      "count": 26
     },
     {
-      "term": "トリ",
+      "term": "ット",
       "count": 20
     },
     {
-      "term": "ファ",
-      "count": 20
-    },
-    {
-      "term": "物の",
-      "count": 17
-    },
-    {
-      "term": "には",
-      "count": 17
-    },
-    {
-      "term": "ジト",
-      "count": 16
-    },
-    {
-      "term": "ムの",
-      "count": 15
-    },
-    {
-      "term": "必要",
-      "count": 15
-    },
-    {
-      "term": "なる",
-      "count": 15
+      "term": "パイプラ",
+      "count": 19
     },
     {
       "term": "ドフ",
       "count": 14
     },
     {
-      "term": "る必",
-      "count": 14
+      "term": "おけ",
+      "count": 12
     },
     {
-      "term": "とな",
-      "count": 14
+      "term": "トの",
+      "count": 12
     },
     {
-      "term": "リポジト",
-      "count": 14
+      "term": "体的",
+      "count": 12
     },
     {
-      "term": "ンを",
-      "count": 13
+      "term": "イメ",
+      "count": 12
     },
     {
-      "term": "る図",
-      "count": 13
+      "term": "果物",
+      "count": 12
     },
     {
-      "term": "workflows",
-      "count": 13
-    },
-    {
-      "term": "範囲",
+      "term": "シー",
       "count": 11
     },
     {
-      "term": "10",
+      "term": "サー",
       "count": 11
-    },
-    {
-      "term": "ブラ",
-      "count": 10
-    },
-    {
-      "term": "ナリ",
-      "count": 10
-    },
-    {
-      "term": "ー ",
-      "count": 10
     },
     {
       "term": "com",
+      "count": 11
+    },
+    {
+      "term": "https",
+      "count": 11
+    },
+    {
+      "term": "定す",
       "count": 10
     },
     {
-      "term": "ズの",
+      "term": "検証",
+      "count": 10
+    },
+    {
+      "term": "ここ",
+      "count": 10
+    },
+    {
+      "term": "provenance",
+      "count": 10
+    },
+    {
+      "term": "バリ",
       "count": 9
     },
     {
-      "term": "れて",
+      "term": "が ",
       "count": 9
     },
     {
-      "term": "ルを",
-      "count": 9
-    },
-    {
-      "term": "ンa",
-      "count": 9
-    },
-    {
-      "term": "ョン",
+      "term": "ド上",
       "count": 8
     },
     {
-      "term": "通し",
+      "term": "スト",
       "count": 8
     },
     {
-      "term": "ーカ",
+      "term": "の取",
       "count": 8
     },
     {
-      "term": "docker",
+      "term": "リソ",
       "count": 8
     },
     {
-      "term": "タデ",
+      "term": "スク",
       "count": 8
     },
     {
-      "term": "json",
+      "term": "のよ",
       "count": 8
     },
     {
-      "term": "キー",
+      "term": "組み",
+      "count": 8
+    },
+    {
+      "term": "on",
+      "count": 8
+    },
+    {
+      "term": "シス",
       "count": 7
     },
     {
-      "term": "の漏",
+      "term": "アッ",
       "count": 7
     },
     {
-      "term": "カル",
+      "term": "ーテ",
       "count": 7
     },
     {
-      "term": "バイナリ",
+      "term": "なお",
       "count": 7
     },
     {
-      "term": "ジを",
-      "count": 7
-    },
-    {
-      "term": "れば",
-      "count": 7
-    },
-    {
-      "term": "らの",
-      "count": 7
-    },
-    {
-      "term": "図 ",
-      "count": 7
-    },
-    {
-      "term": "混入",
-      "count": 7
-    },
-    {
-      "term": "トに",
+      "term": "めに",
       "count": 6
     },
     {
-      "term": "定内",
+      "term": "運用",
       "count": 6
     },
     {
-      "term": "ポジ",
+      "term": "ショ",
+      "count": 6
+    },
+    {
+      "term": "ワー",
       "count": 6
     },
     {
@@ -182,23 +146,59 @@
       "count": 6
     },
     {
-      "term": "範囲の制",
+      "term": "リ時",
       "count": 6
     },
     {
-      "term": "たコ",
+      "term": "スキ",
       "count": 6
     },
     {
-      "term": "同様",
+      "term": "るよ",
       "count": 6
     },
     {
-      "term": "検出",
+      "term": "な対",
       "count": 6
     },
     {
-      "term": "産管",
+      "term": "これ",
+      "count": 6
+    },
+    {
+      "term": "れる",
+      "count": 6
+    },
+    {
+      "term": "and",
+      "count": 6
+    },
+    {
+      "term": "ることが",
+      "count": 6
+    },
+    {
+      "term": "保守",
+      "count": 5
+    },
+    {
+      "term": "ット情報",
+      "count": 5
+    },
+    {
+      "term": "する",
+      "count": 5
+    },
+    {
+      "term": "リフ",
+      "count": 5
+    },
+    {
+      "term": "のソ",
+      "count": 5
+    },
+    {
+      "term": "理す",
       "count": 5
     }
   ],
