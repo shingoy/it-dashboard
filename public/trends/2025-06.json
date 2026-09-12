@@ -2,79 +2,99 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ード",
-      "count": 21
+      "term": "ある",
+      "count": 25
     },
     {
-      "term": "パイプラ",
+      "term": "管理",
       "count": 20
     },
     {
-      "term": "果物",
-      "count": 20
-    },
-    {
-      "term": "ci",
-      "count": 17
-    },
-    {
-      "term": "ォー",
+      "term": "の保",
       "count": 16
-    },
-    {
-      "term": "デー",
-      "count": 16
-    },
-    {
-      "term": "フェ",
-      "count": 15
-    },
-    {
-      "term": "脆弱",
-      "count": 15
-    },
-    {
-      "term": "した",
-      "count": 15
-    },
-    {
-      "term": "スコ",
-      "count": 14
     },
     {
       "term": "に ",
+      "count": 15
+    },
+    {
+      "term": "スチ",
       "count": 14
     },
     {
-      "term": "とで",
+      "term": "ルを",
+      "count": 14
+    },
+    {
+      "term": "があ",
+      "count": 14
+    },
+    {
+      "term": "ンテ",
+      "count": 14
+    },
+    {
+      "term": "中略",
       "count": 13
     },
     {
-      "term": "シークレ",
+      "term": "とが",
+      "count": 13
+    },
+    {
+      "term": "的に",
       "count": 12
     },
     {
-      "term": "可能",
+      "term": "用す",
       "count": 12
     },
     {
-      "term": "して",
-      "count": 12
+      "term": "チェ",
+      "count": 11
     },
     {
-      "term": "理を",
+      "term": "保 ",
       "count": 10
     },
     {
-      "term": "ドフ",
+      "term": "ビルドフ",
       "count": 10
     },
     {
-      "term": "プラット",
+      "term": "脆弱",
+      "count": 10
+    },
+    {
+      "term": "10",
+      "count": 10
+    },
+    {
+      "term": "とし",
+      "count": 10
+    },
+    {
+      "term": "ubuntu",
+      "count": 10
+    },
+    {
+      "term": "on",
+      "count": 10
+    },
+    {
+      "term": "の確",
       "count": 9
     },
     {
-      "term": "依存",
+      "term": "の制",
+      "count": 9
+    },
+    {
+      "term": "ェア",
+      "count": 9
+    },
+    {
+      "term": "ている",
       "count": 9
     },
     {
@@ -82,123 +102,103 @@
       "count": 9
     },
     {
-      "term": "ムが",
+      "term": "yml",
       "count": 9
     },
     {
-      "term": "リソ",
+      "term": "ーに",
       "count": 8
     },
     {
-      "term": "書で",
+      "term": "る ",
       "count": 8
     },
     {
-      "term": "なお",
+      "term": "json",
       "count": 8
     },
     {
-      "term": "用し",
-      "count": 8
-    },
-    {
-      "term": "を実",
-      "count": 8
-    },
-    {
-      "term": "repository",
-      "count": 8
-    },
-    {
-      "term": "システム",
+      "term": "組織",
       "count": 7
     },
     {
-      "term": "示す",
+      "term": "ト情",
       "count": 7
     },
     {
-      "term": "ーテ",
+      "term": "およ",
       "count": 7
     },
     {
-      "term": "が考",
+      "term": "図 ",
       "count": 7
     },
     {
-      "term": "ルに",
+      "term": "った",
       "count": 7
     },
     {
-      "term": "digest",
-      "count": 7
-    },
-    {
-      "term": "ュリ",
+      "term": "詳細",
       "count": 6
     },
     {
-      "term": "を示",
+      "term": "code",
       "count": 6
     },
     {
-      "term": "タデータ",
+      "term": "イル",
       "count": 6
     },
     {
-      "term": "の事",
+      "term": "ド成",
       "count": 6
     },
     {
-      "term": "る必",
+      "term": "28",
       "count": 6
     },
     {
-      "term": "ref",
+      "term": "等の",
       "count": 6
     },
     {
-      "term": "and",
+      "term": "プロバイ",
       "count": 6
     },
     {
-      "term": "steps",
+      "term": "得し",
       "count": 6
     },
     {
-      "term": "合は",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "シナ",
+      "term": "ムに",
+      "count": 6
+    },
+    {
+      "term": "取り",
+      "count": 6
+    },
+    {
+      "term": "rule",
+      "count": 6
+    },
+    {
+      "term": "仕組",
+      "count": 6
+    },
+    {
+      "term": "用保",
       "count": 5
     },
     {
-      "term": "ショ",
+      "term": "た信",
       "count": 5
     },
     {
-      "term": "の証",
-      "count": 5
-    },
-    {
-      "term": "スを",
-      "count": 5
-    },
-    {
-      "term": "たコ",
-      "count": 5
-    },
-    {
-      "term": "境の",
-      "count": 5
-    },
-    {
-      "term": "ュー",
-      "count": 5
-    },
-    {
-      "term": "を必",
+      "term": "ーズ",
       "count": 5
     }
   ],

@@ -2,183 +2,159 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "デー",
+      "term": "ベー",
       "count": 26
     },
     {
-      "term": "システム",
-      "count": 19
+      "term": "ジタ",
+      "count": 23
     },
     {
-      "term": "まえ",
+      "term": "効率",
+      "count": 18
+    },
+    {
+      "term": "対応",
       "count": 17
     },
     {
-      "term": "の整",
+      "term": "ある",
+      "count": 17
+    },
+    {
+      "term": "等の",
       "count": 16
     },
     {
-      "term": "用し",
+      "term": "を踏",
+      "count": 16
+    },
+    {
+      "term": "等を",
+      "count": 15
+    },
+    {
+      "term": "討 ",
       "count": 14
     },
     {
-      "term": "ル行",
+      "term": "的に",
       "count": 14
     },
     {
-      "term": "所在",
+      "term": "管理",
       "count": 13
-    },
-    {
-      "term": "政推",
-      "count": 13
-    },
-    {
-      "term": "化を",
-      "count": 13
-    },
-    {
-      "term": "続に",
-      "count": 13
-    },
-    {
-      "term": "公的",
-      "count": 12
-    },
-    {
-      "term": "ュー",
-      "count": 12
-    },
-    {
-      "term": "係データ",
-      "count": 11
-    },
-    {
-      "term": "の公",
-      "count": 11
-    },
-    {
-      "term": "12",
-      "count": 11
-    },
-    {
-      "term": "標準",
-      "count": 11
-    },
-    {
-      "term": "において",
-      "count": 11
-    },
-    {
-      "term": "可能",
-      "count": 11
-    },
-    {
-      "term": "め ",
-      "count": 11
-    },
-    {
-      "term": "項目",
-      "count": 11
-    },
-    {
-      "term": "概要",
-      "count": 10
-    },
-    {
-      "term": "る法",
-      "count": 10
-    },
-    {
-      "term": "化し",
-      "count": 9
     },
     {
       "term": "に ",
+      "count": 13
+    },
+    {
+      "term": "があ",
+      "count": 13
+    },
+    {
+      "term": "務省",
+      "count": 13
+    },
+    {
+      "term": "記関",
+      "count": 12
+    },
+    {
+      "term": "の確",
+      "count": 11
+    },
+    {
+      "term": "負担",
+      "count": 11
+    },
+    {
+      "term": "デジタル",
+      "count": 11
+    },
+    {
+      "term": "ケジ",
+      "count": 10
+    },
+    {
+      "term": "期 ",
+      "count": 10
+    },
+    {
+      "term": "め ",
+      "count": 10
+    },
+    {
+      "term": "億円",
       "count": 9
     },
     {
+      "term": "10",
+      "count": 9
+    },
+    {
+      "term": "正確",
+      "count": 9
+    },
+    {
+      "term": "の標",
+      "count": 9
+    },
+    {
+      "term": "進め",
+      "count": 9
+    },
+    {
+      "term": "ロハ",
+      "count": 9
+    },
+    {
+      "term": "リ ",
+      "count": 8
+    },
+    {
+      "term": "有等",
+      "count": 8
+    },
+    {
+      "term": "応を",
+      "count": 8
+    },
+    {
+      "term": "タの",
+      "count": 7
+    },
+    {
+      "term": "年度",
+      "count": 7
+    },
+    {
+      "term": "る情",
+      "count": 7
+    },
+    {
+      "term": "の行",
+      "count": 7
+    },
+    {
+      "term": "ムに",
+      "count": 7
+    },
+    {
       "term": "所有",
-      "count": 8
-    },
-    {
-      "term": "応策",
-      "count": 8
-    },
-    {
-      "term": "認 ",
-      "count": 8
-    },
-    {
-      "term": "第３",
-      "count": 8
-    },
-    {
-      "term": "タに",
-      "count": 8
-    },
-    {
-      "term": "を進",
-      "count": 8
-    },
-    {
-      "term": "とで",
-      "count": 8
-    },
-    {
-      "term": "関に",
-      "count": 8
-    },
-    {
-      "term": "累計",
-      "count": 8
-    },
-    {
-      "term": "項 ",
-      "count": 7
-    },
-    {
-      "term": "報 ",
-      "count": 7
-    },
-    {
-      "term": "を実",
-      "count": 7
-    },
-    {
-      "term": "要で",
-      "count": 7
-    },
-    {
-      "term": "つつ",
-      "count": 7
-    },
-    {
-      "term": "目の",
-      "count": 7
-    },
-    {
-      "term": "本的",
       "count": 6
     },
     {
-      "term": "第５",
+      "term": "用 ",
       "count": 6
     },
     {
-      "term": "針を",
+      "term": "関係行政",
       "count": 6
     },
     {
-      "term": "年度以降",
-      "count": 6
-    },
-    {
-      "term": "題に",
-      "count": 6
-    },
-    {
-      "term": "各シ",
+      "term": "わえ",
       "count": 6
     },
     {
@@ -186,7 +162,15 @@
       "count": 6
     },
     {
-      "term": "裁判",
+      "term": "る場",
+      "count": 6
+    },
+    {
+      "term": "ル社",
+      "count": 6
+    },
+    {
+      "term": "とが",
       "count": 6
     },
     {
@@ -194,11 +178,27 @@
       "count": 6
     },
     {
-      "term": "24",
+      "term": "記に",
       "count": 6
     },
     {
-      "term": "合に",
+      "term": "庁が",
+      "count": 6
+    },
+    {
+      "term": "供に",
+      "count": 5
+    },
+    {
+      "term": "民 ",
+      "count": 5
+    },
+    {
+      "term": "住居",
+      "count": 5
+    },
+    {
+      "term": "度 ",
       "count": 5
     }
   ],
