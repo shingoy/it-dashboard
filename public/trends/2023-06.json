@@ -2,171 +2,139 @@
   "month": "2023-06",
   "keywords": [
     {
-      "term": "改正",
-      "count": 835
+      "term": "項 ",
+      "count": 923
+    },
+    {
+      "term": "等 ",
+      "count": 728
+    },
+    {
+      "term": "第1",
+      "count": 602
+    },
+    {
+      "term": "する",
+      "count": 493
     },
     {
       "term": "度 ",
-      "count": 772
+      "count": 459
     },
     {
-      "term": "否 ",
-      "count": 763
+      "term": "確保",
+      "count": 419
     },
     {
-      "term": "等の",
-      "count": 754
+      "term": "月 ",
+      "count": 364
     },
     {
-      "term": "施行",
-      "count": 604
+      "term": "法 ",
+      "count": 358
     },
     {
-      "term": "別表",
-      "count": 496
+      "term": "月６",
+      "count": 342
     },
     {
-      "term": "第4",
-      "count": 455
+      "term": "条項",
+      "count": 324
     },
     {
-      "term": "10",
-      "count": 399
+      "term": "条の",
+      "count": 323
     },
     {
-      "term": "年度",
-      "count": 375
+      "term": "の概",
+      "count": 321
     },
     {
-      "term": "管理",
-      "count": 365
+      "term": "共通",
+      "count": 284
     },
     {
-      "term": "ー共",
-      "count": 361
-    },
-    {
-      "term": "期 ",
-      "count": 349
-    },
-    {
-      "term": "働省",
-      "count": 345
-    },
-    {
-      "term": "済 ",
-      "count": 339
-    },
-    {
-      "term": "ジタ",
-      "count": 329
-    },
-    {
-      "term": "和６",
-      "count": 312
-    },
-    {
-      "term": "和５",
-      "count": 303
-    },
-    {
-      "term": "見 ",
-      "count": 302
-    },
-    {
-      "term": "さずとも",
-      "count": 276
-    },
-    {
-      "term": "表１",
-      "count": 266
-    },
-    {
-      "term": "に ",
-      "count": 255
+      "term": "確認",
+      "count": 271
     },
     {
       "term": "法令",
       "count": 254
     },
     {
-      "term": "月３",
-      "count": 235
+      "term": "通達",
+      "count": 249
     },
     {
-      "term": "月６",
-      "count": 229
+      "term": "概要",
+      "count": 239
     },
     {
-      "term": "を確",
-      "count": 225
+      "term": "号 ",
+      "count": 239
+    },
+    {
+      "term": "特定",
+      "count": 233
+    },
+    {
+      "term": "に関",
+      "count": 231
+    },
+    {
+      "term": "知通",
+      "count": 230
+    },
+    {
+      "term": "タル",
+      "count": 227
+    },
+    {
+      "term": "11",
+      "count": 226
     },
     {
       "term": "程表",
-      "count": 206
+      "count": 220
     },
     {
-      "term": "の発出又",
-      "count": 205
+      "term": "ー共",
+      "count": 214
     },
     {
-      "term": "型 ",
-      "count": 203
+      "term": "の内",
+      "count": 212
     },
     {
-      "term": "デジタル",
-      "count": 200
-    },
-    {
-      "term": "生労",
-      "count": 198
-    },
-    {
-      "term": "厚生",
-      "count": 197
+      "term": "目視規制",
+      "count": 199
     },
     {
       "term": "済産",
       "count": 196
     },
     {
-      "term": "経済",
-      "count": 194
+      "term": "制 ",
+      "count": 195
+    },
+    {
+      "term": "産業",
+      "count": 191
     },
     {
       "term": "の保",
       "count": 187
     },
     {
-      "term": "内容概要",
-      "count": 182
-    },
-    {
-      "term": "ずと",
+      "term": "第8",
       "count": 180
     },
     {
-      "term": "ナログ規",
-      "count": 179
+      "term": "ー ",
+      "count": 180
     },
     {
-      "term": "告示",
-      "count": 178
-    },
-    {
-      "term": "務省",
-      "count": 176
-    },
-    {
-      "term": "11",
-      "count": 175
-    },
-    {
-      "term": "ける",
-      "count": 174
-    },
-    {
-      "term": "年中",
+      "term": "第2",
       "count": 174
     },
     {
@@ -174,32 +142,64 @@
       "count": 173
     },
     {
-      "term": "しの",
-      "count": 169
+      "term": "完了",
+      "count": 171
     },
     {
-      "term": "対象",
-      "count": 168
+      "term": "令 ",
+      "count": 171
     },
     {
-      "term": "検査",
+      "term": "直し",
+      "count": 170
+    },
+    {
+      "term": "視ー",
       "count": 165
     },
     {
-      "term": "査 ",
-      "count": 164
+      "term": "国土交通",
+      "count": 165
     },
     {
-      "term": "デジ",
+      "term": "省 ",
       "count": 163
     },
     {
-      "term": "省庁",
-      "count": 160
+      "term": "条項の一",
+      "count": 161
     },
     {
-      "term": "る法律",
+      "term": "期 ",
+      "count": 161
+    },
+    {
+      "term": "類 ",
       "count": 159
+    },
+    {
+      "term": "和４",
+      "count": 156
+    },
+    {
+      "term": "表 ",
+      "count": 155
+    },
+    {
+      "term": "見直しの",
+      "count": 152
+    },
+    {
+      "term": "常駐",
+      "count": 150
+    },
+    {
+      "term": "見直し",
+      "count": 150
+    },
+    {
+      "term": "施設",
+      "count": 150
     }
   ],
   "meetings": [

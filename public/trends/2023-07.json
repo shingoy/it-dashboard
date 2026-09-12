@@ -2,115 +2,107 @@
   "month": "2023-07",
   "keywords": [
     {
-      "term": "ある",
-      "count": 2531
+      "term": "につ",
+      "count": 2385
     },
     {
-      "term": "等の",
-      "count": 2189
+      "term": "よう",
+      "count": 2071
     },
     {
-      "term": "があ",
-      "count": 2041
+      "term": "プロ",
+      "count": 1521
     },
     {
-      "term": "に ",
-      "count": 1782
+      "term": "要が",
+      "count": 1401
     },
     {
-      "term": "管理",
-      "count": 1751
-    },
-    {
-      "term": "等を",
-      "count": 1734
-    },
-    {
-      "term": "る場",
-      "count": 1681
-    },
-    {
-      "term": "的に",
-      "count": 1366
-    },
-    {
-      "term": "適切",
-      "count": 1319
-    },
-    {
-      "term": "とが",
+      "term": "るよ",
       "count": 1302
     },
     {
-      "term": "ムに",
-      "count": 1183
+      "term": "た ",
+      "count": 1236
     },
     {
-      "term": "る情",
-      "count": 1147
+      "term": "とが",
+      "count": 1096
     },
     {
-      "term": "対応",
-      "count": 1093
+      "term": "ービ",
+      "count": 1040
     },
     {
-      "term": "取り",
-      "count": 989
+      "term": "ータ",
+      "count": 1006
     },
     {
-      "term": "の確",
-      "count": 868
+      "term": "が必",
+      "count": 996
     },
     {
-      "term": "を踏",
-      "count": 842
+      "term": "等 ",
+      "count": 962
     },
     {
-      "term": "ロジ",
-      "count": 764
+      "term": "確保",
+      "count": 943
     },
     {
-      "term": "組織",
-      "count": 745
+      "term": "よっ",
+      "count": 911
     },
     {
-      "term": "ェア",
-      "count": 735
+      "term": "しな",
+      "count": 897
     },
     {
-      "term": "しい",
-      "count": 727
+      "term": "項 ",
+      "count": 893
     },
     {
-      "term": "体制",
-      "count": 721
+      "term": "確認",
+      "count": 837
     },
     {
-      "term": "め ",
-      "count": 711
+      "term": "トに",
+      "count": 819
     },
     {
-      "term": "せる",
-      "count": 709
+      "term": "政府",
+      "count": 786
     },
     {
-      "term": "ジタ",
-      "count": 705
+      "term": "ーシ",
+      "count": 778
     },
     {
-      "term": "策の",
-      "count": 682
+      "term": "ート",
+      "count": 776
     },
     {
-      "term": "な ",
-      "count": 672
+      "term": "受け",
+      "count": 753
     },
     {
-      "term": "把握",
-      "count": 649
+      "term": "章 ",
+      "count": 752
     },
     {
-      "term": "ルを",
+      "term": "定さ",
+      "count": 707
+    },
+    {
+      "term": "基本対策",
+      "count": 703
+    },
+    {
+      "term": "特定",
+      "count": 650
+    },
+    {
+      "term": "ラウ",
       "count": 645
     },
     {
@@ -118,88 +110,96 @@
       "count": 643
     },
     {
-      "term": "用す",
-      "count": 623
+      "term": "スに",
+      "count": 595
     },
     {
-      "term": "のみ",
-      "count": 571
+      "term": "の設",
+      "count": 581
     },
     {
-      "term": "れ ",
-      "count": 571
+      "term": "当た",
+      "count": 572
     },
     {
-      "term": "ネッ",
-      "count": 570
+      "term": "クを",
+      "count": 555
     },
     {
-      "term": "お ",
-      "count": 561
+      "term": "るの",
+      "count": 546
     },
     {
-      "term": "た情",
-      "count": 545
+      "term": "構築",
+      "count": 542
     },
     {
-      "term": "り扱",
-      "count": 536
+      "term": "な情",
+      "count": 521
     },
     {
-      "term": "追加",
-      "count": 526
+      "term": "とき",
+      "count": 507
     },
     {
-      "term": "定期",
+      "term": "る必",
       "count": 496
     },
     {
-      "term": "かに",
-      "count": 494
+      "term": "用し",
+      "count": 491
     },
     {
-      "term": "the",
-      "count": 488
+      "term": "けで",
+      "count": 485
     },
     {
-      "term": "ンテ",
-      "count": 479
+      "term": "リス",
+      "count": 484
     },
     {
-      "term": "でな",
-      "count": 461
+      "term": "全て",
+      "count": 476
     },
     {
-      "term": "る際",
-      "count": 445
+      "term": "以外",
+      "count": 475
     },
     {
-      "term": "ること",
-      "count": 440
+      "term": "of",
+      "count": 474
     },
     {
-      "term": "詳細",
-      "count": 421
+      "term": "and",
+      "count": 469
+    },
+    {
+      "term": "コン",
+      "count": 452
+    },
+    {
+      "term": "for",
+      "count": 448
     },
     {
       "term": "in",
-      "count": 415
+      "count": 443
     },
     {
-      "term": "置を",
+      "term": "クの",
+      "count": 428
+    },
+    {
+      "term": "に留",
+      "count": 414
+    },
+    {
+      "term": "アクセス",
       "count": 411
     },
     {
-      "term": "スが",
-      "count": 408
-    },
-    {
-      "term": "効率",
-      "count": 404
-    },
-    {
-      "term": "の保",
-      "count": 393
+      "term": "には",
+      "count": 410
     }
   ],
   "meetings": [
