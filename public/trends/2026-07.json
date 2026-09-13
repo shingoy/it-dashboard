@@ -2,11 +2,15 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "情報",
-      "count": 28
+      "term": "ベー",
+      "count": 26
     },
     {
-      "term": "ジス",
+      "term": "シス",
+      "count": 22
+    },
+    {
+      "term": "した",
       "count": 21
     },
     {
@@ -14,39 +18,19 @@
       "count": 20
     },
     {
-      "term": "必要",
+      "term": "国民",
       "count": 19
     },
     {
-      "term": "動産",
-      "count": 17
+      "term": "を行",
+      "count": 19
     },
     {
-      "term": "タの",
+      "term": "るこ",
       "count": 16
     },
     {
-      "term": "手続",
-      "count": 16
-    },
-    {
-      "term": "産登",
-      "count": 15
-    },
-    {
-      "term": "等を",
-      "count": 15
-    },
-    {
-      "term": "11",
-      "count": 15
-    },
-    {
-      "term": "ある",
-      "count": 15
-    },
-    {
-      "term": "され",
+      "term": "る国",
       "count": 15
     },
     {
@@ -54,67 +38,103 @@
       "count": 14
     },
     {
-      "term": "課題",
+      "term": "るも",
+      "count": 14
+    },
+    {
+      "term": "とに",
       "count": 13
     },
     {
-      "term": "の省",
+      "term": "し ",
+      "count": 13
+    },
+    {
+      "term": "られ",
       "count": 12
     },
     {
-      "term": "のデ",
-      "count": 12
-    },
-    {
-      "term": "場合",
+      "term": "省庁",
       "count": 11
     },
     {
-      "term": "が存",
+      "term": "ての",
       "count": 11
+    },
+    {
+      "term": "ル ",
+      "count": 10
+    },
+    {
+      "term": "基づ",
+      "count": 10
+    },
+    {
+      "term": "サー",
+      "count": 10
     },
     {
       "term": "イロ",
       "count": 10
     },
     {
-      "term": "等 ",
+      "term": "付書",
       "count": 9
     },
     {
-      "term": "政府",
+      "term": "22",
       "count": 9
     },
     {
-      "term": "号イ",
+      "term": "利便",
       "count": 9
     },
     {
-      "term": "の内",
+      "term": "され",
+      "count": 9
+    },
+    {
+      "term": "ジタ",
+      "count": 9
+    },
+    {
+      "term": "はデ",
+      "count": 9
+    },
+    {
+      "term": "18",
+      "count": 9
+    },
+    {
+      "term": "所有",
       "count": 8
     },
     {
-      "term": "とこ",
+      "term": "リの",
       "count": 8
     },
     {
-      "term": "別の",
+      "term": "の法",
       "count": 8
     },
     {
-      "term": "ここ",
+      "term": "続等",
       "count": 8
     },
     {
-      "term": "スケジュ",
+      "term": "や ",
       "count": 8
     },
     {
-      "term": "への",
+      "term": "用途",
       "count": 7
     },
     {
-      "term": "続に",
+      "term": "基礎",
+      "count": 7
+    },
+    {
+      "term": "15",
       "count": 7
     },
     {
@@ -122,35 +142,31 @@
       "count": 7
     },
     {
-      "term": "るま",
+      "term": "つつ",
       "count": 7
     },
     {
-      "term": "用者",
+      "term": "とな",
       "count": 7
     },
     {
-      "term": "トの",
+      "term": "度以",
       "count": 6
     },
     {
-      "term": "題に",
+      "term": "利用促進",
       "count": 6
     },
     {
-      "term": "機関の役",
+      "term": "活用",
       "count": 6
     },
     {
-      "term": "記関係デ",
+      "term": "ースの整",
       "count": 6
     },
     {
-      "term": "かに",
-      "count": 6
-    },
-    {
-      "term": "て行",
+      "term": "施す",
       "count": 6
     },
     {
@@ -158,47 +174,31 @@
       "count": 6
     },
     {
-      "term": "費用",
+      "term": "記に",
       "count": 6
     },
     {
-      "term": "う行",
+      "term": "トに",
       "count": 6
     },
     {
-      "term": "タセット",
+      "term": "報提",
+      "count": 6
+    },
+    {
+      "term": "組を",
       "count": 5
     },
     {
-      "term": "の総",
+      "term": "政推",
       "count": 5
     },
     {
-      "term": "度 ",
+      "term": "備し",
       "count": 5
     },
     {
-      "term": "ケー",
-      "count": 5
-    },
-    {
-      "term": "るデータ",
-      "count": 5
-    },
-    {
-      "term": "考え",
-      "count": 5
-    },
-    {
-      "term": "点か",
-      "count": 5
-    },
-    {
-      "term": "応じ",
-      "count": 5
-    },
-    {
-      "term": "手続等に",
+      "term": "る必",
       "count": 5
     }
   ],

@@ -2,151 +2,39 @@
   "month": "2026-04",
   "keywords": [
     {
-      "term": "入し",
+      "term": "した",
       "count": 2
     },
     {
-      "term": "年５",
+      "term": "合は",
       "count": 2
-    },
-    {
-      "term": "人工知能",
-      "count": 2
-    },
-    {
-      "term": "場合",
-      "count": 2
-    },
-    {
-      "term": "予算",
-      "count": 2
-    },
-    {
-      "term": "に含まず",
-      "count": 2
-    },
-    {
-      "term": "人工",
-      "count": 2
-    },
-    {
-      "term": "成立",
-      "count": 2
-    },
-    {
-      "term": "のデ",
-      "count": 1
-    },
-    {
-      "term": "フラ",
-      "count": 1
-    },
-    {
-      "term": "発支援",
-      "count": 1
-    },
-    {
-      "term": "いが",
-      "count": 1
-    },
-    {
-      "term": "支援",
-      "count": 1
-    },
-    {
-      "term": "情報",
-      "count": 1
-    },
-    {
-      "term": "在職",
-      "count": 1
-    },
-    {
-      "term": "思決",
-      "count": 1
-    },
-    {
-      "term": "設現",
-      "count": 1
-    },
-    {
-      "term": "の人材開",
-      "count": 1
-    },
-    {
-      "term": "究等の実",
-      "count": 1
-    },
-    {
-      "term": "性確",
-      "count": 1
-    },
-    {
-      "term": "ハイ",
-      "count": 1
-    },
-    {
-      "term": "ゲット予",
-      "count": 1
-    },
-    {
-      "term": "円革",
-      "count": 1
-    },
-    {
-      "term": "金の",
-      "count": 1
-    },
-    {
-      "term": "等を",
-      "count": 1
-    },
-    {
-      "term": "農業推進",
-      "count": 1
-    },
-    {
-      "term": "ズ探",
-      "count": 1
-    },
-    {
-      "term": "発文",
-      "count": 1
-    },
-    {
-      "term": "開発力の",
-      "count": 1
-    },
-    {
-      "term": "約１",
-      "count": 1
     },
     {
       "term": "研究",
+      "count": 2
+    },
+    {
+      "term": "の開",
+      "count": 2
+    },
+    {
+      "term": "基づ",
       "count": 1
     },
     {
-      "term": "和8",
+      "term": "材の",
       "count": 1
     },
     {
-      "term": "えａ",
+      "term": "築の",
       "count": 1
     },
     {
-      "term": "11",
+      "term": "ノロ",
       "count": 1
     },
     {
-      "term": "成ａ",
-      "count": 1
-    },
-    {
-      "term": "オフ",
-      "count": 1
-    },
-    {
-      "term": "ク対応の",
+      "term": "づく",
       "count": 1
     },
     {
@@ -154,51 +42,163 @@
       "count": 1
     },
     {
-      "term": "変革",
+      "term": "調査",
       "count": 1
     },
     {
-      "term": "び人",
+      "term": "の透",
       "count": 1
     },
     {
-      "term": "の構築",
+      "term": "材開",
       "count": 1
     },
     {
-      "term": "基盤モデ",
+      "term": "サイバー",
       "count": 1
     },
     {
-      "term": "た建",
+      "term": "学研",
       "count": 1
     },
     {
-      "term": "立９",
+      "term": "高め",
       "count": 1
     },
     {
-      "term": "度化",
+      "term": "ンセ",
       "count": 1
     },
     {
-      "term": "イパフォ",
+      "term": "や介護テ",
       "count": 1
     },
     {
-      "term": "頼性",
+      "term": "や介",
       "count": 1
     },
     {
-      "term": "クノロジ",
+      "term": "医療",
       "count": 1
     },
     {
-      "term": "援助",
+      "term": "シス",
       "count": 1
     },
     {
-      "term": "連携型",
+      "term": "導ａ",
+      "count": 1
+    },
+    {
+      "term": "の抜",
+      "count": 1
+    },
+    {
+      "term": "ク対",
+      "count": 1
+    },
+    {
+      "term": "画の",
+      "count": 1
+    },
+    {
+      "term": "画的",
+      "count": 1
+    },
+    {
+      "term": "ベー",
+      "count": 1
+    },
+    {
+      "term": "震動",
+      "count": 1
+    },
+    {
+      "term": "の製",
+      "count": 1
+    },
+    {
+      "term": "総額",
+      "count": 1
+    },
+    {
+      "term": "スマ",
+      "count": 1
+    },
+    {
+      "term": "スク",
+      "count": 1
+    },
+    {
+      "term": "働す",
+      "count": 1
+    },
+    {
+      "term": "金の",
+      "count": 1
+    },
+    {
+      "term": "シーズ探",
+      "count": 1
+    },
+    {
+      "term": "人戦",
+      "count": 1
+    },
+    {
+      "term": "活用",
+      "count": 1
+    },
+    {
+      "term": "農業推進",
+      "count": 1
+    },
+    {
+      "term": "サー",
+      "count": 1
+    },
+    {
+      "term": "導入",
+      "count": 1
+    },
+    {
+      "term": "育訓練",
+      "count": 1
+    },
+    {
+      "term": "た継",
+      "count": 1
+    },
+    {
+      "term": "応の",
+      "count": 1
+    },
+    {
+      "term": "定は",
+      "count": 1
+    },
+    {
+      "term": "積み",
+      "count": 1
+    },
+    {
+      "term": "の職",
+      "count": 1
+    },
+    {
+      "term": "の方",
+      "count": 1
+    },
+    {
+      "term": "算総",
+      "count": 1
+    },
+    {
+      "term": "信頼",
+      "count": 1
+    },
+    {
+      "term": "力確",
       "count": 1
     }
   ],
