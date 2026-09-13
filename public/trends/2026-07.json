@@ -2,71 +2,83 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "ータ",
-      "count": 27
+      "term": "情報",
+      "count": 28
     },
     {
-      "term": "ベー",
-      "count": 26
+      "term": "ジス",
+      "count": 21
     },
     {
-      "term": "につ",
-      "count": 22
+      "term": "こと",
+      "count": 20
     },
     {
-      "term": "データベ",
-      "count": 22
-    },
-    {
-      "term": "国民",
+      "term": "必要",
       "count": 19
     },
     {
-      "term": "便性",
-      "count": 18
+      "term": "動産",
+      "count": 17
     },
     {
-      "term": "備 ",
-      "count": 14
+      "term": "タの",
+      "count": 16
     },
     {
-      "term": "等 ",
-      "count": 14
+      "term": "手続",
+      "count": 16
     },
     {
-      "term": "便性向上",
-      "count": 12
+      "term": "産登",
+      "count": 15
     },
     {
-      "term": "係データ",
-      "count": 11
-    },
-    {
-      "term": "た ",
-      "count": 11
-    },
-    {
-      "term": "在す",
-      "count": 11
-    },
-    {
-      "term": "が必",
-      "count": 10
-    },
-    {
-      "term": "受け",
-      "count": 10
-    },
-    {
-      "term": "向け",
-      "count": 9
-    },
-    {
-      "term": "所在地関",
-      "count": 9
+      "term": "等を",
+      "count": 15
     },
     {
       "term": "11",
+      "count": 15
+    },
+    {
+      "term": "ある",
+      "count": 15
+    },
+    {
+      "term": "され",
+      "count": 15
+    },
+    {
+      "term": "るデ",
+      "count": 14
+    },
+    {
+      "term": "課題",
+      "count": 13
+    },
+    {
+      "term": "の省",
+      "count": 12
+    },
+    {
+      "term": "のデ",
+      "count": 12
+    },
+    {
+      "term": "場合",
+      "count": 11
+    },
+    {
+      "term": "が存",
+      "count": 11
+    },
+    {
+      "term": "イロ",
+      "count": 10
+    },
+    {
+      "term": "等 ",
       "count": 9
     },
     {
@@ -74,23 +86,19 @@
       "count": 9
     },
     {
-      "term": "ロハ",
+      "term": "号イ",
       "count": 9
     },
     {
-      "term": "用し",
+      "term": "の内",
       "count": 8
     },
     {
-      "term": "確認",
+      "term": "とこ",
       "count": 8
     },
     {
-      "term": "別紙",
-      "count": 8
-    },
-    {
-      "term": "タル",
+      "term": "別の",
       "count": 8
     },
     {
@@ -98,79 +106,55 @@
       "count": 8
     },
     {
-      "term": "特定",
+      "term": "スケジュ",
       "count": 8
     },
     {
-      "term": "スに",
-      "count": 8
-    },
-    {
-      "term": "項 ",
+      "term": "への",
       "count": 7
     },
     {
-      "term": "間の",
+      "term": "続に",
       "count": 7
     },
     {
-      "term": "果 ",
+      "term": "用で",
       "count": 7
     },
     {
-      "term": "しな",
+      "term": "るま",
       "count": 7
     },
     {
-      "term": "ービ",
+      "term": "用者",
       "count": 7
     },
     {
-      "term": "別に",
-      "count": 7
-    },
-    {
-      "term": "要が",
-      "count": 7
-    },
-    {
-      "term": "以外",
-      "count": 7
-    },
-    {
-      "term": "るそ",
-      "count": 7
-    },
-    {
-      "term": "確保",
+      "term": "トの",
       "count": 6
     },
     {
-      "term": "第1",
+      "term": "題に",
       "count": 6
     },
     {
-      "term": "報関",
+      "term": "機関の役",
       "count": 6
     },
     {
-      "term": "る対",
+      "term": "記関係デ",
       "count": 6
     },
     {
-      "term": "タベ",
+      "term": "かに",
       "count": 6
     },
     {
-      "term": "くわ",
+      "term": "て行",
       "count": 6
     },
     {
-      "term": "るよ",
-      "count": 6
-    },
-    {
-      "term": "よう",
+      "term": "請等",
       "count": 6
     },
     {
@@ -178,28 +162,44 @@
       "count": 6
     },
     {
-      "term": "成1",
+      "term": "う行",
       "count": 6
     },
     {
-      "term": "了す",
-      "count": 6
+      "term": "タセット",
+      "count": 5
     },
     {
-      "term": "よっ",
-      "count": 6
+      "term": "の総",
+      "count": 5
     },
     {
-      "term": "地方公共",
-      "count": 6
+      "term": "度 ",
+      "count": 5
     },
     {
-      "term": "関に",
-      "count": 6
+      "term": "ケー",
+      "count": 5
     },
     {
-      "term": "度の",
-      "count": 6
+      "term": "るデータ",
+      "count": 5
+    },
+    {
+      "term": "考え",
+      "count": 5
+    },
+    {
+      "term": "点か",
+      "count": 5
+    },
+    {
+      "term": "応じ",
+      "count": 5
+    },
+    {
+      "term": "手続等に",
+      "count": 5
     }
   ],
   "meetings": [
