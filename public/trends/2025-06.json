@@ -2,167 +2,135 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "した",
-      "count": 24
-    },
-    {
-      "term": "こと",
-      "count": 24
-    },
-    {
-      "term": "され",
-      "count": 23
-    },
-    {
       "term": "るこ",
-      "count": 21
-    },
-    {
-      "term": "保護",
-      "count": 18
+      "count": 24
     },
     {
       "term": "ci",
       "count": 17
     },
     {
-      "term": "ポジ",
-      "count": 16
+      "term": "リポ",
+      "count": 17
     },
     {
-      "term": "いる",
-      "count": 16
+      "term": "デー",
+      "count": 17
     },
     {
-      "term": "とな",
+      "term": "に ",
       "count": 15
     },
     {
-      "term": "イメ",
+      "term": "また",
       "count": 15
     },
     {
-      "term": "メタ",
+      "term": "ージ",
       "count": 15
     },
     {
-      "term": "られ",
+      "term": "リポジト",
+      "count": 15
+    },
+    {
+      "term": "タデ",
       "count": 14
     },
     {
-      "term": "サー",
-      "count": 14
-    },
-    {
-      "term": "る必",
-      "count": 14
-    },
-    {
-      "term": "の保",
+      "term": "用す",
       "count": 13
     },
     {
-      "term": "パイ",
+      "term": "ては",
       "count": 13
     },
     {
-      "term": "信頼",
+      "term": "トの",
       "count": 12
     },
     {
-      "term": "トフ",
+      "term": "ント",
+      "count": 12
+    },
+    {
+      "term": "シークレ",
+      "count": 12
+    },
+    {
+      "term": "につ",
       "count": 11
     },
     {
-      "term": "デリ",
+      "term": "の実",
+      "count": 11
+    },
+    {
+      "term": "脆弱",
+      "count": 10
+    },
+    {
+      "term": "脆弱性管",
       "count": 9
     },
     {
-      "term": "し ",
+      "term": "にも",
       "count": 9
     },
     {
-      "term": "成さ",
+      "term": "runs",
       "count": 9
     },
     {
-      "term": "アク",
-      "count": 9
-    },
-    {
-      "term": "設定",
-      "count": 9
-    },
-    {
-      "term": "加え",
-      "count": 9
-    },
-    {
-      "term": "トに",
+      "term": "性が",
       "count": 8
     },
     {
-      "term": "シス",
+      "term": "ェッ",
       "count": 8
     },
     {
-      "term": "スク",
+      "term": "る具",
       "count": 8
     },
     {
-      "term": "存物",
+      "term": "の管",
       "count": 8
     },
     {
-      "term": "メタデー",
+      "term": "のs",
       "count": 8
     },
     {
-      "term": "github",
-      "count": 8
-    },
-    {
-      "term": "バイナリ",
+      "term": "キー",
       "count": 7
     },
     {
-      "term": "それ",
+      "term": "あり",
       "count": 7
     },
     {
-      "term": "ル ",
+      "term": "ンb",
       "count": 7
     },
     {
-      "term": "リの",
+      "term": "ァイ",
       "count": 7
     },
     {
-      "term": "強制",
+      "term": "図 ",
       "count": 7
     },
     {
-      "term": "to",
+      "term": "name",
       "count": 7
     },
     {
-      "term": "login",
-      "count": 7
-    },
-    {
-      "term": "type",
-      "count": 7
-    },
-    {
-      "term": "ット情報",
+      "term": "ブラ",
       "count": 6
     },
     {
-      "term": "成 ",
-      "count": 6
-    },
-    {
-      "term": "定内",
+      "term": "ド成",
       "count": 6
     },
     {
@@ -170,35 +138,67 @@
       "count": 6
     },
     {
-      "term": "のレ",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "クセ",
+      "term": "ソフトウ",
       "count": 6
     },
     {
-      "term": "る ",
+      "term": "いた",
       "count": 6
     },
     {
-      "term": "合は",
+      "term": "ズで",
       "count": 6
     },
     {
-      "term": "critical",
+      "term": "影響",
       "count": 6
     },
     {
-      "term": "とに",
+      "term": "同様",
+      "count": 6
+    },
+    {
+      "term": "リス",
+      "count": 6
+    },
+    {
+      "term": "はパ",
+      "count": 6
+    },
+    {
+      "term": "ケー",
       "count": 5
     },
     {
-      "term": "ロー",
+      "term": "ード管理",
       "count": 5
     },
     {
-      "term": "そし",
+      "term": "ショ",
+      "count": 5
+    },
+    {
+      "term": "したがっ",
+      "count": 5
+    },
+    {
+      "term": "がっ",
+      "count": 5
+    },
+    {
+      "term": "者が",
+      "count": 5
+    },
+    {
+      "term": "ても",
+      "count": 5
+    },
+    {
+      "term": "され",
       "count": 5
     }
   ],
