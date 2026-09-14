@@ -2,107 +2,139 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "るこ",
-      "count": 24
+      "term": "てい",
+      "count": 21
     },
     {
-      "term": "ci",
-      "count": 17
+      "term": "aws",
+      "count": 19
     },
     {
-      "term": "リポ",
-      "count": 17
+      "term": "図 ",
+      "count": 18
     },
     {
-      "term": "デー",
-      "count": 17
+      "term": "ォー",
+      "count": 16
     },
     {
-      "term": "に ",
+      "term": "ーズ",
       "count": 15
     },
     {
-      "term": "また",
-      "count": 15
-    },
-    {
-      "term": "ージ",
-      "count": 15
-    },
-    {
-      "term": "リポジト",
-      "count": 15
-    },
-    {
-      "term": "タデ",
+      "term": "中略",
       "count": 14
     },
     {
-      "term": "用す",
+      "term": "ビル",
       "count": 13
     },
     {
-      "term": "ては",
+      "term": "の成",
       "count": 13
     },
     {
-      "term": "トの",
+      "term": "護 ",
       "count": 12
     },
     {
-      "term": "ント",
+      "term": "フォ",
       "count": 12
     },
     {
-      "term": "シークレ",
+      "term": "とで",
       "count": 12
     },
     {
-      "term": "につ",
+      "term": "ツー",
+      "count": 12
+    },
+    {
+      "term": "れら",
+      "count": 12
+    },
+    {
+      "term": "ータ",
+      "count": 12
+    },
+    {
+      "term": "プラット",
       "count": 11
     },
     {
-      "term": "の実",
+      "term": "チームの",
       "count": 11
     },
     {
-      "term": "脆弱",
+      "term": "イル",
+      "count": 11
+    },
+    {
+      "term": "こで",
+      "count": 11
+    },
+    {
+      "term": "push",
+      "count": 11
+    },
+    {
+      "term": "この",
+      "count": 11
+    },
+    {
+      "term": "を用",
       "count": 10
     },
     {
-      "term": "脆弱性管",
+      "term": "は ",
+      "count": 10
+    },
+    {
+      "term": "env",
+      "count": 10
+    },
+    {
+      "term": "のリ",
       "count": 9
     },
     {
-      "term": "にも",
+      "term": "のc",
       "count": 9
     },
     {
-      "term": "runs",
+      "term": "るが",
       "count": 9
     },
     {
-      "term": "性が",
+      "term": "outputs",
+      "count": 9
+    },
+    {
+      "term": "シス",
       "count": 8
     },
     {
-      "term": "ェッ",
+      "term": "定内",
       "count": 8
     },
     {
-      "term": "る具",
+      "term": "メン",
       "count": 8
     },
     {
-      "term": "の管",
+      "term": "フェ",
       "count": 8
     },
     {
-      "term": "のs",
+      "term": "物を",
       "count": 8
     },
     {
-      "term": "キー",
+      "term": "の取",
+      "count": 8
+    },
+    {
+      "term": "示す",
       "count": 7
     },
     {
@@ -110,15 +142,27 @@
       "count": 7
     },
     {
-      "term": "ンb",
+      "term": "定 ",
       "count": 7
     },
     {
-      "term": "ァイ",
+      "term": "の仕",
       "count": 7
     },
     {
-      "term": "図 ",
+      "term": "ると",
+      "count": 7
+    },
+    {
+      "term": "れば",
+      "count": 7
+    },
+    {
+      "term": "そのため",
+      "count": 7
+    },
+    {
+      "term": "能で",
       "count": 7
     },
     {
@@ -126,15 +170,19 @@
       "count": 7
     },
     {
-      "term": "ブラ",
+      "term": "ワー",
       "count": 6
     },
     {
-      "term": "ド成",
+      "term": "成 ",
       "count": 6
     },
     {
-      "term": "リ時",
+      "term": "した",
+      "count": 6
+    },
+    {
+      "term": "ロバ",
       "count": 6
     },
     {
@@ -142,64 +190,16 @@
       "count": 6
     },
     {
-      "term": "ソフトウ",
+      "term": "の制",
       "count": 6
     },
     {
-      "term": "いた",
+      "term": "たt",
       "count": 6
     },
     {
-      "term": "ズで",
+      "term": "ムに",
       "count": 6
-    },
-    {
-      "term": "影響",
-      "count": 6
-    },
-    {
-      "term": "同様",
-      "count": 6
-    },
-    {
-      "term": "リス",
-      "count": 6
-    },
-    {
-      "term": "はパ",
-      "count": 6
-    },
-    {
-      "term": "ケー",
-      "count": 5
-    },
-    {
-      "term": "ード管理",
-      "count": 5
-    },
-    {
-      "term": "ショ",
-      "count": 5
-    },
-    {
-      "term": "したがっ",
-      "count": 5
-    },
-    {
-      "term": "がっ",
-      "count": 5
-    },
-    {
-      "term": "者が",
-      "count": 5
-    },
-    {
-      "term": "ても",
-      "count": 5
-    },
-    {
-      "term": "され",
-      "count": 5
     }
   ],
   "meetings": [
