@@ -2,204 +2,204 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "イン",
-      "count": 20
+      "term": "する",
+      "count": 28
     },
     {
-      "term": "aws",
+      "term": "ため",
+      "count": 21
+    },
+    {
+      "term": "ビル",
       "count": 19
     },
     {
-      "term": "これ",
-      "count": 17
+      "term": "って",
+      "count": 16
     },
     {
-      "term": "リポ",
+      "term": "プラ",
+      "count": 16
+    },
+    {
+      "term": "ービ",
+      "count": 16
+    },
+    {
+      "term": "に ",
       "count": 15
     },
     {
-      "term": "った",
+      "term": "から",
+      "count": 15
+    },
+    {
+      "term": "での",
       "count": 14
     },
     {
-      "term": "ソースコ",
+      "term": "担保",
       "count": 13
-    },
-    {
-      "term": "にお",
-      "count": 13
-    },
-    {
-      "term": "頼性",
-      "count": 13
-    },
-    {
-      "term": "場合",
-      "count": 13
-    },
-    {
-      "term": "シークレ",
-      "count": 12
-    },
-    {
-      "term": "情報",
-      "count": 12
-    },
-    {
-      "term": "terraform",
-      "count": 11
-    },
-    {
-      "term": "保 ",
-      "count": 10
-    },
-    {
-      "term": "ンチ",
-      "count": 10
-    },
-    {
-      "term": "上で",
-      "count": 10
-    },
-    {
-      "term": "内で",
-      "count": 10
-    },
-    {
-      "term": "クを",
-      "count": 10
-    },
-    {
-      "term": "への",
-      "count": 10
-    },
-    {
-      "term": "build",
-      "count": 10
-    },
-    {
-      "term": "の担",
-      "count": 9
-    },
-    {
-      "term": "いっ",
-      "count": 9
-    },
-    {
-      "term": "成さ",
-      "count": 9
-    },
-    {
-      "term": "性の",
-      "count": 8
-    },
-    {
-      "term": "ルド",
-      "count": 8
-    },
-    {
-      "term": "囲の",
-      "count": 8
-    },
-    {
-      "term": "ルで",
-      "count": 8
     },
     {
       "term": "tf",
+      "count": 13
+    },
+    {
+      "term": "対策",
+      "count": 12
+    },
+    {
+      "term": "護 ",
+      "count": 12
+    },
+    {
+      "term": "の安",
+      "count": 12
+    },
+    {
+      "term": "確認",
+      "count": 12
+    },
+    {
+      "term": "おけ",
+      "count": 11
+    },
+    {
+      "term": "その",
+      "count": 11
+    },
+    {
+      "term": "果物",
+      "count": 11
+    },
+    {
+      "term": "ナリ",
+      "count": 10
+    },
+    {
+      "term": "ブラ",
+      "count": 10
+    },
+    {
+      "term": "を用",
+      "count": 10
+    },
+    {
+      "term": "セス",
+      "count": 10
+    },
+    {
+      "term": "はな",
+      "count": 9
+    },
+    {
+      "term": "物を",
       "count": 8
     },
     {
-      "term": "共通",
+      "term": "用い",
+      "count": 8
+    },
+    {
+      "term": "ンの",
+      "count": 8
+    },
+    {
+      "term": "ング",
+      "count": 8
+    },
+    {
+      "term": "らの",
+      "count": 8
+    },
+    {
+      "term": "ルー",
+      "count": 8
+    },
+    {
+      "term": "コン",
+      "count": 8
+    },
+    {
+      "term": "管理",
       "count": 7
     },
     {
-      "term": "ェーズの",
+      "term": "バイナリ",
       "count": 7
     },
     {
-      "term": "洩対",
+      "term": "における",
       "count": 7
     },
     {
-      "term": "及び",
+      "term": "ビルド上",
       "count": 7
     },
     {
-      "term": "あり",
+      "term": "定義",
       "count": 7
     },
     {
-      "term": "テナ",
+      "term": "commit",
       "count": 7
     },
     {
-      "term": "トフォー",
+      "term": "name",
       "count": 7
     },
     {
-      "term": "混入",
+      "term": "す ",
       "count": 7
-    },
-    {
-      "term": "具体的な",
-      "count": 6
     },
     {
       "term": "ド管",
       "count": 6
     },
     {
-      "term": "24",
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "における",
+      "term": "カウ",
       "count": 6
     },
     {
-      "term": "の仕",
+      "term": "を確",
       "count": 6
     },
     {
-      "term": "依存",
+      "term": "完全",
       "count": 6
     },
     {
-      "term": "えら",
+      "term": "影響",
       "count": 6
     },
     {
-      "term": "ここでは",
+      "term": "とも",
       "count": 6
     },
     {
-      "term": "容を",
+      "term": "ref",
       "count": 6
     },
     {
-      "term": "す ",
+      "term": "る ",
       "count": 6
     },
     {
-      "term": "用者",
-      "count": 5
+      "term": "scanners",
+      "count": 6
     },
     {
-      "term": "証跡",
-      "count": 5
+      "term": "の担",
+      "count": 6
     },
     {
-      "term": "配布",
-      "count": 5
-    },
-    {
-      "term": "なけ",
-      "count": 5
-    },
-    {
-      "term": "タ ",
-      "count": 5
+      "term": "全性",
+      "count": 6
     }
   ],
   "meetings": [

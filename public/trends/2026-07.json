@@ -2,39 +2,51 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "情報",
-      "count": 25
+      "term": "する",
+      "count": 24
     },
     {
-      "term": "にお",
-      "count": 23
-    },
-    {
-      "term": "に係",
+      "term": "デジタル",
       "count": 22
     },
     {
-      "term": "政機",
-      "count": 22
+      "term": "ため",
+      "count": 20
     },
     {
-      "term": "係る",
-      "count": 21
-    },
-    {
-      "term": "レジ",
-      "count": 21
-    },
-    {
-      "term": "営の",
+      "term": "検討",
       "count": 19
     },
     {
-      "term": "取組",
+      "term": "記情",
+      "count": 19
+    },
+    {
+      "term": "行う",
+      "count": 19
+    },
+    {
+      "term": "から",
+      "count": 18
+    },
+    {
+      "term": "民の",
       "count": 17
     },
     {
-      "term": "これ",
+      "term": "促進",
+      "count": 16
+    },
+    {
+      "term": "データベ",
+      "count": 16
+    },
+    {
+      "term": "って",
+      "count": 16
+    },
+    {
+      "term": "策効",
       "count": 15
     },
     {
@@ -42,164 +54,152 @@
       "count": 15
     },
     {
-      "term": "和1",
+      "term": "る国",
+      "count": 15
+    },
+    {
+      "term": "用 ",
+      "count": 13
+    },
+    {
+      "term": "に ",
+      "count": 13
+    },
+    {
+      "term": "基礎",
+      "count": 12
+    },
+    {
+      "term": "登記情報",
+      "count": 12
+    },
+    {
+      "term": "ービ",
+      "count": 12
+    },
+    {
+      "term": "人ベ",
       "count": 11
     },
     {
-      "term": "が存",
-      "count": 11
-    },
-    {
-      "term": "ジュ",
+      "term": "ケジ",
       "count": 10
     },
     {
-      "term": "及び",
+      "term": "おけ",
       "count": 10
     },
     {
-      "term": "参照",
+      "term": "とも",
       "count": 10
-    },
-    {
-      "term": "を受",
-      "count": 10
-    },
-    {
-      "term": "億円",
-      "count": 9
-    },
-    {
-      "term": "の検",
-      "count": 9
-    },
-    {
-      "term": "24",
-      "count": 9
-    },
-    {
-      "term": "携し",
-      "count": 9
-    },
-    {
-      "term": "共通",
-      "count": 8
-    },
-    {
-      "term": "の情",
-      "count": 8
-    },
-    {
-      "term": "る事",
-      "count": 8
-    },
-    {
-      "term": "方公",
-      "count": 8
-    },
-    {
-      "term": "用者",
-      "count": 8
-    },
-    {
-      "term": "スケジュ",
-      "count": 8
     },
     {
       "term": "等と",
+      "count": 10
+    },
+    {
+      "term": "ースを利",
+      "count": 9
+    },
+    {
+      "term": "らの",
+      "count": 9
+    },
+    {
+      "term": "における",
       "count": 8
     },
     {
-      "term": "タ ",
+      "term": "での",
       "count": 8
     },
     {
-      "term": "のう",
+      "term": "所有",
       "count": 8
     },
     {
-      "term": "用促",
+      "term": "19",
+      "count": 8
+    },
+    {
+      "term": "別紙",
+      "count": 8
+    },
+    {
+      "term": "関 ",
+      "count": 8
+    },
+    {
+      "term": "施時",
       "count": 7
     },
     {
-      "term": "地所",
+      "term": "全体",
       "count": 7
     },
     {
-      "term": "等情",
+      "term": "確認",
       "count": 7
     },
     {
-      "term": "について",
+      "term": "果の",
       "count": 7
     },
     {
-      "term": "対応",
+      "term": "切替",
       "count": 7
     },
     {
-      "term": "関係デー",
+      "term": "の手",
       "count": 7
     },
     {
-      "term": "15",
+      "term": "トチ",
       "count": 7
     },
     {
-      "term": "てお",
+      "term": "申請項目",
       "count": 7
     },
     {
-      "term": "の入力の",
+      "term": "特定",
       "count": 7
     },
     {
-      "term": "った",
-      "count": 7
-    },
-    {
-      "term": "体化",
+      "term": "のシステ",
       "count": 6
     },
     {
-      "term": "な方",
+      "term": "セス",
       "count": 6
     },
     {
-      "term": "ジ ",
+      "term": "能な",
       "count": 6
     },
     {
-      "term": "関係行政",
+      "term": "最新",
       "count": 6
     },
     {
-      "term": "課題に対",
+      "term": "体で",
       "count": 6
     },
     {
-      "term": "機関の役",
+      "term": "な課",
       "count": 6
     },
     {
-      "term": "及び改善",
-      "count": 6
+      "term": "タ整",
+      "count": 5
     },
     {
-      "term": "である",
-      "count": 6
+      "term": "利用促進",
+      "count": 5
     },
     {
-      "term": "上で",
-      "count": 6
-    },
-    {
-      "term": "て行",
-      "count": 6
-    },
-    {
-      "term": "いく",
-      "count": 6
+      "term": "度 ",
+      "count": 5
     }
   ],
   "meetings": [
