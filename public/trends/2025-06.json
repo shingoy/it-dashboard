@@ -2,107 +2,87 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "トリ",
-      "count": 19
-    },
-    {
-      "term": "これ",
-      "count": 17
-    },
-    {
-      "term": "デー",
-      "count": 17
-    },
-    {
-      "term": "フェ",
+      "term": "のた",
       "count": 15
     },
     {
-      "term": "こと",
-      "count": 15
-    },
-    {
-      "term": "ける",
+      "term": "パイプラ",
       "count": 14
     },
     {
-      "term": "全性",
+      "term": "スチ",
       "count": 14
     },
     {
-      "term": "タデ",
+      "term": "コン",
       "count": 14
     },
     {
-      "term": "シー",
+      "term": "る必",
+      "count": 14
+    },
+    {
+      "term": "の安",
       "count": 13
     },
     {
-      "term": "構成",
+      "term": "いる",
       "count": 13
     },
     {
-      "term": "性の",
+      "term": "頼性",
       "count": 12
     },
     {
-      "term": "およ",
+      "term": "れら",
       "count": 12
     },
     {
-      "term": "ーの",
+      "term": "こで",
       "count": 12
+    },
+    {
+      "term": "ステ",
+      "count": 11
     },
     {
       "term": "とす",
       "count": 11
     },
     {
-      "term": "脆弱",
+      "term": "チェ",
       "count": 11
     },
     {
-      "term": "ルド",
+      "term": "サー",
       "count": 11
     },
     {
-      "term": "を取",
+      "term": "trivy",
       "count": 11
     },
     {
-      "term": "加え",
+      "term": "はな",
       "count": 11
     },
     {
-      "term": "を含",
+      "term": "確保",
       "count": 10
     },
     {
-      "term": "ルを",
+      "term": "ルの",
       "count": 10
     },
     {
-      "term": "性を",
+      "term": "のメ",
       "count": 10
     },
     {
-      "term": "to",
-      "count": 10
-    },
-    {
-      "term": "含む",
+      "term": "のリ",
       "count": 9
     },
     {
-      "term": "バリ",
-      "count": 9
-    },
-    {
-      "term": "フト",
-      "count": 9
-    },
-    {
-      "term": "以外",
+      "term": "ティ",
       "count": 9
     },
     {
@@ -110,95 +90,115 @@
       "count": 9
     },
     {
-      "term": "ソースコ",
+      "term": "のア",
+      "count": 9
+    },
+    {
+      "term": "and",
+      "count": 9
+    },
+    {
+      "term": "考え",
+      "count": 9
+    },
+    {
+      "term": "uses",
+      "count": 9
+    },
+    {
+      "term": "terraform",
       "count": 8
     },
     {
-      "term": "ーズ",
+      "term": "作成",
       "count": 8
     },
     {
-      "term": "ェー",
-      "count": 8
-    },
-    {
-      "term": "ド上",
-      "count": 8
-    },
-    {
-      "term": "主体",
-      "count": 8
-    },
-    {
-      "term": "トウ",
-      "count": 8
-    },
-    {
-      "term": "るそ",
-      "count": 8
-    },
-    {
-      "term": "そのため",
-      "count": 8
-    },
-    {
-      "term": "いる",
-      "count": 8
-    },
-    {
-      "term": "はな",
-      "count": 8
-    },
-    {
-      "term": "洩対",
+      "term": "がある",
       "count": 7
     },
     {
-      "term": "の漏",
+      "term": "可能であ",
       "count": 7
     },
     {
-      "term": "など",
-      "count": 7
-    },
-    {
-      "term": "login",
-      "count": 7
-    },
-    {
-      "term": "めに",
+      "term": "成 ",
       "count": 6
     },
     {
-      "term": "キュ",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "を示",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "フ ",
+      "term": "を ",
       "count": 6
     },
     {
-      "term": "囲の",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "アカ",
+      "term": "クト",
       "count": 6
     },
     {
-      "term": "略 ",
+      "term": "ンバ",
       "count": 6
     },
     {
-      "term": "トは",
+      "term": "きる",
+      "count": 6
+    },
+    {
+      "term": "image",
+      "count": 6
+    },
+    {
+      "term": "えて",
+      "count": 6
+    },
+    {
+      "term": "シス",
       "count": 5
     },
     {
-      "term": "報の",
+      "term": "ン特",
+      "count": 5
+    },
+    {
+      "term": "における",
+      "count": 5
+    },
+    {
+      "term": "述し",
+      "count": 5
+    },
+    {
+      "term": "実際",
+      "count": 5
+    },
+    {
+      "term": "れは",
+      "count": 5
+    },
+    {
+      "term": "となる",
+      "count": 5
+    },
+    {
+      "term": "重要",
+      "count": 5
+    },
+    {
+      "term": "チームが",
+      "count": 5
+    },
+    {
+      "term": "成し",
       "count": 5
     }
   ],
