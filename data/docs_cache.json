@@ -999,5 +999,16 @@
     "date": "2023-07-04",
     "collected_at": "2026-09-01T14:03:08.194012",
     "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/f1f45dcac5bf5ff8c9768cab793fec90.pdf"
+  },
+  "fb885c13231942433ff82826ae9a7de2": {
+    "id": "fb885c13231942433ff82826ae9a7de2",
+    "meeting": "AI戦略会議",
+    "agency": "内閣府・内閣官房",
+    "title": "令和９年度概算要求（PDF形式：404KB）",
+    "url": "https://www8.cao.go.jp/cstp/ai/yosan_9nendo_gaisan.pdf",
+    "file_type": "pdf",
+    "date": "2026-09-18",
+    "collected_at": "2026-09-18T13:31:34.169155",
+    "pdf_path": "/home/runner/work/it-dashboard/it-dashboard/data/cache/fb885c13231942433ff82826ae9a7de2.pdf"
   }
 }

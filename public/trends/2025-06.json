@@ -2,39 +2,47 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "のた",
+      "term": "して",
+      "count": 27
+    },
+    {
+      "term": "した",
+      "count": 24
+    },
+    {
+      "term": "ァイ",
+      "count": 19
+    },
+    {
+      "term": "弱性",
       "count": 15
     },
     {
-      "term": "パイプラ",
+      "term": "ラッ",
       "count": 14
     },
     {
-      "term": "スチ",
+      "term": "ータ",
       "count": 14
     },
     {
-      "term": "コン",
-      "count": 14
-    },
-    {
-      "term": "る必",
-      "count": 14
-    },
-    {
-      "term": "の安",
+      "term": "ロー",
       "count": 13
     },
     {
-      "term": "いる",
+      "term": "用す",
       "count": 13
     },
     {
-      "term": "頼性",
+      "term": "情報",
       "count": 12
     },
     {
-      "term": "れら",
+      "term": "脆弱",
+      "count": 12
+    },
+    {
+      "term": "ファ",
       "count": 12
     },
     {
@@ -42,131 +50,131 @@
       "count": 12
     },
     {
-      "term": "ステ",
-      "count": 11
+      "term": "steps",
+      "count": 12
     },
     {
       "term": "とす",
       "count": 11
     },
     {
-      "term": "チェ",
+      "term": "つい",
       "count": 11
     },
     {
-      "term": "サー",
+      "term": "要が",
       "count": 11
     },
     {
-      "term": "trivy",
-      "count": 11
-    },
-    {
-      "term": "はな",
-      "count": 11
-    },
-    {
-      "term": "確保",
+      "term": "code",
       "count": 10
     },
     {
-      "term": "ルの",
+      "term": "検証",
       "count": 10
     },
     {
-      "term": "のメ",
+      "term": "いた",
       "count": 10
     },
     {
-      "term": "のリ",
+      "term": "git",
       "count": 9
     },
     {
-      "term": "ティ",
+      "term": "スキ",
       "count": 9
     },
     {
-      "term": "成さ",
+      "term": "リの",
       "count": 9
     },
     {
-      "term": "のア",
-      "count": 9
+      "term": "リソ",
+      "count": 8
+    },
+    {
+      "term": "バイ",
+      "count": 8
+    },
+    {
+      "term": "制限",
+      "count": 8
+    },
+    {
+      "term": "資産",
+      "count": 7
+    },
+    {
+      "term": "バイナリ",
+      "count": 7
+    },
+    {
+      "term": "存物",
+      "count": 7
+    },
+    {
+      "term": "スの",
+      "count": 7
+    },
+    {
+      "term": "る ",
+      "count": 7
+    },
+    {
+      "term": "の漏洩対",
+      "count": 6
+    },
+    {
+      "term": "24",
+      "count": 6
+    },
+    {
+      "term": "ここでは",
+      "count": 6
+    },
+    {
+      "term": "にて",
+      "count": 6
+    },
+    {
+      "term": "保で",
+      "count": 6
+    },
+    {
+      "term": "とい",
+      "count": 6
+    },
+    {
+      "term": "rule",
+      "count": 6
     },
     {
       "term": "and",
-      "count": 9
-    },
-    {
-      "term": "考え",
-      "count": 9
-    },
-    {
-      "term": "uses",
-      "count": 9
-    },
-    {
-      "term": "terraform",
-      "count": 8
-    },
-    {
-      "term": "作成",
-      "count": 8
-    },
-    {
-      "term": "がある",
-      "count": 7
-    },
-    {
-      "term": "可能であ",
-      "count": 7
-    },
-    {
-      "term": "成 ",
       "count": 6
     },
     {
-      "term": "した",
+      "term": "format",
       "count": 6
     },
     {
-      "term": "高い",
+      "term": "key",
       "count": 6
     },
     {
-      "term": "を ",
+      "term": "象と",
       "count": 6
     },
     {
-      "term": "ムは",
+      "term": "検出",
       "count": 6
     },
     {
-      "term": "クト",
-      "count": 6
-    },
-    {
-      "term": "ンバ",
-      "count": 6
-    },
-    {
-      "term": "きる",
-      "count": 6
-    },
-    {
-      "term": "image",
-      "count": 6
-    },
-    {
-      "term": "えて",
-      "count": 6
-    },
-    {
-      "term": "シス",
+      "term": "理 ",
       "count": 5
     },
     {
-      "term": "ン特",
+      "term": "ショ",
       "count": 5
     },
     {
@@ -174,31 +182,23 @@
       "count": 5
     },
     {
-      "term": "述し",
+      "term": "自動",
       "count": 5
     },
     {
-      "term": "実際",
+      "term": "なけ",
       "count": 5
     },
     {
-      "term": "れは",
+      "term": "得し",
       "count": 5
     },
     {
-      "term": "となる",
+      "term": "ウン",
       "count": 5
     },
     {
-      "term": "重要",
-      "count": 5
-    },
-    {
-      "term": "チームが",
-      "count": 5
-    },
-    {
-      "term": "成し",
+      "term": "の成果物",
       "count": 5
     }
   ],

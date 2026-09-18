@@ -1,28 +1,32 @@
 {
-  "month": "2026-02",
+  "month": "2026-09",
   "keywords": [
     {
       "term": "した",
       "count": 2
     },
     {
-      "term": "人材",
+      "term": "事項要求",
       "count": 2
     },
     {
-      "term": "画の",
+      "term": "日本",
       "count": 2
     },
     {
-      "term": "在職",
+      "term": "工知",
       "count": 2
     },
     {
-      "term": "ル分",
+      "term": "ンス",
       "count": 2
     },
     {
-      "term": "発支援助",
+      "term": "成長",
+      "count": 2
+    },
+    {
+      "term": "本全",
       "count": 2
     },
     {
@@ -30,15 +34,11 @@
       "count": 2
     },
     {
+      "term": "ロボティ",
+      "count": 2
+    },
+    {
       "term": "算は",
-      "count": 2
-    },
-    {
-      "term": "令和",
-      "count": 2
-    },
-    {
-      "term": "タル",
       "count": 2
     },
     {
@@ -46,7 +46,19 @@
       "count": 2
     },
     {
+      "term": "令和",
+      "count": 2
+    },
+    {
+      "term": "厚労",
+      "count": 2
+    },
+    {
       "term": "に向",
+      "count": 2
+    },
+    {
+      "term": "し日",
       "count": 2
     },
     {
@@ -54,39 +66,31 @@
       "count": 2
     },
     {
-      "term": "厚な",
+      "term": "ラッ",
       "count": 2
     },
     {
-      "term": "係が",
-      "count": 2
-    },
-    {
-      "term": "の他",
+      "term": "人材",
       "count": 1
     },
     {
-      "term": "負担",
+      "term": "築総",
       "count": 1
     },
     {
-      "term": "ンス",
+      "term": "化高",
       "count": 1
     },
     {
-      "term": "新内",
+      "term": "の拡充",
       "count": 1
     },
     {
-      "term": "代コ",
+      "term": "ナビ",
       "count": 1
     },
     {
-      "term": "ァイ",
-      "count": 1
-    },
-    {
-      "term": "創薬ター",
+      "term": "る大学",
       "count": 1
     },
     {
@@ -94,39 +98,43 @@
       "count": 1
     },
     {
-      "term": "発の推進",
+      "term": "約1",
       "count": 1
     },
     {
-      "term": "の積",
+      "term": "用基",
       "count": 1
     },
     {
-      "term": "和8",
+      "term": "for",
       "count": 1
     },
     {
-      "term": "盤技",
+      "term": "る防",
       "count": 1
     },
     {
-      "term": "ーワ",
+      "term": "画の",
       "count": 1
     },
     {
-      "term": "いた",
+      "term": "導に",
       "count": 1
     },
     {
-      "term": "ノロ",
+      "term": "高等専門",
       "count": 1
     },
     {
-      "term": "発文",
+      "term": "の拡",
       "count": 1
     },
     {
-      "term": "積み",
+      "term": "時代の人",
+      "count": 1
+    },
+    {
+      "term": "の導入",
       "count": 1
     },
     {
@@ -138,11 +146,11 @@
       "count": 1
     },
     {
-      "term": "透明",
+      "term": "地域",
       "count": 1
     },
     {
-      "term": "型ａ",
+      "term": "衛分",
       "count": 1
     },
     {
@@ -150,19 +158,31 @@
       "count": 1
     },
     {
-      "term": "戦闘",
+      "term": "グラムの",
       "count": 1
     },
     {
-      "term": "ー対",
+      "term": "けたバー",
       "count": 1
     },
     {
-      "term": "ータ",
+      "term": "タル",
       "count": 1
     },
     {
-      "term": "造プロセ",
+      "term": "日本の勝",
+      "count": 1
+    },
+    {
+      "term": "核拠点",
+      "count": 1
+    },
+    {
+      "term": "規防",
+      "count": 1
+    },
+    {
+      "term": "象と",
       "count": 1
     },
     {
@@ -170,35 +190,15 @@
       "count": 1
     },
     {
-      "term": "約３",
-      "count": 1
-    },
-    {
-      "term": "テク",
-      "count": 1
-    },
-    {
-      "term": "ドu",
-      "count": 1
-    },
-    {
       "term": "つい",
       "count": 1
     },
     {
-      "term": "ーティン",
+      "term": "た利",
       "count": 1
     },
     {
-      "term": "ト農",
-      "count": 1
-    },
-    {
-      "term": "た建設現",
-      "count": 1
-    },
-    {
-      "term": "う ",
+      "term": "的評",
       "count": 1
     }
   ],

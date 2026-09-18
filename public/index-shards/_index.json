@@ -748,5 +748,11 @@
     "filename": "AI戦略会議_2026-02_0.json",
     "group": "AI戦略会議_2026-02",
     "chunk_count": 2
+  },
+  {
+    "shard_id": "AI戦略会議_2026-09_0",
+    "filename": "AI戦略会議_2026-09_0.json",
+    "group": "AI戦略会議_2026-09",
+    "chunk_count": 2
   }
 ]

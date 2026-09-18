@@ -770,6 +770,16 @@
     "chunks_count": 6
   },
   {
+    "doc_id": "fb885c13231942433ff82826ae9a7de2",
+    "meeting": "AI戦略会議",
+    "agency": "内閣府・内閣官房",
+    "title": "令和９年度概算要求（PDF形式：404KB）",
+    "date": "2026-09-18",
+    "url": "https://www8.cao.go.jp/cstp/ai/yosan_9nendo_gaisan.pdf",
+    "pages": 1,
+    "chunks_count": 2
+  },
+  {
     "doc_id": "1754bb7f7b1346e137ff0db7a8333d88",
     "meeting": "デジタル社会推進標準ガイドライン",
     "agency": "デジタル庁",
