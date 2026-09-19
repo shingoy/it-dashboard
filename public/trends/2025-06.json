@@ -2,47 +2,71 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "るこ",
-      "count": 24
+      "term": "する",
+      "count": 28
     },
     {
-      "term": "であ",
-      "count": 22
+      "term": "され",
+      "count": 25
     },
     {
-      "term": "てい",
+      "term": "イプ",
       "count": 21
     },
     {
-      "term": "ルド",
+      "term": "actions",
       "count": 19
-    },
-    {
-      "term": "保護",
-      "count": 18
     },
     {
       "term": "ース",
       "count": 17
     },
     {
-      "term": "ーズ",
+      "term": "ード",
+      "count": 17
+    },
+    {
+      "term": "実行",
+      "count": 16
+    },
+    {
+      "term": "とな",
       "count": 15
     },
     {
-      "term": "ける",
+      "term": "イメ",
+      "count": 15
+    },
+    {
+      "term": "での",
       "count": 14
     },
     {
-      "term": "プロ",
+      "term": "この",
+      "count": 14
+    },
+    {
+      "term": "にお",
       "count": 13
     },
     {
-      "term": "ント",
+      "term": "護 ",
       "count": 12
     },
     {
-      "term": "護 ",
+      "term": "デー",
+      "count": 12
+    },
+    {
+      "term": "フォーム",
+      "count": 11
+    },
+    {
+      "term": "要が",
+      "count": 11
+    },
+    {
+      "term": "タデ",
       "count": 11
     },
     {
@@ -50,99 +74,79 @@
       "count": 11
     },
     {
-      "term": "ecr",
-      "count": 11
-    },
-    {
-      "term": "とが",
-      "count": 11
-    },
-    {
-      "term": "保 ",
+      "term": "メン",
       "count": 10
     },
     {
-      "term": "ー ",
+      "term": "ナリ",
       "count": 10
     },
     {
-      "term": "build",
+      "term": "jobs",
       "count": 10
     },
     {
-      "term": "ubuntu",
-      "count": 10
-    },
-    {
-      "term": "に関",
+      "term": "それ",
       "count": 9
-    },
-    {
-      "term": "ンa",
-      "count": 9
-    },
-    {
-      "term": "アク",
-      "count": 9
-    },
-    {
-      "term": "及び",
-      "count": 8
     },
     {
       "term": "での実行",
       "count": 8
     },
     {
-      "term": "ング",
+      "term": "物を",
       "count": 8
     },
     {
-      "term": "るそ",
+      "term": "バイ",
       "count": 8
     },
     {
-      "term": "を実",
+      "term": "キャ",
       "count": 8
     },
     {
-      "term": "デリバリ",
+      "term": "システム",
       "count": 7
     },
     {
-      "term": "ダー",
+      "term": "資産",
       "count": 7
     },
     {
-      "term": "ンb",
+      "term": "ド上",
       "count": 7
     },
     {
-      "term": "ップ",
+      "term": "ソフ",
       "count": 7
     },
     {
-      "term": "いう",
+      "term": "あり",
       "count": 7
     },
     {
-      "term": "とは",
+      "term": "いこ",
       "count": 7
     },
     {
-      "term": "要と",
+      "term": "るが",
       "count": 7
     },
     {
-      "term": "trivy",
+      "term": "混入",
       "count": 7
     },
     {
-      "term": "めに",
+      "term": "はa",
       "count": 6
     },
     {
-      "term": "ス ",
+      "term": "ビルド上",
+      "count": 6
+    },
+    {
+      "term": "スク",
       "count": 6
     },
     {
@@ -150,55 +154,51 @@
       "count": 6
     },
     {
-      "term": "を必",
+      "term": "provenance",
       "count": 6
     },
     {
-      "term": "image",
+      "term": "省略",
       "count": 6
     },
     {
-      "term": "steps",
+      "term": "secrets",
       "count": 6
     },
     {
-      "term": "象と",
+      "term": "る ",
       "count": 6
     },
     {
-      "term": "ビルド設",
+      "term": "を指",
       "count": 6
     },
     {
-      "term": "用す",
+      "term": "true",
       "count": 6
     },
     {
-      "term": "理脆",
+      "term": "action",
+      "count": 6
+    },
+    {
+      "term": "ショ",
       "count": 5
     },
     {
-      "term": "要 ",
+      "term": "自体",
       "count": 5
     },
     {
-      "term": "ット",
+      "term": "得し",
       "count": 5
     },
     {
-      "term": "リポ",
+      "term": "承認",
       "count": 5
     },
     {
-      "term": "がっ",
-      "count": 5
-    },
-    {
-      "term": "10",
-      "count": 5
-    },
-    {
-      "term": "るサ",
+      "term": "用可",
       "count": 5
     }
   ],
