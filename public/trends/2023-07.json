@@ -2,204 +2,204 @@
   "month": "2023-07",
   "keywords": [
     {
-      "term": "する",
-      "count": 2996
+      "term": "した",
+      "count": 2481
     },
     {
-      "term": "にお",
-      "count": 2428
+      "term": "つい",
+      "count": 2351
     },
     {
-      "term": "とな",
-      "count": 1613
+      "term": "実施",
+      "count": 1810
     },
     {
-      "term": "システム",
-      "count": 1598
+      "term": "プロ",
+      "count": 1644
     },
     {
-      "term": "され",
-      "count": 1522
+      "term": "める",
+      "count": 1488
     },
     {
-      "term": "る情",
-      "count": 1305
+      "term": "イン",
+      "count": 1464
     },
     {
-      "term": "要が",
-      "count": 1270
+      "term": "可能",
+      "count": 1422
     },
     {
-      "term": "それ",
-      "count": 1015
+      "term": "機能",
+      "count": 1356
     },
     {
-      "term": "この",
-      "count": 938
+      "term": "るよ",
+      "count": 1301
     },
     {
-      "term": "での",
-      "count": 932
+      "term": "用す",
+      "count": 1223
     },
     {
-      "term": "関係",
-      "count": 896
+      "term": "とは",
+      "count": 1099
     },
     {
-      "term": "等が",
-      "count": 890
+      "term": "アク",
+      "count": 975
     },
     {
-      "term": "じて",
-      "count": 889
+      "term": "サイ",
+      "count": 914
     },
     {
-      "term": "項 ",
-      "count": 888
+      "term": "ドラ",
+      "count": 859
     },
     {
-      "term": "ェク",
+      "term": "を含",
+      "count": 822
+    },
+    {
+      "term": "任者",
       "count": 810
     },
     {
-      "term": "政府",
-      "count": 787
+      "term": "時に",
+      "count": 802
     },
     {
-      "term": "守事",
-      "count": 782
+      "term": "えば",
+      "count": 790
     },
     {
-      "term": "まし",
-      "count": 759
+      "term": "影響",
+      "count": 768
     },
     {
-      "term": "メン",
-      "count": 718
+      "term": "ロジ",
+      "count": 763
     },
     {
-      "term": "受け",
-      "count": 714
+      "term": "まで",
+      "count": 710
     },
     {
-      "term": "ード",
-      "count": 696
+      "term": "下の",
+      "count": 692
     },
     {
-      "term": "十分",
-      "count": 673
+      "term": "われ",
+      "count": 651
     },
     {
-      "term": "ース",
-      "count": 664
+      "term": "発生",
+      "count": 650
     },
     {
-      "term": "たっ",
+      "term": "成す",
       "count": 624
     },
     {
-      "term": "全体",
-      "count": 609
-    },
-    {
-      "term": "手続",
-      "count": 608
-    },
-    {
-      "term": "不正",
-      "count": 589
+      "term": "務の",
+      "count": 594
     },
     {
       "term": "職員",
-      "count": 585
+      "count": 584
     },
     {
-      "term": "標準",
-      "count": 580
+      "term": "書の",
+      "count": 582
     },
     {
-      "term": "を指",
-      "count": 579
-    },
-    {
-      "term": "の手",
-      "count": 574
-    },
-    {
-      "term": "が発",
-      "count": 565
-    },
-    {
-      "term": "意す",
-      "count": 562
-    },
-    {
-      "term": "クを",
-      "count": 556
-    },
-    {
-      "term": "た情",
-      "count": 545
-    },
-    {
-      "term": "いこ",
-      "count": 535
-    },
-    {
-      "term": "適用",
-      "count": 531
-    },
-    {
-      "term": "の場",
-      "count": 506
-    },
-    {
-      "term": "が望",
-      "count": 496
-    },
-    {
-      "term": "次の",
-      "count": 485
-    },
-    {
-      "term": "ai",
-      "count": 478
+      "term": "性が",
+      "count": 549
     },
     {
       "term": "of",
-      "count": 475
+      "count": 540
     },
     {
-      "term": "期的",
-      "count": 470
+      "term": "以外",
+      "count": 537
     },
     {
-      "term": "に記",
-      "count": 467
+      "term": "報告",
+      "count": 534
     },
     {
-      "term": "スク",
-      "count": 461
+      "term": "解説",
+      "count": 531
+    },
+    {
+      "term": "レー",
+      "count": 527
+    },
+    {
+      "term": "検証",
+      "count": 517
+    },
+    {
+      "term": "報システ",
+      "count": 512
+    },
+    {
+      "term": "とき",
+      "count": 507
+    },
+    {
+      "term": "ンシ",
+      "count": 503
+    },
+    {
+      "term": "実現",
+      "count": 484
+    },
+    {
+      "term": "ンに",
+      "count": 482
+    },
+    {
+      "term": "ンを",
+      "count": 481
+    },
+    {
+      "term": "記録",
+      "count": 481
+    },
+    {
+      "term": "目的",
+      "count": 477
+    },
+    {
+      "term": "導入",
+      "count": 476
+    },
+    {
+      "term": "ベル",
+      "count": 468
+    },
+    {
+      "term": "ついて",
+      "count": 460
     },
     {
       "term": "generative",
+      "count": 447
+    },
+    {
+      "term": "契約",
       "count": 446
     },
     {
-      "term": "定に",
-      "count": 428
+      "term": "ショ",
+      "count": 444
     },
     {
-      "term": "一般",
-      "count": 424
-    },
-    {
-      "term": "バイ",
-      "count": 416
-    },
-    {
-      "term": "ソフ",
-      "count": 416
+      "term": "トが",
+      "count": 435
     }
   ],
   "meetings": [

@@ -2,103 +2,135 @@
   "month": "2025-10",
   "keywords": [
     {
+      "term": "つい",
+      "count": 544
+    },
+    {
+      "term": "施行",
+      "count": 513
+    },
+    {
+      "term": "実施",
+      "count": 469
+    },
+    {
+      "term": "した",
+      "count": 402
+    },
+    {
+      "term": "別表",
+      "count": 394
+    },
+    {
+      "term": "よる",
+      "count": 326
+    },
+    {
       "term": "する",
-      "count": 983
-    },
-    {
-      "term": "にお",
-      "count": 729
-    },
-    {
-      "term": "項 ",
-      "count": 726
-    },
-    {
-      "term": "及び",
-      "count": 507
-    },
-    {
-      "term": "完了",
-      "count": 414
-    },
-    {
-      "term": "項第",
-      "count": 380
-    },
-    {
-      "term": "第3",
-      "count": 313
-    },
-    {
-      "term": "又は",
       "count": 306
     },
     {
-      "term": "成1",
-      "count": 298
+      "term": "第2",
+      "count": 299
     },
     {
-      "term": "月 ",
-      "count": 296
-    },
-    {
-      "term": "法 ",
+      "term": "検査",
       "count": 291
     },
     {
-      "term": "和６",
-      "count": 291
+      "term": "項 ",
+      "count": 290
     },
     {
-      "term": "関係",
-      "count": 274
+      "term": "所管",
+      "count": 285
     },
     {
-      "term": "条 ",
-      "count": 262
+      "term": "直後",
+      "count": 280
     },
     {
-      "term": "月3",
-      "count": 262
+      "term": "年1",
+      "count": 275
     },
     {
-      "term": "定に",
-      "count": 256
+      "term": "につ",
+      "count": 273
     },
     {
-      "term": "の3",
-      "count": 253
+      "term": "規 ",
+      "count": 264
     },
     {
-      "term": "号 ",
-      "count": 253
+      "term": "発出",
+      "count": 264
     },
     {
-      "term": "否 ",
+      "term": "イン",
+      "count": 251
+    },
+    {
+      "term": "める",
+      "count": 248
+    },
+    {
+      "term": "まで",
+      "count": 248
+    },
+    {
+      "term": "可能",
       "count": 246
     },
     {
-      "term": "完了済み",
-      "count": 240
+      "term": "19",
+      "count": 244
     },
     {
-      "term": "され",
-      "count": 220
+      "term": "年中",
+      "count": 226
     },
     {
-      "term": "員の",
-      "count": 218
+      "term": "技術",
+      "count": 213
     },
     {
-      "term": "管省",
-      "count": 203
+      "term": "いる",
+      "count": 211
     },
     {
-      "term": "手続",
-      "count": 199
+      "term": "ついて",
+      "count": 211
     },
     {
-      "term": "告示",
+      "term": "に ",
+      "count": 210
+    },
+    {
+      "term": "在p",
+      "count": 210
+    },
+    {
+      "term": "22",
+      "count": 207
+    },
+    {
+      "term": "関す",
+      "count": 207
+    },
+    {
+      "term": "要 ",
+      "count": 201
+    },
+    {
+      "term": "法 ",
+      "count": 200
+    },
+    {
+      "term": "報告",
+      "count": 192
+    },
+    {
+      "term": "閲覧",
       "count": 185
     },
     {
@@ -106,100 +138,68 @@
       "count": 182
     },
     {
-      "term": "律施",
+      "term": "を含",
       "count": 181
     },
     {
-      "term": "第二",
-      "count": 181
+      "term": "示 ",
+      "count": 170
     },
     {
-      "term": "法令",
-      "count": 178
+      "term": "29",
+      "count": 169
     },
     {
-      "term": "査の",
-      "count": 174
+      "term": "訪閲",
+      "count": 169
     },
     {
-      "term": "定期",
-      "count": 174
-    },
-    {
-      "term": "に関",
-      "count": 172
-    },
-    {
-      "term": "名 ",
-      "count": 168
-    },
-    {
-      "term": "改正",
-      "count": 166
-    },
-    {
-      "term": "了済",
+      "term": "アナ",
       "count": 165
     },
     {
-      "term": "関する法",
-      "count": 161
+      "term": "等に",
+      "count": 163
     },
     {
-      "term": "し完",
-      "count": 160
+      "term": "特別",
+      "count": 153
     },
     {
-      "term": "出に",
-      "count": 158
+      "term": "任者",
+      "count": 152
     },
     {
-      "term": "月ま",
-      "count": 157
+      "term": "産省",
+      "count": 148
     },
     {
-      "term": "一般",
-      "count": 155
-    },
-    {
-      "term": "しが",
-      "count": 149
-    },
-    {
-      "term": "視規",
-      "count": 145
-    },
-    {
-      "term": "制等",
-      "count": 141
-    },
-    {
-      "term": "go",
-      "count": 132
-    },
-    {
-      "term": "所管省庁",
-      "count": 128
-    },
-    {
-      "term": "け ",
-      "count": 125
-    },
-    {
-      "term": "おい",
-      "count": 124
+      "term": "目視規制",
+      "count": 146
     },
     {
       "term": "書の",
-      "count": 122
+      "count": 145
     },
     {
-      "term": "の発",
-      "count": 119
+      "term": "の技",
+      "count": 140
     },
     {
-      "term": "る基",
-      "count": 114
+      "term": "制 ",
+      "count": 140
+    },
+    {
+      "term": "律施",
+      "count": 139
+    },
+    {
+      "term": "号の",
+      "count": 137
+    },
+    {
+      "term": "年度",
+      "count": 137
     }
   ],
   "meetings": [
