@@ -2,131 +2,127 @@
   "month": "2026-07",
   "keywords": [
     {
+      "term": "ース",
+      "count": 26
+    },
+    {
       "term": "に関",
       "count": 24
     },
     {
-      "term": "デジ",
-      "count": 23
+      "term": "ジス",
+      "count": 21
     },
     {
-      "term": "につ",
-      "count": 22
+      "term": "ス ",
+      "count": 21
     },
     {
-      "term": "にお",
-      "count": 22
-    },
-    {
-      "term": "向上",
+      "term": "国民",
       "count": 19
     },
     {
-      "term": "的に",
+      "term": "取組",
+      "count": 17
+    },
+    {
+      "term": "11",
+      "count": 15
+    },
+    {
+      "term": "用す",
       "count": 14
     },
     {
-      "term": "てい",
-      "count": 14
-    },
-    {
-      "term": "の効率化",
-      "count": 14
-    },
-    {
-      "term": "公的",
-      "count": 12
-    },
-    {
-      "term": "レジスト",
-      "count": 12
-    },
-    {
-      "term": "う ",
-      "count": 12
-    },
-    {
-      "term": "た ",
+      "term": "法令",
       "count": 11
+    },
+    {
+      "term": "書面",
+      "count": 11
+    },
+    {
+      "term": "全体",
+      "count": 10
+    },
+    {
+      "term": "を受",
+      "count": 10
+    },
+    {
+      "term": "認 ",
+      "count": 9
+    },
+    {
+      "term": "地関",
+      "count": 9
+    },
+    {
+      "term": "添付書面",
+      "count": 9
+    },
+    {
+      "term": "人登",
+      "count": 9
     },
     {
       "term": "12",
-      "count": 11
-    },
-    {
-      "term": "に対",
-      "count": 11
-    },
-    {
-      "term": "る取",
-      "count": 11
-    },
-    {
-      "term": "によ",
-      "count": 10
-    },
-    {
-      "term": "上及",
-      "count": 10
-    },
-    {
-      "term": "び行",
-      "count": 10
-    },
-    {
-      "term": "億円",
       "count": 9
     },
     {
-      "term": "管省",
+      "term": "関の",
       "count": 9
     },
     {
-      "term": "には",
+      "term": "号イ",
       "count": 9
     },
     {
-      "term": "討す",
+      "term": "行 ",
       "count": 9
     },
     {
-      "term": "における",
+      "term": "政運",
+      "count": 9
+    },
+    {
+      "term": "計画",
       "count": 8
     },
     {
-      "term": "所有",
+      "term": "トの",
       "count": 8
     },
     {
-      "term": "での",
+      "term": "登記情報",
       "count": 8
     },
     {
-      "term": "化し",
+      "term": "公共",
       "count": 8
     },
     {
-      "term": "ここでい",
-      "count": 8
-    },
-    {
-      "term": "社会",
+      "term": "以降",
       "count": 7
     },
     {
-      "term": "つい",
+      "term": "仕組",
       "count": 7
     },
     {
-      "term": "要と",
+      "term": "た登",
       "count": 7
     },
     {
-      "term": "要で",
+      "term": "しつ",
       "count": 7
     },
     {
-      "term": "体に",
+      "term": "登記事項",
+      "count": 7
+    },
+    {
+      "term": "請求",
       "count": 7
     },
     {
@@ -134,47 +130,15 @@
       "count": 7
     },
     {
-      "term": "の入力の",
-      "count": 7
-    },
-    {
-      "term": "化の",
-      "count": 7
-    },
-    {
-      "term": "地図情報",
+      "term": "用目",
       "count": 6
     },
     {
-      "term": "利用促進",
+      "term": "報等",
       "count": 6
     },
     {
-      "term": "の内",
-      "count": 6
-    },
-    {
-      "term": "対す",
-      "count": 6
-    },
-    {
-      "term": "デー",
-      "count": 6
-    },
-    {
-      "term": "地情",
-      "count": 6
-    },
-    {
-      "term": "なが",
-      "count": 6
-    },
-    {
-      "term": "が必",
-      "count": 6
-    },
-    {
-      "term": "了す",
+      "term": "能な",
       "count": 6
     },
     {
@@ -182,23 +146,59 @@
       "count": 6
     },
     {
-      "term": "これらの",
+      "term": "請者",
       "count": 6
     },
     {
-      "term": "セス",
+      "term": "て登",
+      "count": 6
+    },
+    {
+      "term": "するデー",
+      "count": 6
+    },
+    {
+      "term": "変更",
+      "count": 6
+    },
+    {
+      "term": "いく",
+      "count": 6
+    },
+    {
+      "term": "居表",
       "count": 5
     },
     {
-      "term": "今後整備",
+      "term": "令等",
       "count": 5
     },
     {
-      "term": "出の",
+      "term": "に登",
+      "count": 5
+    },
+    {
+      "term": "の観",
+      "count": 5
+    },
+    {
+      "term": "具体的に",
+      "count": 5
+    },
+    {
+      "term": "点か",
+      "count": 5
+    },
+    {
+      "term": "れている",
       "count": 5
     },
     {
       "term": "討を",
+      "count": 5
+    },
+    {
+      "term": "備し",
       "count": 5
     }
   ],

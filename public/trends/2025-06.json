@@ -2,71 +2,75 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "イル",
-      "count": 20
+      "term": "プラ",
+      "count": 26
     },
     {
-      "term": "ビル",
-      "count": 19
+      "term": "ライ",
+      "count": 23
     },
     {
-      "term": "てい",
-      "count": 19
+      "term": "図 ",
+      "count": 23
     },
     {
-      "term": "には",
-      "count": 16
+      "term": "パイプラ",
+      "count": 18
     },
     {
-      "term": "コー",
-      "count": 15
+      "term": "であ",
+      "count": 18
     },
     {
-      "term": "での",
-      "count": 14
+      "term": "リポジト",
+      "count": 18
     },
     {
-      "term": "によ",
-      "count": 14
+      "term": "ース",
+      "count": 17
     },
     {
-      "term": "ない",
-      "count": 14
+      "term": "性の",
+      "count": 13
     },
     {
-      "term": "シークレ",
+      "term": "cd",
+      "count": 13
+    },
+    {
+      "term": "用す",
+      "count": 13
+    },
+    {
+      "term": "変更",
       "count": 12
     },
     {
-      "term": "にお",
+      "term": "トの",
       "count": 12
     },
     {
-      "term": "的に",
-      "count": 12
-    },
-    {
-      "term": "実行",
-      "count": 12
-    },
-    {
-      "term": "につ",
+      "term": "依存",
       "count": 11
     },
     {
-      "term": "に ",
+      "term": "の設",
+      "count": 11
+    },
+    {
+      "term": "の信",
       "count": 10
     },
     {
-      "term": "を用",
+      "term": "いた",
       "count": 10
     },
     {
-      "term": "検証",
+      "term": "to",
       "count": 10
     },
     {
-      "term": "セス",
+      "term": "ubuntu",
       "count": 10
     },
     {
@@ -74,19 +78,11 @@
       "count": 9
     },
     {
-      "term": "code",
+      "term": "リポ",
       "count": 9
     },
     {
-      "term": "つい",
-      "count": 9
-    },
-    {
-      "term": "デリ",
-      "count": 9
-    },
-    {
-      "term": "た ",
+      "term": "ている",
       "count": 9
     },
     {
@@ -94,111 +90,115 @@
       "count": 9
     },
     {
-      "term": "ムが",
-      "count": 9
-    },
-    {
-      "term": "ンa",
-      "count": 9
-    },
-    {
-      "term": "に対",
-      "count": 9
-    },
-    {
       "term": "定内",
       "count": 8
     },
     {
-      "term": "ジト",
+      "term": "ビルドフ",
       "count": 8
-    },
-    {
-      "term": "用し",
-      "count": 8
-    },
-    {
-      "term": "キー",
-      "count": 7
-    },
-    {
-      "term": "における",
-      "count": 7
-    },
-    {
-      "term": "ェッ",
-      "count": 7
-    },
-    {
-      "term": "はg",
-      "count": 7
-    },
-    {
-      "term": "要と",
-      "count": 7
-    },
-    {
-      "term": "with",
-      "count": 7
-    },
-    {
-      "term": "が考",
-      "count": 7
-    },
-    {
-      "term": "デー",
-      "count": 7
-    },
-    {
-      "term": "ットの保",
-      "count": 6
-    },
-    {
-      "term": "ショ",
-      "count": 6
     },
     {
       "term": "物を",
-      "count": 6
+      "count": 8
     },
     {
-      "term": "得し",
-      "count": 6
+      "term": "ンの",
+      "count": 8
     },
     {
-      "term": "ムは",
-      "count": 6
+      "term": "ルー",
+      "count": 8
     },
     {
-      "term": "は３",
-      "count": 6
-    },
-    {
-      "term": "対す",
-      "count": 6
-    },
-    {
-      "term": "ビュ",
-      "count": 6
-    },
-    {
-      "term": "ーと",
-      "count": 6
+      "term": "ある",
+      "count": 8
     },
     {
       "term": "steps",
+      "count": 8
+    },
+    {
+      "term": "フェーズ",
+      "count": 7
+    },
+    {
+      "term": "ンb",
+      "count": 7
+    },
+    {
+      "term": "registry",
+      "count": 7
+    },
+    {
+      "term": "アッ",
+      "count": 7
+    },
+    {
+      "term": "仕組",
+      "count": 7
+    },
+    {
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "tf",
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "digest",
+      "term": "ェーズの",
       "count": 6
     },
     {
-      "term": "要 ",
+      "term": "ージ",
+      "count": 6
+    },
+    {
+      "term": "ス ",
+      "count": 6
+    },
+    {
+      "term": "れて",
+      "count": 6
+    },
+    {
+      "term": "ジを",
+      "count": 6
+    },
+    {
+      "term": "カウ",
+      "count": 6
+    },
+    {
+      "term": "の管",
+      "count": 6
+    },
+    {
+      "term": "影響",
+      "count": 6
+    },
+    {
+      "term": "11",
+      "count": 6
+    },
+    {
+      "term": "actions",
+      "count": 6
+    },
+    {
+      "term": "合は",
+      "count": 6
+    },
+    {
+      "term": "format",
+      "count": 6
+    },
+    {
+      "term": "た信",
+      "count": 5
+    },
+    {
+      "term": "トは",
       "count": 5
     }
   ],
