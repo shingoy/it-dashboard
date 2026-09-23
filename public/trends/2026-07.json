@@ -2,59 +2,63 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "デジタル",
-      "count": 22
+      "term": "登記",
+      "count": 26
     },
     {
-      "term": "化に",
+      "term": "トリ",
       "count": 21
     },
     {
-      "term": "システム",
-      "count": 19
+      "term": "令和",
+      "count": 20
     },
     {
-      "term": "等の",
+      "term": "スト",
+      "count": 20
+    },
+    {
+      "term": "産登",
       "count": 15
     },
     {
-      "term": "もの",
+      "term": "ル庁",
       "count": 15
     },
     {
-      "term": "その",
+      "term": "され",
+      "count": 15
+    },
+    {
+      "term": "スケ",
       "count": 14
     },
     {
-      "term": "手続",
+      "term": "用し",
       "count": 14
     },
     {
-      "term": "きる",
+      "term": "いう",
+      "count": 14
+    },
+    {
+      "term": "管理",
+      "count": 13
+    },
+    {
+      "term": "化を",
+      "count": 13
+    },
+    {
+      "term": "便性向上",
       "count": 12
     },
     {
-      "term": "続に",
-      "count": 12
-    },
-    {
-      "term": "指す",
-      "count": 12
-    },
-    {
-      "term": "た ",
+      "term": "人ベ",
       "count": 11
     },
     {
-      "term": "書面",
-      "count": 11
-    },
-    {
-      "term": "の公",
-      "count": 11
-    },
-    {
-      "term": "産ベ",
+      "term": "係データ",
       "count": 11
     },
     {
@@ -62,63 +66,91 @@
       "count": 11
     },
     {
-      "term": "略 ",
+      "term": "関係",
       "count": 10
     },
     {
-      "term": "ベー",
+      "term": "る法",
       "count": 10
     },
     {
-      "term": "政機関等",
-      "count": 10
-    },
-    {
-      "term": "上及",
-      "count": 10
-    },
-    {
-      "term": "ムを",
-      "count": 10
-    },
-    {
-      "term": "の行",
+      "term": "の省略",
       "count": 9
     },
     {
-      "term": "討す",
+      "term": "を実",
       "count": 9
     },
     {
-      "term": "整理",
+      "term": "との",
       "count": 9
     },
     {
-      "term": "データを",
+      "term": "地関",
       "count": 9
     },
     {
-      "term": "けて",
+      "term": "添付書面",
       "count": 9
+    },
+    {
+      "term": "法人登記",
+      "count": 9
+    },
+    {
+      "term": "タベース",
+      "count": 9
+    },
+    {
+      "term": "での",
+      "count": 8
+    },
+    {
+      "term": "の情",
+      "count": 8
+    },
+    {
+      "term": "要 ",
+      "count": 8
+    },
+    {
+      "term": "以下",
+      "count": 8
+    },
+    {
+      "term": "じて",
+      "count": 8
     },
     {
       "term": "とこ",
       "count": 8
     },
     {
-      "term": "スケジュ",
+      "term": "ー ",
       "count": 8
     },
     {
-      "term": "とか",
+      "term": "共団",
       "count": 8
     },
     {
-      "term": "の提",
+      "term": "施時",
       "count": 7
     },
     {
-      "term": "しな",
+      "term": "期間",
+      "count": 7
+    },
+    {
+      "term": "べき",
+      "count": 7
+    },
+    {
+      "term": "用促",
+      "count": 7
+    },
+    {
+      "term": "策効",
       "count": 7
     },
     {
@@ -126,79 +158,47 @@
       "count": 7
     },
     {
-      "term": "り ",
+      "term": "請求",
       "count": 7
     },
     {
-      "term": "情報の提",
+      "term": "下の",
+      "count": 7
+    },
+    {
+      "term": "スで",
       "count": 6
     },
     {
-      "term": "第５",
+      "term": "針 ",
       "count": 6
     },
     {
-      "term": "ジ ",
+      "term": "面情",
       "count": 6
     },
     {
-      "term": "を連",
+      "term": "用途",
       "count": 6
     },
     {
-      "term": "む ",
+      "term": "報関",
       "count": 6
     },
     {
-      "term": "関係行政",
+      "term": "平成",
       "count": 6
     },
     {
-      "term": "題 ",
+      "term": "関が",
       "count": 6
     },
     {
-      "term": "最新",
+      "term": "届出",
       "count": 6
     },
     {
-      "term": "対し",
-      "count": 6
-    },
-    {
-      "term": "公用",
-      "count": 6
-    },
-    {
-      "term": "理す",
-      "count": 6
-    },
-    {
-      "term": "関し",
-      "count": 6
-    },
-    {
-      "term": "に登",
-      "count": 5
-    },
-    {
-      "term": "実施時期",
-      "count": 5
-    },
-    {
-      "term": "13",
-      "count": 5
-    },
-    {
-      "term": "をいう",
-      "count": 5
-    },
-    {
-      "term": "をい",
-      "count": 5
-    },
-    {
-      "term": "実際",
+      "term": "の総",
       "count": 5
     }
   ],
