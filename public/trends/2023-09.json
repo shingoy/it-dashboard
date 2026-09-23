@@ -2,7 +2,19 @@
   "month": "2023-09",
   "keywords": [
     {
+      "term": "月 ",
+      "count": 3
+    },
+    {
+      "term": "ム ",
+      "count": 3
+    },
+    {
       "term": "動向",
+      "count": 3
+    },
+    {
+      "term": "庁等",
       "count": 3
     },
     {
@@ -10,71 +22,95 @@
       "count": 3
     },
     {
-      "term": "術保",
-      "count": 3
-    },
-    {
-      "term": "タロ",
-      "count": 3
-    },
-    {
-      "term": "関係",
-      "count": 3
-    },
-    {
-      "term": "者からの",
+      "term": "ロ ",
       "count": 2
     },
     {
-      "term": "びか",
+      "term": "利活用方",
       "count": 2
     },
     {
-      "term": "活動",
+      "term": "の提",
       "count": 2
     },
     {
-      "term": "の場",
+      "term": "団体会員",
       "count": 2
     },
     {
-      "term": "との",
+      "term": "い ",
       "count": 2
     },
     {
-      "term": "hp",
+      "term": "けた",
       "count": 2
     },
     {
-      "term": "アナ",
+      "term": "参加",
       "count": 2
     },
     {
-      "term": "者か",
+      "term": "期待",
       "count": 2
     },
     {
-      "term": "regtech",
+      "term": "プや",
       "count": 2
     },
     {
-      "term": "らコ",
+      "term": "目的",
       "count": 2
     },
     {
-      "term": "アナロ",
+      "term": "連 ",
       "count": 2
     },
     {
-      "term": "広く",
+      "term": "ウム開催",
       "count": 2
     },
     {
-      "term": "企画への",
+      "term": "報告会",
       "count": 2
     },
     {
-      "term": "を通じた",
+      "term": "シン",
+      "count": 2
+    },
+    {
+      "term": "シンポジ",
+      "count": 2
+    },
+    {
+      "term": "画へ",
+      "count": 2
+    },
+    {
+      "term": "のア",
+      "count": 2
+    },
+    {
+      "term": "ッチ",
+      "count": 2
+    },
+    {
+      "term": "結果等を",
+      "count": 2
+    },
+    {
+      "term": "機関",
+      "count": 2
+    },
+    {
+      "term": "把握",
+      "count": 2
+    },
+    {
+      "term": "実装",
+      "count": 2
+    },
+    {
+      "term": "トの",
       "count": 2
     },
     {
@@ -82,7 +118,7 @@
       "count": 2
     },
     {
-      "term": "体化",
+      "term": "況を把握",
       "count": 2
     },
     {
@@ -90,75 +126,47 @@
       "count": 2
     },
     {
-      "term": "まえ保有",
-      "count": 2
-    },
-    {
-      "term": "術の",
-      "count": 2
-    },
-    {
-      "term": "を共",
-      "count": 2
-    },
-    {
-      "term": "開催",
-      "count": 2
-    },
-    {
-      "term": "携 ",
-      "count": 2
-    },
-    {
-      "term": "グに",
-      "count": 2
-    },
-    {
-      "term": "く発",
-      "count": 2
-    },
-    {
-      "term": "事業",
-      "count": 2
-    },
-    {
-      "term": "関連",
+      "term": "要\n",
       "count": 1
     },
     {
-      "term": "ーキ",
+      "term": "在す",
       "count": 1
     },
     {
-      "term": "続的",
+      "term": "民間",
       "count": 1
     },
     {
-      "term": "での",
+      "term": "る技",
       "count": 1
     },
     {
-      "term": "スケ",
+      "term": "に加え",
       "count": 1
     },
     {
-      "term": "機関が存",
+      "term": "によ",
       "count": 1
     },
     {
-      "term": "し関",
+      "term": "運営事務",
       "count": 1
     },
     {
-      "term": "置づ",
+      "term": "でテ",
       "count": 1
     },
     {
-      "term": "者間",
+      "term": "案提",
       "count": 1
     },
     {
-      "term": "関係団体",
+      "term": "局 ",
+      "count": 1
+    },
+    {
+      "term": "情 ",
       "count": 1
     },
     {
@@ -166,39 +174,31 @@
       "count": 1
     },
     {
-      "term": "向けた取",
+      "term": "の関係団",
       "count": 1
     },
     {
-      "term": "治体",
+      "term": "の連携を",
       "count": 1
     },
     {
-      "term": "しつ",
+      "term": "の進",
       "count": 1
     },
     {
-      "term": "団法",
+      "term": "先端テク",
       "count": 1
     },
     {
-      "term": "シアムの",
+      "term": "運営する",
       "count": 1
     },
     {
-      "term": "関が",
+      "term": "の技",
       "count": 1
     },
     {
-      "term": "クフ",
-      "count": 1
-    },
-    {
-      "term": "技術情報",
-      "count": 1
-    },
-    {
-      "term": "用可能な",
+      "term": "資金",
       "count": 1
     }
   ],
