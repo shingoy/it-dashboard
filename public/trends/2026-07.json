@@ -2,83 +2,95 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "レジ",
-      "count": 21
+      "term": "利用",
+      "count": 23
     },
     {
-      "term": "政運",
-      "count": 19
+      "term": "シス",
+      "count": 22
     },
     {
-      "term": "便性",
-      "count": 18
+      "term": "不動",
+      "count": 17
     },
     {
-      "term": "もの",
-      "count": 15
+      "term": "まえ",
+      "count": 17
     },
     {
-      "term": "によ",
-      "count": 15
+      "term": "スの",
+      "count": 16
     },
     {
-      "term": "用し",
-      "count": 14
+      "term": "対応",
+      "count": 16
     },
     {
-      "term": "所在",
-      "count": 13
+      "term": "促進",
+      "count": 16
     },
     {
-      "term": "また",
-      "count": 13
-    },
-    {
-      "term": "きる",
+      "term": "う ",
       "count": 12
     },
     {
-      "term": "い ",
+      "term": "もの",
+      "count": 12
+    },
+    {
+      "term": "る ",
+      "count": 12
+    },
+    {
+      "term": "係データ",
       "count": 11
     },
     {
-      "term": "た上",
+      "term": "内容",
       "count": 11
     },
     {
-      "term": "在す",
+      "term": "負担",
       "count": 11
     },
     {
-      "term": "異な",
+      "term": "用 ",
+      "count": 11
+    },
+    {
+      "term": "ため",
+      "count": 11
+    },
+    {
+      "term": "省略",
+      "count": 11
+    },
+    {
+      "term": "法人ベー",
       "count": 10
     },
     {
-      "term": "を含",
+      "term": "び行",
+      "count": 10
+    },
+    {
+      "term": "概要",
+      "count": 10
+    },
+    {
+      "term": "団体",
       "count": 9
     },
     {
-      "term": "業法",
+      "term": "けて",
       "count": 9
     },
     {
-      "term": "には",
-      "count": 9
-    },
-    {
-      "term": "計画",
+      "term": "国の公的",
       "count": 8
     },
     {
-      "term": "認 ",
-      "count": 8
-    },
-    {
-      "term": "不動産登",
-      "count": 8
-    },
-    {
-      "term": "19",
+      "term": "る事",
       "count": 8
     },
     {
@@ -86,63 +98,83 @@
       "count": 8
     },
     {
-      "term": "スケジュ",
+      "term": "ii",
       "count": 8
     },
     {
-      "term": "ると",
+      "term": "ての",
       "count": 8
     },
     {
-      "term": "入力",
-      "count": 8
-    },
-    {
-      "term": "づき",
-      "count": 8
-    },
-    {
-      "term": "以降",
+      "term": "国の行政",
       "count": 7
     },
     {
-      "term": "の提",
+      "term": "なデ",
       "count": 7
     },
     {
-      "term": "けた",
+      "term": "つつ",
       "count": 7
     },
     {
-      "term": "報 ",
+      "term": "ついては",
       "count": 7
     },
     {
-      "term": "果の",
+      "term": "ムに",
       "count": 7
     },
     {
-      "term": "しな",
+      "term": "るシ",
       "count": 7
     },
     {
-      "term": "れた",
+      "term": "がで",
       "count": 7
     },
     {
-      "term": "ニホ",
+      "term": "16",
       "count": 7
     },
     {
-      "term": "セス",
+      "term": "する対応",
       "count": 6
     },
     {
-      "term": "現状の課",
+      "term": "項 ",
       "count": 6
     },
     {
-      "term": "判所",
+      "term": "なが",
+      "count": 6
+    },
+    {
+      "term": "所在地情",
+      "count": 6
+    },
+    {
+      "term": "政手",
+      "count": 6
+    },
+    {
+      "term": "最新",
+      "count": 6
+    },
+    {
+      "term": "報等",
+      "count": 6
+    },
+    {
+      "term": "用目",
+      "count": 6
+    },
+    {
+      "term": "ハニ",
+      "count": 6
+    },
+    {
+      "term": "よっ",
       "count": 6
     },
     {
@@ -150,55 +182,23 @@
       "count": 6
     },
     {
-      "term": "デジ",
+      "term": "これらの",
       "count": 6
     },
     {
-      "term": "台帳",
+      "term": "後の",
+      "count": 6
+    },
+    {
+      "term": "いと",
       "count": 5
     },
     {
-      "term": "ム ",
+      "term": "扱う",
       "count": 5
     },
     {
-      "term": "目的",
-      "count": 5
-    },
-    {
-      "term": "と対",
-      "count": 5
-    },
-    {
-      "term": "観点",
-      "count": 5
-    },
-    {
-      "term": "民間",
-      "count": 5
-    },
-    {
-      "term": "をいう",
-      "count": 5
-    },
-    {
-      "term": "職員",
-      "count": 5
-    },
-    {
-      "term": "検討する",
-      "count": 5
-    },
-    {
-      "term": "付け",
-      "count": 5
-    },
-    {
-      "term": "るく",
-      "count": 5
-    },
-    {
-      "term": "突合",
+      "term": "横断的な",
       "count": 5
     }
   ],
