@@ -2,31 +2,31 @@
   {
     "url": "https://www8.cao.go.jp/cstp/ai/yosan_8nendo_draft.pdf",
     "error": "404 Client Error: Not Found for url: https://www8.cao.go.jp/cstp/ai/yosan_8nendo_draft.pdf",
-    "timestamp": "2026-09-24T14:07:00.523525"
+    "timestamp": "2026-09-24T23:41:58.615118"
   },
   {
     "url": "https://www8.cao.go.jp/cstp/togo/index.html",
     "error": "404 Client Error: Not Found for url: https://www8.cao.go.jp/cstp/togo/index.html",
-    "timestamp": "2026-09-24T14:07:18.794243"
+    "timestamp": "2026-09-24T23:42:20.825751"
   },
   {
     "url": "https://www.meti.go.jp/shingikai/mono_info_service/digital_sangyo/index.html",
     "error": "403 Client Error: Forbidden for url: https://www.meti.go.jp/shingikai/mono_info_service/digital_sangyo/index.html",
-    "timestamp": "2026-09-24T14:07:23.115786"
+    "timestamp": "2026-09-24T23:42:25.769256"
   },
   {
     "url": "https://www.meti.go.jp/policy/it_policy/dx/index.html",
     "error": "403 Client Error: Forbidden for url: https://www.meti.go.jp/policy/it_policy/dx/index.html",
-    "timestamp": "2026-09-24T14:07:25.811664"
+    "timestamp": "2026-09-24T23:42:29.018841"
   },
   {
     "url": "https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_00002.html",
     "error": "404 Client Error: Not Found for url: https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_00002.html",
-    "timestamp": "2026-09-24T14:07:28.754284"
+    "timestamp": "2026-09-24T23:42:32.575946"
   },
   {
     "url": "https://cio.go.jp/",
     "error": "HTTPSConnectionPool(host='cio.go.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='cio.go.jp', port=443): Failed to resolve 'cio.go.jp' ([Errno -2] Name or service not known)\"))",
-    "timestamp": "2026-09-24T14:07:31.332561"
+    "timestamp": "2026-09-24T23:42:35.413634"
   }
 ]
