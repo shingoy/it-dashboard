@@ -2,203 +2,203 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "イン",
-      "count": 22
+      "term": "プラ",
+      "count": 25
     },
     {
-      "term": "リポジト",
-      "count": 14
+      "term": "管理",
+      "count": 20
     },
     {
-      "term": "steps",
-      "count": 12
+      "term": "果物",
+      "count": 20
     },
     {
-      "term": "id",
-      "count": 12
-    },
-    {
-      "term": "につ",
-      "count": 11
-    },
-    {
-      "term": "ース",
-      "count": 11
-    },
-    {
-      "term": "取得",
-      "count": 11
-    },
-    {
-      "term": "ブラ",
-      "count": 10
-    },
-    {
-      "term": "情報",
-      "count": 10
-    },
-    {
-      "term": "を用",
-      "count": 10
-    },
-    {
-      "term": "し ",
-      "count": 10
-    },
-    {
-      "term": "フェ",
-      "count": 9
-    },
-    {
-      "term": "にも",
-      "count": 9
-    },
-    {
-      "term": "物の",
-      "count": 9
-    },
-    {
-      "term": "ンa",
-      "count": 9
-    },
-    {
-      "term": "リの",
-      "count": 9
-    },
-    {
-      "term": "カル",
-      "count": 8
-    },
-    {
-      "term": "囲の",
-      "count": 8
-    },
-    {
-      "term": "の構",
-      "count": 8
-    },
-    {
-      "term": "スの",
-      "count": 8
-    },
-    {
-      "term": "いっ",
-      "count": 8
-    },
-    {
-      "term": "権限",
-      "count": 8
-    },
-    {
-      "term": "共通",
-      "count": 7
-    },
-    {
-      "term": "すべ",
-      "count": 7
-    },
-    {
-      "term": "バイナリ",
-      "count": 7
-    },
-    {
-      "term": "の取",
-      "count": 7
-    },
-    {
-      "term": "ムチーム",
-      "count": 7
-    },
-    {
-      "term": "registry",
-      "count": 7
-    },
-    {
-      "term": "ルで",
-      "count": 7
-    },
-    {
-      "term": "おけ",
-      "count": 6
+      "term": "デー",
+      "count": 17
     },
     {
       "term": "ージ",
+      "count": 14
+    },
+    {
+      "term": "よる",
+      "count": 13
+    },
+    {
+      "term": "ット",
+      "count": 13
+    },
+    {
+      "term": "対策",
+      "count": 12
+    },
+    {
+      "term": "変更",
+      "count": 12
+    },
+    {
+      "term": "情報",
+      "count": 12
+    },
+    {
+      "term": "的に",
+      "count": 12
+    },
+    {
+      "term": "cat",
+      "count": 12
+    },
+    {
+      "term": "ティ",
+      "count": 11
+    },
+    {
+      "term": "護 ",
+      "count": 11
+    },
+    {
+      "term": "ムの",
+      "count": 11
+    },
+    {
+      "term": "10",
+      "count": 11
+    },
+    {
+      "term": "ナリ",
+      "count": 10
+    },
+    {
+      "term": "内容",
+      "count": 10
+    },
+    {
+      "term": "定し",
+      "count": 10
+    },
+    {
+      "term": "セス",
+      "count": 10
+    },
+    {
+      "term": "on",
+      "count": 10
+    },
+    {
+      "term": "ムが",
+      "count": 9
+    },
+    {
+      "term": "制限",
+      "count": 8
+    },
+    {
+      "term": "用し",
+      "count": 8
+    },
+    {
+      "term": "いう",
+      "count": 8
+    },
+    {
+      "term": "repository",
+      "count": 8
+    },
+    {
+      "term": "定義",
+      "count": 7
+    },
+    {
+      "term": "plan",
+      "count": 7
+    },
+    {
+      "term": "ェッ",
+      "count": 7
+    },
+    {
+      "term": "略す",
+      "count": 7
+    },
+    {
+      "term": "強制",
+      "count": 7
+    },
+    {
+      "term": "指定",
+      "count": 7
+    },
+    {
+      "term": "キュ",
       "count": 6
     },
     {
-      "term": "イダ",
+      "term": "共通",
       "count": 6
     },
     {
-      "term": "定 ",
+      "term": "を ",
       "count": 6
     },
     {
-      "term": "codebuild",
+      "term": "バイ",
       "count": 6
     },
     {
-      "term": "トを",
+      "term": "本書",
       "count": 6
     },
     {
-      "term": "ついては",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "の事",
+      "term": "はプ",
       "count": 6
     },
     {
-      "term": "影響",
+      "term": "ref",
       "count": 6
     },
     {
-      "term": "ることが",
+      "term": "image",
       "count": 6
     },
     {
-      "term": "安全",
+      "term": "る ",
       "count": 6
     },
     {
-      "term": "critical",
+      "term": "るs",
       "count": 6
     },
     {
-      "term": "はパ",
+      "term": "17",
       "count": 6
     },
     {
-      "term": "理 ",
+      "term": "jobs",
+      "count": 6
+    },
+    {
+      "term": "信頼でき",
       "count": 5
     },
     {
-      "term": "組織",
+      "term": "ン特",
       "count": 5
     },
     {
-      "term": "ロー",
+      "term": "gitlab",
       "count": 5
     },
     {
-      "term": "はa",
+      "term": "重要",
       "count": 5
     },
     {
-      "term": "信頼性の",
-      "count": 5
-    },
-    {
-      "term": "ス ",
-      "count": 5
-    },
-    {
-      "term": "で ",
-      "count": 5
-    },
-    {
-      "term": "について",
+      "term": "は省",
       "count": 5
     }
   ],
