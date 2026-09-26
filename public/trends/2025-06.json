@@ -2,204 +2,204 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ルド",
-      "count": 19
+      "term": "イプ",
+      "count": 21
     },
     {
-      "term": "保護",
+      "term": "ット",
+      "count": 20
+    },
+    {
+      "term": "こと",
       "count": 18
     },
     {
-      "term": "きる",
-      "count": 18
-    },
-    {
-      "term": "弱性",
-      "count": 15
-    },
-    {
-      "term": "ソー",
-      "count": 15
-    },
-    {
-      "term": "頼性",
-      "count": 13
-    },
-    {
-      "term": "レッ",
-      "count": 12
-    },
-    {
-      "term": "こで",
-      "count": 12
-    },
-    {
-      "term": "のメ",
-      "count": 12
-    },
-    {
-      "term": "フェ",
-      "count": 11
-    },
-    {
-      "term": "可能",
-      "count": 11
-    },
-    {
-      "term": "ている",
-      "count": 10
-    },
-    {
-      "term": "の ",
-      "count": 10
-    },
-    {
-      "term": "スコ",
-      "count": 9
-    },
-    {
-      "term": "リポ",
-      "count": 9
-    },
-    {
-      "term": "デリ",
-      "count": 9
-    },
-    {
-      "term": "の対",
-      "count": 9
-    },
-    {
-      "term": "https",
-      "count": 9
-    },
-    {
-      "term": "uses",
-      "count": 9
-    },
-    {
-      "term": "カル",
-      "count": 8
-    },
-    {
-      "term": "なお",
-      "count": 8
-    },
-    {
-      "term": "これ",
-      "count": 8
-    },
-    {
-      "term": "てい",
-      "count": 8
-    },
-    {
-      "term": "関す",
-      "count": 7
+      "term": "実行",
+      "count": 16
     },
     {
       "term": "ラッ",
-      "count": 7
+      "count": 15
     },
     {
-      "term": "内の",
-      "count": 7
+      "term": "のた",
+      "count": 15
     },
     {
-      "term": "デリバリ",
-      "count": 7
+      "term": "弱性",
+      "count": 14
     },
     {
-      "term": "の仕",
-      "count": 7
-    },
-    {
-      "term": "フェーズ",
-      "count": 7
-    },
-    {
-      "term": "の制",
-      "count": 7
-    },
-    {
-      "term": "もの",
-      "count": 7
-    },
-    {
-      "term": "にな",
-      "count": 7
-    },
-    {
-      "term": "イメ",
-      "count": 7
-    },
-    {
-      "term": "連携",
-      "count": 7
-    },
-    {
-      "term": "トフォー",
-      "count": 7
-    },
-    {
-      "term": "ンバ",
-      "count": 7
+      "term": "メタ",
+      "count": 14
     },
     {
       "term": "name",
+      "count": 14
+    },
+    {
+      "term": "トの",
+      "count": 12
+    },
+    {
+      "term": "ラン",
+      "count": 12
+    },
+    {
+      "term": "ファイル",
+      "count": 12
+    },
+    {
+      "term": "につ",
+      "count": 11
+    },
+    {
+      "term": "存物",
+      "count": 11
+    },
+    {
+      "term": "要が",
+      "count": 11
+    },
+    {
+      "term": "の安",
+      "count": 10
+    },
+    {
+      "term": "jobs",
+      "count": 10
+    },
+    {
+      "term": "env",
+      "count": 10
+    },
+    {
+      "term": "とい",
+      "count": 9
+    },
+    {
+      "term": "ビルド上",
+      "count": 8
+    },
+    {
+      "term": "特有",
+      "count": 8
+    },
+    {
+      "term": "リソ",
+      "count": 8
+    },
+    {
+      "term": "ルー",
+      "count": 8
+    },
+    {
+      "term": "作成",
+      "count": 8
+    },
+    {
+      "term": "生成",
+      "count": 8
+    },
+    {
+      "term": "リテ",
       "count": 7
     },
     {
-      "term": "図 ",
+      "term": "すべ",
       "count": 7
     },
     {
-      "term": "組み",
+      "term": "sbom",
       "count": 7
     },
     {
-      "term": "ド設",
+      "term": "事項",
       "count": 7
     },
     {
-      "term": "on",
+      "term": "アッ",
       "count": 7
     },
     {
-      "term": "情報",
+      "term": "ット情報",
       "count": 6
     },
     {
-      "term": "イダ",
+      "term": "フ ",
       "count": 6
     },
     {
-      "term": "ンテナイ",
+      "term": "対す",
       "count": 6
     },
     {
-      "term": "たt",
+      "term": "ャン",
       "count": 6
     },
     {
-      "term": "があ",
+      "term": "ついては",
       "count": 6
     },
     {
-      "term": "ジの",
+      "term": "ズで",
       "count": 6
     },
     {
-      "term": "の利",
+      "term": "される",
       "count": 6
     },
     {
-      "term": "steps",
+      "term": "る ",
       "count": 6
     },
     {
-      "term": "and",
+      "term": "同様",
       "count": 6
+    },
+    {
+      "term": "えら",
+      "count": 6
+    },
+    {
+      "term": "infrastructure",
+      "count": 5
+    },
+    {
+      "term": "保守",
+      "count": 5
+    },
+    {
+      "term": "の証",
+      "count": 5
+    },
+    {
+      "term": "ることを",
+      "count": 5
+    },
+    {
+      "term": "に保",
+      "count": 5
+    },
+    {
+      "term": "配布",
+      "count": 5
+    },
+    {
+      "term": "有効",
+      "count": 5
+    },
+    {
+      "term": "ュー",
+      "count": 5
+    },
+    {
+      "term": "でも",
+      "count": 5
+    },
+    {
+      "term": "イル",
+      "count": 5
     }
   ],
   "meetings": [

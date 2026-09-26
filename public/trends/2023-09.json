@@ -2,71 +2,27 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "テク",
+      "term": "関係",
       "count": 3
     },
     {
-      "term": "連携",
+      "term": "見直",
       "count": 3
     },
     {
-      "term": "化 ",
+      "term": "機関",
       "count": 3
     },
     {
-      "term": "の ",
+      "term": "自ら",
       "count": 3
     },
     {
-      "term": "討 ",
-      "count": 3
-    },
-    {
-      "term": "制対",
-      "count": 3
-    },
-    {
-      "term": "の活",
+      "term": "につ",
       "count": 2
     },
     {
-      "term": "提案",
-      "count": 2
-    },
-    {
-      "term": "hp",
-      "count": 2
-    },
-    {
-      "term": "年 ",
-      "count": 2
-    },
-    {
-      "term": "用方",
-      "count": 2
-    },
-    {
-      "term": "規制の見",
-      "count": 2
-    },
-    {
-      "term": "の参",
-      "count": 2
-    },
-    {
-      "term": "て周",
-      "count": 2
-    },
-    {
-      "term": "の活動等",
-      "count": 2
-    },
-    {
-      "term": "法等を説",
-      "count": 2
-    },
-    {
-      "term": "プや",
+      "term": "供 ",
       "count": 2
     },
     {
@@ -74,19 +30,39 @@
       "count": 2
     },
     {
-      "term": "に対して",
+      "term": "会員",
       "count": 2
     },
     {
-      "term": "ベン",
+      "term": "年 ",
       "count": 2
     },
     {
-      "term": "的利",
+      "term": "ット",
       "count": 2
     },
     {
-      "term": "団体会員",
+      "term": "か ",
+      "count": 2
+    },
+    {
+      "term": "規制対象",
+      "count": 2
+    },
+    {
+      "term": "参加",
+      "count": 2
+    },
+    {
+      "term": "フィード",
+      "count": 2
+    },
+    {
+      "term": "利活用方",
+      "count": 2
+    },
+    {
+      "term": "見直しに",
       "count": 2
     },
     {
@@ -94,47 +70,39 @@
       "count": 2
     },
     {
-      "term": "regtech",
-      "count": 2
-    },
-    {
-      "term": "ソー",
-      "count": 2
-    },
-    {
-      "term": "ムへ",
-      "count": 2
-    },
-    {
-      "term": "ロ ",
-      "count": 2
-    },
-    {
       "term": "アム",
       "count": 2
     },
     {
-      "term": "報告",
+      "term": "める",
       "count": 2
     },
     {
-      "term": "ジの",
+      "term": "向上",
       "count": 2
     },
     {
-      "term": "を広",
+      "term": "用した規",
       "count": 2
     },
     {
-      "term": "ッチ",
+      "term": "トの",
       "count": 2
     },
     {
-      "term": "発信",
+      "term": "一体感",
       "count": 2
     },
     {
-      "term": "信 ",
+      "term": "しの実装",
+      "count": 2
+    },
+    {
+      "term": "連 ",
+      "count": 2
+    },
+    {
+      "term": "の具",
       "count": 2
     },
     {
@@ -142,51 +110,19 @@
       "count": 2
     },
     {
-      "term": "イメ",
+      "term": "開発",
       "count": 2
     },
     {
-      "term": "規制",
+      "term": "実装",
       "count": 2
     },
     {
-      "term": "制見直",
+      "term": "術の",
       "count": 2
     },
     {
-      "term": "テクノロ",
-      "count": 2
-    },
-    {
-      "term": "法に",
-      "count": 1
-    },
-    {
-      "term": "治体",
-      "count": 1
-    },
-    {
-      "term": "共同",
-      "count": 1
-    },
-    {
-      "term": "関 ",
-      "count": 1
-    },
-    {
-      "term": "機関によ",
-      "count": 1
-    },
-    {
-      "term": "業に",
-      "count": 1
-    },
-    {
-      "term": "営事",
-      "count": 1
-    },
-    {
-      "term": "動スケジ",
+      "term": "の更",
       "count": 1
     },
     {
@@ -194,11 +130,75 @@
       "count": 1
     },
     {
-      "term": "体イ",
+      "term": "るの",
       "count": 1
     },
     {
-      "term": "者共",
+      "term": "有機関",
+      "count": 1
+    },
+    {
+      "term": "ャー",
+      "count": 1
+    },
+    {
+      "term": "関する説",
+      "count": 1
+    },
+    {
+      "term": "案提",
+      "count": 1
+    },
+    {
+      "term": "ジ ",
+      "count": 1
+    },
+    {
+      "term": "供を",
+      "count": 1
+    },
+    {
+      "term": "の参加呼",
+      "count": 1
+    },
+    {
+      "term": "ュー",
+      "count": 1
+    },
+    {
+      "term": "グ等",
+      "count": 1
+    },
+    {
+      "term": "クす",
+      "count": 1
+    },
+    {
+      "term": "を高める",
+      "count": 1
+    },
+    {
+      "term": "技術知見",
+      "count": 1
+    },
+    {
+      "term": "機関から",
+      "count": 1
+    },
+    {
+      "term": "る役",
+      "count": 1
+    },
+    {
+      "term": "割 ",
+      "count": 1
+    },
+    {
+      "term": "アッ",
+      "count": 1
+    },
+    {
+      "term": "本ベ",
       "count": 1
     }
   ],
