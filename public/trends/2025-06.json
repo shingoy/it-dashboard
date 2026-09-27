@@ -2,83 +2,107 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "れる",
-      "count": 23
+      "term": "であ",
+      "count": 22
     },
     {
-      "term": "ール",
+      "term": "管理",
       "count": 20
     },
     {
-      "term": "actions",
-      "count": 19
+      "term": "パイプラ",
+      "count": 20
     },
     {
-      "term": "ード",
+      "term": "ット",
+      "count": 20
+    },
+    {
+      "term": "イプ",
+      "count": 20
+    },
+    {
+      "term": "いる",
+      "count": 20
+    },
+    {
+      "term": "チー",
       "count": 18
     },
     {
-      "term": "ービ",
+      "term": "リポジト",
+      "count": 17
+    },
+    {
+      "term": "ビス",
       "count": 16
     },
     {
-      "term": "メタ",
+      "term": "フォ",
       "count": 15
     },
     {
-      "term": "ラッ",
+      "term": "的な",
+      "count": 15
+    },
+    {
+      "term": "確認",
       "count": 13
     },
     {
-      "term": "シークレ",
+      "term": "tf",
+      "count": 13
+    },
+    {
+      "term": "情報",
       "count": 12
     },
     {
-      "term": "ツー",
+      "term": "対策",
       "count": 12
     },
     {
-      "term": "デー",
+      "term": "ンテ",
       "count": 12
     },
     {
-      "term": "のメ",
-      "count": 12
-    },
-    {
-      "term": "ティ",
+      "term": "10",
       "count": 11
     },
     {
-      "term": "定す",
+      "term": "サー",
       "count": 11
     },
     {
-      "term": "ては",
-      "count": 11
+      "term": "jobs",
+      "count": 10
     },
     {
-      "term": "が ",
+      "term": "ている",
       "count": 9
     },
     {
-      "term": "ムが",
+      "term": "権限",
       "count": 9
     },
     {
-      "term": "ンa",
+      "term": "yml",
       "count": 9
     },
     {
-      "term": "った",
-      "count": 9
-    },
-    {
-      "term": "code",
+      "term": "定内",
       "count": 8
     },
     {
-      "term": "での",
+      "term": "ーカ",
+      "count": 8
+    },
+    {
+      "term": "行範",
+      "count": 8
+    },
+    {
+      "term": "主体",
       "count": 8
     },
     {
@@ -86,19 +110,23 @@
       "count": 8
     },
     {
-      "term": "デリ",
+      "term": "ルー",
       "count": 8
     },
     {
-      "term": "運用",
-      "count": 7
+      "term": "docker",
+      "count": 8
     },
     {
-      "term": "示す",
-      "count": 7
+      "term": "そのため",
+      "count": 8
     },
     {
-      "term": "ット",
+      "term": "のよ",
+      "count": 8
+    },
+    {
+      "term": "る主",
       "count": 7
     },
     {
@@ -106,99 +134,71 @@
       "count": 7
     },
     {
-      "term": "るプ",
+      "term": "るま",
       "count": 7
     },
     {
-      "term": "定義",
+      "term": "自動",
       "count": 7
     },
     {
-      "term": "強制",
+      "term": "ンb",
       "count": 7
     },
     {
-      "term": "の設",
-      "count": 7
-    },
-    {
-      "term": "digest",
-      "count": 7
-    },
-    {
-      "term": "成 ",
+      "term": "詳細",
       "count": 6
     },
     {
-      "term": "する",
+      "term": "タデータ",
       "count": 6
     },
     {
-      "term": "ス ",
+      "term": "要がある",
       "count": 6
     },
     {
-      "term": "ロバ",
+      "term": "る\n",
       "count": 6
     },
     {
-      "term": "ジと",
+      "term": "の利",
       "count": 6
     },
     {
-      "term": "ムに",
+      "term": "の連",
       "count": 6
     },
     {
-      "term": "ンテナイ",
+      "term": "るよ",
       "count": 6
     },
     {
-      "term": "方法",
+      "term": "ァイ",
       "count": 6
     },
     {
-      "term": "にな",
+      "term": "output",
       "count": 6
     },
     {
-      "term": "https",
+      "term": "要と",
       "count": 6
     },
     {
-      "term": "る ",
+      "term": "env",
       "count": 6
     },
     {
-      "term": "理 ",
+      "term": "ケー",
       "count": 5
     },
     {
-      "term": "ン ",
+      "term": "とに",
       "count": 5
     },
     {
-      "term": "観点",
-      "count": 5
-    },
-    {
-      "term": "プ ",
-      "count": 5
-    },
-    {
-      "term": "はt",
-      "count": 5
-    },
-    {
-      "term": "の成果物",
-      "count": 5
-    },
-    {
-      "term": "上の",
-      "count": 5
-    },
-    {
-      "term": "ルへ",
+      "term": "サプ",
       "count": 5
     }
   ],

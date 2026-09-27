@@ -2,151 +2,119 @@
   "month": "2023-07",
   "keywords": [
     {
-      "term": "れる",
-      "count": 2312
+      "term": "情報",
+      "count": 2723
     },
     {
-      "term": "ティ",
-      "count": 1861
+      "term": "いる",
+      "count": 2132
     },
     {
-      "term": "報シ",
-      "count": 1841
+      "term": "であ",
+      "count": 2049
     },
     {
-      "term": "る場",
-      "count": 1719
+      "term": "管理",
+      "count": 1751
     },
     {
-      "term": "ービ",
-      "count": 1506
+      "term": "対策",
+      "count": 1628
     },
     {
-      "term": "運用",
-      "count": 1425
+      "term": "確認",
+      "count": 1586
+    },
+    {
+      "term": "ビス",
+      "count": 1509
+    },
+    {
+      "term": "的な",
+      "count": 1476
     },
     {
       "term": "スク",
       "count": 1318
     },
     {
-      "term": "合に",
-      "count": 1199
+      "term": "検討",
+      "count": 1274
     },
     {
-      "term": "ムに",
-      "count": 1180
+      "term": "とに",
+      "count": 1154
     },
     {
-      "term": "ール",
-      "count": 1122
+      "term": "の利",
+      "count": 1134
     },
     {
-      "term": "機関",
-      "count": 1081
+      "term": "情報シス",
+      "count": 1075
     },
     {
       "term": "セキュリ",
       "count": 1060
     },
     {
-      "term": "ては",
-      "count": 1054
+      "term": "のよ",
+      "count": 962
     },
     {
-      "term": "ス ",
-      "count": 1040
+      "term": "踏ま",
+      "count": 869
     },
     {
-      "term": "が ",
-      "count": 1027
+      "term": "ット",
+      "count": 834
     },
     {
-      "term": "定す",
-      "count": 994
-    },
-    {
-      "term": "関係",
-      "count": 902
-    },
-    {
-      "term": "項 ",
-      "count": 891
-    },
-    {
-      "term": "方法",
-      "count": 888
-    },
-    {
-      "term": "定義",
-      "count": 856
-    },
-    {
-      "term": "調達",
-      "count": 742
-    },
-    {
-      "term": "認す",
-      "count": 732
-    },
-    {
-      "term": "報システ",
-      "count": 695
-    },
-    {
-      "term": "理 ",
-      "count": 682
-    },
-    {
-      "term": "ード",
-      "count": 670
-    },
-    {
-      "term": "示す",
-      "count": 662
-    },
-    {
-      "term": "全体",
-      "count": 658
-    },
-    {
-      "term": "全て",
-      "count": 633
+      "term": "を行",
+      "count": 829
     },
     {
       "term": "者は",
-      "count": 629
+      "count": 824
     },
     {
-      "term": "観点",
-      "count": 610
+      "term": "ケー",
+      "count": 813
     },
     {
-      "term": "スに",
-      "count": 597
+      "term": "る事",
+      "count": 731
     },
     {
-      "term": "報 ",
-      "count": 592
+      "term": "参考",
+      "count": 722
+    },
+    {
+      "term": "合 ",
+      "count": 713
+    },
+    {
+      "term": "クラ",
+      "count": 708
+    },
+    {
+      "term": "な ",
+      "count": 700
+    },
+    {
+      "term": "説 ",
+      "count": 620
     },
     {
       "term": "不正",
       "count": 589
     },
     {
-      "term": "するため",
-      "count": 572
+      "term": "策の",
+      "count": 581
     },
     {
-      "term": "にな",
-      "count": 569
-    },
-    {
-      "term": "上の",
-      "count": 556
-    },
-    {
-      "term": "ンタ",
+      "term": "性に",
       "count": 555
     },
     {
@@ -154,52 +122,84 @@
       "count": 554
     },
     {
-      "term": "意す",
+      "term": "特に",
       "count": 550
     },
     {
-      "term": "継続",
-      "count": 500
+      "term": "討す",
+      "count": 523
+    },
+    {
+      "term": "分析",
+      "count": 515
+    },
+    {
+      "term": "原則",
+      "count": 495
+    },
+    {
+      "term": "サー",
+      "count": 495
+    },
+    {
+      "term": "10",
+      "count": 492
     },
     {
       "term": "of",
-      "count": 500
+      "count": 487
     },
     {
-      "term": "定期",
-      "count": 484
-    },
-    {
-      "term": "ムが",
-      "count": 480
-    },
-    {
-      "term": "容に",
-      "count": 474
+      "term": "改善",
+      "count": 486
     },
     {
       "term": "ai",
-      "count": 470
+      "count": 479
     },
     {
-      "term": "to",
-      "count": 465
+      "term": "なら",
+      "count": 474
     },
     {
-      "term": "for",
-      "count": 462
+      "term": "き ",
+      "count": 449
     },
     {
-      "term": "府省",
-      "count": 459
+      "term": "載す",
+      "count": 449
     },
     {
-      "term": "デー",
-      "count": 458
+      "term": "要がある",
+      "count": 447
     },
     {
-      "term": "項に",
-      "count": 456
+      "term": "端末",
+      "count": 441
+    },
+    {
+      "term": "詳細",
+      "count": 421
+    },
+    {
+      "term": "and",
+      "count": 421
+    },
+    {
+      "term": "主体",
+      "count": 416
+    },
+    {
+      "term": "を整",
+      "count": 410
+    },
+    {
+      "term": "フォ",
+      "count": 393
+    },
+    {
+      "term": "ることを",
+      "count": 388
     }
   ],
   "meetings": [
