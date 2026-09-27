@@ -2,151 +2,155 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "であ",
-      "count": 22
+      "term": "パイ",
+      "count": 21
     },
     {
-      "term": "管理",
-      "count": 20
+      "term": "設定",
+      "count": 19
     },
     {
-      "term": "パイプラ",
-      "count": 20
-    },
-    {
-      "term": "ット",
-      "count": 20
-    },
-    {
-      "term": "イプ",
-      "count": 20
-    },
-    {
-      "term": "いる",
-      "count": 20
-    },
-    {
-      "term": "チー",
-      "count": 18
-    },
-    {
-      "term": "リポジト",
-      "count": 17
-    },
-    {
-      "term": "ビス",
+      "term": "ソー",
       "count": 16
     },
     {
-      "term": "フォ",
+      "term": "ース",
+      "count": 16
+    },
+    {
+      "term": "トリ",
       "count": 15
     },
     {
-      "term": "的な",
+      "term": "ール",
       "count": 15
     },
     {
-      "term": "確認",
+      "term": "とな",
+      "count": 15
+    },
+    {
+      "term": "る必",
+      "count": 14
+    },
+    {
+      "term": "の成",
       "count": 13
     },
     {
-      "term": "tf",
-      "count": 13
-    },
-    {
-      "term": "情報",
-      "count": 12
-    },
-    {
-      "term": "対策",
-      "count": 12
-    },
-    {
-      "term": "ンテ",
-      "count": 12
-    },
-    {
-      "term": "10",
+      "term": "シークレ",
       "count": 11
     },
     {
-      "term": "サー",
+      "term": "略 ",
       "count": 11
     },
     {
-      "term": "jobs",
+      "term": "code",
       "count": 10
     },
     {
-      "term": "ている",
+      "term": "具体",
+      "count": 10
+    },
+    {
+      "term": "確保",
+      "count": 10
+    },
+    {
+      "term": "し ",
+      "count": 10
+    },
+    {
+      "term": "workflows",
+      "count": 10
+    },
+    {
+      "term": "の制",
       "count": 9
     },
     {
-      "term": "権限",
+      "term": "提供",
       "count": 9
     },
     {
-      "term": "yml",
+      "term": "れて",
       "count": 9
     },
     {
-      "term": "定内",
+      "term": "ンa",
+      "count": 9
+    },
+    {
+      "term": "利用",
       "count": 8
     },
     {
-      "term": "ーカ",
+      "term": "上で",
       "count": 8
     },
     {
-      "term": "行範",
+      "term": "commit",
       "count": 8
     },
     {
-      "term": "主体",
+      "term": "よう",
       "count": 8
     },
     {
-      "term": "スク",
-      "count": 8
-    },
-    {
-      "term": "ルー",
-      "count": 8
-    },
-    {
-      "term": "docker",
-      "count": 8
-    },
-    {
-      "term": "そのため",
-      "count": 8
-    },
-    {
-      "term": "のよ",
-      "count": 8
-    },
-    {
-      "term": "る主",
+      "term": "シス",
       "count": 7
     },
     {
-      "term": "の仕",
+      "term": "ョン",
       "count": 7
     },
     {
-      "term": "るま",
+      "term": "連携",
       "count": 7
     },
     {
-      "term": "自動",
+      "term": "ェッ",
       "count": 7
     },
     {
-      "term": "ンb",
+      "term": "login",
       "count": 7
     },
     {
-      "term": "詳細",
+      "term": "type",
+      "count": 7
+    },
+    {
+      "term": "に加",
+      "count": 7
+    },
+    {
+      "term": "latest",
+      "count": 7
+    },
+    {
+      "term": "ットの保",
+      "count": 6
+    },
+    {
+      "term": "めに",
+      "count": 6
+    },
+    {
+      "term": "キュ",
+      "count": 6
+    },
+    {
+      "term": "を含",
+      "count": 6
+    },
+    {
+      "term": "高い",
+      "count": 6
+    },
+    {
+      "term": "ス ",
       "count": 6
     },
     {
@@ -154,52 +158,48 @@
       "count": 6
     },
     {
-      "term": "要がある",
+      "term": "カウ",
       "count": 6
     },
     {
-      "term": "る\n",
+      "term": "アカ",
       "count": 6
     },
     {
-      "term": "の利",
+      "term": "供す",
       "count": 6
     },
     {
-      "term": "の連",
+      "term": "secrets",
       "count": 6
     },
     {
-      "term": "るよ",
+      "term": "スの",
       "count": 6
     },
     {
-      "term": "ァイ",
+      "term": "ここ",
       "count": 6
     },
     {
-      "term": "output",
+      "term": "and",
       "count": 6
     },
     {
-      "term": "要と",
+      "term": "tf",
       "count": 6
     },
     {
-      "term": "env",
+      "term": "format",
       "count": 6
     },
     {
-      "term": "ケー",
-      "count": 5
+      "term": "象と",
+      "count": 6
     },
     {
-      "term": "とに",
-      "count": 5
-    },
-    {
-      "term": "サプ",
-      "count": 5
+      "term": "とし",
+      "count": 6
     }
   ],
   "meetings": [

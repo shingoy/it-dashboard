@@ -2,51 +2,43 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "情報",
-      "count": 28
+      "term": "タベ",
+      "count": 26
     },
     {
-      "term": "の利",
-      "count": 22
+      "term": "ース",
+      "count": 21
     },
     {
-      "term": "検討",
+      "term": "レジスト",
+      "count": 20
+    },
+    {
+      "term": "ベース",
       "count": 19
     },
     {
-      "term": "踏ま",
+      "term": "ス ",
       "count": 17
     },
     {
-      "term": "民の",
+      "term": "レジ",
       "count": 17
     },
     {
-      "term": "いる",
+      "term": "の整",
       "count": 16
     },
     {
-      "term": "備 ",
-      "count": 14
+      "term": "等に",
+      "count": 16
     },
     {
-      "term": "的な",
-      "count": 13
+      "term": "政策",
+      "count": 15
     },
     {
-      "term": "法人",
-      "count": 13
-    },
-    {
-      "term": "管理",
-      "count": 13
-    },
-    {
-      "term": "政策効果",
-      "count": 13
-    },
-    {
-      "term": "とに",
+      "term": "し ",
       "count": 13
     },
     {
@@ -54,51 +46,39 @@
       "count": 13
     },
     {
-      "term": "改善",
+      "term": "関の",
       "count": 12
     },
     {
-      "term": "公的",
+      "term": "ての",
       "count": 12
     },
     {
-      "term": "的基",
-      "count": 12
-    },
-    {
-      "term": "のデ",
-      "count": 12
-    },
-    {
-      "term": "ビス",
-      "count": 12
-    },
-    {
-      "term": "国民の利",
-      "count": 12
-    },
-    {
-      "term": "確認",
-      "count": 12
-    },
-    {
-      "term": "ータベー",
+      "term": "シス",
       "count": 11
     },
     {
-      "term": "であ",
+      "term": "を図",
       "count": 11
     },
     {
-      "term": "10",
+      "term": "が存",
+      "count": 11
+    },
+    {
+      "term": "20",
       "count": 10
     },
     {
-      "term": "進 ",
+      "term": "具体",
       "count": 10
     },
     {
-      "term": "ット",
+      "term": "関 ",
+      "count": 10
+    },
+    {
+      "term": "提供",
       "count": 10
     },
     {
@@ -106,19 +86,23 @@
       "count": 9
     },
     {
-      "term": "携し",
+      "term": "24",
       "count": 9
     },
     {
-      "term": "る事",
+      "term": "認 ",
+      "count": 9
+    },
+    {
+      "term": "付書",
+      "count": 9
+    },
+    {
+      "term": "を踏まえ",
       "count": 8
     },
     {
-      "term": "参考",
-      "count": 8
-    },
-    {
-      "term": "とこ",
+      "term": "続等",
       "count": 8
     },
     {
@@ -126,11 +110,19 @@
       "count": 8
     },
     {
-      "term": "応を",
+      "term": "スケジュ",
       "count": 8
     },
     {
-      "term": "の仕",
+      "term": "文字",
+      "count": 8
+    },
+    {
+      "term": "めに",
+      "count": 8
+    },
+    {
+      "term": "現状",
       "count": 7
     },
     {
@@ -138,67 +130,75 @@
       "count": 7
     },
     {
-      "term": "の連",
+      "term": "てお",
       "count": 7
     },
     {
-      "term": "今後",
+      "term": "しつ",
+      "count": 7
+    },
+    {
+      "term": "の入力の",
+      "count": 7
+    },
+    {
+      "term": "とな",
+      "count": 7
+    },
+    {
+      "term": "化の",
+      "count": 7
+    },
+    {
+      "term": "務の",
+      "count": 7
+    },
+    {
+      "term": "供す",
+      "count": 7
+    },
+    {
+      "term": "トリ",
       "count": 6
     },
     {
-      "term": "の品",
+      "term": "確保",
       "count": 6
     },
     {
-      "term": "を行",
+      "term": "標準化に",
       "count": 6
     },
     {
-      "term": "体化",
+      "term": "庁 ",
       "count": 6
     },
     {
-      "term": "て行",
+      "term": "能な",
       "count": 6
     },
     {
-      "term": "携 ",
+      "term": "和６",
       "count": 6
     },
     {
-      "term": "む ",
+      "term": "届出",
       "count": 6
     },
     {
-      "term": "図面",
-      "count": 6
-    },
-    {
-      "term": "法 ",
+      "term": "スの",
       "count": 5
     },
     {
-      "term": "まで",
+      "term": "るデータ",
       "count": 5
     },
     {
-      "term": "扱う",
+      "term": "じて",
       "count": 5
     },
     {
-      "term": "付け",
-      "count": 5
-    },
-    {
-      "term": "討す",
-      "count": 5
-    },
-    {
-      "term": "各行",
-      "count": 5
-    },
-    {
-      "term": "一定",
+      "term": "30",
       "count": 5
     }
   ],
