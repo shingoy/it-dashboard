@@ -2,47 +2,59 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "登記",
-      "count": 25
+      "term": "ステ",
+      "count": 22
     },
     {
-      "term": "係デ",
-      "count": 18
+      "term": "つい",
+      "count": 22
     },
     {
-      "term": "ベース",
+      "term": "の利",
+      "count": 22
+    },
+    {
+      "term": "テム",
+      "count": 20
+    },
+    {
+      "term": "おい",
+      "count": 19
+    },
+    {
+      "term": "利用",
       "count": 17
     },
     {
-      "term": "踏ま",
-      "count": 17
-    },
-    {
-      "term": "不動",
+      "term": "を踏",
       "count": 16
     },
     {
-      "term": "効果",
+      "term": "いる",
       "count": 16
     },
     {
-      "term": "所管",
-      "count": 14
+      "term": "的な",
+      "count": 15
+    },
+    {
+      "term": "ル庁",
+      "count": 15
     },
     {
       "term": "に関する",
       "count": 14
     },
     {
-      "term": "事務",
-      "count": 14
+      "term": "国の",
+      "count": 13
     },
     {
-      "term": "申請",
-      "count": 14
+      "term": "なる",
+      "count": 13
     },
     {
-      "term": "報デ",
+      "term": "記関",
       "count": 12
     },
     {
@@ -50,23 +62,7 @@
       "count": 12
     },
     {
-      "term": "条第",
-      "count": 12
-    },
-    {
-      "term": "ュー",
-      "count": 12
-    },
-    {
-      "term": "記関",
-      "count": 11
-    },
-    {
-      "term": "所所",
-      "count": 11
-    },
-    {
-      "term": "データの",
+      "term": "人ベ",
       "count": 11
     },
     {
@@ -74,55 +70,27 @@
       "count": 11
     },
     {
-      "term": "の確",
+      "term": "る取",
+      "count": 11
+    },
+    {
+      "term": "に係",
       "count": 10
     },
     {
-      "term": "参照",
+      "term": "個別",
       "count": 10
     },
     {
-      "term": "の取",
+      "term": "略 ",
       "count": 10
     },
     {
-      "term": "ット",
-      "count": 10
-    },
-    {
-      "term": "人登",
-      "count": 9
-    },
-    {
-      "term": "との",
-      "count": 9
-    },
-    {
-      "term": "応策",
+      "term": "る情",
       "count": 8
     },
     {
-      "term": "業法",
-      "count": 8
-    },
-    {
-      "term": "19",
-      "count": 8
-    },
-    {
-      "term": "における",
-      "count": 8
-    },
-    {
-      "term": "基盤",
-      "count": 8
-    },
-    {
-      "term": "別の",
-      "count": 8
-    },
-    {
-      "term": "と連",
+      "term": "方公",
       "count": 8
     },
     {
@@ -130,76 +98,108 @@
       "count": 8
     },
     {
-      "term": "地方",
+      "term": "ここでい",
       "count": 8
     },
     {
-      "term": "や ",
+      "term": "政策",
       "count": 8
     },
     {
-      "term": "スに",
+      "term": "書面",
       "count": 8
     },
     {
-      "term": "土地所有",
+      "term": "への",
       "count": 7
     },
     {
-      "term": "トチ",
+      "term": "共団",
       "count": 7
     },
     {
-      "term": "第２",
+      "term": "るシ",
       "count": 7
-    },
-    {
-      "term": "の他",
-      "count": 6
-    },
-    {
-      "term": "社会",
-      "count": 6
-    },
-    {
-      "term": "政手",
-      "count": 6
-    },
-    {
-      "term": "化を",
-      "count": 6
-    },
-    {
-      "term": "号に",
-      "count": 6
-    },
-    {
-      "term": "が ",
-      "count": 6
-    },
-    {
-      "term": "次期",
-      "count": 6
-    },
-    {
-      "term": "な行政機",
-      "count": 6
     },
     {
       "term": "り ",
+      "count": 7
+    },
+    {
+      "term": "の入",
+      "count": 7
+    },
+    {
+      "term": "けて",
+      "count": 7
+    },
+    {
+      "term": "16",
+      "count": 7
+    },
+    {
+      "term": "題に",
       "count": 6
     },
     {
-      "term": "度に",
+      "term": "かに",
       "count": 6
     },
     {
-      "term": "用請",
+      "term": "所在地情",
       "count": 6
     },
     {
-      "term": "る文",
+      "term": "針を",
       "count": 6
+    },
+    {
+      "term": "び裁",
+      "count": 6
+    },
+    {
+      "term": "む ",
+      "count": 6
+    },
+    {
+      "term": "図情",
+      "count": 6
+    },
+    {
+      "term": "実施時期",
+      "count": 5
+    },
+    {
+      "term": "独立行政",
+      "count": 5
+    },
+    {
+      "term": "の添",
+      "count": 5
+    },
+    {
+      "term": "費用",
+      "count": 5
+    },
+    {
+      "term": "ムで",
+      "count": 5
+    },
+    {
+      "term": "度 ",
+      "count": 5
+    },
+    {
+      "term": "き情",
+      "count": 4
+    },
+    {
+      "term": "国立",
+      "count": 4
+    },
+    {
+      "term": "を精",
+      "count": 4
     }
   ],
   "meetings": [
