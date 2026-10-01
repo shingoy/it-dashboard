@@ -2,131 +2,79 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "ハイ",
+      "term": "ォー",
       "count": 2
     },
     {
-      "term": "フラ",
+      "term": "文大",
       "count": 2
     },
     {
-      "term": "本的",
+      "term": "数 ",
       "count": 2
     },
     {
-      "term": "の信",
+      "term": "カル",
       "count": 2
     },
     {
-      "term": "型犯",
+      "term": "評価基盤",
+      "count": 2
+    },
+    {
+      "term": "靱化",
+      "count": 2
+    },
+    {
+      "term": "の能",
+      "count": 2
+    },
+    {
+      "term": "の信頼性",
+      "count": 2
+    },
+    {
+      "term": "hpci",
+      "count": 2
+    },
+    {
+      "term": "341",
+      "count": 2
+    },
+    {
+      "term": "間で",
       "count": 1
     },
     {
-      "term": "を創る",
+      "term": "に推",
       "count": 1
     },
     {
-      "term": "成ａ",
+      "term": "た次",
       "count": 1
     },
     {
-      "term": "難な",
+      "term": "困難",
       "count": 1
     },
     {
-      "term": "針に分類",
+      "term": "ノロ",
       "count": 1
     },
     {
-      "term": "積み",
+      "term": "のａ",
       "count": 1
     },
     {
-      "term": "令和",
+      "term": "を使",
       "count": 1
     },
     {
-      "term": "は予",
+      "term": "学研",
       "count": 1
     },
     {
-      "term": "発活",
-      "count": 1
-    },
-    {
-      "term": "が深",
-      "count": 1
-    },
-    {
-      "term": "うａ",
-      "count": 1
-    },
-    {
-      "term": "ず ",
-      "count": 1
-    },
-    {
-      "term": "的変革",
-      "count": 1
-    },
-    {
-      "term": "策に",
-      "count": 1
-    },
-    {
-      "term": "と協働す",
-      "count": 1
-    },
-    {
-      "term": "ス間",
-      "count": 1
-    },
-    {
-      "term": "for",
-      "count": 1
-    },
-    {
-      "term": "の予",
-      "count": 1
-    },
-    {
-      "term": "正予",
-      "count": 1
-    },
-    {
-      "term": "22",
-      "count": 1
-    },
-    {
-      "term": "成立",
-      "count": 1
-    },
-    {
-      "term": "ボッ",
-      "count": 1
-    },
-    {
-      "term": "含ま",
-      "count": 1
-    },
-    {
-      "term": "係す",
-      "count": 1
-    },
-    {
-      "term": "犯罪",
-      "count": 1
-    },
-    {
-      "term": "用し",
-      "count": 1
-    },
-    {
-      "term": "進 ",
-      "count": 1
-    },
-    {
-      "term": "域に",
+      "term": "と協",
       "count": 1
     },
     {
@@ -134,71 +82,123 @@
       "count": 1
     },
     {
-      "term": "機関の生",
+      "term": "に向けて",
       "count": 1
     },
     {
-      "term": "海底ケー",
+      "term": "農ス",
       "count": 1
     },
     {
-      "term": "デジタル",
+      "term": "面施",
       "count": 1
     },
     {
-      "term": "労働",
+      "term": "関す",
       "count": 1
     },
     {
-      "term": "新プログ",
+      "term": "きる",
       "count": 1
     },
     {
-      "term": "の労働生",
+      "term": "閣議",
       "count": 1
     },
     {
-      "term": "の研究",
+      "term": "促進及び",
       "count": 1
     },
     {
-      "term": "学研究革",
+      "term": "開発",
       "count": 1
     },
     {
-      "term": "化対",
+      "term": "発等",
       "count": 1
     },
     {
-      "term": "的計",
+      "term": "イン",
       "count": 1
     },
     {
-      "term": "ンピ",
+      "term": "術開",
       "count": 1
     },
     {
-      "term": "小項目ご",
+      "term": "ラボ",
       "count": 1
     },
     {
-      "term": "等ａ",
+      "term": "産性の向",
       "count": 1
     },
     {
-      "term": "カル",
+      "term": "成ａ",
       "count": 1
     },
     {
-      "term": "新プ",
+      "term": "バル",
       "count": 1
     },
     {
-      "term": "頼性",
+      "term": "億円の内",
       "count": 1
     },
     {
-      "term": "240",
+      "term": "高め",
+      "count": 1
+    },
+    {
+      "term": "項目",
+      "count": 1
+    },
+    {
+      "term": "は予",
+      "count": 1
+    },
+    {
+      "term": "促進",
+      "count": 1
+    },
+    {
+      "term": "に向",
+      "count": 1
+    },
+    {
+      "term": "環等",
+      "count": 1
+    },
+    {
+      "term": "調査",
+      "count": 1
+    },
+    {
+      "term": "働生",
+      "count": 1
+    },
+    {
+      "term": "につ",
+      "count": 1
+    },
+    {
+      "term": "動的",
+      "count": 1
+    },
+    {
+      "term": "罪グルー",
+      "count": 1
+    },
+    {
+      "term": "議 ",
+      "count": 1
+    },
+    {
+      "term": "抜本",
+      "count": 1
+    },
+    {
+      "term": "経済対策",
       "count": 1
     }
   ],
