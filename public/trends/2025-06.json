@@ -2,203 +2,203 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "パイ",
-      "count": 21
+      "term": "図 ",
+      "count": 28
     },
     {
-      "term": "ポジ",
-      "count": 20
+      "term": "プラ",
+      "count": 26
     },
     {
-      "term": "ージ",
+      "term": "こと",
+      "count": 25
+    },
+    {
+      "term": "ある",
+      "count": 25
+    },
+    {
+      "term": "ため",
+      "count": 22
+    },
+    {
+      "term": "ーム",
+      "count": 18
+    },
+    {
+      "term": "物の",
       "count": 17
     },
     {
-      "term": "ール",
+      "term": "とし",
       "count": 17
     },
     {
-      "term": "ビス",
-      "count": 16
+      "term": "ない",
+      "count": 17
     },
     {
-      "term": "れる",
-      "count": 16
-    },
-    {
-      "term": "って",
+      "term": "フェ",
       "count": 15
     },
     {
-      "term": "ける",
-      "count": 14
-    },
-    {
-      "term": "中略",
-      "count": 14
-    },
-    {
-      "term": "チー",
-      "count": 13
-    },
-    {
-      "term": "的に",
-      "count": 13
-    },
-    {
-      "term": "id",
-      "count": 13
-    },
-    {
-      "term": "ント",
+      "term": "内容",
       "count": 12
     },
     {
-      "term": "情報",
-      "count": 12
-    },
-    {
-      "term": "れら",
-      "count": 12
-    },
-    {
-      "term": "tf",
-      "count": 12
-    },
-    {
-      "term": "おけ",
+      "term": "ン ",
       "count": 11
     },
     {
-      "term": "ズの",
+      "term": "トの",
       "count": 11
     },
     {
-      "term": "護 ",
+      "term": "の実",
       "count": 11
     },
     {
-      "term": "成果物の",
+      "term": "安全性の",
       "count": 11
     },
     {
-      "term": "上で",
-      "count": 11
-    },
-    {
-      "term": "えら",
-      "count": 11
-    },
-    {
-      "term": "テナ",
-      "count": 11
-    },
-    {
-      "term": "を含",
+      "term": "理を",
       "count": 10
     },
     {
-      "term": "git",
+      "term": "る具",
       "count": 10
     },
     {
-      "term": "sbom",
+      "term": "ubuntu",
       "count": 10
     },
     {
-      "term": "ンa",
+      "term": "on",
+      "count": 10
+    },
+    {
+      "term": "そのため",
       "count": 9
     },
     {
-      "term": "スキ",
+      "term": "とが",
       "count": 9
     },
     {
-      "term": "image",
+      "term": "runs",
       "count": 9
     },
     {
-      "term": "ソー",
+      "term": "ラッ",
       "count": 8
     },
     {
-      "term": "依存",
+      "term": "バイ",
       "count": 8
     },
     {
-      "term": "ァイ",
+      "term": "用い",
       "count": 8
     },
     {
-      "term": "いう",
+      "term": "対象",
       "count": 8
+    },
+    {
+      "term": "示す",
+      "count": 7
+    },
+    {
+      "term": "ムチーム",
+      "count": 7
+    },
+    {
+      "term": "provenance",
+      "count": 7
     },
     {
       "term": "署名",
-      "count": 8
-    },
-    {
-      "term": "とす",
       "count": 7
     },
     {
-      "term": "フォーム",
+      "term": "など",
       "count": 7
     },
     {
-      "term": "よる",
+      "term": "ップ",
       "count": 7
     },
     {
-      "term": "ーを",
+      "term": "file",
       "count": 7
     },
     {
-      "term": "cosign",
+      "term": "ド設",
       "count": 7
     },
     {
-      "term": "アク",
-      "count": 7
+      "term": "ンに",
+      "count": 6
     },
     {
-      "term": "可能",
-      "count": 7
+      "term": "チの",
+      "count": 6
     },
     {
-      "term": "仕組",
-      "count": 7
+      "term": "の漏洩対",
+      "count": 6
+    },
+    {
+      "term": "ット情報",
+      "count": 6
     },
     {
       "term": "セキ",
       "count": 6
     },
     {
-      "term": "ェー",
+      "term": "ド成",
       "count": 6
     },
     {
-      "term": "たコ",
+      "term": "ソフトウ",
       "count": 6
     },
     {
-      "term": "省略する",
+      "term": "カウ",
       "count": 6
     },
     {
-      "term": "のア",
+      "term": "にて",
       "count": 6
     },
     {
-      "term": "運用保守",
+      "term": "デー",
+      "count": 6
+    },
+    {
+      "term": "repository",
+      "count": 6
+    },
+    {
+      "term": "ビルド設",
+      "count": 6
+    },
+    {
+      "term": "理 ",
       "count": 5
     },
     {
-      "term": "用保",
+      "term": "守 ",
       "count": 5
     },
     {
-      "term": "ュリ",
+      "term": "コー",
+      "count": 5
+    },
+    {
+      "term": "ード",
       "count": 5
     }
   ],
