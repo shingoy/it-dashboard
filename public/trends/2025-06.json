@@ -2,51 +2,47 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
+      "term": "パイ",
       "count": 21
     },
     {
-      "term": "ジト",
+      "term": "ポジ",
       "count": 20
     },
     {
-      "term": "安全",
-      "count": 18
-    },
-    {
-      "term": "ール",
-      "count": 18
-    },
-    {
-      "term": "ci",
+      "term": "ージ",
       "count": 17
     },
     {
-      "term": "ファ",
+      "term": "ール",
+      "count": 17
+    },
+    {
+      "term": "ビス",
       "count": 16
     },
     {
-      "term": "ンテ",
+      "term": "れる",
+      "count": 16
+    },
+    {
+      "term": "って",
       "count": 15
     },
     {
-      "term": "ータ",
-      "count": 15
+      "term": "ける",
+      "count": 14
     },
     {
-      "term": "署名",
-      "count": 15
+      "term": "中略",
+      "count": 14
     },
     {
-      "term": "内容",
+      "term": "チー",
       "count": 13
     },
     {
-      "term": "また",
-      "count": 13
-    },
-    {
-      "term": "とが",
+      "term": "的に",
       "count": 13
     },
     {
@@ -54,27 +50,59 @@
       "count": 13
     },
     {
-      "term": "ない",
+      "term": "ント",
       "count": 12
+    },
+    {
+      "term": "情報",
+      "count": 12
+    },
+    {
+      "term": "れら",
+      "count": 12
+    },
+    {
+      "term": "tf",
+      "count": 12
+    },
+    {
+      "term": "おけ",
+      "count": 11
+    },
+    {
+      "term": "ズの",
+      "count": 11
+    },
+    {
+      "term": "護 ",
+      "count": 11
+    },
+    {
+      "term": "成果物の",
+      "count": 11
+    },
+    {
+      "term": "上で",
+      "count": 11
     },
     {
       "term": "えら",
       "count": 11
     },
     {
-      "term": "ンを",
+      "term": "テナ",
+      "count": 11
+    },
+    {
+      "term": "を含",
       "count": 10
     },
     {
-      "term": "内で",
+      "term": "git",
       "count": 10
     },
     {
-      "term": "検証",
-      "count": 10
-    },
-    {
-      "term": "ここ",
+      "term": "sbom",
       "count": 10
     },
     {
@@ -82,123 +110,95 @@
       "count": 9
     },
     {
-      "term": "の対",
+      "term": "スキ",
       "count": 9
     },
     {
-      "term": "action",
+      "term": "image",
       "count": 9
     },
     {
-      "term": "とし",
+      "term": "ソー",
       "count": 8
     },
     {
-      "term": "らの",
+      "term": "依存",
       "count": 8
     },
     {
-      "term": "ト情",
+      "term": "ァイ",
+      "count": 8
+    },
+    {
+      "term": "いう",
+      "count": 8
+    },
+    {
+      "term": "署名",
+      "count": 8
+    },
+    {
+      "term": "とす",
       "count": 7
     },
     {
-      "term": "17",
+      "term": "フォーム",
       "count": 7
     },
     {
-      "term": "の仕",
+      "term": "よる",
       "count": 7
     },
     {
-      "term": "ェア",
+      "term": "ーを",
       "count": 7
     },
     {
-      "term": "環境",
+      "term": "cosign",
       "count": 7
     },
     {
-      "term": "version",
+      "term": "アク",
       "count": 7
     },
     {
-      "term": "ルー",
+      "term": "可能",
       "count": 7
     },
     {
-      "term": "連携",
+      "term": "仕組",
       "count": 7
     },
     {
-      "term": "るこ",
-      "count": 7
-    },
-    {
-      "term": "スを",
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "ビュ",
+      "term": "ェー",
       "count": 6
     },
     {
-      "term": "uses",
+      "term": "たコ",
       "count": 6
     },
     {
-      "term": "理 ",
+      "term": "省略する",
+      "count": 6
+    },
+    {
+      "term": "のア",
+      "count": 6
+    },
+    {
+      "term": "運用保守",
       "count": 5
     },
     {
-      "term": "む運",
+      "term": "用保",
       "count": 5
     },
     {
-      "term": "資産管理",
-      "count": 5
-    },
-    {
-      "term": "バリ",
-      "count": 5
-    },
-    {
-      "term": "ル ",
-      "count": 5
-    },
-    {
-      "term": "となる",
-      "count": 5
-    },
-    {
-      "term": "チームが",
-      "count": 5
-    },
-    {
-      "term": "成し",
-      "count": 5
-    },
-    {
-      "term": "される",
-      "count": 5
-    },
-    {
-      "term": "でc",
-      "count": 5
-    },
-    {
-      "term": "しな",
-      "count": 5
-    },
-    {
-      "term": "のよ",
-      "count": 5
-    },
-    {
-      "term": "ecr",
-      "count": 5
-    },
-    {
-      "term": "github",
+      "term": "ュリ",
       "count": 5
     }
   ],

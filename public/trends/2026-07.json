@@ -2,55 +2,91 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "ータ",
-      "count": 27
+      "term": "情報",
+      "count": 28
     },
     {
-      "term": "国民",
+      "term": "係る",
+      "count": 21
+    },
+    {
+      "term": "関係",
+      "count": 20
+    },
+    {
+      "term": "を行",
       "count": 19
     },
     {
-      "term": "連携",
-      "count": 18
+      "term": "動産",
+      "count": 17
     },
     {
-      "term": "スを",
-      "count": 16
+      "term": "取組",
+      "count": 17
     },
     {
-      "term": "等を",
+      "term": "ける",
       "count": 15
     },
     {
-      "term": "る国",
+      "term": "について",
       "count": 15
     },
     {
-      "term": "スケ",
+      "term": "的に",
       "count": 14
     },
     {
-      "term": "報シ",
+      "term": "いう",
+      "count": 14
+    },
+    {
+      "term": "タを",
+      "count": 14
+    },
+    {
+      "term": "課題",
       "count": 13
     },
     {
-      "term": "進法",
+      "term": "おけ",
+      "count": 13
+    },
+    {
+      "term": "報デ",
       "count": 12
     },
     {
-      "term": "所所",
+      "term": "のデ",
+      "count": 12
+    },
+    {
+      "term": "行政運営",
+      "count": 12
+    },
+    {
+      "term": "上で",
+      "count": 12
+    },
+    {
+      "term": "ビス",
+      "count": 12
+    },
+    {
+      "term": "法第",
+      "count": 12
+    },
+    {
+      "term": "第２",
+      "count": 12
+    },
+    {
+      "term": "標準",
       "count": 11
     },
     {
-      "term": "た上",
-      "count": 11
-    },
-    {
-      "term": "め ",
-      "count": 11
-    },
-    {
-      "term": "号 ",
+      "term": "項目",
       "count": 11
     },
     {
@@ -58,147 +94,111 @@
       "count": 11
     },
     {
-      "term": "準化",
+      "term": "が存",
+      "count": 11
+    },
+    {
+      "term": "法人ベー",
       "count": 10
     },
     {
-      "term": "事業",
+      "term": "土地",
       "count": 10
     },
     {
-      "term": "全体",
+      "term": "る法",
       "count": 10
     },
     {
-      "term": "人登",
+      "term": "の検",
       "count": 9
     },
     {
-      "term": "政府",
+      "term": "実現",
       "count": 9
     },
     {
-      "term": "及び行政",
+      "term": "って",
       "count": 9
     },
     {
-      "term": "ール",
+      "term": "ースを利",
       "count": 9
     },
     {
-      "term": "向け",
+      "term": "を含",
       "count": 9
+    },
+    {
+      "term": "応策",
+      "count": 8
+    },
+    {
+      "term": "処理",
+      "count": 8
+    },
+    {
+      "term": "iii",
+      "count": 8
+    },
+    {
+      "term": "仕組",
+      "count": 7
+    },
+    {
+      "term": "ホヘ",
+      "count": 7
     },
     {
       "term": "タ連",
-      "count": 9
-    },
-    {
-      "term": "内容",
-      "count": 8
-    },
-    {
-      "term": "度所",
-      "count": 8
-    },
-    {
-      "term": "のと",
-      "count": 8
-    },
-    {
-      "term": "社会",
-      "count": 8
-    },
-    {
-      "term": "ここ",
-      "count": 8
-    },
-    {
-      "term": "て登",
-      "count": 8
-    },
-    {
-      "term": "ル ",
-      "count": 8
-    },
-    {
-      "term": "11",
-      "count": 8
-    },
-    {
-      "term": "の課",
       "count": 7
     },
     {
-      "term": "の品",
+      "term": "として整",
       "count": 7
     },
     {
-      "term": "17",
+      "term": "れら",
       "count": 7
     },
     {
-      "term": "しな",
-      "count": 7
-    },
-    {
-      "term": "証明",
-      "count": 7
-    },
-    {
-      "term": "つつ",
-      "count": 7
-    },
-    {
-      "term": "とが",
-      "count": 7
-    },
-    {
-      "term": "また",
-      "count": 7
-    },
-    {
-      "term": "状の",
+      "term": "かに",
       "count": 6
     },
     {
-      "term": "リと",
+      "term": "所を",
       "count": 6
     },
     {
-      "term": "施す",
+      "term": "度以",
       "count": 6
     },
     {
-      "term": "iv",
+      "term": "いく",
       "count": 6
     },
     {
-      "term": "リに",
+      "term": "表記",
       "count": 6
     },
     {
-      "term": "政事",
+      "term": "図情",
       "count": 6
     },
     {
-      "term": "指し",
-      "count": 6
-    },
-    {
-      "term": "らの",
-      "count": 6
-    },
-    {
-      "term": "後整",
+      "term": "報データ",
       "count": 5
     },
     {
-      "term": "備及び改",
+      "term": "や行",
       "count": 5
     },
     {
-      "term": "点か",
+      "term": "も含",
+      "count": 5
+    },
+    {
+      "term": "ール",
       "count": 5
     }
   ],
