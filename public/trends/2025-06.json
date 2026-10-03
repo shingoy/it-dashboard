@@ -2,7 +2,7 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
+      "term": "する",
       "count": 28
     },
     {
@@ -10,63 +10,87 @@
       "count": 26
     },
     {
-      "term": "こと",
-      "count": 25
+      "term": "成果",
+      "count": 20
     },
     {
-      "term": "ある",
-      "count": 25
+      "term": "では",
+      "count": 19
     },
     {
-      "term": "ため",
-      "count": 22
+      "term": "るこ",
+      "count": 19
     },
     {
-      "term": "ーム",
+      "term": "いる",
       "count": 18
     },
     {
-      "term": "物の",
-      "count": 17
+      "term": "れた",
+      "count": 16
     },
     {
-      "term": "とし",
-      "count": 17
-    },
-    {
-      "term": "ない",
-      "count": 17
-    },
-    {
-      "term": "フェ",
+      "term": "に ",
       "count": 15
     },
     {
-      "term": "内容",
+      "term": "から",
+      "count": 15
+    },
+    {
+      "term": "コン",
+      "count": 15
+    },
+    {
+      "term": "性の",
+      "count": 14
+    },
+    {
+      "term": "ルド",
+      "count": 14
+    },
+    {
+      "term": "中略",
+      "count": 14
+    },
+    {
+      "term": "ルを",
+      "count": 13
+    },
+    {
+      "term": "デー",
+      "count": 13
+    },
+    {
+      "term": "変更",
       "count": 12
     },
     {
-      "term": "ン ",
+      "term": "を取",
+      "count": 12
+    },
+    {
+      "term": "イメ",
+      "count": 12
+    },
+    {
+      "term": "フェ",
       "count": 11
     },
     {
-      "term": "トの",
+      "term": "terraform",
       "count": 11
     },
     {
-      "term": "の実",
-      "count": 11
-    },
-    {
-      "term": "安全性の",
-      "count": 11
-    },
-    {
-      "term": "理を",
+      "term": "ナリ",
       "count": 10
     },
     {
-      "term": "る具",
+      "term": "ビス",
+      "count": 10
+    },
+    {
+      "term": "build",
       "count": 10
     },
     {
@@ -78,91 +102,83 @@
       "count": 10
     },
     {
-      "term": "そのため",
+      "term": "が ",
       "count": 9
     },
     {
-      "term": "とが",
+      "term": "また",
       "count": 9
     },
     {
-      "term": "runs",
+      "term": "ムが",
       "count": 9
     },
     {
-      "term": "ラッ",
+      "term": "通し",
       "count": 8
     },
     {
-      "term": "バイ",
+      "term": "ック",
       "count": 8
     },
     {
-      "term": "用い",
+      "term": "して",
       "count": 8
     },
     {
-      "term": "対象",
+      "term": "組み",
       "count": 8
     },
     {
-      "term": "示す",
+      "term": "ローカル",
       "count": 7
     },
     {
-      "term": "ムチーム",
+      "term": "ェーズの",
       "count": 7
     },
     {
-      "term": "provenance",
+      "term": "とす",
       "count": 7
     },
     {
-      "term": "署名",
+      "term": "ジト",
       "count": 7
     },
     {
-      "term": "など",
+      "term": "における",
       "count": 7
     },
     {
-      "term": "ップ",
+      "term": "事項",
       "count": 7
     },
     {
-      "term": "file",
+      "term": "略す",
       "count": 7
     },
     {
-      "term": "ド設",
+      "term": "を実",
       "count": 7
     },
     {
-      "term": "ンに",
+      "term": "図 ",
+      "count": 7
+    },
+    {
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "チの",
+      "term": "トに",
       "count": 6
     },
     {
-      "term": "の漏洩対",
+      "term": "ジと",
       "count": 6
     },
     {
-      "term": "ット情報",
-      "count": 6
-    },
-    {
-      "term": "セキ",
-      "count": 6
-    },
-    {
-      "term": "ド成",
-      "count": 6
-    },
-    {
-      "term": "ソフトウ",
+      "term": "たコ",
       "count": 6
     },
     {
@@ -170,36 +186,20 @@
       "count": 6
     },
     {
-      "term": "にて",
+      "term": "の連",
       "count": 6
     },
     {
-      "term": "デー",
+      "term": "rulesets",
       "count": 6
     },
     {
-      "term": "repository",
+      "term": "ても",
       "count": 6
     },
     {
-      "term": "ビルド設",
+      "term": "and",
       "count": 6
-    },
-    {
-      "term": "理 ",
-      "count": 5
-    },
-    {
-      "term": "守 ",
-      "count": 5
-    },
-    {
-      "term": "コー",
-      "count": 5
-    },
-    {
-      "term": "ード",
-      "count": 5
     }
   ],
   "meetings": [
