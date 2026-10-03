@@ -2,131 +2,151 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "する",
-      "count": 24
+      "term": "デジタル",
+      "count": 22
     },
     {
-      "term": "デー",
-      "count": 20
+      "term": "につ",
+      "count": 22
     },
     {
-      "term": "を行",
+      "term": "関等",
       "count": 19
     },
     {
-      "term": "から",
-      "count": 18
+      "term": "記情",
+      "count": 19
     },
     {
-      "term": "ル庁",
-      "count": 15
+      "term": "てい",
+      "count": 17
     },
     {
-      "term": "討 ",
+      "term": "報を",
+      "count": 17
+    },
+    {
+      "term": "係デ",
+      "count": 16
+    },
+    {
+      "term": "報に",
       "count": 14
     },
     {
-      "term": "事項",
+      "term": "省略",
       "count": 14
     },
     {
-      "term": "いる",
-      "count": 14
-    },
-    {
-      "term": "に ",
+      "term": "所在",
       "count": 13
     },
     {
-      "term": "を目",
+      "term": "とに",
+      "count": 13
+    },
+    {
+      "term": "う ",
       "count": 12
     },
     {
-      "term": "所所",
+      "term": "国民の利",
+      "count": 12
+    },
+    {
+      "term": "法第",
+      "count": 12
+    },
+    {
+      "term": "の省",
+      "count": 12
+    },
+    {
+      "term": "の公",
       "count": 11
     },
     {
-      "term": "るこ",
-      "count": 11
-    },
-    {
-      "term": "等が",
+      "term": "すべ",
       "count": 10
     },
     {
-      "term": "では",
+      "term": "準化",
       "count": 10
     },
     {
-      "term": "政機関等",
+      "term": "事業",
       "count": 10
     },
     {
-      "term": "ても",
+      "term": "基づ",
+      "count": 10
+    },
+    {
+      "term": "個別",
+      "count": 10
+    },
+    {
+      "term": "び行",
+      "count": 10
+    },
+    {
+      "term": "記事",
+      "count": 10
+    },
+    {
+      "term": "団体",
       "count": 9
     },
     {
-      "term": "ア ",
+      "term": "のシ",
       "count": 9
     },
     {
-      "term": "おり",
+      "term": "添付書面",
       "count": 9
+    },
+    {
+      "term": "向け",
+      "count": 9
+    },
+    {
+      "term": "割 ",
+      "count": 8
     },
     {
       "term": "国の公的",
       "count": 8
     },
     {
-      "term": "レジ",
+      "term": "行う",
       "count": 8
     },
     {
-      "term": "における",
+      "term": "含め",
       "count": 8
     },
     {
-      "term": "別の",
+      "term": "共団",
       "count": 8
     },
     {
-      "term": "が ",
-      "count": 8
-    },
-    {
-      "term": "データを",
-      "count": 8
-    },
-    {
-      "term": "応を",
-      "count": 8
-    },
-    {
-      "term": "デ ",
-      "count": 8
-    },
-    {
-      "term": "のう",
-      "count": 8
-    },
-    {
-      "term": "れた",
+      "term": "記関係デ",
       "count": 7
     },
     {
-      "term": "を取",
+      "term": "の手",
       "count": 7
     },
     {
-      "term": "用促",
+      "term": "可能",
       "count": 7
     },
     {
-      "term": "た登",
+      "term": "証明",
       "count": 7
     },
     {
-      "term": "デジタル",
+      "term": "登記事項",
       "count": 7
     },
     {
@@ -134,7 +154,11 @@
       "count": 7
     },
     {
-      "term": "務の",
+      "term": "として整",
+      "count": 7
+    },
+    {
+      "term": "庁と",
       "count": 7
     },
     {
@@ -142,35 +166,23 @@
       "count": 6
     },
     {
-      "term": "本的",
+      "term": "法人",
       "count": 6
     },
     {
-      "term": "な方",
+      "term": "くわ",
       "count": 6
     },
     {
-      "term": "報デ",
+      "term": "進す",
       "count": 6
     },
     {
-      "term": "データに",
+      "term": "外に",
       "count": 6
     },
     {
-      "term": "ビス",
-      "count": 6
-    },
-    {
-      "term": "更改",
-      "count": 6
-    },
-    {
-      "term": "年度まで",
-      "count": 6
-    },
-    {
-      "term": "所を",
+      "term": "対し",
       "count": 6
     },
     {
@@ -178,27 +190,15 @@
       "count": 6
     },
     {
-      "term": "変更",
+      "term": "理す",
       "count": 6
     },
     {
-      "term": "政事",
-      "count": 6
-    },
-    {
-      "term": "機関",
+      "term": "人情",
       "count": 5
     },
     {
-      "term": "25",
-      "count": 5
-    },
-    {
-      "term": "とす",
-      "count": 5
-    },
-    {
-      "term": "備し",
+      "term": "タ整",
       "count": 5
     }
   ],

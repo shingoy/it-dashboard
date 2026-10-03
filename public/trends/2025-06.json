@@ -2,83 +2,55 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "する",
-      "count": 28
+      "term": "イプ",
+      "count": 21
     },
     {
-      "term": "プラ",
-      "count": 26
+      "term": "てい",
+      "count": 21
     },
     {
-      "term": "成果",
-      "count": 20
+      "term": "actions",
+      "count": 17
     },
     {
-      "term": "では",
-      "count": 19
+      "term": "ため",
+      "count": 17
     },
     {
-      "term": "るこ",
-      "count": 19
-    },
-    {
-      "term": "いる",
-      "count": 18
-    },
-    {
-      "term": "れた",
-      "count": 16
-    },
-    {
-      "term": "に ",
+      "term": "パイプラ",
       "count": 15
     },
     {
-      "term": "から",
-      "count": 15
-    },
-    {
-      "term": "コン",
-      "count": 15
-    },
-    {
-      "term": "性の",
+      "term": "脆弱",
       "count": 14
     },
     {
-      "term": "ルド",
-      "count": 14
-    },
-    {
-      "term": "中略",
-      "count": 14
-    },
-    {
-      "term": "ルを",
+      "term": "チー",
       "count": 13
     },
     {
-      "term": "デー",
+      "term": "の安",
       "count": 13
     },
     {
-      "term": "変更",
-      "count": 12
-    },
-    {
-      "term": "を取",
-      "count": 12
-    },
-    {
-      "term": "イメ",
-      "count": 12
-    },
-    {
-      "term": "フェ",
+      "term": "につ",
       "count": 11
     },
     {
-      "term": "terraform",
+      "term": "のc",
+      "count": 11
+    },
+    {
+      "term": "環境",
+      "count": 11
+    },
+    {
+      "term": "はな",
+      "count": 11
+    },
+    {
+      "term": "可能",
       "count": 11
     },
     {
@@ -86,95 +58,79 @@
       "count": 10
     },
     {
-      "term": "ビス",
+      "term": "provenance",
       "count": 10
     },
     {
-      "term": "build",
-      "count": 10
-    },
-    {
-      "term": "ubuntu",
-      "count": 10
-    },
-    {
-      "term": "on",
-      "count": 10
-    },
-    {
-      "term": "が ",
+      "term": "本書",
       "count": 9
     },
     {
-      "term": "また",
+      "term": "ェア",
       "count": 9
     },
     {
-      "term": "ムが",
+      "term": "アク",
       "count": 9
     },
     {
-      "term": "通し",
+      "term": "フェーズ",
       "count": 8
     },
     {
-      "term": "ック",
+      "term": "スク",
       "count": 8
     },
     {
-      "term": "して",
+      "term": "いっ",
       "count": 8
     },
     {
-      "term": "組み",
+      "term": "のメ",
       "count": 8
     },
     {
-      "term": "ローカル",
+      "term": "理を",
       "count": 7
     },
     {
-      "term": "ェーズの",
+      "term": "バイナリ",
       "count": 7
     },
     {
-      "term": "とす",
+      "term": "すべ",
       "count": 7
     },
     {
-      "term": "ジト",
+      "term": "対し",
       "count": 7
     },
     {
-      "term": "における",
+      "term": "省略",
       "count": 7
     },
     {
-      "term": "事項",
+      "term": "はg",
       "count": 7
     },
     {
-      "term": "略す",
+      "term": "いこ",
       "count": 7
     },
     {
-      "term": "を実",
+      "term": "tf",
       "count": 7
     },
     {
-      "term": "図 ",
-      "count": 7
-    },
-    {
-      "term": "具体的な",
+      "term": "を示",
       "count": 6
     },
     {
-      "term": "トに",
+      "term": "デリ",
       "count": 6
     },
     {
-      "term": "ジと",
+      "term": "の ",
       "count": 6
     },
     {
@@ -182,7 +138,19 @@
       "count": 6
     },
     {
-      "term": "カウ",
+      "term": "キャ",
+      "count": 6
+    },
+    {
+      "term": "のg",
+      "count": 6
+    },
+    {
+      "term": "ジの",
+      "count": 6
+    },
+    {
+      "term": "策に",
       "count": 6
     },
     {
@@ -190,16 +158,48 @@
       "count": 6
     },
     {
-      "term": "rulesets",
+      "term": "完全",
       "count": 6
     },
     {
-      "term": "ても",
+      "term": "略す",
       "count": 6
     },
     {
-      "term": "and",
+      "term": "rule",
       "count": 6
+    },
+    {
+      "term": "指定",
+      "count": 6
+    },
+    {
+      "term": "steps",
+      "count": 6
+    },
+    {
+      "term": "定の",
+      "count": 6
+    },
+    {
+      "term": "とに",
+      "count": 5
+    },
+    {
+      "term": "た信",
+      "count": 5
+    },
+    {
+      "term": "理を含む",
+      "count": 5
+    },
+    {
+      "term": "ムの",
+      "count": 5
+    },
+    {
+      "term": "る成",
+      "count": 5
     }
   ],
   "meetings": [
