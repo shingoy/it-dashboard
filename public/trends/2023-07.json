@@ -2,204 +2,204 @@
   "month": "2023-07",
   "keywords": [
     {
-      "term": "ため",
-      "count": 2534
+      "term": "等の",
+      "count": 2191
     },
     {
-      "term": "いる",
-      "count": 2132
+      "term": "ない",
+      "count": 2162
     },
     {
-      "term": "があ",
-      "count": 2041
+      "term": "と ",
+      "count": 1878
     },
     {
-      "term": "て ",
-      "count": 1749
+      "term": "報シ",
+      "count": 1841
     },
     {
-      "term": "し ",
-      "count": 1510
+      "term": "には",
+      "count": 1794
     },
     {
-      "term": "要が",
-      "count": 1430
+      "term": "る場",
+      "count": 1713
     },
     {
-      "term": "検討",
-      "count": 1274
+      "term": "とを",
+      "count": 1530
     },
     {
-      "term": "について",
-      "count": 1213
+      "term": "への",
+      "count": 1440
     },
     {
-      "term": "とに",
-      "count": 1153
+      "term": "基本",
+      "count": 1411
     },
     {
-      "term": "対応",
-      "count": 1092
+      "term": "要な",
+      "count": 1407
     },
     {
-      "term": "ード",
-      "count": 1077
+      "term": "の利",
+      "count": 1114
     },
     {
-      "term": "等が",
-      "count": 986
+      "term": "基づ",
+      "count": 1062
     },
     {
-      "term": "イド",
+      "term": "ト ",
+      "count": 994
+    },
+    {
+      "term": "事業",
       "count": 983
     },
     {
-      "term": "べき",
-      "count": 903
+      "term": "アク",
+      "count": 976
     },
     {
-      "term": "える",
-      "count": 873
+      "term": "係る",
+      "count": 960
     },
     {
-      "term": "の確",
-      "count": 868
+      "term": "ュリティ",
+      "count": 955
     },
     {
       "term": "計画",
-      "count": 865
+      "count": 883
     },
     {
-      "term": "能性",
-      "count": 832
+      "term": "関連",
+      "count": 851
     },
     {
-      "term": "ワー",
-      "count": 777
+      "term": "要件",
+      "count": 827
     },
     {
-      "term": "基本対策",
-      "count": 773
+      "term": "る必",
+      "count": 807
     },
     {
-      "term": "いた",
-      "count": 760
+      "term": "要と",
+      "count": 775
+    },
+    {
+      "term": "本対",
+      "count": 769
+    },
+    {
+      "term": "遵守",
+      "count": 758
     },
     {
       "term": "ィ対",
       "count": 756
     },
     {
-      "term": "情報セキ",
-      "count": 723
+      "term": "留意",
+      "count": 666
     },
     {
-      "term": "設計",
-      "count": 720
+      "term": "プロジェ",
+      "count": 643
     },
     {
-      "term": "定さ",
-      "count": 704
+      "term": "外部",
+      "count": 622
     },
     {
-      "term": "は ",
-      "count": 681
+      "term": "ービ",
+      "count": 612
     },
     {
-      "term": "定め",
-      "count": 650
+      "term": "不正",
+      "count": 589
     },
     {
-      "term": "他の",
-      "count": 645
+      "term": "ウド",
+      "count": 582
     },
     {
-      "term": "体的",
-      "count": 635
+      "term": "判断",
+      "count": 577
     },
     {
-      "term": "が発",
-      "count": 610
-    },
-    {
-      "term": "の検",
-      "count": 608
-    },
-    {
-      "term": "る際",
-      "count": 602
-    },
-    {
-      "term": "推進",
-      "count": 587
-    },
-    {
-      "term": "考慮",
-      "count": 576
+      "term": "ライ",
+      "count": 548
     },
     {
       "term": "の要",
-      "count": 550
+      "count": 547
     },
     {
-      "term": "ージ",
-      "count": 538
-    },
-    {
-      "term": "報告",
-      "count": 534
-    },
-    {
-      "term": "適用",
-      "count": 530
+      "term": "まで",
+      "count": 539
     },
     {
       "term": "ら ",
-      "count": 527
+      "count": 528
     },
     {
-      "term": "策の",
-      "count": 526
+      "term": "望ま",
+      "count": 516
     },
     {
-      "term": "外の",
-      "count": 497
+      "term": "が考",
+      "count": 514
     },
     {
-      "term": "要に",
-      "count": 484
+      "term": "者と",
+      "count": 496
     },
     {
-      "term": "to",
-      "count": 481
+      "term": "ユー",
+      "count": 495
     },
     {
       "term": "ai",
       "count": 479
     },
     {
-      "term": "のセ",
-      "count": 474
+      "term": "整備",
+      "count": 478
     },
     {
-      "term": "ロセ",
-      "count": 460
+      "term": "to",
+      "count": 468
     },
     {
-      "term": "for",
+      "term": "際の",
+      "count": 463
+    },
+    {
+      "term": "上の",
+      "count": 459
+    },
+    {
+      "term": "理解",
+      "count": 451
+    },
+    {
+      "term": "報が",
       "count": 448
     },
     {
-      "term": "に関",
-      "count": 437
+      "term": "るも",
+      "count": 436
     },
     {
       "term": "ラム",
-      "count": 433
+      "count": 435
     },
     {
-      "term": "取扱",
-      "count": 421
+      "term": "in",
+      "count": 413
     }
   ],
   "meetings": [
