@@ -2,131 +2,127 @@
   "month": "2026-07",
   "keywords": [
     {
+      "term": "する",
+      "count": 24
+    },
+    {
+      "term": "機関",
+      "count": 23
+    },
+    {
+      "term": "政機",
+      "count": 22
+    },
+    {
       "term": "の利",
       "count": 22
     },
     {
-      "term": "係る",
-      "count": 21
+      "term": "検討",
+      "count": 19
     },
     {
-      "term": "年度",
+      "term": "関等",
+      "count": 19
+    },
+    {
+      "term": "整備",
       "count": 18
     },
     {
-      "term": "レジ",
+      "term": "は ",
+      "count": 18
+    },
+    {
+      "term": "の効",
+      "count": 18
+    },
+    {
+      "term": "行政機関",
       "count": 17
     },
     {
-      "term": "等の",
+      "term": "手続",
       "count": 16
-    },
-    {
-      "term": "事務",
-      "count": 14
     },
     {
       "term": "報に",
       "count": 14
     },
     {
-      "term": "要な",
-      "count": 14
+      "term": "とに",
+      "count": 13
     },
     {
       "term": "るデ",
-      "count": 13
-    },
-    {
-      "term": "ない",
-      "count": 13
-    },
-    {
-      "term": "スケ",
-      "count": 13
-    },
-    {
-      "term": "行政機関",
-      "count": 13
-    },
-    {
-      "term": "報シ",
-      "count": 13
-    },
-    {
-      "term": "務省",
-      "count": 13
-    },
-    {
-      "term": "ル庁",
-      "count": 13
-    },
-    {
-      "term": "的基",
       "count": 12
     },
     {
-      "term": "係データ",
+      "term": "指す",
+      "count": 12
+    },
+    {
+      "term": "ータベー",
       "count": 11
     },
     {
-      "term": "とを",
+      "term": "所所",
       "count": 11
     },
     {
-      "term": "データの",
-      "count": 10
+      "term": "負担",
+      "count": 11
     },
     {
-      "term": "事業",
-      "count": 10
+      "term": "い ",
+      "count": 11
     },
     {
-      "term": "基づ",
-      "count": 10
+      "term": "が存",
+      "count": 11
     },
     {
-      "term": "上及",
+      "term": "記事",
       "count": 10
-    },
-    {
-      "term": "整備",
-      "count": 9
     },
     {
       "term": "には",
       "count": 9
     },
     {
-      "term": "は登",
+      "term": "社会",
       "count": 9
     },
     {
-      "term": "と ",
+      "term": "的に",
       "count": 9
     },
     {
-      "term": "億円",
+      "term": "データを",
       "count": 9
     },
     {
-      "term": "基本",
+      "term": "不動産ベ",
       "count": 8
     },
     {
-      "term": "計画",
+      "term": "行っ",
       "count": 8
     },
     {
-      "term": "ユー",
+      "term": "他の",
       "count": 8
     },
     {
-      "term": "ここ",
+      "term": "対象",
       "count": 8
     },
     {
-      "term": "の品",
+      "term": "の課",
+      "count": 7
+    },
+    {
+      "term": "切替",
       "count": 7
     },
     {
@@ -134,72 +130,76 @@
       "count": 7
     },
     {
-      "term": "要と",
+      "term": "を実",
       "count": 7
     },
     {
-      "term": "24",
+      "term": "報 ",
       "count": 7
     },
     {
-      "term": "ついては",
+      "term": "ースの利",
       "count": 7
     },
     {
-      "term": "への",
-      "count": 7
-    },
-    {
-      "term": "ら ",
-      "count": 7
-    },
-    {
-      "term": "善に",
+      "term": "各シ",
       "count": 6
     },
     {
-      "term": "紙１",
+      "term": "及び改善",
       "count": 6
     },
     {
-      "term": "法 ",
+      "term": "横断",
       "count": 6
     },
     {
-      "term": "る場",
+      "term": "平成",
       "count": 6
     },
     {
-      "term": "まで",
+      "term": "年法律第",
       "count": 6
     },
     {
-      "term": "体で",
+      "term": "判所",
       "count": 6
     },
     {
-      "term": "体の",
+      "term": "業者",
       "count": 6
     },
     {
-      "term": "完了",
+      "term": "リに",
       "count": 6
     },
     {
-      "term": "情報の提",
+      "term": "指し",
       "count": 6
     },
     {
-      "term": "度の",
-      "count": 6
-    },
-    {
-      "term": "報提",
+      "term": "として整",
       "count": 6
     },
     {
       "term": "地図情報",
       "count": 6
+    },
+    {
+      "term": "確保",
+      "count": 5
+    },
+    {
+      "term": "現可",
+      "count": 5
+    },
+    {
+      "term": "名称",
+      "count": 5
+    },
+    {
+      "term": "ジタ",
+      "count": 5
     }
   ],
   "meetings": [

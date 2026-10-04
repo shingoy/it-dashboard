@@ -2,135 +2,195 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ライ",
-      "count": 18
+      "term": "する",
+      "count": 28
     },
     {
-      "term": "る ",
-      "count": 17
+      "term": "aws",
+      "count": 19
     },
     {
       "term": "には",
       "count": 17
     },
     {
-      "term": "ない",
-      "count": 17
-    },
-    {
-      "term": "への",
+      "term": "ラッ",
       "count": 15
     },
     {
-      "term": "ツー",
+      "term": "ドフ",
       "count": 14
     },
     {
-      "term": "ナイ",
+      "term": "ーク",
       "count": 14
     },
     {
-      "term": "図 ",
-      "count": 13
+      "term": "実行",
+      "count": 14
     },
     {
-      "term": "る必",
-      "count": 13
+      "term": "され",
+      "count": 14
     },
     {
-      "term": "ービ",
+      "term": "クレ",
       "count": 12
     },
     {
-      "term": "ファイル",
+      "term": "的に",
       "count": 12
     },
     {
-      "term": "保 ",
+      "term": "プラット",
+      "count": 11
+    },
+    {
+      "term": "バー",
+      "count": 11
+    },
+    {
+      "term": "は ",
       "count": 10
     },
     {
-      "term": "ここ",
+      "term": "可能",
       "count": 10
-    },
-    {
-      "term": "ける",
-      "count": 9
-    },
-    {
-      "term": "アク",
-      "count": 9
-    },
-    {
-      "term": "カル",
-      "count": 8
-    },
-    {
-      "term": "およ",
-      "count": 8
-    },
-    {
-      "term": "バリ",
-      "count": 8
-    },
-    {
-      "term": "が考",
-      "count": 8
-    },
-    {
-      "term": "体の",
-      "count": 7
-    },
-    {
-      "term": "ソフ",
-      "count": 7
-    },
-    {
-      "term": "run",
-      "count": 7
-    },
-    {
-      "term": "github",
-      "count": 7
-    },
-    {
-      "term": "要と",
-      "count": 7
-    },
-    {
-      "term": "ド管",
-      "count": 6
     },
     {
       "term": "性管",
+      "count": 9
+    },
+    {
+      "term": "確保",
+      "count": 9
+    },
+    {
+      "term": "範囲",
+      "count": 9
+    },
+    {
+      "term": "いっ",
+      "count": 9
+    },
+    {
+      "term": "対象",
+      "count": 9
+    },
+    {
+      "term": "スキ",
+      "count": 9
+    },
+    {
+      "term": "ウェ",
+      "count": 8
+    },
+    {
+      "term": "有の",
+      "count": 8
+    },
+    {
+      "term": "環境",
+      "count": 8
+    },
+    {
+      "term": "を実",
+      "count": 8
+    },
+    {
+      "term": "のア",
+      "count": 8
+    },
+    {
+      "term": "ト情",
+      "count": 7
+    },
+    {
+      "term": "パイプラ",
+      "count": 7
+    },
+    {
+      "term": "あり",
+      "count": 7
+    },
+    {
+      "term": "バイ",
+      "count": 7
+    },
+    {
+      "term": "ーの",
+      "count": 7
+    },
+    {
+      "term": "ップ",
+      "count": 7
+    },
+    {
+      "term": "い ",
+      "count": 7
+    },
+    {
+      "term": "ルに",
+      "count": 7
+    },
+    {
+      "term": "ート",
       "count": 6
     },
     {
-      "term": "たが",
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "等の",
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "依存",
+      "term": "の漏",
       "count": 6
     },
     {
-      "term": "得し",
+      "term": "チームの",
       "count": 6
     },
     {
-      "term": "関連",
+      "term": "を示",
       "count": 6
     },
     {
-      "term": "はプ",
+      "term": "関す",
       "count": 6
     },
     {
-      "term": "ついては",
+      "term": "イル",
+      "count": 6
+    },
+    {
+      "term": "ド成",
+      "count": 6
+    },
+    {
+      "term": "した",
+      "count": 6
+    },
+    {
+      "term": "ロバ",
+      "count": 6
+    },
+    {
+      "term": "リス",
+      "count": 6
+    },
+    {
+      "term": "たコ",
+      "count": 6
+    },
+    {
+      "term": "アカ",
+      "count": 6
+    },
+    {
+      "term": "ここでは",
       "count": 6
     },
     {
@@ -138,68 +198,8 @@
       "count": 6
     },
     {
-      "term": "のレ",
+      "term": "format",
       "count": 6
-    },
-    {
-      "term": "た場",
-      "count": 6
-    },
-    {
-      "term": "action",
-      "count": 6
-    },
-    {
-      "term": "ト ",
-      "count": 5
-    },
-    {
-      "term": "用保",
-      "count": 5
-    },
-    {
-      "term": "ティ",
-      "count": 5
-    },
-    {
-      "term": "とを",
-      "count": 5
-    },
-    {
-      "term": "うい",
-      "count": 5
-    },
-    {
-      "term": "タデータ",
-      "count": 5
-    },
-    {
-      "term": "の成果物",
-      "count": 5
-    },
-    {
-      "term": "際の",
-      "count": 5
-    },
-    {
-      "term": "上の",
-      "count": 5
-    },
-    {
-      "term": "を保",
-      "count": 5
-    },
-    {
-      "term": "ブランチ",
-      "count": 5
-    },
-    {
-      "term": "ジト",
-      "count": 5
-    },
-    {
-      "term": "to",
-      "count": 5
     }
   ],
   "meetings": [
