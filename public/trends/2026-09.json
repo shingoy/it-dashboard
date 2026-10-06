@@ -2,7 +2,23 @@
   "month": "2026-09",
   "keywords": [
     {
-      "term": "開発",
+      "term": "スフ",
+      "count": 2
+    },
+    {
+      "term": "記載",
+      "count": 2
+    },
+    {
+      "term": "バー",
+      "count": 2
+    },
+    {
+      "term": "載 ",
+      "count": 2
+    },
+    {
+      "term": "科省",
       "count": 2
     },
     {
@@ -10,179 +26,87 @@
       "count": 2
     },
     {
-      "term": "構築",
+      "term": "総額",
       "count": 2
     },
     {
-      "term": "の事業の",
+      "term": "における",
       "count": 2
     },
     {
-      "term": "全体",
+      "term": "決定",
       "count": 2
     },
     {
-      "term": "事項",
+      "term": "ーシ",
       "count": 2
     },
     {
-      "term": "評価",
+      "term": "た額",
       "count": 2
     },
     {
-      "term": "体の",
+      "term": "や日",
       "count": 2
     },
     {
-      "term": "分類",
+      "term": "い方",
       "count": 2
     },
     {
-      "term": "定や",
+      "term": "厚労省",
       "count": 2
     },
     {
-      "term": "現 ",
+      "term": "日本成長",
       "count": 2
     },
     {
-      "term": "の構",
+      "term": "基盤モデ",
       "count": 2
     },
     {
-      "term": "能基本計",
+      "term": "深い",
       "count": 2
     },
     {
-      "term": "なａ",
+      "term": "ロボ",
+      "count": 2
+    },
+    {
+      "term": "成長",
+      "count": 2
+    },
+    {
+      "term": "開発",
+      "count": 2
+    },
+    {
+      "term": "要求につ",
       "count": 1
     },
     {
-      "term": "保 ",
+      "term": "バナ",
       "count": 1
     },
     {
-      "term": "約3",
+      "term": "装人",
       "count": 1
     },
     {
-      "term": "789",
+      "term": "定の",
       "count": 1
     },
     {
-      "term": "地域企業",
+      "term": "るサイバ",
       "count": 1
     },
     {
-      "term": "タル",
+      "term": "health",
       "count": 1
     },
     {
-      "term": "け研修や",
-      "count": 1
-    },
-    {
-      "term": "野に",
-      "count": 1
-    },
-    {
-      "term": "規厚",
-      "count": 1
-    },
-    {
-      "term": "研究",
-      "count": 1
-    },
-    {
-      "term": "社会に向",
-      "count": 1
-    },
-    {
-      "term": "対象",
-      "count": 1
-    },
-    {
-      "term": "えた",
-      "count": 1
-    },
-    {
-      "term": "の人",
-      "count": 1
-    },
-    {
-      "term": "実装",
-      "count": 1
-    },
-    {
-      "term": "ル等",
-      "count": 1
-    },
-    {
-      "term": "交省",
-      "count": 1
-    },
-    {
-      "term": "る意",
-      "count": 1
-    },
-    {
-      "term": "によるガ",
-      "count": 1
-    },
-    {
-      "term": "チモ",
-      "count": 1
-    },
-    {
-      "term": "開発利用",
-      "count": 1
-    },
-    {
-      "term": "中小企業",
-      "count": 1
-    },
-    {
-      "term": "利用基盤",
-      "count": 1
-    },
-    {
-      "term": "発g",
-      "count": 1
-    },
-    {
-      "term": "速的",
-      "count": 1
-    },
-    {
-      "term": "の徹底し",
-      "count": 1
-    },
-    {
-      "term": "る科",
-      "count": 1
-    },
-    {
-      "term": "フォーム",
-      "count": 1
-    },
-    {
-      "term": "の構築",
-      "count": 1
-    },
-    {
-      "term": "アジ",
-      "count": 1
-    },
-    {
-      "term": "実証研究",
-      "count": 1
-    },
-    {
-      "term": "発等",
-      "count": 1
-    },
-    {
-      "term": "信基",
+      "term": "て ",
       "count": 1
     },
     {
@@ -190,15 +114,91 @@
       "count": 1
     },
     {
-      "term": "の高",
+      "term": "153",
       "count": 1
     },
     {
-      "term": "任あ",
+      "term": "かつ",
+      "count": 1
+    },
+    {
+      "term": "マル",
+      "count": 1
+    },
+    {
+      "term": "度化",
+      "count": 1
+    },
+    {
+      "term": "の推進",
+      "count": 1
+    },
+    {
+      "term": "利用基盤",
+      "count": 1
+    },
+    {
+      "term": "で実",
+      "count": 1
+    },
+    {
+      "term": "進に",
+      "count": 1
+    },
+    {
+      "term": "305",
+      "count": 1
+    },
+    {
+      "term": "いて",
+      "count": 1
+    },
+    {
+      "term": "求ほ",
+      "count": 1
+    },
+    {
+      "term": "実践",
+      "count": 1
+    },
+    {
+      "term": "省4",
+      "count": 1
+    },
+    {
+      "term": "世代",
+      "count": 1
+    },
+    {
+      "term": "供ｄ",
       "count": 1
     },
     {
       "term": "強化",
+      "count": 1
+    },
+    {
+      "term": "的変革",
+      "count": 1
+    },
+    {
+      "term": "研究開発",
+      "count": 1
+    },
+    {
+      "term": "学校の支",
+      "count": 1
+    },
+    {
+      "term": "グラムの",
+      "count": 1
+    },
+    {
+      "term": "規厚",
+      "count": 1
+    },
+    {
+      "term": "革ａ",
       "count": 1
     }
   ],

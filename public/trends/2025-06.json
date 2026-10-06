@@ -2,99 +2,107 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "actions",
-      "count": 19
+      "term": "るこ",
+      "count": 22
     },
     {
-      "term": "弱性",
+      "term": "管理",
+      "count": 20
+    },
+    {
+      "term": "パイプラ",
+      "count": 20
+    },
+    {
+      "term": "ード",
+      "count": 20
+    },
+    {
+      "term": "ない",
+      "count": 17
+    },
+    {
+      "term": "脆弱",
       "count": 15
     },
     {
-      "term": "コン",
-      "count": 15
-    },
-    {
-      "term": "必要",
-      "count": 15
-    },
-    {
-      "term": "aws",
+      "term": "いて",
       "count": 14
     },
     {
-      "term": "の安",
+      "term": "タデ",
+      "count": 14
+    },
+    {
+      "term": "トリ",
       "count": 13
     },
     {
-      "term": "フォーム",
+      "term": "ファイル",
+      "count": 12
+    },
+    {
+      "term": "成果物の",
       "count": 11
     },
     {
-      "term": "push",
+      "term": "状態",
       "count": 11
     },
     {
-      "term": "保 ",
+      "term": "バー",
+      "count": 11
+    },
+    {
+      "term": "安全",
+      "count": 11
+    },
+    {
+      "term": "ビルドフ",
       "count": 10
     },
     {
-      "term": "理を",
+      "term": "の ",
       "count": 10
     },
     {
-      "term": "ロー",
+      "term": "to",
       "count": 10
     },
     {
-      "term": "の確",
+      "term": "デリ",
       "count": 9
     },
     {
-      "term": "つい",
+      "term": "の担",
       "count": 9
     },
     {
-      "term": "ける",
+      "term": "が ",
       "count": 9
     },
     {
-      "term": "ci",
+      "term": "定の",
       "count": 9
     },
     {
-      "term": "た ",
+      "term": "run",
       "count": 9
     },
     {
-      "term": "より",
-      "count": 9
-    },
-    {
-      "term": "対象",
-      "count": 9
-    },
-    {
-      "term": "の対",
-      "count": 9
-    },
-    {
-      "term": "通し",
+      "term": "にお",
       "count": 8
     },
     {
-      "term": "ンを",
+      "term": "プラット",
       "count": 8
     },
     {
-      "term": "の構",
+      "term": "らの",
       "count": 8
     },
     {
-      "term": "のs",
-      "count": 8
-    },
-    {
-      "term": "この",
+      "term": "ージ",
       "count": 8
     },
     {
@@ -102,75 +110,63 @@
       "count": 8
     },
     {
-      "term": "リ及",
+      "term": "における",
       "count": 7
     },
     {
-      "term": "示す",
+      "term": "ジを",
       "count": 7
     },
     {
-      "term": "体の",
+      "term": "version",
       "count": 7
     },
     {
-      "term": "るま",
+      "term": "連携",
       "count": 7
     },
     {
-      "term": "ムチーム",
+      "term": "ンb",
       "count": 7
     },
     {
-      "term": "事項",
+      "term": "とは",
       "count": 7
     },
     {
-      "term": "対し",
+      "term": "混入",
       "count": 7
     },
     {
-      "term": "らの",
-      "count": 7
-    },
-    {
-      "term": "ため",
-      "count": 7
-    },
-    {
-      "term": "ーと",
-      "count": 7
-    },
-    {
-      "term": "図 ",
-      "count": 7
-    },
-    {
-      "term": "す ",
-      "count": 7
-    },
-    {
-      "term": "開発",
+      "term": "信頼性の",
       "count": 6
     },
     {
-      "term": "ド管",
+      "term": "タデータ",
       "count": 6
     },
     {
-      "term": "共通",
+      "term": "たt",
       "count": 6
     },
     {
-      "term": "は３",
+      "term": "ムに",
       "count": 6
     },
     {
-      "term": "ル ",
+      "term": "用可",
       "count": 6
     },
     {
-      "term": "もの",
+      "term": "らな",
+      "count": 6
+    },
+    {
+      "term": "容を",
+      "count": 6
+    },
+    {
+      "term": "ァイ",
       "count": 6
     },
     {
@@ -178,27 +174,31 @@
       "count": 6
     },
     {
-      "term": "and",
-      "count": 6
-    },
-    {
-      "term": "実装",
+      "term": "シナ",
       "count": 5
     },
     {
-      "term": "をも",
+      "term": "守 ",
       "count": 5
     },
     {
-      "term": "リオ",
+      "term": "含む",
       "count": 5
     },
     {
-      "term": "プラット",
+      "term": "したがっ",
       "count": 5
     },
     {
-      "term": "めの",
+      "term": "そし",
+      "count": 5
+    },
+    {
+      "term": "ソフトウ",
+      "count": 5
+    },
+    {
+      "term": "れは",
       "count": 5
     }
   ],
