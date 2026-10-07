@@ -2,67 +2,83 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "リポ",
+      "term": "イン",
+      "count": 22
+    },
+    {
+      "term": "構成",
+      "count": 21
+    },
+    {
+      "term": "ード",
+      "count": 21
+    },
+    {
+      "term": "パイ",
+      "count": 21
+    },
+    {
+      "term": "いる",
       "count": 20
     },
     {
-      "term": "保護",
-      "count": 18
+      "term": "ァイ",
+      "count": 19
     },
     {
-      "term": "され",
+      "term": "では",
+      "count": 19
+    },
+    {
+      "term": "ci",
+      "count": 17
+    },
+    {
+      "term": "って",
       "count": 16
     },
     {
-      "term": "ムの",
+      "term": "ポジ",
+      "count": 16
+    },
+    {
+      "term": "ビス",
+      "count": 16
+    },
+    {
+      "term": "弱性",
       "count": 15
     },
     {
-      "term": "の保",
-      "count": 15
-    },
-    {
-      "term": "きる",
-      "count": 15
-    },
-    {
-      "term": "スコ",
+      "term": "およ",
       "count": 14
     },
     {
-      "term": "性の",
-      "count": 14
-    },
-    {
-      "term": "trivy",
+      "term": "体的",
       "count": 13
     },
     {
-      "term": "場合",
+      "term": "的に",
       "count": 13
     },
     {
-      "term": "護 ",
+      "term": "ラン",
       "count": 12
     },
     {
-      "term": "ファイル",
+      "term": "のメ",
       "count": 12
     },
     {
-      "term": "ステ",
+      "term": "略 ",
+      "count": 12
+    },
+    {
+      "term": "のc",
       "count": 11
     },
     {
-      "term": "バー",
-      "count": 11
-    },
-    {
-      "term": "この",
-      "count": 11
-    },
-    {
-      "term": "ブラ",
+      "term": "信頼",
       "count": 10
     },
     {
@@ -70,39 +86,31 @@
       "count": 10
     },
     {
-      "term": "を用",
+      "term": "てい",
       "count": 10
     },
     {
-      "term": "ファ",
-      "count": 10
-    },
-    {
-      "term": "の確",
+      "term": "git",
       "count": 9
     },
     {
-      "term": "が ",
+      "term": "対象",
       "count": 9
     },
     {
-      "term": "とで",
+      "term": "uses",
       "count": 9
     },
     {
-      "term": "えら",
-      "count": 9
+      "term": "ーカ",
+      "count": 8
     },
     {
-      "term": "デー",
-      "count": 9
+      "term": "行範",
+      "count": 8
     },
     {
-      "term": "成さ",
-      "count": 9
-    },
-    {
-      "term": "メン",
+      "term": "バイ",
       "count": 8
     },
     {
@@ -110,11 +118,11 @@
       "count": 8
     },
     {
-      "term": "スク",
+      "term": "成さ",
       "count": 8
     },
     {
-      "term": "対象",
+      "term": "repository",
       "count": 8
     },
     {
@@ -122,23 +130,51 @@
       "count": 8
     },
     {
-      "term": "洩対",
+      "term": "共通",
       "count": 7
     },
     {
-      "term": "運用",
+      "term": "リテ",
       "count": 7
     },
     {
-      "term": "ライ",
+      "term": "通し",
       "count": 7
     },
     {
-      "term": "る主",
+      "term": "ズの",
       "count": 7
     },
     {
-      "term": "内の",
+      "term": "パイプラ",
+      "count": 7
+    },
+    {
+      "term": "における",
+      "count": 7
+    },
+    {
+      "term": "の仕",
+      "count": 7
+    },
+    {
+      "term": "定義",
+      "count": 7
+    },
+    {
+      "term": "にな",
+      "count": 7
+    },
+    {
+      "term": "記述",
+      "count": 7
+    },
+    {
+      "term": "る図",
+      "count": 7
+    },
+    {
+      "term": "には",
       "count": 7
     },
     {
@@ -146,19 +182,11 @@
       "count": 7
     },
     {
-      "term": "混入",
-      "count": 7
-    },
-    {
-      "term": "スを",
+      "term": "ート",
       "count": 6
     },
     {
-      "term": "デリバリ",
-      "count": 6
-    },
-    {
-      "term": "ジと",
+      "term": "頼で",
       "count": 6
     },
     {
@@ -166,40 +194,12 @@
       "count": 6
     },
     {
-      "term": "どの",
+      "term": "ンテナイ",
       "count": 6
     },
     {
-      "term": "中略",
+      "term": "ここでは",
       "count": 6
-    },
-    {
-      "term": "true",
-      "count": 6
-    },
-    {
-      "term": "ケー",
-      "count": 5
-    },
-    {
-      "term": "信頼",
-      "count": 5
-    },
-    {
-      "term": "フォーム",
-      "count": 5
-    },
-    {
-      "term": "する",
-      "count": 5
-    },
-    {
-      "term": "に保",
-      "count": 5
-    },
-    {
-      "term": "イン特有",
-      "count": 5
     }
   ],
   "meetings": [
