@@ -2,91 +2,119 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "きる",
-      "count": 23
-    },
-    {
-      "term": "成果",
+      "term": "リポ",
       "count": 20
     },
     {
-      "term": "果物",
-      "count": 20
+      "term": "保護",
+      "count": 18
     },
     {
-      "term": "てい",
-      "count": 19
-    },
-    {
-      "term": "れた",
+      "term": "され",
       "count": 16
     },
     {
-      "term": "コー",
+      "term": "ムの",
       "count": 15
     },
     {
-      "term": "ける",
+      "term": "の保",
+      "count": 15
+    },
+    {
+      "term": "きる",
+      "count": 15
+    },
+    {
+      "term": "スコ",
       "count": 14
     },
     {
-      "term": "ムチ",
+      "term": "性の",
+      "count": 14
+    },
+    {
+      "term": "trivy",
       "count": 13
     },
     {
-      "term": "依存物の",
+      "term": "場合",
+      "count": 13
+    },
+    {
+      "term": "護 ",
+      "count": 12
+    },
+    {
+      "term": "ファイル",
+      "count": 12
+    },
+    {
+      "term": "ステ",
       "count": 11
     },
     {
-      "term": "はな",
+      "term": "バー",
       "count": 11
     },
     {
-      "term": "加え",
+      "term": "この",
       "count": 11
     },
     {
-      "term": "ンチ",
+      "term": "ブラ",
       "count": 10
     },
     {
-      "term": "パイ",
+      "term": "安全性の",
       "count": 10
     },
     {
-      "term": "コンテナ",
+      "term": "を用",
       "count": 10
     },
     {
-      "term": "に関",
+      "term": "ファ",
+      "count": 10
+    },
+    {
+      "term": "の確",
       "count": 9
     },
     {
-      "term": "ン ",
+      "term": "が ",
+      "count": 9
+    },
+    {
+      "term": "とで",
+      "count": 9
+    },
+    {
+      "term": "えら",
+      "count": 9
+    },
+    {
+      "term": "デー",
+      "count": 9
+    },
+    {
+      "term": "成さ",
+      "count": 9
+    },
+    {
+      "term": "メン",
       "count": 8
     },
     {
-      "term": "スト",
+      "term": "の取",
       "count": 8
     },
     {
-      "term": "性が",
+      "term": "スク",
       "count": 8
     },
     {
-      "term": "書で",
-      "count": 8
-    },
-    {
-      "term": "ング",
-      "count": 8
-    },
-    {
-      "term": "定の",
-      "count": 8
-    },
-    {
-      "term": "への",
+      "term": "対象",
       "count": 8
     },
     {
@@ -94,35 +122,23 @@
       "count": 8
     },
     {
-      "term": "json",
-      "count": 8
-    },
-    {
-      "term": "トの",
+      "term": "洩対",
       "count": 7
     },
     {
-      "term": "すべ",
+      "term": "運用",
       "count": 7
     },
     {
-      "term": "もの",
+      "term": "ライ",
       "count": 7
     },
     {
-      "term": "にす",
+      "term": "る主",
       "count": 7
     },
     {
-      "term": "作成",
-      "count": 7
-    },
-    {
-      "term": "commit",
-      "count": 7
-    },
-    {
-      "term": "ーと",
+      "term": "内の",
       "count": 7
     },
     {
@@ -130,15 +146,11 @@
       "count": 7
     },
     {
-      "term": "の漏洩対",
-      "count": 6
+      "term": "混入",
+      "count": 7
     },
     {
-      "term": "詳細",
-      "count": 6
-    },
-    {
-      "term": "高い",
+      "term": "スを",
       "count": 6
     },
     {
@@ -146,59 +158,47 @@
       "count": 6
     },
     {
-      "term": "ムに",
-      "count": 6
-    },
-    {
       "term": "ジと",
       "count": 6
     },
     {
-      "term": "完全",
+      "term": "物と",
       "count": 6
     },
     {
-      "term": "省略する",
+      "term": "どの",
       "count": 6
     },
     {
-      "term": "強制",
+      "term": "中略",
       "count": 6
     },
     {
-      "term": "クを",
+      "term": "true",
       "count": 6
     },
     {
-      "term": "11",
-      "count": 6
-    },
-    {
-      "term": "を指",
-      "count": 6
-    },
-    {
-      "term": "critical",
-      "count": 6
-    },
-    {
-      "term": "えて",
-      "count": 6
-    },
-    {
-      "term": "とに",
+      "term": "ケー",
       "count": 5
     },
     {
-      "term": "運用保守",
+      "term": "信頼",
       "count": 5
     },
     {
-      "term": "関す",
+      "term": "フォーム",
       "count": 5
     },
     {
-      "term": "ナリ",
+      "term": "する",
+      "count": 5
+    },
+    {
+      "term": "に保",
+      "count": 5
+    },
+    {
+      "term": "イン特有",
       "count": 5
     }
   ],
