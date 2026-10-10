@@ -2,131 +2,147 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ため",
-      "count": 21
+      "term": "リポジト",
+      "count": 18
     },
     {
-      "term": "ポジ",
-      "count": 20
-    },
-    {
-      "term": "いる",
-      "count": 20
-    },
-    {
-      "term": "きる",
-      "count": 17
-    },
-    {
-      "term": "イル",
-      "count": 16
-    },
-    {
-      "term": "ーク",
+      "term": "弱性",
       "count": 15
     },
     {
-      "term": "頼性",
-      "count": 13
-    },
-    {
-      "term": "スコ",
-      "count": 12
-    },
-    {
-      "term": "actions",
-      "count": 12
-    },
-    {
-      "term": "こで",
-      "count": 12
-    },
-    {
-      "term": "場合",
-      "count": 12
-    },
-    {
-      "term": "cat",
-      "count": 12
-    },
-    {
-      "term": "ズの",
-      "count": 11
-    },
-    {
-      "term": "対策",
-      "count": 11
-    },
-    {
-      "term": "ラン",
-      "count": 11
-    },
-    {
-      "term": "存物",
-      "count": 11
-    },
-    {
-      "term": "のた",
-      "count": 11
-    },
-    {
-      "term": "えら",
-      "count": 10
-    },
-    {
-      "term": "sbom",
-      "count": 10
+      "term": "およ",
+      "count": 15
     },
     {
       "term": "メタ",
+      "count": 15
+    },
+    {
+      "term": "name",
+      "count": 15
+    },
+    {
+      "term": "cat",
+      "count": 15
+    },
+    {
+      "term": "ける",
+      "count": 14
+    },
+    {
+      "term": "ーズ",
+      "count": 14
+    },
+    {
+      "term": "プロ",
+      "count": 14
+    },
+    {
+      "term": "ツー",
+      "count": 14
+    },
+    {
+      "term": "があ",
+      "count": 14
+    },
+    {
+      "term": "レッ",
+      "count": 12
+    },
+    {
+      "term": "られ",
+      "count": 12
+    },
+    {
+      "term": "のメ",
+      "count": 12
+    },
+    {
+      "term": "護 ",
+      "count": 11
+    },
+    {
+      "term": "取得",
+      "count": 11
+    },
+    {
+      "term": "バー",
+      "count": 11
+    },
+    {
+      "term": "の設",
+      "count": 11
+    },
+    {
+      "term": "ブラ",
       "count": 10
     },
     {
-      "term": "ecr",
+      "term": "の ",
       "count": 10
     },
     {
-      "term": "が ",
+      "term": "パイプラ",
       "count": 9
     },
     {
-      "term": "シス",
+      "term": "とい",
+      "count": 9
+    },
+    {
+      "term": "指定",
+      "count": 9
+    },
+    {
+      "term": "カル",
       "count": 8
     },
     {
-      "term": "ョン",
+      "term": "有の",
       "count": 8
     },
     {
-      "term": "フェーズ",
+      "term": "依存物の",
       "count": 8
     },
     {
-      "term": "た ",
+      "term": "の信",
       "count": 8
     },
     {
-      "term": "を実",
+      "term": "こと",
       "count": 8
     },
     {
-      "term": "が考",
+      "term": "action",
       "count": 8
     },
     {
-      "term": "事項",
+      "term": "理を",
       "count": 7
     },
     {
-      "term": "ーに",
+      "term": "ナリ",
       "count": 7
     },
     {
-      "term": "混入",
+      "term": "registry",
       "count": 7
     },
     {
-      "term": "キュ",
+      "term": "仕組",
+      "count": 7
+    },
+    {
+      "term": "ワー",
+      "count": 6
+    },
+    {
+      "term": "通し",
+      "count": 6
+    },
+    {
+      "term": "ュリ",
       "count": 6
     },
     {
@@ -134,35 +150,35 @@
       "count": 6
     },
     {
-      "term": "供す",
+      "term": "たが",
       "count": 6
     },
     {
-      "term": "ウン",
+      "term": "はプ",
       "count": 6
     },
     {
-      "term": "対す",
+      "term": "の事",
       "count": 6
     },
     {
-      "term": "タデ",
+      "term": "るよ",
       "count": 6
     },
     {
-      "term": "のg",
+      "term": "とも",
       "count": 6
     },
     {
-      "term": "用可",
+      "term": "レビ",
       "count": 6
     },
     {
-      "term": "アク",
+      "term": "はg",
       "count": 6
     },
     {
-      "term": "容を",
+      "term": "には",
       "count": 6
     },
     {
@@ -170,35 +186,19 @@
       "count": 6
     },
     {
-      "term": "合は",
+      "term": "るs",
       "count": 6
     },
     {
-      "term": "scanners",
+      "term": "ルで",
       "count": 6
     },
     {
-      "term": "をも",
-      "count": 5
+      "term": "象と",
+      "count": 6
     },
     {
-      "term": "はあ",
-      "count": 5
-    },
-    {
-      "term": "理す",
-      "count": 5
-    },
-    {
-      "term": "デリバリ",
-      "count": 5
-    },
-    {
-      "term": "のソ",
-      "count": 5
-    },
-    {
-      "term": "はt",
+      "term": "システム",
       "count": 5
     }
   ],
