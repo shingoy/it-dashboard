@@ -2,11 +2,19 @@
   "month": "2026-04",
   "keywords": [
     {
-      "term": "的に",
+      "term": "施策",
       "count": 2
     },
     {
-      "term": "円ほ",
+      "term": "困難",
+      "count": 2
+    },
+    {
+      "term": "両立",
+      "count": 2
+    },
+    {
+      "term": "イノベー",
       "count": 2
     },
     {
@@ -14,139 +22,67 @@
       "count": 2
     },
     {
-      "term": "ンの",
+      "term": "針に関係",
       "count": 2
     },
     {
-      "term": "抽出",
+      "term": "的に",
       "count": 2
     },
     {
-      "term": "策は",
+      "term": "和７",
       "count": 2
     },
     {
-      "term": "年５",
+      "term": "用の",
       "count": 2
     },
     {
-      "term": "能基",
+      "term": "算総",
       "count": 2
     },
     {
-      "term": "基盤技術",
+      "term": "ォー",
+      "count": 2
+    },
+    {
+      "term": "な施",
+      "count": 2
+    },
+    {
+      "term": "定を",
+      "count": 2
+    },
+    {
+      "term": "げる",
       "count": 1
     },
     {
-      "term": "戦闘",
+      "term": "増し",
       "count": 1
     },
     {
-      "term": "次世",
+      "term": "ない",
       "count": 1
     },
     {
-      "term": "めの研究",
+      "term": "築の",
       "count": 1
     },
     {
-      "term": "hpci",
+      "term": "定迅速化",
       "count": 1
     },
     {
-      "term": "た研",
+      "term": "などの施",
       "count": 1
     },
     {
-      "term": "経３",
+      "term": "どの",
       "count": 1
     },
     {
-      "term": "的ハ",
-      "count": 1
-    },
-    {
-      "term": "究新",
-      "count": 1
-    },
-    {
-      "term": "抜本的な",
-      "count": 1
-    },
-    {
-      "term": "半導体及",
-      "count": 1
-    },
-    {
-      "term": "ロセ",
-      "count": 1
-    },
-    {
-      "term": "半導",
-      "count": 1
-    },
-    {
-      "term": "基づ",
-      "count": 1
-    },
-    {
-      "term": "イパ",
-      "count": 1
-    },
-    {
-      "term": "職業訓練",
-      "count": 1
-    },
-    {
-      "term": "フィ",
-      "count": 1
-    },
-    {
-      "term": "発の",
-      "count": 1
-    },
-    {
-      "term": "し分",
-      "count": 1
-    },
-    {
-      "term": "行及",
-      "count": 1
-    },
-    {
-      "term": "価技",
-      "count": 1
-    },
-    {
-      "term": "総１",
-      "count": 1
-    },
-    {
-      "term": "協働",
-      "count": 1
-    },
-    {
-      "term": "援助",
-      "count": 1
-    },
-    {
-      "term": "額を抽出",
-      "count": 1
-    },
-    {
-      "term": "なａ",
-      "count": 1
-    },
-    {
-      "term": "コンピュ",
-      "count": 1
-    },
-    {
-      "term": "新 ",
-      "count": 1
-    },
-    {
-      "term": "促進",
+      "term": "スの",
       "count": 1
     },
     {
@@ -154,51 +90,115 @@
       "count": 1
     },
     {
-      "term": "円革",
+      "term": "両シ",
       "count": 1
     },
     {
-      "term": "立９",
+      "term": "財産",
       "count": 1
     },
     {
-      "term": "策も実施",
+      "term": "た研究開",
       "count": 1
     },
     {
-      "term": "開発",
+      "term": "ート",
       "count": 1
     },
     {
-      "term": "価技術の",
+      "term": "発等",
       "count": 1
     },
     {
-      "term": "無人",
+      "term": "成確",
       "count": 1
     },
     {
-      "term": "造プロセ",
+      "term": "発等の推",
       "count": 1
     },
     {
-      "term": "クスの製",
+      "term": "ステムの",
       "count": 1
     },
     {
-      "term": "透明性",
+      "term": "究等の実",
       "count": 1
     },
     {
-      "term": "和７",
+      "term": "く調",
       "count": 1
     },
     {
-      "term": "ー導",
+      "term": "クノ",
       "count": 1
     },
     {
-      "term": "がａ",
+      "term": "た建設現",
+      "count": 1
+    },
+    {
+      "term": "動地",
+      "count": 1
+    },
+    {
+      "term": "証厚",
+      "count": 1
+    },
+    {
+      "term": "信頼",
+      "count": 1
+    },
+    {
+      "term": "的計",
+      "count": 1
+    },
+    {
+      "term": "営の高度",
+      "count": 1
+    },
+    {
+      "term": "工知",
+      "count": 1
+    },
+    {
+      "term": "円 ",
+      "count": 1
+    },
+    {
+      "term": "ク対",
+      "count": 1
+    },
+    {
+      "term": "グラ",
+      "count": 1
+    },
+    {
+      "term": "意思",
+      "count": 1
+    },
+    {
+      "term": "た地震活",
+      "count": 1
+    },
+    {
+      "term": "建設",
+      "count": 1
+    },
+    {
+      "term": "のための",
+      "count": 1
+    },
+    {
+      "term": "ータ",
+      "count": 1
+    },
+    {
+      "term": "た次",
+      "count": 1
+    },
+    {
+      "term": "計画的に",
       "count": 1
     }
   ],

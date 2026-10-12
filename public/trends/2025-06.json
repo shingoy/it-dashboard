@@ -2,27 +2,39 @@
   "month": "2025-06",
   "keywords": [
     {
+      "term": "github",
+      "count": 26
+    },
+    {
       "term": "こと",
-      "count": 22
+      "count": 25
     },
     {
-      "term": "パイ",
-      "count": 21
+      "term": "ライ",
+      "count": 23
     },
     {
-      "term": "ジト",
-      "count": 20
+      "term": "てい",
+      "count": 19
     },
     {
-      "term": "ため",
+      "term": "ない",
+      "count": 17
+    },
+    {
+      "term": "ォー",
       "count": 16
     },
     {
-      "term": "して",
-      "count": 16
+      "term": "よび",
+      "count": 15
     },
     {
-      "term": "内容",
+      "term": "信頼",
+      "count": 15
+    },
+    {
+      "term": "ータ",
       "count": 14
     },
     {
@@ -30,175 +42,163 @@
       "count": 14
     },
     {
-      "term": "ソースコ",
-      "count": 13
-    },
-    {
-      "term": "する",
-      "count": 13
-    },
-    {
       "term": "的に",
       "count": 13
     },
     {
-      "term": "ズの",
+      "term": "ラン",
+      "count": 12
+    },
+    {
+      "term": "ムチ",
+      "count": 12
+    },
+    {
+      "term": "環境",
       "count": 11
     },
     {
-      "term": "terraform",
+      "term": "考え",
       "count": 11
     },
     {
-      "term": "https",
-      "count": 11
-    },
-    {
-      "term": "の ",
+      "term": "code",
       "count": 10
     },
     {
-      "term": "スキ",
+      "term": "メン",
       "count": 10
     },
     {
-      "term": "ここ",
+      "term": "ー ",
       "count": 10
     },
     {
-      "term": "の担",
+      "term": "内で",
+      "count": 10
+    },
+    {
+      "term": "セス",
+      "count": 10
+    },
+    {
+      "term": "on",
+      "count": 10
+    },
+    {
+      "term": "が ",
       "count": 9
     },
     {
-      "term": "ンの",
+      "term": "アク",
       "count": 9
     },
     {
-      "term": "本書",
+      "term": "権限",
       "count": 9
     },
     {
-      "term": "た ",
-      "count": 9
+      "term": "トに",
+      "count": 8
+    },
+    {
+      "term": "カル",
+      "count": 8
     },
     {
       "term": "ビルド上",
       "count": 8
     },
     {
-      "term": "スト",
+      "term": "範囲の制",
       "count": 8
     },
     {
-      "term": "れて",
+      "term": "ド上",
       "count": 8
     },
     {
-      "term": "作成",
+      "term": "スの",
       "count": 8
     },
     {
-      "term": "ルで",
+      "term": "署名",
       "count": 8
     },
     {
-      "term": "洩対",
+      "term": "資産",
       "count": 7
     },
     {
-      "term": "依存",
+      "term": "のc",
       "count": 7
     },
     {
-      "term": "version",
+      "term": "イナ",
       "count": 7
     },
     {
-      "term": "もの",
+      "term": "主体",
       "count": 7
     },
     {
-      "term": "事項",
+      "term": "plan",
       "count": 7
     },
     {
-      "term": "は ",
-      "count": 7
-    },
-    {
-      "term": "脆弱性管",
+      "term": "ート",
       "count": 6
     },
     {
-      "term": "ソフトウ",
+      "term": "ットの保",
       "count": 6
     },
     {
-      "term": "用い",
+      "term": "ーズ",
       "count": 6
     },
     {
-      "term": "ンテナイ",
+      "term": "24",
       "count": 6
     },
     {
-      "term": "得し",
+      "term": "スを",
       "count": 6
     },
     {
-      "term": "とで",
+      "term": "どの",
       "count": 6
     },
     {
-      "term": "省略する",
+      "term": "らな",
       "count": 6
     },
     {
-      "term": "のレ",
+      "term": "る ",
       "count": 6
     },
     {
-      "term": "review",
+      "term": "predicate",
       "count": 6
     },
     {
-      "term": "ファ",
+      "term": "slsa",
       "count": 6
     },
     {
-      "term": "format",
-      "count": 6
-    },
-    {
-      "term": "トは",
+      "term": "理シ",
       "count": 5
     },
     {
-      "term": "開発",
+      "term": "セキ",
       "count": 5
     },
     {
-      "term": "てc",
+      "term": "時の",
       "count": 5
     },
     {
-      "term": "よっ",
-      "count": 5
-    },
-    {
-      "term": "観点",
-      "count": 5
-    },
-    {
-      "term": "性が",
-      "count": 5
-    },
-    {
-      "term": "うい",
-      "count": 5
-    },
-    {
-      "term": "それ",
+      "term": "サプ",
       "count": 5
     }
   ],
