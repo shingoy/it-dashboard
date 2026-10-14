@@ -2,43 +2,47 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ード",
+      "term": "github",
+      "count": 26
+    },
+    {
+      "term": "され",
+      "count": 24
+    },
+    {
+      "term": "れる",
+      "count": 23
+    },
+    {
+      "term": "ため",
+      "count": 22
+    },
+    {
+      "term": "利用",
       "count": 21
     },
     {
-      "term": "リポ",
-      "count": 20
+      "term": "イン",
+      "count": 21
     },
     {
-      "term": "イル",
-      "count": 19
-    },
-    {
-      "term": "安全",
-      "count": 18
-    },
-    {
-      "term": "これ",
+      "term": "成果",
       "count": 17
     },
     {
-      "term": "には",
+      "term": "ない",
       "count": 17
     },
     {
-      "term": "name",
-      "count": 17
-    },
-    {
-      "term": "ービ",
-      "count": 16
-    },
-    {
-      "term": "よび",
+      "term": "コー",
       "count": 15
     },
     {
-      "term": "cd",
+      "term": "ムの",
+      "count": 15
+    },
+    {
+      "term": "よび",
       "count": 15
     },
     {
@@ -46,151 +50,127 @@
       "count": 15
     },
     {
-      "term": "とな",
+      "term": "ータ",
       "count": 15
     },
     {
-      "term": "ビス",
+      "term": "保護",
       "count": 14
     },
     {
-      "term": "シー",
+      "term": "中略",
+      "count": 14
+    },
+    {
+      "term": "ンを",
       "count": 13
+    },
+    {
+      "term": "存物",
+      "count": 11
+    },
+    {
+      "term": "範囲",
+      "count": 11
+    },
+    {
+      "term": "定す",
+      "count": 11
+    },
+    {
+      "term": "理を",
+      "count": 10
+    },
+    {
+      "term": "策 ",
+      "count": 9
     },
     {
       "term": "ドフ",
-      "count": 13
-    },
-    {
-      "term": "ーズ",
-      "count": 13
-    },
-    {
-      "term": "のた",
-      "count": 13
-    },
-    {
-      "term": "id",
-      "count": 13
-    },
-    {
-      "term": "ラン",
-      "count": 12
-    },
-    {
-      "term": "ン ",
-      "count": 11
-    },
-    {
-      "term": "えら",
-      "count": 11
-    },
-    {
-      "term": "中略",
-      "count": 10
-    },
-    {
-      "term": "build",
-      "count": 10
-    },
-    {
-      "term": "ubuntu",
-      "count": 10
-    },
-    {
-      "term": "性管",
       "count": 9
     },
     {
-      "term": "果物",
+      "term": "リバ",
       "count": 9
     },
     {
-      "term": "指定",
+      "term": "ーを",
       "count": 9
+    },
+    {
+      "term": "provenance",
+      "count": 9
+    },
+    {
+      "term": "クを",
+      "count": 9
+    },
+    {
+      "term": "アク",
+      "count": 9
+    },
+    {
+      "term": "ecr",
+      "count": 9
+    },
+    {
+      "term": "洩対",
+      "count": 7
+    },
+    {
+      "term": "脆弱性管",
+      "count": 7
     },
     {
       "term": "ソースコ",
-      "count": 8
-    },
-    {
-      "term": "ビルド上",
-      "count": 8
-    },
-    {
-      "term": "るそ",
-      "count": 8
-    },
-    {
-      "term": "メタデー",
-      "count": 8
-    },
-    {
-      "term": "および",
       "count": 7
     },
     {
-      "term": "省略",
+      "term": "あり",
       "count": 7
     },
     {
-      "term": "クセ",
+      "term": "るプ",
       "count": 7
     },
     {
-      "term": "json",
+      "term": "ジを",
       "count": 7
     },
     {
-      "term": "ュリ",
+      "term": "考え",
+      "count": 7
+    },
+    {
+      "term": "キャ",
+      "count": 7
+    },
+    {
+      "term": "ーと",
+      "count": 7
+    },
+    {
+      "term": "runs",
+      "count": 7
+    },
+    {
+      "term": "ットの保",
       "count": 6
     },
     {
-      "term": "開発",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "ンに",
+      "term": "を ",
       "count": 6
     },
     {
-      "term": "した",
+      "term": "の成",
       "count": 6
     },
     {
-      "term": "の制",
-      "count": 6
-    },
-    {
-      "term": "trivy",
-      "count": 6
-    },
-    {
-      "term": "ズで",
-      "count": 6
-    },
-    {
-      "term": "の変",
-      "count": 6
-    },
-    {
-      "term": "など",
-      "count": 6
-    },
-    {
-      "term": "commit",
-      "count": 6
-    },
-    {
-      "term": "ることが",
-      "count": 6
-    },
-    {
-      "term": "た場",
-      "count": 6
-    },
-    {
-      "term": "key",
+      "term": "and",
       "count": 6
     },
     {
@@ -198,7 +178,27 @@
       "count": 6
     },
     {
-      "term": "チー",
+      "term": "守 ",
+      "count": 5
+    },
+    {
+      "term": "13",
+      "count": 5
+    },
+    {
+      "term": "ート",
+      "count": 5
+    },
+    {
+      "term": "はあ",
+      "count": 5
+    },
+    {
+      "term": "を想",
+      "count": 5
+    },
+    {
+      "term": "れに",
       "count": 5
     }
   ],
