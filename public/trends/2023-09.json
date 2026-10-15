@@ -2,35 +2,55 @@
   "month": "2023-09",
   "keywords": [
     {
-      "term": "庁等",
+      "term": "を活",
       "count": 3
     },
     {
-      "term": "マッ",
+      "term": "た規",
       "count": 3
     },
     {
-      "term": "regtech",
+      "term": "や技",
+      "count": 3
+    },
+    {
+      "term": "実装",
+      "count": 3
+    },
+    {
+      "term": "技術カタ",
       "count": 2
     },
     {
-      "term": "後の",
+      "term": "ーシ",
       "count": 2
     },
     {
-      "term": "つい",
+      "term": "法等を説",
       "count": 2
     },
     {
-      "term": "目指",
+      "term": "呼び",
       "count": 2
     },
     {
-      "term": "フィード",
+      "term": "て周知",
       "count": 2
     },
     {
-      "term": "者か",
+      "term": "用方",
+      "count": 2
+    },
+    {
+      "term": "る ",
+      "count": 2
+    },
+    {
+      "term": "らコンソ",
+      "count": 2
+    },
+    {
+      "term": "て ",
       "count": 2
     },
     {
@@ -38,43 +58,63 @@
       "count": 2
     },
     {
+      "term": "かけや",
+      "count": 2
+    },
+    {
       "term": "的利",
       "count": 2
     },
     {
-      "term": "け ",
+      "term": "感 ",
       "count": 2
     },
     {
-      "term": "動等",
+      "term": "トの",
       "count": 2
     },
     {
-      "term": "結果",
+      "term": "プピ",
       "count": 2
     },
     {
-      "term": "ピッ",
+      "term": "バイ",
       "count": 2
     },
     {
-      "term": "把握",
+      "term": "まえ保有",
       "count": 2
     },
     {
-      "term": "スや連",
+      "term": "を通じた",
       "count": 2
     },
     {
-      "term": "他省庁等",
+      "term": "広く",
       "count": 2
     },
     {
-      "term": "企画",
+      "term": "検証",
       "count": 2
     },
     {
-      "term": "催を",
+      "term": "の速",
+      "count": 2
+    },
+    {
+      "term": "携 ",
+      "count": 2
+    },
+    {
+      "term": "況を把握",
+      "count": 2
+    },
+    {
+      "term": "の具体化",
+      "count": 2
+    },
+    {
+      "term": "見直",
       "count": 2
     },
     {
@@ -82,39 +122,39 @@
       "count": 2
     },
     {
-      "term": "報告",
-      "count": 2
-    },
-    {
-      "term": "を通",
-      "count": 2
-    },
-    {
-      "term": "報を",
-      "count": 2
-    },
-    {
-      "term": "化 ",
-      "count": 2
-    },
-    {
-      "term": "コン",
-      "count": 2
-    },
-    {
-      "term": "施策",
+      "term": "づけ",
       "count": 1
     },
     {
-      "term": "学習",
+      "term": "者の",
       "count": 1
     },
     {
-      "term": "の主",
+      "term": "ティ関係",
       "count": 1
     },
     {
-      "term": "ク化",
+      "term": "クノロジ",
+      "count": 1
+    },
+    {
+      "term": "始８",
+      "count": 1
+    },
+    {
+      "term": "活用した",
+      "count": 1
+    },
+    {
+      "term": "よる",
+      "count": 1
+    },
+    {
+      "term": "によ",
+      "count": 1
+    },
+    {
+      "term": "連団",
       "count": 1
     },
     {
@@ -122,67 +162,15 @@
       "count": 1
     },
     {
-      "term": "会や",
+      "term": "地域",
       "count": 1
     },
     {
-      "term": "中小企業",
+      "term": "る施",
       "count": 1
     },
     {
-      "term": "機関によ",
-      "count": 1
-    },
-    {
-      "term": "のネ",
-      "count": 1
-    },
-    {
-      "term": "案提",
-      "count": 1
-    },
-    {
-      "term": "ピタ",
-      "count": 1
-    },
-    {
-      "term": "係者",
-      "count": 1
-    },
-    {
-      "term": "し技",
-      "count": 1
-    },
-    {
-      "term": "術等",
-      "count": 1
-    },
-    {
-      "term": "法規",
-      "count": 1
-    },
-    {
-      "term": "体イ",
-      "count": 1
-    },
-    {
-      "term": "庁規",
-      "count": 1
-    },
-    {
-      "term": "規模",
-      "count": 1
-    },
-    {
-      "term": "能な",
-      "count": 1
-    },
-    {
-      "term": "ーマップ",
-      "count": 1
-    },
-    {
-      "term": "機関が存",
+      "term": "民間含む",
       "count": 1
     },
     {
@@ -190,15 +178,27 @@
       "count": 1
     },
     {
-      "term": "でア",
+      "term": "ムを",
       "count": 1
     },
     {
-      "term": "大企",
+      "term": "会の",
       "count": 1
     },
     {
-      "term": "営開",
+      "term": "間含",
+      "count": 1
+    },
+    {
+      "term": "を ",
+      "count": 1
+    },
+    {
+      "term": "促進",
+      "count": 1
+    },
+    {
+      "term": "知見",
       "count": 1
     }
   ],
