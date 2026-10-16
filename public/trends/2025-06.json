@@ -2,79 +2,95 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "きる",
-      "count": 23
+      "term": "図 ",
+      "count": 27
     },
     {
-      "term": "ある",
+      "term": "果物",
+      "count": 20
+    },
+    {
+      "term": "ァイ",
       "count": 19
     },
     {
-      "term": "設定",
+      "term": "リポジト",
+      "count": 18
+    },
+    {
+      "term": "デー",
       "count": 17
     },
     {
-      "term": "ムの",
+      "term": "には",
+      "count": 17
+    },
+    {
+      "term": "ない",
+      "count": 17
+    },
+    {
+      "term": "name",
       "count": 15
     },
     {
-      "term": "のた",
-      "count": 15
-    },
-    {
-      "term": "コン",
-      "count": 15
-    },
-    {
-      "term": "メタ",
-      "count": 15
-    },
-    {
-      "term": "プロ",
+      "term": "があ",
       "count": 14
     },
     {
-      "term": "シー",
-      "count": 13
-    },
-    {
-      "term": "ラン",
+      "term": "物の",
       "count": 12
     },
     {
-      "term": "れら",
+      "term": "ーの",
       "count": 12
     },
     {
-      "term": "る必",
-      "count": 12
-    },
-    {
-      "term": "はc",
+      "term": "ティ",
       "count": 11
     },
     {
-      "term": "プラット",
+      "term": "制限",
       "count": 11
     },
     {
-      "term": "フォ",
+      "term": "の実",
       "count": 11
     },
     {
-      "term": "ビル",
+      "term": "的に",
       "count": 11
     },
     {
-      "term": "安全性の",
+      "term": "はな",
       "count": 11
     },
     {
-      "term": "略 ",
+      "term": "com",
       "count": 11
     },
     {
-      "term": "環境",
+      "term": "ー ",
+      "count": 10
+    },
+    {
+      "term": "定し",
+      "count": 10
+    },
+    {
+      "term": "性を",
+      "count": 10
+    },
+    {
+      "term": "内で",
+      "count": 10
+    },
+    {
+      "term": "ルの",
+      "count": 10
+    },
+    {
+      "term": "スキ",
       "count": 10
     },
     {
@@ -82,123 +98,107 @@
       "count": 10
     },
     {
+      "term": "性管",
+      "count": 9
+    },
+    {
       "term": "策 ",
       "count": 9
     },
     {
-      "term": "ンの",
+      "term": "トの",
       "count": 9
     },
     {
-      "term": "上で",
+      "term": "体的",
       "count": 9
     },
     {
-      "term": "及び",
+      "term": "デリ",
+      "count": 9
+    },
+    {
+      "term": "provenance",
+      "count": 9
+    },
+    {
+      "term": "権限",
+      "count": 9
+    },
+    {
+      "term": "ビルド上",
       "count": 8
     },
     {
-      "term": "定内",
+      "term": "の ",
       "count": 8
-    },
-    {
-      "term": "サービス",
-      "count": 8
-    },
-    {
-      "term": "aws",
-      "count": 8
-    },
-    {
-      "term": "ト情",
-      "count": 7
-    },
-    {
-      "term": "漏洩",
-      "count": 7
-    },
-    {
-      "term": "リソ",
-      "count": 7
-    },
-    {
-      "term": "略す",
-      "count": 7
     },
     {
       "term": "が考",
+      "count": 8
+    },
+    {
+      "term": "関す",
       "count": 7
     },
     {
-      "term": "ド設",
+      "term": "リテ",
       "count": 7
     },
     {
-      "term": "めに",
+      "term": "スチ",
+      "count": 7
+    },
+    {
+      "term": "sbom",
+      "count": 7
+    },
+    {
+      "term": "ート",
       "count": 6
     },
     {
-      "term": "セキ",
+      "term": "資産",
       "count": 6
     },
     {
-      "term": "もの",
+      "term": "ける",
       "count": 6
     },
     {
-      "term": "より",
+      "term": "ド上",
       "count": 6
     },
     {
-      "term": "steps",
+      "term": "あり",
       "count": 6
     },
     {
-      "term": "ークレッ",
+      "term": "の変",
       "count": 6
     },
     {
-      "term": "用者",
+      "term": "どの",
+      "count": 6
+    },
+    {
+      "term": "and",
+      "count": 6
+    },
+    {
+      "term": "る ",
+      "count": 6
+    },
+    {
+      "term": "象と",
+      "count": 6
+    },
+    {
+      "term": "用保",
       "count": 5
     },
     {
-      "term": "ト ",
-      "count": 5
-    },
-    {
-      "term": "をも",
-      "count": 5
-    },
-    {
-      "term": "ド ",
-      "count": 5
-    },
-    {
-      "term": "カル",
-      "count": 5
-    },
-    {
-      "term": "ンを",
-      "count": 5
-    },
-    {
-      "term": "てc",
-      "count": 5
-    },
-    {
-      "term": "に保",
-      "count": 5
-    },
-    {
-      "term": "者が",
-      "count": 5
-    },
-    {
-      "term": "当該",
-      "count": 5
-    },
-    {
-      "term": "物に",
+      "term": "infrastructure",
       "count": 5
     }
   ],
