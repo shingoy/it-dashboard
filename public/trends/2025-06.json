@@ -2,67 +2,79 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 27
+      "term": "こと",
+      "count": 25
     },
     {
-      "term": "果物",
+      "term": "その",
+      "count": 21
+    },
+    {
+      "term": "成果",
       "count": 20
     },
     {
-      "term": "ァイ",
-      "count": 19
-    },
-    {
-      "term": "リポジト",
-      "count": 18
-    },
-    {
-      "term": "デー",
-      "count": 17
-    },
-    {
-      "term": "には",
-      "count": 17
-    },
-    {
-      "term": "ない",
+      "term": "パイプラ",
       "count": 17
     },
     {
       "term": "name",
+      "count": 17
+    },
+    {
+      "term": "ソー",
+      "count": 16
+    },
+    {
+      "term": "イン",
+      "count": 16
+    },
+    {
+      "term": "ムチ",
       "count": 15
     },
     {
-      "term": "があ",
+      "term": "よび",
+      "count": 15
+    },
+    {
+      "term": "によ",
       "count": 14
     },
     {
-      "term": "物の",
+      "term": "られ",
+      "count": 13
+    },
+    {
+      "term": "てい",
       "count": 12
     },
     {
-      "term": "ーの",
+      "term": "れら",
       "count": 12
     },
     {
-      "term": "ティ",
+      "term": "フォーム",
       "count": 11
     },
     {
-      "term": "制限",
+      "term": "とす",
       "count": 11
     },
     {
-      "term": "の実",
+      "term": "ジト",
       "count": 11
     },
     {
-      "term": "的に",
+      "term": "10",
       "count": 11
     },
     {
-      "term": "はな",
+      "term": "これ",
+      "count": 11
+    },
+    {
+      "term": "https",
       "count": 11
     },
     {
@@ -70,136 +82,124 @@
       "count": 11
     },
     {
-      "term": "ー ",
+      "term": "状態",
       "count": 10
     },
     {
-      "term": "定し",
+      "term": "安全",
       "count": 10
     },
     {
-      "term": "性を",
+      "term": "る具",
       "count": 10
     },
     {
-      "term": "内で",
-      "count": 10
-    },
-    {
-      "term": "ルの",
-      "count": 10
-    },
-    {
-      "term": "スキ",
-      "count": 10
-    },
-    {
-      "term": "ubuntu",
-      "count": 10
-    },
-    {
-      "term": "性管",
+      "term": "の確",
       "count": 9
     },
     {
-      "term": "策 ",
+      "term": "tf",
       "count": 9
     },
     {
-      "term": "トの",
-      "count": 9
-    },
-    {
-      "term": "体的",
-      "count": 9
-    },
-    {
-      "term": "デリ",
-      "count": 9
-    },
-    {
-      "term": "provenance",
-      "count": 9
-    },
-    {
-      "term": "権限",
-      "count": 9
-    },
-    {
-      "term": "ビルド上",
+      "term": "シス",
       "count": 8
     },
     {
-      "term": "の ",
+      "term": "トに",
       "count": 8
     },
     {
-      "term": "が考",
+      "term": "物を",
       "count": 8
     },
     {
-      "term": "関す",
+      "term": "囲の",
+      "count": 8
+    },
+    {
+      "term": "バイ",
+      "count": 8
+    },
+    {
+      "term": "特有",
+      "count": 8
+    },
+    {
+      "term": "ーを",
+      "count": 8
+    },
+    {
+      "term": "作成",
+      "count": 8
+    },
+    {
+      "term": "aws",
+      "count": 8
+    },
+    {
+      "term": "示す",
       "count": 7
-    },
-    {
-      "term": "リテ",
-      "count": 7
-    },
-    {
-      "term": "スチ",
-      "count": 7
-    },
-    {
-      "term": "sbom",
-      "count": 7
-    },
-    {
-      "term": "ート",
-      "count": 6
-    },
-    {
-      "term": "資産",
-      "count": 6
-    },
-    {
-      "term": "ける",
-      "count": 6
     },
     {
       "term": "ド上",
+      "count": 7
+    },
+    {
+      "term": "ジを",
+      "count": 7
+    },
+    {
+      "term": "事項",
+      "count": 7
+    },
+    {
+      "term": "指定",
+      "count": 7
+    },
+    {
+      "term": "よう",
+      "count": 7
+    },
+    {
+      "term": "とは",
+      "count": 7
+    },
+    {
+      "term": "チの",
       "count": 6
     },
     {
-      "term": "あり",
+      "term": "の保護",
       "count": 6
     },
     {
-      "term": "の変",
+      "term": "はa",
       "count": 6
     },
     {
-      "term": "どの",
+      "term": "高い",
+      "count": 6
+    },
+    {
+      "term": "要がある",
+      "count": 6
+    },
+    {
+      "term": "を確",
+      "count": 6
+    },
+    {
+      "term": "デー",
+      "count": 6
+    },
+    {
+      "term": "される",
       "count": 6
     },
     {
       "term": "and",
       "count": 6
-    },
-    {
-      "term": "る ",
-      "count": 6
-    },
-    {
-      "term": "象と",
-      "count": 6
-    },
-    {
-      "term": "用保",
-      "count": 5
-    },
-    {
-      "term": "infrastructure",
-      "count": 5
     }
   ],
   "meetings": [

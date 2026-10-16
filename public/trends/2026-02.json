@@ -2,171 +2,79 @@
   "month": "2026-02",
   "keywords": [
     {
+      "term": "職業",
+      "count": 2
+    },
+    {
+      "term": "に含まず",
+      "count": 2
+    },
+    {
+      "term": "予算",
+      "count": 2
+    },
+    {
       "term": "推進",
       "count": 2
     },
     {
-      "term": "捨五入し",
+      "term": "の事業の",
       "count": 2
     },
     {
-      "term": "基本",
+      "term": "関係",
       "count": 2
     },
     {
-      "term": "成に",
+      "term": "注３",
       "count": 2
     },
     {
-      "term": "予算総額",
+      "term": "ジタル分",
       "count": 2
     },
     {
-      "term": "どの",
+      "term": "策も",
       "count": 2
     },
     {
-      "term": "策は",
+      "term": "職者",
       "count": 2
     },
     {
-      "term": "ない",
+      "term": "シス",
       "count": 2
     },
     {
-      "term": "困難",
+      "term": "方針",
       "count": 2
     },
     {
-      "term": "者向けの",
+      "term": "深い",
       "count": 2
     },
     {
-      "term": "等ａ",
+      "term": "がａ",
       "count": 2
     },
     {
-      "term": "促進",
+      "term": "の構築",
       "count": 2
     },
     {
-      "term": "策も実施",
+      "term": "の予",
       "count": 2
     },
     {
-      "term": "な施",
+      "term": "施 ",
       "count": 2
     },
     {
-      "term": "施策",
+      "term": "て離",
       "count": 2
     },
     {
-      "term": "科学研究",
-      "count": 1
-    },
-    {
-      "term": "の研究",
-      "count": 1
-    },
-    {
-      "term": "ート",
-      "count": 1
-    },
-    {
-      "term": "性を",
-      "count": 1
-    },
-    {
-      "term": "通信",
-      "count": 1
-    },
-    {
-      "term": "びシステ",
-      "count": 1
-    },
-    {
-      "term": "速化",
-      "count": 1
-    },
-    {
-      "term": "護テ",
-      "count": 1
-    },
-    {
-      "term": "ムに関す",
-      "count": 1
-    },
-    {
-      "term": "の研",
-      "count": 1
-    },
-    {
-      "term": "の製",
-      "count": 1
-    },
-    {
-      "term": "ティ",
-      "count": 1
-    },
-    {
-      "term": "サイバー",
-      "count": 1
-    },
-    {
-      "term": "ァイ",
-      "count": 1
-    },
-    {
-      "term": "保に",
-      "count": 1
-    },
-    {
-      "term": "関す",
-      "count": 1
-    },
-    {
-      "term": "ーダ",
-      "count": 1
-    },
-    {
-      "term": "た次世代",
-      "count": 1
-    },
-    {
-      "term": "み増",
-      "count": 1
-    },
-    {
-      "term": "インフラ",
-      "count": 1
-    },
-    {
-      "term": "た次",
-      "count": 1
-    },
-    {
-      "term": "デー",
-      "count": 1
-    },
-    {
-      "term": "の実",
-      "count": 1
-    },
-    {
-      "term": "人戦",
-      "count": 1
-    },
-    {
-      "term": "る技",
-      "count": 1
-    },
-    {
-      "term": "盤技",
-      "count": 1
-    },
-    {
-      "term": "ルの",
+      "term": "科学",
       "count": 1
     },
     {
@@ -174,31 +82,123 @@
       "count": 1
     },
     {
-      "term": "地震動評",
+      "term": "クサ",
       "count": 1
     },
     {
-      "term": "クノ",
+      "term": "調査",
       "count": 1
     },
     {
-      "term": "評価",
+      "term": "報通",
       "count": 1
     },
     {
-      "term": "案 ",
+      "term": "を創",
       "count": 1
     },
     {
-      "term": "担軽",
+      "term": "を見",
       "count": 1
     },
     {
-      "term": "ラム",
+      "term": "世代",
       "count": 1
     },
     {
-      "term": "セラ",
+      "term": "力確",
+      "count": 1
+    },
+    {
+      "term": "たマルチ",
+      "count": 1
+    },
+    {
+      "term": "業経",
+      "count": 1
+    },
+    {
+      "term": "た次世代",
+      "count": 1
+    },
+    {
+      "term": "用文",
+      "count": 1
+    },
+    {
+      "term": "発力",
+      "count": 1
+    },
+    {
+      "term": "し分",
+      "count": 1
+    },
+    {
+      "term": "その",
+      "count": 1
+    },
+    {
+      "term": "高め",
+      "count": 1
+    },
+    {
+      "term": "を高める",
+      "count": 1
+    },
+    {
+      "term": "けａ",
+      "count": 1
+    },
+    {
+      "term": "発事",
+      "count": 1
+    },
+    {
+      "term": "速化",
+      "count": 1
+    },
+    {
+      "term": "ボッ",
+      "count": 1
+    },
+    {
+      "term": "両シ",
+      "count": 1
+    },
+    {
+      "term": "強化",
+      "count": 1
+    },
+    {
+      "term": "ナン",
+      "count": 1
+    },
+    {
+      "term": "業財",
+      "count": 1
+    },
+    {
+      "term": "た研究開",
+      "count": 1
+    },
+    {
+      "term": "主導",
+      "count": 1
+    },
+    {
+      "term": "た意思決",
+      "count": 1
+    },
+    {
+      "term": "イン",
+      "count": 1
+    },
+    {
+      "term": "連携型",
+      "count": 1
+    },
+    {
+      "term": "ロボ",
       "count": 1
     }
   ],
