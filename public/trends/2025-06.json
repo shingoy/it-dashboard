@@ -2,91 +2,79 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "こと",
-      "count": 25
+      "term": "する",
+      "count": 28
     },
     {
-      "term": "その",
-      "count": 21
+      "term": "プラ",
+      "count": 26
     },
     {
-      "term": "成果",
+      "term": "る ",
+      "count": 22
+    },
+    {
+      "term": "イル",
       "count": 20
     },
     {
-      "term": "パイプラ",
-      "count": 17
+      "term": "ジト",
+      "count": 20
     },
     {
-      "term": "name",
-      "count": 17
+      "term": "ビル",
+      "count": 19
     },
     {
-      "term": "ソー",
+      "term": "設定",
+      "count": 19
+    },
+    {
+      "term": "ール",
+      "count": 18
+    },
+    {
+      "term": "の保",
       "count": 16
     },
     {
-      "term": "イン",
+      "term": "ォー",
       "count": 16
     },
     {
-      "term": "ムチ",
-      "count": 15
-    },
-    {
-      "term": "よび",
-      "count": 15
-    },
-    {
-      "term": "によ",
+      "term": "必要",
       "count": 14
     },
     {
-      "term": "られ",
+      "term": "中略",
+      "count": 14
+    },
+    {
+      "term": "的に",
       "count": 13
     },
     {
-      "term": "てい",
-      "count": 12
+      "term": "trivy",
+      "count": 13
     },
     {
-      "term": "れら",
-      "count": 12
-    },
-    {
-      "term": "フォーム",
+      "term": "情報",
       "count": 11
     },
     {
-      "term": "とす",
+      "term": "考え",
       "count": 11
     },
     {
-      "term": "ジト",
+      "term": "の設",
       "count": 11
     },
     {
-      "term": "10",
-      "count": 11
-    },
-    {
-      "term": "これ",
-      "count": 11
-    },
-    {
-      "term": "https",
-      "count": 11
-    },
-    {
-      "term": "com",
-      "count": 11
-    },
-    {
-      "term": "状態",
+      "term": "ンチ",
       "count": 10
     },
     {
-      "term": "安全",
+      "term": "sbom",
       "count": 10
     },
     {
@@ -94,35 +82,35 @@
       "count": 10
     },
     {
-      "term": "の確",
+      "term": "含む",
       "count": 9
     },
     {
-      "term": "tf",
+      "term": "それ",
       "count": 9
     },
     {
-      "term": "シス",
+      "term": "対象",
+      "count": 9
+    },
+    {
+      "term": "runs",
+      "count": 9
+    },
+    {
+      "term": "主体",
       "count": 8
     },
     {
-      "term": "トに",
+      "term": "フェーズ",
       "count": 8
     },
     {
-      "term": "物を",
+      "term": "での実行",
       "count": 8
     },
     {
-      "term": "囲の",
-      "count": 8
-    },
-    {
-      "term": "バイ",
-      "count": 8
-    },
-    {
-      "term": "特有",
+      "term": "リス",
       "count": 8
     },
     {
@@ -130,76 +118,88 @@
       "count": 8
     },
     {
-      "term": "作成",
+      "term": "の管",
       "count": 8
     },
     {
-      "term": "aws",
+      "term": "のよ",
       "count": 8
     },
     {
-      "term": "示す",
+      "term": "組織",
       "count": 7
     },
     {
-      "term": "ド上",
+      "term": "自動",
       "count": 7
     },
     {
-      "term": "ジを",
+      "term": "略す",
       "count": 7
     },
     {
-      "term": "事項",
+      "term": "省略",
       "count": 7
     },
     {
-      "term": "指定",
+      "term": "file",
       "count": 7
     },
     {
-      "term": "よう",
+      "term": "仕組",
       "count": 7
     },
     {
-      "term": "とは",
-      "count": 7
-    },
-    {
-      "term": "チの",
+      "term": "ット情報",
       "count": 6
     },
     {
-      "term": "の保護",
+      "term": "のリ",
       "count": 6
     },
     {
-      "term": "はa",
+      "term": "たが",
       "count": 6
     },
     {
-      "term": "高い",
+      "term": "ス ",
       "count": 6
     },
     {
-      "term": "要がある",
+      "term": "書で",
       "count": 6
     },
     {
-      "term": "を確",
+      "term": "codebuild",
       "count": 6
     },
     {
-      "term": "デー",
+      "term": "rule",
       "count": 6
     },
     {
-      "term": "される",
+      "term": "key",
       "count": 6
     },
     {
-      "term": "and",
+      "term": "えて",
       "count": 6
+    },
+    {
+      "term": "ド ",
+      "count": 5
+    },
+    {
+      "term": "をも",
+      "count": 5
+    },
+    {
+      "term": "ト ",
+      "count": 5
+    },
+    {
+      "term": "用保",
+      "count": 5
     }
   ],
   "meetings": [
