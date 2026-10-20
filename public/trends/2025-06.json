@@ -2,175 +2,155 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 28
-    },
-    {
-      "term": "して",
-      "count": 27
-    },
-    {
-      "term": "るこ",
-      "count": 24
-    },
-    {
-      "term": "果物",
+      "term": "ール",
       "count": 20
     },
     {
-      "term": "リポジト",
-      "count": 18
-    },
-    {
-      "term": "ラッ",
+      "term": "実行",
       "count": 15
     },
     {
-      "term": "ムチ",
+      "term": "サー",
       "count": 15
     },
     {
-      "term": "信頼",
-      "count": 15
-    },
-    {
-      "term": "脆弱",
-      "count": 15
-    },
-    {
-      "term": "ーズ",
-      "count": 15
-    },
-    {
-      "term": "から",
-      "count": 15
-    },
-    {
-      "term": "name",
-      "count": 15
-    },
-    {
-      "term": "ける",
-      "count": 14
-    },
-    {
-      "term": "ルを",
-      "count": 14
-    },
-    {
-      "term": "ツー",
-      "count": 14
-    },
-    {
-      "term": "があ",
-      "count": 14
-    },
-    {
-      "term": "れた",
-      "count": 14
-    },
-    {
-      "term": "にお",
+      "term": "ンを",
       "count": 13
     },
     {
-      "term": "タデ",
+      "term": "確認",
+      "count": 13
+    },
+    {
+      "term": "を取",
       "count": 12
     },
     {
-      "term": "ン ",
+      "term": "ズの",
       "count": 11
     },
     {
-      "term": "依存",
+      "term": "ティ",
       "count": 11
     },
     {
-      "term": "状態",
+      "term": "制限",
       "count": 11
+    },
+    {
+      "term": "の設",
+      "count": 11
+    },
+    {
+      "term": "この",
+      "count": 11
+    },
+    {
+      "term": "トの",
+      "count": 10
+    },
+    {
+      "term": "の信",
+      "count": 10
+    },
+    {
+      "term": "し ",
+      "count": 10
     },
     {
       "term": "バー",
-      "count": 11
-    },
-    {
-      "term": "トフ",
       "count": 10
     },
     {
-      "term": "これ",
+      "term": "ある",
       "count": 10
     },
     {
-      "term": "の担",
+      "term": "的な",
       "count": 9
     },
     {
-      "term": "の制",
+      "term": "リバ",
       "count": 9
     },
     {
-      "term": "outputs",
+      "term": "ウェ",
       "count": 9
     },
     {
-      "term": "ズの",
-      "count": 8
+      "term": "sbom",
+      "count": 9
+    },
+    {
+      "term": "指定",
+      "count": 9
     },
     {
       "term": "バイ",
       "count": 8
     },
     {
-      "term": "物の",
+      "term": "から",
       "count": 8
     },
     {
-      "term": "るそ",
+      "term": "の構",
       "count": 8
     },
     {
-      "term": "作成",
+      "term": "ルで",
       "count": 8
     },
     {
-      "term": "repository",
-      "count": 8
-    },
-    {
-      "term": "し ",
-      "count": 8
-    },
-    {
-      "term": "る ",
-      "count": 8
-    },
-    {
-      "term": "リス",
+      "term": "リ及",
       "count": 7
     },
     {
-      "term": "がある",
+      "term": "共通",
       "count": 7
     },
     {
-      "term": "成 ",
-      "count": 6
+      "term": "あり",
+      "count": 7
     },
     {
-      "term": "策 ",
-      "count": 6
+      "term": "plan",
+      "count": 7
+    },
+    {
+      "term": "および",
+      "count": 7
+    },
+    {
+      "term": "はg",
+      "count": 7
+    },
+    {
+      "term": "push",
+      "count": 7
+    },
+    {
+      "term": "login",
+      "count": 7
+    },
+    {
+      "term": "られ",
+      "count": 7
+    },
+    {
+      "term": "と同",
+      "count": 7
     },
     {
       "term": "した",
       "count": 6
     },
     {
-      "term": "ルと",
+      "term": "物を",
       "count": 6
     },
     {
-      "term": "ムに",
+      "term": "フト",
       "count": 6
     },
     {
@@ -178,11 +158,39 @@
       "count": 6
     },
     {
-      "term": "secrets",
+      "term": "カウ",
       "count": 6
     },
     {
-      "term": "ファイル",
+      "term": "ル ",
+      "count": 6
+    },
+    {
+      "term": "な対",
+      "count": 6
+    },
+    {
+      "term": "の利",
+      "count": 6
+    },
+    {
+      "term": "の連",
+      "count": 6
+    },
+    {
+      "term": "ズで",
+      "count": 6
+    },
+    {
+      "term": "される",
+      "count": 6
+    },
+    {
+      "term": "る必",
+      "count": 6
+    },
+    {
+      "term": "ref",
       "count": 6
     },
     {
@@ -190,16 +198,8 @@
       "count": 6
     },
     {
-      "term": "をも",
-      "count": 5
-    },
-    {
-      "term": "の証",
-      "count": 5
-    },
-    {
-      "term": "を想",
-      "count": 5
+      "term": "file",
+      "count": 6
     }
   ],
   "meetings": [
