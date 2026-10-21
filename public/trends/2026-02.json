@@ -2,163 +2,83 @@
   "month": "2026-02",
   "keywords": [
     {
-      "term": "費の",
+      "term": "ング",
       "count": 2
     },
     {
-      "term": "て離",
+      "term": "本計",
       "count": 2
     },
     {
-      "term": "捨五",
+      "term": "野の人材",
       "count": 2
     },
     {
-      "term": "か ",
+      "term": "など",
       "count": 2
     },
     {
-      "term": "の促",
+      "term": "困難",
       "count": 2
     },
     {
-      "term": "まず",
+      "term": "連予",
       "count": 2
     },
     {
-      "term": "運営",
+      "term": "の開",
       "count": 2
     },
     {
-      "term": "基盤モデ",
+      "term": "関係",
       "count": 2
     },
     {
-      "term": "連する主",
+      "term": "の事業の",
       "count": 2
     },
     {
-      "term": "の構",
+      "term": "予算総額",
       "count": 2
     },
     {
-      "term": "事業",
+      "term": "出困",
       "count": 2
     },
     {
-      "term": "深い",
+      "term": "むデ",
       "count": 2
     },
     {
-      "term": "関連",
+      "term": "係す",
       "count": 2
     },
     {
-      "term": "ル分",
+      "term": "な施",
       "count": 2
     },
     {
-      "term": "向けの教",
+      "term": "基本",
       "count": 2
     },
     {
-      "term": "者向けの",
-      "count": 2
-    },
-    {
-      "term": "がａ",
-      "count": 2
-    },
-    {
-      "term": "た額を記",
-      "count": 2
-    },
-    {
-      "term": "総額",
-      "count": 2
-    },
-    {
-      "term": "する場合",
-      "count": 2
-    },
-    {
-      "term": "記載",
-      "count": 2
-    },
-    {
-      "term": "新防",
+      "term": "価技術の",
       "count": 1
     },
     {
-      "term": "思決",
+      "term": "用文",
       "count": 1
     },
     {
-      "term": "クス",
+      "term": "ト農",
       "count": 1
     },
     {
-      "term": "ugv",
+      "term": "ズ探",
       "count": 1
     },
     {
-      "term": "進総",
-      "count": 1
-    },
-    {
-      "term": "充実",
-      "count": 1
-    },
-    {
-      "term": "造プロセ",
-      "count": 1
-    },
-    {
-      "term": "の信",
-      "count": 1
-    },
-    {
-      "term": "国約",
-      "count": 1
-    },
-    {
-      "term": "ティ",
-      "count": 1
-    },
-    {
-      "term": "ステムの",
-      "count": 1
-    },
-    {
-      "term": "金の",
-      "count": 1
-    },
-    {
-      "term": "据え",
-      "count": 1
-    },
-    {
-      "term": "の製",
-      "count": 1
-    },
-    {
-      "term": "に繋",
-      "count": 1
-    },
-    {
-      "term": "新経",
-      "count": 1
-    },
-    {
-      "term": "バー",
-      "count": 1
-    },
-    {
-      "term": "約２",
-      "count": 1
-    },
-    {
-      "term": "介護",
+      "term": "科学",
       "count": 1
     },
     {
@@ -166,39 +86,119 @@
       "count": 1
     },
     {
-      "term": "ナン",
+      "term": "ークサー",
       "count": 1
     },
     {
-      "term": "サー",
+      "term": "総 ",
       "count": 1
     },
     {
-      "term": "評価",
+      "term": "の信",
       "count": 1
     },
     {
-      "term": "の主",
+      "term": "イバ",
       "count": 1
     },
     {
-      "term": "究等の実",
+      "term": "度化",
       "count": 1
     },
     {
-      "term": "確保のた",
+      "term": "負担",
       "count": 1
     },
     {
-      "term": "額5",
+      "term": "両シ",
       "count": 1
     },
     {
-      "term": "ピュ",
+      "term": "変革",
       "count": 1
     },
     {
-      "term": "19",
+      "term": "据え",
+      "count": 1
+    },
+    {
+      "term": "迅速",
+      "count": 1
+    },
+    {
+      "term": "科学研究",
+      "count": 1
+    },
+    {
+      "term": "等文",
+      "count": 1
+    },
+    {
+      "term": "報通信基",
+      "count": 1
+    },
+    {
+      "term": "営の高度",
+      "count": 1
+    },
+    {
+      "term": "の透",
+      "count": 1
+    },
+    {
+      "term": "フラ",
+      "count": 1
+    },
+    {
+      "term": "の製",
+      "count": 1
+    },
+    {
+      "term": "抜本",
+      "count": 1
+    },
+    {
+      "term": "発文",
+      "count": 1
+    },
+    {
+      "term": "処能",
+      "count": 1
+    },
+    {
+      "term": "けた継続",
+      "count": 1
+    },
+    {
+      "term": "の研究",
+      "count": 1
+    },
+    {
+      "term": "基盤技術",
+      "count": 1
+    },
+    {
+      "term": "ル基",
+      "count": 1
+    },
+    {
+      "term": "バナ",
+      "count": 1
+    },
+    {
+      "term": "ーテ",
+      "count": 1
+    },
+    {
+      "term": "ンフ",
+      "count": 1
+    },
+    {
+      "term": "報通",
+      "count": 1
+    },
+    {
+      "term": "算案",
       "count": 1
     }
   ],

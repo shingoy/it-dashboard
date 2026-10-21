@@ -2,91 +2,75 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ール",
-      "count": 20
+      "term": "ルド",
+      "count": 19
     },
     {
-      "term": "実行",
+      "term": "aws",
+      "count": 19
+    },
+    {
+      "term": "るこ",
+      "count": 18
+    },
+    {
+      "term": "って",
+      "count": 16
+    },
+    {
+      "term": "でき",
       "count": 15
     },
     {
-      "term": "サー",
-      "count": 15
+      "term": "る必",
+      "count": 14
     },
     {
-      "term": "ンを",
+      "term": "には",
+      "count": 14
+    },
+    {
+      "term": "フェ",
       "count": 13
     },
     {
-      "term": "確認",
+      "term": "よう",
       "count": 13
     },
     {
-      "term": "を取",
+      "term": "きる",
       "count": 12
     },
     {
-      "term": "ズの",
-      "count": 11
+      "term": "可能",
+      "count": 12
     },
     {
-      "term": "ティ",
+      "term": "プラット",
       "count": 11
-    },
-    {
-      "term": "制限",
-      "count": 11
-    },
-    {
-      "term": "の設",
-      "count": 11
-    },
-    {
-      "term": "この",
-      "count": 11
-    },
-    {
-      "term": "トの",
-      "count": 10
     },
     {
       "term": "の信",
       "count": 10
     },
     {
-      "term": "し ",
+      "term": "定し",
       "count": 10
     },
     {
-      "term": "バー",
-      "count": 10
-    },
-    {
-      "term": "ある",
-      "count": 10
-    },
-    {
-      "term": "的な",
+      "term": "トウ",
       "count": 9
     },
     {
-      "term": "リバ",
+      "term": "git",
       "count": 9
     },
     {
-      "term": "ウェ",
+      "term": "とい",
       "count": 9
     },
     {
-      "term": "sbom",
-      "count": 9
-    },
-    {
-      "term": "指定",
-      "count": 9
-    },
-    {
-      "term": "バイ",
+      "term": "ン ",
       "count": 8
     },
     {
@@ -94,112 +78,128 @@
       "count": 8
     },
     {
-      "term": "の構",
+      "term": "ング",
       "count": 8
     },
     {
-      "term": "ルで",
+      "term": "ェッ",
       "count": 8
     },
     {
-      "term": "リ及",
+      "term": "github",
+      "count": 8
+    },
+    {
+      "term": "ェーズの",
       "count": 7
     },
     {
-      "term": "共通",
+      "term": "示す",
       "count": 7
     },
     {
-      "term": "あり",
+      "term": "など",
       "count": 7
     },
     {
-      "term": "plan",
+      "term": "図 ",
       "count": 7
     },
     {
-      "term": "および",
-      "count": 7
+      "term": "リテ",
+      "count": 6
     },
     {
-      "term": "はg",
-      "count": 7
-    },
-    {
-      "term": "push",
-      "count": 7
-    },
-    {
-      "term": "login",
-      "count": 7
-    },
-    {
-      "term": "られ",
-      "count": 7
-    },
-    {
-      "term": "と同",
-      "count": 7
+      "term": "ティ",
+      "count": 6
     },
     {
       "term": "した",
       "count": 6
     },
     {
+      "term": "はa",
+      "count": 6
+    },
+    {
+      "term": "スの",
+      "count": 6
+    },
+    {
+      "term": "はプ",
+      "count": 6
+    },
+    {
+      "term": "sbom",
+      "count": 6
+    },
+    {
+      "term": "ルに",
+      "count": 6
+    },
+    {
+      "term": "repository",
+      "count": 6
+    },
+    {
+      "term": "tf",
+      "count": 6
+    },
+    {
+      "term": "and",
+      "count": 6
+    },
+    {
+      "term": "17",
+      "count": 6
+    },
+    {
+      "term": "とな",
+      "count": 6
+    },
+    {
+      "term": "理を含む",
+      "count": 5
+    },
+    {
+      "term": "保守",
+      "count": 5
+    },
+    {
+      "term": "キュ",
+      "count": 5
+    },
+    {
+      "term": "よっ",
+      "count": 5
+    },
+    {
+      "term": "がっ",
+      "count": 5
+    },
+    {
+      "term": "はあ",
+      "count": 5
+    },
+    {
+      "term": "る主",
+      "count": 5
+    },
+    {
       "term": "物を",
-      "count": 6
+      "count": 5
     },
     {
-      "term": "フト",
-      "count": 6
+      "term": "アカ",
+      "count": 5
     },
     {
-      "term": "要がある",
-      "count": 6
+      "term": "となる",
+      "count": 5
     },
     {
-      "term": "カウ",
-      "count": 6
-    },
-    {
-      "term": "ル ",
-      "count": 6
-    },
-    {
-      "term": "な対",
-      "count": 6
-    },
-    {
-      "term": "の利",
-      "count": 6
-    },
-    {
-      "term": "の連",
-      "count": 6
-    },
-    {
-      "term": "ズで",
-      "count": 6
-    },
-    {
-      "term": "される",
-      "count": 6
-    },
-    {
-      "term": "る必",
-      "count": 6
-    },
-    {
-      "term": "ref",
-      "count": 6
-    },
-    {
-      "term": "steps",
-      "count": 6
-    },
-    {
-      "term": "file",
-      "count": 6
+      "term": "境の",
+      "count": 5
     }
   ],
   "meetings": [
