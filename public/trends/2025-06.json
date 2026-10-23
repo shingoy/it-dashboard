@@ -2,63 +2,67 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "github",
-      "count": 26
+      "term": "れる",
+      "count": 23
     },
     {
-      "term": "こと",
-      "count": 25
+      "term": "ビル",
+      "count": 19
     },
     {
-      "term": "るこ",
-      "count": 24
+      "term": "設定",
+      "count": 19
     },
     {
-      "term": "利用",
-      "count": 21
+      "term": "デー",
+      "count": 17
     },
     {
-      "term": "パイ",
-      "count": 21
-    },
-    {
-      "term": "成果",
-      "count": 20
-    },
-    {
-      "term": "いる",
-      "count": 20
-    },
-    {
-      "term": "トリ",
-      "count": 18
-    },
-    {
-      "term": "ムの",
+      "term": "弱性",
       "count": 15
     },
     {
-      "term": "スチ",
-      "count": 14
+      "term": "ーク",
+      "count": 15
     },
     {
-      "term": "情報",
+      "term": "実行",
+      "count": 15
+    },
+    {
+      "term": "果物",
+      "count": 15
+    },
+    {
+      "term": "コン",
+      "count": 15
+    },
+    {
+      "term": "って",
+      "count": 13
+    },
+    {
+      "term": "workflows",
+      "count": 13
+    },
+    {
+      "term": "ント",
       "count": 12
     },
     {
-      "term": "ソースコ",
+      "term": "レッ",
       "count": 12
     },
     {
-      "term": "cat",
+      "term": "を取",
       "count": 12
     },
     {
-      "term": "につ",
+      "term": "ズの",
       "count": 11
     },
     {
-      "term": "サービス",
+      "term": "上で",
       "count": 11
     },
     {
@@ -66,39 +70,47 @@
       "count": 11
     },
     {
-      "term": "のた",
+      "term": "テナ",
+      "count": 11
+    },
+    {
+      "term": "ブラ",
       "count": 10
     },
     {
-      "term": "セス",
+      "term": "具体",
       "count": 10
     },
     {
-      "term": "ウェ",
+      "term": "成果物の",
+      "count": 10
+    },
+    {
+      "term": "イメージ",
+      "count": 10
+    },
+    {
+      "term": "含む",
       "count": 9
     },
     {
-      "term": "そのため",
+      "term": "の担",
       "count": 9
     },
     {
-      "term": "それ",
+      "term": "成さ",
       "count": 9
     },
     {
-      "term": "メタ",
+      "term": "ては",
       "count": 9
     },
     {
-      "term": "を含",
-      "count": 8
+      "term": "とい",
+      "count": 9
     },
     {
-      "term": "スト",
-      "count": 8
-    },
-    {
-      "term": "チェ",
+      "term": "での実行",
       "count": 8
     },
     {
@@ -106,35 +118,35 @@
       "count": 8
     },
     {
-      "term": "システム",
+      "term": "とし",
+      "count": 8
+    },
+    {
+      "term": "with",
+      "count": 8
+    },
+    {
+      "term": "示す",
       "count": 7
     },
     {
-      "term": "ズの",
+      "term": "関す",
       "count": 7
     },
     {
-      "term": "リポ",
+      "term": "組織",
       "count": 7
     },
     {
-      "term": "17",
+      "term": "デリバリ",
       "count": 7
     },
     {
-      "term": "内の",
+      "term": "ここ",
       "count": 7
     },
     {
-      "term": "特有",
-      "count": 7
-    },
-    {
-      "term": "が ",
-      "count": 7
-    },
-    {
-      "term": "事項",
+      "term": "い ",
       "count": 7
     },
     {
@@ -142,63 +154,51 @@
       "count": 7
     },
     {
-      "term": "ークレッ",
+      "term": "ンバ",
       "count": 7
     },
     {
-      "term": "チの",
+      "term": "を実",
+      "count": 7
+    },
+    {
+      "term": "ド設",
+      "count": 7
+    },
+    {
+      "term": "latest",
+      "count": 7
+    },
+    {
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "の漏",
+      "term": "の漏洩対",
       "count": 6
     },
     {
-      "term": "の確",
+      "term": "開発",
       "count": 6
     },
     {
-      "term": "メン",
+      "term": "リ時",
       "count": 6
     },
     {
-      "term": "信頼",
+      "term": "24",
       "count": 6
     },
     {
-      "term": "した",
+      "term": "高い",
       "count": 6
     },
     {
-      "term": "ロバ",
+      "term": "サービス",
       "count": 6
     },
     {
-      "term": "ジと",
-      "count": 6
-    },
-    {
-      "term": "方法",
-      "count": 6
-    },
-    {
-      "term": "クト",
-      "count": 6
-    },
-    {
-      "term": "保で",
-      "count": 6
-    },
-    {
-      "term": "https",
-      "count": 6
-    },
-    {
-      "term": "から",
-      "count": 6
-    },
-    {
-      "term": "ても",
+      "term": "ンテナイ",
       "count": 6
     }
   ],
