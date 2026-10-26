@@ -2,47 +2,67 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "係る",
+      "term": "にお",
+      "count": 23
+    },
+    {
+      "term": "つい",
+      "count": 22
+    },
+    {
+      "term": "シス",
+      "count": 22
+    },
+    {
+      "term": "とし",
       "count": 21
     },
     {
-      "term": "推進",
+      "term": "る ",
       "count": 19
     },
     {
-      "term": "化に",
-      "count": 19
+      "term": "年度",
+      "count": 18
     },
     {
-      "term": "るこ",
-      "count": 19
+      "term": "まえ",
+      "count": 17
     },
     {
-      "term": "る国",
+      "term": "スの",
       "count": 15
     },
     {
-      "term": "国民",
+      "term": "について",
       "count": 15
     },
     {
-      "term": "るも",
+      "term": "でき",
+      "count": 15
+    },
+    {
+      "term": "11",
+      "count": 15
+    },
+    {
+      "term": "ル行",
       "count": 14
     },
     {
-      "term": "申請",
-      "count": 14
-    },
-    {
-      "term": "タを",
-      "count": 14
-    },
-    {
-      "term": "営の",
+      "term": "し ",
       "count": 13
     },
     {
-      "term": "12",
+      "term": "行政推進",
+      "count": 13
+    },
+    {
+      "term": "条第",
+      "count": 12
+    },
+    {
+      "term": "報デ",
       "count": 11
     },
     {
@@ -50,95 +70,59 @@
       "count": 11
     },
     {
-      "term": "ムを",
+      "term": "運営の効",
       "count": 10
     },
     {
-      "term": "にも",
+      "term": "進 ",
+      "count": 10
+    },
+    {
+      "term": "番号",
       "count": 9
     },
     {
-      "term": "ロハ",
+      "term": "添付",
       "count": 9
     },
     {
-      "term": "との",
+      "term": "を提",
       "count": 9
     },
     {
-      "term": "び改",
+      "term": "とが",
       "count": 8
     },
     {
-      "term": "不動産ベ",
+      "term": "ースの利",
       "count": 8
     },
     {
-      "term": "割 ",
+      "term": "文字",
       "count": 8
     },
     {
-      "term": "タベース",
+      "term": "のう",
       "count": 8
     },
     {
-      "term": "タに",
-      "count": 8
-    },
-    {
-      "term": "総合",
-      "count": 8
-    },
-    {
-      "term": "用者",
-      "count": 8
-    },
-    {
-      "term": "所在地関",
+      "term": "ベー",
       "count": 7
     },
     {
-      "term": "果の",
+      "term": "要が",
       "count": 7
     },
     {
-      "term": "的に",
+      "term": "年で",
       "count": 7
     },
     {
-      "term": "用 ",
+      "term": "とな",
       "count": 7
     },
     {
-      "term": "明書",
-      "count": 7
-    },
-    {
-      "term": "ら ",
-      "count": 7
-    },
-    {
-      "term": "ニホ",
-      "count": 7
-    },
-    {
-      "term": "関 ",
-      "count": 7
-    },
-    {
-      "term": "請項",
-      "count": 7
-    },
-    {
-      "term": "の入",
-      "count": 7
-    },
-    {
-      "term": "た登",
-      "count": 7
-    },
-    {
-      "term": "下の",
+      "term": "務の",
       "count": 7
     },
     {
@@ -146,11 +130,7 @@
       "count": 6
     },
     {
-      "term": "の他",
-      "count": 6
-    },
-    {
-      "term": "確保",
+      "term": "及び改善",
       "count": 6
     },
     {
@@ -158,47 +138,67 @@
       "count": 6
     },
     {
-      "term": "22",
+      "term": "を促",
       "count": 6
     },
     {
-      "term": "針を",
+      "term": "費用",
       "count": 6
     },
     {
-      "term": "報等",
+      "term": "度ま",
       "count": 6
     },
     {
-      "term": "所を",
+      "term": "対し",
       "count": 6
     },
     {
-      "term": "の次",
+      "term": "制度所管",
       "count": 6
     },
     {
-      "term": "ムか",
+      "term": "報提",
       "count": 6
     },
     {
-      "term": "法第",
+      "term": "含む",
       "count": 6
     },
     {
-      "term": "ータ",
+      "term": "管省",
       "count": 5
     },
     {
-      "term": "構成",
+      "term": "独立",
       "count": 5
     },
     {
-      "term": "年３",
+      "term": "政府全体",
       "count": 5
     },
     {
-      "term": "組み",
+      "term": "組を",
+      "count": 5
+    },
+    {
+      "term": "一定",
+      "count": 5
+    },
+    {
+      "term": "機関等",
+      "count": 5
+    },
+    {
+      "term": "象と",
+      "count": 5
+    },
+    {
+      "term": "ムで",
+      "count": 5
+    },
+    {
+      "term": "討し",
       "count": 5
     }
   ],
