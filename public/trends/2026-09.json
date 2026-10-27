@@ -2,59 +2,35 @@
   "month": "2026-09",
   "keywords": [
     {
-      "term": "を記",
-      "count": 2
-    },
-    {
       "term": "能基",
       "count": 2
     },
     {
-      "term": "モデ",
+      "term": "厚労",
       "count": 2
     },
     {
-      "term": "トランス",
+      "term": "経産省",
       "count": 2
     },
     {
-      "term": "安全",
+      "term": "事項",
       "count": 2
     },
     {
-      "term": "係が",
+      "term": "策は",
       "count": 2
     },
     {
-      "term": "にお",
+      "term": "捨五",
       "count": 2
     },
     {
-      "term": "年度",
+      "term": "ィカ",
       "count": 2
     },
     {
-      "term": "や日",
-      "count": 2
-    },
-    {
-      "term": "とし",
-      "count": 2
-    },
-    {
-      "term": "人工",
-      "count": 2
-    },
-    {
-      "term": "な施",
-      "count": 2
-    },
-    {
-      "term": "期人工知",
-      "count": 2
-    },
-    {
-      "term": "開発",
+      "term": "方針",
       "count": 2
     },
     {
@@ -62,119 +38,19 @@
       "count": 2
     },
     {
-      "term": "でき",
+      "term": "に分",
       "count": 2
     },
     {
-      "term": "政府全体",
+      "term": "予算総額",
+      "count": 2
+    },
+    {
+      "term": "体的",
       "count": 1
     },
     {
-      "term": "の４",
-      "count": 1
-    },
-    {
-      "term": "会を",
-      "count": 1
-    },
-    {
-      "term": "つい",
-      "count": 1
-    },
-    {
-      "term": "バメ",
-      "count": 1
-    },
-    {
-      "term": "を促",
-      "count": 1
-    },
-    {
-      "term": "象と",
-      "count": 1
-    },
-    {
-      "term": "の構築",
-      "count": 1
-    },
-    {
-      "term": "入開",
-      "count": 1
-    },
-    {
-      "term": "の支",
-      "count": 1
-    },
-    {
-      "term": "教職員向",
-      "count": 1
-    },
-    {
-      "term": "用環",
-      "count": 1
-    },
-    {
-      "term": "社会に向",
-      "count": 1
-    },
-    {
-      "term": "装を",
-      "count": 1
-    },
-    {
-      "term": "的強",
-      "count": 1
-    },
-    {
-      "term": "信頼でき",
-      "count": 1
-    },
-    {
-      "term": "開発利用",
-      "count": 1
-    },
-    {
-      "term": "チモ",
-      "count": 1
-    },
-    {
-      "term": "求ほ",
-      "count": 1
-    },
-    {
-      "term": "求 ",
-      "count": 1
-    },
-    {
-      "term": "円ほ",
-      "count": 1
-    },
-    {
-      "term": "スの",
-      "count": 1
-    },
-    {
-      "term": "トａ",
-      "count": 1
-    },
-    {
-      "term": "域企",
-      "count": 1
-    },
-    {
-      "term": "ーセ",
-      "count": 1
-    },
-    {
-      "term": "で実",
-      "count": 1
-    },
-    {
-      "term": "進新",
-      "count": 1
-    },
-    {
-      "term": "約2",
+      "term": "国交",
       "count": 1
     },
     {
@@ -182,11 +58,111 @@
       "count": 1
     },
     {
-      "term": "の社会実",
+      "term": "供ｄ",
       "count": 1
     },
     {
-      "term": "使う",
+      "term": "題解",
+      "count": 1
+    },
+    {
+      "term": "746",
+      "count": 1
+    },
+    {
+      "term": "連する主",
+      "count": 1
+    },
+    {
+      "term": "えた",
+      "count": 1
+    },
+    {
+      "term": "の促進",
+      "count": 1
+    },
+    {
+      "term": "務省",
+      "count": 1
+    },
+    {
+      "term": "いて",
+      "count": 1
+    },
+    {
+      "term": "for",
+      "count": 1
+    },
+    {
+      "term": "で実",
+      "count": 1
+    },
+    {
+      "term": "治体",
+      "count": 1
+    },
+    {
+      "term": "頼で",
+      "count": 1
+    },
+    {
+      "term": "境整",
+      "count": 1
+    },
+    {
+      "term": "内閣官房",
+      "count": 1
+    },
+    {
+      "term": "核拠点",
+      "count": 1
+    },
+    {
+      "term": "的変革",
+      "count": 1
+    },
+    {
+      "term": "防衛省",
+      "count": 1
+    },
+    {
+      "term": "高度",
+      "count": 1
+    },
+    {
+      "term": "要求につ",
+      "count": 1
+    },
+    {
+      "term": "域企",
+      "count": 1
+    },
+    {
+      "term": "の追",
+      "count": 1
+    },
+    {
+      "term": "総務省",
+      "count": 1
+    },
+    {
+      "term": "出 ",
+      "count": 1
+    },
+    {
+      "term": "用の",
+      "count": 1
+    },
+    {
+      "term": "府主",
+      "count": 1
+    },
+    {
+      "term": "マナ",
+      "count": 1
+    },
+    {
+      "term": "ィ対",
       "count": 1
     },
     {
@@ -194,11 +170,35 @@
       "count": 1
     },
     {
-      "term": "責任",
+      "term": "通信基盤",
       "count": 1
     },
     {
-      "term": "イバ",
+      "term": "体で",
+      "count": 1
+    },
+    {
+      "term": "パッ",
+      "count": 1
+    },
+    {
+      "term": "の加",
+      "count": 1
+    },
+    {
+      "term": "グラムの",
+      "count": 1
+    },
+    {
+      "term": "見据",
+      "count": 1
+    },
+    {
+      "term": "たａ",
+      "count": 1
+    },
+    {
+      "term": "ティカル",
       "count": 1
     }
   ],
