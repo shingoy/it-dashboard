@@ -2,203 +2,203 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "る ",
-      "count": 28
-    },
-    {
       "term": "して",
-      "count": 24
-    },
-    {
-      "term": "デー",
-      "count": 17
+      "count": 27
     },
     {
       "term": "では",
+      "count": 19
+    },
+    {
+      "term": "サー",
+      "count": 17
+    },
+    {
+      "term": "ォー",
       "count": 16
     },
     {
-      "term": "よび",
+      "term": "パイプラ",
+      "count": 16
+    },
+    {
+      "term": "フェ",
       "count": 15
     },
     {
-      "term": "また",
+      "term": "への",
       "count": 15
     },
     {
-      "term": "ファ",
-      "count": 15
-    },
-    {
-      "term": "であ",
-      "count": 15
-    },
-    {
-      "term": "なる",
-      "count": 15
-    },
-    {
-      "term": "いて",
-      "count": 14
-    },
-    {
-      "term": "ツー",
-      "count": 14
-    },
-    {
-      "term": "体的",
+      "term": "コー",
       "count": 13
-    },
-    {
-      "term": "ンを",
-      "count": 13
-    },
-    {
-      "term": "トの",
-      "count": 12
     },
     {
       "term": "的に",
+      "count": 13
+    },
+    {
+      "term": "おけ",
       "count": 12
     },
     {
-      "term": "可能",
+      "term": "レッ",
       "count": 12
     },
     {
-      "term": "フォ",
+      "term": "ける",
+      "count": 12
+    },
+    {
+      "term": "プラット",
       "count": 11
     },
     {
-      "term": "の成",
+      "term": "取得",
       "count": 11
     },
     {
-      "term": "https",
-      "count": 11
-    },
-    {
-      "term": "ンチ",
+      "term": "ン ",
       "count": 10
     },
     {
-      "term": "成果",
+      "term": "の実",
       "count": 10
     },
     {
-      "term": "加え",
+      "term": "build",
       "count": 10
     },
     {
-      "term": "性管",
+      "term": "ポジ",
       "count": 9
     },
     {
-      "term": "ステ",
+      "term": "ている",
       "count": 9
     },
     {
-      "term": "フォーム",
+      "term": "成さ",
       "count": 9
     },
     {
-      "term": "より",
+      "term": "権限",
       "count": 9
     },
     {
-      "term": "のア",
+      "term": "trivy",
       "count": 9
     },
     {
-      "term": "での実行",
+      "term": "メタデー",
       "count": 8
     },
     {
-      "term": "有の",
+      "term": "強制",
       "count": 8
     },
     {
-      "term": "ャン",
+      "term": "えら",
       "count": 8
     },
     {
-      "term": "作成",
-      "count": 8
-    },
-    {
-      "term": "セス",
-      "count": 8
-    },
-    {
-      "term": "デリバリ",
+      "term": "資産",
       "count": 7
     },
     {
-      "term": "の仕",
+      "term": "報の",
       "count": 7
     },
     {
-      "term": "定義",
+      "term": "キー",
       "count": 7
     },
     {
-      "term": "事項",
+      "term": "ーカ",
       "count": 7
     },
     {
-      "term": "とは",
+      "term": "はc",
       "count": 7
     },
     {
-      "term": "ンに",
+      "term": "るま",
+      "count": 7
+    },
+    {
+      "term": "すべ",
+      "count": 7
+    },
+    {
+      "term": "主体",
+      "count": 7
+    },
+    {
+      "term": "ると",
+      "count": 7
+    },
+    {
+      "term": "仕組",
+      "count": 7
+    },
+    {
+      "term": "キュ",
       "count": 6
     },
     {
-      "term": "リテ",
+      "term": "ュリ",
       "count": 6
     },
     {
-      "term": "の保護",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "頼で",
+      "term": "codebuild",
       "count": 6
     },
     {
-      "term": "スト",
+      "term": "たt",
       "count": 6
     },
     {
-      "term": "ウン",
+      "term": "にて",
       "count": 6
     },
     {
-      "term": "要がある",
+      "term": "secrets",
       "count": 6
     },
     {
-      "term": "方法",
+      "term": "はg",
       "count": 6
     },
     {
-      "term": "るよ",
+      "term": "どの",
       "count": 6
     },
     {
-      "term": "保守",
+      "term": "tf",
+      "count": 6
+    },
+    {
+      "term": "られ",
+      "count": 6
+    },
+    {
+      "term": "えて",
+      "count": 6
+    },
+    {
+      "term": "ド設",
+      "count": 6
+    },
+    {
+      "term": "た信",
       "count": 5
     },
     {
-      "term": "む運",
-      "count": 5
-    },
-    {
-      "term": "の証",
-      "count": 5
-    },
-    {
-      "term": "ロー",
+      "term": "信頼でき",
       "count": 5
     }
   ],
