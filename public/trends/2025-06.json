@@ -2,195 +2,175 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "てい",
-      "count": 20
+      "term": "るこ",
+      "count": 23
     },
     {
-      "term": "設定",
-      "count": 18
+      "term": "その",
+      "count": 21
     },
     {
-      "term": "ォー",
+      "term": "よう",
       "count": 15
-    },
-    {
-      "term": "なる",
-      "count": 15
-    },
-    {
-      "term": "リポジト",
-      "count": 15
-    },
-    {
-      "term": "ルを",
-      "count": 14
-    },
-    {
-      "term": "の成",
-      "count": 13
-    },
-    {
-      "term": "確認",
-      "count": 13
-    },
-    {
-      "term": "中略",
-      "count": 13
-    },
-    {
-      "term": "ラッ",
-      "count": 12
-    },
-    {
-      "term": "の安",
-      "count": 12
-    },
-    {
-      "term": "ファイル",
-      "count": 12
-    },
-    {
-      "term": "状態",
-      "count": 11
-    },
-    {
-      "term": "る図",
-      "count": 11
     },
     {
       "term": "る必",
+      "count": 14
+    },
+    {
+      "term": "この",
+      "count": 14
+    },
+    {
+      "term": "デー",
+      "count": 13
+    },
+    {
+      "term": "github",
+      "count": 12
+    },
+    {
+      "term": "ティ",
       "count": 11
     },
     {
-      "term": "push",
+      "term": "コー",
       "count": 11
     },
     {
-      "term": "workflows",
+      "term": "って",
       "count": 11
     },
     {
-      "term": "ビルドフ",
-      "count": 10
-    },
-    {
-      "term": "の信",
-      "count": 10
-    },
-    {
-      "term": "いた",
-      "count": 10
-    },
-    {
-      "term": "のリ",
-      "count": 9
-    },
-    {
-      "term": "る具",
-      "count": 9
-    },
-    {
-      "term": "及び",
-      "count": 8
-    },
-    {
-      "term": "管理",
-      "count": 8
-    },
-    {
-      "term": "物を",
-      "count": 8
-    },
-    {
-      "term": "バイ",
-      "count": 8
-    },
-    {
-      "term": "下の",
-      "count": 8
-    },
-    {
-      "term": "docker",
-      "count": 8
-    },
-    {
-      "term": "通し",
-      "count": 7
-    },
-    {
-      "term": "用い",
-      "count": 7
-    },
-    {
-      "term": "安全",
-      "count": 7
-    },
-    {
-      "term": "ムチーム",
-      "count": 7
-    },
-    {
-      "term": "にす",
-      "count": 7
+      "term": "10",
+      "count": 11
     },
     {
       "term": "ファ",
-      "count": 7
+      "count": 10
     },
     {
-      "term": "要と",
-      "count": 7
+      "term": "を取",
+      "count": 10
     },
     {
-      "term": "成 ",
-      "count": 6
+      "term": "provenance",
+      "count": 10
     },
     {
-      "term": "を示",
-      "count": 6
+      "term": "on",
+      "count": 10
     },
     {
-      "term": "高い",
-      "count": 6
+      "term": "策 ",
+      "count": 9
     },
     {
-      "term": "ンの",
-      "count": 6
+      "term": "脆弱性管",
+      "count": 9
+    },
+    {
+      "term": "確保",
+      "count": 9
     },
     {
       "term": "の担",
+      "count": 9
+    },
+    {
+      "term": "ムが",
+      "count": 9
+    },
+    {
+      "term": "いた",
+      "count": 9
+    },
+    {
+      "term": "テム",
+      "count": 8
+    },
+    {
+      "term": "的な",
+      "count": 8
+    },
+    {
+      "term": "範囲の制",
+      "count": 8
+    },
+    {
+      "term": "17",
+      "count": 7
+    },
+    {
+      "term": "あり",
+      "count": 7
+    },
+    {
+      "term": "ルに",
+      "count": 7
+    },
+    {
+      "term": "仕組",
+      "count": 7
+    },
+    {
+      "term": "latest",
+      "count": 7
+    },
+    {
+      "term": "ットの保",
       "count": 6
     },
     {
-      "term": "ウン",
+      "term": "ォー",
       "count": 6
     },
     {
-      "term": "はプ",
+      "term": "プロバイ",
       "count": 6
     },
     {
-      "term": "ジの",
+      "term": "スを",
       "count": 6
     },
     {
-      "term": "次に",
+      "term": "カウ",
       "count": 6
     },
     {
-      "term": "影響",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "ール",
+      "term": "の署",
       "count": 6
     },
     {
-      "term": "る ",
+      "term": "方法",
       "count": 6
     },
     {
-      "term": "ークレッ",
+      "term": "の変",
+      "count": 6
+    },
+    {
+      "term": "のレ",
+      "count": 6
+    },
+    {
+      "term": "とも",
+      "count": 6
+    },
+    {
+      "term": "ビュ",
+      "count": 6
+    },
+    {
+      "term": "steps",
+      "count": 6
+    },
+    {
+      "term": "high",
       "count": 6
     },
     {
@@ -198,7 +178,27 @@
       "count": 6
     },
     {
-      "term": "用保",
+      "term": "predicate",
+      "count": 6
+    },
+    {
+      "term": "とに",
+      "count": 5
+    },
+    {
+      "term": "よび",
+      "count": 5
+    },
+    {
+      "term": "26",
+      "count": 5
+    },
+    {
+      "term": "うい",
+      "count": 5
+    },
+    {
+      "term": "の成果物",
       "count": 5
     }
   ],
