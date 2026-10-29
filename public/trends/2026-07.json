@@ -2,71 +2,79 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "テム",
+      "term": "ース",
+      "count": 26
+    },
+    {
+      "term": "政機",
       "count": 22
     },
     {
-      "term": "ジス",
-      "count": 21
+      "term": "して",
+      "count": 20
     },
     {
-      "term": "るこ",
+      "term": "こと",
+      "count": 20
+    },
+    {
+      "term": "向上",
       "count": 19
     },
     {
-      "term": "係デ",
-      "count": 18
+      "term": "れる",
+      "count": 16
     },
     {
-      "term": "性向",
-      "count": 17
-    },
-    {
-      "term": "について",
-      "count": 15
-    },
-    {
-      "term": "産登",
-      "count": 15
-    },
-    {
-      "term": "その",
+      "term": "報に",
       "count": 14
     },
     {
-      "term": "国の",
+      "term": "の省",
       "count": 14
     },
     {
-      "term": "課題",
+      "term": "れて",
+      "count": 14
+    },
+    {
+      "term": "添付",
       "count": 13
     },
     {
-      "term": "とに",
+      "term": "対応",
       "count": 13
     },
     {
-      "term": "化を",
+      "term": "に ",
       "count": 13
     },
     {
-      "term": "報デ",
+      "term": "確認",
       "count": 12
     },
     {
-      "term": "便性向上",
-      "count": 12
-    },
-    {
-      "term": "項目",
+      "term": "面の",
       "count": 11
     },
     {
-      "term": "10",
+      "term": "産ベ",
+      "count": 11
+    },
+    {
+      "term": "シス",
+      "count": 11
+    },
+    {
+      "term": "とを",
+      "count": 11
+    },
+    {
+      "term": "随時",
       "count": 10
     },
     {
-      "term": "とも",
+      "term": "では",
       "count": 10
     },
     {
@@ -74,131 +82,123 @@
       "count": 10
     },
     {
-      "term": "スケ",
+      "term": "との",
       "count": 9
     },
     {
-      "term": "正確",
+      "term": "を目",
       "count": 9
     },
     {
-      "term": "現在",
+      "term": "るため",
       "count": 9
     },
     {
-      "term": "個別",
+      "term": "おり",
       "count": 9
     },
     {
-      "term": "データを",
-      "count": 9
-    },
-    {
-      "term": "不動産ベ",
+      "term": "検討",
       "count": 8
     },
     {
-      "term": "等が",
+      "term": "基礎情報",
       "count": 8
     },
     {
-      "term": "に関する",
+      "term": "処理",
       "count": 8
     },
     {
-      "term": "続に",
+      "term": "別紙",
       "count": 8
     },
     {
-      "term": "iii",
+      "term": "続等",
       "count": 8
     },
     {
-      "term": "力の",
+      "term": "記事",
       "count": 8
     },
     {
-      "term": "うち",
+      "term": "上及",
       "count": 8
     },
     {
-      "term": "期間",
+      "term": "用促",
       "count": 7
     },
     {
-      "term": "の課",
+      "term": "ケー",
       "count": 7
     },
     {
-      "term": "デー",
+      "term": "れた",
       "count": 7
     },
     {
-      "term": "17",
+      "term": "の入力の",
       "count": 7
     },
     {
-      "term": "の手",
+      "term": "api",
       "count": 7
-    },
-    {
-      "term": "の他",
-      "count": 6
-    },
-    {
-      "term": "針を",
-      "count": 6
-    },
-    {
-      "term": "地図情報",
-      "count": 6
-    },
-    {
-      "term": "民が",
-      "count": 6
-    },
-    {
-      "term": "のシステ",
-      "count": 6
-    },
-    {
-      "term": "報等",
-      "count": 6
     },
     {
       "term": "年度以降",
       "count": 6
     },
     {
-      "term": "び改",
+      "term": "情報の提",
       "count": 6
     },
     {
-      "term": "踏ま",
+      "term": "針 ",
       "count": 6
     },
     {
-      "term": "所在地情",
+      "term": "ーズ",
       "count": 6
     },
     {
-      "term": "よう",
+      "term": "を促",
       "count": 6
     },
     {
-      "term": "所を",
+      "term": "年法律第",
       "count": 6
     },
     {
-      "term": "和６",
+      "term": "庁が",
       "count": 6
     },
     {
-      "term": "る法",
-      "count": 6
+      "term": "が適",
+      "count": 5
     },
     {
-      "term": "仕組",
+      "term": "タセ",
+      "count": 5
+    },
+    {
+      "term": "台帳",
+      "count": 5
+    },
+    {
+      "term": "ム ",
+      "count": 5
+    },
+    {
+      "term": "がら",
+      "count": 5
+    },
+    {
+      "term": "紙１",
+      "count": 5
+    },
+    {
+      "term": "民間",
       "count": 5
     }
   ],
