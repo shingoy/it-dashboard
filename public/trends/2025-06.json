@@ -2,123 +2,107 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "でき",
-      "count": 23
+      "term": "パイ",
+      "count": 21
     },
     {
-      "term": "した",
-      "count": 19
+      "term": "成果",
+      "count": 20
     },
     {
-      "term": "ない",
-      "count": 17
+      "term": "ファ",
+      "count": 20
     },
     {
-      "term": "であ",
+      "term": "実行",
       "count": 16
     },
     {
-      "term": "的な",
+      "term": "弱性",
+      "count": 15
+    },
+    {
+      "term": "トフ",
+      "count": 15
+    },
+    {
+      "term": "ルド",
+      "count": 15
+    },
+    {
+      "term": "署名",
       "count": 14
     },
     {
-      "term": "プロ",
+      "term": "この",
       "count": 14
     },
     {
-      "term": "また",
-      "count": 14
-    },
-    {
-      "term": "なる",
-      "count": 14
-    },
-    {
-      "term": "中略",
-      "count": 14
-    },
-    {
-      "term": "にお",
+      "term": "よる",
       "count": 13
     },
     {
-      "term": "用す",
+      "term": "フェ",
       "count": 13
     },
     {
-      "term": "場合",
-      "count": 13
-    },
-    {
-      "term": "ント",
+      "term": "メー",
       "count": 12
     },
     {
-      "term": "対策",
+      "term": "メタ",
       "count": 12
     },
     {
-      "term": "サー",
-      "count": 12
-    },
-    {
-      "term": "のメ",
-      "count": 12
-    },
-    {
-      "term": "よう",
-      "count": 12
-    },
-    {
-      "term": "チームの",
+      "term": "レッ",
       "count": 11
     },
     {
-      "term": "ラッ",
+      "term": "護 ",
       "count": 11
     },
     {
-      "term": "terraform",
+      "term": "考え",
       "count": 11
     },
     {
-      "term": "tf",
+      "term": "の設",
+      "count": 11
+    },
+    {
+      "term": "クレ",
       "count": 10
     },
     {
-      "term": "性管",
+      "term": "ポジ",
+      "count": 10
+    },
+    {
+      "term": "to",
+      "count": 10
+    },
+    {
+      "term": "いっ",
       "count": 9
     },
     {
-      "term": "範囲",
-      "count": 9
-    },
-    {
-      "term": "シークレ",
+      "term": "確保",
       "count": 8
     },
     {
-      "term": "ci",
+      "term": "にも",
       "count": 8
     },
     {
-      "term": "ソー",
+      "term": "リバ",
       "count": 8
     },
     {
-      "term": "性が",
+      "term": "アク",
       "count": 8
     },
     {
-      "term": "スク",
-      "count": 8
-    },
-    {
-      "term": "docker",
-      "count": 8
-    },
-    {
-      "term": "もの",
+      "term": "のリ",
       "count": 7
     },
     {
@@ -126,80 +110,96 @@
       "count": 7
     },
     {
-      "term": "type",
+      "term": "省略",
       "count": 7
     },
     {
-      "term": "の漏洩対",
+      "term": "ルに",
+      "count": 7
+    },
+    {
+      "term": "name",
+      "count": 7
+    },
+    {
+      "term": "の対",
+      "count": 7
+    },
+    {
+      "term": "ット情報",
       "count": 6
     },
     {
-      "term": "具体的な",
+      "term": "ショ",
       "count": 6
     },
     {
-      "term": "ート",
+      "term": "報の",
       "count": 6
     },
     {
-      "term": "フォーム",
+      "term": "ス ",
       "count": 6
     },
     {
-      "term": "レッ",
+      "term": "供す",
       "count": 6
     },
     {
-      "term": "ジト",
+      "term": "な対",
       "count": 6
     },
     {
-      "term": "ージ",
+      "term": "secrets",
       "count": 6
     },
     {
-      "term": "たt",
+      "term": "とも",
       "count": 6
     },
     {
-      "term": "にて",
+      "term": "を必",
       "count": 6
     },
     {
-      "term": "ここでは",
+      "term": "tf",
       "count": 6
     },
     {
-      "term": "スチ",
-      "count": 6
+      "term": "ト ",
+      "count": 5
     },
     {
-      "term": "取り",
-      "count": 6
+      "term": "シナ",
+      "count": 5
     },
     {
-      "term": "の事",
-      "count": 6
+      "term": "って",
+      "count": 5
     },
     {
-      "term": "ズで",
-      "count": 6
+      "term": "ロー",
+      "count": 5
     },
     {
-      "term": "review",
-      "count": 6
+      "term": "した",
+      "count": 5
     },
     {
-      "term": "どの",
-      "count": 6
+      "term": "ン特",
+      "count": 5
     },
     {
-      "term": "セス",
-      "count": 6
+      "term": "ビルド上",
+      "count": 5
     },
     {
-      "term": "る ",
-      "count": 6
+      "term": "で ",
+      "count": 5
+    },
+    {
+      "term": "実現",
+      "count": 5
     }
   ],
   "meetings": [
