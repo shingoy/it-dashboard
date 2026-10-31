@@ -2,43 +2,31 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ーム",
-      "count": 18
+      "term": "でき",
+      "count": 23
     },
     {
-      "term": "とし",
-      "count": 18
+      "term": "した",
+      "count": 19
     },
     {
-      "term": "設定",
-      "count": 18
-    },
-    {
-      "term": "これ",
+      "term": "ない",
       "count": 17
     },
     {
-      "term": "実行",
+      "term": "であ",
       "count": 16
     },
     {
-      "term": "よう",
-      "count": 15
-    },
-    {
-      "term": "cat",
-      "count": 15
-    },
-    {
-      "term": "ドフ",
+      "term": "的な",
       "count": 14
     },
     {
-      "term": "ンテ",
+      "term": "プロ",
       "count": 14
     },
     {
-      "term": "があ",
+      "term": "また",
       "count": 14
     },
     {
@@ -46,7 +34,15 @@
       "count": 14
     },
     {
-      "term": "trivy",
+      "term": "中略",
+      "count": 14
+    },
+    {
+      "term": "にお",
+      "count": 13
+    },
+    {
+      "term": "用す",
       "count": 13
     },
     {
@@ -54,123 +50,115 @@
       "count": 13
     },
     {
-      "term": "生成",
-      "count": 13
-    },
-    {
-      "term": "弱性",
+      "term": "ント",
       "count": 12
     },
     {
-      "term": "にお",
+      "term": "対策",
+      "count": 12
+    },
+    {
+      "term": "サー",
+      "count": 12
+    },
+    {
+      "term": "のメ",
+      "count": 12
+    },
+    {
+      "term": "よう",
+      "count": 12
+    },
+    {
+      "term": "チームの",
       "count": 11
     },
     {
-      "term": "上で",
+      "term": "ラッ",
       "count": 11
     },
     {
-      "term": "確保",
+      "term": "terraform",
+      "count": 11
+    },
+    {
+      "term": "tf",
       "count": 10
     },
     {
-      "term": "のc",
-      "count": 10
-    },
-    {
-      "term": "セス",
-      "count": 10
-    },
-    {
-      "term": "リバ",
+      "term": "性管",
       "count": 9
     },
     {
-      "term": "トウ",
+      "term": "範囲",
       "count": 9
     },
     {
-      "term": "シス",
+      "term": "シークレ",
       "count": 8
     },
     {
-      "term": "によ",
+      "term": "ci",
       "count": 8
     },
     {
-      "term": "物を",
+      "term": "ソー",
       "count": 8
     },
     {
-      "term": "らの",
+      "term": "性が",
       "count": 8
     },
     {
-      "term": "to",
+      "term": "スク",
       "count": 8
     },
     {
-      "term": "ト情",
+      "term": "docker",
+      "count": 8
+    },
+    {
+      "term": "もの",
       "count": 7
     },
     {
-      "term": "の漏",
+      "term": "トフォー",
       "count": 7
     },
     {
-      "term": "通し",
+      "term": "type",
       "count": 7
     },
     {
-      "term": "トリ",
-      "count": 7
-    },
-    {
-      "term": "ソフ",
-      "count": 7
-    },
-    {
-      "term": "plan",
-      "count": 7
-    },
-    {
-      "term": "ャン",
-      "count": 7
-    },
-    {
-      "term": "す ",
-      "count": 7
-    },
-    {
-      "term": "的な",
+      "term": "の漏洩対",
       "count": 6
     },
     {
-      "term": "フェ",
+      "term": "具体的な",
       "count": 6
     },
     {
-      "term": "における",
+      "term": "ート",
       "count": 6
     },
     {
-      "term": "バイナリ",
+      "term": "フォーム",
       "count": 6
     },
     {
-      "term": "ダー",
+      "term": "レッ",
       "count": 6
     },
     {
-      "term": "の署",
+      "term": "ジト",
       "count": 6
     },
     {
-      "term": "供す",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "アカ",
+      "term": "たt",
       "count": 6
     },
     {
@@ -178,23 +166,35 @@
       "count": 6
     },
     {
-      "term": "amazon",
+      "term": "ここでは",
       "count": 6
     },
     {
-      "term": "保で",
+      "term": "スチ",
       "count": 6
     },
     {
-      "term": "容を",
+      "term": "取り",
       "count": 6
     },
     {
-      "term": "らな",
+      "term": "の事",
       "count": 6
     },
     {
-      "term": "and",
+      "term": "ズで",
+      "count": 6
+    },
+    {
+      "term": "review",
+      "count": 6
+    },
+    {
+      "term": "どの",
+      "count": 6
+    },
+    {
+      "term": "セス",
       "count": 6
     },
     {
