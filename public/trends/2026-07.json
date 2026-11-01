@@ -2,131 +2,119 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "ベース",
-      "count": 19
+      "term": "タベ",
+      "count": 26
+    },
+    {
+      "term": "つい",
+      "count": 22
+    },
+    {
+      "term": "につ",
+      "count": 22
+    },
+    {
+      "term": "ジタ",
+      "count": 22
     },
     {
       "term": "ス ",
-      "count": 19
-    },
-    {
-      "term": "運営",
-      "count": 19
-    },
-    {
-      "term": "検討",
-      "count": 18
-    },
-    {
-      "term": "制度",
-      "count": 18
-    },
-    {
-      "term": "報を",
-      "count": 17
-    },
-    {
-      "term": "報の",
-      "count": 16
-    },
-    {
-      "term": "を目",
       "count": 15
     },
     {
-      "term": "ル行",
+      "term": "れて",
       "count": 14
     },
     {
-      "term": "省略",
-      "count": 13
+      "term": "タを",
+      "count": 14
     },
     {
-      "term": "進法",
+      "term": "条第",
       "count": 12
     },
     {
-      "term": "行政推進",
-      "count": 12
-    },
-    {
-      "term": "不動",
+      "term": "産ベ",
       "count": 11
     },
     {
-      "term": "項目",
+      "term": "場合",
       "count": 11
     },
     {
-      "term": "期 ",
+      "term": "和1",
+      "count": 11
+    },
+    {
+      "term": "国民の利",
+      "count": 11
+    },
+    {
+      "term": "組 ",
+      "count": 11
+    },
+    {
+      "term": "ット",
       "count": 10
     },
     {
-      "term": "とも",
-      "count": 10
-    },
-    {
-      "term": "を受",
-      "count": 10
-    },
-    {
-      "term": "で ",
-      "count": 10
-    },
-    {
-      "term": "等と",
-      "count": 10
-    },
-    {
-      "term": "関 ",
-      "count": 10
-    },
-    {
-      "term": "にも",
+      "term": "法人登記",
       "count": 9
     },
     {
-      "term": "現在",
+      "term": "及び行政",
       "count": 9
     },
     {
-      "term": "データを",
-      "count": 9
-    },
-    {
-      "term": "供す",
-      "count": 9
-    },
-    {
-      "term": "基本",
+      "term": "公開",
       "count": 8
     },
     {
-      "term": "とこ",
+      "term": "割 ",
       "count": 8
     },
     {
-      "term": "進す",
+      "term": "における",
       "count": 8
     },
     {
-      "term": "実現",
+      "term": "の情",
       "count": 8
     },
     {
-      "term": "の法",
+      "term": "他の",
       "count": 8
     },
     {
-      "term": "た登",
+      "term": "役割",
+      "count": 8
+    },
+    {
+      "term": "添付",
+      "count": 8
+    },
+    {
+      "term": "19",
+      "count": 8
+    },
+    {
+      "term": "iii",
+      "count": 8
+    },
+    {
+      "term": "イロ",
+      "count": 8
+    },
+    {
+      "term": "応を",
+      "count": 8
+    },
+    {
+      "term": "用促",
       "count": 7
     },
     {
-      "term": "法人ベー",
-      "count": 7
-    },
-    {
-      "term": "の手",
+      "term": "以降",
       "count": 7
     },
     {
@@ -134,71 +122,83 @@
       "count": 7
     },
     {
+      "term": "iv",
+      "count": 7
+    },
+    {
+      "term": "針を",
+      "count": 6
+    },
+    {
       "term": "外に",
       "count": 6
     },
     {
-      "term": "の課",
+      "term": "図面",
       "count": 6
     },
     {
-      "term": "を促",
+      "term": "用目",
       "count": 6
     },
     {
-      "term": "地情",
+      "term": "11",
       "count": 6
     },
     {
-      "term": "る場",
+      "term": "標準化に",
       "count": 6
     },
     {
-      "term": "に登",
+      "term": "わえ",
+      "count": 6
+    },
+    {
+      "term": "ーズ",
+      "count": 6
+    },
+    {
+      "term": "よう",
+      "count": 6
+    },
+    {
+      "term": "体で",
+      "count": 6
+    },
+    {
+      "term": "14",
+      "count": 6
+    },
+    {
+      "term": "年度まで",
+      "count": 6
+    },
+    {
+      "term": "完了",
+      "count": 6
+    },
+    {
+      "term": "判所",
+      "count": 6
+    },
+    {
+      "term": "対し",
+      "count": 6
+    },
+    {
+      "term": "庁が",
+      "count": 6
+    },
+    {
+      "term": "タ等",
       "count": 5
     },
     {
-      "term": "合に",
+      "term": "13",
       "count": 5
     },
     {
-      "term": "確保",
-      "count": 5
-    },
-    {
-      "term": "の品",
-      "count": 5
-    },
-    {
-      "term": "の総",
-      "count": 5
-    },
-    {
-      "term": "化に",
-      "count": 5
-    },
-    {
-      "term": "考え",
-      "count": 5
-    },
-    {
-      "term": "実証",
-      "count": 5
-    },
-    {
-      "term": "た行",
-      "count": 5
-    },
-    {
-      "term": "る手",
-      "count": 5
-    },
-    {
-      "term": "管す",
-      "count": 5
-    },
-    {
-      "term": "は一",
+      "term": "るデータ",
       "count": 5
     }
   ],
