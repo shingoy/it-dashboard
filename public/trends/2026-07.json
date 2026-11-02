@@ -2,35 +2,59 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "タベ",
-      "count": 26
+      "term": "いて",
+      "count": 24
     },
     {
-      "term": "つい",
-      "count": 22
+      "term": "令和",
+      "count": 20
     },
     {
-      "term": "につ",
-      "count": 22
+      "term": "にお",
+      "count": 17
     },
     {
-      "term": "ジタ",
-      "count": 22
+      "term": "を踏",
+      "count": 16
     },
     {
-      "term": "ス ",
+      "term": "の整",
+      "count": 16
+    },
+    {
+      "term": "等に",
+      "count": 16
+    },
+    {
+      "term": "るた",
+      "count": 16
+    },
+    {
+      "term": "でき",
       "count": 15
     },
     {
-      "term": "れて",
-      "count": 14
+      "term": "産登",
+      "count": 15
     },
     {
-      "term": "タを",
-      "count": 14
+      "term": "によ",
+      "count": 15
     },
     {
-      "term": "条第",
+      "term": "るデ",
+      "count": 13
+    },
+    {
+      "term": "基礎",
+      "count": 12
+    },
+    {
+      "term": "第２",
+      "count": 12
+    },
+    {
+      "term": "行政機関",
       "count": 12
     },
     {
@@ -38,168 +62,144 @@
       "count": 11
     },
     {
-      "term": "場合",
+      "term": "に基",
       "count": 11
     },
     {
-      "term": "和1",
+      "term": "とは",
       "count": 11
     },
     {
-      "term": "国民の利",
-      "count": 11
-    },
-    {
-      "term": "組 ",
-      "count": 11
-    },
-    {
-      "term": "ット",
+      "term": "具体",
       "count": 10
     },
     {
-      "term": "法人登記",
+      "term": "期 ",
+      "count": 10
+    },
+    {
+      "term": "個別",
+      "count": 10
+    },
+    {
+      "term": "業法",
       "count": 9
     },
     {
-      "term": "及び行政",
+      "term": "進め",
       "count": 9
     },
     {
-      "term": "公開",
+      "term": "を踏まえ",
       "count": 8
     },
     {
-      "term": "割 ",
+      "term": "所有",
       "count": 8
     },
     {
-      "term": "における",
+      "term": "備す",
       "count": 8
+    },
+    {
+      "term": "別の",
+      "count": 8
+    },
+    {
+      "term": "用者",
+      "count": 8
+    },
+    {
+      "term": "様々",
+      "count": 8
+    },
+    {
+      "term": "応策",
+      "count": 7
     },
     {
       "term": "の情",
-      "count": 8
-    },
-    {
-      "term": "他の",
-      "count": 8
-    },
-    {
-      "term": "役割",
-      "count": 8
-    },
-    {
-      "term": "添付",
-      "count": 8
-    },
-    {
-      "term": "19",
-      "count": 8
-    },
-    {
-      "term": "iii",
-      "count": 8
-    },
-    {
-      "term": "イロ",
-      "count": 8
-    },
-    {
-      "term": "応を",
-      "count": 8
-    },
-    {
-      "term": "用促",
       "count": 7
     },
     {
-      "term": "以降",
+      "term": "切替",
       "count": 7
     },
     {
-      "term": "トチ",
+      "term": "達成",
       "count": 7
     },
     {
-      "term": "iv",
+      "term": "負担",
       "count": 7
-    },
-    {
-      "term": "針を",
-      "count": 6
-    },
-    {
-      "term": "外に",
-      "count": 6
-    },
-    {
-      "term": "図面",
-      "count": 6
-    },
-    {
-      "term": "用目",
-      "count": 6
-    },
-    {
-      "term": "11",
-      "count": 6
-    },
-    {
-      "term": "標準化に",
-      "count": 6
-    },
-    {
-      "term": "わえ",
-      "count": 6
-    },
-    {
-      "term": "ーズ",
-      "count": 6
-    },
-    {
-      "term": "よう",
-      "count": 6
-    },
-    {
-      "term": "体で",
-      "count": 6
     },
     {
       "term": "14",
+      "count": 7
+    },
+    {
+      "term": "るま",
+      "count": 7
+    },
+    {
+      "term": "を取",
+      "count": 7
+    },
+    {
+      "term": "用で",
+      "count": 7
+    },
+    {
+      "term": "年で",
+      "count": 7
+    },
+    {
+      "term": "整理",
+      "count": 7
+    },
+    {
+      "term": "に係",
+      "count": 7
+    },
+    {
+      "term": "おい",
+      "count": 7
+    },
+    {
+      "term": "化の",
+      "count": 7
+    },
+    {
+      "term": "れら",
+      "count": 7
+    },
+    {
+      "term": "組み",
       "count": 6
     },
     {
-      "term": "年度まで",
+      "term": "活用",
       "count": 6
     },
     {
-      "term": "完了",
+      "term": "係行",
       "count": 6
     },
     {
-      "term": "判所",
+      "term": "係データ",
       "count": 6
     },
     {
-      "term": "対し",
+      "term": "又は",
       "count": 6
     },
     {
-      "term": "庁が",
+      "term": "体の",
       "count": 6
     },
     {
-      "term": "タ等",
-      "count": 5
-    },
-    {
-      "term": "13",
-      "count": 5
-    },
-    {
-      "term": "るデータ",
-      "count": 5
+      "term": "な行政機",
+      "count": 6
     }
   ],
   "meetings": [
