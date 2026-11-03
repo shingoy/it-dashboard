@@ -2,15 +2,31 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "関す",
+      "term": "する",
       "count": 24
     },
     {
-      "term": "必要",
-      "count": 19
+      "term": "つい",
+      "count": 22
     },
     {
-      "term": "ける",
+      "term": "トリ",
+      "count": 21
+    },
+    {
+      "term": "ある",
+      "count": 17
+    },
+    {
+      "term": "スの",
+      "count": 16
+    },
+    {
+      "term": "れる",
+      "count": 16
+    },
+    {
+      "term": "等の",
       "count": 15
     },
     {
@@ -18,87 +34,103 @@
       "count": 14
     },
     {
-      "term": "不動",
-      "count": 14
+      "term": "所在",
+      "count": 13
     },
     {
-      "term": "るデ",
-      "count": 14
+      "term": "とに",
+      "count": 13
+    },
+    {
+      "term": "し ",
+      "count": 13
     },
     {
       "term": "報シ",
       "count": 13
     },
     {
-      "term": "の確",
+      "term": "便性向上",
+      "count": 12
+    },
+    {
+      "term": "の効",
+      "count": 12
+    },
+    {
+      "term": "データの",
       "count": 11
     },
     {
-      "term": "記関",
+      "term": "ため",
       "count": 11
     },
     {
-      "term": "た上",
+      "term": "関す",
       "count": 11
     },
     {
-      "term": "があ",
-      "count": 11
-    },
-    {
-      "term": "存在",
-      "count": 11
-    },
-    {
-      "term": "データベ",
+      "term": "供を",
       "count": 10
     },
     {
-      "term": "すること",
+      "term": "サー",
       "count": 10
     },
     {
-      "term": "の効率化",
+      "term": "ル行",
       "count": 10
     },
     {
-      "term": "備及",
+      "term": "上及",
+      "count": 10
+    },
+    {
+      "term": "異な",
+      "count": 10
+    },
+    {
+      "term": "に向",
       "count": 9
     },
     {
-      "term": "付書",
+      "term": "ースを利",
       "count": 9
     },
     {
-      "term": "動産",
+      "term": "の標",
       "count": 9
     },
     {
-      "term": "者 ",
+      "term": "と ",
       "count": 9
     },
     {
-      "term": "供す",
+      "term": "を指",
       "count": 9
     },
     {
-      "term": "所在地関",
+      "term": "及び行政",
+      "count": 9
+    },
+    {
+      "term": "計画",
       "count": 8
     },
     {
-      "term": "タに",
+      "term": "リの",
       "count": 8
     },
     {
-      "term": "じて",
+      "term": "ii",
       "count": 8
     },
     {
-      "term": "スケジュ",
+      "term": "ここでい",
       "count": 8
     },
     {
-      "term": "す ",
+      "term": "うち",
       "count": 8
     },
     {
@@ -106,100 +138,68 @@
       "count": 8
     },
     {
-      "term": "務の",
+      "term": "第2",
       "count": 7
     },
     {
-      "term": "めの",
+      "term": "不動産ベ",
       "count": 7
     },
     {
-      "term": "15",
+      "term": "現状",
       "count": 7
     },
     {
-      "term": "果の",
+      "term": "てお",
       "count": 7
     },
     {
-      "term": "るま",
+      "term": "として整",
       "count": 7
     },
     {
-      "term": "つつ",
+      "term": "った",
       "count": 7
     },
     {
-      "term": "ヘト",
-      "count": 7
-    },
-    {
-      "term": "化の",
-      "count": 7
-    },
-    {
-      "term": "るそ",
-      "count": 7
-    },
-    {
-      "term": "利用促進",
+      "term": "後の",
       "count": 6
     },
     {
-      "term": "的基",
+      "term": "な方",
       "count": 6
     },
     {
-      "term": "係行",
+      "term": "期間",
       "count": 6
     },
     {
-      "term": "業法",
+      "term": "針を",
       "count": 6
     },
     {
-      "term": "紙１",
+      "term": "報関",
       "count": 6
     },
     {
-      "term": "えて",
+      "term": "題 ",
       "count": 6
     },
     {
-      "term": "最新",
+      "term": "善に",
       "count": 6
     },
     {
-      "term": "体で",
+      "term": "能な",
       "count": 6
     },
     {
-      "term": "で利",
+      "term": "らか",
       "count": 6
     },
     {
-      "term": "ても",
+      "term": "を促",
       "count": 6
-    },
-    {
-      "term": "台帳",
-      "count": 5
-    },
-    {
-      "term": "確認",
-      "count": 5
-    },
-    {
-      "term": "年３",
-      "count": 5
-    },
-    {
-      "term": "いと",
-      "count": 5
-    },
-    {
-      "term": "保有",
-      "count": 5
     }
   ],
   "meetings": [
