@@ -2,39 +2,47 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "びａ",
+      "term": "大規",
       "count": 2
     },
     {
-      "term": "底ケ",
+      "term": "ョン",
       "count": 2
     },
     {
-      "term": "革新",
+      "term": "の研",
       "count": 2
     },
     {
-      "term": "hpci",
+      "term": "データ",
       "count": 2
     },
     {
-      "term": "の安全性",
+      "term": "大規模オ",
       "count": 2
     },
     {
-      "term": "ジタ",
+      "term": "るａ",
       "count": 2
     },
     {
-      "term": "等の",
+      "term": "内数",
       "count": 2
     },
     {
-      "term": "代情",
+      "term": "の構",
       "count": 2
     },
     {
-      "term": "マン",
+      "term": "ンフ",
+      "count": 2
+    },
+    {
+      "term": "オー",
+      "count": 2
+    },
+    {
+      "term": "の信",
       "count": 2
     },
     {
@@ -42,123 +50,23 @@
       "count": 2
     },
     {
-      "term": "ル ",
+      "term": "性の",
       "count": 2
     },
     {
-      "term": "16",
+      "term": "億円の内",
+      "count": 2
+    },
+    {
+      "term": "の安全性",
+      "count": 2
+    },
+    {
+      "term": "うち",
       "count": 1
     },
     {
-      "term": "載 ",
-      "count": 1
-    },
-    {
-      "term": "た継",
-      "count": 1
-    },
-    {
-      "term": "129",
-      "count": 1
-    },
-    {
-      "term": "に向",
-      "count": 1
-    },
-    {
-      "term": "る場",
-      "count": 1
-    },
-    {
-      "term": "化a",
-      "count": 1
-    },
-    {
-      "term": "きる",
-      "count": 1
-    },
-    {
-      "term": "239",
-      "count": 1
-    },
-    {
-      "term": "環等",
-      "count": 1
-    },
-    {
-      "term": "を目",
-      "count": 1
-    },
-    {
-      "term": "えａ",
-      "count": 1
-    },
-    {
-      "term": "新プ",
-      "count": 1
-    },
-    {
-      "term": "デジタル",
-      "count": 1
-    },
-    {
-      "term": "罪グ",
-      "count": 1
-    },
-    {
-      "term": "導入",
-      "count": 1
-    },
-    {
-      "term": "社会に向",
-      "count": 1
-    },
-    {
-      "term": "調査",
-      "count": 1
-    },
-    {
-      "term": "略的",
-      "count": 1
-    },
-    {
-      "term": "記載",
-      "count": 1
-    },
-    {
-      "term": "促進及び",
-      "count": 1
-    },
-    {
-      "term": "針に",
-      "count": 1
-    },
-    {
-      "term": "の情報分",
-      "count": 1
-    },
-    {
-      "term": "困難",
-      "count": 1
-    },
-    {
-      "term": "関す",
-      "count": 1
-    },
-    {
-      "term": "中小",
-      "count": 1
-    },
-    {
-      "term": "性の",
-      "count": 1
-    },
-    {
-      "term": "正予",
-      "count": 1
-    },
-    {
-      "term": "る実",
+      "term": "開発力の",
       "count": 1
     },
     {
@@ -166,39 +74,131 @@
       "count": 1
     },
     {
-      "term": "スの主導",
+      "term": "装に",
       "count": 1
     },
     {
-      "term": "立新",
+      "term": "評価手法",
       "count": 1
     },
     {
-      "term": "ける",
+      "term": "の開発促",
       "count": 1
     },
     {
-      "term": "ーマ",
+      "term": "サウ",
       "count": 1
     },
     {
-      "term": "た次",
+      "term": "化3",
       "count": 1
     },
     {
-      "term": "テストベ",
+      "term": "を総",
       "count": 1
     },
     {
-      "term": "的に",
+      "term": "月閣",
       "count": 1
     },
     {
-      "term": "名流",
+      "term": "場の",
       "count": 1
     },
     {
-      "term": "ピュ",
+      "term": "施策につ",
+      "count": 1
+    },
+    {
+      "term": "400",
+      "count": 1
+    },
+    {
+      "term": "革3",
+      "count": 1
+    },
+    {
+      "term": "のう",
+      "count": 1
+    },
+    {
+      "term": "の労",
+      "count": 1
+    },
+    {
+      "term": "42",
+      "count": 1
+    },
+    {
+      "term": "239",
+      "count": 1
+    },
+    {
+      "term": "おけ",
+      "count": 1
+    },
+    {
+      "term": "新プ",
+      "count": 1
+    },
+    {
+      "term": "hpci",
+      "count": 1
+    },
+    {
+      "term": "利用に関",
+      "count": 1
+    },
+    {
+      "term": "済対",
+      "count": 1
+    },
+    {
+      "term": "創出推進",
+      "count": 1
+    },
+    {
+      "term": "ッド",
+      "count": 1
+    },
+    {
+      "term": "インフラ",
+      "count": 1
+    },
+    {
+      "term": "令和",
+      "count": 1
+    },
+    {
+      "term": "済を",
+      "count": 1
+    },
+    {
+      "term": "ント",
+      "count": 1
+    },
+    {
+      "term": "策に",
+      "count": 1
+    },
+    {
+      "term": "立９",
+      "count": 1
+    },
+    {
+      "term": "数 ",
+      "count": 1
+    },
+    {
+      "term": "載 ",
+      "count": 1
+    },
+    {
+      "term": "針の",
+      "count": 1
+    },
+    {
+      "term": "ログ",
       "count": 1
     }
   ],
