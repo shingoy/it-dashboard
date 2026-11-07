@@ -2,67 +2,59 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "令和",
+      "term": "関係",
       "count": 20
     },
     {
-      "term": "政運",
+      "term": "システム",
       "count": 19
     },
     {
-      "term": "てい",
-      "count": 17
+      "term": "運営",
+      "count": 19
     },
     {
-      "term": "いる",
-      "count": 16
-    },
-    {
-      "term": "について",
-      "count": 15
-    },
-    {
-      "term": "でき",
-      "count": 15
-    },
-    {
-      "term": "ル庁",
-      "count": 15
-    },
-    {
-      "term": "おけ",
-      "count": 13
-    },
-    {
-      "term": "課題",
-      "count": 13
-    },
-    {
-      "term": "改善",
-      "count": 12
+      "term": "率化",
+      "count": 19
     },
     {
       "term": "係デ",
-      "count": 12
+      "count": 18
+    },
+    {
+      "term": "され",
+      "count": 18
+    },
+    {
+      "term": "不動",
+      "count": 17
+    },
+    {
+      "term": "利用",
+      "count": 15
+    },
+    {
+      "term": "ると",
+      "count": 14
+    },
+    {
+      "term": "とに",
+      "count": 13
     },
     {
       "term": "ビス",
       "count": 12
     },
     {
-      "term": "第３",
+      "term": "産ベ",
       "count": 11
     },
     {
-      "term": "スケ",
+      "term": "レジ",
       "count": 11
     },
     {
-      "term": "タベ",
-      "count": 11
-    },
-    {
-      "term": "標準",
+      "term": "随時",
       "count": 11
     },
     {
@@ -70,135 +62,143 @@
       "count": 11
     },
     {
-      "term": "サー",
+      "term": "め ",
       "count": 11
     },
     {
-      "term": "政機関等",
+      "term": "が存",
+      "count": 11
+    },
+    {
+      "term": "記事",
       "count": 10
     },
     {
-      "term": "進め",
+      "term": "添付書面",
       "count": 9
     },
     {
-      "term": "供す",
+      "term": "以外",
       "count": 9
     },
     {
-      "term": "らの",
-      "count": 9
-    },
-    {
-      "term": "ユー",
+      "term": "不動産ベ",
       "count": 8
     },
     {
-      "term": "23",
-      "count": 8
-    },
-    {
-      "term": "利用",
-      "count": 8
-    },
-    {
-      "term": "のと",
-      "count": 8
-    },
-    {
-      "term": "る情",
-      "count": 8
-    },
-    {
-      "term": "様々",
-      "count": 8
-    },
-    {
-      "term": "うち",
-      "count": 8
-    },
-    {
-      "term": "のう",
-      "count": 8
-    },
-    {
-      "term": "報 ",
+      "term": "係データ",
       "count": 7
     },
     {
-      "term": "用促",
+      "term": "礎情",
       "count": 7
     },
     {
-      "term": "れた",
+      "term": "の手",
       "count": 7
     },
     {
-      "term": "全て",
+      "term": "つつ",
       "count": 7
     },
     {
-      "term": "求め",
+      "term": "体に",
       "count": 7
     },
     {
-      "term": "トチ",
+      "term": "の入",
       "count": 7
     },
     {
-      "term": "ニホ",
+      "term": "るシ",
       "count": 7
     },
     {
-      "term": "庁に",
+      "term": "たデ",
       "count": 7
     },
     {
-      "term": "化の",
-      "count": 7
-    },
-    {
-      "term": "の連",
-      "count": 7
-    },
-    {
-      "term": "api",
-      "count": 7
-    },
-    {
-      "term": "わえ",
+      "term": "セス",
       "count": 6
     },
     {
-      "term": "て行",
+      "term": "標準化に",
       "count": 6
     },
     {
-      "term": "費用",
+      "term": "の切",
       "count": 6
     },
     {
-      "term": "るよ",
+      "term": "なが",
       "count": 6
     },
     {
-      "term": "を確",
+      "term": "令に",
       "count": 6
     },
     {
-      "term": "し ",
+      "term": "体で",
       "count": 6
     },
     {
-      "term": "表記",
+      "term": "度に",
       "count": 6
     },
     {
-      "term": "有等",
+      "term": "度の",
+      "count": 6
+    },
+    {
+      "term": "理す",
+      "count": 6
+    },
+    {
+      "term": "居表",
       "count": 5
     },
     {
-      "term": "めの",
+      "term": "期 ",
+      "count": 5
+    },
+    {
+      "term": "添付",
+      "count": 5
+    },
+    {
+      "term": "立行",
+      "count": 5
+    },
+    {
+      "term": "25",
+      "count": 5
+    },
+    {
+      "term": "いと",
+      "count": 5
+    },
+    {
+      "term": "実際",
+      "count": 5
+    },
+    {
+      "term": "地情",
+      "count": 5
+    },
+    {
+      "term": "が必",
+      "count": 5
+    },
+    {
+      "term": "た行",
+      "count": 5
+    },
+    {
+      "term": "を所",
+      "count": 5
+    },
+    {
+      "term": "人番",
       "count": 5
     }
   ],

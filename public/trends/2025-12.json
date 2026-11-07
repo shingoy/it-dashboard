@@ -2,171 +2,35 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "大規",
-      "count": 2
-    },
-    {
-      "term": "ョン",
-      "count": 2
-    },
-    {
-      "term": "の研",
-      "count": 2
-    },
-    {
-      "term": "データ",
-      "count": 2
-    },
-    {
-      "term": "大規模オ",
-      "count": 2
-    },
-    {
-      "term": "るａ",
-      "count": 2
-    },
-    {
-      "term": "内数",
-      "count": 2
-    },
-    {
-      "term": "の構",
-      "count": 2
-    },
-    {
-      "term": "ンフ",
-      "count": 2
-    },
-    {
-      "term": "オー",
-      "count": 2
-    },
-    {
-      "term": "の信",
-      "count": 2
-    },
-    {
       "term": "生成",
       "count": 2
     },
     {
-      "term": "性の",
+      "term": "ウド",
       "count": 2
     },
     {
-      "term": "億円の内",
+      "term": "ル等",
       "count": 2
     },
     {
-      "term": "の安全性",
+      "term": "円の",
       "count": 2
     },
     {
-      "term": "うち",
+      "term": "ナン",
+      "count": 2
+    },
+    {
+      "term": "間での",
       "count": 1
     },
     {
-      "term": "開発力の",
+      "term": "生産",
       "count": 1
     },
     {
-      "term": "でき",
-      "count": 1
-    },
-    {
-      "term": "装に",
-      "count": 1
-    },
-    {
-      "term": "評価手法",
-      "count": 1
-    },
-    {
-      "term": "の開発促",
-      "count": 1
-    },
-    {
-      "term": "サウ",
-      "count": 1
-    },
-    {
-      "term": "化3",
-      "count": 1
-    },
-    {
-      "term": "を総",
-      "count": 1
-    },
-    {
-      "term": "月閣",
-      "count": 1
-    },
-    {
-      "term": "場の",
-      "count": 1
-    },
-    {
-      "term": "施策につ",
-      "count": 1
-    },
-    {
-      "term": "400",
-      "count": 1
-    },
-    {
-      "term": "革3",
-      "count": 1
-    },
-    {
-      "term": "のう",
-      "count": 1
-    },
-    {
-      "term": "の労",
-      "count": 1
-    },
-    {
-      "term": "42",
-      "count": 1
-    },
-    {
-      "term": "239",
-      "count": 1
-    },
-    {
-      "term": "おけ",
-      "count": 1
-    },
-    {
-      "term": "新プ",
-      "count": 1
-    },
-    {
-      "term": "hpci",
-      "count": 1
-    },
-    {
-      "term": "利用に関",
-      "count": 1
-    },
-    {
-      "term": "済対",
-      "count": 1
-    },
-    {
-      "term": "創出推進",
-      "count": 1
-    },
-    {
-      "term": "ッド",
-      "count": 1
-    },
-    {
-      "term": "インフラ",
-      "count": 1
-    },
-    {
-      "term": "令和",
+      "term": "外日",
       "count": 1
     },
     {
@@ -174,31 +38,167 @@
       "count": 1
     },
     {
-      "term": "ント",
+      "term": "の予",
       "count": 1
     },
     {
-      "term": "策に",
+      "term": "業技",
       "count": 1
     },
     {
-      "term": "立９",
+      "term": "ノロジー",
       "count": 1
     },
     {
-      "term": "数 ",
+      "term": "連施",
       "count": 1
     },
     {
-      "term": "載 ",
+      "term": "学校現場",
       "count": 1
     },
     {
-      "term": "針の",
+      "term": "析システ",
       "count": 1
     },
     {
-      "term": "ログ",
+      "term": "内金",
+      "count": 1
+    },
+    {
+      "term": "化a",
+      "count": 1
+    },
+    {
+      "term": "関係",
+      "count": 1
+    },
+    {
+      "term": "額を抽出",
+      "count": 1
+    },
+    {
+      "term": "発促",
+      "count": 1
+    },
+    {
+      "term": "も関",
+      "count": 1
+    },
+    {
+      "term": "ーバ",
+      "count": 1
+    },
+    {
+      "term": "129",
+      "count": 1
+    },
+    {
+      "term": "場の",
+      "count": 1
+    },
+    {
+      "term": "経ａ",
+      "count": 1
+    },
+    {
+      "term": "の４",
+      "count": 1
+    },
+    {
+      "term": "含ま",
+      "count": 1
+    },
+    {
+      "term": "る調",
+      "count": 1
+    },
+    {
+      "term": "増し",
+      "count": 1
+    },
+    {
+      "term": "予算額",
+      "count": 1
+    },
+    {
+      "term": "ット開発",
+      "count": 1
+    },
+    {
+      "term": "年度補正",
+      "count": 1
+    },
+    {
+      "term": "内経",
+      "count": 1
+    },
+    {
+      "term": "ルサ",
+      "count": 1
+    },
+    {
+      "term": "力向",
+      "count": 1
+    },
+    {
+      "term": "間で",
+      "count": 1
+    },
+    {
+      "term": "プ ",
+      "count": 1
+    },
+    {
+      "term": "用支",
+      "count": 1
+    },
+    {
+      "term": "的計",
+      "count": 1
+    },
+    {
+      "term": "金融",
+      "count": 1
+    },
+    {
+      "term": "分含",
+      "count": 1
+    },
+    {
+      "term": "の構",
+      "count": 1
+    },
+    {
+      "term": "注１",
+      "count": 1
+    },
+    {
+      "term": "利用",
+      "count": 1
+    },
+    {
+      "term": "む ",
+      "count": 1
+    },
+    {
+      "term": "場の生産",
+      "count": 1
+    },
+    {
+      "term": "新プログ",
+      "count": 1
+    },
+    {
+      "term": "融機",
+      "count": 1
+    },
+    {
+      "term": "基本計画",
+      "count": 1
+    },
+    {
+      "term": "自動",
       "count": 1
     }
   ],

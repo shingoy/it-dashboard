@@ -2,36 +2,36 @@
   {
     "url": "https://www8.cao.go.jp/cstp/ai/yosan_8nendo_draft.pdf",
     "error": "404 Client Error: Not Found for url: https://www8.cao.go.jp/cstp/ai/yosan_8nendo_draft.pdf",
-    "timestamp": "2026-11-06T16:39:45.206887"
+    "timestamp": "2026-11-07T00:30:37.239099"
   },
   {
     "url": "https://www8.cao.go.jp/cstp/togo/index.html",
     "error": "404 Client Error: Not Found for url: https://www8.cao.go.jp/cstp/togo/index.html",
-    "timestamp": "2026-11-06T16:40:07.756706"
+    "timestamp": "2026-11-07T00:30:54.995759"
   },
   {
     "url": "https://www.meti.go.jp/shingikai/mono_info_service/digital_sangyo/index.html",
     "error": "403 Client Error: Forbidden for url: https://www.meti.go.jp/shingikai/mono_info_service/digital_sangyo/index.html",
-    "timestamp": "2026-11-06T16:40:12.773037"
+    "timestamp": "2026-11-07T00:31:00.074120"
   },
   {
     "url": "https://www.meti.go.jp/policy/it_policy/dx/index.html",
     "error": "403 Client Error: Forbidden for url: https://www.meti.go.jp/policy/it_policy/dx/index.html",
-    "timestamp": "2026-11-06T16:40:16.046304"
+    "timestamp": "2026-11-07T00:31:03.106238"
   },
   {
     "url": "https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_00002.html",
     "error": "404 Client Error: Not Found for url: https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_00002.html",
-    "timestamp": "2026-11-06T16:40:19.257059"
+    "timestamp": "2026-11-07T00:31:06.588526"
   },
   {
     "url": "https://www.ppc.go.jp/aboutus/commission/",
     "error": "503 Server Error: Service Temporarily Unavailable for url: https://www.ppc.go.jp/aboutus/commission/",
-    "timestamp": "2026-11-06T16:40:21.652468"
+    "timestamp": "2026-11-07T00:31:08.900600"
   },
   {
     "url": "https://cio.go.jp/",
     "error": "HTTPSConnectionPool(host='cio.go.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='cio.go.jp', port=443): Failed to resolve 'cio.go.jp' ([Errno -2] Name or service not known)\"))",
-    "timestamp": "2026-11-06T16:40:23.202613"
+    "timestamp": "2026-11-07T00:31:10.332578"
   }
 ]
