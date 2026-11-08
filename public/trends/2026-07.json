@@ -2,47 +2,55 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "関す",
+      "term": "デー",
+      "count": 27
+    },
+    {
+      "term": "する",
       "count": 24
     },
     {
-      "term": "化に",
-      "count": 20
+      "term": "データベ",
+      "count": 22
     },
     {
-      "term": "スレ",
+      "term": "化に",
+      "count": 21
+    },
+    {
+      "term": "ジス",
+      "count": 21
+    },
+    {
+      "term": "シス",
       "count": 19
     },
     {
-      "term": "踏ま",
-      "count": 17
+      "term": "を行",
+      "count": 19
     },
     {
-      "term": "推進",
-      "count": 17
+      "term": "運営",
+      "count": 19
     },
     {
-      "term": "対応",
-      "count": 16
-    },
-    {
-      "term": "等に",
-      "count": 16
-    },
-    {
-      "term": "政策",
+      "term": "不動産登",
       "count": 15
     },
     {
-      "term": "要な",
+      "term": "備を",
       "count": 14
     },
     {
-      "term": "るも",
+      "term": "実施",
       "count": 14
     },
     {
-      "term": "政推",
+      "term": "添付",
+      "count": 13
+    },
+    {
+      "term": "続に",
       "count": 13
     },
     {
@@ -50,155 +58,147 @@
       "count": 13
     },
     {
-      "term": "その",
-      "count": 12
+      "term": "和1",
+      "count": 11
     },
     {
-      "term": "スの",
+      "term": "和８",
       "count": 11
+    },
+    {
+      "term": "ット",
+      "count": 10
+    },
+    {
+      "term": "今後",
+      "count": 10
+    },
+    {
+      "term": "リの",
+      "count": 10
+    },
+    {
+      "term": "準化",
+      "count": 10
+    },
+    {
+      "term": "営の",
+      "count": 10
+    },
+    {
+      "term": "備及",
+      "count": 9
+    },
+    {
+      "term": "すべ",
+      "count": 9
+    },
+    {
+      "term": "付書",
+      "count": 9
+    },
+    {
+      "term": "10",
+      "count": 9
+    },
+    {
+      "term": "現在",
+      "count": 9
+    },
+    {
+      "term": "を踏まえ",
+      "count": 8
+    },
+    {
+      "term": "含め",
+      "count": 8
+    },
+    {
+      "term": "力の",
+      "count": 8
+    },
+    {
+      "term": "15",
+      "count": 7
     },
     {
       "term": "であ",
-      "count": 11
-    },
-    {
-      "term": "号 ",
-      "count": 11
-    },
-    {
-      "term": "組 ",
-      "count": 11
-    },
-    {
-      "term": "全体",
-      "count": 10
-    },
-    {
-      "term": "当該",
-      "count": 10
-    },
-    {
-      "term": "ー ",
-      "count": 10
-    },
-    {
-      "term": "なる",
-      "count": 10
-    },
-    {
-      "term": "社会",
-      "count": 9
-    },
-    {
-      "term": "はデ",
-      "count": 9
-    },
-    {
-      "term": "での",
-      "count": 8
-    },
-    {
-      "term": "用 ",
-      "count": 8
-    },
-    {
-      "term": "スケジュ",
-      "count": 8
-    },
-    {
-      "term": "スに",
-      "count": 8
-    },
-    {
-      "term": "人の",
       "count": 7
     },
     {
-      "term": "進す",
+      "term": "う行",
       "count": 7
     },
     {
-      "term": "達成",
+      "term": "の連",
       "count": 7
     },
     {
-      "term": "ニホ",
-      "count": 7
-    },
-    {
-      "term": "ら ",
-      "count": 7
-    },
-    {
-      "term": "の関",
-      "count": 7
-    },
-    {
-      "term": "リに",
+      "term": "を連",
       "count": 6
     },
     {
-      "term": "後の",
+      "term": "年度以降",
       "count": 6
     },
     {
-      "term": "係デ",
+      "term": "な方",
       "count": 6
     },
     {
-      "term": "ースの整",
+      "term": "省略",
       "count": 6
     },
     {
-      "term": "を構",
+      "term": "タに",
       "count": 6
     },
     {
-      "term": "を促",
+      "term": "リと",
       "count": 6
     },
     {
-      "term": "もの",
+      "term": "らか",
       "count": 6
     },
     {
-      "term": "期更",
+      "term": "な課",
       "count": 6
     },
     {
-      "term": "ア ",
+      "term": "法律",
       "count": 6
     },
     {
-      "term": "よっ",
+      "term": "うこ",
       "count": 6
     },
     {
-      "term": "地方公共",
+      "term": "字の",
       "count": 6
     },
     {
-      "term": "対し",
+      "term": "いく",
       "count": 6
     },
     {
-      "term": "届出",
+      "term": "も踏",
       "count": 6
     },
     {
-      "term": "ジタ",
+      "term": "トに",
       "count": 6
     },
     {
-      "term": "スベ",
+      "term": "タ整",
       "count": 5
     },
     {
-      "term": "割 ",
+      "term": "台帳",
       "count": 5
     },
     {
-      "term": "ースを利",
+      "term": "登記デー",
       "count": 5
     }
   ],

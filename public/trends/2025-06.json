@@ -2,204 +2,204 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "であ",
-      "count": 22
+      "term": "する",
+      "count": 28
+    },
+    {
+      "term": "図 ",
+      "count": 28
+    },
+    {
+      "term": "リポ",
+      "count": 20
     },
     {
       "term": "パイプラ",
       "count": 20
     },
     {
-      "term": "その",
+      "term": "ット",
       "count": 20
+    },
+    {
+      "term": "であ",
+      "count": 20
+    },
+    {
+      "term": "ルド",
+      "count": 19
+    },
+    {
+      "term": "安全",
+      "count": 18
+    },
+    {
+      "term": "デー",
+      "count": 17
     },
     {
       "term": "ない",
       "count": 17
     },
     {
-      "term": "での",
+      "term": "name",
+      "count": 17
+    },
+    {
+      "term": "ナイ",
+      "count": 15
+    },
+    {
+      "term": "脆弱",
       "count": 14
     },
     {
-      "term": "イメ",
-      "count": 14
+      "term": "ソースコ",
+      "count": 13
     },
     {
-      "term": "なる",
-      "count": 14
+      "term": "シークレ",
+      "count": 12
     },
     {
-      "term": "ン ",
+      "term": "この",
+      "count": 12
+    },
+    {
+      "term": "のc",
       "count": 11
     },
     {
-      "term": "プラット",
-      "count": 11
+      "term": "code",
+      "count": 10
+    },
+    {
+      "term": "保 ",
+      "count": 10
+    },
+    {
+      "term": "に ",
+      "count": 10
+    },
+    {
+      "term": "ビルドフ",
+      "count": 9
+    },
+    {
+      "term": "ォー",
+      "count": 9
+    },
+    {
+      "term": "10",
+      "count": 9
+    },
+    {
+      "term": "ンa",
+      "count": 9
+    },
+    {
+      "term": "成さ",
+      "count": 9
+    },
+    {
+      "term": "リの",
+      "count": 9
+    },
+    {
+      "term": "権限",
+      "count": 9
+    },
+    {
+      "term": "https",
+      "count": 9
+    },
+    {
+      "term": "with",
+      "count": 9
+    },
+    {
+      "term": "on",
+      "count": 9
+    },
+    {
+      "term": "トに",
+      "count": 8
+    },
+    {
+      "term": "シス",
+      "count": 8
+    },
+    {
+      "term": "のリ",
+      "count": 8
+    },
+    {
+      "term": "リス",
+      "count": 8
+    },
+    {
+      "term": "ルー",
+      "count": 8
+    },
+    {
+      "term": "docker",
+      "count": 8
+    },
+    {
+      "term": "チームの",
+      "count": 7
     },
     {
       "term": "はc",
-      "count": 11
-    },
-    {
-      "term": "ブラ",
-      "count": 10
-    },
-    {
-      "term": "理を",
-      "count": 10
-    },
-    {
-      "term": "ー ",
-      "count": 10
-    },
-    {
-      "term": "provenance",
-      "count": 10
-    },
-    {
-      "term": "る具",
-      "count": 10
-    },
-    {
-      "term": "必要",
-      "count": 10
-    },
-    {
-      "term": "の制",
-      "count": 9
-    },
-    {
-      "term": "なお",
-      "count": 9
-    },
-    {
-      "term": "クを",
-      "count": 9
-    },
-    {
-      "term": "のア",
-      "count": 9
-    },
-    {
-      "term": "るが",
-      "count": 9
-    },
-    {
-      "term": "リソ",
-      "count": 8
-    },
-    {
-      "term": "作成",
-      "count": 8
-    },
-    {
-      "term": "関す",
       "count": 7
     },
     {
-      "term": "資産",
+      "term": "すべ",
       "count": 7
-    },
-    {
-      "term": "あり",
-      "count": 7
-    },
-    {
-      "term": "自動",
-      "count": 7
-    },
-    {
-      "term": "が ",
-      "count": 7
-    },
-    {
-      "term": "スの",
-      "count": 7
-    },
-    {
-      "term": "ーを",
-      "count": 7
-    },
-    {
-      "term": "アッ",
-      "count": 7
-    },
-    {
-      "term": "対し",
-      "count": 7
-    },
-    {
-      "term": "ンバ",
-      "count": 7
-    },
-    {
-      "term": "ットの保",
-      "count": 6
-    },
-    {
-      "term": "ソフトウ",
-      "count": 6
-    },
-    {
-      "term": "codebuild",
-      "count": 6
-    },
-    {
-      "term": "ジと",
-      "count": 6
-    },
-    {
-      "term": "もの",
-      "count": 6
-    },
-    {
-      "term": "secrets",
-      "count": 6
-    },
-    {
-      "term": "image",
-      "count": 6
-    },
-    {
-      "term": "true",
-      "count": 6
-    },
-    {
-      "term": "運用保守",
-      "count": 5
-    },
-    {
-      "term": "よっ",
-      "count": 5
-    },
-    {
-      "term": "準拠",
-      "count": 5
-    },
-    {
-      "term": "gitlab",
-      "count": 5
     },
     {
       "term": "plan",
-      "count": 5
+      "count": 7
     },
     {
-      "term": "ログ",
-      "count": 5
+      "term": "記述",
+      "count": 7
     },
     {
-      "term": "保管",
-      "count": 5
+      "term": "なる",
+      "count": 7
     },
     {
-      "term": "対応",
-      "count": 5
+      "term": "json",
+      "count": 7
     },
     {
-      "term": "でも",
-      "count": 5
+      "term": "漏洩",
+      "count": 6
+    },
+    {
+      "term": "たが",
+      "count": 6
+    },
+    {
+      "term": "物と",
+      "count": 6
+    },
+    {
+      "term": "得し",
+      "count": 6
+    },
+    {
+      "term": "うこ",
+      "count": 6
+    },
+    {
+      "term": "の連",
+      "count": 6
+    },
+    {
+      "term": "省略する",
+      "count": 6
     }
   ],
   "meetings": [
