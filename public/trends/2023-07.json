@@ -2,204 +2,204 @@
   "month": "2023-07",
   "keywords": [
     {
-      "term": "する",
-      "count": 2996
+      "term": "があ",
+      "count": 2041
     },
     {
-      "term": "シス",
-      "count": 2192
-    },
-    {
-      "term": "ない",
-      "count": 2170
-    },
-    {
-      "term": "を行",
-      "count": 1863
-    },
-    {
-      "term": "であ",
-      "count": 1823
-    },
-    {
-      "term": "実施",
-      "count": 1818
-    },
-    {
-      "term": "ュリ",
-      "count": 1283
-    },
-    {
-      "term": "リス",
-      "count": 1267
-    },
-    {
-      "term": "情報シス",
-      "count": 1183
+      "term": "管理",
+      "count": 1594
     },
     {
       "term": "合は",
-      "count": 1117
+      "count": 1156
     },
     {
-      "term": "責任",
-      "count": 1085
+      "term": "とに",
+      "count": 1154
     },
     {
-      "term": "発生",
-      "count": 1027
+      "term": "ト ",
+      "count": 993
     },
     {
-      "term": "デー",
-      "count": 926
+      "term": "イド",
+      "count": 982
     },
     {
-      "term": "うこ",
-      "count": 926
+      "term": "に応",
+      "count": 969
     },
     {
-      "term": "評価",
-      "count": 902
+      "term": "では",
+      "count": 938
     },
     {
-      "term": "キュ",
-      "count": 854
+      "term": "関係",
+      "count": 893
     },
     {
-      "term": "ット",
-      "count": 835
+      "term": "結果",
+      "count": 853
     },
     {
-      "term": "トに",
-      "count": 819
+      "term": "を踏",
+      "count": 843
     },
     {
-      "term": "すべ",
-      "count": 809
+      "term": "ース",
+      "count": 824
     },
     {
-      "term": "この",
-      "count": 783
+      "term": "遵守",
+      "count": 821
     },
     {
       "term": "基本対策",
-      "count": 773
+      "count": 769
     },
     {
-      "term": "技術",
-      "count": 724
+      "term": "確保",
+      "count": 761
     },
     {
-      "term": "情報セキ",
+      "term": "における",
+      "count": 756
+    },
+    {
+      "term": "作業",
       "count": 723
     },
     {
-      "term": "ログ",
-      "count": 705
+      "term": "認す",
+      "count": 713
     },
     {
-      "term": "なる",
-      "count": 678
+      "term": "用を",
+      "count": 641
     },
     {
-      "term": "すること",
-      "count": 676
+      "term": "である",
+      "count": 631
     },
     {
-      "term": "留意",
-      "count": 667
+      "term": "れる",
+      "count": 599
     },
     {
-      "term": "ンス",
-      "count": 632
+      "term": "当た",
+      "count": 576
     },
     {
-      "term": "アプ",
-      "count": 588
+      "term": "組み",
+      "count": 572
     },
     {
-      "term": "こ ",
-      "count": 586
+      "term": "を指",
+      "count": 572
     },
     {
-      "term": "含め",
-      "count": 582
+      "term": "れな",
+      "count": 570
     },
     {
-      "term": "に ",
-      "count": 562
+      "term": "の整",
+      "count": 567
     },
     {
-      "term": "のリ",
-      "count": 544
+      "term": "者が",
+      "count": 549
     },
     {
-      "term": "らか",
-      "count": 513
+      "term": "への",
+      "count": 494
     },
     {
-      "term": "安全",
-      "count": 509
+      "term": "いては",
+      "count": 484
+    },
+    {
+      "term": "要に",
+      "count": 483
+    },
+    {
+      "term": "ムが",
+      "count": 480
     },
     {
       "term": "the",
-      "count": 488
-    },
-    {
-      "term": "ai",
       "count": 479
     },
     {
-      "term": "想定",
-      "count": 469
+      "term": "の提",
+      "count": 471
     },
     {
-      "term": "か ",
-      "count": 448
+      "term": "and",
+      "count": 462
+    },
+    {
+      "term": "化す",
+      "count": 451
+    },
+    {
+      "term": "in",
+      "count": 450
+    },
+    {
+      "term": "き ",
+      "count": 449
+    },
+    {
+      "term": "generative",
+      "count": 447
     },
     {
       "term": "を作",
       "count": 440
     },
     {
-      "term": "を明",
-      "count": 437
+      "term": "が求",
+      "count": 425
     },
     {
-      "term": "クの",
-      "count": 429
+      "term": "に行",
+      "count": 423
     },
     {
-      "term": "脆弱",
-      "count": 427
-    },
-    {
-      "term": "機器",
-      "count": 419
-    },
-    {
-      "term": "規定",
+      "term": "主体",
       "count": 416
     },
     {
-      "term": "は以",
+      "term": "イト",
       "count": 416
     },
     {
-      "term": "イド",
-      "count": 392
+      "term": "to",
+      "count": 414
     },
     {
-      "term": "て定",
-      "count": 387
+      "term": "いと",
+      "count": 409
     },
     {
-      "term": "機密",
-      "count": 383
+      "term": "るサ",
+      "count": 406
     },
     {
-      "term": "方式",
-      "count": 383
+      "term": "に留",
+      "count": 396
+    },
+    {
+      "term": "画の",
+      "count": 396
+    },
+    {
+      "term": "を設",
+      "count": 376
+    },
+    {
+      "term": "を利",
+      "count": 376
     }
   ],
   "meetings": [
