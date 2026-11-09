@@ -2,87 +2,115 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "では",
-      "count": 19
+      "term": "され",
+      "count": 27
     },
     {
-      "term": "れる",
-      "count": 19
+      "term": "るこ",
+      "count": 24
     },
     {
-      "term": "リポジト",
-      "count": 18
+      "term": "その",
+      "count": 21
     },
     {
-      "term": "ース",
-      "count": 17
+      "term": "ラッ",
+      "count": 15
     },
     {
-      "term": "管理",
-      "count": 17
+      "term": "ーズ",
+      "count": 15
     },
     {
-      "term": "プラ",
-      "count": 17
+      "term": "また",
+      "count": 15
     },
     {
-      "term": "があ",
+      "term": "コン",
+      "count": 15
+    },
+    {
+      "term": "ナイ",
+      "count": 15
+    },
+    {
+      "term": "ける",
       "count": 14
     },
     {
-      "term": "への",
-      "count": 13
+      "term": "設定",
+      "count": 14
     },
     {
-      "term": "存物",
+      "term": "シークレ",
+      "count": 12
+    },
+    {
+      "term": "ェー",
+      "count": 12
+    },
+    {
+      "term": "steps",
+      "count": 12
+    },
+    {
+      "term": "フォーム",
       "count": 11
     },
     {
-      "term": "依存",
+      "term": "環境",
       "count": 11
     },
     {
-      "term": "terraform",
-      "count": 11
-    },
-    {
-      "term": "には",
+      "term": "よる",
       "count": 10
     },
     {
-      "term": "確保",
+      "term": "要が",
+      "count": 10
+    },
+    {
+      "term": "イメ",
+      "count": 10
+    },
+    {
+      "term": "のメ",
+      "count": 10
+    },
+    {
+      "term": "とが",
+      "count": 10
+    },
+    {
+      "term": "きる",
+      "count": 10
+    },
+    {
+      "term": "性管",
       "count": 9
     },
     {
-      "term": "ムが",
+      "term": "脆弱性管",
       "count": 9
     },
     {
-      "term": "成さ",
+      "term": "トウ",
       "count": 9
     },
     {
-      "term": "on",
-      "count": 9
-    },
-    {
-      "term": "対策",
+      "term": "の確",
       "count": 8
     },
     {
-      "term": "クレ",
+      "term": "イル",
       "count": 8
     },
     {
-      "term": "ビルドフ",
+      "term": "ビルド上",
       "count": 8
     },
     {
-      "term": "主体",
-      "count": 8
-    },
-    {
-      "term": "の実",
+      "term": "書で",
       "count": 8
     },
     {
@@ -90,116 +118,88 @@
       "count": 8
     },
     {
-      "term": "ーを",
+      "term": "らの",
       "count": 8
     },
     {
-      "term": "メタデー",
-      "count": 8
-    },
-    {
-      "term": "to",
-      "count": 8
-    },
-    {
-      "term": "中略",
-      "count": 8
-    },
-    {
-      "term": "組み",
-      "count": 8
-    },
-    {
-      "term": "ーカ",
+      "term": "組織",
       "count": 7
     },
     {
-      "term": "における",
+      "term": "システム",
       "count": 7
     },
     {
-      "term": "キャ",
+      "term": "洩対",
       "count": 7
     },
     {
-      "term": "作成",
+      "term": "ローカル",
       "count": 7
     },
     {
-      "term": "を取",
+      "term": "での実行",
       "count": 7
     },
     {
-      "term": "能で",
+      "term": "記述",
       "count": 7
     },
     {
-      "term": "ットの保",
+      "term": "トフォー",
+      "count": 7
+    },
+    {
+      "term": "ーの",
+      "count": 7
+    },
+    {
+      "term": "図 ",
+      "count": 7
+    },
+    {
+      "term": "digest",
+      "count": 7
+    },
+    {
+      "term": "の漏洩対",
       "count": 6
     },
     {
-      "term": "ワー",
+      "term": "関す",
       "count": 6
     },
     {
-      "term": "タデータ",
+      "term": "理を",
       "count": 6
     },
     {
-      "term": "ビュ",
+      "term": "ェーズの",
       "count": 6
     },
     {
-      "term": "合は",
+      "term": "レッ",
       "count": 6
     },
     {
-      "term": "checkout",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "ubuntu",
+      "term": "取得",
       "count": 6
     },
     {
-      "term": "とに",
-      "count": 5
+      "term": "要がある",
+      "count": 6
     },
     {
-      "term": "産管",
-      "count": 5
+      "term": "ンb",
+      "count": 6
     },
     {
-      "term": "ト ",
-      "count": 5
-    },
-    {
-      "term": "む運",
-      "count": 5
-    },
-    {
-      "term": "ド管",
-      "count": 5
-    },
-    {
-      "term": "26",
-      "count": 5
-    },
-    {
-      "term": "を想",
-      "count": 5
-    },
-    {
-      "term": "より",
-      "count": 5
-    },
-    {
-      "term": "るサ",
-      "count": 5
-    },
-    {
-      "term": "理下",
-      "count": 5
+      "term": "アッ",
+      "count": 6
     }
   ],
   "meetings": [

@@ -2,83 +2,119 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "ース",
-      "count": 26
+      "term": "整備",
+      "count": 24
     },
     {
-      "term": "関係",
-      "count": 20
+      "term": "レジ",
+      "count": 21
     },
     {
-      "term": "を踏",
+      "term": "システム",
+      "count": 19
+    },
+    {
+      "term": "デジ",
+      "count": 19
+    },
+    {
+      "term": "るこ",
+      "count": 19
+    },
+    {
+      "term": "営の",
+      "count": 19
+    },
+    {
+      "term": "され",
+      "count": 18
+    },
+    {
+      "term": "おい",
       "count": 16
     },
     {
-      "term": "の整",
-      "count": 16
-    },
-    {
-      "term": "を目",
+      "term": "について",
       "count": 15
     },
     {
-      "term": "在地",
+      "term": "ける",
+      "count": 15
+    },
+    {
+      "term": "関す",
+      "count": 15
+    },
+    {
+      "term": "その",
       "count": 14
     },
     {
-      "term": "の効率化",
-      "count": 14
-    },
-    {
-      "term": "とに",
+      "term": "また",
       "count": 13
     },
     {
-      "term": "があ",
-      "count": 13
-    },
-    {
-      "term": "便性向上",
+      "term": "礎情",
       "count": 12
     },
     {
-      "term": "面の",
+      "term": "登記情報",
+      "count": 12
+    },
+    {
+      "term": "進法",
+      "count": 12
+    },
+    {
+      "term": "の確",
       "count": 11
     },
     {
-      "term": "和1",
+      "term": "に基",
       "count": 11
     },
     {
-      "term": "を利",
+      "term": "タル",
       "count": 11
     },
     {
-      "term": "期 ",
-      "count": 10
-    },
-    {
-      "term": "管理",
-      "count": 10
-    },
-    {
-      "term": "いては",
-      "count": 10
-    },
-    {
-      "term": "不動",
+      "term": "正確",
       "count": 9
     },
     {
-      "term": "を指",
+      "term": "実現",
       "count": 9
     },
     {
-      "term": "における",
+      "term": "でい",
+      "count": 9
+    },
+    {
+      "term": "ロハ",
+      "count": 9
+    },
+    {
+      "term": "らの",
+      "count": 9
+    },
+    {
+      "term": "ユー",
       "count": 8
     },
     {
-      "term": "公開",
+      "term": "他の",
+      "count": 8
+    },
+    {
+      "term": "ころ",
+      "count": 8
+    },
+    {
+      "term": "含め",
+      "count": 8
+    },
+    {
+      "term": "iii",
       "count": 8
     },
     {
@@ -86,95 +122,71 @@
       "count": 8
     },
     {
-      "term": "と連",
+      "term": "ここでい",
       "count": 8
     },
     {
-      "term": "の提",
+      "term": "力の",
+      "count": 8
+    },
+    {
+      "term": "や ",
+      "count": 8
+    },
+    {
+      "term": "切替",
       "count": 7
     },
     {
-      "term": "土地所有",
+      "term": "がで",
       "count": 7
     },
     {
-      "term": "関し",
+      "term": "の関",
       "count": 7
     },
     {
-      "term": "では",
-      "count": 7
-    },
-    {
-      "term": "請求",
-      "count": 7
-    },
-    {
-      "term": "え ",
-      "count": 7
-    },
-    {
-      "term": "針を",
+      "term": "後整",
       "count": 6
     },
     {
-      "term": "民が",
+      "term": "を具",
       "count": 6
     },
     {
-      "term": "組み",
+      "term": "関係行政",
       "count": 6
     },
     {
-      "term": "を連",
+      "term": "題 ",
       "count": 6
     },
     {
-      "term": "第2",
+      "term": "ーズ",
       "count": 6
     },
     {
-      "term": "紙１",
+      "term": "基盤",
       "count": 6
     },
     {
-      "term": "ル社",
-      "count": 6
-    },
-    {
-      "term": "である",
-      "count": 6
-    },
-    {
-      "term": "横断",
-      "count": 6
-    },
-    {
-      "term": "くわ",
-      "count": 6
-    },
-    {
-      "term": "を促",
-      "count": 6
-    },
-    {
-      "term": "は登",
-      "count": 6
-    },
-    {
-      "term": "登記デー",
+      "term": "に登",
       "count": 5
     },
     {
-      "term": "促進",
+      "term": "通化",
       "count": 5
     },
     {
-      "term": "当た",
+      "term": "出の",
       "count": 5
     },
     {
-      "term": "立行",
+      "term": "に当",
+      "count": 5
+    },
+    {
+      "term": "点か",
       "count": 5
     },
     {
@@ -182,23 +194,11 @@
       "count": 5
     },
     {
-      "term": "結果",
+      "term": "年３",
       "count": 5
     },
     {
-      "term": "いと",
-      "count": 5
-    },
-    {
-      "term": "に応",
-      "count": 5
-    },
-    {
-      "term": "用を",
-      "count": 5
-    },
-    {
-      "term": "リと",
+      "term": "数の",
       "count": 5
     }
   ],
