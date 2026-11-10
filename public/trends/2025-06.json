@@ -2,31 +2,23 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "プラ",
-      "count": 26
-    },
-    {
-      "term": "図 ",
-      "count": 22
-    },
-    {
-      "term": "ード",
-      "count": 21
-    },
-    {
-      "term": "ファ",
+      "term": "リポ",
       "count": 20
     },
     {
-      "term": "ない",
+      "term": "イル",
+      "count": 19
+    },
+    {
+      "term": "には",
       "count": 17
     },
     {
-      "term": "name",
-      "count": 17
+      "term": "実行",
+      "count": 16
     },
     {
-      "term": "トフ",
+      "term": "およ",
       "count": 15
     },
     {
@@ -34,55 +26,47 @@
       "count": 15
     },
     {
-      "term": "テナ",
-      "count": 15
-    },
-    {
-      "term": "にお",
-      "count": 13
-    },
-    {
-      "term": "頼性",
-      "count": 13
-    },
-    {
-      "term": "場合",
-      "count": 13
-    },
-    {
-      "term": "には",
-      "count": 12
-    },
-    {
-      "term": "フォーム",
-      "count": 11
-    },
-    {
-      "term": "とす",
-      "count": 11
-    },
-    {
-      "term": "のc",
-      "count": 11
-    },
-    {
-      "term": "つい",
-      "count": 11
-    },
-    {
-      "term": "ける",
-      "count": 11
+      "term": "ては",
+      "count": 14
     },
     {
       "term": "れた",
+      "count": 13
+    },
+    {
+      "term": "とが",
+      "count": 13
+    },
+    {
+      "term": "レッ",
+      "count": 12
+    },
+    {
+      "term": "の保",
+      "count": 12
+    },
+    {
+      "term": "依存",
       "count": 11
     },
     {
-      "term": "体的",
+      "term": "ルを",
+      "count": 11
+    },
+    {
+      "term": "よう",
+      "count": 11
+    },
+    {
+      "term": "ビルドフ",
       "count": 10
     },
     {
-      "term": "コンテナ",
+      "term": "安全性の",
+      "count": 10
+    },
+    {
+      "term": "provenance",
       "count": 10
     },
     {
@@ -90,115 +74,131 @@
       "count": 9
     },
     {
-      "term": "ンの",
+      "term": "でき",
       "count": 9
     },
     {
-      "term": "ーを",
+      "term": "定の",
       "count": 9
     },
     {
-      "term": "action",
+      "term": "ファイル",
       "count": 9
     },
     {
-      "term": "カル",
+      "term": "ルの",
+      "count": 9
+    },
+    {
+      "term": "るが",
+      "count": 9
+    },
+    {
+      "term": "用い",
       "count": 8
     },
     {
-      "term": "テム",
+      "term": "にも",
       "count": 8
     },
     {
-      "term": "シス",
+      "term": "とで",
       "count": 8
     },
     {
-      "term": "ビルド上",
+      "term": "docker",
       "count": 8
     },
     {
-      "term": "の漏",
+      "term": "権限",
+      "count": 8
+    },
+    {
+      "term": "name",
+      "count": 8
+    },
+    {
+      "term": "ド上",
       "count": 7
     },
     {
-      "term": "る主",
+      "term": "もの",
       "count": 7
     },
     {
-      "term": "version",
+      "term": "cosign",
       "count": 7
     },
     {
-      "term": "れば",
+      "term": "ムチーム",
       "count": 7
     },
     {
-      "term": "記述",
+      "term": "ルに",
       "count": 7
     },
     {
-      "term": "対し",
+      "term": "rulesets",
       "count": 7
     },
     {
-      "term": "次に",
-      "count": 7
-    },
-    {
-      "term": "果物",
-      "count": 7
-    },
-    {
-      "term": "ド管",
+      "term": "理シ",
       "count": 6
     },
     {
-      "term": "ショ",
+      "term": "とす",
       "count": 6
     },
     {
-      "term": "した",
+      "term": "図 ",
       "count": 6
     },
     {
-      "term": "なお",
+      "term": "頼で",
       "count": 6
     },
     {
-      "term": "の連",
+      "term": "ソフトウ",
       "count": 6
     },
     {
-      "term": "secrets",
+      "term": "カウ",
       "count": 6
     },
     {
-      "term": "の変",
+      "term": "and",
       "count": 6
     },
     {
-      "term": "とも",
+      "term": "る ",
       "count": 6
     },
     {
-      "term": "される",
+      "term": "image",
       "count": 6
     },
     {
-      "term": "の管",
+      "term": "ることが",
       "count": 6
     },
     {
-      "term": "format",
-      "count": 6
+      "term": "実装",
+      "count": 5
     },
     {
-      "term": "predicate",
-      "count": 6
+      "term": "ート",
+      "count": 5
     },
     {
-      "term": "要 ",
+      "term": "含む",
+      "count": 5
+    },
+    {
+      "term": "26",
+      "count": 5
+    },
+    {
+      "term": "リス",
       "count": 5
     }
   ],
