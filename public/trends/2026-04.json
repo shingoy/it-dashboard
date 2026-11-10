@@ -2,147 +2,75 @@
   "month": "2026-04",
   "keywords": [
     {
-      "term": "年５",
+      "term": "にお",
       "count": 2
     },
     {
-      "term": "合的",
+      "term": "議決",
       "count": 2
     },
     {
-      "term": "ーズ",
+      "term": "両立",
       "count": 2
     },
     {
-      "term": "算額",
+      "term": "の促",
       "count": 2
     },
     {
-      "term": "数の",
+      "term": "応の",
       "count": 2
     },
     {
-      "term": "育成",
+      "term": "係す",
       "count": 2
     },
     {
-      "term": "工知",
+      "term": "億円",
       "count": 2
     },
     {
-      "term": "立に",
+      "term": "ンの",
       "count": 2
     },
     {
-      "term": "見据",
+      "term": "トフ",
+      "count": 2
+    },
+    {
+      "term": "テム",
+      "count": 2
+    },
+    {
+      "term": "事業費の",
+      "count": 2
+    },
+    {
+      "term": "用の",
+      "count": 2
+    },
+    {
+      "term": "人工知能",
+      "count": 2
+    },
+    {
+      "term": "額を",
+      "count": 2
+    },
+    {
+      "term": "カル",
       "count": 1
     },
     {
-      "term": "について",
+      "term": "者及",
       "count": 1
     },
     {
-      "term": "業推",
+      "term": "業財",
       "count": 1
     },
     {
-      "term": "グラ",
-      "count": 1
-    },
-    {
-      "term": "動オ",
-      "count": 1
-    },
-    {
-      "term": "続的",
-      "count": 1
-    },
-    {
-      "term": "性確",
-      "count": 1
-    },
-    {
-      "term": "力の",
-      "count": 1
-    },
-    {
-      "term": "ログ",
-      "count": 1
-    },
-    {
-      "term": "コン",
-      "count": 1
-    },
-    {
-      "term": "の充",
-      "count": 1
-    },
-    {
-      "term": "uav",
-      "count": 1
-    },
-    {
-      "term": "ィン",
-      "count": 1
-    },
-    {
-      "term": "の特",
-      "count": 1
-    },
-    {
-      "term": "ズ探",
-      "count": 1
-    },
-    {
-      "term": "者向",
-      "count": 1
-    },
-    {
-      "term": "地震動評",
-      "count": 1
-    },
-    {
-      "term": "高度化",
-      "count": 1
-    },
-    {
-      "term": "約５",
-      "count": 1
-    },
-    {
-      "term": "ピュ",
-      "count": 1
-    },
-    {
-      "term": "農業",
-      "count": 1
-    },
-    {
-      "term": "動地",
-      "count": 1
-    },
-    {
-      "term": "に基",
-      "count": 1
-    },
-    {
-      "term": "営の",
-      "count": 1
-    },
-    {
-      "term": "その",
-      "count": 1
-    },
-    {
-      "term": "ガバナン",
-      "count": 1
-    },
-    {
-      "term": "発支援",
-      "count": 1
-    },
-    {
-      "term": "予測",
+      "term": "フラ",
       "count": 1
     },
     {
@@ -150,55 +78,127 @@
       "count": 1
     },
     {
-      "term": "マー",
+      "term": "た研",
       "count": 1
     },
     {
-      "term": "金の",
+      "term": "テナ",
       "count": 1
     },
     {
-      "term": "総 ",
+      "term": "ファ",
       "count": 1
     },
     {
-      "term": "保に向け",
+      "term": "クノロジ",
       "count": 1
     },
     {
-      "term": "な施",
+      "term": "産業",
       "count": 1
     },
     {
-      "term": "利活用の",
+      "term": "コンテナ",
       "count": 1
     },
     {
-      "term": "繋げ",
+      "term": "セラミッ",
       "count": 1
     },
     {
-      "term": "おい",
+      "term": "額1",
       "count": 1
     },
     {
-      "term": "学研",
+      "term": "ない",
       "count": 1
     },
     {
-      "term": "算に",
+      "term": "新経",
       "count": 1
     },
     {
-      "term": "デジ",
+      "term": "制度",
       "count": 1
     },
     {
-      "term": "ークサー",
+      "term": "の負",
       "count": 1
     },
     {
-      "term": "に繋げる",
+      "term": "た意思決",
+      "count": 1
+    },
+    {
+      "term": "ター",
+      "count": 1
+    },
+    {
+      "term": "捨五入し",
+      "count": 1
+    },
+    {
+      "term": "予算",
+      "count": 1
+    },
+    {
+      "term": "つい",
+      "count": 1
+    },
+    {
+      "term": "円 ",
+      "count": 1
+    },
+    {
+      "term": "信頼",
+      "count": 1
+    },
+    {
+      "term": "頼性",
+      "count": 1
+    },
+    {
+      "term": "チモ",
+      "count": 1
+    },
+    {
+      "term": "業費",
+      "count": 1
+    },
+    {
+      "term": "ード",
+      "count": 1
+    },
+    {
+      "term": "シス",
+      "count": 1
+    },
+    {
+      "term": "個々",
+      "count": 1
+    },
+    {
+      "term": "けの",
+      "count": 1
+    },
+    {
+      "term": "場合",
+      "count": 1
+    },
+    {
+      "term": "る主",
+      "count": 1
+    },
+    {
+      "term": "ュー",
+      "count": 1
+    },
+    {
+      "term": "産業財産",
+      "count": 1
+    },
+    {
+      "term": "価技",
       "count": 1
     }
   ],
