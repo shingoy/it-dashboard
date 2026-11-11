@@ -2,91 +2,103 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "リポ",
+      "term": "る ",
+      "count": 27
+    },
+    {
+      "term": "ード",
+      "count": 21
+    },
+    {
+      "term": "ポジ",
       "count": 20
     },
     {
-      "term": "イル",
+      "term": "aws",
       "count": 19
     },
     {
-      "term": "には",
+      "term": "actions",
+      "count": 18
+    },
+    {
+      "term": "ルド",
       "count": 17
     },
     {
-      "term": "実行",
+      "term": "ソー",
       "count": 16
     },
     {
-      "term": "およ",
+      "term": "れた",
+      "count": 16
+    },
+    {
+      "term": "ーク",
       "count": 15
     },
     {
-      "term": "信頼",
+      "term": "フォ",
       "count": 15
     },
     {
-      "term": "ては",
+      "term": "した",
+      "count": 15
+    },
+    {
+      "term": "から",
+      "count": 15
+    },
+    {
+      "term": "いて",
       "count": 14
     },
     {
-      "term": "れた",
+      "term": "のた",
+      "count": 14
+    },
+    {
+      "term": "頼性",
       "count": 13
     },
     {
-      "term": "とが",
-      "count": 13
-    },
-    {
-      "term": "レッ",
-      "count": 12
-    },
-    {
-      "term": "の保",
-      "count": 12
-    },
-    {
-      "term": "依存",
+      "term": "の実",
       "count": 11
     },
     {
-      "term": "ルを",
+      "term": "環境",
       "count": 11
     },
     {
-      "term": "よう",
+      "term": "はな",
       "count": 11
     },
     {
-      "term": "ビルドフ",
+      "term": "の ",
       "count": 10
     },
     {
-      "term": "安全性の",
+      "term": "ー ",
       "count": 10
-    },
-    {
-      "term": "provenance",
-      "count": 10
-    },
-    {
-      "term": "の担",
-      "count": 9
-    },
-    {
-      "term": "でき",
-      "count": 9
-    },
-    {
-      "term": "定の",
-      "count": 9
-    },
-    {
-      "term": "ファイル",
-      "count": 9
     },
     {
       "term": "ルの",
+      "count": 10
+    },
+    {
+      "term": "は ",
+      "count": 10
+    },
+    {
+      "term": "ェア",
+      "count": 9
+    },
+    {
+      "term": "ビス",
+      "count": 9
+    },
+    {
+      "term": "とい",
       "count": 9
     },
     {
@@ -94,112 +106,100 @@
       "count": 9
     },
     {
-      "term": "用い",
+      "term": "github",
+      "count": 9
+    },
+    {
+      "term": "での実行",
       "count": 8
     },
     {
-      "term": "にも",
+      "term": "囲の",
       "count": 8
     },
     {
-      "term": "とで",
+      "term": "行範",
       "count": 8
     },
     {
-      "term": "docker",
+      "term": "の信",
       "count": 8
     },
     {
-      "term": "権限",
+      "term": "を用",
       "count": 8
+    },
+    {
+      "term": "この",
+      "count": 8
+    },
+    {
+      "term": "よう",
+      "count": 8
+    },
+    {
+      "term": "のよ",
+      "count": 8
+    },
+    {
+      "term": "こと",
+      "count": 8
+    },
+    {
+      "term": "運用",
+      "count": 7
+    },
+    {
+      "term": "リ及",
+      "count": 7
+    },
+    {
+      "term": "プラット",
+      "count": 7
+    },
+    {
+      "term": "るま",
+      "count": 7
+    },
+    {
+      "term": "ると",
+      "count": 7
+    },
+    {
+      "term": "ル ",
+      "count": 7
+    },
+    {
+      "term": "login",
+      "count": 7
     },
     {
       "term": "name",
-      "count": 8
-    },
-    {
-      "term": "ド上",
       "count": 7
     },
     {
-      "term": "もの",
+      "term": "と同",
       "count": 7
     },
     {
-      "term": "cosign",
-      "count": 7
-    },
-    {
-      "term": "ムチーム",
-      "count": 7
-    },
-    {
-      "term": "ルに",
-      "count": 7
-    },
-    {
-      "term": "rulesets",
-      "count": 7
-    },
-    {
-      "term": "理シ",
+      "term": "セキ",
       "count": 6
     },
     {
-      "term": "とす",
+      "term": "24",
       "count": 6
     },
     {
-      "term": "図 ",
+      "term": "たコ",
       "count": 6
     },
     {
-      "term": "頼で",
+      "term": "の署",
       "count": 6
     },
     {
-      "term": "ソフトウ",
+      "term": "取り",
       "count": 6
-    },
-    {
-      "term": "カウ",
-      "count": 6
-    },
-    {
-      "term": "and",
-      "count": 6
-    },
-    {
-      "term": "る ",
-      "count": 6
-    },
-    {
-      "term": "image",
-      "count": 6
-    },
-    {
-      "term": "ることが",
-      "count": 6
-    },
-    {
-      "term": "実装",
-      "count": 5
-    },
-    {
-      "term": "ート",
-      "count": 5
-    },
-    {
-      "term": "含む",
-      "count": 5
-    },
-    {
-      "term": "26",
-      "count": 5
-    },
-    {
-      "term": "リス",
-      "count": 5
     }
   ],
   "meetings": [
