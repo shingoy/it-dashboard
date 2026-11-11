@@ -2,15 +2,27 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "いて",
+      "term": "登記",
+      "count": 25
+    },
+    {
+      "term": "に関",
       "count": 24
     },
     {
-      "term": "る ",
+      "term": "利用",
       "count": 23
     },
     {
-      "term": "は ",
+      "term": "デジ",
+      "count": 23
+    },
+    {
+      "term": "ため",
+      "count": 20
+    },
+    {
+      "term": "され",
       "count": 18
     },
     {
@@ -18,47 +30,51 @@
       "count": 16
     },
     {
-      "term": "のた",
+      "term": "タの",
+      "count": 16
+    },
+    {
+      "term": "を目",
       "count": 15
     },
     {
-      "term": "ると",
+      "term": "の効率化",
       "count": 14
     },
     {
-      "term": "から",
+      "term": "とと",
       "count": 13
     },
     {
-      "term": "の ",
+      "term": "があ",
       "count": 13
     },
     {
-      "term": "第３",
+      "term": "上で",
       "count": 12
     },
     {
-      "term": "関の",
-      "count": 12
-    },
-    {
-      "term": "面の",
+      "term": "時期",
       "count": 11
     },
     {
-      "term": "の実",
+      "term": "書面",
       "count": 11
     },
     {
-      "term": "組 ",
+      "term": "を図",
       "count": 11
     },
     {
-      "term": "ル ",
+      "term": "ール",
       "count": 10
     },
     {
-      "term": "運用",
+      "term": "とも",
+      "count": 10
+    },
+    {
+      "term": "の行",
       "count": 10
     },
     {
@@ -66,7 +82,15 @@
       "count": 10
     },
     {
-      "term": "を提",
+      "term": "社会",
+      "count": 9
+    },
+    {
+      "term": "億円",
+      "count": 9
+    },
+    {
+      "term": "商業",
       "count": 9
     },
     {
@@ -74,103 +98,55 @@
       "count": 9
     },
     {
-      "term": "進め",
+      "term": "データを",
       "count": 9
     },
     {
-      "term": "団体",
-      "count": 9
-    },
-    {
-      "term": "行政運営",
-      "count": 9
-    },
-    {
-      "term": "現在",
-      "count": 9
-    },
-    {
-      "term": "番号",
-      "count": 9
-    },
-    {
-      "term": "及び行政",
-      "count": 9
-    },
-    {
-      "term": "した",
+      "term": "有等",
       "count": 8
     },
     {
-      "term": "度所",
+      "term": "基礎情報",
       "count": 8
     },
     {
-      "term": "19",
+      "term": "行っ",
       "count": 8
     },
     {
-      "term": "ころ",
-      "count": 8
-    },
-    {
-      "term": "ースの利",
-      "count": 8
-    },
-    {
-      "term": "用途",
+      "term": "施時",
       "count": 7
     },
     {
-      "term": "土地所有",
+      "term": "しな",
       "count": 7
     },
     {
-      "term": "善に",
+      "term": "じて",
       "count": 7
     },
     {
-      "term": "政運",
+      "term": "用者",
       "count": 7
     },
     {
-      "term": "るま",
+      "term": "化の",
       "count": 7
     },
     {
-      "term": "れた",
-      "count": 7
-    },
-    {
-      "term": "異な",
-      "count": 7
-    },
-    {
-      "term": "ヘト",
-      "count": 7
-    },
-    {
-      "term": "率化に関",
-      "count": 7
-    },
-    {
-      "term": "21",
-      "count": 7
-    },
-    {
-      "term": "図情",
+      "term": "のシステ",
       "count": 6
     },
     {
-      "term": "地図情報",
+      "term": "確保",
       "count": 6
     },
     {
-      "term": "ル社",
+      "term": "報等",
       "count": 6
     },
     {
-      "term": "る場",
+      "term": "続に",
       "count": 6
     },
     {
@@ -178,27 +154,51 @@
       "count": 6
     },
     {
-      "term": "請求",
+      "term": "理す",
       "count": 6
     },
     {
-      "term": "度に",
-      "count": 6
-    },
-    {
-      "term": "供に",
+      "term": "居表",
       "count": 5
     },
     {
-      "term": "住居",
+      "term": "台帳",
       "count": 5
     },
     {
-      "term": "令等",
+      "term": "改善",
       "count": 5
     },
     {
-      "term": "ム ",
+      "term": "度 ",
+      "count": 5
+    },
+    {
+      "term": "13",
+      "count": 5
+    },
+    {
+      "term": "民間",
+      "count": 5
+    },
+    {
+      "term": "スや",
+      "count": 5
+    },
+    {
+      "term": "留意",
+      "count": 5
+    },
+    {
+      "term": "る手",
+      "count": 5
+    },
+    {
+      "term": "めて",
+      "count": 5
+    },
+    {
+      "term": "既に",
       "count": 5
     }
   ],
