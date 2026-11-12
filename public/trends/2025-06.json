@@ -2,204 +2,204 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "され",
-      "count": 26
+      "term": "きる",
+      "count": 23
+    },
+    {
+      "term": "ため",
+      "count": 22
     },
     {
       "term": "利用",
       "count": 21
     },
     {
-      "term": "ため",
-      "count": 21
+      "term": "aws",
+      "count": 18
     },
     {
-      "term": "ール",
-      "count": 19
-    },
-    {
-      "term": "ルド",
+      "term": "ない",
       "count": 17
     },
     {
-      "term": "ソー",
+      "term": "ビス",
       "count": 16
+    },
+    {
+      "term": "ビル",
+      "count": 15
+    },
+    {
+      "term": "ービ",
+      "count": 15
+    },
+    {
+      "term": "プロ",
+      "count": 14
     },
     {
       "term": "があ",
       "count": 14
     },
     {
-      "term": "よる",
-      "count": 13
+      "term": "その",
+      "count": 12
     },
     {
-      "term": "上で",
+      "term": "いて",
       "count": 11
     },
     {
-      "term": "チェ",
+      "term": "存物",
       "count": 11
     },
     {
-      "term": "定す",
+      "term": "制限",
       "count": 11
     },
     {
-      "term": "状態",
+      "term": "バー",
       "count": 11
     },
     {
-      "term": "えら",
+      "term": "ファイル",
       "count": 11
     },
     {
-      "term": "確保",
+      "term": "スキ",
       "count": 10
     },
     {
-      "term": "のc",
-      "count": 10
-    },
-    {
-      "term": "ー ",
-      "count": 10
-    },
-    {
-      "term": "aws",
-      "count": 10
-    },
-    {
-      "term": "id",
-      "count": 10
-    },
-    {
-      "term": "に関",
+      "term": "の確",
       "count": 9
     },
     {
-      "term": "ック",
+      "term": "策 ",
       "count": 9
     },
     {
-      "term": "ブラ",
+      "term": "性管",
       "count": 9
     },
     {
-      "term": "フォーム",
+      "term": "の制",
       "count": 9
     },
     {
-      "term": "の信",
-      "count": 9
-    },
-    {
-      "term": "git",
-      "count": 9
-    },
-    {
-      "term": "では",
-      "count": 9
-    },
-    {
-      "term": "env",
-      "count": 9
-    },
-    {
-      "term": "ング",
+      "term": "シス",
       "count": 8
     },
     {
-      "term": "on",
+      "term": "脆弱性管",
       "count": 8
     },
     {
-      "term": "変更",
+      "term": "リソ",
+      "count": 8
+    },
+    {
+      "term": "スク",
+      "count": 8
+    },
+    {
+      "term": "イメージ",
+      "count": 8
+    },
+    {
+      "term": "作成",
+      "count": 8
+    },
+    {
+      "term": "バイナリ",
       "count": 7
     },
     {
-      "term": "フェ",
+      "term": "自動",
       "count": 7
     },
     {
-      "term": "考えられ",
+      "term": "ジを",
       "count": 7
     },
     {
-      "term": "plan",
+      "term": "ムチーム",
       "count": 7
     },
     {
-      "term": "にす",
+      "term": "cosign",
       "count": 7
     },
     {
-      "term": "記述",
+      "term": "がある",
       "count": 7
     },
     {
-      "term": "および",
+      "term": "事項",
       "count": 7
     },
     {
-      "term": "ップ",
+      "term": "この",
       "count": 7
     },
     {
-      "term": "ルに",
+      "term": "name",
       "count": 7
     },
     {
-      "term": "の漏洩対",
+      "term": "理シ",
       "count": 6
     },
     {
-      "term": "ド管",
+      "term": "ワー",
       "count": 6
     },
     {
-      "term": "はプ",
+      "term": "信頼性の",
       "count": 6
     },
     {
-      "term": "完全",
+      "term": "依存物の",
       "count": 6
     },
     {
-      "term": "ビュ",
+      "term": "フェーズ",
       "count": 6
     },
     {
-      "term": "とも",
+      "term": "を確",
       "count": 6
     },
     {
-      "term": "repository",
+      "term": "ここでは",
       "count": 6
     },
     {
-      "term": "らの",
+      "term": "策に",
       "count": 6
     },
     {
-      "term": "の管",
+      "term": "の変",
       "count": 6
     },
     {
-      "term": "steps",
+      "term": "rule",
       "count": 6
     },
     {
-      "term": "slsa",
+      "term": "rulesets",
       "count": 6
     },
     {
-      "term": "13",
-      "count": 5
+      "term": "ーに",
+      "count": 6
     },
     {
-      "term": "ることを",
-      "count": 5
+      "term": "る ",
+      "count": 6
+    },
+    {
+      "term": "image",
+      "count": 6
     }
   ],
   "meetings": [
