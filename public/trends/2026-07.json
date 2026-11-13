@@ -2,39 +2,35 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "関等",
-      "count": 19
+      "term": "情報",
+      "count": 28
     },
     {
-      "term": "率化",
-      "count": 19
+      "term": "ステ",
+      "count": 22
     },
     {
-      "term": "てい",
-      "count": 17
+      "term": "係デ",
+      "count": 18
     },
     {
-      "term": "より",
-      "count": 16
+      "term": "を目",
+      "count": 15
     },
     {
-      "term": "タの",
-      "count": 16
+      "term": "政策",
+      "count": 15
     },
     {
       "term": "これ",
       "count": 15
     },
     {
-      "term": "の省",
+      "term": "要な",
       "count": 14
     },
     {
-      "term": "を踏",
-      "count": 14
-    },
-    {
-      "term": "いう",
+      "term": "年度",
       "count": 14
     },
     {
@@ -42,163 +38,167 @@
       "count": 14
     },
     {
-      "term": "方針",
+      "term": "用 ",
       "count": 13
     },
     {
-      "term": "があ",
+      "term": "に ",
       "count": 13
     },
     {
-      "term": "確認",
+      "term": "なる",
+      "count": 13
+    },
+    {
+      "term": "進法",
       "count": 12
+    },
+    {
+      "term": "省庁",
+      "count": 11
+    },
+    {
+      "term": "標準",
+      "count": 11
+    },
+    {
+      "term": "め ",
+      "count": 11
+    },
+    {
+      "term": "進 ",
+      "count": 10
+    },
+    {
+      "term": "概要",
+      "count": 10
+    },
+    {
+      "term": "認 ",
+      "count": 9
+    },
+    {
+      "term": "人登",
+      "count": 9
+    },
+    {
+      "term": "する取組",
+      "count": 9
+    },
+    {
+      "term": "での",
+      "count": 8
+    },
+    {
+      "term": "参考",
+      "count": 8
+    },
+    {
+      "term": "含め",
+      "count": 8
+    },
+    {
+      "term": "和 ",
+      "count": 8
+    },
+    {
+      "term": "公共",
+      "count": 8
+    },
+    {
+      "term": "報 ",
+      "count": 7
+    },
+    {
+      "term": "間の",
+      "count": 7
+    },
+    {
+      "term": "別紙",
+      "count": 7
+    },
+    {
+      "term": "るま",
+      "count": 7
+    },
+    {
+      "term": "明書",
+      "count": 7
+    },
+    {
+      "term": "全て",
+      "count": 7
+    },
+    {
+      "term": "ら ",
+      "count": 7
+    },
+    {
+      "term": "るシ",
+      "count": 7
+    },
+    {
+      "term": "な方",
+      "count": 6
+    },
+    {
+      "term": "用目",
+      "count": 6
+    },
+    {
+      "term": "社会",
+      "count": 6
     },
     {
       "term": "第２",
-      "count": 12
-    },
-    {
-      "term": "所在",
-      "count": 12
-    },
-    {
-      "term": "場合",
-      "count": 11
-    },
-    {
-      "term": "データの",
-      "count": 11
-    },
-    {
-      "term": "等に",
-      "count": 11
-    },
-    {
-      "term": "負担",
-      "count": 11
-    },
-    {
-      "term": "和８",
-      "count": 11
-    },
-    {
-      "term": "随時",
-      "count": 11
-    },
-    {
-      "term": "ての",
-      "count": 10
-    },
-    {
-      "term": "続に",
-      "count": 10
-    },
-    {
-      "term": "ムを",
-      "count": 10
-    },
-    {
-      "term": "億円",
-      "count": 9
-    },
-    {
-      "term": "化し",
-      "count": 9
-    },
-    {
-      "term": "号イ",
-      "count": 9
-    },
-    {
-      "term": "18",
-      "count": 9
-    },
-    {
-      "term": "トの",
-      "count": 8
-    },
-    {
-      "term": "の確",
-      "count": 8
-    },
-    {
-      "term": "タに",
-      "count": 8
-    },
-    {
-      "term": "スケジュ",
-      "count": 8
-    },
-    {
-      "term": "様々",
-      "count": 8
-    },
-    {
-      "term": "地図",
-      "count": 7
-    },
-    {
-      "term": "への",
-      "count": 7
-    },
-    {
-      "term": "の課",
-      "count": 7
-    },
-    {
-      "term": "項証",
-      "count": 7
-    },
-    {
-      "term": "求め",
-      "count": 7
-    },
-    {
-      "term": "請項",
-      "count": 7
-    },
-    {
-      "term": "とな",
-      "count": 7
-    },
-    {
-      "term": "後整",
       "count": 6
     },
     {
-      "term": "ル社",
+      "term": "令に",
       "count": 6
     },
     {
-      "term": "要と",
+      "term": "請者",
       "count": 6
     },
     {
-      "term": "で利",
+      "term": "関に",
       "count": 6
     },
     {
-      "term": "体の",
+      "term": "庁が",
       "count": 6
     },
     {
-      "term": "度ま",
+      "term": "報提",
       "count": 6
     },
     {
-      "term": "公用",
-      "count": 6
-    },
-    {
-      "term": "組を",
+      "term": "台帳",
       "count": 5
     },
     {
-      "term": "供に",
+      "term": "ベー",
       "count": 5
     },
     {
-      "term": "当た",
+      "term": "れている",
+      "count": 5
+    },
+    {
+      "term": "るく",
+      "count": 5
+    },
+    {
+      "term": "めて",
+      "count": 5
+    },
+    {
+      "term": "ii",
+      "count": 5
+    },
+    {
+      "term": "れた",
       "count": 5
     }
   ],
