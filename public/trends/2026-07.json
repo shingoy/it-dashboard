@@ -2,71 +2,59 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "タベ",
-      "count": 26
+      "term": "いて",
+      "count": 24
     },
     {
-      "term": "につ",
+      "term": "る ",
+      "count": 23
+    },
+    {
+      "term": "スト",
       "count": 22
     },
     {
-      "term": "つい",
+      "term": "テム",
       "count": 22
     },
     {
-      "term": "を行",
-      "count": 19
-    },
-    {
-      "term": "推進",
-      "count": 19
-    },
-    {
-      "term": "され",
+      "term": "効率",
       "count": 18
     },
     {
-      "term": "スを",
+      "term": "は ",
+      "count": 18
+    },
+    {
+      "term": "民の",
       "count": 17
     },
     {
-      "term": "タの",
-      "count": 16
-    },
-    {
-      "term": "効果",
-      "count": 16
-    },
-    {
-      "term": "いる",
-      "count": 16
-    },
-    {
-      "term": "のた",
-      "count": 15
-    },
-    {
-      "term": "ステ",
-      "count": 15
-    },
-    {
-      "term": "るデ",
+      "term": "報に",
       "count": 14
     },
     {
-      "term": "的基",
+      "term": "おけ",
+      "count": 13
+    },
+    {
+      "term": "記関",
       "count": 12
     },
     {
-      "term": "た ",
+      "term": "う ",
+      "count": 12
+    },
+    {
+      "term": "国民の利",
+      "count": 12
+    },
+    {
+      "term": "所所",
       "count": 11
     },
     {
-      "term": "人ベ",
-      "count": 11
-    },
-    {
-      "term": "これ",
+      "term": "省庁",
       "count": 11
     },
     {
@@ -74,131 +62,143 @@
       "count": 11
     },
     {
-      "term": "スト",
+      "term": "今後",
       "count": 10
-    },
-    {
-      "term": "の行",
-      "count": 10
-    },
-    {
-      "term": "いう",
-      "count": 10
-    },
-    {
-      "term": "記事",
-      "count": 10
-    },
-    {
-      "term": "ての",
-      "count": 10
-    },
-    {
-      "term": "で ",
-      "count": 10
-    },
-    {
-      "term": "関等",
-      "count": 9
-    },
-    {
-      "term": "政府",
-      "count": 9
-    },
-    {
-      "term": "所有",
-      "count": 8
-    },
-    {
-      "term": "化し",
-      "count": 8
     },
     {
       "term": "有等",
+      "count": 10
+    },
+    {
+      "term": "とも",
+      "count": 10
+    },
+    {
+      "term": "とす",
+      "count": 10
+    },
+    {
+      "term": "であ",
+      "count": 10
+    },
+    {
+      "term": "業法",
+      "count": 9
+    },
+    {
+      "term": "には",
+      "count": 9
+    },
+    {
+      "term": "進め",
+      "count": 9
+    },
+    {
+      "term": "基盤",
+      "count": 9
+    },
+    {
+      "term": "され",
+      "count": 9
+    },
+    {
+      "term": "上及",
+      "count": 9
+    },
+    {
+      "term": "タ連",
+      "count": 9
+    },
+    {
+      "term": "割 ",
       "count": 8
-    },
-    {
-      "term": "参考",
-      "count": 8
-    },
-    {
-      "term": "続等",
-      "count": 8
-    },
-    {
-      "term": "整理",
-      "count": 8
-    },
-    {
-      "term": "様々",
-      "count": 8
-    },
-    {
-      "term": "含む",
-      "count": 7
-    },
-    {
-      "term": "務の",
-      "count": 7
-    },
-    {
-      "term": "関係デー",
-      "count": 7
-    },
-    {
-      "term": "し ",
-      "count": 7
-    },
-    {
-      "term": "な行",
-      "count": 7
-    },
-    {
-      "term": "の関",
-      "count": 7
-    },
-    {
-      "term": "を具",
-      "count": 6
-    },
-    {
-      "term": "期間",
-      "count": 6
     },
     {
       "term": "めに",
+      "count": 8
+    },
+    {
+      "term": "共通",
+      "count": 8
+    },
+    {
+      "term": "業務",
+      "count": 8
+    },
+    {
+      "term": "可能",
+      "count": 8
+    },
+    {
+      "term": "の法",
+      "count": 8
+    },
+    {
+      "term": "関に",
+      "count": 8
+    },
+    {
+      "term": "庁に",
+      "count": 8
+    },
+    {
+      "term": "イ ",
+      "count": 8
+    },
+    {
+      "term": "から",
+      "count": 8
+    },
+    {
+      "term": "第５",
       "count": 6
     },
     {
-      "term": "体的",
+      "term": "スで",
       "count": 6
     },
     {
-      "term": "号に",
+      "term": "について",
       "count": 6
     },
     {
-      "term": "14",
+      "term": "又は",
       "count": 6
     },
     {
-      "term": "なく",
+      "term": "なが",
       "count": 6
     },
     {
-      "term": "届出",
+      "term": "律第",
       "count": 6
+    },
+    {
+      "term": "の仕",
+      "count": 6
+    },
+    {
+      "term": "ムか",
+      "count": 6
+    },
+    {
+      "term": "度に",
+      "count": 6
+    },
+    {
+      "term": "によ",
+      "count": 6
+    },
+    {
+      "term": "ム ",
+      "count": 5
+    },
+    {
+      "term": "後の",
+      "count": 5
     },
     {
       "term": "策の",
-      "count": 5
-    },
-    {
-      "term": "れている",
-      "count": 5
-    },
-    {
-      "term": "るほ",
       "count": 5
     }
   ],
