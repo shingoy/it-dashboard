@@ -2,19 +2,35 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "レジ",
+      "term": "ース",
+      "count": 26
+    },
+    {
+      "term": "政機",
+      "count": 22
+    },
+    {
+      "term": "した",
       "count": 21
     },
     {
-      "term": "運営",
+      "term": "営の",
       "count": 19
     },
     {
-      "term": "報の",
+      "term": "年度",
       "count": 18
     },
     {
-      "term": "は ",
+      "term": "され",
+      "count": 18
+    },
+    {
+      "term": "便性",
+      "count": 18
+    },
+    {
+      "term": "ては",
       "count": 18
     },
     {
@@ -22,99 +38,107 @@
       "count": 17
     },
     {
+      "term": "対応",
+      "count": 17
+    },
+    {
+      "term": "検討",
+      "count": 17
+    },
+    {
       "term": "て ",
       "count": 17
     },
     {
-      "term": "的な",
-      "count": 15
+      "term": "促進",
+      "count": 16
     },
     {
-      "term": "11",
-      "count": 15
-    },
-    {
-      "term": "等 ",
-      "count": 15
-    },
-    {
-      "term": "す ",
-      "count": 15
-    },
-    {
-      "term": "在地",
-      "count": 14
+      "term": "て整",
+      "count": 16
     },
     {
       "term": "を利",
-      "count": 13
+      "count": 14
     },
     {
-      "term": "ない",
-      "count": 13
+      "term": "デー",
+      "count": 14
     },
     {
-      "term": "和1",
+      "term": "の効率化",
+      "count": 14
+    },
+    {
+      "term": "基礎",
+      "count": 12
+    },
+    {
+      "term": "提供",
+      "count": 12
+    },
+    {
+      "term": "法令",
       "count": 11
     },
     {
-      "term": "省庁",
-      "count": 11
-    },
-    {
-      "term": "報デ",
+      "term": "今後",
       "count": 10
     },
     {
-      "term": "事業",
+      "term": "的な",
       "count": 10
     },
     {
-      "term": "地関",
+      "term": "異な",
+      "count": 10
+    },
+    {
+      "term": "等と",
+      "count": 10
+    },
+    {
+      "term": "の省略",
       "count": 9
     },
     {
-      "term": "全体",
+      "term": "ースを利",
       "count": 9
     },
     {
-      "term": "ても",
+      "term": "商業",
       "count": 9
     },
     {
-      "term": "基盤",
+      "term": "用に",
       "count": 9
     },
     {
-      "term": "リ ",
+      "term": "ロハ",
+      "count": 9
+    },
+    {
+      "term": "イロ",
+      "count": 9
+    },
+    {
+      "term": "ユー",
       "count": 8
     },
     {
-      "term": "土地",
+      "term": "果 ",
       "count": 8
     },
     {
-      "term": "ースの整",
+      "term": "別の",
       "count": 8
     },
     {
-      "term": "タに",
+      "term": "行っ",
       "count": 8
     },
     {
-      "term": "る情",
-      "count": 8
-    },
-    {
-      "term": "進す",
-      "count": 8
-    },
-    {
-      "term": "が ",
-      "count": 8
-    },
-    {
-      "term": "づき",
+      "term": "番号",
       "count": 8
     },
     {
@@ -122,83 +146,59 @@
       "count": 7
     },
     {
-      "term": "務の",
+      "term": "17",
       "count": 7
     },
     {
-      "term": "の品",
+      "term": "用で",
       "count": 7
     },
     {
-      "term": "成す",
+      "term": "ホヘ",
       "count": 7
     },
     {
-      "term": "ら ",
+      "term": "ムに",
       "count": 7
     },
     {
-      "term": "の入力の",
-      "count": 7
-    },
-    {
-      "term": "入力",
-      "count": 7
-    },
-    {
-      "term": "特定",
-      "count": 7
-    },
-    {
-      "term": "るそ",
-      "count": 7
-    },
-    {
-      "term": "たデ",
-      "count": 7
-    },
-    {
-      "term": "情報の提",
+      "term": "後整",
       "count": 6
     },
     {
-      "term": "対す",
+      "term": "のシ",
       "count": 6
     },
     {
-      "term": "法 ",
+      "term": "題 ",
       "count": 6
     },
     {
-      "term": "らか",
+      "term": "わえ",
       "count": 6
     },
     {
-      "term": "又は",
+      "term": "号に",
       "count": 6
     },
     {
-      "term": "了す",
+      "term": "の次期更",
       "count": 6
     },
     {
-      "term": "完了",
-      "count": 6
-    },
-    {
-      "term": "次期",
-      "count": 6
-    },
-    {
-      "term": "にデ",
-      "count": 6
-    },
-    {
-      "term": "民 ",
+      "term": "報 ",
       "count": 5
     },
     {
-      "term": "タ整",
+      "term": "応じ",
+      "count": 5
+    },
+    {
+      "term": "べく",
+      "count": 5
+    },
+    {
+      "term": "各行",
       "count": 5
     }
   ],
