@@ -2,203 +2,203 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "ある",
-      "count": 25
+      "term": "ァイ",
+      "count": 19
     },
     {
-      "term": "した",
-      "count": 24
+      "term": "ci",
+      "count": 17
     },
     {
-      "term": "ォー",
-      "count": 16
+      "term": "ない",
+      "count": 17
     },
     {
-      "term": "デー",
+      "term": "的な",
       "count": 15
     },
     {
-      "term": "ビス",
+      "term": "よび",
+      "count": 15
+    },
+    {
+      "term": "ード",
+      "count": 15
+    },
+    {
+      "term": "脆弱",
       "count": 14
     },
     {
-      "term": "られ",
-      "count": 13
-    },
-    {
-      "term": "とが",
-      "count": 13
-    },
-    {
-      "term": "ント",
+      "term": "護 ",
       "count": 12
     },
     {
-      "term": "のc",
+      "term": "定す",
       "count": 11
-    },
-    {
-      "term": "トフ",
-      "count": 11
-    },
-    {
-      "term": "com",
-      "count": 11
-    },
-    {
-      "term": "保 ",
-      "count": 10
-    },
-    {
-      "term": "ここ",
-      "count": 10
-    },
-    {
-      "term": "ubuntu",
-      "count": 10
-    },
-    {
-      "term": "メン",
-      "count": 9
-    },
-    {
-      "term": "情報",
-      "count": 9
-    },
-    {
-      "term": "ジト",
-      "count": 9
-    },
-    {
-      "term": "リバ",
-      "count": 9
-    },
-    {
-      "term": "にも",
-      "count": 9
     },
     {
       "term": "サービス",
-      "count": 9
+      "count": 11
     },
     {
-      "term": "セス",
-      "count": 9
+      "term": "の保",
+      "count": 10
     },
     {
-      "term": "での実行",
-      "count": 8
-    },
-    {
-      "term": "定の",
-      "count": 8
-    },
-    {
-      "term": "provenance",
-      "count": 8
-    },
-    {
-      "term": "ーに",
-      "count": 8
-    },
-    {
-      "term": "設定",
-      "count": 8
-    },
-    {
-      "term": "組み",
-      "count": 8
-    },
-    {
-      "term": "組織",
-      "count": 7
-    },
-    {
-      "term": "ェーズの",
-      "count": 7
-    },
-    {
-      "term": "17",
-      "count": 7
-    },
-    {
-      "term": "トウ",
-      "count": 7
-    },
-    {
-      "term": "依存物の",
-      "count": 7
-    },
-    {
-      "term": "用す",
-      "count": 7
-    },
-    {
-      "term": "ジを",
-      "count": 7
-    },
-    {
-      "term": "version",
-      "count": 7
-    },
-    {
-      "term": "ンb",
-      "count": 7
-    },
-    {
-      "term": "および",
-      "count": 7
-    },
-    {
-      "term": "連携",
-      "count": 7
-    },
-    {
-      "term": "アッ",
-      "count": 7
-    },
-    {
-      "term": "がある",
-      "count": 7
+      "term": "ライ",
+      "count": 10
     },
     {
       "term": "は ",
+      "count": 10
+    },
+    {
+      "term": "ティ",
+      "count": 9
+    },
+    {
+      "term": "体的",
+      "count": 9
+    },
+    {
+      "term": "なお",
+      "count": 9
+    },
+    {
+      "term": "が ",
+      "count": 9
+    },
+    {
+      "term": "本書",
+      "count": 9
+    },
+    {
+      "term": "成果物の",
+      "count": 9
+    },
+    {
+      "term": "とい",
+      "count": 9
+    },
+    {
+      "term": "steps",
+      "count": 9
+    },
+    {
+      "term": "るそ",
+      "count": 8
+    },
+    {
+      "term": "docker",
+      "count": 8
+    },
+    {
+      "term": "メー",
+      "count": 8
+    },
+    {
+      "term": "action",
+      "count": 8
+    },
+    {
+      "term": "資産",
       "count": 7
     },
     {
-      "term": "可能であ",
+      "term": "報の",
       "count": 7
     },
     {
-      "term": "特有",
+      "term": "キー",
+      "count": 7
+    },
+    {
+      "term": "通し",
+      "count": 7
+    },
+    {
+      "term": "ーム",
+      "count": 7
+    },
+    {
+      "term": "での実行",
+      "count": 7
+    },
+    {
+      "term": "ェッ",
+      "count": 7
+    },
+    {
+      "term": "name",
+      "count": 7
+    },
+    {
+      "term": "す ",
+      "count": 7
+    },
+    {
+      "term": "ワー",
       "count": 6
     },
     {
-      "term": "の署",
+      "term": "トに",
       "count": 6
     },
     {
-      "term": "ビュ",
+      "term": "した",
       "count": 6
     },
     {
-      "term": "れら",
+      "term": "複数",
       "count": 6
     },
     {
-      "term": "tf",
+      "term": "codebuild",
       "count": 6
     },
     {
-      "term": "合は",
+      "term": "対す",
       "count": 6
     },
     {
-      "term": "はパ",
+      "term": "ンb",
       "count": 6
     },
     {
-      "term": "む運",
+      "term": "amazon",
+      "count": 6
+    },
+    {
+      "term": "実行",
+      "count": 6
+    },
+    {
+      "term": "11",
+      "count": 6
+    },
+    {
+      "term": "ても",
+      "count": 6
+    },
+    {
+      "term": "図 ",
+      "count": 6
+    },
+    {
+      "term": "る ",
+      "count": 6
+    },
+    {
+      "term": "同様",
+      "count": 6
+    },
+    {
+      "term": "scanners",
+      "count": 6
+    },
+    {
+      "term": "運用保守",
       "count": 5
     }
   ],

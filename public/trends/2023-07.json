@@ -2,204 +2,204 @@
   "month": "2023-07",
   "keywords": [
     {
-      "term": "ある",
-      "count": 2537
+      "term": "ない",
+      "count": 2154
     },
     {
-      "term": "した",
-      "count": 2481
+      "term": "は ",
+      "count": 1829
     },
     {
-      "term": "とが",
-      "count": 2002
+      "term": "的な",
+      "count": 1820
     },
     {
-      "term": "られ",
-      "count": 1608
+      "term": "て ",
+      "count": 1749
     },
     {
-      "term": "ント",
-      "count": 1485
+      "term": "す ",
+      "count": 1538
     },
     {
-      "term": "者が",
-      "count": 1200
+      "term": "る情",
+      "count": 1306
     },
     {
-      "term": "合は",
-      "count": 1141
+      "term": "者の",
+      "count": 1240
     },
     {
-      "term": "情報シス",
-      "count": 1112
+      "term": "ても",
+      "count": 1219
     },
     {
-      "term": "情報",
-      "count": 1072
+      "term": "なお",
+      "count": 1217
     },
     {
-      "term": "目的",
-      "count": 1010
-    },
-    {
-      "term": "サイ",
-      "count": 913
-    },
-    {
-      "term": "のと",
-      "count": 870
-    },
-    {
-      "term": "ビス",
-      "count": 862
-    },
-    {
-      "term": "切な",
-      "count": 802
-    },
-    {
-      "term": "応じ",
-      "count": 789
-    },
-    {
-      "term": "ケー",
-      "count": 764
-    },
-    {
-      "term": "政府",
-      "count": 753
-    },
-    {
-      "term": "組織",
-      "count": 745
-    },
-    {
-      "term": "章 ",
-      "count": 742
-    },
-    {
-      "term": "るか",
-      "count": 732
-    },
-    {
-      "term": "り ",
-      "count": 729
-    },
-    {
-      "term": "しい",
-      "count": 727
-    },
-    {
-      "term": "合 ",
-      "count": 712
-    },
-    {
-      "term": "めて",
-      "count": 690
-    },
-    {
-      "term": "観点",
-      "count": 659
-    },
-    {
-      "term": "参考",
-      "count": 630
-    },
-    {
-      "term": "る機",
-      "count": 617
-    },
-    {
-      "term": "スに",
-      "count": 595
-    },
-    {
-      "term": "含め",
-      "count": 582
-    },
-    {
-      "term": "の整",
-      "count": 567
-    },
-    {
-      "term": "た情",
-      "count": 545
-    },
-    {
-      "term": "組み",
-      "count": 538
-    },
-    {
-      "term": "ネッ",
-      "count": 534
-    },
-    {
-      "term": "行わ",
-      "count": 525
-    },
-    {
-      "term": "めた",
-      "count": 515
-    },
-    {
-      "term": "セス",
-      "count": 509
-    },
-    {
-      "term": "しま",
-      "count": 497
-    },
-    {
-      "term": "を明",
-      "count": 494
-    },
-    {
-      "term": "書に",
-      "count": 485
-    },
-    {
-      "term": "to",
-      "count": 467
-    },
-    {
-      "term": "報が",
-      "count": 463
-    },
-    {
-      "term": "にも",
-      "count": 463
-    },
-    {
-      "term": "メン",
-      "count": 454
-    },
-    {
-      "term": "載す",
-      "count": 449
+      "term": "ティ",
+      "count": 1151
     },
     {
       "term": "サービス",
-      "count": 446
+      "count": 1082
     },
     {
-      "term": "デー",
-      "count": 445
+      "term": "が ",
+      "count": 1035
     },
     {
-      "term": "イバ",
+      "term": "又は",
+      "count": 1017
+    },
+    {
+      "term": "等 ",
+      "count": 1013
+    },
+    {
+      "term": "定す",
+      "count": 994
+    },
+    {
+      "term": "事業",
+      "count": 985
+    },
+    {
+      "term": "報の",
+      "count": 955
+    },
+    {
+      "term": "まえ",
+      "count": 871
+    },
+    {
+      "term": "とい",
+      "count": 800
+    },
+    {
+      "term": "ワー",
+      "count": 777
+    },
+    {
+      "term": "を利",
+      "count": 772
+    },
+    {
+      "term": "に当",
+      "count": 709
+    },
+    {
+      "term": "の機",
+      "count": 696
+    },
+    {
+      "term": "づき",
+      "count": 680
+    },
+    {
+      "term": "対す",
+      "count": 675
+    },
+    {
+      "term": "書の",
+      "count": 668
+    },
+    {
+      "term": "特定",
+      "count": 658
+    },
+    {
+      "term": "要件",
+      "count": 628
+    },
+    {
+      "term": "成す",
+      "count": 626
+    },
+    {
+      "term": "務の",
+      "count": 597
+    },
+    {
+      "term": "アプ",
+      "count": 588
+    },
+    {
+      "term": "発生",
+      "count": 568
+    },
+    {
+      "term": "の作",
+      "count": 549
+    },
+    {
+      "term": "まれ",
+      "count": 545
+    },
+    {
+      "term": "ら ",
+      "count": 528
+    },
+    {
+      "term": "施 ",
+      "count": 524
+    },
+    {
+      "term": "外の",
+      "count": 516
+    },
+    {
+      "term": "らか",
+      "count": 513
+    },
+    {
+      "term": "全体",
+      "count": 503
+    },
+    {
+      "term": "複数",
+      "count": 499
+    },
+    {
+      "term": "ィ責",
+      "count": 490
+    },
+    {
+      "term": "リ ",
+      "count": 453
+    },
+    {
+      "term": "有す",
+      "count": 443
+    },
+    {
+      "term": "にあ",
+      "count": 441
+    },
+    {
+      "term": "合わ",
+      "count": 440
+    },
+    {
+      "term": "脆弱",
       "count": 435
     },
     {
-      "term": "the",
-      "count": 435
+      "term": "十分",
+      "count": 429
     },
     {
-      "term": "響を",
-      "count": 428
+      "term": "防止",
+      "count": 427
     },
     {
-      "term": "連携",
-      "count": 411
+      "term": "to",
+      "count": 424
+    },
+    {
+      "term": "スが",
+      "count": 423
     }
   ],
   "meetings": [
