@@ -2,179 +2,195 @@
   "month": "2023-06",
   "keywords": [
     {
-      "term": "年度",
-      "count": 778
+      "term": "度 ",
+      "count": 772
     },
     {
-      "term": "通 ",
-      "count": 583
+      "term": "否 ",
+      "count": 763
     },
     {
-      "term": "則 ",
-      "count": 572
-    },
-    {
-      "term": "項 ",
-      "count": 553
+      "term": "事業",
+      "count": 525
     },
     {
       "term": "項第",
       "count": 512
     },
     {
-      "term": "法令",
-      "count": 467
+      "term": "行規",
+      "count": 502
     },
     {
-      "term": "第1",
-      "count": 453
-    },
-    {
-      "term": "条の",
-      "count": 386
-    },
-    {
-      "term": "認済",
-      "count": 378
-    },
-    {
-      "term": "法 ",
-      "count": 358
-    },
-    {
-      "term": "第2",
-      "count": 354
-    },
-    {
-      "term": "グ規",
-      "count": 315
-    },
-    {
-      "term": "通達等",
-      "count": 315
-    },
-    {
-      "term": "第9",
-      "count": 306
-    },
-    {
-      "term": "もデ",
-      "count": 301
-    },
-    {
-      "term": "は改正",
-      "count": 301
-    },
-    {
-      "term": "よる",
-      "count": 294
-    },
-    {
-      "term": "の条項は",
-      "count": 294
-    },
-    {
-      "term": "検査",
-      "count": 281
+      "term": "する",
+      "count": 476
     },
     {
       "term": "通知",
-      "count": 278
+      "count": 432
     },
     {
-      "term": "告示",
-      "count": 247
+      "term": "にお",
+      "count": 408
     },
     {
-      "term": "示通",
-      "count": 240
+      "term": "別表",
+      "count": 378
     },
     {
-      "term": "とを確認",
-      "count": 230
+      "term": "類 ",
+      "count": 374
     },
     {
-      "term": "の一",
-      "count": 230
+      "term": "し要",
+      "count": 365
     },
     {
-      "term": "月６",
-      "count": 228
+      "term": "る法",
+      "count": 356
     },
     {
-      "term": "目視",
-      "count": 212
+      "term": "に関する",
+      "count": 355
+    },
+    {
+      "term": "改正",
+      "count": 327
+    },
+    {
+      "term": "の概",
+      "count": 321
+    },
+    {
+      "term": "施行",
+      "count": 319
+    },
+    {
+      "term": "則 ",
+      "count": 315
+    },
+    {
+      "term": "は改",
+      "count": 315
     },
     {
       "term": "及び",
-      "count": 203
+      "count": 308
     },
     {
-      "term": "期 ",
-      "count": 201
+      "term": "月 ",
+      "count": 303
     },
     {
-      "term": "17",
-      "count": 199
+      "term": "出又",
+      "count": 300
     },
     {
-      "term": "令 ",
-      "count": 196
+      "term": "項は",
+      "count": 296
     },
     {
-      "term": "後 ",
-      "count": 191
+      "term": "第5",
+      "count": 282
     },
     {
-      "term": "査 ",
-      "count": 187
+      "term": "の内",
+      "count": 273
     },
     {
-      "term": "条 ",
-      "count": 186
+      "term": "法令",
+      "count": 254
     },
     {
-      "term": "直しを要",
-      "count": 183
+      "term": "要 ",
+      "count": 236
     },
     {
-      "term": "所管省庁",
-      "count": 182
+      "term": "月６",
+      "count": 229
     },
     {
-      "term": "点検対象",
-      "count": 182
-    },
-    {
-      "term": "在 ",
-      "count": 181
-    },
-    {
-      "term": "確保",
-      "count": 180
+      "term": "型 ",
+      "count": 223
     },
     {
       "term": "ける",
+      "count": 223
+    },
+    {
+      "term": "点検対象",
+      "count": 212
+    },
+    {
+      "term": "視規",
+      "count": 210
+    },
+    {
+      "term": "規 ",
+      "count": 210
+    },
+    {
+      "term": "和６",
+      "count": 206
+    },
+    {
+      "term": "所管",
+      "count": 200
+    },
+    {
+      "term": "点検",
+      "count": 193
+    },
+    {
+      "term": "産業",
+      "count": 192
+    },
+    {
+      "term": "の2",
+      "count": 189
+    },
+    {
+      "term": "が確",
+      "count": 188
+    },
+    {
+      "term": "在 ",
+      "count": 182
+    },
+    {
+      "term": "ー ",
+      "count": 182
+    },
+    {
+      "term": "条項",
+      "count": 181
+    },
+    {
+      "term": "ログ",
+      "count": 180
+    },
+    {
+      "term": "第8",
+      "count": 180
+    },
+    {
+      "term": "項の",
+      "count": 179
+    },
+    {
+      "term": "又は",
+      "count": 177
+    },
+    {
+      "term": "11",
       "count": 176
     },
     {
-      "term": "和４",
-      "count": 175
+      "term": "合性",
+      "count": 169
     },
     {
-      "term": "済 ",
-      "count": 174
-    },
-    {
-      "term": "が2",
-      "count": 173
-    },
-    {
-      "term": "表 ",
-      "count": 171
-    },
-    {
-      "term": "体 ",
+      "term": "しの",
       "count": 168
     },
     {
@@ -182,24 +198,8 @@
       "count": 166
     },
     {
-      "term": "名 ",
-      "count": 161
-    },
-    {
-      "term": "とを",
-      "count": 159
-    },
-    {
-      "term": "類 ",
-      "count": 159
-    },
-    {
-      "term": "確認",
-      "count": 154
-    },
-    {
-      "term": "る ",
-      "count": 154
+      "term": "てい",
+      "count": 165
     }
   ],
   "meetings": [
