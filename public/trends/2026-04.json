@@ -2,191 +2,79 @@
   "month": "2026-04",
   "keywords": [
     {
-      "term": "は予",
+      "term": "最も",
       "count": 2
     },
     {
-      "term": "ほか",
+      "term": "個々",
       "count": 2
     },
     {
-      "term": "事業",
+      "term": "行及",
       "count": 2
     },
     {
-      "term": "基盤",
+      "term": "材育",
       "count": 2
     },
     {
-      "term": "にお",
+      "term": "月成",
       "count": 2
     },
     {
-      "term": "両立に向",
+      "term": "開発",
       "count": 2
     },
     {
-      "term": "主な",
+      "term": "人材",
       "count": 2
     },
     {
-      "term": "連す",
+      "term": "部等",
       "count": 2
     },
     {
-      "term": "代コ",
+      "term": "用の促進",
       "count": 1
     },
     {
-      "term": "ーズ",
+      "term": "性向",
       "count": 1
     },
     {
-      "term": "援厚",
+      "term": "ラh",
       "count": 1
     },
     {
-      "term": "従事",
+      "term": "能力",
       "count": 1
     },
     {
-      "term": "練 ",
+      "term": "権制",
       "count": 1
     },
     {
-      "term": "ゲット予",
+      "term": "の主",
       "count": 1
     },
     {
-      "term": "人戦",
+      "term": "頼性",
       "count": 1
     },
     {
-      "term": "スコ",
+      "term": "測シ",
       "count": 1
     },
     {
-      "term": "略的",
+      "term": "げる",
       "count": 1
     },
     {
-      "term": "業経",
+      "term": "車両",
       "count": 1
     },
     {
-      "term": "チモ",
-      "count": 1
-    },
-    {
-      "term": "者向けの",
-      "count": 1
-    },
-    {
-      "term": "事者の負",
-      "count": 1
-    },
-    {
-      "term": "離職者及",
-      "count": 1
-    },
-    {
-      "term": "制度",
-      "count": 1
-    },
-    {
-      "term": "震動",
-      "count": 1
-    },
-    {
-      "term": "評価",
-      "count": 1
-    },
-    {
-      "term": "に関する",
-      "count": 1
-    },
-    {
-      "term": "ータ",
-      "count": 1
-    },
-    {
-      "term": "科学",
-      "count": 1
-    },
-    {
-      "term": "営の",
-      "count": 1
-    },
-    {
-      "term": "計画",
-      "count": 1
-    },
-    {
-      "term": "デー",
-      "count": 1
-    },
-    {
-      "term": "離職",
-      "count": 1
-    },
-    {
-      "term": "世代",
-      "count": 1
-    },
-    {
-      "term": "と協",
-      "count": 1
-    },
-    {
-      "term": "の４",
-      "count": 1
-    },
-    {
-      "term": "プロ",
-      "count": 1
-    },
-    {
-      "term": "変革",
-      "count": 1
-    },
-    {
-      "term": "びシ",
-      "count": 1
-    },
-    {
-      "term": "ーマ",
-      "count": 1
-    },
-    {
-      "term": "四捨",
-      "count": 1
-    },
-    {
-      "term": "進国",
-      "count": 1
-    },
-    {
-      "term": "ロボット",
-      "count": 1
-    },
-    {
-      "term": "動地",
-      "count": 1
-    },
-    {
-      "term": "方針",
-      "count": 1
-    },
-    {
-      "term": "化ａ",
-      "count": 1
-    },
-    {
-      "term": "の研究開",
-      "count": 1
-    },
-    {
-      "term": "が深い方",
+      "term": "ビス",
       "count": 1
     },
     {
@@ -194,11 +82,123 @@
       "count": 1
     },
     {
-      "term": "究等",
+      "term": "フロ",
       "count": 1
     },
     {
-      "term": "産業",
+      "term": "導ａ",
+      "count": 1
+    },
+    {
+      "term": "金額",
+      "count": 1
+    },
+    {
+      "term": "の透",
+      "count": 1
+    },
+    {
+      "term": "ミナ",
+      "count": 1
+    },
+    {
+      "term": "を含",
+      "count": 1
+    },
+    {
+      "term": "けａ",
+      "count": 1
+    },
+    {
+      "term": "制度",
+      "count": 1
+    },
+    {
+      "term": "に関する",
+      "count": 1
+    },
+    {
+      "term": "定は",
+      "count": 1
+    },
+    {
+      "term": "本計",
+      "count": 1
+    },
+    {
+      "term": "抜本",
+      "count": 1
+    },
+    {
+      "term": "ョン",
+      "count": 1
+    },
+    {
+      "term": "難な",
+      "count": 1
+    },
+    {
+      "term": "半導",
+      "count": 1
+    },
+    {
+      "term": "いて離職",
+      "count": 1
+    },
+    {
+      "term": "人戦",
+      "count": 1
+    },
+    {
+      "term": "職者",
+      "count": 1
+    },
+    {
+      "term": "発支",
+      "count": 1
+    },
+    {
+      "term": "イン",
+      "count": 1
+    },
+    {
+      "term": "記載",
+      "count": 1
+    },
+    {
+      "term": "成確",
+      "count": 1
+    },
+    {
+      "term": "た建設現",
+      "count": 1
+    },
+    {
+      "term": "コンピュ",
+      "count": 1
+    },
+    {
+      "term": "発の",
+      "count": 1
+    },
+    {
+      "term": "を含むデ",
+      "count": 1
+    },
+    {
+      "term": "載複",
+      "count": 1
+    },
+    {
+      "term": "ムに関す",
+      "count": 1
+    },
+    {
+      "term": "活用の実",
+      "count": 1
+    },
+    {
+      "term": "びシ",
       "count": 1
     }
   ],

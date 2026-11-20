@@ -2,171 +2,63 @@
   "month": "2026-09",
   "keywords": [
     {
-      "term": "は予",
+      "term": "最も",
       "count": 2
     },
     {
-      "term": "ラッ",
+      "term": "個々",
       "count": 2
     },
     {
-      "term": "日本全体",
+      "term": "によ",
       "count": 2
     },
     {
-      "term": "事業",
+      "term": "経産省",
       "count": 2
     },
     {
-      "term": "基盤",
+      "term": "開発",
       "count": 2
     },
     {
-      "term": "にお",
+      "term": "部等",
       "count": 2
     },
     {
-      "term": "評価",
+      "term": "本計",
       "count": 2
     },
     {
-      "term": "日本",
+      "term": "ョン",
       "count": 2
     },
     {
-      "term": "づき",
+      "term": "難な",
       "count": 2
     },
     {
-      "term": "計画",
+      "term": "記載",
       "count": 2
     },
     {
-      "term": "び活",
+      "term": "労省",
       "count": 2
     },
     {
-      "term": "プロ",
+      "term": "な施",
       "count": 2
     },
     {
-      "term": "四捨",
-      "count": 2
-    },
-    {
-      "term": "ボテ",
-      "count": 2
-    },
-    {
-      "term": "決 ",
+      "term": "新文",
       "count": 1
     },
     {
-      "term": "の徹底し",
+      "term": "閣官",
       "count": 1
     },
     {
-      "term": "求に",
-      "count": 1
-    },
-    {
-      "term": "ケー",
-      "count": 1
-    },
-    {
-      "term": "ほか",
-      "count": 1
-    },
-    {
-      "term": "責任ある",
-      "count": 1
-    },
-    {
-      "term": "教職",
-      "count": 1
-    },
-    {
-      "term": "ジp",
-      "count": 1
-    },
-    {
-      "term": "価基",
-      "count": 1
-    },
-    {
-      "term": "療分",
-      "count": 1
-    },
-    {
-      "term": "規厚",
-      "count": 1
-    },
-    {
-      "term": "略的",
-      "count": 1
-    },
-    {
-      "term": "746",
-      "count": 1
-    },
-    {
-      "term": "チモ",
-      "count": 1
-    },
-    {
-      "term": "運用",
-      "count": 1
-    },
-    {
-      "term": "る能動的",
-      "count": 1
-    },
-    {
-      "term": "主な",
-      "count": 1
-    },
-    {
-      "term": "効率",
-      "count": 1
-    },
-    {
-      "term": "省4",
-      "count": 1
-    },
-    {
-      "term": "た利活用",
-      "count": 1
-    },
-    {
-      "term": "連す",
-      "count": 1
-    },
-    {
-      "term": "学校の支",
-      "count": 1
-    },
-    {
-      "term": "科学",
-      "count": 1
-    },
-    {
-      "term": "養成",
-      "count": 1
-    },
-    {
-      "term": "働プ",
-      "count": 1
-    },
-    {
-      "term": "の追",
-      "count": 1
-    },
-    {
-      "term": "を評",
-      "count": 1
-    },
-    {
-      "term": "用環",
+      "term": "の主",
       "count": 1
     },
     {
@@ -174,31 +66,139 @@
       "count": 1
     },
     {
-      "term": "世代",
+      "term": "頼性",
       "count": 1
     },
     {
-      "term": "と協",
+      "term": "進業",
       "count": 1
     },
     {
-      "term": "の４",
+      "term": "規防",
       "count": 1
     },
     {
-      "term": "変革",
+      "term": "学校現場",
       "count": 1
     },
     {
-      "term": "的変",
+      "term": "セキ",
       "count": 1
     },
     {
-      "term": "ロボット",
+      "term": "マナ",
       "count": 1
     },
     {
-      "term": "運用等",
+      "term": "働プ",
+      "count": 1
+    },
+    {
+      "term": "導ａ",
+      "count": 1
+    },
+    {
+      "term": "運用",
+      "count": 1
+    },
+    {
+      "term": "人材",
+      "count": 1
+    },
+    {
+      "term": "の迅",
+      "count": 1
+    },
+    {
+      "term": "業務効率",
+      "count": 1
+    },
+    {
+      "term": "定の",
+      "count": 1
+    },
+    {
+      "term": "yata",
+      "count": 1
+    },
+    {
+      "term": "業等",
+      "count": 1
+    },
+    {
+      "term": "本の",
+      "count": 1
+    },
+    {
+      "term": "等専",
+      "count": 1
+    },
+    {
+      "term": "発プ",
+      "count": 1
+    },
+    {
+      "term": "の推進",
+      "count": 1
+    },
+    {
+      "term": "創出",
+      "count": 1
+    },
+    {
+      "term": "で実施す",
+      "count": 1
+    },
+    {
+      "term": "成確",
+      "count": 1
+    },
+    {
+      "term": "発経",
+      "count": 1
+    },
+    {
+      "term": "載複",
+      "count": 1
+    },
+    {
+      "term": "利用基盤",
+      "count": 1
+    },
+    {
+      "term": "加速",
+      "count": 1
+    },
+    {
+      "term": "の育",
+      "count": 1
+    },
+    {
+      "term": "ャイ",
+      "count": 1
+    },
+    {
+      "term": "サイ",
+      "count": 1
+    },
+    {
+      "term": "イバ",
+      "count": 1
+    },
+    {
+      "term": "キュ",
+      "count": 1
+    },
+    {
+      "term": "象分",
+      "count": 1
+    },
+    {
+      "term": "求ほ",
+      "count": 1
+    },
+    {
+      "term": "ルチ",
       "count": 1
     }
   ],
