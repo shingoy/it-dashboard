@@ -2,71 +2,55 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "るこ",
-      "count": 23
+      "term": "プラ",
+      "count": 26
     },
     {
-      "term": "れる",
-      "count": 22
-    },
-    {
-      "term": "イン",
+      "term": "いる",
       "count": 20
     },
     {
-      "term": "によ",
-      "count": 16
+      "term": "れる",
+      "count": 19
     },
     {
-      "term": "ビス",
-      "count": 16
-    },
-    {
-      "term": "cd",
+      "term": "ムの",
       "count": 15
     },
     {
-      "term": "パイプラ",
+      "term": "るた",
       "count": 15
     },
     {
-      "term": "この",
-      "count": 14
+      "term": "イメ",
+      "count": 15
     },
     {
-      "term": "中略",
-      "count": 14
+      "term": "メー",
+      "count": 15
     },
     {
-      "term": "頼性",
-      "count": 13
+      "term": "いて",
+      "count": 14
     },
     {
       "term": "の安",
       "count": 13
     },
     {
-      "term": "れら",
-      "count": 12
-    },
-    {
-      "term": "依存物の",
+      "term": "ティ",
       "count": 11
     },
     {
-      "term": "workflows",
+      "term": "trivy",
       "count": 11
     },
     {
-      "term": "を含",
+      "term": "体的",
       "count": 10
     },
     {
-      "term": "よび",
-      "count": 10
-    },
-    {
-      "term": "ルド",
+      "term": "ファイル",
       "count": 10
     },
     {
@@ -74,7 +58,11 @@
       "count": 10
     },
     {
-      "term": "定の",
+      "term": "対策",
+      "count": 9
+    },
+    {
+      "term": "上で",
       "count": 9
     },
     {
@@ -82,83 +70,67 @@
       "count": 9
     },
     {
-      "term": "クを",
+      "term": "yml",
       "count": 9
     },
     {
-      "term": "のア",
-      "count": 9
-    },
-    {
-      "term": "ョン",
+      "term": "ンを",
       "count": 8
     },
     {
-      "term": "のs",
+      "term": "ンの",
       "count": 8
     },
     {
-      "term": "ーに",
+      "term": "らの",
       "count": 8
     },
     {
-      "term": "with",
+      "term": "tf",
       "count": 8
     },
     {
-      "term": "組み",
-      "count": 8
-    },
-    {
-      "term": "on",
-      "count": 8
-    },
-    {
-      "term": "共通",
+      "term": "用し",
       "count": 7
     },
     {
-      "term": "運用",
+      "term": "作成",
       "count": 7
     },
     {
-      "term": "自動",
+      "term": "確認",
       "count": 7
     },
     {
-      "term": "バイ",
-      "count": 7
-    },
-    {
-      "term": "トフォー",
-      "count": 7
-    },
-    {
-      "term": "図 ",
-      "count": 7
+      "term": "ンに",
+      "count": 6
     },
     {
       "term": "セキ",
       "count": 6
     },
     {
-      "term": "開発",
+      "term": "ロバ",
       "count": 6
     },
     {
-      "term": "ス ",
+      "term": "要がある",
       "count": 6
     },
     {
-      "term": "にて",
+      "term": "物と",
       "count": 6
     },
     {
-      "term": "取り",
+      "term": "カウ",
       "count": 6
     },
     {
-      "term": "amazon",
+      "term": "は３",
+      "count": 6
+    },
+    {
+      "term": "な対",
       "count": 6
     },
     {
@@ -166,39 +138,67 @@
       "count": 6
     },
     {
-      "term": "を必",
+      "term": "image",
       "count": 6
     },
     {
-      "term": "ビュ",
+      "term": "る\n",
       "count": 6
     },
     {
-      "term": "and",
+      "term": "true",
       "count": 6
     },
     {
-      "term": "format",
+      "term": "とな",
       "count": 6
     },
     {
-      "term": "critical",
+      "term": "象と",
       "count": 6
     },
     {
-      "term": "predicate",
-      "count": 6
-    },
-    {
-      "term": "理脆",
+      "term": "ト ",
       "count": 5
     },
     {
-      "term": "13",
+      "term": "フォーム",
       "count": 5
     },
     {
-      "term": "とに",
+      "term": "したがっ",
+      "count": 5
+    },
+    {
+      "term": "すべ",
+      "count": 5
+    },
+    {
+      "term": "配布",
+      "count": 5
+    },
+    {
+      "term": "得し",
+      "count": 5
+    },
+    {
+      "term": "の成果物",
+      "count": 5
+    },
+    {
+      "term": "判断",
+      "count": 5
+    },
+    {
+      "term": "について",
+      "count": 5
+    },
+    {
+      "term": "境の",
+      "count": 5
+    },
+    {
+      "term": "るg",
       "count": 5
     }
   ],
