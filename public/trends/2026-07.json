@@ -2,71 +2,95 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "とし",
+      "term": "情報",
+      "count": 28
+    },
+    {
+      "term": "行政",
+      "count": 26
+    },
+    {
+      "term": "に関",
+      "count": 24
+    },
+    {
+      "term": "した",
       "count": 21
     },
     {
-      "term": "デジタル",
-      "count": 21
-    },
-    {
-      "term": "関係",
-      "count": 20
-    },
-    {
-      "term": "を行",
+      "term": "検討",
       "count": 19
     },
     {
-      "term": "便性",
+      "term": "まえ",
       "count": 17
     },
     {
-      "term": "るた",
-      "count": 16
-    },
-    {
-      "term": "でき",
+      "term": "等 ",
       "count": 15
     },
     {
-      "term": "報に",
+      "term": "要な",
       "count": 14
     },
     {
-      "term": "行政推進",
+      "term": "備 ",
+      "count": 14
+    },
+    {
+      "term": "所在",
       "count": 13
     },
     {
-      "term": "第３",
+      "term": "報シ",
+      "count": 13
+    },
+    {
+      "term": "ル庁",
       "count": 12
     },
     {
-      "term": "国民の利",
+      "term": "う ",
       "count": 12
     },
     {
-      "term": "ータベー",
+      "term": "きる",
+      "count": 12
+    },
+    {
+      "term": "供を",
       "count": 11
     },
     {
-      "term": "ケジ",
+      "term": "た上",
+      "count": 11
+    },
+    {
+      "term": "10",
       "count": 10
     },
     {
-      "term": "有等",
+      "term": "ール",
       "count": 10
     },
     {
-      "term": "すべ",
+      "term": "事業",
       "count": 10
     },
     {
-      "term": "ル ",
+      "term": "上及",
       "count": 10
     },
     {
-      "term": "関 ",
+      "term": "受け",
+      "count": 10
+    },
+    {
+      "term": "る法",
+      "count": 10
+    },
+    {
+      "term": "ムを",
       "count": 10
     },
     {
@@ -74,131 +98,107 @@
       "count": 9
     },
     {
-      "term": "との",
-      "count": 9
-    },
-    {
-      "term": "基盤",
-      "count": 9
-    },
-    {
-      "term": "携し",
-      "count": 9
-    },
-    {
-      "term": "地所",
+      "term": "他の",
       "count": 8
     },
     {
-      "term": "公開",
+      "term": "ここでい",
       "count": 8
     },
     {
-      "term": "の情",
+      "term": "ロハ",
       "count": 8
     },
     {
-      "term": "における",
+      "term": "者 ",
       "count": 8
     },
     {
-      "term": "トの",
+      "term": "文字",
       "count": 8
     },
     {
-      "term": "国の公的",
-      "count": 8
-    },
-    {
-      "term": "の検",
-      "count": 8
-    },
-    {
-      "term": "なデ",
-      "count": 8
-    },
-    {
-      "term": "以下",
-      "count": 8
-    },
-    {
-      "term": "スケジュ",
-      "count": 8
-    },
-    {
-      "term": "イ ",
-      "count": 8
-    },
-    {
-      "term": "登記事項",
+      "term": "用促",
       "count": 7
     },
     {
-      "term": "ジ ",
-      "count": 6
+      "term": "以降",
+      "count": 7
     },
     {
-      "term": "国籍",
-      "count": 6
+      "term": "への",
+      "count": 7
+    },
+    {
+      "term": "現状",
+      "count": 7
+    },
+    {
+      "term": "項証",
+      "count": 7
+    },
+    {
+      "term": "下の",
+      "count": 7
     },
     {
       "term": "活用",
       "count": 6
     },
     {
-      "term": "用目",
+      "term": "号に",
       "count": 6
     },
     {
-      "term": "機関の役",
+      "term": "の次",
       "count": 6
     },
     {
-      "term": "標準化に",
+      "term": "庁が",
       "count": 6
     },
     {
-      "term": "の切",
+      "term": "省 ",
       "count": 6
     },
     {
-      "term": "場合",
-      "count": 6
-    },
-    {
-      "term": "な課",
-      "count": 6
-    },
-    {
-      "term": "所を",
-      "count": 6
-    },
-    {
-      "term": "目指",
-      "count": 6
-    },
-    {
-      "term": "も踏",
-      "count": 6
-    },
-    {
-      "term": "おり",
-      "count": 6
-    },
-    {
-      "term": "制度所管",
-      "count": 6
-    },
-    {
-      "term": "スベ",
+      "term": "外に",
       "count": 5
     },
     {
-      "term": "具体",
+      "term": "策 ",
       "count": 5
     },
     {
-      "term": "の添",
+      "term": "今後整備",
+      "count": 5
+    },
+    {
+      "term": "策の",
+      "count": 5
+    },
+    {
+      "term": "当た",
+      "count": 5
+    },
+    {
+      "term": "30",
+      "count": 5
+    },
+    {
+      "term": "た行",
+      "count": 5
+    },
+    {
+      "term": "る行",
+      "count": 5
+    },
+    {
+      "term": "た ",
+      "count": 5
+    },
+    {
+      "term": "関か",
       "count": 5
     }
   ],
