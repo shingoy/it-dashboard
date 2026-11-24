@@ -2,143 +2,151 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "る ",
-      "count": 28
-    },
-    {
-      "term": "きる",
+      "term": "ライ",
       "count": 23
     },
     {
-      "term": "弱性",
+      "term": "リポ",
+      "count": 20
+    },
+    {
+      "term": "ビル",
+      "count": 19
+    },
+    {
+      "term": "チー",
+      "count": 18
+    },
+    {
+      "term": "安全",
+      "count": 18
+    },
+    {
+      "term": "ージ",
+      "count": 18
+    },
+    {
+      "term": "ーク",
       "count": 15
     },
     {
-      "term": "ファ",
+      "term": "cd",
       "count": 15
     },
     {
-      "term": "性の",
-      "count": 14
+      "term": "メー",
+      "count": 15
     },
     {
-      "term": "よび",
-      "count": 14
+      "term": "への",
+      "count": 15
     },
     {
-      "term": "タデ",
-      "count": 14
+      "term": "頼性",
+      "count": 13
     },
     {
-      "term": "よう",
+      "term": "ソースコ",
+      "count": 13
+    },
+    {
+      "term": "ラッ",
+      "count": 13
+    },
+    {
+      "term": "生成",
+      "count": 13
+    },
+    {
+      "term": "護 ",
       "count": 12
     },
     {
-      "term": "情報",
-      "count": 11
+      "term": "こで",
+      "count": 12
     },
     {
-      "term": "した",
-      "count": 11
-    },
-    {
-      "term": "上で",
-      "count": 11
-    },
-    {
-      "term": "取得",
-      "count": 11
-    },
-    {
-      "term": "えら",
-      "count": 11
-    },
-    {
-      "term": "考え",
-      "count": 11
-    },
-    {
-      "term": "提供",
+      "term": "確保",
       "count": 10
     },
     {
-      "term": "ため",
+      "term": "の設",
       "count": 10
     },
     {
-      "term": "provenance",
-      "count": 10
-    },
-    {
-      "term": "env",
-      "count": 10
-    },
-    {
-      "term": "策 ",
+      "term": "にお",
       "count": 9
     },
     {
-      "term": "ブラ",
+      "term": "そのため",
+      "count": 9
+    },
+    {
+      "term": "いっ",
+      "count": 9
+    },
+    {
+      "term": "それ",
+      "count": 9
+    },
+    {
+      "term": "ンテ",
+      "count": 9
+    },
+    {
+      "term": "ンa",
+      "count": 9
+    },
+    {
+      "term": "yml",
+      "count": 9
+    },
+    {
+      "term": "workflows",
+      "count": 9
+    },
+    {
+      "term": "with",
       "count": 9
     },
     {
       "term": "code",
-      "count": 9
+      "count": 8
     },
     {
-      "term": "シークレ",
-      "count": 9
+      "term": "図 ",
+      "count": 8
     },
     {
-      "term": "が ",
-      "count": 9
+      "term": "より",
+      "count": 8
     },
     {
-      "term": "れて",
-      "count": 9
+      "term": "用し",
+      "count": 8
     },
     {
-      "term": "の対",
-      "count": 9
+      "term": "ーに",
+      "count": 8
     },
     {
-      "term": "run",
-      "count": 9
+      "term": "設定",
+      "count": 8
     },
     {
       "term": "ーカ",
-      "count": 8
-    },
-    {
-      "term": "性が",
-      "count": 8
-    },
-    {
-      "term": "る具",
-      "count": 8
-    },
-    {
-      "term": "のs",
-      "count": 8
-    },
-    {
-      "term": "資産",
       "count": 7
     },
     {
-      "term": "ンチ",
+      "term": "内の",
       "count": 7
     },
     {
-      "term": "ると",
+      "term": "あり",
       "count": 7
     },
     {
-      "term": "いこ",
-      "count": 7
-    },
-    {
-      "term": "rulesets",
+      "term": "にす",
       "count": 7
     },
     {
@@ -146,43 +154,11 @@
       "count": 7
     },
     {
-      "term": "と同",
-      "count": 7
-    },
-    {
-      "term": "type",
-      "count": 7
-    },
-    {
-      "term": "混入",
-      "count": 7
-    },
-    {
-      "term": "ンに",
+      "term": "脆弱性管",
       "count": 6
     },
     {
-      "term": "を示",
-      "count": 6
-    },
-    {
-      "term": "ージ",
-      "count": 6
-    },
-    {
-      "term": "ルと",
-      "count": 6
-    },
-    {
-      "term": "範囲の制",
-      "count": 6
-    },
-    {
-      "term": "ムは",
-      "count": 6
-    },
-    {
-      "term": "たコ",
+      "term": "はa",
       "count": 6
     },
     {
@@ -190,16 +166,40 @@
       "count": 6
     },
     {
-      "term": "影響",
+      "term": "完全",
       "count": 6
     },
     {
-      "term": "設定",
+      "term": "ビュ",
       "count": 6
     },
     {
-      "term": "ビルド設",
+      "term": "review",
       "count": 6
+    },
+    {
+      "term": "らな",
+      "count": 6
+    },
+    {
+      "term": "ーと",
+      "count": 6
+    },
+    {
+      "term": "steps",
+      "count": 6
+    },
+    {
+      "term": "た場",
+      "count": 6
+    },
+    {
+      "term": "ード管理",
+      "count": 5
+    },
+    {
+      "term": "に ",
+      "count": 5
     }
   ],
   "meetings": [
