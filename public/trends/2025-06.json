@@ -2,87 +2,103 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 27
-    },
-    {
-      "term": "した",
-      "count": 24
+      "term": "る ",
+      "count": 28
     },
     {
       "term": "きる",
       "count": 23
     },
     {
-      "term": "ール",
-      "count": 20
-    },
-    {
-      "term": "物の",
-      "count": 17
-    },
-    {
       "term": "弱性",
       "count": 15
     },
     {
-      "term": "への",
+      "term": "ファ",
       "count": 15
     },
     {
-      "term": "全性",
+      "term": "性の",
       "count": 14
     },
     {
-      "term": "中略",
+      "term": "よび",
       "count": 14
     },
     {
-      "term": "情報",
+      "term": "タデ",
+      "count": 14
+    },
+    {
+      "term": "よう",
       "count": 12
     },
     {
-      "term": "環境",
+      "term": "情報",
       "count": 11
     },
     {
-      "term": "10",
+      "term": "した",
       "count": 11
     },
     {
-      "term": "のメ",
+      "term": "上で",
       "count": 11
     },
     {
-      "term": "push",
+      "term": "取得",
       "count": 11
+    },
+    {
+      "term": "えら",
+      "count": 11
+    },
+    {
+      "term": "考え",
+      "count": 11
+    },
+    {
+      "term": "提供",
+      "count": 10
+    },
+    {
+      "term": "ため",
+      "count": 10
+    },
+    {
+      "term": "provenance",
+      "count": 10
+    },
+    {
+      "term": "env",
+      "count": 10
     },
     {
       "term": "策 ",
       "count": 9
     },
     {
-      "term": "のリ",
+      "term": "ブラ",
       "count": 9
     },
     {
-      "term": "に関",
+      "term": "code",
       "count": 9
     },
     {
-      "term": "対策",
+      "term": "シークレ",
       "count": 9
     },
     {
-      "term": "定す",
+      "term": "が ",
       "count": 9
     },
     {
-      "term": "terraform",
+      "term": "れて",
       "count": 9
     },
     {
-      "term": "いた",
+      "term": "の対",
       "count": 9
     },
     {
@@ -90,116 +106,100 @@
       "count": 9
     },
     {
-      "term": "uses",
-      "count": 9
-    },
-    {
-      "term": "下の",
+      "term": "ーカ",
       "count": 8
     },
     {
-      "term": "いっ",
+      "term": "性が",
       "count": 8
     },
     {
-      "term": "キャ",
+      "term": "る具",
       "count": 8
     },
     {
-      "term": "の管",
+      "term": "のs",
       "count": 8
     },
     {
-      "term": "組織",
+      "term": "資産",
       "count": 7
     },
     {
-      "term": "た ",
+      "term": "ンチ",
       "count": 7
     },
     {
-      "term": "がある",
+      "term": "ると",
       "count": 7
     },
     {
-      "term": "範囲",
+      "term": "いこ",
       "count": 7
     },
     {
-      "term": "file",
+      "term": "rulesets",
       "count": 7
     },
     {
-      "term": "の保護",
+      "term": "確認",
+      "count": 7
+    },
+    {
+      "term": "と同",
+      "count": 7
+    },
+    {
+      "term": "type",
+      "count": 7
+    },
+    {
+      "term": "混入",
+      "count": 7
+    },
+    {
+      "term": "ンに",
       "count": 6
     },
     {
-      "term": "信頼性の",
+      "term": "を示",
       "count": 6
     },
     {
-      "term": "要がある",
+      "term": "ージ",
       "count": 6
     },
     {
-      "term": "ビュ",
+      "term": "ルと",
       "count": 6
     },
     {
-      "term": "能で",
+      "term": "範囲の制",
       "count": 6
     },
     {
-      "term": "らな",
+      "term": "ムは",
       "count": 6
     },
     {
-      "term": "リポジト",
+      "term": "たコ",
       "count": 6
     },
     {
-      "term": "steps",
+      "term": "ャン",
       "count": 6
     },
     {
-      "term": "ることが",
+      "term": "影響",
       "count": 6
     },
     {
-      "term": "た場",
+      "term": "設定",
       "count": 6
     },
     {
-      "term": "プロ",
+      "term": "ビルド設",
       "count": 6
-    },
-    {
-      "term": "理 ",
-      "count": 5
-    },
-    {
-      "term": "リオ",
-      "count": 5
-    },
-    {
-      "term": "ーク",
-      "count": 5
-    },
-    {
-      "term": "する",
-      "count": 5
-    },
-    {
-      "term": "信頼でき",
-      "count": 5
-    },
-    {
-      "term": "活用",
-      "count": 5
-    },
-    {
-      "term": "れは",
-      "count": 5
     }
   ],
   "meetings": [
