@@ -2,167 +2,179 @@
   "month": "2025-06",
   "keywords": [
     {
+      "term": "ある",
+      "count": 25
+    },
+    {
       "term": "ライ",
       "count": 23
     },
     {
-      "term": "リポ",
-      "count": 20
-    },
-    {
-      "term": "ビル",
+      "term": "actions",
       "count": 19
     },
     {
-      "term": "チー",
+      "term": "リポジト",
       "count": 18
     },
     {
-      "term": "安全",
-      "count": 18
+      "term": "実行",
+      "count": 16
     },
     {
-      "term": "ージ",
-      "count": 18
+      "term": "れた",
+      "count": 16
+    },
+    {
+      "term": "であ",
+      "count": 16
+    },
+    {
+      "term": "に ",
+      "count": 15
+    },
+    {
+      "term": "的な",
+      "count": 15
     },
     {
       "term": "ーク",
       "count": 15
     },
     {
-      "term": "cd",
+      "term": "脆弱",
       "count": 15
     },
     {
-      "term": "メー",
+      "term": "署名",
       "count": 15
     },
     {
-      "term": "への",
-      "count": 15
+      "term": "があ",
+      "count": 14
     },
     {
-      "term": "頼性",
-      "count": 13
-    },
-    {
-      "term": "ソースコ",
-      "count": 13
-    },
-    {
-      "term": "ラッ",
-      "count": 13
-    },
-    {
-      "term": "生成",
-      "count": 13
-    },
-    {
-      "term": "護 ",
+      "term": "レッ",
       "count": 12
     },
     {
-      "term": "こで",
-      "count": 12
+      "term": "環境",
+      "count": 11
     },
     {
-      "term": "確保",
+      "term": "https",
+      "count": 11
+    },
+    {
+      "term": "ブラ",
       "count": 10
     },
     {
-      "term": "の設",
+      "term": "ーム",
       "count": 10
     },
     {
-      "term": "にお",
+      "term": "ード",
+      "count": 10
+    },
+    {
+      "term": "イメージ",
+      "count": 10
+    },
+    {
+      "term": "必要",
+      "count": 10
+    },
+    {
+      "term": "env",
+      "count": 10
+    },
+    {
+      "term": "デリ",
       "count": 9
     },
     {
-      "term": "そのため",
+      "term": "の制",
       "count": 9
-    },
-    {
-      "term": "いっ",
-      "count": 9
-    },
-    {
-      "term": "それ",
-      "count": 9
-    },
-    {
-      "term": "ンテ",
-      "count": 9
-    },
-    {
-      "term": "ンa",
-      "count": 9
-    },
-    {
-      "term": "yml",
-      "count": 9
-    },
-    {
-      "term": "workflows",
-      "count": 9
-    },
-    {
-      "term": "with",
-      "count": 9
-    },
-    {
-      "term": "code",
-      "count": 8
-    },
-    {
-      "term": "図 ",
-      "count": 8
     },
     {
       "term": "より",
+      "count": 9
+    },
+    {
+      "term": "通し",
       "count": 8
     },
     {
-      "term": "用し",
+      "term": "スク",
       "count": 8
     },
     {
-      "term": "ーに",
+      "term": "いっ",
       "count": 8
     },
     {
-      "term": "設定",
+      "term": "のs",
       "count": 8
     },
     {
-      "term": "ーカ",
+      "term": "のア",
+      "count": 8
+    },
+    {
+      "term": "れる",
+      "count": 8
+    },
+    {
+      "term": "での実行",
       "count": 7
     },
     {
-      "term": "内の",
+      "term": "plan",
       "count": 7
     },
     {
-      "term": "あり",
+      "term": "version",
       "count": 7
-    },
-    {
-      "term": "にす",
-      "count": 7
-    },
-    {
-      "term": "確認",
-      "count": 7
-    },
-    {
-      "term": "脆弱性管",
-      "count": 6
-    },
-    {
-      "term": "はa",
-      "count": 6
     },
     {
       "term": "ャン",
+      "count": 7
+    },
+    {
+      "term": "クセ",
+      "count": 7
+    },
+    {
+      "term": "ークレッ",
+      "count": 7
+    },
+    {
+      "term": "runs",
+      "count": 7
+    },
+    {
+      "term": "ート",
+      "count": 6
+    },
+    {
+      "term": "頼で",
+      "count": 6
+    },
+    {
+      "term": "ド成",
+      "count": 6
+    },
+    {
+      "term": "ス ",
+      "count": 6
+    },
+    {
+      "term": "ムは",
+      "count": 6
+    },
+    {
+      "term": "うこ",
       "count": 6
     },
     {
@@ -170,36 +182,24 @@
       "count": 6
     },
     {
-      "term": "ビュ",
+      "term": "有の",
       "count": 6
     },
     {
-      "term": "review",
+      "term": "を必",
       "count": 6
     },
     {
-      "term": "らな",
+      "term": "tf",
       "count": 6
     },
     {
-      "term": "ーと",
+      "term": "る ",
       "count": 6
     },
     {
-      "term": "steps",
+      "term": "の安",
       "count": 6
-    },
-    {
-      "term": "た場",
-      "count": 6
-    },
-    {
-      "term": "ード管理",
-      "count": 5
-    },
-    {
-      "term": "に ",
-      "count": 5
     }
   ],
   "meetings": [
