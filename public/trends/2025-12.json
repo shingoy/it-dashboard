@@ -2,99 +2,43 @@
   "month": "2025-12",
   "keywords": [
     {
-      "term": "メー",
+      "term": "模オ",
       "count": 2
     },
     {
-      "term": "整備及び",
+      "term": "成新",
       "count": 2
     },
     {
-      "term": "億円",
+      "term": "スの",
       "count": 2
     },
     {
-      "term": "の地",
+      "term": "ブル",
       "count": 2
     },
     {
-      "term": "信頼",
+      "term": "オー",
       "count": 2
     },
     {
-      "term": "対策",
+      "term": "情報",
       "count": 2
     },
     {
-      "term": "数 ",
+      "term": "スの主導",
       "count": 2
     },
     {
-      "term": "地方",
+      "term": "報通信基",
       "count": 2
     },
     {
-      "term": "大規模オ",
+      "term": "の研",
       "count": 2
     },
     {
-      "term": "383",
-      "count": 1
-    },
-    {
-      "term": "ープ",
-      "count": 1
-    },
-    {
-      "term": "活用等の",
-      "count": 1
-    },
-    {
-      "term": "る支",
-      "count": 1
-    },
-    {
-      "term": "年５",
-      "count": 1
-    },
-    {
-      "term": "に係る好",
-      "count": 1
-    },
-    {
-      "term": "502",
-      "count": 1
-    },
-    {
-      "term": "農業",
-      "count": 1
-    },
-    {
-      "term": "用実",
-      "count": 1
-    },
-    {
-      "term": "ロボ",
-      "count": 1
-    },
-    {
-      "term": "グル",
-      "count": 1
-    },
-    {
-      "term": "面施",
-      "count": 1
-    },
-    {
-      "term": "算総",
-      "count": 1
-    },
-    {
-      "term": "合は",
-      "count": 1
-    },
-    {
-      "term": "年度",
+      "term": "用支",
       "count": 1
     },
     {
@@ -102,103 +46,159 @@
       "count": 1
     },
     {
-      "term": "化対",
-      "count": 1
-    },
-    {
-      "term": "44",
-      "count": 1
-    },
-    {
-      "term": "流動",
-      "count": 1
-    },
-    {
-      "term": "注３",
-      "count": 1
-    },
-    {
-      "term": "が深",
-      "count": 1
-    },
-    {
-      "term": "関の",
-      "count": 1
-    },
-    {
-      "term": "とした",
-      "count": 1
-    },
-    {
-      "term": "注１",
-      "count": 1
-    },
-    {
-      "term": "の強靱化",
-      "count": 1
-    },
-    {
-      "term": "発促",
-      "count": 1
-    },
-    {
-      "term": "証新",
-      "count": 1
-    },
-    {
-      "term": "文a",
-      "count": 1
-    },
-    {
-      "term": "補正",
-      "count": 1
-    },
-    {
-      "term": "イパ",
-      "count": 1
-    },
-    {
-      "term": "の加",
-      "count": 1
-    },
-    {
-      "term": "ジタ",
-      "count": 1
-    },
-    {
       "term": "月成立",
       "count": 1
     },
     {
-      "term": "ボッ",
+      "term": "を総合的",
       "count": 1
     },
     {
-      "term": "法令",
+      "term": "キリ",
       "count": 1
     },
     {
-      "term": "データ",
+      "term": "会実",
       "count": 1
     },
     {
-      "term": "分析",
+      "term": "場の生産",
       "count": 1
     },
     {
-      "term": "立に",
+      "term": "るリ",
       "count": 1
     },
     {
-      "term": "用支",
+      "term": "ムの構築",
       "count": 1
     },
     {
-      "term": "の安全性",
+      "term": "ニーズに",
       "count": 1
     },
     {
-      "term": "会に",
+      "term": "を総",
+      "count": 1
+    },
+    {
+      "term": "デジタル",
+      "count": 1
+    },
+    {
+      "term": "内国",
+      "count": 1
+    },
+    {
+      "term": "係する場",
+      "count": 1
+    },
+    {
+      "term": "の推進等",
+      "count": 1
+    },
+    {
+      "term": "る場",
+      "count": 1
+    },
+    {
+      "term": "ク対",
+      "count": 1
+    },
+    {
+      "term": "注２",
+      "count": 1
+    },
+    {
+      "term": "現す",
+      "count": 1
+    },
+    {
+      "term": "信頼でき",
+      "count": 1
+    },
+    {
+      "term": "行及",
+      "count": 1
+    },
+    {
+      "term": "ウス",
+      "count": 1
+    },
+    {
+      "term": "の促進",
+      "count": 1
+    },
+    {
+      "term": "新プログ",
+      "count": 1
+    },
+    {
+      "term": "現場",
+      "count": 1
+    },
+    {
+      "term": "グ ",
+      "count": 1
+    },
+    {
+      "term": "380",
+      "count": 1
+    },
+    {
+      "term": "額を抽出",
+      "count": 1
+    },
+    {
+      "term": "science",
+      "count": 1
+    },
+    {
+      "term": "令和",
+      "count": 1
+    },
+    {
+      "term": "た匿名",
+      "count": 1
+    },
+    {
+      "term": "合経",
+      "count": 1
+    },
+    {
+      "term": "事業費の",
+      "count": 1
+    },
+    {
+      "term": "装の",
+      "count": 1
+    },
+    {
+      "term": "を踏まえ",
+      "count": 1
+    },
+    {
+      "term": "ムの",
+      "count": 1
+    },
+    {
+      "term": "強化",
+      "count": 1
+    },
+    {
+      "term": "創出推進",
+      "count": 1
+    },
+    {
+      "term": "済を",
+      "count": 1
+    },
+    {
+      "term": "入した額",
+      "count": 1
+    },
+    {
+      "term": "240",
       "count": 1
     }
   ],

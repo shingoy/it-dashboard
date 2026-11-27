@@ -2,51 +2,83 @@
   "month": "2026-07",
   "keywords": [
     {
-      "term": "行政",
-      "count": 26
+      "term": "情報",
+      "count": 28
     },
     {
-      "term": "トリ",
-      "count": 21
+      "term": "登記",
+      "count": 25
     },
     {
-      "term": "ジタ",
-      "count": 21
+      "term": "デジタル",
+      "count": 22
     },
     {
-      "term": "行う",
+      "term": "令和",
       "count": 19
     },
     {
-      "term": "年度",
-      "count": 18
-    },
-    {
-      "term": "ジス",
+      "term": "スの",
       "count": 16
     },
     {
-      "term": "の ",
+      "term": "備を",
+      "count": 14
+    },
+    {
+      "term": "を利",
+      "count": 14
+    },
+    {
+      "term": "実施",
+      "count": 14
+    },
+    {
+      "term": "所管",
+      "count": 14
+    },
+    {
+      "term": "政策効果",
       "count": 13
     },
     {
-      "term": "登記情報",
+      "term": "し ",
+      "count": 13
+    },
+    {
+      "term": "を検",
       "count": 12
     },
     {
-      "term": "関の",
+      "term": "タベース",
       "count": 12
     },
     {
-      "term": "今後",
+      "term": "要 ",
+      "count": 11
+    },
+    {
+      "term": "め ",
+      "count": 11
+    },
+    {
+      "term": "政推",
+      "count": 11
+    },
+    {
+      "term": "行う",
+      "count": 11
+    },
+    {
+      "term": "ムの",
+      "count": 11
+    },
+    {
+      "term": "土地",
       "count": 10
     },
     {
-      "term": "参照",
-      "count": 10
-    },
-    {
-      "term": "サー",
+      "term": "ー ",
       "count": 10
     },
     {
@@ -54,31 +86,15 @@
       "count": 10
     },
     {
-      "term": "億円",
-      "count": 9
+      "term": "不動産ベ",
+      "count": 8
     },
     {
-      "term": "法令",
-      "count": 9
+      "term": "る情",
+      "count": 8
     },
     {
-      "term": "の検",
-      "count": 9
-    },
-    {
-      "term": "と ",
-      "count": 9
-    },
-    {
-      "term": "地方",
-      "count": 9
-    },
-    {
-      "term": "供す",
-      "count": 9
-    },
-    {
-      "term": "業務",
+      "term": "のと",
       "count": 8
     },
     {
@@ -86,55 +102,43 @@
       "count": 8
     },
     {
-      "term": "方公",
+      "term": "じて",
       "count": 8
     },
     {
-      "term": "地関",
+      "term": "ースの利",
+      "count": 8
+    },
+    {
+      "term": "20",
+      "count": 8
+    },
+    {
+      "term": "用途",
       "count": 7
     },
     {
-      "term": "ら ",
+      "term": "の提",
       "count": 7
     },
     {
-      "term": "目の",
+      "term": "土地所有",
       "count": 7
     },
     {
-      "term": "後の",
+      "term": "を踏まえ",
+      "count": 7
+    },
+    {
+      "term": "を取",
+      "count": 7
+    },
+    {
+      "term": "年度以降",
       "count": 6
     },
     {
-      "term": "針を",
-      "count": 6
-    },
-    {
-      "term": "すべ",
-      "count": 6
-    },
-    {
-      "term": "内容",
-      "count": 6
-    },
-    {
-      "term": "の役",
-      "count": 6
-    },
-    {
-      "term": "19",
-      "count": 6
-    },
-    {
-      "term": "省庁",
-      "count": 6
-    },
-    {
-      "term": "の切",
-      "count": 6
-    },
-    {
-      "term": "標準化に",
+      "term": "データに",
       "count": 6
     },
     {
@@ -142,63 +146,59 @@
       "count": 6
     },
     {
-      "term": "かに",
+      "term": "る場",
       "count": 6
     },
     {
-      "term": "とが",
+      "term": "らか",
       "count": 6
     },
     {
-      "term": "る文",
+      "term": "所を",
       "count": 6
     },
     {
-      "term": "制度所管",
+      "term": "ハニ",
       "count": 6
     },
     {
-      "term": "理す",
+      "term": "届出",
       "count": 6
     },
     {
-      "term": "デー",
+      "term": "報提",
       "count": 6
     },
     {
-      "term": "に登",
+      "term": "表記",
+      "count": 6
+    },
+    {
+      "term": "セス",
       "count": 5
     },
     {
-      "term": "民 ",
+      "term": "度 ",
       "count": 5
     },
     {
-      "term": "策の",
+      "term": "スや",
       "count": 5
     },
     {
-      "term": "所所",
+      "term": "用を",
       "count": 5
     },
     {
-      "term": "当た",
+      "term": "の観",
       "count": 5
     },
     {
-      "term": "付け",
+      "term": "も含",
       "count": 5
     },
     {
-      "term": "の利便性",
-      "count": 5
-    },
-    {
-      "term": "ムと",
-      "count": 5
-    },
-    {
-      "term": "電子",
+      "term": "る必",
       "count": 5
     }
   ],
