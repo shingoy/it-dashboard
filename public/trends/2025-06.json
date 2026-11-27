@@ -2,187 +2,163 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "する",
-      "count": 24
+      "term": "トリ",
+      "count": 20
     },
     {
-      "term": "ーム",
-      "count": 18
+      "term": "パイプラ",
+      "count": 20
     },
     {
-      "term": "るこ",
-      "count": 17
-    },
-    {
-      "term": "ない",
-      "count": 17
-    },
-    {
-      "term": "安全",
-      "count": 16
-    },
-    {
-      "term": "に ",
-      "count": 15
-    },
-    {
-      "term": "ェー",
-      "count": 15
-    },
-    {
-      "term": "のた",
-      "count": 15
-    },
-    {
-      "term": "いて",
-      "count": 14
-    },
-    {
-      "term": "プロ",
-      "count": 14
-    },
-    {
-      "term": "実行",
-      "count": 14
-    },
-    {
-      "term": "ソースコ",
-      "count": 13
-    },
-    {
-      "term": "ァイ",
-      "count": 13
-    },
-    {
-      "term": "上で",
-      "count": 11
-    },
-    {
-      "term": "ック",
-      "count": 10
-    },
-    {
-      "term": "ブラ",
-      "count": 10
-    },
-    {
-      "term": "ンを",
-      "count": 10
-    },
-    {
-      "term": "イプ",
-      "count": 10
-    },
-    {
-      "term": "の信",
-      "count": 10
-    },
-    {
-      "term": "ルを",
-      "count": 9
-    },
-    {
-      "term": "いっ",
-      "count": 9
-    },
-    {
-      "term": "それ",
-      "count": 9
-    },
-    {
-      "term": "ンa",
-      "count": 9
-    },
-    {
-      "term": "スク",
-      "count": 8
-    },
-    {
-      "term": "リソ",
-      "count": 8
-    },
-    {
-      "term": "ング",
-      "count": 8
-    },
-    {
-      "term": "を実",
-      "count": 8
-    },
-    {
-      "term": "組織",
-      "count": 7
-    },
-    {
-      "term": "ェーズの",
-      "count": 7
-    },
-    {
-      "term": "もの",
-      "count": 7
-    },
-    {
-      "term": "ては",
-      "count": 7
-    },
-    {
-      "term": "次に",
-      "count": 7
-    },
-    {
-      "term": "対し",
-      "count": 7
-    },
-    {
-      "term": "ークレッ",
-      "count": 7
-    },
-    {
-      "term": "rulesets",
-      "count": 7
-    },
-    {
-      "term": "る ",
-      "count": 7
+      "term": "ファ",
+      "count": 20
     },
     {
       "term": "aws",
+      "count": 19
+    },
+    {
+      "term": "する",
+      "count": 17
+    },
+    {
+      "term": "コー",
+      "count": 15
+    },
+    {
+      "term": "信頼",
+      "count": 15
+    },
+    {
+      "term": "メー",
+      "count": 15
+    },
+    {
+      "term": "サー",
+      "count": 14
+    },
+    {
+      "term": "とが",
+      "count": 13
+    },
+    {
+      "term": "対策",
+      "count": 12
+    },
+    {
+      "term": "内容",
+      "count": 11
+    },
+    {
+      "term": "チェ",
+      "count": 11
+    },
+    {
+      "term": "でき",
+      "count": 11
+    },
+    {
+      "term": "理を",
+      "count": 10
+    },
+    {
+      "term": "クレ",
+      "count": 10
+    },
+    {
+      "term": "の ",
+      "count": 10
+    },
+    {
+      "term": "いた",
+      "count": 10
+    },
+    {
+      "term": "env",
+      "count": 10
+    },
+    {
+      "term": "での実行",
+      "count": 8
+    },
+    {
+      "term": "フェーズ",
+      "count": 8
+    },
+    {
+      "term": "ウェ",
+      "count": 8
+    },
+    {
+      "term": "ェッ",
+      "count": 8
+    },
+    {
+      "term": "デー",
+      "count": 8
+    },
+    {
+      "term": "のア",
+      "count": 8
+    },
+    {
+      "term": "の設",
+      "count": 8
+    },
+    {
+      "term": "バー",
+      "count": 8
+    },
+    {
+      "term": "ubuntu",
+      "count": 8
+    },
+    {
+      "term": "json",
+      "count": 8
+    },
+    {
+      "term": "すべ",
       "count": 7
     },
     {
-      "term": "す ",
+      "term": "るプ",
       "count": 7
     },
     {
-      "term": "ショ",
+      "term": "cosign",
+      "count": 7
+    },
+    {
+      "term": "はg",
+      "count": 7
+    },
+    {
+      "term": "理シ",
       "count": 6
     },
     {
-      "term": "プラット",
+      "term": "供す",
       "count": 6
     },
     {
-      "term": "における",
+      "term": "カウ",
       "count": 6
     },
     {
-      "term": "たt",
+      "term": "はプ",
       "count": 6
     },
     {
-      "term": "にて",
+      "term": "ャン",
       "count": 6
     },
     {
-      "term": "に対",
+      "term": "secrets",
       "count": 6
     },
     {
-      "term": "るよ",
-      "count": 6
-    },
-    {
-      "term": "ズで",
+      "term": "るた",
       "count": 6
     },
     {
@@ -190,16 +166,40 @@
       "count": 6
     },
     {
-      "term": "output",
-      "count": 6
-    },
-    {
       "term": "steps",
       "count": 6
     },
     {
-      "term": "署名",
+      "term": "合は",
       "count": 6
+    },
+    {
+      "term": "資産管理",
+      "count": 5
+    },
+    {
+      "term": "理を含む",
+      "count": 5
+    },
+    {
+      "term": "を想",
+      "count": 5
+    },
+    {
+      "term": "高い",
+      "count": 5
+    },
+    {
+      "term": "はt",
+      "count": 5
+    },
+    {
+      "term": "理下",
+      "count": 5
+    },
+    {
+      "term": "なけ",
+      "count": 5
     }
   ],
   "meetings": [
