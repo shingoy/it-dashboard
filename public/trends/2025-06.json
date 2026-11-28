@@ -2,155 +2,187 @@
   "month": "2025-06",
   "keywords": [
     {
-      "term": "図 ",
-      "count": 26
+      "term": "る ",
+      "count": 28
     },
     {
-      "term": "github",
-      "count": 26
+      "term": "こと",
+      "count": 25
     },
     {
-      "term": "ェー",
-      "count": 17
+      "term": "イル",
+      "count": 20
     },
     {
-      "term": "る必",
+      "term": "トリ",
+      "count": 18
+    },
+    {
+      "term": "ット",
+      "count": 16
+    },
+    {
+      "term": "に ",
       "count": 14
     },
     {
-      "term": "workflows",
+      "term": "ツー",
       "count": 14
     },
     {
-      "term": "ラン",
+      "term": "では",
+      "count": 14
+    },
+    {
+      "term": "イメ",
+      "count": 13
+    },
+    {
+      "term": "こで",
       "count": 12
     },
     {
-      "term": "情報",
-      "count": 12
-    },
-    {
-      "term": "ムの",
-      "count": 12
-    },
-    {
-      "term": "を取",
-      "count": 12
-    },
-    {
-      "term": "環境",
+      "term": "プラット",
       "count": 11
     },
     {
-      "term": "terraform",
-      "count": 11
-    },
-    {
-      "term": "ecr",
-      "count": 11
-    },
-    {
-      "term": "この",
-      "count": 11
-    },
-    {
-      "term": "ー ",
+      "term": "ブラ",
       "count": 10
     },
     {
-      "term": "定す",
+      "term": "理を",
       "count": 10
     },
     {
-      "term": "物の",
+      "term": "具体",
       "count": 10
     },
     {
-      "term": "し ",
+      "term": "10",
       "count": 10
     },
     {
-      "term": "provenance",
+      "term": "は ",
       "count": 10
     },
     {
-      "term": "セス",
-      "count": 10
+      "term": "いて",
+      "count": 9
     },
     {
-      "term": "場合",
-      "count": 10
+      "term": "ェア",
+      "count": 9
     },
     {
-      "term": "での実行",
+      "term": "git",
+      "count": 9
+    },
+    {
+      "term": "るが",
+      "count": 9
+    },
+    {
+      "term": "テム",
       "count": 8
     },
     {
-      "term": "定し",
+      "term": "有の",
       "count": 8
     },
     {
-      "term": "ている",
+      "term": "るそ",
       "count": 8
     },
     {
-      "term": "スの",
+      "term": "の構",
       "count": 8
     },
     {
-      "term": "ubuntu",
+      "term": "を実",
       "count": 8
+    },
+    {
+      "term": "が考",
+      "count": 8
+    },
+    {
+      "term": "commit",
+      "count": 8
+    },
+    {
+      "term": "ルを",
+      "count": 8
+    },
+    {
+      "term": "id",
+      "count": 8
+    },
+    {
+      "term": "キー",
+      "count": 7
     },
     {
       "term": "管理",
       "count": 7
     },
     {
-      "term": "フト",
+      "term": "内容",
       "count": 7
     },
     {
-      "term": "ジを",
+      "term": "によ",
       "count": 7
     },
     {
-      "term": "アッ",
+      "term": "定 ",
       "count": 7
     },
     {
-      "term": "など",
+      "term": "バイナリ",
       "count": 7
     },
     {
-      "term": "image",
+      "term": "の担",
       "count": 7
     },
     {
-      "term": "ットの保",
+      "term": "plan",
+      "count": 7
+    },
+    {
+      "term": "および",
+      "count": 7
+    },
+    {
+      "term": "name",
+      "count": 7
+    },
+    {
+      "term": "仕組",
+      "count": 7
+    },
+    {
+      "term": "の漏洩対",
       "count": 6
     },
     {
-      "term": "ード管理",
+      "term": "チの",
       "count": 6
     },
     {
-      "term": "漏洩",
+      "term": "ット情報",
       "count": 6
     },
     {
-      "term": "信頼性の",
+      "term": "を示",
       "count": 6
     },
     {
-      "term": "ウェ",
+      "term": "めに",
       "count": 6
     },
     {
-      "term": "ェア",
-      "count": 6
-    },
-    {
-      "term": "たt",
+      "term": "ージ",
       "count": 6
     },
     {
@@ -158,48 +190,16 @@
       "count": 6
     },
     {
-      "term": "にて",
+      "term": "要がある",
       "count": 6
     },
     {
-      "term": "らな",
+      "term": "ついては",
       "count": 6
     },
     {
-      "term": "性を",
+      "term": "合は",
       "count": 6
-    },
-    {
-      "term": "象と",
-      "count": 6
-    },
-    {
-      "term": "はパ",
-      "count": 6
-    },
-    {
-      "term": "要 ",
-      "count": 5
-    },
-    {
-      "term": "リオ",
-      "count": 5
-    },
-    {
-      "term": "よる",
-      "count": 5
-    },
-    {
-      "term": "する",
-      "count": 5
-    },
-    {
-      "term": "信頼でき",
-      "count": 5
-    },
-    {
-      "term": "内の",
-      "count": 5
     }
   ],
   "meetings": [
